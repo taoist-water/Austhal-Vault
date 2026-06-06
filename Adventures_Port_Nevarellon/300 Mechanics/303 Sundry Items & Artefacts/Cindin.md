@@ -1,0 +1,1 @@
+A Sticky resin like simple Narcotic. sailors and hard labourers will stuff a chunk of it in there bottom lip to shake of the dull ache of hard larbour, hangovers and the like.  those that can't afford much will stretch it out by dissolving smaller portions in weak ale to give the poor quality ale more flavour and stretch out the numbing, euphoric qualities

@@ -1,0 +1,189 @@
+# Region: The Silted Marshes
+#location/region #status/solid
+
+> "The Silt doesn't kill you with a blade. It kills you with a thousand biting flies, a fever that boils your brain, and a shifting mudbank that swallows your boots while you beg for a clean death." — Morgran the Abomination
+
+## 🗺️ Geography & Scope
+- **Bordering Areas:** [[000 Atlas/Port Nevarellon|Port Nevarellon]] & The Whispering Coast (North), [[100 Society/The Chalced Kingdom|The Chalced Kingdom]] (South), [[The Inner Sea|The Great Expanse]] (East).
+- **Terrain Type:** A vast, labyrinthine delta of suffocating, brackish waterways, sinking mudflats, and dense, rotting forests of weeping marsh-timber. There is virtually no solid ground; the earth is a spongy, treacherous mix of decaying vegetation and sucking silt.
+- **Climate & Weather Patterns:** Oppressively humid and stagnant. A heavy, foul-smelling fog clings to the water level, constantly obscuring the horizon. Sudden, torrential warm downpours can raise the water level by feet in minutes, completely erasing known landmarks and altering the flow of the rivers.
+
+## 🪵 Logistics & Travel (The Realism Anchor)
+- **Primary Routes:** There are no roads. Travel is strictly by water through "The Grey Veins"—the endlessly winding, identical-looking muddy channels. Navigating requires flat-bottomed skiffs, push-poles, and a local guide who can read the subtle currents.
+- **Travel Time to Port Nevarellon:** 4 to 7 days by skiff to the northern docks. Travel time is entirely unpredictable due to shifting sandbars and sudden localized fogs. Land travel by foot or horse is impossible; an armored man would drown in the mud within an hour.
+- **Hazards & Terrain Difficulties:** The geography actively lies to you. A river channel deep enough to hide a pirate galleon one week might become an impassable wall of sucking mud the next. Endemic hazards include marsh-fever (carried by dense swarms of biting midges), infected drinking water, and quick-silt pits that resemble solid moss.
+
+## 🪓 Resource & Industry
+- **Natural Resources:** The primary resource is "Iron-Burl," a dense, black marsh timber that is completely immune to sea-rot and barnacles. It is desperately prized by the shipwrights of the inner sea. The marshes also yield rare, toxic fungi used by the alchemical underground.
+- **Settlements/Points of Interest:**
+  - [[000 Atlas/Divtown|Divtown]] — *Smuggler's Shanty Town / Logging Outpost.* A derelict refuge built on stilts, populated by escaped slaves and the truly hopeless.
+  - [[000 Atlas/Grey Water Lagoon|Grey Water Lagoon]] — *Deep-Water Anchorage.* A hidden, unusually stable basin of deep water where pirate galleons drop anchor to fence stolen goods through Divtown.
+  - **The Sunken Causeway:** *Ruined Point of Interest.* The submerged, shattered remains of an ancient stone highway built by the old kings, now completely swallowed by the mud and serving only as a hazard that rips the hulls of unwary boats.
+
+## ⚔️ Power Dynamics & Threats
+- **Who Claims It:** The **Council of Five** nominally claims the northern estuaries, while the **Chalced Kingdom** claims the southern reaches. [[200 Cast/Lord Kelf Thorne|Lord Kelf Thorne]] claims the title of "Baron of the Silted Marshes."
+- **Who Actually Controls It:** Nature itself is the supreme authority. Locally, survival is dictated by [[200 Cast/Telorna Belaar|Telorna Belaar]] and her logging crews. Along the southern fringes, the true power lies with the heavily armed **"Retrievers"**—brutal bounty hunters sent north by the Chalced Kingdom to hunt down escaped slaves hiding in the muck.
+- **Notable Fauna / Predators:** 
+  - **Marsh-Stalkers:** Large, ambush-predator reptiles that lie submerged in the mud, mimicking rotting logs before striking.
+  - **Silt-Leeches:** Swarming, forearm-sized parasites that drop from the low-hanging canopy into passing boats.
+  - **The Lost (Feral Remnants):** Desperate travelers or escaped slaves who survived the marsh physically but lost their minds to the fever and the low-frequency god-shards buried in the deep mud, becoming violently territorial cannibals.
+
+# Region: The Five Duchies of the Whispering Coast
+#location/region #lore/politics #status/solid
+
+> "Five thrones carved the coast from the wild. Four remain standing, one rules an ossuary, and all of them watch the northern sky with fear." — High Captain Marco, The Golden Company
+
+---
+
+## 🏛️ Regional Overview
+Under the **Ducal Accord**, the five sovereign duchies represent the ancestral human bloodlines that originally tamed the land between [[000 Atlas/The Jagged Spine|The Jagged Spine]] and the [[000 Atlas/The Inner Sea| Inner Sea]]. While they surrendered control of the free city-state of [[000 Atlas/Port Nevarellon|Port Nevarellon]], they rule their own territories as absolute monarchs.
+
+---
+
+## 1. Duchy of De Vonce (The Iron Court)
+- **Terrain & Seat:** Rolling hills, heavily fortified stone keeps, and dense oak forests leading up to the foothills of the Spine. 
+- **Logistics & Economy:** The martial heart of the coast. They control the primary iron mines and timber mills that supply the shipyards of Port Nevarellon. 
+- **Realism Anchor:** They maintain the largest standing feudal levy. They are culturally rigid, hyper-militaristic, and deeply bitter that they must rely on the foreign mercenaries of **The Golden Company** to protect the central port rather than their own knights.
+
+## 2. Duchy of Aerthos (The Breadbasket)
+- **Terrain & Seat:** Vast, fertile river valleys and sprawling agricultural plains extending toward the eastern borders.
+- **Logistics & Economy:** Total monopoly over food production, grain silos, and livestock trade. Port Nevarellon would starve in a month without the flat-bottomed grain barges flowing down from Aerthos.
+- **Realism Anchor:** While wealthy, Aerthos has flat, open terrain that is incredibly difficult to defend. They are the most politically passive duchy, using their food monopoly as leverage to force the other duchies to guarantee their borders.
+
+## 3. Duchy of Valerius (The Gilded Coast)
+- **Terrain & Seat:** Sun-bleached coastal cliffs, salt flats, and shallow-water fishing bays.
+- **Logistics & Economy:** Maritime commerce, luxury wine vineyards, and massive salt-refining pans. They have the closest cultural and financial ties to the **[[Council of Five]]** in the city.
+- **Realism Anchor:** Valerius functions more like a corporate syndicate than a noble house. They rely heavily on synthetic debt bonds and indentured labor to harvest the salt flats, making them a frequent target for underground smuggling rings.
+
+## 4. Duchy of Stonereach (The High Shields)
+- **Terrain & Seat:** Treacherous mountain passes and sheer granite peaks along the north-eastern edge, bordering [[000 Atlas/The Ubaraz Kingdom|The Ubaraz Kingdom]].
+- **Logistics & Economy:** Granite quarrying, heavy masonry, and toll-keep control over the mountain trade roads.
+- **Realism Anchor:** Because of their proximity to the dwarven kingdom, Stonereach architecture relies heavily on imported dwarven structural engineering. Their people are isolated, survivalist, and hardened by the severe winters of the high altitude.
+
+---
+
+## 5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)
+- **Terrain & Seat:** Once a rich valley of black soil, dense pine, and ancient stone spires. Today, it is a blackened, ash-choked wasteland known as **The Corvus Scar**.
+
+### 💥 The Cataclysm (50 Years Ago)
+Five decades ago, a catastrophic breach in the god-frequencies occurred along the northern peaks, resulting in a violent, low-frequency **Demonic Incursion**. The sheer pressure of the entities entering the mortal plane caused a massive mountain spire in the Spine Mountains to physically collapse, burying the ancestral seat of House Corvus under millions of tons of shattered rock.
+
+### 🥖 Modern Aftermath & Realism Logistics
+- **The Ash-Blight:** The collapse of the spire released a localized, lingering atmospheric shroud of low-frequency alchemical soot. The soil in Corvus is dead; nothing grows, and the water streams run black with acidic sulfur.
+- **The Refugee Crisis:** Fifty years later, the displaced populations of Corvus still form the desperate, impoverished underclass living in **The Sunken Ward** and **The Muddy Docks** of Port Nevarellon. 
+- **The Shattered Power Balance:** House Corvus is functionally extinct. The remaining four duchies have spent the last fifty years in a cold war, quietly pushing their borders inward to annex the edges of the un-scarred farmlands left behind, while their border guards nervously watch the corrupted valleys for signs of the low frequencies stirring again.
+
+# Region: The Great Expanse (The Inner Sea)
+#location/region #status/solid
+
+> "The Expanse gives with one hand and takes with the other. She breeds monsters in her deep trenches, but shelters our ships with her barrier bones." — Captain Tessa, Leviathan Hunter
+
+---
+
+## 🗺️ Geography & Scope
+- **Bordering Areas:** [[000 Atlas/Port Nevarellon|Port Nevarellon]] (West), [[000 Atlas/The Five Duchies of the Whispering Coast|The Whispering Coast]] (West), The Broken Ocean (East, beyond the barrier islands).
+- **Terrain Type:** A vast, shallow-water inner sea. The far eastern boundary is defined by **The Shield Atolls**—a long, protective crescent string of volcanic islands, low-lying coral atolls, and shallow sandbars that completely shelter the inner basin from the cataclysmic open ocean storms of the Void.
+- **Climate & Weather Patterns:** The inner basin remains remarkably calm and glassy for most of the year, enabling easy trade up and down the coast. However, during the deep **Winter Moons**, freezing winds sweep down from [[000 Atlas/The Jagged Spine|The Jagged Spine]], bringing heavy, blinding maritime sleet and sudden, violent chop to the northern waters.
+
+---
+
+## 🪵 Logistics & Travel (The Realism Anchor)
+- **Primary Routes:** 
+  - **The Coastal Meridian:** The primary sea-lane running parallel to the mainland coast, completely clear of shoals.
+  - **The Atoll Shallows:** A treacherous network of narrow, shifting deep-water channels cutting through the eastern barrier islands.
+- **Travel Time to Port Nevarellon:** 
+  - From the mainland coast: 4 to 12 hours by standard merchant galley, depending on coastal winds.
+  - From the northern hunting township: 2 to 3 days sailing south-southwest under full canvas.
+- **Hazards & Terrain Difficulties:** 
+  - **The Sunken Ribs:** A massive stretch of shallow coral reefs near the central atolls that can rip the hull out of deep-draft vessels if they lack a local [[100 Society/The Iron-Anchor Syndicate|Syndicate guide-boat]].
+  - **Void-Currents:** Near the easternmost islands, the water behaves erratically, pulling toward unmapped rifts where the ocean shelf drops into the infinite abyss beneath the Disk.
+
+---
+
+## 🪓 Resource & Industry
+- **Natural Resources:** Blubber oil (used for heating and machinery across Austhal), ambergris (a highly prized alchemical fixative for street lanterns), salted cod, sea-salt, and pristine black volcanic glass (obsidian) harvested from the southern atolls.
+- **Settlements/Points of Interest:**
+  - [[000 Atlas/Oakhaven Cove|Oakhaven Cove]] — *The Great Northern Township.* Located on the largest, northernmost shield island, built inside a high-walled, sheltered volcanic crater. It serves as the master port for the heavy, deep-sea monster-hunting fleets.
+  - [[000 Atlas/The Shield Atolls|The Shield Atolls]] — *Sparsely populated micro-communities.* Dozens of tiny, isolated fishing villages made up of mixed mortal races (Humans, Halflings, and coastal Elves) living in stilt-houses built over the warm reefs.
+  - [[000 Atlas/The Broken Spires|The Broken Spires]] — *Point of Interest.* A submerged ridge of petrified stone spires that match the architecture of the collapsed [[000 Atlas/The Five Duchies of the Whispering Coast#5. The Scarred Land: Duchy of Corvus (The Fallen Crown)|Corvus Spire]], hinting that the ancient demonic incursion tore straight out into the sea.
+
+---
+
+## ⚔️ Power Dynamics & Threats
+- **Who Claims It:** The **Council of Five** in Port Nevarellon claims legal authority over all commercial shipping and trade taxation within the inner sea basin.
+- **Who Actually Controls It:** 
+  - **The Inner Basin:** Shared control between independent merchant cartels and [[100 Society/The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] (who run protection rackets on the coastal lanes).
+  - **The Shield Islands:** Entirely self-governed by the local captains and village elders. The law of the islands is dictated by maritime necessity—the Golden Company has no standing army here.
+- **Notable Fauna / Predators:** 
+  - **Grounded Threats:** Reef-drakes and giant barnacle-mimics that latch onto wooden hulls to rot the timber.
+  - **The Leviathans:** Massive, prehistoric, low-frequency monstrous sea creatures that drift up from the abyssal trenches of the outer ocean. Some are heavily armored, requiring specialized harpoon ballistas and alchemical explosives to kill.
+
+       [ THE OPEN OCEAN / THE VOID ]
+                   | 
+        (Cataclysmic Storms & Leviathans)
+                   |
+===== [ THE SHIELD ATOLLS / OAKHAVEN COVE ] ===== <-- Barrier Islands 
+                    |
+          ( The Calm, Protected Basin)
+                    | 
+     [ THE GREAT EXPANSE / INNER SEA ]
+                    |
+      [ PORT NEVARELLON & THE COAST ]
+
+# Settlement: Divtown
+#location/settlement #status/solid
+
+> "They call it the Baron's court, but it's just a pile of rot-wood and runaway slaves laundering pirate coin. The only thing keeping the Golden Company from burning it down is the fact that their ships need Divtown timber to float." — Quartermaster of the Watch
+
+## 📊 City Profile
+- **Type:** Smuggler's Shanty Town / Logging Outpost
+- **Estimated Population:** ~800 permanent residents (fluctuates with pirate crews).
+- **Governance:** Autocratic Syndicate / Feudal Facade, ruled by [[200 Cast/Lord Kelf Thorne|Lord Kelf Thorne]].
+- **Primary Export:** Rot-resistant marsh timber, and "legitimately salvaged" pirate cargo.
+- **Regional Location:** [[000 Atlas/The Silted Marshes|The Silted Marshes]]
+
+## 🪵 Urban Infrastructure & Logistics
+- **Architecture:** A chaotic, derelict sprawl of shanties, stilt-houses, and rope bridges suspended above the brackish, sucking mud of the marshes. It is constantly sinking and being rebuilt.
+- **Access & Navigation:** Divtown is incredibly difficult to reach by land or sea. The labyrinthine waterways are choked with constantly shifting sandbars. To reach the town, one must hire local fisher-folk from the mouth of the marsh, or seek out a specific, cursed dwarven guide residing in [[000 Atlas/Oakhaven Cove|Oakhaven]].
+- **Neighboring Locations:** Directly borders the [[000 Atlas/Grey Water Lagoon|Grey Water Lagoon]], a deep-water blind spot hidden from the Golden Company where pirate galleons drop anchor.
+
+## ⚖️ Society & The Syndicate Economy
+- **The Demographics:** The town is populated almost entirely by people too impoverished to survive Port Nevarellon's rigid, debt-based class system, alongside a large population of hardened, escaped slaves who fled north from the southern [[100 Society/The Chalced Kingdom|Chalced Kingdom]]. 
+- **The Syndicate Economy:** The town operates as a massive fencing operation. Pirates from the Grey Water Lagoon unload stolen goods here. Because Kelf Thorne still technically holds a noble seal, he signs off on the stolen goods as "legitimate marsh salvage" and sells it to the inner sea markets at a premium. 
+- **The Timber Trade:** The legitimate front of Divtown is the harvesting of a rare, dense marsh timber that is completely immune to sea-rot and barnacles. Shipwrights across the Whispering Coast are forced to tolerate Divtown's criminality because they desperately need this wood.
+
+# Sub-Location: Grey Water Lagoon
+#location/structure #status/solid
+
+> "The Golden Company maps say the water here is two feet deep. But if you know the exact line through the weeping trees, the bottom drops out into a black abyss deep enough to swallow three war-galleons mast-to-keel." — Morgran the Abomination
+
+## 📊 Quick Reference
+- **Type of Establishment:** Hidden Deep-Water Anchorage & Pirate Haven
+- **District / Region:** [[000 Atlas/Silted Marshes|The Silted Marshes]] (Directly adjacent to [[000 Atlas/Divtown|Divtown]])
+- **Owner / Proprietor:** Officially unclaimed; practically governed by a tense truce between the local pirate captains and [[200 Cast/Lord Kelf Thorne|Lord Kelf Thorne]].
+- **Affiliation / Protection:** The Grey Water Pirates (An informal coalition of independent smugglers and privateers).
+
+## 🪵 Architecture & Geography
+- **The Natural Basin:** The lagoon is a geological anomaly—a massive, submerged sinkhole in the marsh bedrock. While the surrounding swamp is waist-deep muck, the lagoon drops into a sheer, black abyss. 
+- **The Canopy:** The basin is entirely ringed and covered by ancient, towering Iron-Burl trees. Their weeping, moss-draped branches interlock a hundred feet in the air, creating a natural ceiling that completely hides the moored ships from aerial or coastal spyglasses.
+- **The Floating Camp:** There are no stone docks. Instead, ships lash themselves together, forming a massive, shifting raft of hulls. A chaotic network of rope bridges, floating timber pontoons, and submerged boardwalks connects the moored ships directly to the muddy banks of Divtown.
+
+## 🦪 Sensory Details & Atmosphere
+- **Smells:** The overwhelming stench of low-tide marsh gas mixed with the sharp, acidic tang of hot ship's tar, spilled rum, and the metallic scent of blood from freshly gutted deep-sea catches.
+- **Sounds:** The constant, eerie creaking of heavy timber rubbing together as the ships shift on the stagnant water. The raucous, echo-dampened shouts of sailors gambling on the decks, constantly underscored by the maddening drone of marsh insects.
+- **Lighting:** Perpetual twilight. The thick canopy blocks the sun almost completely. The area is lit by shuttered, low-burning alchemical lanterns and green-glass lamps that cast sickly, elongated shadows across the water. Open flame is strictly forbidden due to the explosive marsh gas.
+
+## 💰 Economics & Clientele
+- **Regular Patrons:** Rogue merchantmen, mutinous naval crews, smugglers running contraband into [[The Inner Sea|The Inner Sea]], and buyers from the [[100 Society/The Iron-Anchor Syndicate|Iron-Anchor Syndicate]] looking to bypass Port Nevarellon's tariffs.
+- **Primary Income:** The lagoon is the ultimate fencing floor. Pirates offload stolen silks, spices, and Imperial gold. In return, they buy the only thing they can't steal on the open ocean: fresh water, safe harbor, and repairs using Divtown's rot-resistant timber.
+- **The Washing of the Coin:** Goods are offloaded here, logged by [[200 Cast/Telorna Belaar|Telorna Belaar]], stamped with Lord Thorne's noble seal as "legally salvaged marsh-wreckage," and then rowed north into the city as legitimate merchandise.
+
+## ⚔️ Security & Defense
+- **The Navigational Shield:** The lagoon's primary defense is the impossibility of finding it. A warship attempting to navigate the mud-choked channels without a guide like [[200 Cast/Morgran the Abomination|Morgran]] will rip its hull open on submerged roots miles before reaching the basin.
+- **The Iron Boom:** A massive, rusted iron chain lies submerged across the only navigable entry channel. It is attached to two massive manual winches hidden in the trees. If a Golden Company cutter is spotted, the chain is cranked taut, instantly shearing the bow off the intruding ship.
+- **Canopy Snipers:** The upper branches of the Iron-Burl trees are fitted with camouflaged sniper nests. Hardened Chalced slave-escapees armed with heavy crossbows keep overwatch on the decks below to ensure the pirate crews don't start slaughtering each other.
+
+## 👥 Notable NPCs Present
+- [[200 Cast/Captain Vesper Locke|Captain Vesper "Red-Wake" Locke]] — *Captain of the 'Carrion Crow'. The unofficial speaker for the pirate crews, currently negotiating repair costs.*
+- [[200 Cast/Telorna Belaar|Telorna Belaar]] — *Frequent Visitor. She stands on the pontoons with a ledger, calculating the exact exchange rate of stolen spices for raw timber.*
+- [[200 Cast/Morgran the Abomination|Morgran the Abomination]] — *The only pilot trusted to guide the heavy galleons through the shifting mud-veins into the lagoon.*

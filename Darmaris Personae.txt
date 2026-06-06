@@ -1,0 +1,316 @@
+# Faction: The Iron-Anchor Syndicate
+#faction/underground #status/solid
+
+> "The City Watch keeps the peace in the plazas, but the Syndicate keeps the ships moving. Displace them, and the whole port starves in a fortnight." — Councilman Henderson
+
+## 🏛️ Overview
+- **Type:** Maritime Smuggling Ring / Extortion Syndicate / Labor Cartel
+- **Headquarters:** [[000 Atlas/The Black Mast Warehouse|The Black Mast Warehouse]] (Located in the deep recess of the northern wharf)
+- **Current Leader:** [[200 Cast/Garrick the Keelhauler|Garrick the Keelhauler]]]
+- **Primary Influence:** Absolute control over [[000 Atlas/The Muddy Docks|The Muddy Docks]] and the outer shipping lanes; deep financial tendrils inside the city's merchant guilds.
+
+## 💰 Logistics & Economics (The Realism Anchor)
+- **Sources of Income:**
+  - **"The Anchor Tax":** A mandatory protection fee levied on every independent merchant vessel docking in the lower slips.
+  - **Labor Monopoly:** Total control over the Stevedores & Dockworkers Union. If a ship captain refuses to pay, their cargo is left to rot on deck.
+  - **Alchemical Fencing:** Smuggling raw, unstable mineral components like [[300 Mechanics/Sun-Iron|Sun-Iron]] out of the mountains to unlicensed alchemists in the city.
+- **Expenses & Upkeep:**
+  - Massive monthly bribes to high-ranking captains of [[100 Society/The City Watch|The Blue-Cloak Watch]] to look the other way.
+  - Wages for roughly 300 "Enforcers" (grizzled sailors, thuggish dock hands, and crossbowmen).
+  - Maintenance on a fleet of six low-profile, fast-moving coastal cutters used for nighttime off-loading.
+- **Primary Assets:** Key drydocks, waterfront warehouses with hidden tidal cellars, and a vast network of debt ledgers holding leverage over local politicians.
+
+## ⚖️ Leverage & Power Dynamics
+- **Political Leverage:** They deliberately keep the docks functional. By suppressing petty street crime and ensuring foreign cargo is unloaded efficiently, they keep the city's trade economy stable. The ruling elite tolerate them because the alternative—unorganized chaos and dock strikes—would bankrupt the city.
+- **Monopoly / Unique Value:** They control the pilot-boats. The entrance to Port Nevarellon's harbor is a treacherous maze of jagged shoals. Without a Syndicate guide-boat to lead large merchant ships in, foreign vessels face catastrophic shipwrecks.
+- **Vulnerabilities:** Heavy reliance on food imports. If a rival power or an honest military faction blockaded the landward gates of the city, the Syndicate's baseline street muscle would starve and riot within weeks.
+
+## ⚡ Internal Friction & Conflict
+- **Internal Factions:** A growing rift exists between the *Old Guard* (who want to stick to traditional smuggling and protection) and the *Young Bloods* led by [[200 Cast/Silas Bane|Silas Bane]], who wants to violently challenge [[100 Society/The High Alchemist Guild|The High Alchemist Guild]] for control of the bioluminescent lighting monopoly.
+- **External Rivals:** [[100 Society/The Tidespoken Clergy|The Tidespoken Clergy]] (who actively undermine Syndicate recruitment by feeding and protecting the poorest dockworkers).
+- **Public Perception:** Feared by the merchants, loathed by the nobility, but viewed by many impoverished dockworkers as a necessary shield against the tyrannical taxes of the city's crown.
+
+## 👥 Notable Members
+- [[200 Cast/Garrick the Keelhauler|Garrick the Keelhauler]] — *The Grandmaster. A ruthless but pragmatic former privateer.*
+- [[200 Cast/Silas Bane|Silas Bane]] — *Enforcer Captain. Ambitious, volatile, and heavily invested in alchemical weapons.*
+- [[200 Cast/Maeve the Scribe|Maeve the Scribe]] — *The Bookkeeper. A brilliant woman who tracks the bribes and smuggling manifests from a hidden office in [[000 Atlas/The Drowned Rat Tavern|The Drowned Rat Tavern]].*
+
+
+# Characters: The Dolly Sisters
+#cast/active #status/solid
+
+> "Clara will recount your coin down to the half-copper, and Tessa will recount your sins down to the exact hour you committed them." — Overheard at the slips
+
+## 📊 Vital Statistics
+- **Names:** Clara Dolly & Tessa Dolly
+- **Current Occupation:** Proprietors of [[000 Atlas/The Shades|The Shades]] brothel and underground informational brokers.
+- **Social Class / Standing:** Respected Lower-Class Entrepreneurs / Untouchable Dockland Fixtures.
+- **Primary Residence:** Private upper-cabin quarters aboard [[000 Atlas/The Shades|The Shades]], The Muddy Docks.
+- **Affiliations:** [[100 Society/The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] (Financial partners); secretly linked to elements in [[000 Atlas/The High Quarter|The High Quarter]].
+
+---
+
+## 🏛️ Clara Dolly (The Business)
+### ⚖️ Realism & Physicality 
+- **Age & Vitality:** 42 years old. She carries herself with severe, rigid posture. The salt air has hardened her skin, and she suffers from chronic rheumatism in her right hand, causing her to constantly massage her knuckles. 
+- **Financial Status:** Exceptionally wealthy in liquid coin, though she hides it aggressively. She dresses in plain, dark-dyed woolens to avoid attracting the attention of thieves on the boardwalks.
+- **Equipment:** Carries a heavy ring of iron keys pinned to her hip and a small, razor-sharp ledger-knife tucked into her sleeve. 
+### 🧠 Psychology & Drive 
+- **Immediate Goal:** Secure a cheaper supply of fresh water for her staff; the current municipal water-tax is eating too deep into their weekly margins.
+- **The Core Fear:** A structural collapse of the old ship hull during the winter storm surges, which would drop her iron coin vaults into the harbor silt.
+- **Moral Compromises:** She regularly blackmails mid-level merchants using details her hostesses gather, viewing it as a simple cost of doing business. 
+
+
+
+## 🏛️ Tessa Dolly (The Eyes & Ears)
+### ⚖️ Realism & Physicality 
+- **Age & Vitality:** 38 years old. Soft-spoken, sharp-eyed, and far more expressive than her sister. She smokes a cheap, bitter pipe-weed constantly to mask the damp stench of the bilge below. 
+- **Financial Status:** Keeps no personal coin; all her earnings go straight into Clara's centralized vault. She measures her wealth entirely in leverage and secrets. 
+- **Equipment:** A silver pocket-watch (a gift from a foreign captain) that runs four minutes slow, and a small vial of powdered [[300 Mechanics/Nightshade|nightshade]] concealed in a hollow ring. 
+### 🧠 Psychology & Drive 
+- **Immediate Goal:** Keep [[200 Cast/Silas Bane|Silas Bane]] from starting a turf war with the Alchemists inside her lounge; dead enforcers ruin the upholstery and bring the Watch. 
+- **The Core Fear:** Being exposed by the Syndicate as an independent broker. If [[200 Cast/Garrick the Keelhauler|Garrick]] realizes how much information she sells *outside* the gang, she will end up in the mud. 
+- **Moral Compromises:** She purposefully plies young, naive sailors with spiked wine to extract cargo manifests and shipping timetables. 
+- 
+## 🤫 Shared Backstory & The Core Secret 
+Originally from the squalid farming villages outside the city, the sisters arrived in Port Nevarellon twenty years ago with nothing. They survived by converting a derelict ship hull into the port's most secure lounge.
+### 💎 The Black Ledger (The Vault Secret) 
+The sisters do not just collect secrets for survival—they are running a massive extortion ring against the city's elite. Hidden behind a false bulkhead in their private cabin is a leather-bound journal written in Clara's precise code. It contains the names of several prominent nobles from **The High Quarter** who are secretly financing illegal smuggling operations through **The Iron-Anchor Syndicate** to avoid paying the [[Council of Five]]'s maritime tariffs. This ledger is their ultimate life insurance policy; if either sister is murdered, a designated courier has instructions to drop the journal directly on the steps of the High Court. 
+## 🔗 Connected Notes 
+- **Primary Creditor / Protector:** [[100 Society/The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] 
+- **Frequent Conspirators:** [[200 Cast/Maeve the Scribe|Maeve the Scribe]] (Who helps translate the shipping codes)
+- **Local Muscle:** [[200 Cast/Bruiser Ben|Bruiser Ben]] (Their fiercely loyal doorman)
+
+
+# Character: Garrick "The Keelhauler"
+#cast/active #status/solid
+
+> "A pirate hangs from the gibbet because he wants to steal a ship. Garrick dines on silver plate because he chose to buy the harbor." — Archon Sterling, High Quarter Court
+
+## 📊 Vital Statistics
+- **Full Name / Aliases:** Garrick Vance / "The Keelhauler" (A moniker from his mutinous privateer days that he now finds unrefined but useful for intimidation).
+- **Current Occupation:** Grandmaster of [[100 Society/The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] / Unofficial Magistrate of the Waterfront.
+- **Social Class / Standing:** Gilded Criminal / Industrial Oligarch.
+- **Primary Residence:** The Captain's Cabin, a reinforced upper suite within [[000 Atlas/The Black Mast Warehouse|The Black Mast Warehouse]].
+- **Affiliations:** [[100 Society/The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] (Supreme Leader); covertly linked to several members of [[000 Atlas/The High Quarter|The High Quarter]].
+
+## ⚖️ Realism & Physicality
+- **Age & Vitality:** 56 years old. His hair is the color of sea-foam, cropped short. Decades of exposure to salt, wind, and cheap rum have left his face deeply lined and leathery. He moves with a slow, deliberate gait that betrays severe osteoarthritis in his hips.
+- **Physical Flaws / Limitations:** His left leg was crushed by a shifting cargo cannon twenty years ago; it healed poorly, leaving him with a pronounced limp that requires a heavy, iron-shod ash cane. He cannot sprint, and his left eye is clouded with a milky cataract, ruining his peripheral vision on that side.
+- **Financial Status:** Imbued with immense, hidden wealth. He hoards foreign gold specie, title deeds to mainland farmland (his ultimate exit strategy), and high-grade alchemical contracts. He could buy a noble title tomorrow, but knows he would be assassinated within a week if he left his power base.
+- **Equipment & Upkeep:** Dresses in bespoke, thick wool coats with tarnished silver buttons—practical for the damp cold of the docks, yet distinct from common deckhands. Carries a heavy, double-barreled flintlock pistol loaded with buckshot (reliable at short range where his vision fails) and his signature iron-capped cane.
+
+## 🧠 Psychology & Drive
+- **Immediate Goal:** Suppress the insubordination of his captain, [[200 Cast/Silas Bane|Silas Bane]], without starting a loud, bloody street war that would force the City Watch to crack down on the docks.
+- **The Core Fear:** Becoming obsolete. He knows that if the city ever builds a freshwater river pipeline or bridges the shoals, his monopoly on harbor pilots and water distribution evaporates, and the Syndicate falls with it.
+- **Moral Compromises:** Garrick views human life strictly as fuel for commerce. He has personally authorized the press-ganging of hundreds of vagrants, signed off on the systematic drowning of competitors, and maintains a ledger of synthetic debts to keep thousands of dockworkers bonded to his slips.
+
+## 📜 Backstory & Current Role
+Garrick began as a third-mate on an empire trade galley. When the crew mutinied against a tyrannical captain, Garrick didn't join the slaughter out of passion; he did it because he calculated that the ship's cargo of spices was worth more on the black market than ten years of navy wages. 
+
+He didn't stay a pirate long. Recognizing that the men who sell the powder and buy the plunder make the real profit, he settled in Port Nevarellon. Over twenty years, he systematically  murdered, bribed, or consolidated the disparate boardwalk gangs into a single, corporate criminal entity: the Iron-Anchor Syndicate.
+
+## 🤫 Current Conflict: The Shaking Anchor
+Garrick’s greatest struggle is age. His body is failing, and his pragmatism is being misread as weakness by the younger generation. He spends more time analyzing trade sheets and balancing bribe ledgers than cracking skulls. He knows [[200 Cast/Silas Bane|Silas]] wants his seat, but Garrick is playing a longer game—he is currently negotiating with certain corrupt nobles to fully legitimize the Syndicate into an official "Maritime Logistics Guild," which would permanently shield his wealth under royal law.
+
+## 🔗 Connected Notes
+- **Subordinate / Threat:** [[200 Cast/Silas Bane|Silas Bane]] (Enforcer Captain plotting his removal)
+- **Primary Financial Advisor:** [[200 Cast/Maeve the Scribe|Maeve the Scribe]] (The only person allowed to see his true ledger files)
+- **Covert Partners:** [[200 Cast/The Dolly Sisters|The Dolly Sisters]] (He pays them for intelligence, completely unaware that they hold his secrets in their Black Ledger)
+- **Command Center:** [[000 Atlas/The Black Mast Warehouse|The Black Mast Warehouse]]
+
+
+
+# Character: Silas Bane
+#cast/active #status/solid
+
+> "Garrick wants to die an old man with a full ledger and a clean coat. I want the city to look at the docks and know that if they don't bow, we cut off their light." — Silas Bane
+
+## 📊 Vital Statistics
+- **Full Name / Aliases:** Silas Bane / "The Smoker" (Due to the lingering scent of sulfur and chemical reagents that follows him).
+- **Current Occupation:** Enforcer Captain of [[100 Society/The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] / Controller of the Lower Slip Rackets.
+- **Social Class / Standing:** Aggressive Street Aristocrat / Underworld Warlord.
+- **Primary Residence:** A heavily guarded suite above the fighting pits at [[000 Atlas/The Rusty Anchor Foundry|The Rusty Anchor Foundry]].
+- **Affiliations:** [[100 Society/The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] (Faction Leader of the Young Bloods); covert buyer from rogue members of [[100 Society/The High Alchemist Guild|The High Alchemist Guild]].
+
+## ⚖️ Realism & Physicality
+- **Age & Vitality:** 29 years old. Tall, broad-shouldered, and radiating an erratic, nervous energy. Unlike Garrick's slow deliberation, Silas moves with explosive, twitchy speed—a side-effect of chronic exposure to alchemical vapors.
+- **Physical Flaws / Limitations:** His forearms and neck are permanently scarred with chemical chemical burns from a laboratory accident five years ago. He suffers from a recurring, dry alchemical cough that hacks up grey phlegm, and his fingers twitch rhythmically when he is forced to sit still for too long.
+- **Financial Status:** Wealthy in terms of short-term liquid silver, which he spends recklessly on fine silk vests (deliberately shredded at the sleeves to show his scars), custom weaponry, and bribes to young dockhands. He keeps zero long-term investments or property deeds; his wealth is recycled directly into muscle and armaments.
+- **Equipment & Upkeep:** Carries a custom, heavy-bladed boarding cutlass with a reinforced brass basket hilt. Hidden inside his coat are two volatile glass spheres filled with concentrated **Brine-Fire** (an unstable alchemical gel that ignites upon contact with salt water)—a dangerous, illegal weapon he procured through the black market.
+
+## 🧠 Psychology & Drive
+- **Immediate Goal:** Seize absolute control of the **Bioluminescent Lantern Monopolies** in the lower districts, weaponizing the resource against the upper city.
+- **The Core Fear:** Being trapped beneath a ceiling. Silas despises the idea of a slow, pragmatic transition into "legitimacy." He genuinely believes that if the Syndicate tries to become a legal guild under the crown, the nobles will strip them of their true power and executioner's edge.
+- **Moral Compromises:** Completely unhinged by cruelty. Where Garrick uses violence as a precise ledger correction, Silas uses it as performance art. He has ordered public flayings on the boardwalks, used experimental chemical agents on debtors, and treats his own street muscle as entirely disposable resources.
+
+## 📜 Backstory & The Coup Strategy
+Silas was born in the flooded alleys of [[000 Atlas/The Sunken Ward|The Sunken Ward]]. He climbed the ranks of the Syndicate by being the only enforcer crazy enough to board foreign warships to seize cargo. Garrick took him in as a blunt instrument, miscalculating that the boy's lack of macro-economic understanding would keep him subservient. 
+
+Instead, Silas realized that muscle beats ledgers if you control the tools of destruction. 
+
+### ⚙️ The Plan to Overthrow Garrick
+Silas recognizes he cannot beat Garrick in a traditional corporate vote or political bribe war. His strategy relies on systemic destabilization:
+
+1. **The Alchemical Monopoly:** Silas is secretly funding a rogue cell of alchemists to manufacture synthetic, concentrated bioluminescent fluid. He intends to sabotage the city's official supply lines, plunge the lower districts into total darkness, and then step forward as the *only* provider of light—forcing the Council to recognize his personal terms.
+2. **The Scribe's Leverage:** Silas knows that [[200 Cast/Maeve the Scribe|Maeve]] holds Garrick's true financial ledgers. He is currently orchestrating a plan to kidnap or compromise Maeve, forcing her to alter the bribe records to make it look like Garrick is embezzling from his own ship captains.
+3. **The Direct Strike:** Once the dock captains are rioting over the fake records and the lower districts are dark, Silas intends to use his Brine-Fire spheres to burn down [[000 Atlas/The Black Mast Warehouse|The Black Mast Warehouse]] with Garrick inside it, framing it as an accident caused by high-tide storms.
+
+## 🔗 Connected Notes
+- **The Target:** [[200 Cast/Garrick the Keelhauler|Garrick the Keelhauler]] (The obstacle to his absolute rule)
+- **The Leverage Point:** [[200 Cast/Maeve the Scribe|Maeve the Scribe]] (Whose skills he needs but whose loyalty he doubts)
+- **Frequent Lounge:** [[000 Atlas/The Shades|The Shades]] (Where he constantly tries to recruit hostesses to spy on Clara Dolly's high-quarter clients)
+- **Base of Operations:** [[000 Atlas/The Rusty Anchor Foundry|The Rusty Anchor Foundry]]
+
+# Character: Maeve the Scribe
+#cast/active #status/solid
+
+> "Garrick bought my freedom, but Silas bought the guards at my front door. I don't balance loyalty; I balance survival." — Maeve Vance (The Scribe)
+
+## 📊 Vital Statistics
+- **Full Name / Aliases:** Maeve Vance / "The Ledger-Witch" (A name whispered by superstitious dock hands who don't understand how she tracks thousands of barrels across fifty ships by memory).
+- **Current Occupation:** Chief Accountant, Auditor, and Cryptographer for [[100 Society/The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]].
+- **Social Class / Standing:** Educated Lower Class / Critical Underworld Asset.
+- **Primary Residence:** A secure, windowless loft apartment directly above the vault room in [[000 Atlas/The Black Mast Warehouse|The Black Mast Warehouse]].
+- **Affiliations:** [[100 Society/The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] (Directly bound to Garrick); covert ally to [[200 Cast/The Dolly Sisters|The Dolly Sisters]].
+
+## ⚖️ Realism & Physicality
+- **Age & Vitality:** 31 years old. Extremely pale from spending fourteen hours a day beneath sputtering tallow candles and dim bioluminescent globes. Her posture is slightly slouched from a decade of bending over heavy parchment ledgers.
+- **Physical Flaws / Limitations:** Severely nearsighted; she requires a pair of rare, thick-lensed alchemical spectacles imported from the mainland to read fine script. Without them, she is virtually blind beyond an arm's length. Her fingers are permanently stained with deep black indelible gall-ink.
+- **Financial Status:** Paid exceptionally well by Garrick, though her wealth is purely abstract—she has a massive "credit ledger" with the city's banks, but rarely leaves the warehouse to spend a single copper. Her true wealth lies in her ownership of the encrypted keys to every smuggling route on the coast.
+- **Equipment & Upkeep:** Carries a custom leather writing kit containing varying grades of iron-gall ink, vellum scraping knives, and wax seals. Tucked into her bodice is a tiny, double-barreled brass derringer (loaded with lead balls)—useless at range, but meant for a last-resort desk ambush.
+
+## 🧠 Psychology & Drive
+- **Immediate Goal:** Keep the true financial bribe ledgers hidden from [[200 Cast/Silas Bane|Silas Bane]] while subtly falsifying just enough low-level manifest data to keep him from realizing she is stalling.
+- **The Core Fear:** Being blinded or having her hands broken. She knows her entire value to the world is her mind and her eyes. If she is physically ruined, neither Garrick nor Silas will have any use for her, and her life will be forfeit.
+- **Moral Compromises:** She actively doctors the death tolls and cargo loss reports of press-ganged workers, transforming human tragedies into clean, dry "operational deficits" to preserve the Syndicate's bottom line.
+
+## 📜 Backstory & The Survival Rope
+Maeve was born the illegitimate daughter of a disgraced high-quarter clerk. She inherited her father's mathematical mind but none of his status. After being arrested at age eighteen for forging merchant tax exemptions, [[200 Cast/Garrick the Keelhauler|Garrick]] recognized her genius, paid her massive execution bounty, and brought her to the docks to professionalize his disorganized extortion racket. For over a decade, she has been Garrick's shadow executive.
+
+### ⚖️ The Balancing Act: Garrick vs. Silas
+Maeve is currently trapped in a lethal vice:
+
+*   **The Debt to Garrick:** She harbors a genuine, pragmatic loyalty to Garrick. He treats her with professional respect, keeps her safe, and pays her a premium. She knows that under Garrick's plan to legitimize into a legal guild, she would become a respected corporate treasurer.
+*   **The Threat from Silas:** Silas has been subtly cornering her. He recently placed two of his own "Young Blood" enforcers as her permanent bodyguards outside her loft, ostensibly for her protection, but in reality, they are her jailers. Silas has made it terrifyingly clear: when the coup happens, she either hands over the modified ledger books to ruin Garrick's reputation, or her throat is cut.
+*   **The Counter-Move:** To survive, Maeve has entered a secret pact with [[200 Cast/The Dolly Sisters|The Dolly Sisters]]. She is covertly passing duplicates of the Syndicate's most damning political secrets to Clara Dolly. If Silas kills her, Clara will release the *Black Ledger*, ensuring that the City Watch is forced to execute Silas and the entire Young Blood faction.
+
+## 🔗 Connected Notes
+- **The Patron:** [[200 Cast/Garrick the Keelhauler|Garrick the Keelhauler]] (Whose vision she supports but whose physical decline terrifies her)
+- **The Threat:** [[200 Cast/Silas Bane|Silas Bane]] (Who holds her at blade-point for the records)
+- **The Insurance Policy:** [[200 Cast/The Dolly Sisters|The Dolly Sisters]] (Her secret escape hatch)
+- **Working Station:** [[000 Atlas/The Black Mast Warehouse|The Black Mast Warehouse]]
+
+
+# Character: Tythius De Vonce
+#cast/active #status/draft
+
+> "The Duke stands as rigid as his keeps. He counts his life by the human kings he outlived, and he views the Council of Five as nothing more than low-born shopkeepers playing with stolen crowns." — Master Scribe Vaelen
+
+## 📊 Vital Statistics
+- **Full Name / Aliases:** Tythius De Vonce / "The Iron Duke" / "The Old Oak"
+- **Current Occupation:** Sovereign Duke of [[000 Atlas/The Five Duchies of the Whispering Coast#1. Duchy of De Vonce (The Iron Court)|The Duchy of De Vonce]]
+- **Social Class / Standing:** High Nobility / Senior Signatory of the Ducal Accord
+- **Primary Residence:** [[000 Atlas/Castle Iron-Spire| Castle Iron-Spire]], Ancestral Seat of House De Vonce, northern foothills.
+- **Affiliations:** House De Vonce (Patriarch); The Ducal Accord (Reluctant Protector).
+
+## ⚖️ Realism & Physicality
+- **Age & Vitality:** Half-Elf, 86 years old. Due to his elven heritage, he possesses the physical vitality of a human in his late 40s. He is exceptionally healthy, mentally sharp, and maintains a strict, military discipline.
+- **Physical Flaws / Limitations:** He suffers from a deep, dull ache in his chest during mountain rainstorms—the legacy of an old crossbow bolt wound to the lung received during the final days of the Civil War. His elven ears are slightly blunted, a minor detail he hides beneath his hair to appear more human to his staunchly traditionalist vassals.
+- **Financial Status:** Wealthy in terms of immovable assets, massive iron-ore deposits, and timber monopolies. However, his liquid gold reserves are constantly strained by the immense cost of maintaining a standing border levy along [[000 Atlas/The Jagged Spine|The Jagged Spine]] to prevent another Corvus-style disaster.
+- **Equipment & Upkeep:** Wears a highly polished, functional half-plate harness of blackened steel, meticulously oiled by his armorers to resist the damp coastal air. He carries *[[300 Mechanics/The Shard-Blade|The Shard-Blade]]*, an ancient, heavy longsword forged from iron pulled from the deep rifts—dense, heavy, and unyielding.
+
+## 🧠 Psychology & Drive
+- **Immediate Goal:** Secure an advantageous political marriage or treaty for his stubborn middle daughter, Sheandri, to lock down an alliance with the neighboring Duchy of Stonereach.
+- **The Core Fear:** The extinction of his house through internal decay. He has watched human lines rot from within over his long life, and he deeply fears his children lack the hard iron grit required to protect the northern border when he finally passes.
+- **Moral Compromises:** To fund his massive border keeps, Tythius turns a blind eye to the brutal working conditions within his iron mines. He also quietly permits certain "controlled" low-frequency alchemical weapons to be tested by his garrison captains, violating the spirit of the old laws for the sake of tactical readiness.
+
+## 📜 Backstory & Current Role
+Tythius was a young commander during the brutal Civil War that shattered the old kingdom. He personally witnessed the execution of the last King and was one of the original signatories who negotiated the Ducal Accord with the rising merchant class. Having lived for nearly nine decades, he has outlived all the original human merchants who hired the Golden Company. 
+
+He treats Port Nevarellon with cold, calculated pragmatism. He despises the Council of Five, viewing them as greedy usurpers who ruined the natural feudal order. However, he is bound by the Accord. He frequently travels to the city's High Quarter to ensure the Council's maritime taxes continue to fund the protection of his duchy's borders, reminding them that if De Vonce falls to the wild inland, the city's trade will follow.
+
+## 🔗 Connected Notes
+- **Children:** 
+  - [[200 Cast/Eldrick De Vonce|Eldrick De Vonce]] (Eldest son and heir; traditionalist but militarily short-sighted)
+  - [[200 Cast/Imaihil De Vonce|Imaihil De Vonce]] (Second son; shows dangerous elven traits and scholarly leanings that worry the human vassals)
+  - [[200 Cast/Sheandri De Vonce|Sheandri De Vonce]] (Daughter; fiercely independent, currently resisting her father's political arrangements)
+  - [[200 Cast/Ellenst Rulieone|Ellenst Rulieone (NEE: De Vonce)]] (Eldest daughter; married into a powerful noble house in the south)
+- **Rivals / Creditors:** 
+  - [[100 Society/The Golden Company|The Golden Company]] (He views them as foreign parasites occupying the coast's true jewel).
+  - [[200 Cast/Garrick the Keelhauler|Garrick the Keelhauler]] (Tythius is quietly investigating reports that Syndicate agents are smuggling unrefined iron out of his lower valleys).
+- **Key Notes:** [[100 Society/History - The Broken Crown of Austhal & The Ducal Accord|The Ducal Accord]]
+
+
+# Character: Lord Kelf Thorne
+#cast/active #status/solid
+
+> "I am not an exile. I am the Baron of the Silt. The High Quarter chokes on its own laws; here, I breathe free air and take a cut of the tide." — Lord Thorne
+
+## 📊 Vital Statistics
+- **Full Name / Aliases:** Lord Kelf Thorne / "The Mud Baron"
+- **Current Occupation:** Self-Proclaimed Baron of the Silted Marshes / Syndicate Boss of Divtown.
+- **Social Class / Standing:** Disgraced Nobility / Underworld Aristocrat.
+- **Primary Residence:** The "Manor"—a heavily fortified, multi-story timber longhouse built on the most stable mud-bank in Divtown.
+- **Affiliations:** House Thorne (Disowned); The Grey Water Pirates (Fencer and Liaison).
+
+## ⚖️ Realism & Physicality
+- **Age & Vitality:** 45 years old. He desperately tries to maintain an air of highborn grace, but the marsh has taken its toll. He suffers from a chronic, wet cough from the humidity and his skin is sallow and pale.
+- **Physical Flaws / Limitations:** He refuses to wear practical boots, insisting on fine leather shoes that are perpetually ruined by the mud. He is not a fighter; his hands are soft and uncalloused. 
+- **Financial Status:** Wealthy in stolen goods and raw timber, but unable to spend his wealth in polite society. His power relies entirely on maintaining the bureaucratic illusion that his noble wax seal is still legally binding in Port Nevarellon.
+- **Equipment & Upkeep:** Wears outdated, faded silk doublets from a decade ago, layered under heavy, practical marsh-cloaks. Carries a rusted, ceremonial rapier that has likely never been drawn in anger.
+
+## 🧠 Psychology & Drive
+- **Immediate Goal:** Keep the Golden Company and the [[100 Society/The Iron-Anchor Syndicate|Iron-Anchor Syndicate]] from realizing exactly how much untaxed wealth he is pulling out of the Grey Water Lagoon.
+- **The Core Fear:** Being dragged back to [[000 Atlas/The High Quarter|The High Quarter]] to face trial for his past debts and crimes, which would strip him of his remaining illusion of nobility.
+- **Moral Compromises:** Kelf presents himself as a savior to the escaped Chalced slaves and outcasts, but in reality, he is running a feudal crime syndicate. He exploits their labor in the dangerous timber swamps, knowing they have nowhere else to go.
+
+## 🔗 Connected Notes
+- **Right Hand / Enforcer:** [[200 Cast/Telorna Belaar|Telorna Belaar]] 
+- **Vital Guide:** [[200 Cast/Morgran the Abomination|Morgran (The Cursed Dwarf)]]
+
+# Character: Telorna Belaar
+#cast/active #status/solid
+
+> "The Baron stamps the wax. I make sure the trees fall, the pirates get paid, and the sandbars don't swallow us all." — Telorna Belaar
+
+## 📊 Vital Statistics
+- **Full Name / Aliases:** Telorna Belaar / "The Iron-Knot"
+- **Current Occupation:** Timber Forewoman / Syndicate Operations Manager of Divtown.
+- **Social Class / Standing:** Escaped Slave / Respected Community Leader.
+- **Primary Residence:** A spartan, highly organized stilt-cabin overlooking the Grey Water Lagoon.
+
+## ⚖️ Realism & Physicality
+- **Age & Vitality:** 34 years old. Lean, heavily muscled, and completely acclimatized to the brutal heat and humidity of the marshes.
+- **Physical Flaws / Limitations:** Her back and shoulders are covered in the faded, brutal brand-scars of the [[100 Society/The Chalced Kingdom|Chalced Kingdom]]. She is missing the ring finger on her left hand from a logging accident.
+- **Equipment & Upkeep:** Wears practical, tight-woven reeds and heavy canvas. She carries a long, brutal timber-hook—a heavy polearm used for both rolling logs in the mud and pulling mutinous pirates off their feet.
+
+## 🧠 Psychology & Drive
+- **Immediate Goal:** Ensure the current shipment of rot-resistant timber reaches the inner sea safely to secure enough winter rations for the town's refugees.
+- **The Core Fear:** The Chalced Kingdom sending "Retrievers" (bounty hunters) north into the marshes to reclaim their lost property. 
+- **Moral Compromises:** She despises Lord Kelf's aristocratic pretensions, but she actively keeps him in power. She knows that without his "legitimate" noble seal, Port Nevarellon would classify Divtown as a hostile rogue state and wipe them out.
+
+## 📜 Backstory & Current Role
+Telorna is the true backbone of Divtown. While Kelf drinks wine and negotiates with pirates, Telorna organizes the labor force of outcasts and refugees. She is the one who wades into the waist-deep muck to harvest the timber. The escaped slaves of the town are fiercely loyal to her, not the Baron. If Lord Kelf ever pushes her too far, she could take control of the settlement in a single hour.
+
+# Character: Morgran "Fin" Deep-Draught
+#cast/active #status/solid
+
+> "Don't look at the scales. Just pour him another tankard of ale, pay him his silver, and follow his boat exactly where he tells you, or the Silt will eat your bones." — Advice given at Oakhaven Cove
+
+## 📊 Vital Statistics
+- **Full Name / Aliases:** Morgran Deep-Draught / "Fin" / The Abomination
+- **Current Occupation:** Navigator of the Silted Marshes / Town Drunk in [[000 Atlas/Oakhaven Cove|Oakhaven Cove]].
+- **Social Class / Standing:** Outcast / Feared Oddity.
+- **Primary Residence:** Sleeps under the drydock slips in Oakhaven Cove, but technically "lives" on his small, flat-bottomed skiff.
+
+## ⚖️ Realism & Physicality
+- **Age & Vitality:** 112 years old (Dwarven). 
+- **The Curse (The Mutation):** Decades ago, Morgran was a prospector who dug too deep in the southern marshes and struck an unanchored, low-frequency "God-Shard" of the deep ocean. The chaotic magic warped his dwarven biology. His lower jaw and neck are flared with pulsing, fish-like gills, and patches of thick, slimy gray scales cover his arms and torso. His eyes are entirely black, like a deep-sea predator.
+- **Physical Flaws / Limitations:** He is a raging alcoholic. Because of his mutation, he must submerge himself in saltwater at least once a day or his skin begins to crack and bleed. He is universally shunned by his own people in [[000 Atlas/The Ubaraz Kingdom|The Ubaraz Kingdom]].
+- **Equipment & Upkeep:** Carries a specialized, heavy dwarven sounding-lead on a chain to test the depth of the shifting sandbars, and a perpetually empty iron flask.
+
+## 🧠 Psychology & Drive
+- **Immediate Goal:** Earn enough silver guiding smugglers into the Grey Water Lagoon to afford another week of heavy dwarven spirits.
+- **The Core Fear:** Being captured by the priests of [[100 Society/The Tidespoken Clergy|The Tidespoken Clergy]], who view him as a demonic manifestation of the pre-sundering war and want to burn him.
+- **The Utility:** Despite his tragic existence, Morgran is a savant of the Silt. He can taste the brackish water and tell you exactly where the sandbars have shifted overnight. Without him, heavy ships attempting to reach Divtown will inevitably run aground.
