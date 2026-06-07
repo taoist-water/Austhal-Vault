@@ -1,0 +1,1 @@
+TN: the number required to succeed a skill check.

@@ -1,0 +1,2 @@
+Disadvantage: Roll 3d6 keep lowest two (Disadv). Only actively kept dice count toward the two natural 1s for a Fumble.
+- Multiple sources of Dis-advantage do not add more dice; they instead grant a flat -1 bonus to the total.

@@ -11,10 +11,14 @@
             "id": "ccea5c078e0b8d4b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "300 Iron & Marrow Master rules/01 Character Creation/Attributes and Derived Stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Attributes and Derived Stats"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "300 Iron & Marrow Master rules/01 Character Creation/Attributes and Derived Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Attributes and Derived Stats"
             }
           },
           {
@@ -178,10 +183,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf9b17df2cdfe0a9",
+  "active": "ccea5c078e0b8d4b",
   "lastOpenFiles": [
+    "300 Iron & Marrow Master rules/15 Glossary/Wounds Threshold.md",
+    "300 Iron & Marrow Master rules/01 Character Creation/Attributes and Derived Stats.md",
+    "300 Iron & Marrow Master rules/02 Core Mechanics/Dice Mechanics.md",
+    "300 Iron & Marrow Master rules/02 Core Mechanics/The Golden Rules.md",
+    "300 Iron & Marrow Master rules/15 Glossary/Disadvantage.md",
+    "300 Iron & Marrow Master rules/15 Glossary/Advantage.md",
+    "300 Iron & Marrow Master rules/15 Glossary/Target Number.md",
+    "300 Iron & Marrow Master rules/15 Glossary Target Number.md",
+    "000 Atlas/001 Regions & Continents/Austhal.md",
     "300 Iron & Marrow Master rules/16 Index",
-    "300 Iron & Marrow Master rules/15",
+    "300 Iron & Marrow Master rules/15 Glossary",
     "300 Iron & Marrow Master rules/14 GM Tools",
     "300 Iron & Marrow Master rules/13 Bestiary",
     "300 Iron & Marrow Master rules/12 Advancement",
@@ -190,7 +204,6 @@
     "300 Iron & Marrow Master rules/09 Arcana",
     "300 Iron & Marrow Master rules/08 Feats",
     "300 Iron & Marrow Master rules/07 Equipment",
-    "300 Iron & Marrow Master rules/06 Conditions",
     "200 Cast/202 The Underworld/Captain Haren Twarde.md",
     "100 Society/101 Factions & Guilds/The Wyvern tail Pirates.md",
     "000 Atlas/003 Sub-Locations & Architecture/The Rusty Tankard.md",
@@ -208,14 +221,6 @@
     "000 Atlas/002 Cities & Settlements/Port Nevarellon.md",
     "100 Society/104 Cosmology/Cosmology - The Great Fracture.md",
     "100 Society/102 Lore & History/Religion - The pagan Pantheon and the Faith Domains.md",
-    "100 Society/Untitled.md",
-    "000 Atlas/001 Regions & Continents/Austhal.md",
-    "000 Atlas/002 Cities & Settlements/Castle Iron-Spire.md",
-    "100 Society/104 Cosmology/Cosmology - The Celestial Graveyard and The war of Creation.md",
-    "100 Society/101 Factions & Guilds/Faction - The Civic Constabulary (The Coppers).md",
-    "100 Society/102 Lore & History/Law - The Council's Edicts.md",
-    "100 Society/103 Economy & Trade/Economy - the Price of Survival.md",
-    "100 Society/106 Sundry Items & Artefacts/Cindin.md",
     "Untitled.canvas"
   ]
 }
