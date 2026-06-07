@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/01 Character Creation/Attributes and Derived Stats.md",
+                "file": "300 Iron & Marrow Master rules/05 Combat/The Engagement Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attributes and Derived Stats"
+              "title": "The Engagement Flow"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Iron & Marrow Master rules/01 Character Creation/Attributes and Derived Stats.md",
+                "file": "300 Iron & Marrow Master rules/05 Combat/The Engagement Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Attributes and Derived Stats"
+              "title": "Backlinks for The Engagement Flow"
             }
           },
           {
@@ -185,8 +185,13 @@
   },
   "active": "ccea5c078e0b8d4b",
   "lastOpenFiles": [
-    "300 Iron & Marrow Master rules/15 Glossary/Wounds Threshold.md",
+    "300 Iron & Marrow Master rules/15 Glossary/Opposed.md",
+    "300 Iron & Marrow Master rules/05 Combat/The Engagement Flow.md",
+    "300 Iron & Marrow Master rules/14 GM Tools/The way the Game Plays.md",
+    "300 Iron & Marrow Master rules/02 Core Mechanics/Stress vs. Wounds.md",
+    "300 Iron & Marrow Master rules/03 Skills/Skills list.md",
     "300 Iron & Marrow Master rules/01 Character Creation/Attributes and Derived Stats.md",
+    "300 Iron & Marrow Master rules/15 Glossary/Wounds Threshold.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/Dice Mechanics.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/The Golden Rules.md",
     "300 Iron & Marrow Master rules/15 Glossary/Disadvantage.md",
@@ -216,11 +221,6 @@
     "000 Atlas/003 Sub-Locations & Architecture/The Great Anchor Basin.md",
     "100 Society/101 Factions & Guilds/The Golden Company.md",
     "000 Atlas/001 Regions & Continents/The Great Expanse.md",
-    "000 Atlas/003 Sub-Locations & Architecture/The Black Mast Warehouse.md",
-    "000 Atlas/002 Cities & Settlements/Untitled.md",
-    "000 Atlas/002 Cities & Settlements/Port Nevarellon.md",
-    "100 Society/104 Cosmology/Cosmology - The Great Fracture.md",
-    "100 Society/102 Lore & History/Religion - The pagan Pantheon and the Faith Domains.md",
     "Untitled.canvas"
   ]
 }

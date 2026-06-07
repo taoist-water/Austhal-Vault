@@ -1,0 +1,1 @@
+when required a player rolls their dice and adds the appropriate modifiers then compares this result to the roll made by the GM running the NPC at the time.
