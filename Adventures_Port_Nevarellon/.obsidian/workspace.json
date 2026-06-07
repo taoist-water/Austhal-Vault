@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/02 Core Mechanics/Stress vs. Wounds.md",
+                "file": "300 Iron & Marrow Master rules/05 Combat/Size Scale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stress vs. Wounds"
+              "title": "Size Scale"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Iron & Marrow Master rules/02 Core Mechanics/Stress vs. Wounds.md",
+                "file": "300 Iron & Marrow Master rules/05 Combat/Size Scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stress vs. Wounds"
+              "title": "Backlinks for Size Scale"
             }
           },
           {
@@ -185,14 +185,18 @@
   },
   "active": "ccea5c078e0b8d4b",
   "lastOpenFiles": [
-    "300 Iron & Marrow Master rules/02 Core Mechanics/Rest and Recuperation.md",
+    "300 Iron & Marrow Master rules/05 Combat/When it comes to Combat.md",
+    "300 Iron & Marrow Master rules/01 Character Creation/Attributes and Derived Stats.md",
+    "300 Iron & Marrow Master rules/05 Combat/Size Scale.md",
+    "300 Iron & Marrow Master rules/05 Combat/Action Types.md",
+    "300 Iron & Marrow Master rules/02 Core Mechanics/Movement in the World.md",
+    "300 Iron & Marrow Master rules/02 Core Mechanics/The Momentum Economy.md",
+    "300 Iron & Marrow Master rules/02 Core Mechanics/At Deaths Door.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/Stress vs. Wounds.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/Stress.md",
-    "300 Iron & Marrow Master rules/01 Character Creation/Attributes and Derived Stats.md",
+    "300 Iron & Marrow Master rules/02 Core Mechanics/Rest and Recuperation.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/The Golden Rules.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/Dice Mechanics.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/The Momentum Economy.md",
-    "300 Iron & Marrow Master rules/05 Combat/When it comes to Combat.md",
     "300 Iron & Marrow Master rules/15 Glossary/MV.md",
     "300 Iron & Marrow Master rules/15 Glossary/Opposed.md",
     "300 Iron & Marrow Master rules/14 GM Tools/The way the Game Plays.md",
@@ -217,10 +221,6 @@
     "100 Society/101 Factions & Guilds/The Wyvern tail Pirates.md",
     "000 Atlas/003 Sub-Locations & Architecture/The Rusty Tankard.md",
     "200 Cast/Lidda Shoon.md",
-    "200 Cast/202 The Underworld/Qasim Al Goor.md",
-    "200 Cast/Maccorrack.md",
-    "200 Cast/201 Nobility & Elites/Alfric Danniken.md",
-    "100 Society/101 Factions & Guilds/The Cobalt Syndicate.md",
     "Untitled.canvas"
   ]
 }

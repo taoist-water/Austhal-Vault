@@ -7,7 +7,7 @@
 - Will: Resolve and spiritual weight.
     
 
-- Wound Threshold [[Wounds Threshold|T]]: 4 + Prowess + Armour + Species Bonuses 
+- Wound Threshold [[Wounds Threshold|T]]: 4 + Prowess + Armour + Species Bonuses + Scale
     
 - Stress Limit: **2 + (Wits x 2) + species bonus + Feat bonus**. 
     -  If your total Stress (Locked + Dissonant) exceeds this limit, your mental focus shatters: all current Locked Stress immediately becomes Dissonant, applying its full penalties, and any excess points are converted into Wounds.

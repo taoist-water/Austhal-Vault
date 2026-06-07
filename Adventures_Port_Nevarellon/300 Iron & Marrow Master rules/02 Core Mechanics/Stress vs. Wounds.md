@@ -52,7 +52,7 @@ Unlike traditional hit point systems that feature inflated health pools, _Iron &
 
 ### Calculating Wounds (Impact vs. Threshold)
 
-To take a Wound, an enemy's attack must overcome your physical durability, represented by your **Wound Threshold [T]** (calculated as 4 + Prowess + Armor Value). When a character loses a Clash, the resulting Impact dictates the severity of the Wound:
+To take a Wound, an enemy's attack must overcome your physical durability, represented by your **Wound Threshold [T]** (calculated as 4 + Prowess + Armor Value + species bonus). When a character loses a Clash, the resulting Impact dictates the severity of the Wound:
 
 - **Minor Wound:** If the Impact equals or exceeds your Threshold, you take 1 Minor Wound (filling 1 slot) and 1 Stress.
     
