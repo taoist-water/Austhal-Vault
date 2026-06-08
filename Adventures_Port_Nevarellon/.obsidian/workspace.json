@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/05 Combat/Size Scale.md",
+                "file": "300 Iron & Marrow Master rules/02 Core Mechanics/Magic Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Size Scale"
+              "title": "Magic Systems"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Iron & Marrow Master rules/05 Combat/Size Scale.md",
+                "file": "300 Iron & Marrow Master rules/02 Core Mechanics/Magic Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Size Scale"
+              "title": "Backlinks for Magic Systems"
             }
           },
           {
@@ -185,9 +185,13 @@
   },
   "active": "ccea5c078e0b8d4b",
   "lastOpenFiles": [
+    "300 Iron & Marrow Master rules/15 Glossary/TN.md",
+    "300 Iron & Marrow Master rules/02 Core Mechanics/Magic Systems.md",
+    "300 Iron & Marrow Master rules/15 Glossary/Locked Stress.md",
+    "300 Iron & Marrow Master rules/15 Glossary/Grimoire.md",
+    "300 Iron & Marrow Master rules/05 Combat/Size Scale.md",
     "300 Iron & Marrow Master rules/05 Combat/When it comes to Combat.md",
     "300 Iron & Marrow Master rules/01 Character Creation/Attributes and Derived Stats.md",
-    "300 Iron & Marrow Master rules/05 Combat/Size Scale.md",
     "300 Iron & Marrow Master rules/05 Combat/Action Types.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/Movement in the World.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/The Momentum Economy.md",
@@ -204,7 +208,6 @@
     "300 Iron & Marrow Master rules/15 Glossary/Wounds Threshold.md",
     "300 Iron & Marrow Master rules/15 Glossary/Disadvantage.md",
     "300 Iron & Marrow Master rules/15 Glossary/Advantage.md",
-    "300 Iron & Marrow Master rules/15 Glossary/Target Number.md",
     "300 Iron & Marrow Master rules/15 Glossary Target Number.md",
     "000 Atlas/001 Regions & Continents/Austhal.md",
     "300 Iron & Marrow Master rules/16 Index",
@@ -218,9 +221,6 @@
     "300 Iron & Marrow Master rules/08 Feats",
     "300 Iron & Marrow Master rules/07 Equipment",
     "200 Cast/202 The Underworld/Captain Haren Twarde.md",
-    "100 Society/101 Factions & Guilds/The Wyvern tail Pirates.md",
-    "000 Atlas/003 Sub-Locations & Architecture/The Rusty Tankard.md",
-    "200 Cast/Lidda Shoon.md",
     "Untitled.canvas"
   ]
 }

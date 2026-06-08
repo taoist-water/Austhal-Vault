@@ -1,0 +1,1 @@
+A Book containing the Arcane spells of an Arcanist.

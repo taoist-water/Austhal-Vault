@@ -57,7 +57,7 @@ Larger creatures hit with overwhelming force, severely taxing the defender's abi
 
 Let's look at how this changes the Engagement Flow using the system's math:
 
-- The Troll: Prowess +3. Normal WT would be 7 (4 base + 3 Prowess). Because it is Large (Scale +1), its WT becomes 9.
+- The Troll: Prowess +3. Normal WT would be 7 (4 base + 3 Prowess). Because it is Large (Scale +1), its WT becomes 8.
     
 - The Clash: A Standard (Scale 0) Dwarven Knight attacks the Troll. Because the Troll is one size larger, the Dwarf gets a +1 to their Clash roll to land a hit.
     

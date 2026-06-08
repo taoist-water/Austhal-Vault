@@ -1,0 +1,1 @@
+a cost on the Stress limit, but does not cause a -1 penalty.
