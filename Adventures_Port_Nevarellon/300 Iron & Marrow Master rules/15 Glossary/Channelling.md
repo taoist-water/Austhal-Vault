@@ -1,0 +1,1 @@
+A spell with the channelling tag requires the caster to make ability checks at the beginning of their activation to maintain the spell.  Failure causes a negative outcome, usually accruing Dissonant Stress.

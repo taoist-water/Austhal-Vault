@@ -1,0 +1,1 @@
+a cost on the Stress limit, that causes a cumulative -1 penalty.
