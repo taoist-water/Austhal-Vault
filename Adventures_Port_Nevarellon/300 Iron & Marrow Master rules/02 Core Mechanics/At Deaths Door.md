@@ -1,4 +1,4 @@
-
+# \[cm-01\]At Deaths Door
 
 When a character takes a Wound that fills their final Wound Slot (typically the 4th), they immediately fall Prone, drop their weapons, and gain the **Incapacitated** condition.
 
@@ -23,8 +23,7 @@ When a character takes a Wound that fills their final Wound Slot (typically the 
     
 - **3 Death Marks:** Your character dies.
     
-
-### External Interventions & Threats
+## External Interventions & Threats
 
 Because the player is stuck at the bottom of the turn order, the rest of the party has a desperate window to save them.
 

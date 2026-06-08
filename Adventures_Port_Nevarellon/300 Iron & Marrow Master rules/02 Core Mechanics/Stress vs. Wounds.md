@@ -1,11 +1,12 @@
-# Stress
+# \[cm-05\] Stress vs. Wounds
+## Stress
 In _Iron & Marrow_, Stress is the primary mechanical representation of a character's mental fortitude, stamina, and panic. It serves as the crucial buffer before taking physical, lethal trauma (Wounds) and acts as the central pacing mechanic for combat, magic, and survival.
 
 ### The Stress Limit
 
 A character's capacity to handle pressure before breaking is defined by their Stress Limit, which is calculated as **2 + (Wits x 2) + Feat Bonus + Species bonus.**
 
-## The Two Categories of Stress
+### The Two Categories of Stress
 
 Stress is strictly divided into two types, which affect the character's capabilities in drastically different ways:
 
@@ -14,7 +15,7 @@ Stress is strictly divided into two types, which affect the character's capabili
 - **Locked Stress:** This represents sustained mental and physiological burdens, such as the mathematical heat of casting Arcane spells, suffering through specific negative conditions, or enduring harsh environmental hazards. Crucially, Locked Stress ***does not*** apply the negative -1 penalty to your dice rolls. However, it fills up your Stress Limit and is much harder to clear, requiring specific actions like an Arcanist's Grounding maneuver, a full night's rest, or specific Downtime Endeavours.
     
 
-### The Death Spiral
+## The Death Spiral
 
 The true terror of Stress lies in what happens when the meter is full. If a character's total combined Stress (Locked + Dissonant) exceeds their Stress Limit, their mental focus entirely shatters.
 

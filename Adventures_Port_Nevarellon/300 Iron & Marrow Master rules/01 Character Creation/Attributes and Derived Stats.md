@@ -1,3 +1,4 @@
+# \[cc-01\]Attributes and Derived Stats
 - Prowess: Strength and physical power.
     
 - Reflex: Speed and coordination.
@@ -12,7 +13,7 @@
 - Stress Limit: **2 + (Wits x 2) + species bonus + Feat bonus**. 
     -  If your total Stress (Locked + Dissonant) exceeds this limit, your mental focus shatters: all current Locked Stress immediately becomes Dissonant, applying its full penalties, and any excess points are converted into Wounds.
 
-Attributes (-1 to +3)
+## Attributes (-1 to +3)
 
 - -1 (Deficient): Below average.
     
@@ -24,7 +25,7 @@ Attributes (-1 to +3)
     
 - +3 (Peak): The absolute limit of mortal capability without magic.
     
-Skills (0 to +3).
+## Skills (0 to +3).
 
 - Level 0 (Untrained)
     

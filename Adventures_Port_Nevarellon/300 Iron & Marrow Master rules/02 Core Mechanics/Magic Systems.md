@@ -1,4 +1,4 @@
-### Magic Systems
+### \[cm-03\]Magic Systems
 
 Magic is raw cosmic radiation channelled through a mortal nervous system. 
 
