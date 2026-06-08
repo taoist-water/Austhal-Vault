@@ -1,4 +1,4 @@
-# THE SOCIAL ENGINE (Influence & Resolve)
+# \[cm-09\] THE SOCIAL ENGINE (Influence & Resolve)
 
 In High Fantasy Realism, a silver tongue is just as dangerous as a drawn sword, but it isn't mind control. Social encounters use Influence (to push your agenda) opposed by the target's Resolve (or simply Will, if they lack the skill).
 

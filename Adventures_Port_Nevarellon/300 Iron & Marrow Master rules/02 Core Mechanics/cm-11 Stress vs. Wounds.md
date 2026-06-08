@@ -1,4 +1,4 @@
-# \[cm-05\] Stress vs. Wounds
+# \[cm-11\] Stress vs. Wounds
 ## Stress
 In _Iron & Marrow_, Stress is the primary mechanical representation of a character's mental fortitude, stamina, and panic. It serves as the crucial buffer before taking physical, lethal trauma (Wounds) and acts as the central pacing mechanic for combat, magic, and survival.
 
@@ -34,7 +34,7 @@ Stress extends beyond just taking hits from weapons. It is the primary damage tr
     
 - **Magic (Overcasting):** Casters use their Stress Limit as a battery. Arcane casters take upfront Locked Stress to manifest spells, while Faith casters take Dissonant Stress when their channelling fails. If a spell pushes a mage over their Maximum Stress Limit, the excess Stress immediately converts into physical Wounds, representing burst blood vessels, mystical burns, or shattered bones from channelling raw cosmic radiation.
 
-# Wounds
+## Wounds
 
 In _Iron & Marrow_, **Wounds** are the brutal, mechanical representation of physical trauma and bodily failure. While Stress represents panic and exhaustion, Wounds are the broken bones, deep lacerations, and punctured organs that eventually pull a character into the grave.
 

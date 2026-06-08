@@ -1,4 +1,4 @@
-# The Environment:
+# \[cm-06\] The Environment:
 
 ## Cover (The Environmental Shield)
 
@@ -14,10 +14,10 @@ Cover acts as a direct negative modifier to the attacker's roll. 
 - *Total Cover:* The target is completely out of sight behind a solid object. They cannot be targeted by direct ranged attacks.
     
 
-### Material Penetration (Optional Realism Rule)
+### \[DEV NOTE\] Material Penetration (Optional Realism Rule) 
 
 - If a character is behind a wooden door (Light Cover, -2), and an attacker hits them using an armor-piercing weapon (like a Heavy Arbalest) or  maneuver like Deadly Aim, the shot completely shatters the cover. The target takes full damage, and the cover is destroyed for the rest of the fight.
-    
+    \[/DEV NOTE\] 
 
 ### Firing Into Combat (The Risk of Friendly Fire)
 

@@ -1,3 +1,4 @@
+# \[cm-08\] The Momentum Economy
 
 In _Iron & Marrow_, **Momentum** is the central tactical currency that dictates the ebb and flow of survival. It is the mechanical representation of adrenaline, battlefield positioning, psychological dominance, and the capitalization on an enemy's mistakes.
 
@@ -18,7 +19,7 @@ In _Iron & Marrow_, **Momentum** is the central tactical currency that dictates 
     
 - (+2) Winning the Draw by 12+
 
-# Spending Momentum within Combat:
+## Spending Momentum within Combat:
 
 - (1) Press the Edge: Gain Advantage to your next  Draw or Clash roll.
     
@@ -35,9 +36,7 @@ In _Iron & Marrow_, **Momentum** is the central tactical currency that dictates 
 - (varies):  fuels feats.
 
 
-
-
-## The Pre-Combat Bank (The Tactical Stalk)
+## 1. The Pre-Combat Bank (The Tactical Stalk)
 
 A party that meticulously plans an ambush or scouts a room shouldn't enter a fight empty-handed.
 
@@ -45,7 +44,7 @@ A party that meticulously plans an ambush or scouts a room shouldn't enter a fig
     
 - The Spend: This Momentum violates the "reset to 0" rule. The characters carry up to 2 points of this Momentum directly into the ensuing combat encounter, representing the extreme tactical upper hand of catching an enemy completely off-guard.
     
-### 2. Social Leverage & "Breaking" an NPC
+## 2. Social Leverage & "Breaking" an NPC
 
 In a tense social setting where you are rolling Influence vs. Resolve, a silver tongue should be able to seize the momentum of a conversation just like a duelist dominates a blade clash.
 
@@ -58,7 +57,7 @@ In a tense social setting where you are rolling Influence vs. Resolve, a silver 
     
 - Control the Room: Give an ally Advantage ($3d6$ Keep the highest 2) on a subsequent follow-up check (e.g., the face of the party terrifies the merchant, generating Momentum, which the thief immediately spends to get Advantage on picking the merchant's strongbox while he's distracted).
     
-### 3. Environmental Rhythm (Weathering the Storm)
+## 3. Environmental Rhythm (Weathering the Storm)
 
 When characters face a freezing blizzard or poisonous swamp, players can use Momentum to physically or mentally drag their companions through the hazard.
 
@@ -69,7 +68,7 @@ When characters face a freezing blizzard or poisonous swamp, players can use Mom
 
 - Pioneer (2 Momentum): Absorb the danger. The character negates the Disadvantage imposed by difficult terrain or harsh conditions for the entire party on their next collective movement check.
   
-### 4. Magical Slipstream (Spell Resonance)
+## 4. Magical Slipstream (Spell Resonance)
 
 Casting utility or long-form spells outside of combat places a massive burden of Locked Stress on the caster . Highly skilled mages can catch a mystical slipstream to keep their minds from shattering.
 
@@ -80,7 +79,7 @@ Casting utility or long-form spells outside of combat places a massive burden of
 
 - Divine Anchor (1 Momentum): A Faith caster anchors the blessing into their holy symbol, making their next Channelling check automatically pass without having to roll if an interruption occurs during exploration.
     
-### 5. Downtime Exploits & Expedited Scribing
+## 5. Downtime Exploits & Expedited Scribing
 
 During a Short Rest (minimum 1 hour) or an extended downtime phase, characters work on complex projects—like scribing a lost spell into a Grimoire , foraging for rare herbs, or binding extensive Wounds.
 
