@@ -31,7 +31,7 @@ Arcane magic is a science of chaotic energy. It requires absolute mental precisi
 
 - *Grimoire Casting:*  Arcane caster cast their spells from their open Spell book [[Grimoire]] tracing the complex geometries and speaking the formulas out loud.  The act of casting and concentration causes stress to the caster.  Spells all have an associated Stress cost.  This is the cost of [[Locked Stress]] to cast the spell.
     
-- *Grounding:* An Arcanist can attempt to vent the magical heat in their mind. Roll Wits + Arcana (TN 8).  Success: Unlock *Wits* amount of Stress (Min 1). High Success (12+): Clear all Locked Stress. Fumble: The energy 'leaks'—all Locked Stress becomes Dissonant.
+- *Grounding:* An Arcanist can attempt to vent the magical heat in their mind. Roll Wits + Arcana (TN 8).  Success: Unlock *Wits* amount of Stress (Min 1). Massive Success (12+): Clear all Locked Stress. Fumble: The energy 'leaks'—all Locked Stress becomes Dissonant.
     
 - *Blind Casting:* If an Arcane caster is disarmed, bound, or has their Grimoire stowed, they can attempt to cast from raw memory. This is incredibly dangerous. Blind Casting, the casting check is made at Disadvantage.
     

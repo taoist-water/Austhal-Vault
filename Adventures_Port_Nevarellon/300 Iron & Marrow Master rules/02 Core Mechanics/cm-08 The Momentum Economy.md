@@ -40,7 +40,7 @@ In _Iron & Marrow_, **Momentum** is the central tactical currency that dictates 
 
 A party that meticulously plans an ambush or scouts a room shouldn't enter a fight empty-handed.
 
-- The Mechanic: When characters use exploration skills (like stealth for scouting or Wits + Survival for tracking) and achieve a Massive Success (beating the TN 8 baseline or an opposed roll by a margin of 5+), they generate Pre-Combat Momentum.
+- The Mechanic: When characters use exploration skills (like stealth for scouting or Wits + Survival for tracking) and achieve a High Success (beating the TN 8 baseline or an opposed roll by a margin of 5+), they generate Pre-Combat Momentum.
     
 - The Spend: This Momentum violates the "reset to 0" rule. The characters carry up to 2 points of this Momentum directly into the ensuing combat encounter, representing the extreme tactical upper hand of catching an enemy completely off-guard.
     
@@ -72,7 +72,7 @@ When characters face a freezing blizzard or poisonous swamp, players can use Mom
 
 Casting utility or long-form spells outside of combat places a massive burden of Locked Stress on the caster . Highly skilled mages can catch a mystical slipstream to keep their minds from shattering.
 
-- The Mechanic: When an Arcane or Faith caster successfully manifests a non-combat spell with an overall roll of 12+, they establish perfect cosmic alignment, gaining 1 point of Spell Momentum.
+- The Mechanic: When an Arcane or Faith caster successfully manifests a non-combat spell with Massive Success (12+), they establish perfect cosmic alignment, gaining 1 point of Spell Momentum.
     
 - The Spend: * Instant Vigor (1 Momentum): The Arcanist may immediately perform a Grounding action as a free action with Advantage to vent the heat of their mind.
     
@@ -83,7 +83,7 @@ Casting utility or long-form spells outside of combat places a massive burden of
 
 During a Short Rest (minimum 1 hour) or an extended downtime phase, characters work on complex projects—like scribing a lost spell into a Grimoire , foraging for rare herbs, or binding extensive Wounds.
 
-- The Mechanic: When rolling a crafting, learning, or medical check against a high TN set by the GM, matching the exact target number grants standard success, but hitting a margin of 3+ generates a Progress Momentum point.
+- The Mechanic: When rolling a crafting, learning, or medical check against a high TN set by the GM, matching the exact target number grants standard success, but hitting a High Success (5+) generates a Progress Momentum point.
     
 - The Spend:
 - Focused Burst (1 Momentum): Complete a highly precise task in half the required time (e.g., scribing an advanced page into a Repository book without risking a mistake).

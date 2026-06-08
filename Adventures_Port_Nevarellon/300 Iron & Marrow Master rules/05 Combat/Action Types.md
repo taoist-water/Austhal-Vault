@@ -44,7 +44,7 @@ Free Actions:
     
 - Charge: ** only if within move distance. Gain +2 to the engagement roll (The Draw). - 2 to the The Clash roll. Aggressor in a Tie.
     
-- Grounding: An Arcanist can attempt to vent the magical heat in their mind. Roll Wits + Arcana (TN 8). Success: Unlock [Wits] amount of Stress (Min 1). High Success (12+): Clear all Locked Stress. Fumble: The energy 'leaks'—all Locked Stress becomes Dissonant.
+- Grounding: An Arcanist can attempt to vent the magical heat in their mind. Roll Wits + Arcana (TN 8). Success: Unlock [Wits] amount of Stress (Min 1). Massive Success (12+): Clear all Locked Stress. Fumble: The energy 'leaks'—all Locked Stress becomes Dissonant.
     
 - Skill based Actions: based on skill
     

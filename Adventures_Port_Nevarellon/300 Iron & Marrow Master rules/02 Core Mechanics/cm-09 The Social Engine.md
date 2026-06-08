@@ -7,7 +7,7 @@ In High Fantasy Realism, a silver tongue is just as dangerous as a drawn sword, 
 
 - *Standard Success (Margin 0-4):* You shift their stance up one level (Hostile to Neutral), or they agree to a request that doesn't put them in immediate danger.
     
-- *Massive Success (Margin 5+):* They are entirely won over or deeply terrified. They will take significant risks for you or immediately surrender.
+- *High Success (Margin 5+):* They are entirely won over or deeply terrified. They will take significant risks for you or immediately surrender.
     
 
 - *Leverage (Modifiers):* The GM applies a +2 or -2 modifier based on the fiction. Bribing a greedy guard is +2. Threatening a fanatical cultist is -2.

@@ -10,7 +10,7 @@ When a character takes a Wound that fills their final Wound Slot (typically the 
     
 - **Success (Margin 0-4):** You secure a **Stabilization Mark**.
     
-- **Massive Success (Margin 5+):** Your body forcefully halts the trauma. You instantly gain 3 Stabilization Marks and are Stabilized.
+- **High Success (Margin 5+):** Your body forcefully halts the trauma. You instantly gain 3 Stabilization Marks and are Stabilized.
     
 - **Failure:** You secure a **Death Mark**. You are bleeding out or slipping into shock.
     
