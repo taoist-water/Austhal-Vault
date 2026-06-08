@@ -2,14 +2,19 @@
 
 ## Cover (The Environmental Shield)
 
-Cover acts as a direct negative modifier to the attacker's roll. 
+Being Obscured acts as a direct negative modifier to the attacker's roll. 
 
-- *Light Cover (-2 Penalty):* What it is: A wooden fence, thick underbrush, a flipped wooden table, or a target peaking around a corner. It covers roughly half the target.
+- *Obscured (-2 Penalty):* What is is: thick underbrush, poor lighting, darkness, shadows, a dense crowd.
+    -  *what it is:* It obscures the the target, making it difficult to see and/or discern from environment around it. It does not provide a physical barrier.
 
-- *What it is:* It obscures the target and provides a physical barrier, but heavy weapons (like a longbow or heavy crossbow) might still punch right through it if they hit.
+Cover acts as a direct negative modifier to the attacker's roll and adds a front end reducer to the calculation of [[Impact]] in the same way as a shield functions.
+
+- *Light Cover (-2 Penalty, 2 Cover Value 'CV'):* What it is: A wooden fence, a flipped wooden table, or a target peaking around a corner. It covers roughly half the target.
+
+    - *What it is:* It obscures the target and provides a physical barrier, but heavy weapons (like a longbow or heavy crossbow) might still punch right through it if they hit.
     
 
-- *Heavy Cover (-4 Penalty):*  What it is: An arrow slit, a thick stone pillar, a reinforced steel pavise shield. It covers 75% to 90% of the target.
+- *Heavy Cover (-4 Penalty, 4 Cover Value 'CV'):*  What it is: An arrow slit, a thick stone pillar, a reinforced steel pavise shield. It covers 75% to 90% of the target.
     
 - *Total Cover:* The target is completely out of sight behind a solid object. They cannot be targeted by direct ranged attacks.
     

@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/01 Character Creation/cc-02 Creation.md",
+                "file": "300 Iron & Marrow Master rules/15 Glossary/Margin of Success.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cc-02 Creation"
+              "title": "Margin of Success"
             }
           }
         ]
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "success",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,17 +95,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Iron & Marrow Master rules/01 Character Creation/cc-02 Creation.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "300 Iron & Marrow Master rules/15 Glossary/Margin of Success.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cc-02 Creation"
+              "title": "Backlinks for Margin of Success"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Home.md",
+                "file": "300 Iron & Marrow Master rules/15 Glossary/Margin of Success.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _Home"
+              "title": "Outgoing links from Margin of Success"
             }
           },
           {
@@ -129,7 +130,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -156,20 +157,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Home.md",
+                "file": "300 Iron & Marrow Master rules/15 Glossary/Margin of Success.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _Home"
+              "title": "Outline of Margin of Success"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,32 +188,32 @@
   },
   "active": "86ba9760abeae3ad",
   "lastOpenFiles": [
-    "300 Iron & Marrow Master rules/10 Faith/fth-01 Faith Magic.md",
+    "300 Iron & Marrow Master rules/02 Core Mechanics/cm-02 Dice Mechanics.md",
     "300 Iron & Marrow Master rules/01 Character Creation/cc-02 Creation.md",
+    "300 Iron & Marrow Master rules/15 Glossary/Margin of Success.md",
+    "300 Iron & Marrow Master rules/15 Glossary/TN.md",
+    "300 Iron & Marrow Master rules/02 Core Mechanics/cm-10 The Conditions System.md",
+    "300 Iron & Marrow Master rules/02 Core Mechanics/cm-06 The Environment.md",
+    "300 Iron & Marrow Master rules/15 Glossary/Impact.md",
+    "300 Iron & Marrow Master rules/05 Combat/Size Scale.md",
+    "300 Iron & Marrow Master rules/10 Faith/fth-01 Faith Magic.md",
     "300 Iron & Marrow Master rules/09 Arcana/arc-01 Arcane Magic.md",
     "300 Iron & Marrow Master rules/01 Character Creation/cc-01 Attributes and Derived Stats.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/cm-09 The Social Engine.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/cm-08 The Momentum Economy.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/cm-07 The Golden Rules.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/cm-06 The Environment.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/cm-10 The Conditions System.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/cm-11 Stress vs. Wounds.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/cm-05 Rest and Recuperation.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/cm-04 Movement in the World.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/cm-02 Dice Mechanics.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/cm -01 At Deaths Door.md",
     "300 Iron & Marrow Master rules/03 Skills/Skills list.md",
     "300 Iron & Marrow Master rules/15 Glossary/Channelling.md",
     "300 Iron & Marrow Master rules/15 Glossary/Dissonant Stress.md",
     "300 Iron & Marrow Master rules/15 Glossary/Locked Stress.md",
-    "300 Iron & Marrow Master rules/15 Glossary/TN.md",
     "300 Iron & Marrow Master rules/15 Glossary/Grimoire.md",
-    "300 Iron & Marrow Master rules/05 Combat/Size Scale.md",
     "300 Iron & Marrow Master rules/05 Combat/When it comes to Combat.md",
     "300 Iron & Marrow Master rules/05 Combat/Action Types.md",
     "300 Iron & Marrow Master rules/02 Core Mechanics/Stress.md",
-    "300 Iron & Marrow Master rules/15 Glossary/MV.md",
-    "300 Iron & Marrow Master rules/15 Glossary/Opposed.md",
     "300 Iron & Marrow Master rules/16 Index",
     "300 Iron & Marrow Master rules/15 Glossary",
     "300 Iron & Marrow Master rules/14 GM Tools",
