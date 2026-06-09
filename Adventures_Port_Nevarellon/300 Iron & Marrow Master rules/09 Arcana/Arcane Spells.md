@@ -22,6 +22,7 @@
     
 
 ### ADEPT SPELLS (Cost: 2 Stress)
+- The Mimicry Hex: Cost: 2 Locked Stress. The caster targets an enemy. For the duration of the combat, any time the target rolls a 6, it is instead treated as a 2. This completely removes the enemy's ability to explode dice.
 
 - Elemental Burst (Aggressor Action): A devastating eruption. Roll Wits + Arcana vs the Reflex of everyone in a 20ft radius. Power 4. (Highly dangerous to allies without the Arcane Architect feat).
     
@@ -43,3 +44,5 @@
 - Disintegrate (Aggressor Action): A beam of pure annihilation. Wits + Arcana vs Reflex. Power 4. If this hits, completely ignore the target's Armour when calculating their Wound Threshold. If it inflicts a Wound, any armor they are wearing is permanently destroyed.
     
 - Stop Time (Action): The world freezes. You immediately take two full consecutive turns. You cannot directly attack an enemy while time is stopped, but you can cast buffs, heal, set traps, or retreat.
+
+- The Void Curse: Cost: 3 Locked Stress. The caster designates a "Forbidden Number" (e.g., 4). On the target’s next turn, any die that lands on that specific number is treated as a 0. 

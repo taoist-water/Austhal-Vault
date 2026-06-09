@@ -19,7 +19,7 @@ To make non-human enemies feel truly terrifying, you give them unique biological
     
 - The Weakness: Weapons with the Blessed or Consecrated tag completely ignore this resistance, and Faith magic deals +2 Impact against them.
     
-
+- Eldritch Aura: This creature warps the probability around it. It constantly projects The Mimicry Hex. Any character engaged with this creature treats natural 6s as 2s.
 #### Ethereal / Incorporeal (Ghosts, Wraiths, Specters)
 
 - Immunities: Completely immune to all mundane kinetic weapons. A steel sword swings right through them.

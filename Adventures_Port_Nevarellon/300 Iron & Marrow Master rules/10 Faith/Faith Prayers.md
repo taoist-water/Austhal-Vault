@@ -32,6 +32,7 @@
     
 - Hold Person (Aggressor Action): Channelling. Roll Will + Faith vs the Target's Will + Prowess. On a success, chains of light bind them. They cannot take Movement or Aggressor actions, and automatically lose Engagement Draws as long as you maintain the Channel.
     
+- The Shepherd’s Grace New Adept Faith Spell): Channelling. While active, the caster or an ally within 10 feet may treat all Natural 1s rolled on the dice as Natural 3s. This effectively eliminates Fumbles and raises the floor of success, making the target feel mechanically unshakable.
 
 ### MASTER SPELLS (Divine Miracles: -4 to roll)
 
