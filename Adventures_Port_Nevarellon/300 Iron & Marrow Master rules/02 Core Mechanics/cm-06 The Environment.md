@@ -6,7 +6,7 @@ Being Obscured acts as a direct negative modifier to the attacker's roll. 
 
 - *Obscured (-2 Penalty):* What is is: thick underbrush, poor lighting, darkness, shadows, a dense crowd.
     -  *what it is:* It obscures the the target, making it difficult to see and/or discern from environment around it. It does not provide a physical barrier.
-- *Heavily Obscured (-4 Penalty):* What is is: Dense foliage, total darkness.
+- *Heavily Obscured (Disadvantage):* What is is: Dense foliage, total darkness.
 
 Cover acts as a direct negative modifier to the attacker's roll and adds a front end reducer to the calculation of [[Impact]] in the same way as a shield functions.
 

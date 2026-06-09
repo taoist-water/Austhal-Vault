@@ -15,61 +15,55 @@ Arcane paradigms represent a caster's attunement to a specific discpline of magi
 - Paradigm Tag (Savage Instinct): When casting a spell that enhances physical traits or grants safety protection, the recipient gains the Feral tag for 1 round, allowing them to ignore the -1 penalty from their first point of Dissonant Stress during Melee Clashes.
     
 
-#### 3. Shadow Sorcery (The Grey Order / Ulgu)
+#### Shadow Sorcery 
 
 - Flavor/embellishment: Melancholy demeanor, voice whispers in echoes, garments billow as if in a phantom draft; spells look like twisting shadows, liquid darkness, or thick gray mist.
     
 - Paradigm Tag (Illusionary Blur): When you successfully cast an Arcane Protection or a defensive reaction spell, the target doesn't just gain a stat boost; they count as heavily obscured by shadow. Ranged attacks against them suffer Disadvantage until the start of your next turn.
     
 
-#### 4. Alchemy & Transmutation (The Gold Order / Chamon)
+#### Alchemy & Transmutation 
 
 - Flavor/embellishment: Ink-stained fingers, jingling mechanical talismans, clockwork motifs; spells gleam with liquid gold, geometric brass barriers, or metallic friction sparks.
     
 - Paradigm Tag (Grounding Ingot): Your spells interact heavily with metals. When performing the Grounding action to bleed off stress while touching a heavy iron object, armor, or your focus, you clear 1 additional point of Locked Stress.
     
-
-#### Celestial Astromancy (The Celestial Order / Azyr)
+#### Celestial Astromancy 
 
 - Flavor/embellishment: Midnight blue robes stitched with constellations, silver astrolabes, eyes that momentarily gleam like stars. Spells manifest as sharp crackling lines of blue lightning, descending starlight beams, or localized gravity atmospheric shifts.
     
-- Paradigm Tag (Prescient Alignment): Your awareness aligns with fate. Once per scene, before rolling an Arcana casting check, you may look at the top card of the encounter deck (or peer ahead at an incoming threat's stance). If you successfully cast a spell during this turn, you grant an ally within your Zone Advantage on their next Reflex or Wits check.
+- Paradigm Tag (Prescient Alignment): Your awareness aligns with fate. Once per scene, before rolling an Arcana casting check, If you successfully cast a spell during this turn, you grant an ally within your Zone Advantage on their next Reflex or Wits check.
     
-
-#### 2. Amethyst Necromancy / Spiritism (The Amethyst Order / Shyish)
+####  Necromancy / Spiritism 
 
 - Flavor/embellishment: Skeletal jewelry, pale skin, an aura that causes nearby flowers to wilt and milk to sour. Spells manifest as translucent purple wind, a chorus of ghostly whispers, or scythe-shaped distortions in the air.
     
-- Paradigm Tag (Reaper's Toll): Whenever your offensive spell (Bolt or Blast) deals the killing blow to an enemy creature (removing their last Wound slot), the lingering life force immediately vents your aethyr. You instantly clear 1 point of your Locked Stress or pass it to an adjacent ally as a surge of grim vigor.
+- Paradigm Tag (Reaper's Toll): Whenever your offensive spell (Bolt or Blast) deals the killing blow to an enemy creature (removing their last Wound slot), the lingering life force immediately vents your stress. You instantly clear 1 point of your Locked Stress or pass it to an adjacent ally as a surge of grim vigor.
     
-
-#### 3. Jade Druidism (The Jade Order / Ghyran)
+####  Druidism 
 
 - Flavor/embellishment: Barefoot or wearing woven leaf sandals, smelling of fresh damp earth and pine needles, carrying a gnarled wooden staff. Spells look like rapidly sprouting emerald vines, explosions of green pollen, or restorative running water.
     
 - Paradigm Tag (Vibrant Overgrowth): When you successfully cast a supportive or defensive spell on a target standing in natural terrain (dirt, grass, stone, or mud), the earth rises to shield them. The target treats their Wound Threshold [T] as +1 higher until the start of your next turn.
     
-
-#### 4. Light Hieromancy (The Light Order / Hysh)
+#### Light Hieromancy 
 
 - Flavor/embellishment: Flawless white linens, glowing crystals, voices that harmonize unnaturally. Spells are blinding flashes of pure sun, geometric solid light structures, and hums that dispel nearby shadows.
     
-- Paradigm Tag (Illuminating Flare): When you achieve a High Resonance outcome (casting check beats target or TN by 4+), the pure light sears the air. The target and any enemies adjacent to them are inflicted with the Blinded condition for 1 round, giving them Disadvantage on their next Melee or Ranged Clash.
+- Paradigm Tag (Illuminating Flare): When you achieve a High Resonance outcome (casting check beats target with a High Success), the pure light sears the air. The target and any enemies adjacent to them are inflicted with the Blinded condition for 1 round, giving them Disadvantage on their next Melee or Ranged Clash.
     
-
-#### Rogue Arcana & Forbidden Paradigms 
+## Rogue Arcana & Forbidden Paradigms 
 
 For casters operating outside sanctioned academies, these options emphasize risky, high-variance mechanics suited to the grim reality of Iron & Marrow.
 
-#### 5. Witch Magic & Hedgecraft
+#### Witch Magic & Hedgecraft
 
 - Flavor/embellishment: Clay charms, hair braided with crow feathers, cauldrons of boiling grease. Spells manifest as curse words spat in dark dialects, scurrying phantom rodents, or jagged thorns piercing up through the dirt.
     
 - Paradigm Tag (Blood Sacrifice): Witches don't wait for the wind. When rolling an Arcana casting check, before the dice hit the table, you may intentionally inflict 1 point of Dissonant Stress on yourself to gain Advantage on the casting roll.
-    
 
-#### 6. Forbidden Daemonology / Chaos Sorcery
+####  Forbidden Daemonology / Chaos Sorcery
 
 - Flavor/embellishment: Erratic twitching, eyes with vertical slits, whispers of shifting voices. Spells tear reality apart, leaking raw violet warpfire, weeping blood, or causing the immediate area to smell of burning copper.
     
-- Paradigm Tag (Aethyr Retch): When you roll a natural double (except Snake Eyes) on a casting check, your magic violently surges. The spell deals +2 Damage or its effect duration doubles, but the chaotic feedback forces everyone within 1 Zone (allies and enemies alike) to instantly gain 1 point of Dissonant Stress.
+- Paradigm Tag (Wretch): When you roll a natural double (except Snake Eyes) on a casting check, your magic violently surges. The spell deals +2 Damage or its effect duration doubles, but the chaotic feedback forces everyone within 1 Zone (allies and enemies alike) to instantly gain 1 point of Dissonant Stress.
