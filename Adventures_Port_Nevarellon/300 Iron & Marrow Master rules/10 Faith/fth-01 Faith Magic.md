@@ -45,3 +45,7 @@ While Arcane spells are formulas stored in a book, Faith spells are convictions 
 - *Unmoored Channelling (Blind Casting equivalent):* If the caster is disarmed, or puts the Relic away to use a two-handed weapon, they can still cast spells (their faith is in their heart, not the item). However, without the physical anchor to ground the divine energy, any failure on a Channelling roll inflicts 2 Dissonant Stress instead of 1, and they suffer Disadvantage on the initial casting roll.
     
 
+## The Limit of Cantrips
+
+### Cantrip Limitation: 
+- Cantrips are raw, unrefined magical tricks. Because of their simplistic nature, they cannot be enhanced with Momentum, Power Modifiers, or Feats that increase Impact or Area of Effect. What you see is what you get.
