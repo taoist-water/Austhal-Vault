@@ -1,23 +1,23 @@
 # Faith Prayers
 
-### CANTRIPS (Cost: 0 Stress | Simple Prayers)
+### Cantrips (Cost: 0 Stress | Simple Prayers)
 
-- Guidance: Touch an ally outside of combat. They gain Advantage on their next non-combat skill check.
+- Guidance (Utility): Touch an ally outside of combat. They gain Advantage on their next non-combat skill check. This isn't a cheerful blessing; it is a momentary jolt of terrifying, absolute clarity granted by the divine to help them pick a lock or track a beast.
     
-- Thaumaturgy: Manifest booming voices, glowing eyes, or sudden tremors. Grants Advantage on an Influence roll, when trying to intimidate.
+- Thaumaturgy (Utility): Manifest booming voices, glowing eyes, or sudden tremors. This grants Advantage on an Intimidation roll. It is a highly effective way to manipulate the Social Engine and force an NPC's stance down to Hostile/Terrified.
     
-- Stabilize: Touch a dying/bleeding ally. They stop bleeding out, though they do not regain lost Wound slots.
+- Stabilize (Tactical): Touch a dying/bleeding ally. They stop bleeding out, though they do not regain lost Wound slots. A desperate, blood-stained prayer to simply keep an ally's heart beating until the combat ends and proper triage can be applied.
     
-- Bless: grant the Blessed condition to an item/ally touched. Lasts one day.
+- Halo / Grave-Light (Utility): (Replacing the previous 1-day Bless, which is too powerful for 0 Stress). You cause your physical Relic, or an object you touch, to project a stark, pale light equivalent to a lantern. It cuts through mundane darkness to reveal environmental hazards, but provides absolutely no physical heat.
     
 
 ### NOVICE SPELLS ()
 
-- Holy / Accursed Strike (Aggressor Action): Instantaneous. Roll Will + Faith vs Reflex. Power 1. If the target is of an opposing alignment (e.g., Undead or Demon), the Power becomes 3.
+- Holy / Accursed Strike (Aggressor Action): (Sacrifice): As an instantaneous blast of divine wrath, if the caster rolls a standard failure on the casting check, the ungrounded energy backfires, inflicting 1 Dissonant Stress.
     
 - Shield of Faith (Buff): Channelling. A halo of hard-light surrounds the target, granting them a phantom Shield with SV 3 that they can use to Block incoming Clashes.
     
-- Surge of Relief (Action): Instantaneous. You take on the burden of others. Touch an ally and roll Will + Faith. On a success, the ally instantly clears 1d6 Stress.
+- Surge of Relief (Action): (Sacrifice): The caster acts as a physical sponge. You touch an ally and roll Will + Faith. On a success, the ally clears 1d6 Stress, but you immediately suffer half that amount (rounded up) as Dissonant Stress. You literally pull their panic into your own mind.
     
 - Command (Aggressor Action): Instantaneous.  Roll Will + Faith vs the Target's Will+Reslove. Issue a one-word command ("Drop", "Flee", "Kneel"). They must obey it on their next turn.
     
@@ -35,6 +35,6 @@
 
 ### MASTER SPELLS (Divine Miracles: -4 to roll)
 
-- Mend Flesh (Action): Instantaneous. Touch an ally. Bones literally knit back together and organs seal. Instantly restore 1 Wound Slot. (Because this costs 3 Stress, a standard Cleric will likely pass out or take a Wound themselves to perform this miracle).
+- Mend Flesh (Action):(Sacrifice): - This is the ultimate transgression of biology. To knit an ally's bones back together, the Faith caster must instantly suffer 1 Wound themselves, or permanently burn 1 Momentum and suffer 3 Dissonant Stress. The gods demand a life for a life.
     
 - Pillar of Wrath (Aggressor Action): Instantaneous. Call down a 15-foot wide column of blinding holy fire. Roll Will + Faith vs Reflex + Atheltics. Power 4. Any allies caught inside the blast take no damage, and instead instantly clear all their accumulated Stress.

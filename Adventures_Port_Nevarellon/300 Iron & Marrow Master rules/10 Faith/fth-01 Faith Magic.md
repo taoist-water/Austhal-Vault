@@ -3,14 +3,24 @@
 
 Faith magic does not rely on written formulas; the power comes from absolute belief and divine connection. It relies on scripture spoken aloud and a physical anchor to reality.
 
+### The Divine Burden
+
+Faith spells are divided into two absolute categories: Channeled Miracles and Sacrificial Miracles.
+#### Channelled Miracles
+
+0 upfront stress cost, but they require a Will + Faith check at the start of every turn to maintain, inflicting 1 Dissonant Stress on a failure.
+
+#### Sacrificial Miracles (The Fix for Instant Spells)
+
+For instantaneous miracles that cannot be Channeled (like healing or smiting), the divine power demands an immediate, unmitigable physical toll from the caster. 
+
 - *The Relic:* A Faith caster does not need a book, but they must possess a physical Relic or Holy Symbol. It is required to ground the divine energy during sustained miracles.
     
 
 - *Shattered Focus:* A Faith caster must be touching or holding their Relic to cast or maintain a spell with the Channelling tag. If an enemy disarms them or forces them to drop the Relic while a spell is active, the spell instantly drops, and the sudden severance inflicts 2 Dissonant Stress.
     
+- *Holy Pairs:*  If a Faith check (either a casting roll or a Channelling maintenance roll) results in Doubles (e.g., two 3s, two 4s), the character gains +1 Momentum regardless of whether the check succeeds or fails. 
 
-- *The Cost (The Toll of Channelling):* Faith spells cost 0 Stress upfront. However, every non-instantaneous Faith spell gains the Channelling tag.
-    
 - *The Cast (The Check):* Inside or outside of combat, the Cleric rolls 2d6 + Will + Faith vs. TN 8 (or opposed).
     
 

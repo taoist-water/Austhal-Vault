@@ -1,15 +1,14 @@
 # Arcane Spells
 
-### CANTRIPS (Cost: 0 Stress | Unmodifiable)
+### Cantrips (Cost: 0 Stress | Unmodifiable)
 
-- Force Bolt (Aggressor Action): Requires Wand or empty hand. Roll Wits + Arcana. Power 0. A raw concussive blast. (If using a Wand, the caster may spend 1 Stress to apply Elemental Shift for special weapon tags).
+- Force Bolt (Aggressor Action): Requires a Wand or empty hand. Roll Wits + Arcana. Power 0. A raw, concussive blast of kinetic force. It won't shatter armor, but it is a perfectly reliable fallback when your Locked Stress engine is running too hot to risk casting a larger spell.
     
-- Mage Hand: Telekinetically manipulate an object weighing up to 10 lbs within 30 feet.
+- Mage Hand (Utility): Telekinetically manipulate an object weighing up to 10 lbs within 30 feet. Perfect for pulling rusted levers from a safe distance, lifting a key ring off a sleeping guard, or passing an item to an engaged ally without provoking a free strike.
     
-- Minor Illusion: Create a static hologram or a disembodied sound (e.g., footsteps) to distract guards or force an enemy to roll their Engagement Draw with Disadvantage if they are startled by it.
+- Minor Illusion (Utility/Tactical): Create a static hologram or a disembodied sound (e.g., footsteps). It is excellent for distracting guards, but in combat, it can be used to force an enemy to roll their Engagement Draw with Disadvantage if they are startled by the sudden noise or flash.
     
-- Flare / Chill: Cause a small object to instantly combust or freeze solid.
-    
+- Flare / Chill (Utility): Cause a small object to instantly combust or freeze solid. This is your minor illumination tool—instantly igniting a torch, campfire, or an oil slick in the dark. Alternatively, you can use Chill to freeze a rusted padlock so the party's Fighter can shatter it with a hammer.
 
 ### NOVICE SPELLS (Cost: 1 Stress)
 
