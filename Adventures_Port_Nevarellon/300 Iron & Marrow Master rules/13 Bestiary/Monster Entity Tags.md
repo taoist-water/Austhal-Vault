@@ -10,7 +10,7 @@ To make non-human enemies feel truly terrifying, you give them unique biological
     
 - Amorphous: (e.g., Slimes, Swarms). This creature is immune to the Engagement Draw. It is always the Aggressor unless the player spends 1 Momentum to intercept it. Cannot be Grappled, Disarmed, or knocked Prone.
     
-
+- Feral:  ignore the -1 penalty from their first point of Dissonant Stress during Melee Clashes.
 #### The Undead (Zombies, Skeletons, Vampires)
 
 - Immunities: Immune to the Poisoned, Bleeding, and Fatigued conditions. They have no stamina, so they never take Stress penalties.
