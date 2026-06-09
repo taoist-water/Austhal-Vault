@@ -8,7 +8,11 @@ Free Actions:
 ### Aggressor Actions:
 
 - Strike: 2D6 + Prowess + Melee. The standard attack. If you win, work out Impact.
-    
+
+- Power Strike: 2D6 + Prowess + Melee. Apply a - 2 to the Clash roll, to add +2 to the Impact calculation.
+
+- Precise Stike: 2D6 + Reflex + Melee. Apply a - 2 to the Clash roll, to Bypass 2 points of opponents Armour.
+
 - Grab: 2D6 + Prowess + Athletics. Attempt to Hold the Target in a grapple. Win, you and the opponent gain the In-Fighting and Grappled conditions.
     
 - Shove: 2D6 + Prowess + Athletics. The physical Push, you bash the target to create space. If you win, the target takes 1 Stress and is pushed back 5 feet out of your threat Zone.

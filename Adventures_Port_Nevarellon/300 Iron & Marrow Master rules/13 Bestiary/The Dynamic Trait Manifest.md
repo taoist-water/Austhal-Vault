@@ -1,7 +1,7 @@
 # The Dynamic Trait Manifest
 Design Philosophy: Keep stat blocks microscopic. Let traits dictate tactical behavior, stress interaction, and momentum usage.
 
-###  Core Integration Rules
+####  Core Integration Rules
 
 - Fodder: Max 1 Trait. Fodder cannot spend Momentum unless led by a leader.
     
@@ -14,7 +14,7 @@ Design Philosophy: Keep stat blocks microscopic. Let traits dictate tactical beh
 
 ##  DEFENSIVE & PHYSIOLOGICAL TRAITS
 
-### Hardy 
+#### Hardy 
 
 - Mechanical Translation: This creature's physical resilience acts as a natural buffer against injury.
     
@@ -23,13 +23,13 @@ Design Philosophy: Keep stat blocks microscopic. Let traits dictate tactical beh
 - Dev Note: Put this on frontline brutes, or undead to make players burning through their health pool feel the attrition.
     
 
-### Plated 
+#### Plated 
 - Mechanical Translation: Thick hide, rusted iron carapace, or heavy plate scales shield vital locations.
     
 - 2d6 Application: Reduces all incoming standard Impact damage by a flat -1. However, if a player achieves Perfect Form (rolling a natural 3 and 4 on their Clash check) or triggers an Ace (exploding 6), this armor is bypassed for that attack.
     
 
-### Skittering 
+#### Skittering 
 
 - Mechanical Translation: Unnatural speed, shifting limbs, or erratic reflexes make them slippery targets.
     
@@ -40,21 +40,21 @@ Design Philosophy: Keep stat blocks microscopic. Let traits dictate tactical beh
 
 ##  OFFENSIVE & MARTIAL TRAITS
 
-### Brute
+#### Brute
 
 - Mechanical Translation: Heavy, sweeping strikes designed to shatter shields and break bones.
     
 - 2d6 Application: When this creature wins a Clash as the Aggressor, it inflicts +1 Impact and forces the target back 1 square. If the target hits a wall or solid obstacle, they immediately take 1 Dissonant Stress from the concussive force.
     
 
-### Vicious 
+#### Vicious 
 
 - Mechanical Translation: Jagged fangs, rusted serrated daggers, or disease-ridden claws that leave lingering wounds.
     
 - 2d6 Application: If this creature inflicts damage on a player character, the target must immediately make a Prowess check. If they fail they gain the Bleeding condition. On their next Activation, they can spend 1 Momentum to "Steady the Wound".
     
 
-### Swarm 
+#### Swarm 
 
 - Mechanical Translation: Small, overwhelming numbers of vermin or gibbering minor cultists attacking as one mind.
     
@@ -92,7 +92,7 @@ Design Philosophy: Keep stat blocks microscopic. Let traits dictate tactical beh
 
 To see how easily this deploys, let’s combine a baseline Tier 2 Elite template with this manifest:
 
-- Baseline Stats: Prowess +2, Reflex +2, Wits +1, Will +0. Stress Limit: 4. Base Impact: 2.
+- Baseline Stats: Prowess +2, Reflex +2, Wits +1, Will +0. Stress Limit: 4. Base Power: 2.
     
 - Traits Added: Skittering + Vicious
     
