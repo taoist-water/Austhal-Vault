@@ -1,8 +1,10 @@
 # Iron & Marrow Master Rules
+![[cm-07 The Golden Rules]]
+![[cm-02 Dice Mechanics]]
+![[]]
+![[300 Iron & Marrow Master rules/01 Character Creation/Determine Attributes]]
 
-![[300 Iron & Marrow Master rules/01]]
 
-![[Attributes and Derived Stats]]
 
 ![[Dice Mechanics]]
 
