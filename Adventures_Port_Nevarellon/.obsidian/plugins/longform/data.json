@@ -6,6 +6,16 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-06-12T09:01:43.813Z",
+      "total": 0,
+      "drafts": {
+        "Iron & Marrow Rule set v1.0/Iron and Marrow Master rules/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2026-06-11T06:19:09.717Z",
       "total": 0,
       "drafts": {
