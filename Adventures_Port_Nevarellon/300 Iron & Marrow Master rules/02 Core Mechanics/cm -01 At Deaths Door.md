@@ -14,7 +14,7 @@ When a character takes a Wound that fills their final Wound Slot (typically the 
     
 - **Failure:** You secure a **Death Mark**. You are bleeding out or slipping into shock.
     
-- **Fumble (Two 1s):** The trauma is too severe. You instantly die.
+- **Fumble (Two natural 1s):** The trauma is too severe. You instantly die.
     
 
 **3. The Outcomes**

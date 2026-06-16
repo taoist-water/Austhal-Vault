@@ -1,12 +1,12 @@
 # Determine Attributes
 You have Development Points [[DP]]: 4 Points to distribute among your four Attributes. 
 
-- All Attributes start at 0.
+- All Attributes start at 1.
 
 (Cost: 1 Point = +1 to an Attribute. Max: 3).\[Dev note\] Allow racial modifiers to break this rule at creation? \[/Dev note\]
 
-Attributes represent your raw capabilities. Mortal Attributes and Skills are strictly capped at +3. You divide your starting points among four core Attributes. 
-- The mortal baseline is 0. (Scale: -1 Deficient, +0 Average, +1 Good, +2 Exceptional, +3 Peak Mortal Limit).
+Attributes represent your raw capabilities. Mortal Attributes and Skills are strictly capped at +5. You divide your starting points among four core Attributes. 
+
 
 1. Prowess: Physical power, strength, and brute force.
     

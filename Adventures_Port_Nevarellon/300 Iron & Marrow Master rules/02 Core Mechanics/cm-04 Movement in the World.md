@@ -1,6 +1,6 @@
 # \[cm-04\]Movement in the world:
 
-- Moving faster than half Movement value whilst stealthing causes a - 2 to stealth rolls.
+- Moving faster than half Movement value whilst using Stealth causes disadvantage to stealth rolls.
     
 - Difficult terrain causes disadvantage on checks within it, halves movement value
     
