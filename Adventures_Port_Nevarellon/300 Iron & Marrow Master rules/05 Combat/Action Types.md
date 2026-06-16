@@ -37,9 +37,10 @@ Free Actions:
     
 ### Activation Actions:
 
-- Disengage: If all you do is move for your activation you can leave an enemy threat zone without provoking a free strike. Otherwise its auto Reactor 2D6 + Reflex + Athletics V Aggressor Strike Action, potentially getting hit on the way out..
+- Disengage: If all you do is move for your activation you can leave an enemy threat zone without provoking a free strike. 
+	- otherwise: a Dodge roll V opponent Strike Action.
     
-- The Regroup Action
+- The Regroup Action:
 
 _Sometimes, survival means giving up the offensive just to fix a deteriorating situation._
 
@@ -51,26 +52,26 @@ Taking the **Regroup** action consumes a player's entire turn. They cannot decla
 
 - Tactical Assessment: Skill test based on context, gains momentum.
     
-- Ready: Hold your action to stand ready for the next engagement. +2 to the next The Draw roll.
+- Ready: Hold your action to stand ready to choose when to act next in the activation order. if the held action hasn't been used this round the player goes last in the activation order for this round.
     
-- Charge: ** only if within move distance. Gain +2 to the engagement roll (The Draw). - 2 to the The Clash roll. Aggressor in a Tie.
+- Charge: ** only if within move distance. Gain +2  to the The Clash roll and breaks ties(the equivalent of winning by 1).  suffer a -2 to reactor actions until next activation.
     
-- Grounding: An Arcanist can attempt to vent the magical heat in their mind. Roll Wits + Arcana (TN 8). Success: Unlock [Wits] amount of Stress (Min 1). Massive Success (12+): Clear all Locked Stress. Fumble: The energy 'leaks'—all Locked Stress becomes Dissonant.
+- (dev note) Grounding: An Arcanist can attempt to vent the magical heat in their mind. Roll Wits + Arcana (TN 8). Success: Unlock [Wits] amount of Stress (Min 1). Massive Success (12+): Clear all Locked Stress. Fumble: The energy 'leaks'—all Locked Stress becomes Dissonant. (/dev note)
     
 - Skill based Actions: based on skill
     
 
-### The Twin-Blade Stance (Two weapon fighting)
+(dev note) ### The Twin-Blade Stance (Two weapon fighting)
 
-When wielding two one-handed weapons (a primary weapon and a weapon with the Sidearm tag), the character gains the following benefits:
+When wielding two one-handed weapons (a primary weapon and a weapon with the Swift tag), the character gains the following benefits:
 
 - Engagement Versatility: If either weapon has the Versatile tag, you gain the +1 bonus to your Clash roll when performing a Parry Reactor action.
     
-- Draw Advantage: You may choose which weapon's tags to apply to the Engagement Draw. For example, having a Reach weapon (like a spear) in one hand and a Sidearm (like a dagger) in the other allows you to use the Reach bonus (+1 to the Draw) while maintaining the ability to fight effectively in close quarters.
+- Draw Advantage: You may choose which weapon's tags to apply to the Engagement Draw. For example, having a Reach weapon (like a spear) in one hand and a Swift (like a dagger) in the other allows you to use the Reach while maintaining the ability to fight effectively in close quarters.
     
 
 The "Twin Strike" Maneuver (Momentum Spend)
 
 - Effect: When you win a Clash as an Aggressor, you may spend 1 Momentum to immediately perform a second strike with your off-hand weapon.
     
-- Impact: This second strike does not require a new roll; instead, it deals the off-hand weapon's Power + 1 Stress to the target. This represents a quick follow-up flick or "stinger" that keeps the pressure on the opponent.
+- Impact: This second strike does not require a new roll; instead, it deals the off-hand weapon's Power + 1 Stress to the target. This represents a quick follow-up flick or "stinger" that keeps the pressure on the opponent. (/dev note)

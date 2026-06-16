@@ -53,12 +53,3 @@ Larger creatures hit with overwhelming force, severely taxing the defender's abi
     
 ---
 
-### 3. Example: Fighting a Troll (Scale +1)
-
-Let's look at how this changes the Engagement Flow using the system's math:
-
-- The Troll: Prowess +3. Normal WT would be 7 (4 base + 3 Prowess). Because it is Large (Scale +1), its WT becomes 8.
-    
-- The Clash: A Standard (Scale 0) Dwarven Knight attacks the Troll. Because the Troll is one size larger, the Dwarf gets a +1 to their Clash roll to land a hit.
-    
-- The Defense: On the Troll's turn, it becomes the Aggressor. The Dwarf tries to Block. Even if the Dwarf rolls well and reduces the impact below their WT, the sheer weight of the Troll's blow means the Dwarf takes 1 automatic Stress just for trying to catch the blow on their shield.
