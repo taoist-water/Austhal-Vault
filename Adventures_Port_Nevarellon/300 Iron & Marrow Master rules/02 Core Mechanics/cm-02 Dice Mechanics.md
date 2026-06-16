@@ -1,6 +1,13 @@
 # \[cm-02\] Dice Mechanics
 
 - The Check: 2d6 + Attribute + Skill vs. TN 8 (or Opposed).
+	- When opposed in Combat, using a weapon is resolved as follows;
+		- Aggressor chooses an action strike or shoot.
+		- roll 2d6 + Prowess/Reflex + melee/ranged + weapon Power
+		- The target (reactor) choose an action like parry and rolls 2d6 + Reflex + Melee + Weapon power.
+		- the Higher roll wins.
+		- the difference in between the winner and the loser is the Impact.
+		- Impact is compared to the losers wounds threshold.
 - Sometimes the degree of success matters, when this is the case, the following defines margins of success;
     - Margins of success:
 	    - Standard Success (0 - 4)

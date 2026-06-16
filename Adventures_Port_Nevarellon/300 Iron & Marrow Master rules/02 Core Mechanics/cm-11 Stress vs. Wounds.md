@@ -10,20 +10,19 @@ A character's capacity to handle pressure before breaking is defined by their St
 
 Stress is strictly divided into two types, which affect the character's capabilities in drastically different ways:
 
-- **Dissonant Stress:** This represents immediate panic, physical pain, fumbles, or sudden exhaustion. It is incredibly dangerous because it applies a *cumulative -1 penalty per point to all subsequent dice rolls*. This penalty simulates a character losing their edge as they are battered and terrified. It can be cleared relatively quickly by spending Momentum, taking a short rest, or using consumable items.
+- **Dissonant Stress:** This represents immediate panic, physical pain, fumbles, or sudden exhaustion. It is incredibly dangerous because it applies a *cumulative -1 penalty per point to all subsequent dice rolls*. This penalty simulates a character losing their edge as they are battered and terrified. It can be cleared relatively quickly by spending Momentum, taking a The Breather, or using consumable items.
     
-- **Locked Stress:** This represents sustained mental and physiological burdens, such as the mathematical heat of casting Arcane spells, suffering through specific negative conditions, or enduring harsh environmental hazards. Crucially, Locked Stress ***does not*** apply the negative -1 penalty to your dice rolls. However, it fills up your Stress Limit and is much harder to clear, requiring specific actions like an Arcanist's Grounding maneuver, a full night's rest, or specific Downtime Endeavours.
+- **Locked Stress:** This represents sustained mental and physiological burdens, such as the mathematical heat of casting spells, suffering through specific negative conditions, or enduring harsh environmental hazards. Crucially, Locked Stress ***does not*** apply the negative -1 penalty to your dice rolls. However, it fills up your Stress Limit and is much harder to clear, requiring specific actions like an Arcanist's Grounding maneuver, a full night's rest, or specific Downtime Endeavours.
     
 
-## The Death Spiral
+### The Death Spiral (Dissonant Stress)
 
-The true terror of Stress lies in what happens when the meter is full. If a character's total combined Stress (Locked + Dissonant) exceeds their Stress Limit, their mental focus entirely shatters.
+_Iron & Marrow_ is a game of psychological and physical attrition. Stress is the primary currency of exhaustion.
 
-When this threshold is crossed, two things happen immediately:
-
-1. All current Locked Stress instantly converts into Dissonant Stress, immediately applying its full mathematical penalties (-1 per point) to all future rolls.
+- **The Penalty:** Every active point of Dissonant Stress applies a cumulative **-1 penalty** to all of the character's future rolls.
     
-2. Any excess Stress points beyond the limit are instantly converted into physical Wounds.
+- **Locked Stress:** Certain devastating magical abilities, critical failures, or specific enemy attacks can inflict _Locked_ Stress. This functions exactly like normal Stress but cannot be cleared through normal rest, requiring rare alchemical narcotics to purge.
+- **Excess Stress:** is converted straight to wounds.
     
 
 ### Environmental and Magical Toll
@@ -69,12 +68,3 @@ Weapons are not the only things that cause Wounds. Wounds are inextricably linke
 - If a character's Stress Limit is maxed out, any further Stress they take instantly converts into physical Wounds. This means a character can suffer lethal trauma simply from the systemic shock of freezing temperatures, absolute exhaustion, or the mystical blowback of channeling too much raw Arcane energy.
     
 
-### The Grind of Healing
-
-Because Wounds represent severe tissue and structural damage, they cannot be simply slept off overnight.
-
-- Healing physical trauma requires medical supplies or magic.
-    
-- Naturally, it takes 1 Wound per 3 days of rest to heal, or it must be addressed via dedicated Medicine checks during downtime.
-    
-- This makes avoiding Wounds via clever Momentum spends (like the _Desperate Soak_ maneuver, which converts a Wound into 2 Stress) absolutely vital for a party's long-term survival in the wild.

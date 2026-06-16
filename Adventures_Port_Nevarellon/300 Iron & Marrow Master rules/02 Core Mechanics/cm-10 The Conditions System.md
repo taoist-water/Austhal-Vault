@@ -1,7 +1,10 @@
 # \[cm-10\] The Conditions System
 ## Negative Conditions:
 
--  *Incapacitated:*
+- 
+- *Rigor:*
+- *Anchored:* 
+- *Incapacitated:*
     
 - *Immobilized:*
     

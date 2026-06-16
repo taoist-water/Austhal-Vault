@@ -7,17 +7,14 @@ Free Actions:
 
 ### Aggressor Actions:
 
-- Strike: 2D6 + Prowess + Melee. The standard attack. If you win, work out Impact.
-
+- Strike: 2D6 + Prowess + Melee + Weapon Power. The standard attack. 
 - Power Strike: 2D6 + Prowess + Melee. Apply a - 2 to the Clash roll, to add +2 to the Impact calculation.
-
-- Precise Stike: 2D6 + Reflex + Melee. Apply a - 2 to the Clash roll, to Bypass 2 points of opponents Armour.
 
 - Grab: 2D6 + Prowess + Athletics. Attempt to Hold the Target in a grapple. Win, you and the opponent gain the In-Fighting and Grappled conditions.
     
 - Shove: 2D6 + Prowess + Athletics. The physical Push, you bash the target to create space. If you win, the target takes 1 Stress and is pushed back 5 feet out of your threat Zone.
     
-- Shoot: 2D6 + Reflex + Ranged. The standard Ranged attack. If you win, work out Impact.
+- Shoot: 2D6 + Reflex + Ranged + weapon Power. The standard Ranged attack. If you win, work out Impact.
     
 - Cast Spell: See spell description.
     
@@ -26,15 +23,15 @@ Free Actions:
 
 *When targeted by a ranged attack outside of movement distance and without a ranged weapon, the target of an activation is automatically the Reactor.*
 
-- Block: 2D6 + Prowess + Block. If you Win you suffer no impact. If you Lose, if using a shield, subtract Shield Value [SV] from Impact.
+- Block: 2D6 + Prowess + Block + Shield value. 
     
-- Dodge: 2D6 + Reflex + Acrobatics. Avoid damage and instantly shift 5ft.
+- Dodge: 2D6 + Reflex + Acrobatics. when choosing this reaction, the aggressor does not add the weapon value to the their roll. Avoid damage and instantly shift 5ft.
     
 - Brace: Brace: 2d6 + Prowess + Athletics. If you win, you take no impact. If you lose, you gain a +2 bonus to your Wound Threshold [T] when calculating Impact. 
     
-- Parry: 2D6 + Reflex + Melee. Win and Deflect the blow. Lose calculate Impact.
+- Parry: 2D6 + Reflex + Melee. Win and Deflect the blow calculate impact against the aggressor.
     
-- Shoot:**ranged option**, fire ranged weapon as target closes in. Win calculate Impact. Lose, the shot goes astray, suffering the attacker's action.
+- Shoot:**ranged option**, fire ranged weapon as target closes in. Win calculate Impact.
     
 - Cast Spell: See spell description.
     
@@ -42,6 +39,16 @@ Free Actions:
 
 - Disengage: If all you do is move for your activation you can leave an enemy threat zone without provoking a free strike. Otherwise its auto Reactor 2D6 + Reflex + Athletics V Aggressor Strike Action, potentially getting hit on the way out..
     
+- The Regroup Action
+
+_Sometimes, survival means giving up the offensive just to fix a deteriorating situation._
+
+Taking the **Regroup** action consumes a player's entire turn. They cannot declare an Aggressor Strike or make a tactical movement. Instead, they drop their guard to focus entirely on one of the following critical tasks:
+
+- **Rummage the Pack:** Digging past armor and straps to retrieve a stowed item (such as a potion, a specialized tool, or a backup weapon) from **The Pack** inventory slots. Items in The Pack cannot be accessed mid-combat without taking this action.
+    
+- **Clear a Severe Condition:** Spending the precious seconds required to pat out the flames of the **Ablaze** condition, untangle themselves from a dropped net, or blindly wash acid from their visor.
+
 - Tactical Assessment: Skill test based on context, gains momentum.
     
 - Ready: Hold your action to stand ready for the next engagement. +2 to the next The Draw roll.
