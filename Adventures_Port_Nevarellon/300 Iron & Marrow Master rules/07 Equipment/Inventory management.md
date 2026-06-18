@@ -39,17 +39,3 @@ This is where the encumbrance system ties directly into your Death Spiral. As a 
 - Narrative Impact: This forces agonizing decisions. Do you drop the heavy bag of gold you just found to carry your bleeding ally, or do you leave the ally behind to keep the treasure?
     
 
-### 4. Abstracting Consumables: The Supply Die
-
-Tracking exactly 14 arrows, 3 days of rations, and 5 torches is exactly the kind of bookkeeping that bogs down gritty RPGs. Instead, we abstract universal dungeon supplies into a single cascading die.
-
-- The Mechanic: A player (or the party collectively) purchases a Supply Die (starts at a d8). This represents their loose quiver of arrows, rations, and lantern oil.
-    
-- The Roll: At the end of a combat encounter where ranged weapons were fired, or at the end of a 30-minute Breather, the GM demands a Supply Check. The designated player rolls the Supply Die.
-    
-- The Cascade:
-    
-
-- If they roll a 1 or 2, the supplies dwindle. The die "steps down" to the next lowest size (d8 becomes a d6. A d6 becomes a d4).
-    
-- If they roll a 1 or 2 on a d4, they are completely out of supplies. Bows are useless, and Breathers no longer provide any comfort until they restock.

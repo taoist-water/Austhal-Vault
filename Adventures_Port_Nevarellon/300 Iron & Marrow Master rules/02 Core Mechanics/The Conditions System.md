@@ -33,7 +33,54 @@
 - *Grappled:* When the aggressor: can choose to let go of the Grapple as a Free action. 
     - As the Reactor: ACTION:  Break grapple; 2d6 + Prowess + Athletics. Win and remove the grappled condition. Win by a margin of 3+ and take a 5ft step out of threat zone.
     
+### 1. Anchored (The Movement Lock)
 
+_The physical inability to reposition._
+
+- **The Mechanic:** The character’s movement speed is reduced to 0.
+    
+- **The Engine Interaction:** Because their feet are pinned, an Anchored character completely loses the ability to use the **Dodge** action in a Clash. They must rely on **Block** (shield), **Parry** (weapon), or **Brace** (taking the hit).
+    
+- **Clearance:** Cleared when the effect ends, or by using the _Regroup_ action to physically tear free.
+    
+
+### 2. Rigor (The Articulation Lock)
+
+_A severe stiffening of the joints, caused by nervous system shock, extreme cold, or necromancy._
+
+- **The Mechanic:** The character's movement is halved.
+    
+- **The Engine Interaction:** Because they cannot fluidly articulate their wrists or shift their weight, a character suffering from Rigor completely loses the ability to use the **Parry** or **Dodge** actions. If attacked, they must use **Block** or **Brace**. Furthermore, any Aggressor Strike they attempt suffers **Disadvantage**.
+    
+- **Clearance:** Fades automatically at the end of their next turn as the blood flow normalizes.
+    
+
+### 3. Ablaze (The Attrition Tax)
+
+_Active, ongoing environmental destruction to the character's physical body or gear._
+
+- **The Mechanic:** At the absolute start of the character’s turn, before they can move or act, they automatically suffer 1 Impact (which tests against their Wound threshold) and 1 Dissonant Stress from the panic.
+    
+- **The Engine Interaction:** It creates a brutal, ticking clock. A player cannot ignore it, or it will mathematically chew through their Stress Limit and push them into the Death Spiral without an enemy ever swinging a sword.
+    
+- **Clearance:** The character _must_ spend their turn taking the _Regroup_ action (stopping, dropping, and rolling) to extinguish the flames.
+    
+
+### 4. Regroup (The Universal Reset Action)
+
+_Regroup is not a condition; it is a universal **Aggressor Action** available to all characters and enemies._
+
+- **The Mechanic:** Instead of using their turn to declare a Strike, cast a spell, or reposition aggressively, the character spends their entire turn resetting their physical and mental state.
+    
+- **The Engine Interaction:** Taking the Regroup action allows a character to:
+    
+    1. Automatically clear physical conditions like _Ablaze_ or _Anchored_.
+        
+    2. Pick up a dropped weapon or shield.
+        
+    3. Spend Momentum mid-combat to clear a small amount of Dissonant Stress before they break (acting as a mini-Breather).
+        
+- **The Tactical Cost:** It costs the player their offensive output for the round, forcing the party to cover them while they recover.
 ## Positive Conditions:
 
 - *Blessed:* (Granted by Faith magic or holy sites). You feel the weight of the divine. You ignore the first point of Stress you would take in an encounter.
