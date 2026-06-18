@@ -1,4 +1,4 @@
-# Trench Fighter
+### Trench Fighter
 
 - Prerequisites: Prowess +1 or Reflex +1
     

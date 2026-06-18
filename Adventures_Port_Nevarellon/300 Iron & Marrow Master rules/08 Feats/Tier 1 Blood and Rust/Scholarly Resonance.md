@@ -1,4 +1,4 @@
-# Scholarly Resonance
+### Scholarly Resonance
 
 - Prerequisites: Arcana 2
     

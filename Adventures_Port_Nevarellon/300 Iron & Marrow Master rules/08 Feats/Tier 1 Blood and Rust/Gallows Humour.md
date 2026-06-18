@@ -1,4 +1,4 @@
-# Gallows Humour
+### Gallows Humour
 
 - Prerequisites: Influence +1 or Resolve +1
     

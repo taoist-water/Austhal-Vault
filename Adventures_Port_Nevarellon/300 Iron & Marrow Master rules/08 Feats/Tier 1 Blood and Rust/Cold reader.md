@@ -1,4 +1,4 @@
-# Cold Reader
+### Cold Reader
 
 - Prerequisites: Insight +1, Notice +1
     

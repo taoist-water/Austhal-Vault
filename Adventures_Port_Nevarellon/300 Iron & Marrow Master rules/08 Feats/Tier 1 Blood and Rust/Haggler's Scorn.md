@@ -1,4 +1,4 @@
-# Haggler’s Scorn
+### Haggler’s Scorn
 
 - Prerequisites: Influence +1
     

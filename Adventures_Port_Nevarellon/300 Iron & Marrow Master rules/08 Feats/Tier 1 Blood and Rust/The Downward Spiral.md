@@ -1,4 +1,4 @@
-# The Downward Spiral
+### The Downward Spiral
 
 - Prerequisites: Wits +1
     

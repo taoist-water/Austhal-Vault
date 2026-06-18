@@ -1,4 +1,4 @@
-# Tactical Mind
+### Tactical Mind
 
 - Prerequisites: Wits 2, Notice 2
     

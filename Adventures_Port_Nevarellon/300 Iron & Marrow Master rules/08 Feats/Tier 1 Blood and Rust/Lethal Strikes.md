@@ -1,4 +1,4 @@
-# Lethal Strikes
+### Lethal Strikes
 
 - Prerequisites: Melee 1
     

@@ -1,4 +1,4 @@
-# Calloused Lungs
+### Calloused Lungs
 
 - Prerequisites: Survival +1
     

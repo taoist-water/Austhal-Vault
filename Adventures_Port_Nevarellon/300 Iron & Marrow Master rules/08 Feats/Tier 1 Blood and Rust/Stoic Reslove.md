@@ -1,4 +1,4 @@
-# Stoic Resolve
+### Stoic Resolve
 
 - Prerequisites: Will +2, Resolve +1
     

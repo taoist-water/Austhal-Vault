@@ -1,4 +1,4 @@
-# Whispers in the Dark
+### Whispers in the Dark
 
 - Prerequisites: Stealth +1, Notice +1
     

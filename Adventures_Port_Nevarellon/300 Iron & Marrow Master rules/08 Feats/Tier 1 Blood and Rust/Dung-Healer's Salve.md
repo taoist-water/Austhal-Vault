@@ -1,4 +1,4 @@
-# Dung-Healer's Salve
+### Dung-Healer's Salve
 
 - Prerequisites: Medicine +1 or Crafting +1
     
