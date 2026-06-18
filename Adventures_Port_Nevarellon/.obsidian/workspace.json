@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/02 Core Mechanics/The Conditions System.md",
+                "file": "300 Iron & Marrow Master rules/01 Core Mechanics/Iron World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Conditions System"
+              "title": "Iron World"
             }
           }
         ]
@@ -194,32 +194,33 @@
   },
   "active": "8d4069f1c5467329",
   "lastOpenFiles": [
+    "300 Iron & Marrow Master rules/01 Core Mechanics/The Environment.md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/Iron World.md",
+    "300 Iron & Marrow Master rules/05 Combat/When it comes to Combat.md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/Iron Core.md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/Movement in the World.md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/The Conditions System.md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/The Momentum Economy.md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/The Social Engine.md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/At Deaths Door.md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/Rest and Recuperation.md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/Stress vs. Wounds.md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/The Core.md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/Dice Mechanics.md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/The Golden Rules.md",
+    "Iron and Marrow Master rules v1.0.md",
+    "300 Iron & Marrow Master rules/Iron and Marrow core/Index.md",
+    "300 Iron & Marrow Master rules/Iron and Marrow core",
     "300 Iron & Marrow Master rules/07 Equipment/Inventory management.md",
     "300 Iron & Marrow Master rules/07 Equipment/The Community Die.md",
     "300 Iron & Marrow Master rules/07 Equipment/Alchemical wares and Field Consumables.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/The Momentum Economy.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/Dice Mechanics.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/Movement in the World.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/The Conditions System.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/The Core.md",
-    "300 Iron & Marrow Master rules/01 Character Creation/Creation summary.md",
-    "300 Iron & Marrow Master rules/01 Character Creation/Attributes and Derived Stats.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/Stress vs. Wounds.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/The Social Engine.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/The Environment.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/Rest and Recuperation.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/At Deaths Door.md",
-    "300 Iron & Marrow Master rules/02 Core Mechanics/The Golden Rules.md",
+    "300 Iron & Marrow Master rules/02 Character Creation/Creation summary.md",
+    "300 Iron & Marrow Master rules/02 Character Creation/Attributes and Derived Stats.md",
     "Iron & Marrow Rule set v1.0/Iron and Marrow Master rules/Index.md",
-    "300 Iron & Marrow Master rules/05 Combat/When it comes to Combat.md",
     "300 Iron & Marrow Master rules/05 Combat/Size Scale.md",
     "300 Iron & Marrow Master rules/05 Combat/Ranges.md",
     "300 Iron & Marrow Master rules/05 Combat/Action Types.md",
     "300 Iron & Marrow Master rules/03 Skills/Determine Skills.md",
-    "300 Iron & Marrow Master rules/01 Character Creation/Determine Attributes.md",
-    "300 Iron & Marrow Master rules/13 Bestiary/Monster Examples.md",
-    "300 Iron & Marrow Master rules/07 Equipment/Weapons.md",
-    "300 Iron & Marrow Master rules/07 Equipment/Weapon Tag List.md",
     "Iron & Marrow Rule set v1.0/Iron and Marrow Master rules/01 Character Creation 1",
     "Iron & Marrow Rule set v1.0/Iron and Marrow Master rules",
     "Iron & Marrow Rule set v1.0",
@@ -229,7 +230,6 @@
     "300 Iron & Marrow Master rules/08 Feats/Tier 1 Blood and Rust",
     "300 Iron & Marrow Master rules/Dev notes",
     "300 Iron & Marrow Master rules/15 Glossary",
-    "300 Iron & Marrow Master rules/14 GM Tools",
     "Untitled.canvas"
   ]
 }

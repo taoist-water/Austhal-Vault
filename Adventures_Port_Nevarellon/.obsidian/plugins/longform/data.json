@@ -1,7 +1,7 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Iron & Marrow Rule set v1.0/Iron and Marrow Master rules/Index.md",
+  "selectedDraftVaultPath": "300 Iron & Marrow Master rules/Iron and Marrow core/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
@@ -10,6 +10,10 @@
       "total": 0,
       "drafts": {
         "Iron & Marrow Rule set v1.0/Iron and Marrow Master rules/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "300 Iron & Marrow Master rules/Iron and Marrow core/Index.md": {
           "total": 0,
           "scenes": {}
         }

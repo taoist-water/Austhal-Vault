@@ -1,0 +1,200 @@
+#  The Golden Rules:
+- Bonuses to Wound Threshold from magical sources (Spells, Auras) do not stack. A character only benefits from the highest single bonus. 
+- All non-Opposed checks are against a Target Number [[TN|TN]] 8.
+- Situational Modifiers are applied at GM’s discretion, +2, -2, -4.
+- Multiple sources of [[300 Iron & Marrow Master rules/15 Glossary/Advantage|Advantage]] do not add more dice; they instead grant a flat +1 bonus to the total.
+- Multiple sources of [[300 Iron & Marrow Master rules/15 Glossary/Disadvantage|Disadvantage]] do not add more dice; they instead grant a flat -1 bonus to the total.
+
+# Dice Mechanics
+
+- The Check: 2d6 + Attribute + Skill vs. TN 8 (or Opposed).
+	- When opposed in Combat, using a weapon is resolved as follows;
+		- Aggressor chooses an action strike or shoot.
+		- roll 2d6 + Prowess/Reflex + melee/ranged + weapon Power
+		- The target (reactor) choose an action like parry and rolls 2d6 + Reflex + Melee + Weapon power.
+		- the Higher roll wins.
+		- the difference in between the winner and the loser is the Impact.
+		- Impact is compared to the losers wounds threshold.
+- Sometimes the degree of success matters, when this is the case, the following defines margins of success;
+    - Margins of success:
+	    - Standard Success (0 - 4)
+	    -  High Success (5 -11)
+	    - Massive Success (12+)
+- Fates Bounty (double 6s): When a natural double 6 is rolled, the player (or Elite/boss NPC)  rolls an additional die and adds it to the total. This is only done once.
+- Fumble: Automatic failure. The character immediately suffers 3 Stress.
+- \[dev note\]Perfect Sequence (Universal Combat Rule): If a Prowess or Reflex check results specifically in a 3 and a 4 (creating a natural 7), the character achieves "Perfect Form". They may immediately perform a Free Shift (move 1 square) without triggering a Reactor action from the enemy. \[/dev note\]
+_____________________________________________________________________
+# The Momentum Economy
+
+## The Momentum Bank
+
+Momentum represents tactical flow, adrenaline, and sudden strokes of genius. Each player maintains a personal bank capped at **5 Momentum**.
+
+- **Generation:** Players earn 1 Momentum by winning an Aggressor Clash, evading a trap, or executing an ambush.
+    
+- **Spending (The Rule-Breakers):** Momentum is never spent to add a "+1" to a die. It is spent to break the rules. Players can spend Momentum to instantly clear debilitating conditions (like _Anchored_), construct improvised alchemical explosives mid-dungeon, rapidly patch _Damaged_ armor with spit and twine, or bend the narrative via flashbacks.
+
+### 1. The Skill Pillar (The Margin of Success)
+
+ If we want to keep the engine unified, Momentum generation should be directly tied to the Margin math we have built. It shouldn't be arbitrary; it should be the mechanical reward for overwhelming success.
+
+-  Combat: Winning an Aggressor Clash by a Margin of 5+ (High Success) or 12+ (Massive Success).
+    
+- Magic: As we built in the spellbooks, hitting that Margin of 5+ on an unopposed Arcana check generates Momentum because the caster executed the spell flawlessly.
+    
+- Exploration: Exceeding an unopposed Target Number (like TN 8 for picking a lock or scaling a wall) by a Margin of 5+.
+    
+### 2. The Engine Pillar (The Exploding Dice)
+
+Because the 2d6 engine only explodes on a Natural 12, that moment is already mechanically rare and highly celebrated at the table.
+
+-  The Trigger: Anytime a player rolls a Natural 12 (Double 6s) on any check—whether it is a Strike, a Parry, or a lore check—they instantly generate 1 or 2 Momentum, regardless of the final Margin. It mathematically reinforces that "perfect luck" fuels their adrenaline.
+    
+### 3. The Sacrificial Pillar (The Desperate Push)
+
+ In a gritty system like Iron & Marrow, players should have a way to generate Momentum when the dice are failing them, but it must come at a terrible physiological cost.
+
+- The Trigger: A player can voluntarily take 1 or 2 Dissonant Stress to instantly generate 1 Momentum. This perfectly feeds into the Death Spiral. They are burning their own mental threshold to force a tactical advantage, pushing themselves closer to breaking just to survive the current round.
+________________________________________________________________________
+Momentum must become a currency of Rule-Breaking and Action Economy. Players spend Momentum to temporarily alter the laws of the game.
+
+ 
+### Cost 1 Momentum: Tactical Shifts
+
+ These are cheap, immediate physiological or tactical reactions.
+
+- Shake It Off (Condition Clearance): As a Free Reaction at the start of their turn, the player spends 1 Momentum to immediately clear a physical condition like Ablaze, Anchored, or Rigor without having to waste their entire turn taking the Regroup action.
+    
+-  Dictate the Clash (Enemy Manipulation): When declaring an Aggressor Strike, the player spends 1 Momentum to forcefully eliminate one of the enemy's defense options. (e.g., "I am swinging so wide, you cannot Parry this. You must Block or Dodge.")
+    
+-  The Blood Price (Triage/Stress Mitigation): When an enemy's Impact exceeds the player's Wound Threshold and is about to cause a physical Wound, the player can spend 1 Momentum to convert the physical trauma into mental trauma. They take 0 Wounds, but instantly take 2 Dissonant Stress instead.
+    
+### Cost 1: Spit and Twine (Quick Fixes)
+
+-  The Patch Job: Your armor or weapon just gained the Damaged tag, rendering it mechanically weak. Spend 1 Momentum to hurriedly bind it with leather straps, sap, or wire. You completely ignore the Damaged tag for the duration of the next combat encounter. Once the fight ends, the gear breaks again.
+    
+-  Shivs and Shrapnel: Spend 1 Momentum to instantly fashion a crude, single-use Power 1 weapon (a glass shiv, a heavy bone club) or a rudimentary tool (a makeshift lockpick, a wedge for a door) from the immediate environment, without needing to roll for success.
+    
+### Cost 2 Momentum: Breaking the Engine
+
+ These manipulate the action economy and the Bestiary tags directly.
+
+- The Surge (Action Economy): After successfully winning an Aggressor Clash, the player spends 2 Momentum to immediately take a second, completely free Aggressor action before the enemy can respond or the turn passes.
+    
+- Armor Piercing (Tag Nullification): Before rolling a Strike, the player spends 2 Momentum. For this single Clash, the player’s attack completely ignores the enemy's Shield Value (SV), Ablative Armor, or Construct tags. The enemy is treated as unarmored for the resulting Impact calculation.
+    
+- Adrenaline Flush (Death Spiral Reversal): As a Free Reaction, the player spends 2 Momentum to instantly clear 1 Dissonant Stress. This is the only way to heal the mind mid-combat without casting a spell or finding a safe room for a Breather.
+    
+### Cost 2: Volatile Concoction (Improvised Alchemy)
+
+-  Dungeon Chemistry: You don't have a lab, but you have monster viscera, dungeon flora, and desperation. Spend 2 Momentum to quickly mash together a single-use tactical item—like a blinding powder, a highly localized acid vial to melt an iron lock, or a crude smoke bomb. When used, it perfectly mimics the effect of a Tier 1 environmental spell (like Choking Vapor or Caustic Deluge), allowing non-magic users to temporarily alter the battlefield.
+    
+-  Savage Reinforcement: Spend 2 Momentum to drive spikes, nails, or shattered glass into your shield or gauntlets. The next time you successfully Parry or Block an enemy's Strike, the enemy automatically suffers 1 Impact from striking the jagged metal. The reinforcement then breaks off.
+    
+### Cost 3 Momentum: The Ultimates
+
+ These are massive, encounter-shifting expenditures that drain more than half of their maximum bank.
+
+-  The Decisive Blow (Forcing the Threshold): The player wins an Aggressor Clash, but the math reveals the Impact is lower than the Boss's massive Wound Threshold, meaning it would normally only cause 1 Stress. The player spends 3 Momentum to drive the blade through anyway. The attack automatically inflicts exactly 1 Wound Slot, bypassing the Threshold check entirely.
+    
+-  Interrupt / Seize the Initiative: When the GM declares an enemy is about to take an Aggressor action against the player or an ally, the player can spend 3 Momentum to literally pause time. The player instantly interrupts the enemy, taking a full Aggressor turn before the enemy's action resolves. If the player kills or breaks the enemy during this interrupt, the enemy's declared action never happens.
+
+### Cost 3: Tactical Engineering (The MacGyver Moment)
+
+-  The Kill-Box Barricade: You only have minutes before the swarm arrives. Spend 3 Momentum to cannibalize the environment (pews, iron gates, rubble) to create a flawless, booby-trapped choke point. The first enemy that attempts to cross the threshold automatically suffers a - ### massive kinetic hit (e.g., 5 Impact) and gains the Anchored condition without you ever having to roll a Strike.
+    
+-  Cannibalize Gear: Instead of a temporary patch, you permanently repair a critical piece of gear. Spend 3 Momentum and destroy one piece of metal equipment (an enemy's dropped sword, a heavy iron pot) to permanently strip the Damaged tag from your primary weapon or armor mid-dungeon.
+_______________________________________________________________________
+# Stress vs. Wounds
+## Stress
+In _Iron & Marrow_, Stress is the primary mechanical representation of a character's mental fortitude, stamina, and panic. It serves as the crucial buffer before taking physical, lethal trauma (Wounds) and acts as the central pacing mechanic for combat, magic, and survival.
+
+### The Stress Limit
+
+A character's capacity to handle pressure before breaking is defined by their Stress Limit, which is calculated as **2 + (Wits x 2) + Feat Bonus + Species bonus.**
+
+### The Two Categories of Stress
+
+Stress is strictly divided into two types, which affect the character's capabilities in drastically different ways:
+
+- **Dissonant Stress:** This represents immediate panic, physical pain, fumbles, or sudden exhaustion. It is incredibly dangerous because it applies a *cumulative -1 penalty per point to all subsequent dice rolls*. This penalty simulates a character losing their edge as they are battered and terrified. It can be cleared relatively quickly by spending Momentum, taking a The Breather, or using consumable items.
+    
+- **Locked Stress:** This represents sustained mental and physiological burdens, such as the mathematical heat of casting spells, suffering through specific negative conditions, or enduring harsh environmental hazards. Crucially, Locked Stress ***does not*** apply the negative -1 penalty to your dice rolls. However, it fills up your Stress Limit and is much harder to clear, requiring specific actions like an Arcanist's Grounding maneuver, a full night's rest, or specific Downtime Endeavours.
+    
+
+### The Death Spiral (Dissonant Stress)
+
+_Iron & Marrow_ is a game of psychological and physical attrition. Stress is the primary currency of exhaustion.
+
+- **The Penalty:** Every active point of Dissonant Stress applies a cumulative **-1 penalty** to all of the character's future rolls.
+    
+- **Locked Stress:** Certain devastating magical abilities, critical failures, or specific enemy attacks can inflict _Locked_ Stress. This functions exactly like normal Stress but cannot be cleared through normal rest, requiring rare alchemical narcotics to purge.
+- **Excess Stress:** is converted straight to wounds.
+
+# Wounds
+
+In _Iron & Marrow_, **Wounds** are the brutal, mechanical representation of physical trauma and bodily failure. While Stress represents panic and exhaustion, Wounds are the broken bones, deep lacerations, and punctured organs that eventually pull a character into the grave.
+
+Here is a breakdown of how Wounds function within the system:
+
+## The Wound Slots
+
+Unlike traditional hit point systems that feature inflated health pools, _Iron & Marrow_ uses a strict, low-capacity slot system to maintain high lethality.
+
+- A standard character has exactly 3 Wound slots.
+    
+- Taking a 4th Wound means you are instantly Incapacitated.
+    
+- Unlike Dissonant Stress, Wounds do not apply direct stat or dice penalties. Instead, they act as a terrifying countdown to absolute bodily collapse.
+    
+
+### Calculating Wounds (Impact vs. Threshold)
+
+To take a Wound, an enemy's attack must overcome your physical durability, represented by your **Wound Threshold [T]** (calculated as 4 + Prowess + Armor Value + species bonus). When a character loses a Clash, the resulting Impact dictates the severity of the Wound:
+
+- **Minor Wound:** If the Impact equals or exceeds your Threshold, you take 1 Minor Wound (filling 1 slot) and 1 Stress.
+    
+- **Major Wound:** If the Impact equals or exceeds _twice_ your Threshold, you suffer massive trauma, taking 1 Major Wound (filling 2 slots) and 2 Stress.
+    
+- **Instant Incapacitation:** If the Impact equals or exceeds _three times_ your Threshold, you are instantly Incapacitated, risking a potential long-term injury or immediate death.
+    
+
+### The Death Spiral (Stress Conversion)
+
+Weapons are not the only things that cause Wounds. Wounds are inextricably linked to a character's mental state.
+
+- If a character's Stress Limit is maxed out, any further Stress they take instantly converts into physical Wounds. This means a character can suffer lethal trauma simply from the systemic shock of freezing temperatures, absolute exhaustion, or the mystical blowback of channelling too much raw Arcane energy.
+________________________________________________________________________
+# At Deaths Door
+
+When a character takes a Wound that fills their final Wound Slot (typically the 4th), they immediately fall Prone, drop their weapons, and gain the **Incapacitated** condition.
+
+**1. The Activation Order (Bottom of the Barrel)** An Incapacitated character no longer rolls for Activation Initiative at the start of a round. They automatically act at the absolute bottom of the turn order. If multiple characters are Incapacitated, they act simultaneously at the end of the round.
+
+**2. The Bleed-Out Check** When the character's activation comes up, they can take no Actions or Free Actions. Instead, they must make a desperate roll to cling to life.
+
+- **The Check:** Roll 2d6 + Prowess (or Will, relying on sheer stubbornness) against TN 8.
+    
+- **Success (Margin 0-4):** You secure a **Stabilization Mark**.
+    
+- **High Success (Margin 5+):** Your body forcefully halts the trauma. You instantly gain 3 Stabilization Marks and are Stabilized.
+    
+- **Failure:** You secure a **Death Mark**. You are bleeding out or slipping into shock.
+    
+- **Fumble (Two natural 1s):** The trauma is too severe. You instantly die.
+    
+
+**3. The Outcomes**
+
+- **3 Stabilization Marks:** You are **Stabilized**. You remain Unconscious and Incapacitated, but you no longer have to make Bleed-Out checks. You will survive the combat unless struck again.
+    
+- **3 Death Marks:** Your character dies.
+    
+## External Interventions & Threats
+
+Because the player is stuck at the bottom of the turn order, the rest of the party has a desperate window to save them.
+
+- **Triage (The Save):** An ally can use an Action to perform a _Medicine_ check (TN 8), use an Alchemical Poultice, or cast the _Stabilize_ Faith Cantrip. If successful, the Incapacitated character instantly becomes Stabilized, stopping the Death Marks.
+    
+- **The Coup de Grâce (The Threat):** If an Incapacitated character is hit by an Aggressor's melee attack while bleeding out, they do not calculate Impact. They immediately suffer 1 automatic Death Mark. If the attacker uses the _Vital Strike_ feat, the character is instantly killed.
+_______________________________________________________________________

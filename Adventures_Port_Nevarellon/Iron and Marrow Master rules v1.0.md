@@ -2,7 +2,7 @@
 ![[The Golden Rules]]
 ![[Dice Mechanics]]
 ![[]]
-![[300 Iron & Marrow Master rules/01 Character Creation/Determine Attributes]]
+![[Determine Attributes]]
 
 
 
