@@ -1,8 +1,8 @@
-# The Cutthroat (Thief/Rogue Archetype)
+### The Cutthroat (Thief/Rogue Archetype)
 
 Focused on opportunistic strikes, siphoning momentum from the failures of others, and anatomical nihilism.
 
-### Parasitic Momentum (Tier 2)
+#### Parasitic Momentum (Tier 2)
     
 
 - Prerequisites: Reflex +2, Stealth +2 or Thievery +2
@@ -12,7 +12,7 @@ Focused on opportunistic strikes, siphoning momentum from the failures of others
 - Mechanic: When an enemy within 30 feet rolls a Fumble (two natural 1s), you may use your Reaction to steal their panicked energy, instantly banking 1 Momentum for yourself as you capitalize on their mistake.
     
 
-### Anatomical Nihilism (Tier 3)
+#### Anatomical Nihilism (Tier 3)
     
 
 - Prerequisites: Reflex +3, Melee +3 or Ranged +3

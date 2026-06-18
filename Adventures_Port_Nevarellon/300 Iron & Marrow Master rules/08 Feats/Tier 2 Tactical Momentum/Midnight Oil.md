@@ -1,4 +1,4 @@
-# Midnight Oil
+### Midnight Oil
 
 - Prerequisites: Wits +2, Crafting +2 or Arcana +2
     

@@ -1,4 +1,4 @@
-# Shatter the Ego
+### Shatter the Ego
 
 - Prerequisites: Will +3, Influence +3
     

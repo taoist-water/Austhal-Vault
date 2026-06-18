@@ -1,8 +1,8 @@
-# The Demagogue (Bard Archetype)
+### The Demagogue (Bard Archetype)
 
 Focused on psychological warfare, weaponizing the Momentum of a crowd, and manipulating the Social Engine right in the middle of a slaughter.
 
-### Vitriolic Cadence (Tier 2)
+#### Vitriolic Cadence (Tier 2)
     
 
 - Prerequisites: Will +2, Influence +2
@@ -12,7 +12,7 @@ Focused on psychological warfare, weaponizing the Momentum of a crowd, and manip
 - Mechanic: You know exactly how to twist the knife when an enemy is faltering. Whenever an ally within earshot successfully gains Momentum from winning a Clash, you may spend your Reaction to hurl a devastating insult or terrifying tactical observation. This instantly inflicts 1 Dissonant Stress on the enemy your ally just struck.
     
 
-### Architect of Panic (Tier 3)
+#### Architect of Panic (Tier 3)
     
 
 - Prerequisites: Will +3, Influence +3

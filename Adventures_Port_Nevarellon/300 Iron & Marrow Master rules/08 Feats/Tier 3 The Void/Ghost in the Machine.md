@@ -1,4 +1,4 @@
-# Ghost in the Machine
+### Ghost in the Machine
 
 - Prerequisites: Reflex +3, Thievery +3
     

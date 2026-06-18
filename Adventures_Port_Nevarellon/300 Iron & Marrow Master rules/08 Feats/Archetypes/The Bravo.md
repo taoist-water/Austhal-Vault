@@ -1,8 +1,8 @@
-# The Bravo (Duelist Archetype)
+### The Bravo (Duelist Archetype)
 
 Focused on surgical precision, arrogant mobility, and completely dismantling an enemy's Momentum economy.
 
-### The Insulting Deflection (Tier 2)
+#### The Insulting Deflection (Tier 2)
     
 
 - Prerequisites: Reflex +2, Melee +2
@@ -12,7 +12,7 @@ Focused on surgical precision, arrogant mobility, and completely dismantling an 
 - Mechanic: When you act as the Reactor and successfully Parry an attack by a High margin (5+), you do not just calculate Impact. You may immediately spend 1 Momentum to inflict the Surprised condition on the Aggressor, violently throwing them off balance and forcing them to become the Reactor with Disadvantage on the very next Engagement Draw.
     
 
-### Death of a Thousand Cuts (Tier 3)
+#### Death of a Thousand Cuts (Tier 3)
     
 
 - Prerequisites: Reflex +3, Melee +3

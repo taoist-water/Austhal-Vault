@@ -1,8 +1,8 @@
-# The Stalker (Ranger/Hunter Archetype)
+### The Stalker (Ranger/Hunter Archetype)
 
 Focused on isolation, predatory tracking, and ruling the fringes of the battlefield.
 
-### Predator's Rhythm (Tier 2)
+#### Predator's Rhythm (Tier 2)
     
 
 - Prerequisites: Wits +2, Survival +2
@@ -12,7 +12,7 @@ Focused on isolation, predatory tracking, and ruling the fringes of the battlefi
 - Mechanic: When you successfully kill or Incapacitate a Fodder or Grunt level enemy, you may immediately clear 1 Dissonant Stress or bank 1 Momentum (your choice).
     
 
-### No Quarter in the Mud (Tier 3)
+#### No Quarter in the Mud (Tier 3)
     
 
 - Prerequisites: Prowess +3 or Reflex +3, Survival +3

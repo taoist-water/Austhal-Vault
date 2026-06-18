@@ -1,4 +1,4 @@
-# Combat Scholar (Tier 2 - Arcana)
+### Combat Scholar (Tier 2 - Arcana)
     
 
 - Prerequisites: Reflex +1, Arcana +2

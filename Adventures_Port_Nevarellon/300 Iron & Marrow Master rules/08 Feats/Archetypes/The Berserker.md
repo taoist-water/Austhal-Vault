@@ -1,8 +1,8 @@
-# The Berserker (Barbarian Archetype)
+### The Berserker (Barbarian Archetype)
 
 Focused on leveraging sheer trauma, terrifying resilience, and turning bodily punishment directly into kinetic output.
 
-### The Red Mist (Tier 2)
+#### The Red Mist (Tier 2)
     
 
 - Prerequisites: Prowess +2, Resolve +2
@@ -12,7 +12,7 @@ Focused on leveraging sheer trauma, terrifying resilience, and turning bodily pu
 - Mechanic: If you act as the Reactor and suffer a Minor or Major Wound from an Aggressor's melee attack, your nervous system rejects the shock. You may immediately spend 1 Momentum to perform a brutal, retaliatory Strike action against them. This occurs instantly before the Engagement ends and before you suffer any associated Stress penalties.
     
 
-### Apex Butcher (Tier 3)
+#### Apex Butcher (Tier 3)
     
 
 - Prerequisites: Prowess +3, Athletics +3

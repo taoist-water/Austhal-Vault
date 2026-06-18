@@ -1,4 +1,4 @@
-# Ingrained Arcana
+### Ingrained Arcana
 
 - Prerequisites: Wits +3, Arcana +3
     

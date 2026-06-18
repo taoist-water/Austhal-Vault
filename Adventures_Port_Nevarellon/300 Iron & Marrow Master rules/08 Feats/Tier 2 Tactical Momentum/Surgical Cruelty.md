@@ -1,4 +1,4 @@
-# Surgical Cruelty
+### Surgical Cruelty
 
 - Prerequisites: Wits +2, Medicine +1
     

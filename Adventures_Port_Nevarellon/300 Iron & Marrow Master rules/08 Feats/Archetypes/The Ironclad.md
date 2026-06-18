@@ -1,8 +1,8 @@
-# The Ironclad (Fighter/Warrior Archetype)
+### The Ironclad (Fighter/Warrior Archetype)
 
 Focused on brutal mechanical efficiency, surviving physical trauma, and turning defense into inevitable offense.
 
-### Attrition Engine (Tier 2)
+#### Attrition Engine (Tier 2)
     
 
 - Prerequisites: Prowess +2, Block +2 or Melee +2
@@ -12,7 +12,7 @@ Focused on brutal mechanical efficiency, surviving physical trauma, and turning 
 - Mechanic: Whenever you act as the Reactor and successfully Block or Parry an attack, reducing the total Impact to less than your Wound Threshold, you automatically bank 1 Momentum. Your defense directly fuels your offensive economy.
     
 
-### The Downward Swing (Tier 3)
+#### The Downward Swing (Tier 3)
     
 
 - Prerequisites: Prowess +3, Melee +3

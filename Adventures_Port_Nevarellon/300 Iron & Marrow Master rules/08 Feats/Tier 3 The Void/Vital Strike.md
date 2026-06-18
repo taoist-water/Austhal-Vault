@@ -1,4 +1,4 @@
-# Vital Strike
+### Vital Strike
     
 
 - Prerequisites: Precise Strike, Melee 3

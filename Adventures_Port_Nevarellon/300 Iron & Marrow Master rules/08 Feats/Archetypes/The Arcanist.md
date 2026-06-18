@@ -1,8 +1,8 @@
-# The Arcanist (Wizard Archetype)
+### The Arcanist (Wizard Archetype)
 
 Focused on esoteric geometries, pushing the mind to the breaking point, and treating magic as a volatile engine.
 
-### Euclidean Nightmare (Tier 2)
+#### Euclidean Nightmare (Tier 2)
     
 
 - Prerequisites: Wits +2, Arcana +2
@@ -12,7 +12,7 @@ Focused on esoteric geometries, pushing the mind to the breaking point, and trea
 - Mechanic: When you successfully cast an Arcana spell, you may spend 1 Momentum to leave a residual, jagged magical glyph in the air in an adjacent square. Any enemy that enters or starts their turn in that square takes 1 Dissonant Stress as the impossible angles burn their retinas.
     
 
-### The Engine of Ruin (Tier 3)
+#### The Engine of Ruin (Tier 3)
     
 
 - Prerequisites: Wits +3, Arcana +3

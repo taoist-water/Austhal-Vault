@@ -1,4 +1,4 @@
-# Smuggler’s Pockets
+### Smuggler’s Pockets
 
 - Prerequisites: Reflex +2, Thievery +2
     

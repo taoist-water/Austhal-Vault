@@ -1,4 +1,4 @@
-# The Vanguard / Shield Brother
+### The Vanguard / Shield Brother
     
 
 - Prerequisites: Prowess 2, Melee 2, Block 1

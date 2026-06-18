@@ -1,4 +1,4 @@
-# Lateral Assessment
+### Lateral Assessment
 
 - Prerequisites: Wits +2
     

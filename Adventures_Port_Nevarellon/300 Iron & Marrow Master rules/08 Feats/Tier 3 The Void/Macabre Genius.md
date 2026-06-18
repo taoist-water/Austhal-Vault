@@ -1,4 +1,4 @@
-# Macabre Genius
+### Macabre Genius
 
 - Prerequisites: Wits +3, Crafting +3
     

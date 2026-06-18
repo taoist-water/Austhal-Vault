@@ -1,8 +1,8 @@
-# The Inquisitor (Paladin Archetype)
+### The Inquisitor (Paladin Archetype)
 
 Focused on weaponized dogma, absolute punishment, and crushing the enemy under the sheer weight of divine authority.
 
-### The Weight of Guilt (Tier 2)
+#### The Weight of Guilt (Tier 2)
     
 
 - Prerequisites: Will +2, Faith +2, Melee +1
@@ -12,7 +12,7 @@ Focused on weaponized dogma, absolute punishment, and crushing the enemy under t
 - Mechanic: When you win a Clash against an enemy who has inflicted a Wound on an ally during the current combat, you may immediately spend 1 Momentum. The target must pass an opposed Will + Resolve check against your Will + Faith. If they fail, their nervous system locks up in terror, instantly inflicting the Immobilized condition until they can break free on their next activation.
     
 
-### Penance Engine (Tier 3)
+#### Penance Engine (Tier 3)
     
 
 - Prerequisites: Will +3, Faith +3, Prowess +2

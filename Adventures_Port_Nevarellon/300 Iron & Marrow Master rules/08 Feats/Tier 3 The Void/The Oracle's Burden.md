@@ -1,4 +1,4 @@
-# The Oracle’s Burden
+### The Oracle’s Burden
 
 - Prerequisites: Wits +3, Insight +3
     
