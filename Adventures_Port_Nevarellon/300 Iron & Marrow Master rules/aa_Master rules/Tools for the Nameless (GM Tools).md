@@ -12,7 +12,20 @@ Because the community supply die is a tangible mechanic, the GM can use their Th
     
 - The Scavenger: Small, fodder-tier enemies (like goblins or feral ghouls) might have a rule where if they win a Clash, they don't deal Impact. Instead, they slice open a backpack and flee, forcing an automatic step-down of the Supply Die without a roll.
 ________________________________________________________________________
+### It Empowers the Non-Caster
 
+Allowing non-casters to still use the _Arcana_ and _Faith_ skills is a brilliant piece of lateral design.
+
+
+- **The Cult Hunter:** A gritty, non-magical Cutthroat can invest 1 DP into _Faith_ to recognize cult insignias, understand demonic weaknesses, or desperately read a holy scroll of banishment to save the party.
+    
+- **The Dungeon Scavenger:** A Wits-based Bravo might put 1 point into _Arcana_ so they can safely disarm magical traps or activate an alchemical wand they looted off a dead Boss.
+    
+
+It turns those skills from "Caster-Only Taxes" into universally valuable adventuring tools for the whole party.
+
+
+________________________________________________________________________
 Non-weapon damage needs to fall into one of three distinct, terrifying categories:
 
 ### 1. Direct Stress (The Attrition Engine)

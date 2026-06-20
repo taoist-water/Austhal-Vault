@@ -220,6 +220,18 @@ Skills represent specific training. Like Attributes, Skills range from Level 0 (
 ______________________________________________________________________
 # Feats
 ## Tier 1 Blood and Rust
+### **Arcane Awakening (Tier 1 Feat)**
+    
+- **Prerequisite:** Arcana 1, Wits 1.
+        
+- **Mechanic:** You have forced your mind to perceive the volatile geometries of the world. You gain a Grimoire containing 3 Novice Arcana spells. As long as you have a free hand and your Grimoire equipped, you may manifest these spells using the Arcane Margin mechanics.
+        
+### **Divine Conduit (Tier 1 Feat)**
+    
+- **Prerequisite:** Faith 1, Will 1.
+        
+- **Mechanic:** You have tethered your physical form to a higher authority. You gain a Holy Symbol and 3 Novice Miracles. As long as you speak the litany and bear your symbol, you may manifest these miracles by paying their Locked Stress cost directly.
+
 ### Battlefield Orator 
 - Prerequisite: Influence +2
 
