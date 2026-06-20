@@ -147,7 +147,7 @@ In _Iron & Marrow_, Stress is the primary mechanical representation of a charact
 
 ### The Stress Limit
 
-A character's capacity to handle pressure before breaking is defined by their Stress Limit, which is calculated as **2 + (Wits x 2) + Feat Bonus + Species bonus.**
+A character's capacity to handle pressure before breaking is defined by their Stress Limit, which is calculated as **4 + Will + Wits + Feat Bonus + Species bonus.**
 
 ### The Two Categories of Stress
 
@@ -161,7 +161,7 @@ Stress is strictly divided into two types, which affect the character's capabili
 ### The Death Spiral (Dissonant Stress)
 
 _Iron & Marrow_ is a game of psychological and physical attrition. Stress is the primary currency of exhaustion.
-- Stress is managed in a Tiered system. 
+
 - #### The "Squeeze" Mechanic
 
 Think of the character's Stress Limit as a track. Dissonant Stress fills the track from the left, and Locked Stress fills it from the right.
@@ -199,9 +199,9 @@ Unlike traditional hit point systems that feature inflated health pools, _Iron &
 
 To take a Wound, an enemy's attack must overcome your physical durability, represented by your **Wound Threshold [T]** (calculated as 4 + Prowess + Armor Value + species bonus). When a character loses a Clash, the resulting Impact dictates the severity of the Wound:
 
-- **Minor Wound:** If the Impact equals or exceeds your Threshold, you take 1 Minor Wound (filling 1 slot) and 1 Stress.
+- **Minor Wound:** If the Impact equals or exceeds your Threshold, you take 1 Minor Wound (filling 1 slot).
     
-- **Major Wound:** If the Impact equals or exceeds _twice_ your Threshold, you suffer massive trauma, taking 1 Major Wound (filling 2 slots) and 2 Stress.
+- **Major Wound:** If the Impact equals or exceeds _twice_ your Threshold, you suffer massive trauma, taking 1 Major Wound (filling 2 slots).
     
 - **Instant Incapacitation:** If the Impact equals or exceeds _three times_ your Threshold, you are instantly Incapacitated, risking a potential long-term injury or immediate death.
     
@@ -267,9 +267,7 @@ ________________________________________________________________________
 # The Conditions System
 ## Negative Conditions:
 
-- 
-- *Rigor:*
-- *Anchored:* 
+
 - *Incapacitated:*
     
 - *Immobilized:*
@@ -294,7 +292,7 @@ ________________________________________________________________________
     
 - *In-Fighting:* All 1H weapons without Close-Quarters suffer Disadvantage. 2H weapons cannot be used.
     
-- *Surprised:* Automatically the Reactor in a Clash. Rolls suffer Disadvantage.
+- *Surprised:* Rolls suffer Disadvantage.
     
 - *Grappled:* When the aggressor: can choose to let go of the Grapple as a Free action. 
     - As the Reactor: ACTION:  Break grapple; 2d6 + Prowess + Athletics. Win and remove the grappled condition. Win by a margin of 3+ and take a 5ft step out of threat zone.

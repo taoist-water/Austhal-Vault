@@ -42,8 +42,6 @@ When a falling boulder, explosive trap, or massive environmental collapse occurs
 - Example: A collapsing ceiling trap rolls 2d6 + 4. It totals a 14. Because 14 is higher than the Fighter's Wound Threshold of 10, the Fighter takes a Wound. If it rolled an 8, the armor holds, and the Fighter only takes 1 Stress.
 ________________________________________________________________________
 
-In a system with strictly bounded math (+5 mortal cap), the traditional RPG method of challenging players—simply inflating a monster's health pool or giving them a +15 to hit—completely breaks the engine. It turns tactical combat into a boring, mathematical slog.
-
 In Iron & Marrow, monsters do not challenge the players by having bigger numbers. They challenge the players by breaking the rules of the game.
 
 This is managed through the GM's Threat Economy and a tiered Bestiary Tag system. Here is the framework for designing brutal, terrifying encounters.
