@@ -59,7 +59,7 @@ _A severe stiffening of the joints, caused by nervous system shock, extreme cold
 
 _Active, ongoing environmental destruction to the character's physical body or gear._
 
-- **The Mechanic:** At the absolute start of the character’s turn, before they can move or act, they automatically suffer 1 Impact (which tests against their Wound threshold) and 1 Dissonant Stress from the panic.
+- **The Mechanic:** At the absolute start of the character’s turn, before they can move or act, At the start of your turn, the agonizing heat causes you to suffer 2 Dissonant Stress before you can act.
     
 - **The Engine Interaction:** It creates a brutal, ticking clock. A player cannot ignore it, or it will mathematically chew through their Stress Limit and push them into the Death Spiral without an enemy ever swinging a sword.
     

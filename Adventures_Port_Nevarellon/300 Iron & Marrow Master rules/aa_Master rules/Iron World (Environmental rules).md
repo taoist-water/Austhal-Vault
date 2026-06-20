@@ -63,6 +63,61 @@ High Fantasy heroes journey across brutal landscapes. In this system, the enviro
     
 - *The Death Spiral:* if a character's Stress limit is maxed out by a Hazard, any further Stress instantly converts into Wounds. This means a character can literally freeze to death or die of exhaustion without ever taking a sword swing.
 _______________________________________________________________________
+# The Hazard Roll (Trap Resolution)
+
+Traps and environmental hazards do not deal flat damage. When triggered, the GM makes a Hazard Roll (2d6 + the trap's Hazard Power) to generate a Strike Total, representing the speed, weight, or lethality of the mechanism.
+
+How the trap resolves depends entirely on the player's awareness.
+
+#### 1. The Unaware Target (The Ambush)
+
+The player fails to spot the tripwire, or opens the chest without checking for a poison needle.
+
+- The Resolution: The player is caught completely flat-footed and cannot declare a Defense reaction. The trap's Hazard Roll total immediately becomes the Impact.
+    
+- The Armor Check: The GM compares this Impact directly against the player's static Wound Threshold.
+    
+- The Vulnerability: Because the player could not brace for the hit, they cannot add their Shield Value (SV) to their Threshold, nor can they use weapons to Parry. Their survival relies entirely on the raw metal of their worn armor. If the Impact meets or exceeds the Threshold, they suffer a physical Wound. If it is lower, the armor catches the blow, but the kinetic shock or panic inflicts 1 Dissonant Stress.
+    
+
+#### 2. The Aware Target (The Desperate Reaction)
+
+The player spots the pressure plate but is forced to leap across it, or they deliberately trigger the swinging axe to study its timing.
+
+- The Resolution: The player knows the threat is coming and acts as the Reactor in a standard Clash against the trap's Hazard Roll.
+    
+- Choosing the Defense: Unless the specific trap dictates a required reaction (e.g., a room-filling poison gas might strictly require a Dodge to reach the door), the player can choose their defense:
+    
+
+- Dodge: Attempting to completely physically avoid the mechanism.
+    
+- Block: Raising a heavy shield to absorb a dart volley or falling rocks (allowing them to add their Shield Value to their Threshold if they lose the Clash).
+    
+- Parry: Using a weapon to jam the gears or bat away a swinging blade.
+    
+
+- The Math: Just like in combat, the mathematical Margin between the trap's roll and the player's defense roll determines the final Impact. If the player wins the Clash, they avoid the hazard entirely and generate 1 Momentum for their flawless reflexes.
+    
+
+### Example Hazards in the Engine
+
+- Corpse-Rust Dart Trap (Hazard Power +3):
+    
+
+- Specifics: A hidden wall-shooter.
+    
+- Aware Requirement: If aware, the player can Block or Dodge, but cannot Parry the tiny projectiles.
+    
+
+- Crushing Iron Portcullis (Hazard Power +6):
+    
+
+- Specifics: A massive gate dropping from the ceiling.
+    
+- Aware Requirement: Must Dodge to roll under it. Attempting to Block or Parry such massive weight automatically fails, resulting in the player becoming Anchored beneath the iron.
+
+
+________________________________________________________________________
 # THE SOCIAL ENGINE (Influence & Resolve)
 
 In High Fantasy Realism, a silver tongue is just as dangerous as a drawn sword, but it isn't mind control. Social encounters use Influence (to push your agenda) opposed by the target's Resolve (or simply Will, if they lack the skill).
