@@ -24,7 +24,7 @@
 - The Swarm Bonus (outnumbered): For each additional ally engaging the same target, attackers gain +1 to Engagement Draw and +1 to Clash rolls (Max +2).
 
 ## Damage Calculation
-Impact: (Winner Roll - Loser Roll) + Weapon Power + any other modifiers
+Impact: (Winner Roll - Loser Roll) 
 
 - Impact < Threshold: 1 Stress.
     

@@ -55,7 +55,7 @@ A terrifyingly elegant entity of obsidian armor and pale, burning eyes, wielding
 
 - Tier: 3 (Boss)
     
-- Modifiers: Strike +8 (Ashen Greatsword) | Defense +7 (Precognition & Hell-Forged Plate) (Explicitly breaking the +5 mortal cap).
+- Modifiers: Strike +8 (Ashen Greatsword) | Defense +7 (Precognition & Hell-Forged Plate) (Explicitly breaking the +3 mortal cap).
     
 - Wound Threshold: 13
     

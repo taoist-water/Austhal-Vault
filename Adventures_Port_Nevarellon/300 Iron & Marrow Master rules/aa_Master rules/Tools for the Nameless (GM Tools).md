@@ -133,7 +133,7 @@ These are the core adversaries. Heavily armored mercenaries, mutated alchemical 
 
 These are terrifying, almost mechanical monstrosities or apex predators.
 
-- Stats: Moderate modifiers (+4 or +5), ensuring players can still mathematically hit them.
+- Stats: Moderate modifiers (+7 or +8), ensuring players can still mathematically hit them.
 - Threat Limit: 4
     
 - Health: 4+ Wound Slots. High Stress Limit.

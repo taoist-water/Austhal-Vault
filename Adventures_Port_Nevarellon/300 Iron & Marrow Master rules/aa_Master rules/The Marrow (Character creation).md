@@ -67,7 +67,7 @@ _____________________________________________________________________
     
 -  Underfoot: Because of their size, Halflings gain Advantage on Reflex + Stealth checks as long as they have cover, obscured, or are moving through the space of larger creatures.
     
--  Halfling Luck: Once per session, a Halfling may completely ignore the mechanical effects of a Fumble (Snake Eyes). They still fail the action, but they do not take the crushing 3 Stress penalty.
+-  Halfling Luck: Once per session, a Halfling may completely ignore the mechanical effects of a Fumble (Snake Eyes). They still fail the action, but they do not take the Stress penalty.
     
 -  Small Stature (Drawback): They physically cannot wield Heavy Weapons, and their base Wound Threshold is reduced by 1.
     
@@ -117,7 +117,7 @@ __________________________________________________________________
 
 - Wound Threshold [[Wounds Threshold|T]]: 4 + Prowess + Armour + Species Bonuses + Scale bonus + Misc.mods
     
-- Stress Limit: **2 + (Wits x 2) + species bonus + Feat bonus**. 
+- Stress Limit: **2 + Wits + Will + species bonus + Feat bonus**. 
     -  If your total Stress (Locked + Dissonant) exceeds this limit, your mental focus shatters: all current Locked Stress immediately becomes Dissonant, applying its full penalties, and any excess points are converted into Wounds.
 
 ## Attributes (capped at +3 Max)
