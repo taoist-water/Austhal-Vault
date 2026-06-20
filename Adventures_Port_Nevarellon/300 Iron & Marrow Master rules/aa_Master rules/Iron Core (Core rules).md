@@ -13,7 +13,7 @@
 		- roll 2d6 + Prowess/Reflex + melee/ranged + weapon Power
 		- The target (reactor) choose an action like parry and rolls 2d6 + Reflex + Melee + Weapon power.
 		- the Higher roll wins.
-		- the difference in between the winner and the loser is the Impact.
+		- the difference in between the winner and the loser is the Impact (when attacking).
 		- Impact is compared to the losers wounds threshold.
 - Sometimes the degree of success matters, when this is the case, the following defines margins of success;
     - Margins of success:
@@ -153,7 +153,7 @@ A character's capacity to handle pressure before breaking is defined by their St
 
 Stress is strictly divided into two types, which affect the character's capabilities in drastically different ways:
 
-- **Dissonant Stress:** This represents immediate panic, physical pain, fumbles, or sudden exhaustion. It is incredibly dangerous because it applies a *cumulative -1 penalty per point to all subsequent dice rolls*. This penalty simulates a character losing their edge as they are battered and terrified. It can be cleared relatively quickly by spending Momentum, taking a The Breather, or using consumable items.
+- **Dissonant Stress:** This represents immediate panic, physical pain, fumbles, or sudden exhaustion. It simulates a character losing their edge as they are battered and terrified. It can be cleared relatively quickly by spending Momentum, taking a The Breather, or using consumable items.
     
 - **Locked Stress:** This represents sustained mental and physiological burdens, such as the mathematical heat of casting spells, suffering through specific negative conditions, or enduring harsh environmental hazards. Crucially, Locked Stress ***does not*** apply the negative -1 penalty to your dice rolls. However, it fills up your Stress Limit and is much harder to clear, requiring specific actions like an Arcanist's Grounding maneuver, a full night's rest, or specific Downtime Endeavours.
     
@@ -161,11 +161,22 @@ Stress is strictly divided into two types, which affect the character's capabili
 ### The Death Spiral (Dissonant Stress)
 
 _Iron & Marrow_ is a game of psychological and physical attrition. Stress is the primary currency of exhaustion.
+- Stress is managed in a Tiered system. 
+- #### The "Squeeze" Mechanic
 
-- **The Penalty:** Every active point of Dissonant Stress applies a cumulative **-1 penalty** to all of the character's future rolls.
+Think of the character's Stress Limit as a track. Dissonant Stress fills the track from the left, and Locked Stress fills it from the right.
+
+- **Dissonant Stress (The Panic Trigger):** This is the only type of Stress that triggers the mid-tier penalty.
     
-- **Locked Stress:** Certain devastating magical abilities, critical failures, or specific enemy attacks can inflict _Locked_ Stress. This functions exactly like normal Stress but cannot be cleared through normal rest, requiring rare alchemical narcotics to purge.
-- **Excess Stress:** is converted straight to wounds.
+    - _The 50% Tier (Winded):_ If a character's **Dissonant Stress** reaches half of their total Stress Limit, they suffer a flat `-1 penalty` to all rolls.
+        
+- **Locked Stress (The Capacity Drain):** This represents sustained exhaustion or the lingering heat of Arcana. It does not trigger the `-1 penalty`, but it "blacks out" available slots on the track, drastically reducing the character's buffer before they hit the absolute limit.
+    
+- **Total Capacity (The Breaking Point):**
+    
+    - _The 100% Tier (Breaking):_ When a character's **Total Stress (Dissonant + Locked)** reaches their maximum Limit their mental focus shatters, and all current Locked Stress immediately becomes Dissonant. They now suffer a flat `-2 penalty`, and any further Stress converts to Wounds.
+
+- When the Stress Track is full and a Character would gain additional stress, it immediately converts to Wounds.
 
 # Wounds
 
