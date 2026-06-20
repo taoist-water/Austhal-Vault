@@ -78,8 +78,13 @@ If you want an Elite to recover Threat during a fight without the GM doing any m
     
 - The Clockwork Sentinel: Regains 1 Threat automatically at the start of every even-numbered combat round (representing internal engine pressure building up).
     
+### Static recharges
 
-
+- **The Vanguard Escalation:** At the start of **every round**, the GM gains 1 Threat. This is non-negotiable.
+    
+- **The Attrition Tax:** If a player spends 30 minutes in a **Breather**, they don't just lose Momentum; they lose their "preparedness." The GM gains **2 Threat** immediately, representing the monsters closing in while the party is distracted and bandaging wounds.
+    
+- **The "Targeting the Bank" Rule:** If an Elite hits a player and that player has **any** Momentum in their bank, the GM can spend **2 Threat** to "Drain the Adrenaline." The player loses 2 Momentum, and the GM instantly heals 1 Stress on the Elite.
 ________________________________________________________________________
 ## The Three Tiers of Monsters
 
@@ -149,64 +154,17 @@ Depending on the Bestiary Tag, "Breaking" means different things:
     
 - The Phase Change (Bosses): A Boss maxes out its Stress track. It doesn't die, but its behavior violently shifts. A heavily armored warlord realizes they are losing, so they scream, tear off their heavy, restrictive armor (losing their Armor tags), and pull out two jagged daggers to fight recklessly in a new "Phase 2."
 ________________________________________________________________________
-# Universal Monster Tags
-### 1. The Undead (Mindless Attrition)
+# The Starting Threat Scale
 
-Applied to zombies, skeletal thralls, and reanimated armor. They are a pure gear-check that forces players to abandon psychological warfare.
+You can provide GMs with a simple narrative framework for setting the pool (from 0 to the maximum of 5):
 
-- The Break Point (Hollow): The Undead do not possess a Stress Limit. They are completely immune to Dissonant Stress. Intimidation, fear-based Arcana, and taunts automatically fail. They must be hacked to pieces.
+MD
+
+- **0 Threat (The Ambush):** The enemies are completely unaware, asleep, or drunk. The players dictate the entire opening of the combat. The monsters must survive the first round just to trigger their Behavioral Recharges and get themselves on the board.
     
-- Signature Mechanic (Dead Flesh): Puncturing vitals means nothing. The Undead automatically reduce all incoming Impact by 1 if the player is wielding a Light or Piercing weapon (like a Rapier, Dagger, or Spear).
+- **1 to 2 Threat (Standard Engagement):** A standard patrol or a group of mercenaries actively standing guard. The GM has just enough Threat to trigger one moderate ability, like the Orc Line-Breaker's _Unstoppable Mass_, keeping the players cautious.
     
-- Threat Ability - Grave Grasp (Cost: 1 Threat): Triggered when the Undead wins a Clash against a Reactor. The Undead deals its Impact as normal, but the player is also Anchored. The player's movement speed is reduced to zero until they win a subsequent Clash to break the grapple.
     
-
-### 2. The Feral (Predatory Geometry)
-
-Applied to mutant hounds, giant arachnids, and apex predators. They punish isolated players and reward parties who fight shoulder-to-shoulder.
-
-- The Break Point (Cornered Frenzy): When a Feral creature’s Stress Limit is maxed out, it does not flee. Instead, its survival instinct violently overrides its self-preservation. It completely loses the ability to act as a Reactor (it automatically fails all defensive rolls), but it gains a permanent +2 to all Aggressor Strike rolls until it is killed.
+- **3 to 4 Threat (High Alert):** The dungeon knows the players are coming. Traps are set, and weapons are drawn. The GM starts with enough currency to immediately tax the players' Momentum or trigger an Elite's most devastating opener.
     
-- Signature Mechanic (Pack Tactics): If a Feral creature attacks a player who is already in the Threat Zone of another enemy, it ignores the player's Shield Value (SV) for the Clash roll. They explicitly strike at exposed flanks.
-    
-- Threat Ability - Drag Down (Cost: 1 Threat): Triggered before rolling a Strike. If the Feral creature wins the Clash, the target takes Impact and is instantly knocked Prone, forcing the player to spend Momentum or precious action economy just to stand back up.
-    
-
-### 3. The Construct (Heavy Iron)
-
-Applied to alchemical golems, animated statues, and heavy clockwork machinery. They are walking siege engines.
-
-- The Break Point (Engine Overload): Constructs do not feel fear, but their internal mechanics can be stressed. When their Stress Limit maxes out, their engine violently vents. Every player in their Threat Zone immediately suffers 1 Dissonant Stress from the deafening screech. The Construct then takes 1 physical Wound, and its Stress track instantly resets to 0.
-    
-- Signature Mechanic (Unstoppable Mass): Constructs are immune to being shoved, tripped, or repositioned by any player mechanic. Furthermore, players cannot use the Parry action against them—attempting to block a hydraulic piston with a sword simply shatters the sword. Players must Block (with a shield) or Dodge.
-    
-- Threat Ability - Kinetic Sweep (Cost: 1 Threat): Replaces a standard Aggressor action. The Construct sweeps its massive limbs. It rolls a single Strike, and every player within its Threat Zone must independently roll a Reactor defense against that same total.
-    
-
-### 4. The Void-Touched (Eldritch Horror)
-
-Applied to mutated cultists, mind-flayers, and things from beyond the veil. They attack the player's math directly.
-
-- The Break Point (Maddening Dissolution): When broken via Stress, the creature’s physical form loses cohesion. It instantly dies, dissolving into a puddle of toxic geometry. However, any player that dealt damage to it during the fight must pass a TN 8 Resolve check or suffer 1 Dissonant Stress as the creature telepathically screams upon death.
-    
-- Signature Mechanic (Non-Euclidean Anatomy): The creature's biology defies logic. Players can never gain Advantage on Strike rolls against a Void-Touched creature, regardless of flanking, Momentum, or Feats.
-    
-- Threat Ability - Mind Rip (Cost: 1 Threat): Replaces a physical Strike. The creature forces a Clash using a Wits vs. Wits roll instead of the standard Prowess vs. Defense. If the creature wins, the player takes 2 Dissonant Stress instead of physical Impact.
-________________________________________________________________________
-#### Example Stat Block: The Elite
-
-look at an Elite enemy that embodies the cynical, rusted, and desperate tone of the setting. This creature is designed to perfectly counter a player who just blindly swings a Greatsword, forcing the party to use their environment or inflict Stress instead.
-
-
-#### Orc Line-Breaker (Elite)
-
-- Threat Pool: 2 (Max 2)
-    
-- Recharge: Blood Drunk - Regains 1 Threat when it takes a Wound.
-    
-- Threat Abilities:
-    
-
-- Shield Shatter (Cost 1 Threat): Declared before an attack roll. If the attack hits a Reactor using the Block action, the player's shield instantly loses 1 SV for the remainder of the encounter, and the player suffers 1 Dissonant Stress.
-    
-- Unstoppable Mass (Cost 1 Threat): Used as a Free Reaction when the Orc fails a Dodge or Brace check. The Orc ignores the resulting Impact entirely, but its action ends.
+- **5 Threat (The Kill-Zone):** Walking into a Boss's lair or a perfectly executed enemy ambush. The atmosphere is immediately suffocating.

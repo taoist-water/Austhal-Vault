@@ -1,3 +1,67 @@
+# Universal Monster Tags
+### 1. The Undead (Mindless Attrition)
+
+Applied to zombies, skeletal thralls, and reanimated armor. They are a pure gear-check that forces players to abandon psychological warfare.
+
+- The Break Point (Hollow): The Undead do not possess a Stress Limit. They are completely immune to Dissonant Stress. Intimidation, fear-based Arcana, and taunts automatically fail. They must be hacked to pieces.
+    
+- Signature Mechanic (Dead Flesh): Puncturing vitals means nothing. The Undead automatically reduce all incoming Impact by 1 if the player is wielding a Light or Piercing weapon (like a Rapier, Dagger, or Spear).
+    
+- Threat Ability - Grave Grasp (Cost: 1 Threat): Triggered when the Undead wins a Clash against a Reactor. The Undead deals its Impact as normal, but the player is also Anchored. The player's movement speed is reduced to zero until they win a subsequent Clash to break the grapple.
+    
+
+### 2. The Feral (Predatory Geometry)
+
+Applied to mutant hounds, giant arachnids, and apex predators. They punish isolated players and reward parties who fight shoulder-to-shoulder.
+
+- The Break Point (Cornered Frenzy): When a Feral creature’s Stress Limit is maxed out, it does not flee. Instead, its survival instinct violently overrides its self-preservation. It can only take the Brace Reactor action, but it gains a permanent +2 to all Aggressor Strike rolls until it is killed.
+    
+- Signature Mechanic (Pack Tactics): If a Feral creature attacks a player who is already in the Threat Zone of another enemy, it ignores the player's Shield Value (SV) for the Clash roll. They explicitly strike at exposed flanks.
+    
+- Threat Ability - Drag Down (Cost: 1 Threat): Triggered before rolling a Strike. If the Feral creature wins the Clash, the target takes Impact and is instantly knocked Prone, forcing the player to spend Momentum or precious action economy just to stand back up.
+    
+
+### 3. The Construct (Heavy Iron)
+
+Applied to alchemical golems, animated statues, and heavy clockwork machinery. They are walking siege engines.
+
+- The Break Point (Engine Overload): Constructs do not feel fear, but their internal mechanics can be stressed. When their Stress Limit maxes out, their engine violently vents. Every player in their Threat Zone immediately suffers 1 Dissonant Stress from the deafening screech. The Construct then takes 1 physical Wound, and its Stress track instantly resets to 0.
+    
+- Signature Mechanic (Unstoppable Mass): Constructs are immune to being shoved, tripped, or repositioned by any player mechanic. Furthermore, players cannot use the Parry action against them—attempting to block a hydraulic piston with a sword simply shatters the sword. Players must Block (with a shield) or Dodge.
+    
+- Threat Ability - Kinetic Sweep (Cost: 1 Threat): Replaces a standard Aggressor action. The Construct sweeps its massive limbs. It rolls a single Strike, and every player within its Threat Zone must independently roll a Reactor defense against that same total.
+    
+
+### 4. The Void-Touched (Eldritch Horror)
+
+Applied to mutated cultists, mind-flayers, and things from beyond the veil. They attack the player's math directly.
+
+- The Break Point (Maddening Dissolution): When broken via Stress, the creature’s physical form loses cohesion. It instantly dies, dissolving into a puddle of toxic geometry. However, any player that dealt damage to it during the fight must pass a TN 8 Resolve check or suffer 1 Dissonant Stress as the creature telepathically screams upon death.
+    
+- Signature Mechanic (Non-Euclidean Anatomy): The creature's biology defies logic. Players can never gain Advantage on Strike rolls against a Void-Touched creature, regardless of flanking, Momentum, or Feats.
+    
+- Threat Ability - Mind Rip (Cost: 1 Threat): Replaces a physical Strike. The creature forces a Clash using a Wits vs. Wits roll instead of the standard Prowess vs. Defense. If the creature wins, the player takes 2 Dissonant Stress instead of physical Impact.
+________________________________________________________________________
+#### Example Stat Block: The Elite
+
+look at an Elite enemy that embodies the cynical, rusted, and desperate tone of the setting. This creature is designed to perfectly counter a player who just blindly swings a Greatsword, forcing the party to use their environment or inflict Stress instead.
+
+
+#### Orc Line-Breaker (Elite)
+
+- Threat Pool: 2 (Max 2)
+    
+- Recharge: Blood Drunk - Regains 1 Threat when it takes a Wound.
+    
+- Threat Abilities:
+    
+
+- Shield Shatter (Cost 1 Threat): Declared before an attack roll. If the attack hits a Reactor using the Block action, the player's shield instantly loses 1 SV for the remainder of the encounter, and the player suffers 1 Dissonant Stress.
+    
+- Unstoppable Mass (Cost 1 Threat): Used as a Free Reaction when the Orc fails a Dodge or Brace check. The Orc ignores the resulting Impact entirely, but its action ends.
+
+________________________________________________________________________
+
 # MONSTER ENTITY TAGS (Breaking the Rules)
 
 To make non-human enemies feel truly terrifying, you give them unique biological Tags rather than inflating their stats. Here are a few examples:
