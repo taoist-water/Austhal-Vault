@@ -120,19 +120,19 @@ __________________________________________________________________
 - Stress Limit: **2 + (Wits x 2) + species bonus + Feat bonus**. 
     -  If your total Stress (Locked + Dissonant) exceeds this limit, your mental focus shatters: all current Locked Stress immediately becomes Dissonant, applying its full penalties, and any excess points are converted into Wounds.
 
-## Attributes (capped at +5 Max)
+## Attributes (capped at +3 Max)
 
     
-## Skills (capped at +5).
+## Skills (capped at +3).
 
 # Determine Attributes
 You have Development Points [[DP]]: 4 Points to distribute among your four Attributes. 
 
 - All Attributes start at 0.
 
-(Cost: 1 Point = +1 to an Attribute. Max: 3).\[Dev note\] Allow racial modifiers to break this rule at creation? \[/Dev note\]
+(Cost: 1 Point = +1 to an Attribute. Max: 3).
 
-Attributes represent your raw capabilities. Mortal Attributes and Skills are strictly capped at +5. You divide your starting points among four core Attributes. 
+Attributes represent your raw capabilities. Mortal Attributes and Skills are strictly capped at +3 You divide your starting points among four core Attributes. 
 
 
 1. Prowess: Physical power, strength, and brute force.
@@ -866,3 +866,35 @@ Focused on weaponized suffering, cynical devotion, and using the self as a condu
 - You take on the world's rot so others might live.
     
 - Mechanic: When an ally within 30 feet suffers a Wound, you may spend 2 Momentum to instantly transfer that Wound to yourself instead. If this Wound fills your final Wound slot and pushes you to Incapacitation, your collapse triggers a shockwave of absolute divine radiation, instantly clearing all Locked and Dissonant Stress from all allies within line of sight.
+
+________________________________________________________________________
+# Advancement
+
+Every 2 to 3 sessions, the GM awards the party a Milestone Reward of 3 Development Points (DP). When spending these points to grow, the relationship between a character's physical/mental limits (Attributes) and their techniques (Skills) dictates the cost.
+
+  
+
+### The Training & Growth Menu
+
+#### 1. Learning a New Skill (Rank 1 / Novice)
+
+- Standard Learning: Costs 2 DP to unlock Rank 1 if the Associated Attribute is 1 or higher.
+    
+- Blind Learning: Costs 4 DP to unlock Rank 1 if the Associated Attribute is currently at 0.
+    
+
+#### 2. Upgrading an Existing Skill 
+
+- Within Aptitude: Costs 1 DP if the new skill rank is at or under the score of its Associated Attribute.
+    
+- Pushing the Limit: Costs 2 DP if the new skill rank is past the score of its Associated Attribute.
+    
+
+#### 3. Advancing an Attribute
+
+- Physical/Mental Conditioning: Costs 5 DP to increase any Attribute by +1. This automatically scales up your associated Vitals (Prowess adds to $T$, Wits adds to your Stress Limit) and instantly lowers the future training costs of any skills tethered to it.
+    
+
+#### 4. Purchase a Feat
+
+- Horizontal development: costs 3 DP  to gain a new feat, as long as the prerequisites are met.

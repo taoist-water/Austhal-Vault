@@ -21,7 +21,7 @@
 	    -  High Success (5 -11)
 	    - Massive Success (12+)
 - Fates Bounty (double 6s): When a natural double 6 is rolled, the player (or Elite/boss NPC)  rolls an additional die and adds it to the total. This is only done once.
-- Fumble: Automatic failure. The character immediately suffers 3 Stress.
+- Snake Eyes (natural 2): Automatic failure. The character immediately suffers 1 Stress, and additional contextual penalties.
 - \[dev note\]Perfect Sequence (Universal Combat Rule): If a Prowess or Reflex check results specifically in a 3 and a 4 (creating a natural 7), the character achieves "Perfect Form". They may immediately perform a Free Shift (move 1 square) without triggering a Reactor action from the enemy. \[/dev note\]
 
 ## The Margin-Focused Resolution (Unopposed Checks)
