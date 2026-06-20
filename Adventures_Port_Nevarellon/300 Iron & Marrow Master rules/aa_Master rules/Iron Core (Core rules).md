@@ -23,7 +23,38 @@
 - Fates Bounty (double 6s): When a natural double 6 is rolled, the player (or Elite/boss NPC)  rolls an additional die and adds it to the total. This is only done once.
 - Fumble: Automatic failure. The character immediately suffers 3 Stress.
 - \[dev note\]Perfect Sequence (Universal Combat Rule): If a Prowess or Reflex check results specifically in a 3 and a 4 (creating a natural 7), the character achieves "Perfect Form". They may immediately perform a Free Shift (move 1 square) without triggering a Reactor action from the enemy. \[/dev note\]
+
+## The Margin-Focused Resolution (Unopposed Checks)
+
+Instead of artificially inflating the Target Number to combat high modifiers, we accept that highly skilled characters will succeed at standard tasks. The dice roll dictates the collateral damage, the speed, or the Momentum generated.
+
+The Universal TN 8 Baseline Whenever a player makes an unopposed roll (like picking a lock, tending to a wound, or deciphering a grimoire), the Target Number is always 8.
+
+The Resolution Ladder You calculate the Margin (Total Result - 8) and apply the outcome:
+
+- Failure (Total 7 or less): The task fails outright. Time is wasted, and a consequence triggers (e.g., the lock picks snap, or you take 1 Dissonant Stress from frustration).
+    
+- Messy Success (Margin 0–2): You accomplish the task, but it costs you. You pick the lock, but it takes 10 minutes and your torch burns out. You forge the armor, but you must spend an extra 5 Silver Pieces on wasted materials.
+    
+- Clean Success (Margin 3–4): Flawless execution. You achieve the exact desired result with no complications.
+    
+- Exceptional Success (Margin 5+): You absolutely dominate the challenge. You achieve the result and generate 1 Momentum, or you gain a Prep Tag for an upcoming encounter.
 _____________________________________________________________________
+## The "Snake Eyes" Rule (Natural 2)
+
+When a player rolls a Natural 2 (two 1s) on a 2d6 check, the result is an Automatic Catastrophic Failure, regardless of their Attributes, Skills, or Gear modifiers. The total margin is irrelevant; the world intervenes in the worst possible way.
+
+When this happens on an unopposed check, the GM immediately applies one of the following consequences based on the context of the action:
+
+- Gear Degradation: The tool being used is pushed beyond its physical limit. If picking a lock, the picks snap off inside the mechanism, permanently jamming it. If using an Alchemist's Kit, the vials shatter. The item immediately gains the Damaged tag (or is Ruined if already Damaged).
+    
+- The Panic Reflex: The character realizes they have made a catastrophic error. They instantly suffer 1 point of Dissonant Stress, immediately ticking them closer to the Death Spiral.
+    
+- The Momentum Drain: The sheer embarrassment or shock of the failure kills the party's forward drive. The party instantly loses 1 banked Momentum. If they have no Momentum to lose, the active character takes 1 Dissonant Stress instead.
+    
+- Catastrophic Exposure: If the roll was related to Stealth or Scouting, the failure is loud and undeniable. The character is completely exposed, and all enemies in the upcoming encounter gain Advantage on their opening Activation Initiative Draw.
+
+________________________________________________________________________
 # The Momentum Economy
 
 ## The Momentum Bank
@@ -40,11 +71,11 @@ Momentum represents tactical flow, adrenaline, and sudden strokes of genius. Eac
 
  If we want to keep the engine unified, Momentum generation should be directly tied to the Margin math we have built. It shouldn't be arbitrary; it should be the mechanical reward for overwhelming success.
 
--  Combat: Winning an Aggressor Clash by a Margin of 5+ (High Success) or 12+ (Massive Success).
+-  Combat: Winning a Clash by a Margin of 5+ (High Success, 1 Momentum) or 12+ (Massive Success, 2 Momentum).
     
 - Magic: As we built in the spellbooks, hitting that Margin of 5+ on an unopposed Arcana check generates Momentum because the caster executed the spell flawlessly.
     
-- Exploration: Exceeding an unopposed Target Number (like TN 8 for picking a lock or scaling a wall) by a Margin of 5+.
+- Exploration: Exceeding an unopposed Target Number (like TN 8 for picking a lock or scaling a wall) by a Margin of 5+ (1 Momentum).
     
 ### 2. The Engine Pillar (The Exploding Dice)
 
