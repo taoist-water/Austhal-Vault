@@ -101,7 +101,7 @@ Momentum must become a currency of Rule-Breaking and Action Economy. Players spe
 
 ### Cost 3: Tactical Engineering (The MacGyver Moment)
 
--  The Kill-Box Barricade: You only have minutes before the swarm arrives. Spend 3 Momentum to cannibalize the environment (pews, iron gates, rubble) to create a flawless, booby-trapped choke point. The first enemy that attempts to cross the threshold automatically suffers a - ### massive kinetic hit (e.g., 5 Impact) and gains the Anchored condition without you ever having to roll a Strike.
+-  The Kill-Box Barricade: You only have minutes before the swarm arrives. Spend 3 Momentum to cannibalize the environment (pews, iron gates, rubble) to create a flawless, booby-trapped choke point. The first enemy that attempts to cross the threshold automatically suffers a - massive kinetic hit (e.g., 5 Impact) and gains the Anchored condition without you ever having to roll a Strike.
     
 -  Cannibalize Gear: Instead of a temporary patch, you permanently repair a critical piece of gear. Spend 3 Momentum and destroy one piece of metal equipment (an enemy's dropped sword, a heavy iron pot) to permanently strip the Damaged tag from your primary weapon or armor mid-dungeon.
 _______________________________________________________________________
@@ -198,3 +198,20 @@ Because the player is stuck at the bottom of the turn order, the rest of the par
     
 - **The Coup de Grâce (The Threat):** If an Incapacitated character is hit by an Aggressor's melee attack while bleeding out, they do not calculate Impact. They immediately suffer 1 automatic Death Mark. If the attacker uses the _Vital Strike_ feat, the character is instantly killed.
 _______________________________________________________________________
+
+### The Breather (Universal Action)
+
+ The party barricades a room, binds their bleeding, and tries to calm their racing hearts. It is a desperate pause, not a comfortable rest.
+
+- Time Requirement: 30 uninterrupted in-game minutes.
+    
+-  The Cost: Every participating player immediately empties their Momentum Bank to 0. The adrenaline fades.
+    
+- The Effect: All accumulated Dissonant Stress is completely wiped away. The Death Spiral is reset, and players lose their negative dice modifiers.
+    
+- The Limitation: A Breather cannot heal physical Wounds, and it cannot clear Locked Stress.
+- At The conclusion of a Breather the party rolls their Community Supply Die (if they have one), if a 1 or 2 is rolled, the die reduces one category. on a 3+ all is ok. 
+
+# Long Rest:
+
+a period of downtime, lasting at least typically 8 hours, during which a character does nothing more strenuous than eating, drinking, uninterrupted sleeping.

@@ -13,7 +13,7 @@
 - Difficult terrain causes disadvantage on checks within it, halves movement value
     
 - Drawing a weapon is an action. Doing so as a reactor causes a -2 on the CLASH roll. It is a free action as part of a charge.
-
+________________________________________________________________________
 # The Environment:
 
 ## Cover (The Environmental Shield)
@@ -52,7 +52,7 @@ When a character shoots at an enemy that is actively engaged in melee with an al
 
 - *The Resolution:* You immediately compare that same failed attack total against your Ally's Wound Threshold and resolve impact as normal. 
     
-
+________________________________________________________________________
 ### ENVIRONMENTAL HAZARDS (Survival & Athletics)
 
 High Fantasy heroes journey across brutal landscapes. In this system, the environment attacks your Stress track before it attacks your Wounds.
@@ -62,7 +62,7 @@ High Fantasy heroes journey across brutal landscapes. In this system, the enviro
 - *The Cost of Failure:* Failing a Hazard check inflicts 1d6 Locked Stress (or more, depending on severity).
     
 - *The Death Spiral:* if a character's Stress limit is maxed out by a Hazard, any further Stress instantly converts into Wounds. This means a character can literally freeze to death or die of exhaustion without ever taking a sword swing.
-
+_______________________________________________________________________
 # THE SOCIAL ENGINE (Influence & Resolve)
 
 In High Fantasy Realism, a silver tongue is just as dangerous as a drawn sword, but it isn't mind control. Social encounters use Influence (to push your agenda) opposed by the target's Resolve (or simply Will, if they lack the skill).
