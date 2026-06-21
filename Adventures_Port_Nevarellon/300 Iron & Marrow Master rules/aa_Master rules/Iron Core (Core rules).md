@@ -215,7 +215,7 @@ Weapons are not the only things that cause Wounds. Wounds are inextricably linke
 ________________________________________________________________________
 # At Deaths Door
 
-When a character takes a Wound that fills their final Wound Slot (typically the 4th), they immediately fall Prone, drop their weapons, and gain the **Incapacitated** condition.
+When a character takes a Wound and cannot fill a wound slot, they immediately fall Prone, drop their weapons, and gain the **Incapacitated** condition.
 
 **1. The Activation Order (Bottom of the Barrel)** An Incapacitated character no longer rolls for Activation Initiative at the start of a round. They automatically act at the absolute bottom of the turn order. If multiple characters are Incapacitated, they act simultaneously at the end of the round.
 
