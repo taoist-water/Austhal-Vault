@@ -132,7 +132,7 @@ Momentum must become a currency of Rule-Breaking and Action Economy. Players spe
 
  These are massive, encounter-shifting expenditures that drain more than half of their maximum bank.
 
--  The Decisive Blow (Forcing the Threshold): The player wins an Aggressor Clash, but the math reveals the Impact is lower than the Boss's massive Wound Threshold, meaning it would normally only cause 1 Stress. The player spends 3 Momentum to drive the blade through anyway. The attack automatically inflicts exactly 1 Wound Slot, bypassing the Threshold check entirely.
+-  The Decisive Blow (Forcing the Threshold): The player wins an Aggressor Clash, but the math reveals the Impact is lower than the Boss's massive Wound Threshold, meaning it would normally only cause 1 Stress. The player spends 3 Momentum to drive the blade through anyway. The attack automatically inflicts exactly 1 Wound Slot, bypassing the Threshold check entirely. *without equipment and preparation this could be the only way to wound Boss tier entities. Use it!*
     
 -  Interrupt / Seize the Initiative: When the GM declares an enemy is about to take an Aggressor action against the player or an ally, the player can spend 3 Momentum to literally pause time. The player instantly interrupts the enemy, taking a full Aggressor turn before the enemy's action resolves. If the player kills or breaks the enemy during this interrupt, the enemy's declared action never happens.
 

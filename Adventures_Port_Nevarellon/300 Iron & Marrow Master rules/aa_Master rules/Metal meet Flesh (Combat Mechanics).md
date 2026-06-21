@@ -1,12 +1,12 @@
 # When it comes to Combat
 ## The Engagement Flow
 
-1. Activation: 2d6 + Reflex (Determines turn order).
+1. Activation Order: 2d6 + Reflex. This determines turn order.
 	- Activations are then executed in descending order.
 	- once all Activations are complete, the round is over.
 	- All participants roll for Activation order again.
     
-2. Move and Engage: Active (aggressors) Characters MAY move into an enemies threat zone and become engaged.
+2. Move and Action: Active (aggressors) Characters  MAY move into an enemies threat zone and become engaged.
     
     
 3. Declarations: Aggressor declares attack first (e.g., Strike, shove), Reactor declares defence (e.g., Dodge, Block) 
