@@ -46,7 +46,7 @@ Free Actions:
 ### Aggressor Actions:
 
 - Strike: 2D6 + Prowess + Melee + Weapon Power. The standard attack. 
-- Power Strike: 2D6 + Prowess + Melee. Apply a - 2 to the Clash roll, to add +2 to the Impact calculation.
+- Power Strike: 2D6 + Prowess + Melee + Weapon Power. Apply a - 2 to the Clash roll, to add +2 to the Impact calculation.
 
 - Grab: 2D6 + Prowess + Athletics. Attempt to Hold the Target in a grapple. Win, you and the opponent gain the In-Fighting and Grappled conditions.
     

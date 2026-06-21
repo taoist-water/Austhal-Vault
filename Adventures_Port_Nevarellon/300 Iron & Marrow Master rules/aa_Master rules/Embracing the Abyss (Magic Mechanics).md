@@ -73,8 +73,30 @@ This creates two completely different playstyles for magic users:
     
 
 ________________________________________________________________________
+### Reactor Spells (Defensive Magic)
+
+To make "Cast Spell" a valid Reactor Action, you need a specific category of spells designed to be cast in a split second.
+
+- **Arcane Reactions (The Opposed Clash):** A spell like _Aetheric Deflection_ or _Void Step_ would trigger the moment an Aggressor declares a Strike. The Arcanist rolls an Opposed Clash using `2d6 + Wits + Arcana`. If the Arcanist wins, they completely negate the attack. If they win by a High Margin (5+), they might also trigger a counter-effect (like teleporting 5 feet or dealing 1 Stress to the attacker).
+    
+- **Faith Reactions (The Stress Soak):** Because Faith magic bypasses the dice, a Priest's Reactor spell (like _Martyr's Shield_) wouldn't require a Clash roll. Instead, when an enemy rolls a massive Strike, the Priest declares the Miracle, instantly accepts 1 or 2 Locked Stress, and immediately grants themselves or an ally a massive Front-End Reducer (e.g., +4 Shield Value) against that specific attack.
+    
+    
+    
+- **Fixed-Duration Buffs:** For spells like _Calcify Armor_ that grant an ongoing +1 SV, the player does not need to use the "Cast Spell" Reactor Action. The magic is already active. When attacked, they simply choose the "Block" or "Brace" action and mathematically benefit from the buffed stats.
+    
+    
+
+**The Channelling Rule** Certain powerful, ongoing spells (like _Wildfire Proliferation_ or _Litany of Nails_) possess the **Sustain** tag. A caster can only sustain one spell at a time.
 
 
+- **The Arcane Cost (Volatility):** To keep an Arcane spell active, the Arcanist must dedicate their concentration. At the start of their Activation, before they move or act, they must successfully pass a `Wits + Arcana vs TN 8` check. If they succeed, the spell persists. If they fail, the spell drops, and they take 1 Dissonant Stress from the magical backfire. (This makes _Fevered Channelling_ highly valuable).
+    
+    
+- **The Faith Cost (Sacrifice):** Because the Priest already paid the Locked Stress upfront, they do not need to roll to sustain. However, the divine connection requires absolute physical devotion. If the Priest takes a Wound or is knocked Prone, the sustained Miracle instantly drops.
+    
+    
+________________________________________________________________________
 # Example Spells
 
 Here are four traditional environmental spells designed to integrate seamlessly into the Iron & Marrow chassis.
