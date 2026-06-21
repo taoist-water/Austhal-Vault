@@ -6,13 +6,16 @@
 	- once all Activations are complete, the round is over.
 	- All participants roll for Activation order again.
     
-2. Move and Action: Active (aggressors) Characters  MAY move into an enemies threat zone and become engaged.
+2. Move and Action: Active Characters (aggressors) can spend their activation moving and taking an action and a free action if they are not also engaged. They may move up to their Move value and at any time resolve their action/free action during that movement. If the Active Character enters an enemies Threat zone both the Active character and the enemy become Engaged.
     
     
-3. Declarations: Aggressor declares attack first (e.g., Strike, shove), Reactor declares defence (e.g., Dodge, Block) 
+3. When choosing to use their action to attack a target. 
+	1. Declarations: Aggressor declares an attack first (e.g., Strike, shove)
+	2. Reactor declares a defence (e.g., Dodge, Block) 
     
-4. Fight (The Clash): Both roll chosen actions, Highest total wins. Compare roll results, the difference is the Impact(where applicable)
-    - In a Tie: the weapons bind the clash ends.
+4. Fight (The Clash): Both Aggressor and reactor roll their chosen actions, Highest total wins. 
+	1. Compare the roll results, the difference is the Impact(where applicable)
+    - In a Tie: the weapons bind/arrows miss or are deflected, the clash ends.
     
 ## Combat on the Grid
 - Scale: 1 Square = 5ft. Medium creatures occupy 1 square and move 30 ft (6 squares) per action.
