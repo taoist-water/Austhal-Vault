@@ -334,7 +334,7 @@ The caster offers their own physical substance to the entities in the void in ex
 
 The caster violently twists the spatial dimensions around an enemy, causing distances to become infinitely long or impossibly short.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Resolve or Defense).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's wits + Resolve).
     
 - The Effect: You target one Elite or Boss. If you win the Clash, you don't deal Impact. Instead, you lock them in a spatial paradox.
     
@@ -350,7 +350,7 @@ The caster violently twists the spatial dimensions around an enemy, causing dist
 
 The Witch locks eyes with the target and whispers a localized, highly specific curse, snapping a small chicken bone or twig to seal the hex.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Resolve or Defense).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's will + Resolve).
     
 - The Effect: This spell does not deal immediate physical Impact. It infects the target’s luck and muscle memory.
     
@@ -436,7 +436,7 @@ The caster compresses a sphere of localized space into a marble-sized singularit
 
 The Astromancer calls down a pinpoint, blinding shaft of condensed starlight that strikes from the atmosphere directly onto the target’s skull.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
     
 - The Effect: Because the attack comes from directly above at orbital velocity, traditional horizontal defenses are useless. The target completely loses the ability to use the Parry action against this Strike. They must rely on a heavy shield (Block) or attempt to Dodge.
     
