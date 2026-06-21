@@ -25,7 +25,7 @@ The Necromancer targets a fresh corpse or a severely wounded enemy, inhaling the
 
 The caster forces the blood in a living target's extremities to instantly coagulate and their joints to temporarily calcify.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Wits or Defense).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Will + resolve).
     
 - The Effect: This is not designed to deal Impact (damage), but to cripple the action economy. If the Necromancer wins the Clash, the target is afflicted with Rigor.
     
@@ -112,7 +112,7 @@ The caster pulls a blade of condensed absence-of-light from the shadows. It pass
 
 The sorcerer drives an iron nail or a blade into the target’s cast shadow on the floor, magically pinning their physical body in place.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense).
+- Resolution: Arcane Clash (Wits + Arcana vs. Prowess + Athletics).
     
 - The Effect: If the caster wins, the target’s shadow is nailed to the environment. The target becomes Anchored (Movement is reduced to 0).
     
@@ -146,7 +146,7 @@ The caster dissolves into a nearby shadow, losing physical cohesion, and instant
 
 The Shaman draws ambient static from the air, concentrating it into a deafening, blinding arc of jagged lightning that seeks out grounded metal.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Dodge or Brace).
     
 - The Effect: This spell is the ultimate counter to heavy Elites and Constructs. If the target is wielding a metal shield or possesses the Ablative Armor or Construct tag, the Shaman automatically gains Advantage on the Clash roll.
     
@@ -198,7 +198,7 @@ The Shaman inhales the ashes or bone dust of a long-dead warrior, allowing a fer
 
 The caster sweeps their arms outward, creating a localized, concussive blast of cyclonic air meant to violently physically separate combatants.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Targets' Prowess or Defense). Note: This targets all enemies within a 10-foot cone.
+- Resolution: Arcane Clash (Wits + Arcana vs. Targets' Prowess or reflex + Athletics). Note: This targets all enemies within a 10-foot cone.
     
 - The Effect: This spell does not deal Impact. Instead, it alters the battlefield geometry to save swarmed allies. The Shaman rolls once, and every enemy in the cone rolls to defend.
     
@@ -214,7 +214,7 @@ The caster sweeps their arms outward, creating a localized, concussive blast of 
 
 The caster’s hands violently sweat a highly reactive, boiling solvent, which they hurl in a concentrated arc that eagerly eats through manufactured materials.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
     
 - The Effect: This spell is designed to permanently ruin an enemy's math. It ignores the target's Shield Value (SV) entirely during the Clash, as the acid simply splashes over and eats through the barrier.
     
@@ -248,7 +248,7 @@ The caster forces a localized, agonizing biological reaction—either in themsel
 
 The caster snaps their fingers, drastically superheating the ambient air around a specific metallic object, causing an enemy's gear to instantly melt and fuse together.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense).
+- Resolution: Arcane Clash(treat like a target number) (Wits + Arcana vs. Target's wound threshold).
     
 - The Effect: You target an enemy wearing metal armor or wielding a mechanical/metal weapon. If you win the Clash, you don't deal Impact; instead, you fuse their gear.
     
@@ -282,7 +282,7 @@ The caster places their palm against a solid surface—stone, wood, or bone—an
 
 The caster rips a jagged, temporary tear in the air itself, exposing the target to the crushing pressure and absolute zero of the void outside reality.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Dodge action).
     
 - The Effect: This spell completely ignores all physical armor, Shield Values, and Bestiary tags. It is pure, unmitigated erasure. However, if the caster loses the Clash via a target's Dodge, the tear violently snaps shut, and the GM immediately gains 1 Threat point.
     
