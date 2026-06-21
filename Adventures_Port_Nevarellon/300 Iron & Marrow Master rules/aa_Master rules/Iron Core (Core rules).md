@@ -53,7 +53,7 @@ When this happens on an unopposed check, the GM immediately applies one of the f
     
 - The Momentum Drain: The sheer embarrassment or shock of the failure kills the party's forward drive. The party instantly loses 1 banked Momentum. If they have no Momentum to lose, the active character takes 1 Dissonant Stress instead.
     
-- Catastrophic Exposure: If the roll was related to Stealth or Scouting, the failure is loud and undeniable. The character is completely exposed, and all enemies in the upcoming encounter gain Advantage on their opening Activation Initiative Draw.
+- Catastrophic Exposure: If the roll was related to Stealth or Scouting, the failure is loud and undeniable. The character is completely exposed, and all enemies in the upcoming encounter gain Advantage on their opening Activation order rolls.
 
 ________________________________________________________________________
 # The Momentum Economy
@@ -217,7 +217,7 @@ ________________________________________________________________________
 
 When a character takes a Wound and cannot fill a wound slot, they immediately fall Prone, drop their weapons, and gain the **Incapacitated** condition.
 
-**1. The Activation Order (Bottom of the Barrel)** An Incapacitated character no longer rolls for Activation Initiative at the start of a round. They automatically act at the absolute bottom of the turn order. If multiple characters are Incapacitated, they act simultaneously at the end of the round.
+**1. The Activation Order (Bottom of the Barrel)** An Incapacitated character no longer rolls for Activation order at the start of a round. They automatically act at the absolute bottom of the turn order. If multiple characters are Incapacitated, they act simultaneously at the end of the round.
 
 **2. The Bleed-Out Check** When the character's activation comes up, they can take no Actions or Free Actions. Instead, they must make a desperate roll to cling to life.
 
@@ -273,7 +273,7 @@ ________________________________________________________________________
     
 - *Immobilized:*
     
--  *Prone:* You are on the ground. You automatically lose Engagement Draws, and suffer Disadvantage on all Clashes. It costs a Move Action or 1 Momentum to scramble to your feet.
+-  *Prone:* You are on the ground. You suffer Disadvantage on all Clashes. It costs a Move Action or 1 Momentum to scramble to your feet.
     
 - *Blinded:* (Dirt in the eyes, magical darkness). You cannot take Aggressor actions against targets beyond 5 feet. All Reactor Clashes are made with Disadvantage.
     

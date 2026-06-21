@@ -300,14 +300,14 @@ ______________________________________________________________________
     
 - The world moves like sludge when the adrenaline hits.
     
-- Mechanic: You have a supernatural hair-trigger response to danger. When rolling your Engagement Draw (2d6 + Reflex), you roll with Advantage (Roll 3d6, keep the highest two).
+- Mechanic: You have a supernatural hair-trigger response to danger. When rolling your Activation Order (2d6 + Reflex), you roll with Advantage (Roll 3d6, keep the highest two).
 ### Scavenger’s Eye
 
 - Prerequisites: Wits +1, Stealth +1 or Survival +1
     
 - Paranoia is just a high-functioning survival instinct.
     
-- Mechanic: When you achieve a Massive Success (winning by 5+) on an exploration or scouting check, the Pre-Combat Momentum you generate is amplified. You may carry up to 3 points of Momentum into the resulting ambush or engagement, rather than the standard maximum of 2.
+- Mechanic: When you achieve a Massive Success (winning by 5+) on an exploration or scouting check. You gain 2 points of Momentum instead of the standard 1.
 ### Scholarly Resonance
 
 - Prerequisites: Arcana 2
@@ -488,7 +488,7 @@ ______________________________________________________________________
     
 - Wear your scars as a weapon.
     
-- Mechanic: When you suffer a Wound from an Aggressor, you automatically bank 1 Momentum (ignoring the standard rule that you only gain Momentum on a win) and gain Advantage on your next Engagement Draw against that specific target.
+- Mechanic: When you suffer a Wound from an Aggressor, you automatically bank 1 Momentum  and gain Advantage on your next Clash against that specific target.
 ### The Scoundrel
 
 - Prerequisites: Reflex 1+, Wits 1+
@@ -535,7 +535,7 @@ ______________________________________________________________________
     
 - Perfect edge alignment and flawless footwork.
     
-- Mechanic: You have spent thousands of hours perfecting edge alignment and footwork. You gain permanent Advantage on all Engagement and Clash rolls when wielding Swords or Daggers.
+- Mechanic: You have spent thousands of hours perfecting edge alignment and footwork. You gain permanent Advantage on Clash rolls when wielding Swords or Daggers.
 ### Break Morale
 
 - Prerequisites: Influence +3
@@ -609,13 +609,13 @@ ______________________________________________________________________
 - You rip the fabric of the world apart, taking yourself with it.
     
 - Mechanic: You take a -4 penalty to the casting roll. If successful, the spell automatically gains a Margin of Success of 5 (Massive Impact), devastating the battlefield. However, you instantly take 1 physical Wound from the magical blowback.
-### Perfect Nullification
+### (dev note)Perfect Nullification TO BE REVIEWED
 
 - Prerequisites: Reflex +3, Acrobatics +3
     
 - Be exactly where the blade isn't.
     
-- Mechanic: When acting as the Reactor and using the Dodge action, if you roll a natural 12, you don't just dodge the attack. You instantly steal the initiative, becoming the Aggressor, and may resolve a free Shoot or Strike action against your attacker before the Engagement ends.
+- Mechanic: When acting as the Reactor and using the Dodge action, if you roll a natural 12, you don't just dodge the attack. You instantly steal the initiative, becoming the Aggressor, and may resolve a free Shoot or Strike action against your attacker before the Engagement ends.(/dev note)
 ### Reaper’s Engine
 
 - Prerequisites: Prowess +3, Melee +3
@@ -693,7 +693,7 @@ Focused on leveraging sheer trauma, terrifying resilience, and turning bodily pu
     
 - Pain is just a targeting mechanism.
     
-- Mechanic: If you act as the Reactor and suffer a Minor or Major Wound from an Aggressor's melee attack, your nervous system rejects the shock. You may immediately spend 1 Momentum to perform a brutal, retaliatory Strike action against them. This occurs instantly before the Engagement ends and before you suffer any associated Stress penalties.
+- Mechanic: If you suffer a Minor or Major Wound from an Aggressor's melee attack, your nervous system rejects the shock. You may immediately spend 1 Momentum to perform a brutal, retaliatory Strike action against them. This occurs instantly before the Engagement ends and before you suffer any associated Stress penalties.
     
 
 #### Apex Butcher (Tier 3)
@@ -737,7 +737,7 @@ Focused on surgical precision, arrogant mobility, and completely dismantling an 
     
 - Their greatest strike is just an opening for your blade.
     
-- Mechanic: When you act as the Reactor and successfully Parry an attack by a High margin (5+), you do not just calculate Impact. You may immediately spend 1 Momentum to inflict the Surprised condition on the Aggressor, violently throwing them off balance and forcing them to become the Reactor with Disadvantage on the very next Engagement Draw.
+- Mechanic: When you act as the Reactor and successfully Parry an attack by a High margin (5+), you do not just calculate Impact. You may immediately spend 1 Momentum to inflict the Surprised condition on the Aggressor.
     
 
 #### Death of a Thousand Cuts (Tier 3)

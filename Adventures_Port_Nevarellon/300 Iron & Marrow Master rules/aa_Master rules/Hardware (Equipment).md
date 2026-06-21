@@ -220,7 +220,7 @@ Instead of just buying entirely new suits of plate, characters in a low-fantasy 
 
 - Cost: 20 sp | Availability: Common
     
-- Rules: Requires a suit of Medium or Heavy armor to attach. Adds a flat +1 to your Wound Threshold (WT). However, the added shoulder bulk restricts head movement; you suffer a permanent -1 penalty to your Engagement Initiative Draw rolls.
+- Rules: Requires a suit of Medium or Heavy armor to attach. Adds a flat +1 to your Wound Threshold (WT). However, the added shoulder bulk restricts head movement; you suffer a permanent -1 penalty to your activation order rolls.
     
 
 #### Visored Great-Helm (Headpiece Modification)    
