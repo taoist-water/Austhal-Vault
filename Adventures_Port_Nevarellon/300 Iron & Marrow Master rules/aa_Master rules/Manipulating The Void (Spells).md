@@ -402,7 +402,7 @@ The caster scatters a handful of dead seeds that instantly erupt into a writhing
 
 The Witch blows a handful of pale, grave-dust spores into the face of a target, instantly inducing a supernatural, bone-rattling fever.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense).
+- Resolution: Arcane Clash (Wits + Arcana vs. will + reslove or Brace action).
     
 - The Effect: The target's immune system violently rebels, destroying their stamina and action economy.
     
@@ -452,9 +452,9 @@ The Astromancer calls down a pinpoint, blinding shaft of condensed starlight tha
 
 The caster mathematically binds an enemy’s gravitational pull to an ally, forcing them into a locked, inescapable orbit.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Wits or Defense).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Wits + arcana or Will + resolve).
     
-- The Effect: You target an enemy and mathematically tether them to a specific ally.
+- The Effect: You target an enemy and tether them to a specific ally.
     
 - The Margin Scaler (Based on Clash Margin):
     
@@ -486,7 +486,7 @@ The Astromancer temporarily severs an ally’s connection to gravity, completely
 
 The caster exhales a concentrated, blinding beam of white-hot plasma that superheats the air and violently expands upon impact.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
     
 - The Effect: You cannot cross blades with a blowtorch. The target completely loses the ability to use the Parry action against this Strike. They must rely on a thick shield (Block) or attempt to Dodge.
     
@@ -538,7 +538,7 @@ The Pyromancer presses a glowing, superheated hand directly against an ally’s 
 
 The caster hyper-pressurizes the air directly around their own body, before releasing it in a deafening, spherical concussive blast.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Targets' Defense). Note: This targets every enemy currently engaged in the caster's Threat Zone.
+- Resolution: Arcane Clash (Wits + Arcana vs. Targets' Defense action ). Note: This targets every enemy currently engaged in the caster's Threat Zone.
     
 - The Effect: This is the Pyromancer's panic button when swarmed. The caster rolls once, and every enemy within 5 feet must roll to defend.
     
