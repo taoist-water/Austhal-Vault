@@ -26,7 +26,7 @@
 ## Damage Calculation
 Impact: (Winner Roll - Loser Roll) 
 
-- Impact < Threshold: 1 Dissonant Stress.
+- Impact < Threshold: 1 Dissonant Stress. "A Glancing Hit"
     
 - Impact => Threshold: 1 Minor Wound (1 slot).
     
