@@ -24,7 +24,9 @@ _____________________________________________________________________
 -  Adaptable: Humans gain 1 extra Skill Point at character creation to represent their varied backgrounds and quick learning.
     
 - Indomitable Spirit: Humans have a slightly higher breaking point. Their base Stress Limit is increased by +1.
-    
+- Adaptability: At creation Humans can choose between;
+	- An Additional Attribute point, respecting the +3 cap OR,
+	- A third feat.
 - Playstyle: The perfect blank slate. They can flex into any role, and that extra point of Stress gives them just a little more breathing room before they panic or break.
 
 ## Half-Elf (The Bridge Builders)
@@ -115,7 +117,7 @@ __________________________________________________________________
 - Will: Resolve and spiritual weight.
     
 
-- Wound Threshold [[Wounds Threshold|T]]: 4 + Prowess + Armour + Species Bonuses + Scale bonus + Misc.mods
+- Wound Threshold [[Wounds Threshold|T]]: **4 + Prowess + Armour + Species Bonuses + Scale bonus + Misc.mods**
     
 - Stress Limit: **2 + Wits + Will + species bonus + Feat bonus**. 
     -  If your total Stress (Locked + Dissonant) exceeds this limit, your mental focus shatters: all current Locked Stress immediately becomes Dissonant, applying its full penalties, and any excess points are converted into Wounds.
@@ -146,11 +148,11 @@ Attributes represent your raw capabilities. Mortal Attributes and Skills are str
 
 Calculate your survival metrics based on your Attributes and gear choices.
 
-- Wound Threshold : 4 + Prowess + Armor Value + Misc. Modifiers
+- Wound Threshold : **4 + Prowess + Armour + Species Bonuses + Scale bonus + Misc.mods**
     
 - (This is the amount of Impact required in a single hit to cause a physical Minor Wound).
     
-- Stress Limit: 2 + (Wits x 2) + Misc. Modifiers
+- Stress Limit: **2 + Wits + Will + species bonus + Feat bonus**. 
     
 - (This is your mental fatigue pool. Once filled, taking more Stress causes Wounds).
     
