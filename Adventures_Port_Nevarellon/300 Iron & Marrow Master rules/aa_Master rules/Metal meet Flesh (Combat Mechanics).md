@@ -26,11 +26,11 @@
 ## Damage Calculation
 Impact: (Winner Roll - Loser Roll) 
 
-- Impact < Threshold: 1 Stress.
+- Impact < Threshold: 1 Dissonant Stress.
     
-- Impact => Threshold: 1 Minor Wound (1 slot) +1 stress.
+- Impact => Threshold: 1 Minor Wound (1 slot).
     
-- Impact => 2x Threshold: 1 Major Wound (2 slots) +2 stress.
+- Impact => 2x Threshold: 1 Major Wound (2 slots).
     
 - Impact => 3x Threshold: Incapacitated. Potential long term injury.
 
