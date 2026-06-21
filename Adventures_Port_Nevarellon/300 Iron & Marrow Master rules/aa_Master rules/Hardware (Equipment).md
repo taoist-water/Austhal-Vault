@@ -129,7 +129,7 @@ _______________________________________________________________________
     
 - Reach: Threatens a 10-foot radius (2 grid squares).   Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
     
-- Reload: After firing, requires an Action (losing your Engagement Initiative/Main Action for a turn) to load the next shot.
+- Reload: After firing, requires an Action to load the next shot.
     
 - Sidearm: Can be drawn as a Free Action without penalty.
 
@@ -210,7 +210,7 @@ ________________________________________________________________________
 - Obstructive: The sheer size of this shield gets in the way of evasive footwork. Imposes a -2 penalty to all Dodge actions.
     
 
-- Restricted: The heavy plates and limited visibility slow your reaction time in a sudden clash. Imposes a -1 penalty to your Engagement Initiative Draw rolls. Impossible to recreate the intricate movements required in Arcane spell casting, cannot cast Arcane spells whilst wearing. Reduces movement speed by 10ft.
+- Restricted: The heavy plates and limited visibility slow your reaction time. You can never be first in the activation order when rolling for activation order. If you roll the highest result, you will slip down to be second, behind the next highest. you will never win activation order ties. Impossible to recreate the intricate movements required in Arcane spell casting, cannot cast Arcane spells whilst wearing. Reduces movement speed by 10ft.
 
 ## CRITICAL UTILITY ARMOR MODIFICATIONS
 
