@@ -114,7 +114,7 @@ _______________________________________________________________________
     
 - Conduit can be used to perform Somatic components. The caster weaves the geometry of the spell using the item itself, meaning their hand does not need to be empty. 
     
-- Cumbersome: The weapon is heavy and slow to ready. Imposes a -1 penalty on Engagement Initiative Draw rolls.
+- Cumbersome: The weapon is heavy and slow to ready. Imposes a -1 penalty on Activation order rolls.
     
 - Focus: Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the wand, it gains the broken condition. The caster fails but does not suffer the 3 stress for a fumble.
     
@@ -127,7 +127,7 @@ _______________________________________________________________________
     
 - Precise: You can use the Precise Strike Aggressor action while suffering -2 penalty to the roll.
     
-- Reach: Threatens a 10-foot radius (2 grid squares). Grants +1 to your Engagement Initiative (The Draw) roll against enemies with shorter 5-foot weapons who try to close the distance.
+- Reach: Threatens a 10-foot radius (2 grid squares).   Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
     
 - Reload: After firing, requires an Action (losing your Engagement Initiative/Main Action for a turn) to load the next shot.
     
