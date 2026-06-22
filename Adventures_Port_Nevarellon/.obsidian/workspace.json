@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
+                "file": "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core rules).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manipulating The Void (Spells)"
+              "title": "Iron Core (Core rules)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exploding",
+                "query": "\"natural 6\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,19 +204,21 @@
   },
   "active": "8d4069f1c5467329",
   "lastOpenFiles": [
-    "300 Iron & Marrow Master rules/aa_Master rules/Embracing the Abyss (Magic Mechanics).md",
+    "300 Iron & Marrow Master rules/08 Feats/Tier 3 The Void/Transgressive Asymmetry.md",
+    "300 Iron & Marrow Master rules/aa_Master rules/The Marrow (Character creation).md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core rules).md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Hardware (Equipment).md",
+    "300 Iron & Marrow Master rules/01 Core Mechanics/At Deaths Door.md",
     "300 Iron & Marrow Master rules/Dev notes/Arcana_Full_Pass.md",
-    "300 Iron & Marrow Master rules/Dev notes/Faith_Revision_Draft.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Embracing the Abyss (Magic Mechanics).md",
+    "300 Iron & Marrow Master rules/Dev notes/Faith_Revision_Draft.md",
     "300 Iron & Marrow Master rules/10 Faith/Domains.md",
     "300 Iron & Marrow Master rules/Dev notes/momentum spends.md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core rules).md",
     "300 Iron & Marrow Master rules/Dev notes/The Glitch.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Beasts, Monsters, Mutants (Bestiary).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Tools for the Nameless (GM Tools).md",
     "300 Iron & Marrow Master rules/01 Core Mechanics/The Momentum Economy.md",
-    "300 Iron & Marrow Master rules/aa_Master rules/The Marrow (Character creation).md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Hardware (Equipment).md",
     "300 Iron & Marrow Master rules/07 Equipment/Armour and Shields.md",
     "300 Iron & Marrow Master rules/07 Equipment/Greater Explode.md",
     "300 Iron & Marrow Master rules/08 Feats/Tier 3 The Void/Embrace the Void.md",
@@ -227,8 +230,6 @@
     "300 Iron & Marrow Master rules/13 Bestiary/Monster Examples.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Metal meet Flesh (Combat Mechanics).md",
     "300 Iron & Marrow Master rules/13 Bestiary/Monster Entity Tags.md",
-    "300 Iron & Marrow Master rules/12 Advancement/Training and Growth.md",
-    "300 Iron & Marrow Master rules/12 Advancement/Character Tiers and Scaling Limits.md",
     "300 Iron & Marrow Master rules/aa_Master rules",
     "300 Iron & Marrow Master rules/Iron and Marrow core",
     "Iron & Marrow Rule set v1.0/Iron and Marrow Master rules/01 Character Creation 1",
