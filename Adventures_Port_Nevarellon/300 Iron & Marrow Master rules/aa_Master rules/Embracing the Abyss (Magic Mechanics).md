@@ -32,7 +32,7 @@ They immediately take 1 physical Wound (as their flesh chemically burns) AND 1 D
 
 To give Arcanists a tactical choice similar to the Priest's sacrifice, we can introduce Blood Channeling.
 
-- Before rolling an Arcane check, the Arcanist can voluntarily take 1 Dissonant Stress (cutting their palm, inhaling toxic fumes) to automatically add a +2 ( or advantage?)modifier to their roll.
+- Before rolling an Arcane check, the Arcanist can voluntarily take 1 Dissonant Stress (cutting their palm, inhaling toxic fumes) to gain Advantage their roll.
     
 - This allows them to push the math to guarantee hitting TN 8 or to ensure a massive margin in a Clash, but it pushes them incredibly close to the Death Spiral.
     

@@ -380,7 +380,7 @@ ______________________________________________________________________
     
 - The magic wants out. Let it burn through you.
     
-- Mechanic: If you roll a 12+ on a spell manifestation, you generate 2 Spell Momentum instead of 1. Furthermore, if you roll a Fumble while channeling or sustaining a spell, you take the 3 Dissonant Stress but the spell does not instantly drop.
+- Mechanic: If you roll a Desperate Edge on a spell manifestation, you generate 1 Momentum. Furthermore, if you roll a Fumble while channeling or sustaining a spell, you take the 1 Dissonant Stress but the spell does not instantly drop.
 ### Giant Feller
 
 - Prerequisites: Prowess +2 or Acrobatics +2
@@ -423,7 +423,7 @@ ______________________________________________________________________
     
 - You see the safe steps where others only see the hazard.
     
-- Mechanic: When you roll a natural 6 on an environmental Hazard Check, you generate 2 Momentum instead of 1. You may immediately spend 1 of this Momentum to allow an adjacent ally who failed their check to retroactively pass, saving them from the Locked Stress penalty.
+- Mechanic: When you roll a Desperate Edge on an environmental Hazard Check, you generate 1 Momentum. You may immediately spend this Momentum to allow an adjacent ally who failed their check to retroactively pass, saving them from the Locked Stress penalty.
 ### Psychological Fracture
 
 - Prerequisites: Will +2, Influence +2
@@ -557,7 +557,7 @@ ______________________________________________________________________
     
 - Birth, suffering, and a rusty blade.
     
-- Mechanic: When your Wounds slots are full, but before you take anymore wounds, you enter a state of lethal, detached focus. Your Fates Bounty (exploding dice) triggers on natural 5s as well as 6s for all Clash rolls. However, rolling a Fumble in this state results in immediate death rather than 3 Stress.
+- Mechanic: When your Wounds slots are full, but before you take anymore wounds, you enter a state of lethal, detached focus. Your Desperate Edge triggers on natural 5s as well as 6s for all Clash rolls. However, rolling a Fumble in this state results in immediate death rather than 1 Stress.
 ### Flesh Weaver
 
 - Prerequisites: Wits +3, Medicine +3

@@ -57,7 +57,7 @@ ________________________________________________________________________
 
 **The fix — pick Advantage, not a flat +2, and say why:**
 
-> **Blood Channeling:** Before rolling an Arcane check (Clash or unopposed Margin roll), the Arcanist may voluntarily take 1 Dissonant Stress to gain **Advantage** on that roll.
+>  Before rolling an Arcane check (Clash or unopposed Margin roll), the Arcanist may voluntarily take 1 Dissonant Stress to gain **Advantage** on that roll.
 
 Reasoning for picking Advantage over a flat +2:
 
