@@ -557,7 +557,7 @@ ______________________________________________________________________
     
 - Birth, suffering, and a rusty blade.
     
-- Mechanic: When you are at 3 Wounds (one away from Incapacitation), you enter a state of lethal, detached focus. Your Desperate Edge (exploding dice) triggers on natural 5s as well as 6s for all Clash rolls. However, rolling a Fumble in this state results in immediate death rather than 3 Stress.
+- Mechanic: When your Wounds slots are full, but before you take anymore wounds, you enter a state of lethal, detached focus. Your Fates Bounty (exploding dice) triggers on natural 5s as well as 6s for all Clash rolls. However, rolling a Fumble in this state results in immediate death rather than 3 Stress.
 ### Flesh Weaver
 
 - Prerequisites: Wits +3, Medicine +3
