@@ -423,7 +423,7 @@ ______________________________________________________________________
     
 - You see the safe steps where others only see the hazard.
     
-- Mechanic: When you roll an Exploding 6 (a natural 6) on an environmental Hazard Check, you generate 2 Momentum instead of 1. You may immediately spend 1 of this Momentum to allow an adjacent ally who failed their check to retroactively pass, saving them from the Locked Stress penalty.
+- Mechanic: When you roll a natural 6 on an environmental Hazard Check, you generate 2 Momentum instead of 1. You may immediately spend 1 of this Momentum to allow an adjacent ally who failed their check to retroactively pass, saving them from the Locked Stress penalty.
 ### Psychological Fracture
 
 - Prerequisites: Will +2, Influence +2
@@ -813,7 +813,7 @@ Focused on weaponized dogma, absolute punishment, and crushing the enemy under t
     
 - To strike you is to invite the wrath of god.
     
-- Mechanic: When an Aggressor rolls an Exploding 6 (natural 6) on a Clash against you, you may spend 2 Momentum to instantly shatter their weapon or their arm via divine backlash. The incoming attack is completely nullified (0 Impact), and the Aggressor instantly suffers 1 Major Wound (2 slots) as the kinetic energy violently rebounds into their own body.
+- Mechanic: When an Aggressor rolls a natural 6 on a Clash against you, you may spend 2 Momentum to instantly shatter their weapon or their arm via divine backlash. The incoming attack is completely nullified (0 Impact), and the Aggressor instantly suffers 1 Major Wound (2 slots) as the kinetic energy violently rebounds into their own body.
 ### The Ironclad (Fighter/Warrior Archetype)
 
 Focused on brutal mechanical efficiency, surviving physical trauma, and turning defense into inevitable offense.
