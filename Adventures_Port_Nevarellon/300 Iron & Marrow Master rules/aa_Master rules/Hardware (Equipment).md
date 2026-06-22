@@ -139,7 +139,7 @@ _______________________________________________________________________
     
 - Thrown: Can be hurled using the Ranged attack bands. If used in melee, it retains its 5 ft Threat.
     
-- Versatile: Its balanced nature makes it excellent for defense. Grants +1 to the Clash roll when used for the Parry Reactor action.
+- Versatile: can be wielded 1H or 2H. If wielded 2H add 1 to the weapon power.
     
 - Volley: Requires two hands and prevents the user from holding a Shield or Grimoire.
     

@@ -102,20 +102,21 @@ Taking the **Regroup** action consumes a player's entire turn. They cannot decla
 
 
 
-(dev note) ### The Twin-Blade Stance (Two weapon fighting)
+### The Twin-Blade Stance (Two weapon fighting)
 
-When wielding two one-handed weapons (a primary weapon and a weapon with the Swift tag), the character gains the following benefits:
+When wielding two one-handed weapons (a primary weapon and a weapon with the Sidearm tag), the character gains the following benefits:
 
-- Engagement Versatility: If either weapon has the Versatile tag, you gain the +1 bonus to your Clash roll when performing a Parry Reactor action.
+**Draw Advantage:** You may choose which weapon's tags to apply to the Engagement Draw. For example, having a Reach weapon (like a spear) in one hand and a Sidearm (like a dagger) in the other allows you to use the Reach while maintaining the ability to fight effectively in close quarters.
     
-- Draw Advantage: You may choose which weapon's tags to apply to the Engagement Draw. For example, having a Reach weapon (like a spear) in one hand and a Swift (like a dagger) in the other allows you to use the Reach while maintaining the ability to fight effectively in close quarters.
-    
+**Off-Hand Parry:** While wielding a Sidearm-tagged weapon in your off-hand, you may use that weapon's Power as a separate Front-End Reducer when you choose Parry as your Reactor action — stacking with (not replacing) your primary weapon's Parry bonus, up to the off-hand weapon's own Power value. Fictionally: you're using the dagger to deflect the killing edge of the blow rather than catching the whole weapon.
 
-The "Twin Strike" Maneuver (Momentum Spend)
+**The "Twin Strike" Maneuver (Momentum Spend)**
 
 - Effect: When you win a Clash as an Aggressor, you may spend 1 Momentum to immediately perform a second strike with your off-hand weapon.
     
-- Impact: This second strike does not require a new roll; instead, it deals the off-hand weapon's Power + 1 Stress to the target. This represents a quick follow-up flick or "stinger" that keeps the pressure on the opponent. (/dev note)
+- Impact: This second strike does not require a new roll; instead, it deals the off-hand weapon's Power + 1 Stress to the target. This represents a quick follow-up flick or "stinger" that keeps the pressure on the opponent. 
+
+
 _______________________________________________________________________
 ### The Scale Categories
 
