@@ -209,7 +209,7 @@ The caster sweeps their arms outward, creating a localized, concussive blast of 
     
 - Margin 3+ (Clean): The enemy is shoved 10 feet backward, slammed to the ground (gaining the Prone condition), and suffers 1 Dissonant Stress from the concussive force.
 
-# Alchemy and Transmutation
+## Alchemy and Transmutation
 ### 1. Caustic Deluge (Combat / Gear Degradation)
 
 The caster’s hands violently sweat a highly reactive, boiling solvent, which they hurl in a concentrated arc that eagerly eats through manufactured materials.
@@ -277,7 +277,7 @@ The caster places their palm against a solid surface—stone, wood, or bone—an
     
 - Margin 5+ (Exceptional): The caster controls the tension of the glass. When it shatters, it leaves behind a floor of razor-sharp caltrops, turning that 10x10 zone into a hazard that deals 1 Impact to any enemy that moves through it.
 
-# Demonology and Void Magic
+## Demonology and Void Magic
 ### 1. Flay the Veil (Combat / Unmitigated Annihilation)
 
 The caster rips a jagged, temporary tear in the air itself, exposing the target to the crushing pressure and absolute zero of the void outside reality.
@@ -345,7 +345,7 @@ The caster violently twists the spatial dimensions around an enemy, causing dist
     
 - Margin 3+ (Clean): The target is trapped. If they attempt to move or use an Aggressor action, they instantly suffer 2 Impact as the twisted geometry physically tears their muscles. They must spend their entire turn doing nothing (taking the Regroup action) just to let the space stabilize.
 
-# Witch Magic and Hedge Craft
+## Witch Magic and Hedge Craft
 ### 1. The Evil Eye (Combat / Debuff)
 
 The Witch locks eyes with the target and whispers a localized, highly specific curse, snapping a small chicken bone or twig to seal the hex.
@@ -548,3 +548,4 @@ The caster hyper-pressurizes the air directly around their own body, before rele
 - Margin 1–2: Deals 1 Impact. The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus.
     
 - Margin 3+ (Clean): Deals 2 Impact. The enemy is thrown 10 feet backward, knocked Prone, and suffers 1 Dissonant Stress from the ruptured eardrums and concussive shockwave.
+

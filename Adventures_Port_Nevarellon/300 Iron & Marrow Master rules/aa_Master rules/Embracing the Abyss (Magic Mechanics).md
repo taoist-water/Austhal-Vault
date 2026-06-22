@@ -30,20 +30,45 @@ The "Snake Eyes" Backfire (Natural 2)
 
 (DEV note) They immediately take 1 physical Wound (as their flesh chemically burns) AND 1 Dissonant Stress, and the spell produces a lethal hazard on the battlefield.(/DEV Note)
 
-### 2. Faith (The Somatic Sacrifice)
+### 2. The Arcanist's Gamble (Pushing the Math)
+
+To give Arcanists a tactical choice similar to the Priest's sacrifice, we can introduce Blood Channeling.
+
+- Before rolling an Arcane check, the Arcanist can voluntarily take 1 Dissonant Stress (cutting their palm, inhaling toxic fumes) to automatically add a +2 ( or advantage?)modifier to their roll.
+    
+- This allows them to push the math to guarantee hitting TN 8 or to ensure a massive margin in a Clash, but it pushes them incredibly close to the Death Spiral.
+    
+
+### 3. Faith (The Somatic Sacrifice)
 
 Faith is not about channeling chaotic energy; it is about borrowing divine or eldritch authority. It is highly reliable but physically destroys the caster from the inside out.
 
-The Locked Stress Economy
+**The Tithe of Will**
 
-Faith magic almost never requires a 2d6 roll to see if it works. Instead, the Priest simply declares the Miracle, and it happens. The cost is paid directly in Locked Stress.
+Faith magic is not a gamble against failure — it is a negotiation with the price. When a Priest declares a Miracle, the Miracle *always happens.* What the dice determine is not whether the Priest succeeds, but **whose hand is actually on the wheel**: theirs, or the entity they're borrowing power from.
 
-- The Mechanic: Casting a Miracle immediately fills 1 or more boxes on the Priest's Stress track with Locked Stress. This Stress cannot be cleared during a Breather or by spending Momentum. It permanently shrinks the Priest's mental threshold until they return to town and perform a religious Downtime Endeavour.
+- Casting a Miracle immediately fills 1 or more boxes on the Priest's Stress track with Locked Stress. This Stress cannot be cleared during a Breather or by spending Momentum. It permanently shrinks the Priest's mental threshold until they return to town and perform a religious Downtime Endeavour.
+
+- **The Mechanic:** When declaring a Miracle, the Priest rolls **2d6 + Will + Faith vs. TN 8.** This is not a Margin-Scaler roll — there is no Messy/Clean/Exceptional ladder, and there is no Failure state that prevents the Miracle from occurring. The roll only ever determines the cost.
+
+- **Pass (Total 8+) — Clean Channel:** The Priest's own faith and discipline carry the weight. The Miracle occurs exactly as written, and the Priest pays the Locked Stress cost listed for that Miracle. Nothing else happens. This is the expected, unremarkable outcome for a Priest who knows their scripture.
+
+- **Fail (Total 7 or less) — Borrowed Authority:** The Miracle still occurs — full effect, no exceptions — but the power moves through the Priest rather than from them. Something on the other end of the litany takes notice. The Priest pays the standard Locked Stress cost **and** the GM immediately gains **1 Threat.** This is not a punishment for bad luck; it is the fictional truth of the system finally showing its teeth — the Priest doesn't actually control what they're invoking, they just have working enough faith to ask nicely.
+
+- **Snake Eyes (Natural 2) — The Toll in Flesh:** The Miracle still occurs. But whatever the Priest is channeling decides the mind has paid enough for today, and takes the rest out of the body instead. **Convert the Miracle's entire Locked Stress cost into an equal number of points of direct Wound damage** (bypassing Wound Threshold entirely, per the Direct Wounds rule), rather than Locked Stress. A Priest who Snake-Eyes a 2-Stress Miracle takes the full toll across 2 Wound slots' worth of damage instead — this is the stigmata, the shattered bone, the bleeding from the eyes the system has always promised, given an actual trigger condition instead of being purely narrative flavor.
+
+- **Fates' Bounty (Natural 12):** As with any other check, the Priest rolls an additional die. This cannot change whether the Miracle happens (it already was going to), but a Priest who rolls a 12 may treat the result as an automatic Pass even if the additional die would have otherwise pushed them past a threshold that matters for a specific Miracle (GM's discretion for Miracles with scaling effects).
+
+**Why roll at all, if the Miracle never fails?**
+
+Because reliability was never the same thing as safety. The Arcanist risks *failure* — a botched spell, a wasted turn, a Snake-Eyes explosion that hurts everyone nearby. The Priest never risks failure, but every single Miracle is a coin flip between "I paid the toll myself" and "I just told something with no name that it's welcome at the table." The Threat generated on a Fail isn't flavor — it's the GM's pool growing because the Priest's channel just got a little less private. A party with a Priest who keeps rolling badly isn't watching their healer fail; they're watching the dungeon get hungrier.
+
+**The Attrition**
+
+A Priest can perfectly heal the party and strip the armor off bosses, but every time they do, they step closer to their own breaking point. When a Priest maxes out their Stress track, they cannot cast anymore without suffering physical Wounds (stigmata, bleeding from the eyes, shattered bones) —  that promise now has a concrete mechanical face: the Snake Eyes result above is what "the price coming due" actually looks like at the table, rather than only happening at the Stress cap.
+
     
-- The Attrition: A Priest can perfectly heal the party and strip the armor off bosses, but every time they do, they step closer to their own breaking point. When a Priest maxes out their Stress track, they cannot cast anymore without suffering physical Wounds (stigmata, bleeding from the eyes, shattered bones).
-    
-
-Miracles as Tag Manipulators
+**Miracles as Tag Manipulators**
 
 Because Faith bypasses the dice, its combat applications shouldn't just deal raw damage. Instead, Miracles rewrite the rules of the battlefield by manipulating Tags.
 
@@ -54,14 +79,7 @@ Because Faith bypasses the dice, its combat applications shouldn't just deal raw
 - Divine Triage (Cost: 1 Locked Stress): Used during a Breather. Automatically clears 1 Wound Slot from an ally without needing a Medicine check or alchemical supplies.
     
 
-### 3. The Arcanist's Gamble (Pushing the Math)
 
-To give Arcanists a tactical choice similar to the Priest's sacrifice, we can introduce Blood Channeling.
-
-- Before rolling an Arcane check, the Arcanist can voluntarily take 1 Dissonant Stress (cutting their palm, inhaling toxic fumes) to automatically add a +2 ( or advantage?)modifier to their roll.
-    
-- This allows them to push the math to guarantee hitting TN 8 or to ensure a massive margin in a Clash, but it pushes them incredibly close to the Death Spiral.
-    
 
 ### The Tabletop Dynamic
 
