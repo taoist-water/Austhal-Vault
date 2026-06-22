@@ -654,7 +654,7 @@ ______________________________________________________________________
 ### Vital Strike
     
 
-- Prerequisites: Precise Strike, Melee 3
+- Prerequisites:  Melee 3
     
 - You see the map of their arteries; nothing matters when the blood stops flowing.
     

@@ -125,7 +125,7 @@ _______________________________________________________________________
     
 - non-Lethal: strikes with this weapon can only cause Stress regardless of the Impact result. 
     
-- Precise: You can use the Precise Strike Aggressor action while suffering -2 penalty to the roll.
+- Precise: 
     
 - Reach: Threatens a 10-foot radius (2 grid squares).   Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
     
