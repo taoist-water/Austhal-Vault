@@ -6,14 +6,12 @@ Here is how we integrate them into the new engine.
 
 Arcana is the act of forcefully rewriting reality. It is highly illegal, mathematically devastating, and inherently unstable. It relies entirely on the new Margin mechanics.
 
-The Arcane Clash (Combat Spells)
+**The Arcane Clash (Combat Spells)**
 
-When an Arcanist casts an offensive spell (like Scorching Lance or Mind Fracture), they enter a Clash using Wits + Arcana.
-
-- Spell Power: Spells have a "Power" rating exactly like weapons, which is added directly to the Arcanist's Strike roll.
+When an Arcanist casts an offensive spell (like *Furnace Lance* or *Astral Piercer*), they enter a Clash using Wits + Arcana against the target's chosen Reactor action. Spells do not have a flat Power rating the way weapons do. Instead, each spell's effect entry defines its own Impact directly, scaled to the Margin of the Clash — consult the spell's own Margin Scaler for the exact numbers. 
     
 
-The Margin of Manifestation (Utility Spells)
+**The Margin of Manifestation (Utility Spells)**
 
 When casting an unopposed spell (like Levitate or Shatter Lock), the Arcanist rolls against the universal TN 8. The spell's effectiveness is entirely dictated by the Margin.
 
@@ -26,9 +24,9 @@ When casting an unopposed spell (like Levitate or Shatter Lock), the Arcanist ro
 - Exceptional (Margin 5+): The spell overcharges, generating 1 Momentum.
     
 
-The "Snake Eyes" Backfire (Natural 2)
+**The "Snake Eyes" Backfire (Natural 2)**
 
-(DEV note) They immediately take 1 physical Wound (as their flesh chemically burns) AND 1 Dissonant Stress, and the spell produces a lethal hazard on the battlefield.(/DEV Note)
+They immediately take 1 physical Wound (as their flesh chemically burns) AND 1 Dissonant Stress, and the spell produces a lethal hazard on the battlefield.
 
 ### 2. The Arcanist's Gamble (Pushing the Math)
 
