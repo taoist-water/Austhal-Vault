@@ -3,11 +3,11 @@ Design Philosophy: Keep stat blocks microscopic. Let traits dictate tactical beh
 
 ####  Core Integration Rules
 
-- Fodder: Max 1 Trait. Fodder cannot spend Momentum unless led by a leader.
+- Fodder: Max 1 Trait. Fodder cannot spend Threat unless led by a leader.
     
-- Elites: 1–2 Traits. Start with 1 Momentum banked.
+- Elites: 1–2 Traits. Start with 1 Threat banked.
     
-- Bosses: 2–4 Traits. Start with 3 Momentum banked and can use Reactionary Traits.
+- Bosses: 2–4 Traits. Start with 2 Threat banked and break from the microscopic design philosophy, having more detail capture and define their narrative vibe.
 
 ________________________________________________________________________
   
