@@ -12,3 +12,8 @@
 -  Savage Reinforcement: Spend 2 Momentum to drive spikes, nails, or shattered glass into your shield or gauntlets. The next time you successfully Parry or Block an enemy's Strike, the enemy automatically suffers 1 Impact from striking the jagged metal. The reinforcement then breaks off.
 ### Cost 2: Scavenge and Cannibalize
 - A player can spend 2 Momentum (using the Spit and Twine or Dungeon Chemistry logic) after clearing a room to harvest meat from a beast, boil stagnant water, or pull unbroken arrows from corpses. This immediately steps the Community Supply Die back up by one tier (e.g., from a d4 back to a d6).
+### Cost 3: Tactical Engineering (The MacGyver Moment)
+
+-  The Kill-Box Barricade: You only have minutes before the swarm arrives. Spend 3 Momentum to cannibalize the environment (pews, iron gates, rubble) to create a flawless, booby-trapped choke point. The first enemy that attempts to cross the threshold automatically suffers a - massive kinetic hit (e.g., 5 Impact) and gains the Anchored condition without you ever having to roll a Strike.
+    
+-  Cannibalize Gear: Instead of a temporary patch, you permanently repair a critical piece of gear. Spend 3 Momentum and destroy one piece of metal equipment (an enemy's dropped sword, a heavy iron pot) to permanently strip the Damaged tag from your primary weapon or armor mid-dungeon.

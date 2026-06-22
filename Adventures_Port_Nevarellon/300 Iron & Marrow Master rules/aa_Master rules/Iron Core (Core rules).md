@@ -119,13 +119,9 @@ Momentum must become a currency of Rule-Breaking and Action Economy. Players spe
 
 -  The Decisive Blow (Forcing the Threshold): The player wins an Aggressor Clash, but the math reveals the Impact is lower than the Boss's massive Wound Threshold, meaning it would normally only cause 1 Stress. The player spends 3 Momentum to drive the blade through anyway. The attack automatically inflicts exactly 1 Wound Slot, bypassing the Threshold check entirely. *without equipment and preparation this could be the only way to wound Boss tier entities. Use it!*
     
--  Interrupt / Seize the Initiative: When the GM declares an enemy is about to take an Aggressor action against the player or an ally, the player can spend 3 Momentum to literally pause time. The player instantly interrupts the enemy, taking a full Aggressor turn before the enemy's action resolves. If the player kills or breaks the enemy during this interrupt, the enemy's declared action never happens.
+-  Interrupt / Seize the Initiative: When the GM declares an enemy is about to activate, the player can spend 3 Momentum to literally pause time. The player instantly interrupts the enemy, and moves into the activation order before the enemy taking a full  turn before the enemy's activation. 
 
-### Cost 3: Tactical Engineering (The MacGyver Moment)
 
--  The Kill-Box Barricade: You only have minutes before the swarm arrives. Spend 3 Momentum to cannibalize the environment (pews, iron gates, rubble) to create a flawless, booby-trapped choke point. The first enemy that attempts to cross the threshold automatically suffers a - massive kinetic hit (e.g., 5 Impact) and gains the Anchored condition without you ever having to roll a Strike.
-    
--  Cannibalize Gear: Instead of a temporary patch, you permanently repair a critical piece of gear. Spend 3 Momentum and destroy one piece of metal equipment (an enemy's dropped sword, a heavy iron pot) to permanently strip the Damaged tag from your primary weapon or armor mid-dungeon.
 _______________________________________________________________________
 # Stress vs. Wounds
 ## Stress
