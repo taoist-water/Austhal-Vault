@@ -352,4 +352,4 @@ _Regroup is not a condition; it is a universal **Aggressor Action** available to
     
 - *Consecrated:*
     
-- *Inspired:* (Granted by the Tactical Synergy Feat or high Influence rolls). Your exploding dice trigger on a 5 or 6 for your next roll.
+- *Inspired:* 
