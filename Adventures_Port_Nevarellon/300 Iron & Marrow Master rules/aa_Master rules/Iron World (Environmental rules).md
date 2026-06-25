@@ -12,7 +12,7 @@
     
 - Difficult terrain causes disadvantage on checks within it, halves movement value
     
-- Drawing a weapon is an action. Doing so as a reactor causes a -2 on the CLASH roll. It is a free action as part of a charge.
+- Drawing a weapon is an free action. It is the only free action that can be taken whilst in an enemies threat zone. Doing so as a reactor causes a -2 on the CLASH roll. It is a free action as part of a charge.
 ________________________________________________________________________
 # The Environment:
 
@@ -20,18 +20,18 @@ ________________________________________________________________________
 
 Being Obscured acts as a direct negative modifier to the attacker's roll. 
 
-- *Obscured (-2 Penalty):* What is is: thick underbrush, poor lighting, darkness, shadows, a dense crowd.
+- *Obscured (-1 Penalty):* What is is: thick underbrush, poor lighting, darkness, shadows, a dense crowd.
     -  *what it is:* It obscures the the target, making it difficult to see and/or discern from environment around it. It does not provide a physical barrier.
-- *Heavily Obscured (Disadvantage):* What is is: Dense foliage, total darkness.
+- *Heavily Obscured (-2):* What is is: Dense foliage, total darkness.
 
 Cover acts as a direct negative modifier to the attacker's roll and adds a front end reducer to the calculation of [[Impact]] in the same way as a shield functions.
 
-- *Light Cover (-2 Penalty, 2 Cover Value 'CV'):* What it is: A wooden fence, a flipped wooden table, or a target peaking around a corner. It covers roughly half the target.
+- *Light Cover (-1 Penalty, 2 Cover Value 'CV'):* What it is: A wooden fence, a flipped wooden table, or a target peaking around a corner. It covers roughly half the target.
 
     - *What it is:* It obscures the target and provides a physical barrier, but heavy weapons (like a longbow or heavy crossbow) might still punch right through it if they hit.
     
 
-- *Heavy Cover (-4 Penalty, 4 Cover Value 'CV'):*  What it is: An arrow slit, a thick stone pillar, a reinforced steel pavise shield. It covers 75% to 90% of the target.
+- *Heavy Cover (-2 Penalty, 4 Cover Value 'CV'):*  What it is: An arrow slit, a thick stone pillar, a reinforced steel pavise shield. It covers 75% to 90% of the target.
     
 - *Total Cover:* The target is completely out of sight behind a solid object. They cannot be targeted by direct ranged attacks.
     
