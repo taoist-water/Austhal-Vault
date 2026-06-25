@@ -3,7 +3,7 @@
 
 Instead of tracking weight, a character’s carrying capacity is defined by a hard limit of physical "Slots" drawn on their character sheet as literal boxes.
 
-- Total Capacity: Every character has a base of 8 Slots, plus their Prowess Modifier (Max 13 total slots).
+- Total Capacity: Every character has a base of 8 Slots, plus their Prowess (Max 13 total slots).
     
 - Item Sizing:
     
