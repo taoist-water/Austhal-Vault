@@ -22,7 +22,7 @@ Instead of tracking weight, a character’s carrying capacity is defined by a ha
 
 To stop players from instantly accessing a dozen different items during a sword fight, the Slots are divided into two physical locations with strict action costs.
 
-- The Belt (Readied Gear): 3 Slots maximum. These are items hung on the belt, bandoliers, or sheaths. A character can draw an item from The Belt as a Free Reaction during combat.
+- The Belt (Readied Gear): 3 Slots maximum. These are items hung on the belt, bandoliers, or sheaths. A character can draw an item from The Belt as a Free action during combat.
     
 - The Pack (Stowed Gear): The remaining Slots. These are items strapped to the back or buried in a rucksack. Retrieving an item from The Pack mid-combat is practically impossible while dodging blows—it requires the player to forfeit their entire turn and take the Regroup action just to rummage through their bag.
     
