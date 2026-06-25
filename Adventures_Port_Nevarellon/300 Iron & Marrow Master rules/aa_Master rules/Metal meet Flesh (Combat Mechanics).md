@@ -27,7 +27,7 @@
 - The Swarm Bonus (outnumbered): For each additional ally engaging the same target, attackers gain +1 to Engagement Draw and +1 to Clash rolls (Max +2).
 
 ## Damage Calculation
-Impact: (Winner Roll - Loser Roll) 
+Impact: (Winner Roll - Loser Roll) + Weapon Power.
 
 - Impact < Threshold: 1 Dissonant Stress. "A Glancing Hit"
     
@@ -48,14 +48,14 @@ Free Actions:
 
 ### Aggressor Actions:
 
-- Strike: 2D6 + Prowess + Melee + Weapon Power. The standard attack. 
-- Power Strike: 2D6 + Prowess + Melee + Weapon Power. Apply a - 2 to the Clash roll, to add +2 to the Impact calculation.
+- Strike: 2D6 + Prowess + Melee. The standard attack. 
+- Power Strike: 2D6 + Prowess + Melee + weapon power. Apply the weapon power to the strike roll, instead of the impact calculation. however, it reduces your Wounds threshold by 2 until the beginning of your next activation.
 
 - Grab: 2D6 + Prowess + Athletics. Attempt to Hold the Target in a grapple. Win, you and the opponent gain the In-Fighting and Grappled conditions.
     
-- Shove: 2D6 + Prowess + Athletics. The physical Push, you bash the target to create space. If you win, the target takes 1 Stress and is pushed back 5 feet out of your threat Zone.
+- Shove: 2D6 + Prowess + Athletics. The physical Push, you bash the target to create space or break a grapple. If you win, the target takes 1 Stress and is pushed back 5 feet out of your threat Zone.
     
-- Shoot: 2D6 + Reflex + Ranged + weapon Power. The standard Ranged attack. If you win, work out Impact.
+- Shoot: 2D6 + Reflex + Ranged. The standard Ranged attack. If you win, work out Impact.
     
 - Cast Spell: See spell description.
     
@@ -66,11 +66,11 @@ Free Actions:
 
 - Block: 2D6 + Prowess + Block + Shield value. 
     
-- Dodge: 2D6 + Reflex + Acrobatics. when choosing this reaction, the aggressor does not add the weapon value to the their roll. Avoid damage and instantly shift 5ft.
+- Dodge: 2D6 + Reflex + Acrobatics. Avoid damage and instantly shift 5ft.
     
 - Brace: Brace: 2d6 + Prowess + Athletics. If you win, you take no impact. If you lose, you gain a +2 bonus to your Wound Threshold [T] when calculating Impact. 
     
-- Parry: 2D6 + Reflex + Melee + Weapon Power
+- Parry: 2D6 + Reflex + Melee.
     
 - Shoot:**ranged option**, fire ranged weapon as target closes in. Win calculate Impact.
     
