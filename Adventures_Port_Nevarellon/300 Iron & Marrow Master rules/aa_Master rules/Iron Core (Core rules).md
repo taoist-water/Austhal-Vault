@@ -10,14 +10,13 @@
 - The Check: 2d6 + Attribute + Skill vs. TN 8 (or Opposed).
 	- When opposed in Combat, using a weapon is resolved as follows;
 		- Aggressor (The Currently Active character) chooses an action, like strike or shoot.
-		- roll 2d6 + Prowess/Reflex + melee/ranged + weapon Power
-		- The target (Reactor) choose an action, like parry, and rolls 2d6 + Ability + Skill + Weapon power.
+		- roll 2d6 + Prowess/Reflex + melee/ranged
+		- The target (Reactor) choose an action, like parry, and rolls 2d6 + Ability + Skill.
 		- the Higher roll wins.
 		- the difference between the winner and the loser is the Impact (when attacking).
 		- Impact is compared to the losers Wound Threshold.
 - Sometimes the degree of success matters, when this is the case, the following defines margins of success;
-    - Margins of success:
-	    - Standard Success (0 - 4)
+    - Margin of success:
 	    -  High Success (5 +)
 	    
 - Fates Bounty (double 6s): When a natural double 6 is rolled, the player (or Elite/boss NPC)  rolls an additional die and adds it to the total. This is only done once.
