@@ -30,7 +30,8 @@ A towering, decapitated mass of waterlogged flesh, rusted iron chains, and tangl
     
 
 Threat Abilities & Tags:
-
+- Vessel limit: 2
+  
 - Passive Tag: Sinking Gravity. The ground immediately within the Goliath’s Threat Zone is perpetually treated as Mire (difficult terrain) due to the supernatural rot and water bleeding from its body.
     
 - Cost 1 Threat: Corpse-Gas Rupture.
@@ -72,6 +73,7 @@ Boss Paradigm Mechanics:
     
 
 Threat Abilities & Tags:
+- Vessel limit: 4
 
 - Cost 1 Threat: Furnace Rebuke.
     
