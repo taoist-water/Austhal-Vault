@@ -2,7 +2,7 @@
 
 In High Fantasy Realism, a silver tongue is just as dangerous as a drawn sword, but it isn't mind control. Social encounters use Influence (to push your agenda) opposed by the target's Resolve (or simply Will, if they lack the skill).
 
-### The Stance System (Revised: Four States)
+### The Stance System
 
 NPCs have four basic social stances, forming a single ladder: **Hostile → Unfriendly → Neutral → Friendly.**
 
@@ -19,7 +19,6 @@ NPCs have four basic social stances, forming a single ladder: **Hostile → Unfr
     
 - **Leverage (Modifiers):** The GM applies a +2 or -2 modifier based on the fiction. Bribing a greedy guard is +2. Threatening a fanatical cultist is -2.
 
-**Why a flat two-step rule instead of "jump to the opposite extreme":** The old High Success result (instant Hostile-to-Friendly) worked cleanly with only three states, but doesn't scale well to four — it would mean a single great roll always erases an NPC's entire disposition regardless of how deep it was, making the extra granularity on the negative side pointless the moment a player rolls well. A flat two-step shift keeps High Success feeling like a genuine breakthrough (it's still twice as effective as a Standard Success) without making the four-state ladder functionally identical to the old three-state one whenever the dice cooperate.
 
 ________________________________________________________________________
 

@@ -1,6 +1,6 @@
 ### 2. Faith (The Somatic Sacrifice)
 
-Faith is not about channeling chaotic energy; it is about borrowing divine or eldritch authority. It is highly reliable but physically destroys the caster from the inside out.
+Faith is not about channelling chaotic energy; it is about borrowing divine or eldritch authority. It is highly reliable but physically destroys the caster from the inside out.
 
 **The Tithe of Will**
 
@@ -22,7 +22,7 @@ Because reliability was never the same thing as safety. The Arcanist risks *fail
 
 **The Attrition (Unchanged)**
 
-A Priest can perfectly heal the party and strip the armor off bosses, but every time they do, they step closer to their own breaking point. When a Priest maxes out their Stress track, they cannot cast anymore without suffering physical Wounds (stigmata, bleeding from the eyes, shattered bones) — and as of this revision, that promise now has a concrete mechanical face: the Snake Eyes result above is what "the price coming due" actually looks like at the table, rather than only happening at the Stress cap.
+A Priest can perfectly heal the party and strip the armor off bosses, but every time they do, they step closer to their own breaking point. When a Priest maxes out their Stress track, they cannot cast anymore without suffering physical Wounds (stigmata, bleeding from the eyes, shattered bones) 
 
 ________________________________________________________________________
 

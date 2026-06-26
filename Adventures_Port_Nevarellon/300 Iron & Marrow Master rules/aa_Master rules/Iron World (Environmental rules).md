@@ -120,11 +120,36 @@ The player spots the pressure plate but is forced to leap across it, or they del
 ________________________________________________________________________
 # THE SOCIAL ENGINE (Influence & Resolve)(dev note) to be revised(/dev note)
 
+# THE SOCIAL ENGINE (Influence & Resolve) — Revised
+
 In High Fantasy Realism, a silver tongue is just as dangerous as a drawn sword, but it isn't mind control. Social encounters use Influence (to push your agenda) opposed by the target's Resolve (or simply Will, if they lack the skill).
 
-- *The Stance System:* NPCs have three basic social stances: Hostile, Neutral, or Friendly. * The Mechanic: To change an NPC's stance or convince them to do something risky, you roll an opposed check: 2d6 + Will + Influence vs. 2d6 + Will + Resolve.
-    
+### The Stance System
 
+NPCs have four basic social stances, forming a single ladder: **Hostile → Unfriendly → Neutral → Friendly.**
+
+- **Hostile:** Actively opposed. Will act against the party — refuse service, raise an alarm, draw a weapon, sabotage where possible.
+- **Unfriendly:** Wary, distrustful, uncooperative — but not yet acting against the party. The default state for someone who has reason to dislike or distrust the party but hasn't been pushed to outright opposition.
+- **Neutral:** No strong opinion either way. The default starting state for anyone the party hasn't meaningfully interacted with.
+- **Friendly:** Genuinely won over. Will help, vouch, take modest risks on the party's behalf.
+
+**The Mechanic:** To change an NPC's stance or convince them to do something risky, roll an opposed check: **2d6 + Will + Influence vs. 2d6 + Will + Resolve.**
+
+- **Standard Success (Margin 0–4):** Shift the NPC's stance **one step** toward the direction you were pushing (e.g., Hostile → Unfriendly, or Neutral → Friendly). Alternatively, if not attempting a stance shift, they agree to a request that doesn't put them in immediate danger.
+    
+- **High Success (Margin 5+):** Shift the NPC's stance **two steps** toward the direction you were pushing. This is a deliberate, flat rule — a High Success always moves exactly two rungs, never jumping straight to the opposite pole regardless of where the NPC started. Going from Hostile all the way to Friendly in a single roll still requires either two separate successful checks, or one High Success from an Unfriendly starting position.
+    
+- **Leverage (Modifiers):** The GM applies a +2 or -2 modifier based on the fiction. Bribing a greedy guard is +2. Threatening a fanatical cultist is -2.
+
+
+________________________________________________________________________
+
+## Touchpoint: Existing Feats, Spells, and Effects Referencing "Hostile" or "Friendly"
+
+Any existing rule that triggers off an NPC being specifically "Hostile" or "Friendly" should be re-checked under this revision, since Hostile now sits one additional rung further from Neutral than it did before — a creature that was "almost Hostile" under the old 3-state model may now sit at Unfriendly instead, which doesn't trigger the same effects. No specific touchpoints have been identified yet requiring a fix, but this is the kind of terminology drift worth a deliberate audit pass rather than assuming it's silently fine.
+
+    
+(dev note) think about using the below success ladder.
 - Messy Success (Margin 0–2): You shift their stance up one level, or they agree to a minor request—but there is a complication. They demand a bribe, hold a grudge, or agree but warn others about you.
 
 - Clean Success (Margin 3–4): You successfully shift their stance up one level, or they agree to a request that doesn't put them in immediate danger, with no strings attached.
@@ -133,3 +158,4 @@ In High Fantasy Realism, a silver tongue is just as dangerous as a drawn sword, 
     
 
 - *Leverage (Modifiers):* The GM applies a +2 or -2 modifier based on the fiction. Bribing a greedy guard is +2. Threatening a fanatical cultist is -2.
+(/dev note)

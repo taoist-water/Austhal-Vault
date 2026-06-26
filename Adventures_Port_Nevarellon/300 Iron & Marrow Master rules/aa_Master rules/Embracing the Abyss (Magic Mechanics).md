@@ -37,15 +37,13 @@ To give Arcanists a tactical choice similar to the Priest's sacrifice, we can in
 - This allows them to push the math to guarantee hitting TN 8 or to ensure a massive margin in a Clash, but it pushes them incredibly close to the Death Spiral.
     
 
-### 3. Faith (The Somatic Sacrifice)
+### 2. Faith (The Somatic Sacrifice)
 
-Faith is not about channeling chaotic energy; it is about borrowing divine or eldritch authority. It is highly reliable but physically destroys the caster from the inside out.
+Faith is not about channelling chaotic energy; it is about borrowing divine or eldritch authority. It is highly reliable but physically destroys the caster from the inside out.
 
 **The Tithe of Will**
 
 Faith magic is not a gamble against failure — it is a negotiation with the price. When a Priest declares a Miracle, the Miracle *always happens.* What the dice determine is not whether the Priest succeeds, but **whose hand is actually on the wheel**: theirs, or the entity they're borrowing power from.
-
-- Casting a Miracle immediately fills 1 or more boxes on the Priest's Stress track with Locked Stress. This Stress cannot be cleared during a Breather or by spending Momentum. It permanently shrinks the Priest's mental threshold until they return to town and perform a religious Downtime Endeavour.
 
 - **The Mechanic:** When declaring a Miracle, the Priest rolls **2d6 + Will + Faith vs. TN 8.** This is not a Margin-Scaler roll — there is no Messy/Clean/Exceptional ladder, and there is no Failure state that prevents the Miracle from occurring. The roll only ever determines the cost.
 
@@ -61,10 +59,23 @@ Faith magic is not a gamble against failure — it is a negotiation with the pri
 
 Because reliability was never the same thing as safety. The Arcanist risks *failure* — a botched spell, a wasted turn, a Snake-Eyes explosion that hurts everyone nearby. The Priest never risks failure, but every single Miracle is a coin flip between "I paid the toll myself" and "I just told something with no name that it's welcome at the table." The Threat generated on a Fail isn't flavor — it's the GM's pool growing because the Priest's channel just got a little less private. A party with a Priest who keeps rolling badly isn't watching their healer fail; they're watching the dungeon get hungrier.
 
-**The Attrition**
+**The Attrition 
 
-A Priest can perfectly heal the party and strip the armor off bosses, but every time they do, they step closer to their own breaking point. When a Priest maxes out their Stress track, they cannot cast anymore without suffering physical Wounds (stigmata, bleeding from the eyes, shattered bones) —  that promise now has a concrete mechanical face: the Snake Eyes result above is what "the price coming due" actually looks like at the table, rather than only happening at the Stress cap.
+A Priest can perfectly heal the party and strip the armor off bosses, but every time they do, they step closer to their own breaking point. When a Priest maxes out their Stress track, they cannot cast anymore without suffering physical Wounds (stigmata, bleeding from the eyes, shattered bones) 
 
+________________________________________________________________________
+
+### Sustaining a Miracle
+
+The Channelling rule states Faith requires no roll to sustain because the Locked Stress is paid upfront. The act of sustaining a Miracle turn after turn is its own ongoing negotiation.
+
+- **The Faith Cost :** Because the Priest already paid the Locked Stress upfront at the moment of casting, sustaining the Miracle requires no *additional* Stress payment. However, at the start of each of their Activations while sustaining, the Priest must roll **2d6 + Will + Faith vs. TN 8** to maintain their grip on the borrowed authority.
+
+  - **Pass:** The Miracle persists. No further cost.
+  - **Fail:** The Miracle persists anyway (Faith does not simply drop the way a failed Arcane Sustain check does) — but the GM gains 1 Threat, exactly as with a fresh cast. The longer a Priest white-knuckles a Sustain through failed rolls, the hungrier the room gets.
+  - **Snake Eyes:** The Miracle persists, but the Priest takes 1 direct Wound as their body pays a toll for staying tethered to something that doesn't want to let go.
+
+- **The Physical Anchor:** Regardless of the roll, if the Priest takes a Wound or is knocked Prone, the sustained Miracle still instantly drops. Divine connection still requires absolute physical devotion — the dice govern the cost of staying tethered, not whether the tether can be physically severed.
     
 **Miracles as Tag Manipulators**
 
