@@ -15,10 +15,7 @@
 		- the Higher roll wins.
 		- the difference between the winner and the loser is the Impact (when attacking).
 		- Impact is compared to the losers Wound Threshold.
-- Sometimes the degree of success matters, when this is the case, the following defines margins of success;
-    - Margin of success:
-	    -  High Success (5 +)
-	    
+  	    
 - Fates Bounty (double 6s): When a natural double 6 is rolled, the player (or Elite/boss NPC)  rolls an additional die and adds it to the total. This is only done once.
 - Snake Eyes (natural 2): Automatic failure. The character immediately suffers 1 Stress, and additional contextual penalties.
 - **Desperate Edge (a single natural 6):** When exactly one of the two dice in a 2d6 check shows a 6, the roller may treat that die as exploding: roll one additional d6 and add it to the total. Unlike Fates' Bounty (which triggers on *both* dice showing 6 and immediately grants an extra full die with no further conditions), Desperate Edge triggers on rolling a single 6 **only while the character is in a qualifying desperate state** — at half or more of their Stress Limit in Dissonant Stress, at their final Wound Slot, or under a specific feat/spell that explicitly lowers the threshold (such as *Embrace the Void*, which extends this to natural 5s as well). Outside a qualifying desperate state, a lone natural 6 is just a 6 — solid, unremarkable, no explosion.
