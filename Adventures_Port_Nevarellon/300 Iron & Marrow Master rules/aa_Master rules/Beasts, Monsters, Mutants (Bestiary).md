@@ -96,4 +96,4 @@ Threat Abilities & Tags:
 
 - Trigger: Declared at the absolute start of a combat round.
     
-- The Effect: The veil tears, and chains of molten iron erupt from the dungeon floor. Every player on the battlefield must make an immediate, unopposed Prowess + Melee/Dodge check against TN 9. Failure means they are violently dragged 10 feet toward Malaphar. The searing chains melt through their armor, inflicting 1 Direct Wound.
+- The Effect: The veil tears, and chains of molten iron erupt from the dungeon floor. Every player on the battlefield must make an immediate, unopposed Prowess + Melee/Dodge check against TN 8. Failure means they are violently dragged 10 feet toward Malaphar. The searing chains melt through their armor, inflicting 1 Direct Wound.
