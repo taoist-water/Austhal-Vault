@@ -8,9 +8,9 @@
     
 - The Swarm Bonus (outnumbered): For each additional ally engaging the same target, attackers gain +1 to Engagement Draw and +1 to Clash rolls (Max +2).
 
-- Moving faster than half Movement value whilst using Stealth causes disadvantage to stealth rolls.
+- Rushed Stealth: Moving faster than half your Movement value whilst using Stealth imposes a flat -1 penalty to your Stealth rolls.
     
-- Difficult terrain causes disadvantage on checks within it, halves movement value
+- Difficult Terrain: Moving through difficult terrain (deep mire, heavy snow, shifting rubble) halves your Movement value and imposes a flat -1 penalty on all checks requiring mobility (such as Prowess or Reflex checks) made within it.
     
 - Drawing a weapon is an free action. It is the only free action that can be taken whilst in an enemies threat zone. Doing so as a reactor causes a -2 on the CLASH roll. It is a free action, without penalty, as part of a charge.
 ________________________________________________________________________
@@ -125,11 +125,11 @@ In High Fantasy Realism, a silver tongue is just as dangerous as a drawn sword, 
 - *The Stance System:* NPCs have three basic social stances: Hostile, Neutral, or Friendly. * The Mechanic: To change an NPC's stance or convince them to do something risky, you roll an opposed check: 2d6 + Will + Influence vs. 2d6 + Will + Resolve.
     
 
-- *messy Success (Margin 0-2):* You shift their stance up one level (Hostile to Neutral), or they agree to a request that doesn't put them in immediate danger.
+- Messy Success (Margin 0–2): You shift their stance up one level, or they agree to a minor request—but there is a complication. They demand a bribe, hold a grudge, or agree but warn others about you.
 
-- *clean Success (Margin 3-4):* You shift their stance up one level (Hostile to Neutral), or they agree to a request that doesn't put them in immediate danger.
-    
-- *High Success (Margin 5+):* They are entirely won over or deeply terrified. They will take significant risks for you or immediately surrender.
+- Clean Success (Margin 3–4): You successfully shift their stance up one level, or they agree to a request that doesn't put them in immediate danger, with no strings attached.
+
+- Exceptional Success (Margin 5+): They are entirely won over or deeply terrified. They will take significant risks for you, immediately surrender, or become Friendly.
     
 
 - *Leverage (Modifiers):* The GM applies a +2 or -2 modifier based on the fiction. Bribing a greedy guard is +2. Threatening a fanatical cultist is -2.
