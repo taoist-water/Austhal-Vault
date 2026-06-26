@@ -12,7 +12,7 @@
     
 - Difficult terrain causes disadvantage on checks within it, halves movement value
     
-- Drawing a weapon is an free action. It is the only free action that can be taken whilst in an enemies threat zone. Doing so as a reactor causes a -2 on the CLASH roll. It is a free action as part of a charge.
+- Drawing a weapon is an free action. It is the only free action that can be taken whilst in an enemies threat zone. Doing so as a reactor causes a -2 on the CLASH roll. It is a free action, without penalty, as part of a charge.
 ________________________________________________________________________
 # The Environment:
 
