@@ -6,7 +6,7 @@
     
 - Provoking: Leaving a Threat Zone normally grants the enemy a Aggressor action - strike with Advantage.
     
-- The Swarm Bonus (outnumbered): For each additional ally engaging the same target, attackers gain +1 to Engagement Draw and +1 to Clash rolls (Max +2).
+- The Swarm Bonus (outnumbered): If you outnumber an opponent in melee, you have Advantage on the Clash.
 
 - Rushed Stealth: Moving faster than half your Movement value whilst using Stealth imposes a flat -1 penalty to your Stealth rolls.
     
