@@ -45,7 +45,7 @@ Cover acts as a direct negative modifier to the attacker's roll and adds a front
 
 When a character shoots at an enemy that is actively engaged in melee with an ally, two things happen:
 
-- *The Chaos Penalty:* The attacker takes an automatic -2 Penalty to their attack roll. (The shifting bodies essentially act as Light Cover).
+- *The Chaos Penalty:* The attacker takes an automatic -1 Penalty to their attack roll. (The shifting bodies essentially act as obscured).
     
 - *The Friendly Fire Trigger:* If the attack roll fails, and either of the 2d6 dice shows a natural "1", the projectile strikes an engaged ally instead.
     
@@ -118,14 +118,16 @@ The player spots the pressure plate but is forced to leap across it, or they del
 
 
 ________________________________________________________________________
-# THE SOCIAL ENGINE (Influence & Resolve)
+# THE SOCIAL ENGINE (Influence & Resolve)(dev note) to be revised(/dev note)
 
 In High Fantasy Realism, a silver tongue is just as dangerous as a drawn sword, but it isn't mind control. Social encounters use Influence (to push your agenda) opposed by the target's Resolve (or simply Will, if they lack the skill).
 
 - *The Stance System:* NPCs have three basic social stances: Hostile, Neutral, or Friendly. * The Mechanic: To change an NPC's stance or convince them to do something risky, you roll an opposed check: 2d6 + Will + Influence vs. 2d6 + Will + Resolve.
     
 
-- *Standard Success (Margin 0-4):* You shift their stance up one level (Hostile to Neutral), or they agree to a request that doesn't put them in immediate danger.
+- *messy Success (Margin 0-2):* You shift their stance up one level (Hostile to Neutral), or they agree to a request that doesn't put them in immediate danger.
+
+- *clean Success (Margin 3-4):* You shift their stance up one level (Hostile to Neutral), or they agree to a request that doesn't put them in immediate danger.
     
 - *High Success (Margin 5+):* They are entirely won over or deeply terrified. They will take significant risks for you or immediately surrender.
     
