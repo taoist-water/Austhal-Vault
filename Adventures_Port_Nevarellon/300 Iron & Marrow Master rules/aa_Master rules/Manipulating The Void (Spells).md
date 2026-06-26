@@ -198,7 +198,7 @@ The Shaman inhales the ashes or bone dust of a long-dead warrior, allowing a fer
 
 The caster sweeps their arms outward, creating a localized, concussive blast of cyclonic air meant to violently physically separate combatants.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Targets' Prowess or reflex + Athletics). Note: This targets all enemies within a 10-foot cone.
+- Resolution: Arcane Clash (Wits + Arcana vs. Targets' Prowess + Athletics or reflex + Acrobatics). Note: This targets all enemies within a 10-foot cone.
     
 - The Effect: This spell does not deal Impact. Instead, it alters the battlefield geometry to save swarmed allies. The Shaman rolls once, and every enemy in the cone rolls to defend.
     

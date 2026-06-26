@@ -1,15 +1,14 @@
 To keep the two systems distinct, we should root them in entirely opposite philosophies: Arcana is about Volatility and Margins, while Faith is about Certainty and Sacrifice.
 
-Here is how we integrate them into the new engine.
-
-### 1. Arcana (The Volatile Margin)
+# Arcana (The Volatile Margin)
 
 Arcana is the act of forcefully rewriting reality. It is highly illegal, mathematically devastating, and inherently unstable. It relies entirely on the new Margin mechanics.
 
 **The Arcane Clash (Combat Spells)**
 
 When an Arcanist casts an offensive spell (like *Furnace Lance* or *Astral Piercer*), they enter a Clash using Wits + Arcana against the target's chosen Reactor action. Spells do not have a flat Power rating the way weapons do. Instead, each spell's effect entry defines its own Impact directly, scaled to the Margin of the Clash — consult the spell's own Margin Scaler for the exact numbers. 
-    
+
+**Defense :** When a spell's resolution reads "vs. Target's Defense," the target rolls **2d6 + the most relevant Reactor action available to them** — typically Block, Dodge, or Brace, exactly as if they were defending against a weapon Strike. "Defense" is shorthand for "the target picks their best applicable Reactor roll," not a separate derived stat the target has sitting on their sheet. 
 
 **The Margin of Manifestation (Utility Spells)**
 
@@ -30,14 +29,14 @@ They immediately take 1 physical Wound (as their flesh chemically burns) AND 1 D
 
 ### 2. The Arcanist's Gamble (Pushing the Math)
 
-To give Arcanists a tactical choice similar to the Priest's sacrifice, we can introduce Blood Channeling.
+To give Arcanists a tactical choice similar to the Priest's sacrifice, we can introduce Blood Channelling.
 
-- Before rolling an Arcane check, the Arcanist can voluntarily take 1 Dissonant Stress (cutting their palm, inhaling toxic fumes) to gain Advantage their roll.
+- Before rolling an Arcane check, the Arcanist can voluntarily take 1 Dissonant Stress (cutting their palm, inhaling toxic fumes) to gain Advantage on their roll.
     
 - This allows them to push the math to guarantee hitting TN 8 or to ensure a massive margin in a Clash, but it pushes them incredibly close to the Death Spiral.
     
-
-### 2. Faith (The Somatic Sacrifice)
+___________________________________________________________________
+# Faith (The Somatic Sacrifice)
 
 Faith is not about channelling chaotic energy; it is about borrowing divine or eldritch authority. It is highly reliable but physically destroys the caster from the inside out.
 
@@ -77,27 +76,7 @@ The Channelling rule states Faith requires no roll to sustain because the Locked
 
 - **The Physical Anchor:** Regardless of the roll, if the Priest takes a Wound or is knocked Prone, the sustained Miracle still instantly drops. Divine connection still requires absolute physical devotion — the dice govern the cost of staying tethered, not whether the tether can be physically severed.
     
-**Miracles as Tag Manipulators**
-
-Because Faith bypasses the dice, its combat applications shouldn't just deal raw damage. Instead, Miracles rewrite the rules of the battlefield by manipulating Tags.
-
-- Smite the Unclean (Cost: 1 Locked Stress): Automatically strips a target's Ablative Armor or Construct tag for the remainder of the encounter, allowing the Fighter's sword to finally deal full Impact.
-    
-- Aura of Repulsion (Cost: 2 Locked Stress): Creates a physical barrier. Fodder-tier enemies literally cannot enter the Priest's Threat Zone.
-    
-- Divine Triage (Cost: 1 Locked Stress): Used during a Breather. Automatically clears 1 Wound Slot from an ally without needing a Medicine check or alchemical supplies.
-    
-
-
-
-### The Tabletop Dynamic
-
-This creates two completely different playstyles for magic users:
-
-- The Arcanist is an artillery cannon. They roll massive fistfuls of dice, chase high Margins for spectacular effects, and constantly flirt with catastrophic, Natural 2 explosions.
-    
-- The Priest is a resource manager. They are the anchor of the party, guaranteeing survival and breaking enemy defenses, but the player is constantly watching their Stress Limit shrink, knowing that every miracle brings them closer to a total psychological collapse.
-    
+   
 
 ________________________________________________________________________
 ### Reactor Spells (Defensive Magic)
@@ -120,7 +99,7 @@ To make "Cast Spell" a valid Reactor Action, you need a specific category of spe
 - **The Arcane Cost (Volatility):** To keep an Arcane spell active, the Arcanist must dedicate their concentration. At the start of their Activation, before they move or act, they must successfully pass a `Wits + Arcana vs TN 8` check. If they succeed, the spell persists. If they fail, the spell drops, and they take 1 Dissonant Stress from the magical backfire. (This makes _Fevered Channelling_ highly valuable).
     
     
-- **The Faith Cost (Sacrifice):** Because the Priest already paid the Locked Stress upfront, they do not need to roll to sustain. However, the divine connection requires absolute physical devotion. If the Priest takes a Wound or is knocked Prone, the sustained Miracle instantly drops.
+- **The Faith Cost (Sacrifice):** The divine connection requires absolute physical devotion. If the Priest takes a Wound or is knocked Prone, the sustained Miracle instantly drops.
     
     
 ________________________________________________________________________

@@ -232,7 +232,7 @@ ______________________________________________________________________
     
 - **Prerequisite:** Faith 1, Will 1.
         
-- **Mechanic:** You have tethered your physical form to a higher authority. You gain a Holy Symbol and 3 Novice Miracles. As long as you speak the litany and bear your symbol, you may manifest these miracles by paying their Locked Stress cost directly.
+- **Mechanic:** You have tethered your physical form to a higher authority. You gain a Holy Symbol and 3 Novice Miracles. As long as you speak the litany and bear your symbol, manifest these miracles by rolling the Tithe of Will and paying their Locked Stress cost.
 
 ### Battlefield Orator 
 - Prerequisite: Influence +2
@@ -518,7 +518,7 @@ ______________________________________________________________________
     
 - The holy spirit renders your flesh numb.
     
-- Mechanic: When the holy spirit fills you, you feel no pain. While you are successfully Channelling a Level 1 Faith spell, you may spend 1 Momentum. For as long as that spell remains active, you completely ignore the negative dice penalties (-1s) caused by your current Dissonant Stress when making Melee attacks.
+- Mechanic: When the holy spirit fills you, you feel no pain. While you are successfully Sustaining a Level 1 Faith spell, you may spend 1 Momentum. For as long as that spell remains active, you completely ignore the negative dice penalties caused by your current Dissonant Stress when making Melee attacks.
 
 ## Tier 3 The Void
 ### Apex Survivor
@@ -869,7 +869,7 @@ Focused on weaponized suffering, cynical devotion, and using the self as a condu
     
 - Your scripture is a weapon of blunt force.
     
-- Mechanic: When you successfully maintain a Channelling spell by passing your Will + Faith check at the start of your turn, you may instantly inflict 1 Dissonant Stress on any one engaged enemy who can hear you speak the profane words.
+- Mechanic: When you successfully maintain a sustaining spell by passing your Will + Faith check at the start of your turn, you may instantly inflict 1 Dissonant Stress on any one engaged enemy who can hear you speak the profane words.
     
 
 #### Martyr’s Furnace (Tier 3)
