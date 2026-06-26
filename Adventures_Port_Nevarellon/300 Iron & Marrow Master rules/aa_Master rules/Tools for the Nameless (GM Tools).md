@@ -114,7 +114,7 @@ They exist to drain player Momentum and force tactical positioning.
     
 - Health: 1 Wound Slot, 0 Stress Limit.
     
-- Mechanic: They rely entirely on the Swarm Bonus (+1 to Clash rolls per ally) to mathematically threaten a player. Any Impact instantly kills them.
+- Mechanic: They rely entirely on the Swarm Bonus. Any Impact instantly kills them.
     
 
 2. Elites (The Grinders)
@@ -124,7 +124,7 @@ These are the core adversaries. Heavily armored mercenaries, mutated alchemical 
 - Stats: High specialized modifiers (+4 to +6 in their primary attack/defense).
 - Threat Limit: 2
     
-- Health: 2 to 3 Wound Slots. Low to Moderate Stress Limits (2 to 4).
+- Health: 2 to 3 Wound Slots. Low to Moderate Stress Limits (3 to 4).
     
 - Mechanic: They possess Armor Tags or Auras that force players to change their tactics. You don't beat them by just rolling high; you beat them by exploiting their specific weakness.
     
