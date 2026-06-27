@@ -71,7 +71,7 @@ Every Arcane Clash combat spell currently deals a **flat** Impact number per Mar
 - **Spell Power: 2**
 - The Effect: Because the attack comes from directly above at orbital velocity, traditional horizontal defenses are useless. The target completely loses the ability to use the Parry action against this Strike. They must rely on a heavy shield (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 2 (Spell Power). The flash is blinding, stripping the target of their peripheral vision and denying them the Swarm Bonus or Pack Tactics on their next turn.
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). The flash is blinding, stripping the target of their peripheral vision and denying them the flanking Bonus or Pack Tactics on their next turn.
   - Margin 3+ (Clean): As above, and the sheer kinetic force instantly knocks the target Prone.
 
 ### Pyromancy → The Furnace Lance

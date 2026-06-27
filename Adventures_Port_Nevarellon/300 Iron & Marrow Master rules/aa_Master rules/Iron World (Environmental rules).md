@@ -6,7 +6,7 @@
     
 - Provoking: Leaving a Threat Zone normally grants the enemy a Aggressor action - strike with Advantage.
     
-- The Swarm Bonus (outnumbered): If you outnumber an opponent in melee, you have Advantage on the Clash.
+- The flanking Bonus (outnumbered): If you outnumber an opponent in melee, you have Advantage on the Clash.
 
 - Rushed Stealth: Moving faster than half your Movement value whilst using Stealth imposes a disadvantage to your Stealth rolls.
     

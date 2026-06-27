@@ -1,3 +1,15 @@
+# The way the Game Plays
+**Adventures**
+An Adventure is a string of Scenes, created by the GM and strung together to form a story.
+
+**Scenes**
+Scenes are a method of pacing and is the action between Breathers. So, when there is a reference to "scene" to describe a duration or limit, it is describing the time period between breathers.
+
+**Within a Scene**
+Players take turns Activating their character and taking actions. 
+Outside of combat, such as exploring the world or socially engaging actions are either played out as a discussion amongst the players and the GM.  The GM facilitaing the exchanges and narrating the scenes, like an RPG.  and when required taking an action that requires some dice rolling.  Usually against a [[TN]], the result determines the outcome of the action.  Sometimes these actions will be Opposed by an opponent, meaning dice are rolled, appropriate modifiers are added and compared to the roll of the opponent.  Whoever rolls highest wins.  Depending on the action taken could also determine how well or how poorly a character has performed in this opposed roll.
+
+
 # Economic Baselines
 
 - Currency Standard: The primary day-to-day trade currency is the Silver Piece (sp). Copper Pennies (cp) are used by peasants (10 cp = 1 sp). Gold Sovereigns (gs) are held only by nobility and wealthy cartels (1 gs = 20 sp).

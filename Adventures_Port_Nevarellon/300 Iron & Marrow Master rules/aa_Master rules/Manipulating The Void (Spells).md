@@ -1,3 +1,316 @@
+# Universal Spell list
+**Common Arcane Magic**
+*Available to any Arcanist regardless of chosen Paradigm. Standard DP cost. Never benefits from Paradigm Mastery.*
+
+### Arcane Protection (Common)
+The air around the target thickens into a dull, shimmering haze, dampening the resonance of hostile sorcery.
+
+- **Level:** Novice
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation (to raise) / Reactor (to use)
+- **Duration:** Sustain — Lock 1 Stress to maintain
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The ward holds, but the caster takes 1 Dissonant Stress from the backlash.
+- Margin 3–4 (Clean): The ward holds. Hostile spells targeting the protected character suffer Disadvantage on their casting roll.
+- Margin 5+ (Exceptional): As Clean, and the ward gains SV 2 against the next hostile spell's Impact.
+
+**Special Interactions:** As a Reactor action against an incoming hostile spell, the protected character may Block using Wits + Arcana instead of their normal Reactor stat.
+
+---
+
+### Bolt (Common)
+A concentrated bolt of raw energy streaks from the caster's hand toward a single foe. This is the floor every Arcanist stands on — Pyromancy and Shamanism both build sharper, paradigm-exclusive versions of this same idea.
+
+- **Level:** Novice
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Defense
+- **Spell Power:** 1
+- **Target/Range:** One character, Medium Range
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Impact = Margin + 1 (Spell Power).
+- Margin 3+ (Clean): As above, no complication.
+
+---
+
+### Blast (Common)
+The caster hurls a ball of energy that explodes on impact, catching multiple foes in its radius.
+
+- **Level:** Adept
+- **Resolution:** Arcane Clash, Wits + Arcana vs. each target's Defense (caster rolls once; every target in the radius defends)
+- **Spell Power:** 2
+- **Target/Range:** A point within Medium Range, 10ft radius
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Impact = Margin + 2 (Spell Power) to every target who loses.
+- Margin 3+ (Clean): As above, and the blast ignores the first point of Armor on anyone caught at the radius's center.
+
+---
+
+### Barrier (Common)
+The caster conjures a physical or energetic wall to block passage and protect allies.
+
+- **Level:** Adept
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** A 10ft line within Short Range
+- **Action Type:** Activation
+- **Duration:** Until destroyed
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The barrier forms (Full Cover, Wound Threshold 8, 3 Wound Slots before it collapses), but the caster takes 1 Dissonant Stress from the strain.
+- Margin 3–4 (Clean): The barrier forms exactly as described.
+- Margin 5+ (Exceptional): The barrier's Wound Threshold increases to 10.
+
+---
+
+### Blind (Common)
+A flash of light, a cloud of soot, or a veil of shadow robs the target of sight.
+
+- **Level:** Novice
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Dodge (Reflex + Acrobatics)
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Target is Blinded for 1 round.
+- Margin 3+ (Clean): Target is Blinded for 3 rounds.
+
+---
+
+### Burst (Common)
+A cone of raw elemental energy erupts from the caster's hands.
+
+- **Level:** Novice
+- **Resolution:** Arcane Clash, Wits + Arcana vs. each target's Defense
+- **Spell Power:** 1
+- **Target/Range:** 10ft cone
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Impact = Margin + 1 (Spell Power) to every target who loses.
+- Margin 3+ (Clean): As above, no complication.
+
+---
+
+### Damage Field (Common)
+Energy lashes out from the caster's skin, punishing any who approach or strike them.
+
+- **Level:** Adept
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** Self, 5ft radius
+- **Action Type:** Activation
+- **Duration:** Sustain — Lock 1 Stress to maintain
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The field holds; any character ending their turn adjacent to the caster, or hitting them in melee, suffers 1 Impact. The caster also takes 1 Dissonant Stress from the initial surge.
+- Margin 3–4 (Clean): As above, no self-cost.
+- Margin 5+ (Exceptional): Impact increases to 2.
+
+---
+
+### Darksight (Common)
+The caster's eyes take on a predatory sheen, piercing the deepest gloom.
+
+- **Level:** Novice
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): Recipient ignores penalties for Dim or Dark illumination, but suffers 1 Dissonant Stress as their eyes adjust violently.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): The recipient can also detect invisible entities and active spell effects within 30 feet.
+
+---
+
+### Dispel (Common)
+With a sharp gesture and a word of negation, the caster severs the threads of a nearby enchantment.
+
+- **Level:** Adept
+- **Resolution:** Opposed Wits + Arcana vs. the original caster's recorded casting roll
+- **Target/Range:** One active spell effect, Short Range
+- **Action Type:** Activation or Reactor
+
+**The Margin Scaler:**
+- Margin 1–2: The targeted spell is suppressed for 1 round.
+- Margin 3+ (Clean): The targeted spell ends immediately.
+
+---
+
+### Divination (Common)
+The caster enters a trance, seeking answers from the echoes of the world.
+
+- **Level:** Master
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8 (requires 1 minute of concentration)
+- **Target/Range:** Self
+- **Action Type:** Activation
+- **Duration:** Instantaneous
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The GM provides a cryptic but useful vision; the caster takes 1 Dissonant Stress from the mental strain.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): The vision is lucid. The caster gains Advantage on the next Notice or Investigation check related to it, for the rest of the scene.
+
+---
+
+### Entangle (Common)
+The ground erupts with grasping vines, shadow-tendrils, or chains.
+
+- **Level:** Novice
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Dodge
+- **Target/Range:** One character or 10ft area, Short Range
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Target is Anchored. They lose the Dodge action until they break free (a full Aggressor action, or 1 Momentum).
+- Margin 3+ (Clean): As above, and the bindings are thorned — the target suffers 1 Dissonant Stress at the start of each turn they remain Anchored.
+
+*(This reuses Anchored rather than inventing a new condition — Anchored already does everything "Restrained" was going to do.)*
+
+---
+
+### Farsight (Common)
+The caster's vision stretches across the horizon with impossible clarity.
+
+- **Level:** Adept
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): Recipient ignores Range penalties on ranged attacks and gains Advantage on sight-based Notice checks, but takes 1 Dissonant Stress from the strain of the working.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): The recipient can also see through up to 5 feet of solid, non-magical material.
+
+---
+
+### Environmental Shield (Common)
+A thin membrane of energy stabilizes the air and temperature around the recipient.
+
+- **Level:** Novice
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The recipient ignores Stress and penalties from extreme environmental hazards (per the Iron World Hazard Check rules) for the scene, but the caster takes 1 Dissonant Stress raising it.
+- Margin 3–4 (Clean): As above, no cost. The recipient's Wound Threshold is also treated as +2 higher specifically against environmental Direct Wounds (lava, freezing water, acid).
+- Margin 5+ (Exceptional): The Wound Threshold bonus increases to +4.
+
+---
+
+### Havoc (Common)
+A concussive wave of force throws enemies into disarray.
+
+- **Level:** Novice
+- **Resolution:** Arcane Clash, Wits + Arcana vs. each target's Prowess + Athletics or Reflex + Acrobatics
+- **Target/Range:** 10ft radius, Short Range
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Target is pushed 5 feet and suffers 1 Dissonant Stress.
+- Margin 3+ (Clean): Target is pushed 10 feet, knocked Prone, and suffers 1 Dissonant Stress.
+
+---
+
+### Illusion (Common)
+Light and sound are woven into a convincing facade.
+
+- **Level:** Novice
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8. Anyone inspecting it rolls Wits + Notice vs. the caster's original Margin to see through it.
+- **Target/Range:** 10ft area, Short Range
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The illusion forms, but the caster takes 1 Dissonant Stress from holding the image steady.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): The illusion is "True" — it includes scent and resists touch — and cannot be seen through except by physically disrupting it.
+
+---
+
+### Elemental Manipulation (Common)
+Minor feats of elemental control — lighting a candle, cooling a drink, kicking up dust.
+
+- **Level:** Cantrip
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** 10ft radius, Short Range
+- **Action Type:** Activation
+
+**The Margin Scaler:**
+- Margin 0–4: A single harmless elemental effect occurs, granting Advantage on one relevant skill check this scene.
+- Margin 5+ (Exceptional): The effect sustains itself for the rest of the scene without further concentration.
+
+---
+
+### Mind Link (Common)
+A telepathic bridge forms between the caster and their allies.
+
+- **Level:** Novice
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** Self and up to [Wits] allies, anywhere in the same Scene
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–4: Linked characters communicate telepathically for the scene and gain Advantage on group Activation Order rolls while in line of sight of one another.
+- Margin 5+ (Exceptional): Linked allies may also share their Momentum bank with one another for the scene.
+
+---
+
+### Smite (Common)
+The caster imbues a weapon with crackling energy or holy light.
+
+- **Level:** Novice
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** One weapon, touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): Weapon's Power increases by +1; the wielder takes 1 Dissonant Stress from the rough working.
+- Margin 3–4 (Clean): Weapon's Power increases by +2.
+- Margin 5+ (Exceptional): As Clean, and the weapon gains the Precise tag for the scene (per Hardware: ignores 1 point of Armor).
+
+---
+
+### Warrior's Gift (Common)
+Echoes of ancient battles flow into the recipient, granting mastery they have not earned.
+
+- **Level:** Adept
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): Recipient gains one Martial weapon tag they don't already have (e.g., Cleave, Sunder, Brutal); they take 1 Dissonant Stress as the borrowed memory settles violently.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): Recipient gains two tags instead of one.
+
+---
+
+### Light/Darkness (Common)
+The caster either ignites a beacon of radiance or conjures a void that swallows sight.
+
+- **Level:** Novice
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** 10ft radius or one object, Short Range
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The chosen effect (Light or Darkness) manifests at half radius.
+- Margin 3–4 (Clean): Full 10ft radius. If Darkness, creatures inside suffer Disadvantage on Notice and Attack rolls unless they have Darksight.
+- Margin 5+ (Exceptional): Radius doubles to 20ft.
+
+**___________________________________________________________________**
 # Arcane Magic Paradigms
 ## The Necromancy Spellbook
 
@@ -395,7 +708,7 @@ The caster scatters a handful of dead seeds that instantly erupt into a writhing
     
 - Margin 3–4 (Clean): The briars recognize the caster’s allies. Allies move freely, but enemies who declare a Strike from within the zone automatically suffer 1 Impact before their attack resolves.
     
-- Margin 5+ (Exceptional): The thorns are venomous. In addition to the 1 Impact, any Fodder-tier enemy taking damage from the briars instantly loses their Swarm Bonus for the remainder of the round as the pain breaks their coordination.
+- Margin 5+ (Exceptional): The thorns are venomous. In addition to the 1 Impact, any Fodder-tier enemy taking damage from the briars instantly loses their flanking Bonus for the remainder of the round as the pain breaks their coordination.
     
 
 ### 4. The Creeping Ague (Crowd Control / Biological)
@@ -443,7 +756,7 @@ The Astromancer calls down a pinpoint, blinding shaft of condensed starlight tha
 - The Margin Scaler (Based on Clash Margin):
     
 
-- Margin 1–2: Deals 2 Impact. The flash is blinding, stripping the target of their peripheral vision and denying them the Swarm Bonus or Pack Tactics on their next turn.
+- Margin 1–2: Deals 2 Impact. The flash is blinding, stripping the target of their peripheral vision and denying them the flanking Bonus or Pack Tactics on their next turn.
     
 - Margin 3+ (Clean): Deals 3 Impact. The sheer kinetic force of the downward strike instantly knocks the target Prone, forcing them to waste movement and momentum to stand back up.
     
@@ -545,7 +858,7 @@ The caster hyper-pressurizes the air directly around their own body, before rele
 - The Margin Scaler (Based on Clash Margin):
     
 
-- Margin 1–2: Deals 1 Impact. The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus.
+- Margin 1–2: Deals 1 Impact. The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Flanking Bonus.
     
 - Margin 3+ (Clean): Deals 2 Impact. The enemy is thrown 10 feet backward, knocked Prone, and suffers 1 Dissonant Stress from the ruptured eardrums and concussive shockwave.
 
