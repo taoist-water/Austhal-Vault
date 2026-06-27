@@ -4,6 +4,8 @@ This replaces the SWADE-derived draft. Every Arcana entry now resolves through t
 
 Two corrections from the last sorting pass: *Invisibility* and *Light/Darkness* were missing from the triage entirely. Invisibility joins Shadow Sorcery below (it fits the concealment identity cleanly); Light/Darkness stays Common, since half its effect is the literal opposite of Shadow Sorcery's theme.
 
+**Spell Power update:** Bolt, Blast, and Burst below now use the **Spell Power** formula (`Impact = Clash Margin + Spell Power`) instead of a flat Impact number per tier — see the companion patch file (Spell_Power_Patch.md) for the full rule and why it was necessary. This formula and the rule definition belongs in Embracing the Abyss alongside the rest of the Arcane Clash mechanics; it's used here but defined there.
+
 ---
 
 # PART 1 — Common Arcane Tier
@@ -32,12 +34,13 @@ A concentrated bolt of raw energy streaks from the caster's hand toward a single
 
 - **Level:** Novice
 - **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Defense
+- **Spell Power:** 1
 - **Target/Range:** One character, Medium Range
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: 2 Impact.
-- Margin 3+ (Clean): 3 Impact.
+- Margin 1–2: Impact = Margin + 1 (Spell Power).
+- Margin 3+ (Clean): As above, no complication.
 
 ---
 
@@ -46,12 +49,13 @@ The caster hurls a ball of energy that explodes on impact, catching multiple foe
 
 - **Level:** Adept
 - **Resolution:** Arcane Clash, Wits + Arcana vs. each target's Defense (caster rolls once; every target in the radius defends)
+- **Spell Power:** 2
 - **Target/Range:** A point within Medium Range, 10ft radius
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: 2 Impact to every target who loses.
-- Margin 3+ (Clean): 3 Impact, and the blast ignores the first point of Armor on anyone caught at the radius's center.
+- Margin 1–2: Impact = Margin + 2 (Spell Power) to every target who loses.
+- Margin 3+ (Clean): As above, and the blast ignores the first point of Armor on anyone caught at the radius's center.
 
 ---
 
@@ -90,12 +94,13 @@ A cone of raw elemental energy erupts from the caster's hands.
 
 - **Level:** Novice
 - **Resolution:** Arcane Clash, Wits + Arcana vs. each target's Defense
+- **Spell Power:** 1
 - **Target/Range:** 10ft cone
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: 2 Impact to every target who loses.
-- Margin 3+ (Clean): 3 Impact.
+- Margin 1–2: Impact = Margin + 1 (Spell Power) to every target who loses.
+- Margin 3+ (Clean): As above, no complication.
 
 ---
 
