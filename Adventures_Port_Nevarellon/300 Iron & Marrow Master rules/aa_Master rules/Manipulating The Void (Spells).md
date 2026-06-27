@@ -551,8 +551,8 @@ The caster hyper-pressurizes the air directly around their own body, before rele
 
 
 # The Word on Domains;
-
-Faith domains represent direct divine intervention powered by rigid devotion. Faith casters do not lock stress but are subject to the immediate rolls against stability. Their domains give them an aura and a specific prayer manifestation.
+(dev note)The word on Domains is a first draft, and needs extensive revision to fit into the current faith casting system mechanics (/dev note)
+Faith domains represent direct divine intervention powered by rigid devotion. Their domains give them an aura and a specific prayer manifestation.
 
 ## 1. The Domain of Strategy (The Cult of the Iron Horizon)
 - **The Paragon:** *Saint Senecus the Unyielding*
