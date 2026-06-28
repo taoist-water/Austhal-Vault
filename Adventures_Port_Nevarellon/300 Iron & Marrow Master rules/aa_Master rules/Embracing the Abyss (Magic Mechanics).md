@@ -2,11 +2,15 @@ To keep the two systems distinct, we should root them in entirely opposite philo
 
 # Arcana (The Volatile Margin)
 
-Arcana is the act of forcefully rewriting reality. It is highly illegal, mathematically devastating, and inherently unstable. It relies entirely on the new Margin mechanics.
+Arcana is the act of forcefully rewriting reality. It is highly illegal, mathematically devastating, and inherently unstable. It relies entirely on Margin mechanics.
 
 **The Arcane Clash (Combat Spells)**
 
-When an Arcanist casts an offensive spell (like *Furnace Lance* or *Astral Piercer*), they enter a Clash using Wits + Arcana against the target's chosen Reactor action. Spells do not have a flat Power rating the way weapons do. Instead, each spell's effect entry defines its own Impact directly, scaled to the Margin of the Clash — consult the spell's own Margin Scaler for the exact numbers. 
+When an Arcanist casts an offensive spell that deals Impact, calculate it the same way a weapon does:
+>
+> **Impact = (Margin of the Clash, or Margin over TN 8 for an unopposed spell) + Spell Power**
+>
+> Each spell's entry lists a flat **Spell Power** rating, exactly like a weapon's Power. The Margin Scaler no longer define the Impact number directly — it defines the *special effect* that comes with each tier (a condition, a debuff, a status). Impact itself now scales with how well the roll went, the same way it does for every weapon Strike in the game.
 
 **Defense :** When a spell's resolution reads "vs. Target's Defense," the target rolls **2d6 + the most relevant Reactor action available to them** — typically Block, Dodge, or Brace, exactly as if they were defending against a weapon Strike. "Defense" is shorthand for "the target picks their best applicable Reactor roll," not a separate derived stat the target has sitting on their sheet. 
 

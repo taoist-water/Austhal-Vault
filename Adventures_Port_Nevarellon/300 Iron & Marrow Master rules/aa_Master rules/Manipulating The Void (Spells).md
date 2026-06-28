@@ -312,6 +312,7 @@ The caster either ignites a beacon of radiance or conjures a void that swallows 
 
 **___________________________________________________________________**
 # Arcane Magic Paradigms
+In-Paradigm casters get the standard DP cost and Paradigm Mastery (a Messy Success resolves as Clean). Off-Paradigm casters can still learn these at double DP cost, with neither benefit.
 ## The Necromancy Spellbook
 
 ### 1. Marrow Siphon (Sustain / Attrition)

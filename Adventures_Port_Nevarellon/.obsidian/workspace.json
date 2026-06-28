@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/aa_Master rules/Tools for the Nameless (GM Tools).md",
+                "file": "300 Iron & Marrow Master rules/Dev notes/Spell_Power_Patch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools for the Nameless (GM Tools)"
+              "title": "Spell_Power_Patch"
             }
           }
         ]
@@ -226,8 +226,23 @@
                   "icon": "lucide-file",
                   "title": "Universal_Spell_List_Rebuilt"
                 }
+              },
+              {
+                "id": "2113e04b2112f6a7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "300 Iron & Marrow Master rules/aa_Master rules/Embracing the Abyss (Magic Mechanics).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Embracing the Abyss (Magic Mechanics)"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -240,17 +255,19 @@
       }
     ]
   },
-  "active": "8d4069f1c5467329",
+  "active": "2113e04b2112f6a7",
   "lastOpenFiles": [
-    "300 Iron & Marrow Master rules/14 GM Tools/The way the Game Plays.md",
+    "300 Iron & Marrow Master rules/Dev notes/Spell_Power_Patch.md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Embracing the Abyss (Magic Mechanics).md",
+    "300 Iron & Marrow Master rules/Dev notes/Universal_Spell_List_Rebuilt.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Tools for the Nameless (GM Tools).md",
+    "300 Iron & Marrow Master rules/14 GM Tools/The way the Game Plays.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Hardware (Equipment).md",
     "300 Iron & Marrow Master rules/10 Faith/Domains.md",
     "300 Iron & Marrow Master rules/07 Equipment/Alchemical wares and Field Consumables.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Iron World (Environmental rules).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core rules).md",
-    "300 Iron & Marrow Master rules/Dev notes/Universal_Spell_List_Rebuilt.md",
-    "300 Iron & Marrow Master rules/Dev notes/Spell_Power_Patch.md",
     "300 Iron & Marrow Master rules/Dev notes/universal spells_done.md",
     "300 Iron & Marrow Master rules/Dev notes/The Glitch.md",
     "300 Iron & Marrow Master rules/Dev notes/Social_Engine_4State_Revision_done.md",
@@ -266,8 +283,6 @@
     "300 Iron & Marrow Master rules/13 Bestiary/Monster Entity Tags.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Metal meet Flesh (Combat Mechanics).md",
     "300 Iron & Marrow Master rules/Dev notes/Malaphar_Itemized_Retrofit.md",
-    "400 Meta/Templates/Template - Character.md",
-    "100 Society/102 Lore & History/Religion - The pagan Pantheon and the Faith Domains.md",
     "300 Iron & Marrow Master rules/aa_Master rules",
     "300 Iron & Marrow Master rules/Iron and Marrow core",
     "Iron & Marrow Rule set v1.0/Iron and Marrow Master rules/01 Character Creation 1",
