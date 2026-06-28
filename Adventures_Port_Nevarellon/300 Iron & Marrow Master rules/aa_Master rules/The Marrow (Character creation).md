@@ -369,7 +369,7 @@ ______________________________________________________________________
     
 - You see the fatal flaw in every design.
     
-- Mechanic: When examining a lock, mechanical trap, or structural weak point, you can spend 1 banked Pre-Combat Momentum. If you do, you instantly deduce its precise mechanism, allowing you to automatically pass the Thievery check to bypass or disable it without rolling—completely eliminating the risk of a Fumble.
+- Mechanic: When examining a lock, mechanical trap, or structural weak point, you can spend 1 Momentum. If you do, you instantly deduce its precise mechanism, allowing you to automatically pass the Thievery check to bypass or disable it without rolling—completely eliminating the risk of a Fumble.
 ### Combat Scholar (Tier 2 - Arcana)
     
 
@@ -432,9 +432,11 @@ ______________________________________________________________________
 
 - Prerequisites: Will +2, Influence +2
     
-- You don't just win an argument; you dismantle their confidence.
+- You don't just win an argument; you dismantle their confidence. You may spen one momentum to do one of the following:
+	- Isolate a Flaw: Exert psychological weight, forcing the NPC to take 2 Stress or immediately shift their social stance to one extreme.(e.g., To Hostile out of sheer panic, or Friendly out of awe) .
     
-- Mechanic: When you spend Scene Momentum to Isolate a Flaw during a social encounter, the target doesn't just take 2 Stress or shift their stance. If their Stance drops to Hostile out of panic, they suffer Disadvantage on all Resolve and Insight checks against you for the rest of the scene.
+	- Control the Room: Give an ally Advantage ($3d6$ Keep the highest 2) on a subsequent follow-up check (e.g., the face of the party terrifies the merchant, generating Momentum, which the thief immediately spends to get Advantage on picking the merchant's strongbox while he's distracted).
+
 ### Relentless Momentum
     
 

@@ -115,9 +115,9 @@ _______________________________________________________________________
 | Weapon Name                           | Specialization Group | Power | Grip  | Range / Threat                  | Tags & Attributes                                                                                                                                                                           |
 | ------------------------------------- | -------------------- | ----- | ----- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Unarmed (fists/feet/knees and elbows) | Unarmed              | 0     | 1H/2H | 5 ft Threat                     | Non-lethal, sidearm                                                                                                                                                                         |
-| Dagger / Knife                        | Blades               | 0     | 1H    | 5 ft Threat / 30 ft Thrown      | Concealable, Close-Quarters,Precise, Thrown                                                                                                                                                 |
+| Dagger / Knife                        | Blades               | 0     | 1H    | 5 ft Threat / 30 ft Thrown      | Concealable, Close-Quarters,Precise, Thrown, Sidearm                                                                                                                                        |
 | Shortsword                            | Blades               | 1     | 1H    | 5 ft Threat                     | Sidearm                                                                                                                                                                                     |
-| Hand Axe                              | Axes                 | 1     | 1H    | 5 ft Threat / 30 ft Thrown      | Brutal, Thrown                                                                                                                                                                              |
+| Hand Axe                              | Axes                 | 1     | 1H    | 5 ft Threat / 30 ft Thrown      | Brutal, Thrown, Side arm                                                                                                                                                                    |
 | Mace / Bludgeon                       | Bludgeons            | 1     | 1H    | 5 ft Threat                     | Bash                                                                                                                                                                                        |
 | Spear                                 | Polearms             | 1     | 1H/2H | 10 ft Threat / 60 ft Thrown     | Reach, Thrown                                                                                                                                                                               |
 | Longsword                             | Blades               | 2     | 1H/2H | 5 ft Threat                     | Versatile                                                                                                                                                                                   |
@@ -130,14 +130,14 @@ _______________________________________________________________________
 | Arcane Focus                          |                      |       |       |                                 |                                                                                                                                                                                             |
 | Grimoire                              |                      |       | 1H    |                                 | Repository: Holds your spells. If casting while open, you may spend 1 Momentum to cast a Novice spell without Locking a Stress slot for the first round (Reading it straight off the page). |
 | Mage Staff                            |                      |       | 2H    |                                 | Reach, Anchor, grounding rod.                                                                                                                                                               |
-| Wand                                  |                      |       | 1H    |                                 | Conduit, Focus.                                                                                                                                                                             |
+| Wand                                  |                      |       | 1H    |                                 | Conduit, Focus, Sidearm.                                                                                                                                                                    |
 
 ## Weapon Tags
 - Anchor:  enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
     
 - Bash: If your attack results in a Glancing Hit (Impact < Threshold), it deals +1 additional Stress due to blunt force trauma.
     
-- Brutal: If the Reactor rolls a Fumble (Natural 2) while defending against this weapon, they take 4 Stress instead of 3.
+- Brutal: If the Reactor rolls a Fumble (Natural 2) while defending against this weapon, they take 2 Stress instead of 1.
     
 - Close-Quarters: suffers no penalties when In-Fighting.
     
@@ -147,7 +147,7 @@ _______________________________________________________________________
     
 - Cumbersome: The weapon is heavy and slow to ready. Imposes a -1 penalty on Activation order rolls.
     
-- Focus: Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the wand, it gains the broken condition. The caster fails but does not suffer the 3 stress for a fumble.
+- Focus: Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the wand, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
     
 - Grounding Rod: You may add a staff or wand property that grants Advantage on the Grounding (Wits + Arcana) check to unlock stress slots. 
 - Heavy Hitter : When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7. 

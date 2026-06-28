@@ -160,7 +160,7 @@ The caster hums a discordant, high-pitched note that vibrates violently through 
 - The Margin Scaler:
     
 
-- Margin 3+ (Clean): The structural degradation is severe enough that it can be broken with ordinary tools, bypassing the need for heavy siege gear.
+- Margin 3+ (Clean): The structural degradation is severe enough that it can be ruined with ordinary tools, bypassing the need for heavy siege gear.
     
 - Margin 5+ (Exceptional): The frequency is so precise it bleeds into active combat gear. The caster can choose one Elite enemy in the room; that enemy's armor or shield immediately gains the Damaged tag, reducing its effectiveness for the rest of the fight.
     
