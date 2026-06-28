@@ -34,7 +34,8 @@ ________________________________________________________________________
     
 - This Creature may move out of Threat zone without  requiring a test, or causing a free strike.
     
-
+### Massive
+- Massive: Weapons without Sunder, Brutal, or Piercing have their Impact halved before comparing to its Wounds threshold.
 ---
 
 ## OFFENSIVE & MARTIAL TRAITS
@@ -59,16 +60,23 @@ ________________________________________________________________________
     
 - (Fodder Only). These units do not occupy unique tactical slots. When multiple units with the Swarm trait engage the same PC, they pool their power. The primary attacker receives a flat +1 to their Clash roll for every additional Swarm unit adjacent to the target.
     
-
+### Amorphous
+- Single-target weapons (daggers, arrows, spears) can never inflict a Wound on the Swarm.
 ---
 
 ##  TACTICAL & PSYCHOLOGICAL TRAITS
+### Fear Inducing
+- A frightening vision - whether a horrifying beast, or scene of heretical ritual.
+-  When a PC engages with this creature or it activates within line of sight, the PC must immediately roll a Will + Resolve check against TN 8.
+    
+
+- Failure: The PC immediately gains the *Fear*  condition.
 
 ### Terrifying 
 
 - A harrowing presence—whether an eldritch abomination or a faceless, silent headsman—that cracks the human mind.
     
-- When a PC draws into an engagement with this creature or it activates within line of sight, the PC must immediately roll a Will + Resolve check against TN 8.
+- When a PC engages with this creature or it activates within line of sight, the PC must immediately roll a Will + Resolve check against TN 8.
     
 
 - Failure: The PC immediately gains the *Terrified* condition.
@@ -104,7 +112,30 @@ Fodder enemies die in one hit and flee easily. They rely on numbers.
     
 - Trait: Swarm: The primary attacker receives a flat +1 to their Clash roll for every additional Swarm unit adjacent to the target.
     
+### TIER 1: The Corpse-Trench Rat Brood
 
+A writhing, starving mass that exists purely to drain the players' Momentum and Wounds before the real threat arrives.
+
+- Tier: Fodder
+    
+- Scale: Small (-1)
+    
+- Stats: Reflex +1, Prowess -1, Wits -1, Will -1.
+    
+- Derived: Wound Threshold: 2 (4 - 1 Prowess - 1 Scale). Stress Limit: 0. Wound Slots: 1.
+    
+- Weapons:
+    
+
+- A Thousand Teeth: Power 1, Close-Quarters.
+    
+
+- Tags:
+    
+
+- Amorphous: Single-target weapons (daggers, arrows, spears) can never inflict a Wound on the Swarm.
+    
+- Swarm: Their Swarm Bonus to Clashes is +1 per extra ally engaging the target.
 #### 2. The Orc Raider (GRUNT)
 
 Standard, dangerous frontline combatants.
@@ -160,14 +191,14 @@ THE FROST-CAVE TROLL
     
 
 - Tags: * Regeneration (Fire deactivates). * Massive.
-    
-- Threat: GM starts with 2.
 - Vessel: 2
-- Cost 2 Threat: Sweeping Uproot.
+- Threat: GM starts with 2.
+	- Cost 2 Threat: Sweeping Uproot.
     
-- Trigger: Declared before an Aggressor Strike.
+	- Trigger: Declared before an Aggressor Strike.
     
-- The Effect: The Troll drags its massive club through the earth. This Strike gains the Cleave tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
+	- The Effect: The Troll drags its massive club through the earth. This Strike gains the Cleave tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
+	- Cost 1 Threat: the troll makes an immediate second strike with its claws.
 ___________________________________________________________________
 Here are two horrifying entities built directly into the bounded math, Threat economy, and universal conditions of Iron & Marrow.
 
@@ -189,6 +220,7 @@ A towering, decapitated mass of waterlogged flesh, rusted iron chains, and tangl
     
 
 Threat Abilities & Tags:
+- Resilient. Fear.
 - Vessel limit: 2
   
 - Passive Tag: Sinking Gravity. The ground immediately within the Goliath’s Threat Zone is perpetually treated as Mire (difficult terrain) due to the supernatural rot and water bleeding from its body.
@@ -235,6 +267,7 @@ Boss Paradigm Mechanics:
     
 
 Threat Abilities & Tags:
+- Terrifying, Cunning Leader.
 - Vessel limit: 4
 
 - Cost 1 Threat: Furnace Rebuke.

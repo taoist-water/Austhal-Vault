@@ -261,7 +261,7 @@ ________________________________________________________________________
     
 - *Terrified:* Your mind is clouded by panic. 1 stress is locked. You cannot spend Momentum for any reason. You must spend your turn running away from the object/being causing the Terror, fleeing until you can hide, or break the complete line of sight. When out of sight or hidden from the object/entity you can take a  Will + Resolve check to shake the condition.
     
-- *Fear:* 1 stress is locked, until fear condition is lost. will always be the reactor to the object/being causing the Fear condition. Pass a Will + Resolve check to overcome the fear, suffer a -2 if the fear causing object/being is within line of sight, a -4 if actively being engaged.
+- *Fear:* 1 stress is locked, until fear condition is lost. Has disadvantage against the object/being causing the Fear condition. must Pass a Will + Resolve check to make aggressor actions or interact with the object/being causing the fear.
     
 - *Distracted:* suffer a - 1 to rolls until next activation, then lose the condition.
     
@@ -272,7 +272,7 @@ ________________________________________________________________________
 - *Surprised:* Rolls suffer Disadvantage.
     
 - *Grappled:* When the aggressor: can choose to let go of the Grapple as a Free action. 
-    - As the Reactor: ACTION:  Break grapple; 2d6 + Prowess + Athletics. Win and remove the grappled condition. Win by a margin of 3+ and take a 5ft step out of threat zone.
+    - As the Reactor: Must use the Shove action to break the grapple.
     
 ### 1. Anchored (The Movement Lock)
 
@@ -324,8 +324,8 @@ _Regroup is not a condition; it is a universal **Aggressor Action** available to
 - **The Tactical Cost:** It costs the player their offensive output for the round, forcing the party to cover them while they recover.
 ## Positive Conditions:
 
-- *Blessed:* (Granted by Faith magic or holy sites). You feel the weight of the divine. You ignore the first point of Stress you would take in an encounter.
+- *Blessed:* (Granted by Faith magic or holy sites). You feel the weight of the divine. You ignore the first point of Stress you would take in a scene.
     
-- *Consecrated:*
+- *Consecrated:* (dev note) Undead creatures suffer disadvantage when interacting with you.(/dev note)
     
-- *Inspired:* 
+- *Inspired:* gain advantage on non-combat checks for a scene.
