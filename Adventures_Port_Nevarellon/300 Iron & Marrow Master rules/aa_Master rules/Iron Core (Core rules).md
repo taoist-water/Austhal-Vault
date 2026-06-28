@@ -259,7 +259,7 @@ ________________________________________________________________________
     
 - *Fatigued:* Gain 1 Locked Stress. If a circumstance causes an additional instance of this condition, gain another locked Stress. If at the stress limit, no more locked stress can be assigned. This condition can only be cleared by a full night's rest or magical Restoration.
     
-- *Terrified:* Your mind is clouded by panic. 1 stress is locked. You cannot spend Momentum for any reason. You are always the reactor in ANY Clash. You must spend your turn running away from the object/being causing the Terror, fleeing until you can hide, or break the complete line of sight. When out of sight or hidden from the object/entity you can take a  Will + Resolve check to shake the condition.
+- *Terrified:* Your mind is clouded by panic. 1 stress is locked. You cannot spend Momentum for any reason. You must spend your turn running away from the object/being causing the Terror, fleeing until you can hide, or break the complete line of sight. When out of sight or hidden from the object/entity you can take a  Will + Resolve check to shake the condition.
     
 - *Fear:* 1 stress is locked, until fear condition is lost. will always be the reactor to the object/being causing the Fear condition. Pass a Will + Resolve check to overcome the fear, suffer a -2 if the fear causing object/being is within line of sight, a -4 if actively being engaged.
     
