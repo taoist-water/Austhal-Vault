@@ -1,39 +1,39 @@
 # Downtime: Settlements, Budgets, and Reputation
 
-## 1.Endeavour Points (Replacing Literal Day-Counting)
+## 1.Pursuit Points (Replacing Literal Day-Counting)
 
-Tracking exact calendar days across a party with different ongoing Endeavours gets unwieldy fast — especially once a Priest is spending a full day on Religious Endeavour while the Fighter is mid-week into a Commission. Instead, the GM sets a **Downtime Budget** in **Endeavour Points (EP)** based on the narrative gap between adventures, and each Endeavour costs EP rather than literal days.
+Tracking exact calendar days across a party with different ongoing Endeavours gets unwieldy fast — especially once a Priest is spending a full day on Religious Pursuit  while the Fighter is mid-week into a Commission. Instead, the GM sets a **Downtime Budget** in **Pursuit  Points (PP)** based on the narrative gap between adventures, and each Pursuit  costs PP rather than literal days.
 
-**Endeavour Costs (EP):**
+**Pursuit  Costs (PP):**
 
-| Endeavour                                | EP Cost |
+| Pursuit                                  | PP Cost |
 | ---------------------------------------- | ------- |
-| Acquisition (Restock/Purchase)           | 1 EP    |
-| Tend to the Flesh (per Wound Slot cycle) | 1 EP    |
-| Hammer & Forge (per item)                | 1 EP    |
-| Religious Endeavour                      | 1 EP    |
-| Commission                               | 3 EP    |
-| Tinkerer's variant (feat-gated)          | 1 EP    |
-| Bank Finances                            | 1 EP    |
+| Acquisition (Restock/Purchase)           | 1 PP    |
+| Tend to the Flesh (per Wound Slot cycle) | 1 PP    |
+| Hammer & Forge (per item)                | 1 PP    |
+| Religious Pursuit                        | 1 PP    |
+| Commission                               | 3 PP    |
+| Tinkerer's variant (feat-gated)          | 1 PP    |
+| Bank Finances                            | 1 PP    |
 
 **Example Budgets by Narrative Gap:**
 
-- **A Single Night (1 EP):** The party makes camp in a waystation or sleeps at an inn before pushing on at dawn. Barely enough time for one quick Acquisition run or a single round of Tend to the Flesh.
-- **A Few Days' Respite (3 EP):** The party has a short, clear break — recovering after a dungeon, waiting on a lead. Enough for a couple of Endeavours each, or one character to push hard on a single big one.
-- **A Full Week in Town (5–7 EP):** The classic "return to town between dungeons" beat. Enough EP for most characters to run two or three Endeavours, or for one character to commit their whole budget to a Commission.
-- **A Season of Downtime (10+ EP):** Used sparingly — between story arcs, over a winter, during travel to a new region. The GM should treat this as an explicit pacing tool, not a default, since it lets characters stack multiple Commissions or fully clear Locked Stress and gear damage across the whole party.
+- **A Single Night (1 PP):** The party makes camp in a waystation or sleeps at an inn before pushing on at dawn. Barely enough time for one quick Acquisition run or a single round of Tend to the Flesh.
+- **A Few Days' Respite (3 PP):** The party has a short, clear break — recovering after a dungeon, waiting on a lead. Enough for a couple of Endeavours each, or one character to push hard on a single big one.
+- **A Full Week in Town (5–7 PP):** The classic "return to town between dungeons" beat. Enough EP for most characters to run two or three Endeavours, or for one character to commit their whole budget to a Commission.
+- **A Season of Downtime (10+ PP):** Used sparingly — between story arcs, over a winter, during travel to a new region. The GM should treat this as an explicit pacing tool, not a default, since it lets characters stack multiple Commissions or fully clear Locked Stress and gear damage across the whole party.
 
-**The Rule:** Each character tracks their own EP budget independently — one character spending their whole budget on a Commission doesn't prevent another from running three small Endeavours in the same gap. This keeps downtime parallel rather than turn-based, matching how real "everyone goes off and does their own thing in town" play actually happens at the table.
+**The Rule:** Each character tracks their own PP budget independently — one character spending their whole budget on a Commission doesn't prevent another from running three small Endeavours in the same gap. This keeps downtime parallel rather than turn-based, matching how real "everyone goes off and does their own thing in town" play actually happens at the table.
 
 ________________________________________________________________________
 
 ##  2.Settlement Tiers (What's Even Possible Here)
 
-Not every Endeavour is available everywhere. A fishing hamlet has no master blacksmith to Commission from; a sprawling capital has no shortage of either. 
+Not every Pursuit  is available everywhere. A fishing hamlet has no master blacksmith to Commission from; a sprawling capital has no shortage of either. 
 
 ### Hamlet (Tier 0)
 *A handful of families, maybe a shrine, no real market.*
-- **Available Endeavours:** Tend to the Flesh, Religious Endeavour (if the local shrine matches the Priest's tradition — GM's call), basic Acquisition (food, rope, torches, common-tier items only).
+- **Available Endeavours:** Tend to the Flesh, Religious Pursuit  (if the local shrine matches the Priest's tradition — GM's call), basic Acquisition (food, rope, torches, common-tier items only).
 - **Unavailable:** Hammer & Forge (no forge), Commission (no master artisan).
 - **Acquisition Modifier:** **-2** to the Acquisition check for anything beyond Common availability — a hamlet simply doesn't stock it, full stop, regardless of how good the roll is. Treat a roll that would otherwise succeed as automatically failing if the item's Availability rating exceeds Common.
 
@@ -61,7 +61,7 @@ This directly mirrors the existing NPC Stance system, scaled up from a single pe
 
 **The Four Settlement Stances:** Hostile, Unfriendly, Neutral, Friendly — identical states and identical shift rules to the NPC Stance System (Standard Success shifts one step, High Success shifts two steps, never jumping straight to the opposite pole), applied collectively to a settlement's general disposition.
 
-- **Hostile:** The party has actively wronged this settlement — botched a job, insulted the local lord, left a debt unpaid, or committed a crime that's become common knowledge. Acquisition checks suffer **-4**, Commission requests are refused outright regardless of payment, and most other Endeavours (Religious Endeavour at a shrine whose faction the party has angered) may be denied entirely at GM discretion. This is the settlement actively working against the party, not just distrusting them.
+- **Hostile:** The party has actively wronged this settlement — botched a job, insulted the local lord, left a debt unpaid, or committed a crime that's become common knowledge. Acquisition checks suffer **-4**, Commission requests are refused outright regardless of payment, and most other Endeavours (Religious Pursuit  at a shrine whose faction the party has angered) may be denied entirely at GM discretion. This is the settlement actively working against the party, not just distrusting them.
 - **Unfriendly:** The settlement is wary or has a poor opinion of the party — minor past friction, an unresolved rumor, simple distrust of outsiders — but isn't yet acting against them. Acquisition checks suffer **-2**. Most Endeavours remain available, just at worse terms; merchants quote higher prices, artisans are slower to commit to a Commission (requiring more EP to commission).
 - **Neutral:** The default starting state for any settlement the party hasn't meaningfully interacted with yet. No modifier — this is the baseline the Settlement Tier modifiers above are written against.
 - **Friendly:** The party has earned genuine goodwill — cleared a local threat, donated generously, performed a public service. Acquisition checks gain **+2** (stacking with Tier modifiers — a Friendly City offers a generous **+4** total), and Massive Successes become more frequent in practice simply because the combined modifier pushes more rolls past the Margin 5 threshold.
@@ -80,7 +80,7 @@ ___________________________________________________________________
 3. The GM checks the party's current **Settlement Reputation** with this specific settlement (Section 3) — Hostile/Unfriendly/Neutral/Friendly — which further modifies Acquisition and may gate or unlock specific Endeavours.
 4. Each player spends their own EP budget across the Endeavours now available to them, rolling each as defined in the base Downtime Endeavours document.
 
-This keeps the actual dice-facing procedure exactly as previously defined — nothing about *how a single Endeavour resolves* has changed — while giving the GM three new dials (time, place, and standing) to make every return to town feel mechanically distinct rather than an identical menu regardless of where or when the party arrives.
+This keeps the actual dice-facing procedure exactly as previously defined — nothing about *how a single Pursuit  resolves* has changed — while giving the GM three new dials (time, place, and standing) to make every return to town feel mechanically distinct rather than an identical menu regardless of where or when the party arrives.
 
 ___________________________________________________________________
 
@@ -88,24 +88,24 @@ ___________________________________________________________________
 
 ## The Base Procedure: Progress Momentum
 
-Downtime uses the same Margin-driven logic as everything else in the system, scaled to a slower clock. Rather than resolving in seconds, a Downtime Endeavour resolves across hours, days, or weeks — but the dice still tell you how well it went.
+Downtime uses the same Margin-driven logic as everything else in the system, scaled to a slower clock. Rather than resolving in seconds, a Downtime Pursuit resolves across hours, days, or weeks — but the dice still tell you how well it went.
 
-- **The Mechanic:** When a character undertakes a named Downtime Endeavour, they make the check listed for that Endeavour (almost always an unopposed roll against TN 8, exactly like the Margin of Manifestation used elsewhere in the system).
+- **The Mechanic:** When a character undertakes a named Downtime Pursuit , they make the check listed for that Pursuit  (almost always an unopposed roll against TN 8, exactly like the Margin of Manifestation used elsewhere in the system).
     
-- **Failure (<8):** The Endeavour does not complete this cycle. Time is lost — the character must spend the full duration again before attempting it a second time (this is what makes failure costly even without inflicting Stress or harm: it's a tempo loss, not a damage source).
+- **Failure (<8):** The Pursuit  does not complete this cycle. Time is lost — the character must spend the full duration again before attempting it a second time (this is what makes failure costly even without inflicting Stress or harm: it's a tempo loss, not a damage source).
     
-- **Standard Success (Margin 0–4):** The Endeavour completes exactly as described in its own entry.
+- **Standard Success (Margin 0–4):** The Pursuit  completes exactly as described in its own entry.
     
-- **Massive Success (Margin 5+):** The Endeavour completes, and the character generates **1 Progress Momentum.**
+- **Massive Success (Margin 5+):** The Pursuit  completes, and the character generates **1 Progress Momentum.**
     
 
-**Progress Momentum** is a downtime-specific currency, mechanically separate from combat Momentum (it cannot be spent on Aggressor/Reactor maneuvers, and combat Momentum cannot be spent on downtime). It exists specifically to fuel the accelerants and quality-of-life feats that already reference it — *Focused Burst*, *Field Medic*, and others — and represents banked competence: a particularly good week in town that can be cashed in to skip a roll or accelerate a later Endeavour. Unless a feat says otherwise, Progress Momentum does not expire at the end of a Downtime period, but most GMs will want to cap how much a party can stockpile between dungeon crawls (a soft cap of 3–5, mirroring the combat Momentum bank, is a reasonable default).
+**Progress Momentum** is a downtime-specific currency, mechanically separate from combat Momentum (it cannot be spent on Aggressor/Reactor maneuvers, and combat Momentum cannot be spent on downtime). It exists specifically to fuel the accelerants and quality-of-life feats that already reference it — *Focused Burst*, *Field Medic*, and others — and represents banked competence: a particularly good week in town that can be cashed in to skip a roll or accelerate a later Pursuit . Unless a feat says otherwise, Progress Momentum does not expire at the end of a Downtime period, but most GMs will want to cap how much a party can stockpile between dungeon crawls (a soft cap of 3–5, mirroring the combat Momentum bank, is a reasonable default).
 
 ________________________________________________________________________
 
 ## The Named Endeavours
 
-Each entry below formalizes an Endeavour already referenced elsewhere in the rules. Where a feat or item already specifies a detail (a time cost, a bonus, an output), that detail is preserved exactly — this section is filling the gaps around existing text, not overwriting it.
+Each entry below formalizes an Pursuit  already referenced elsewhere in the rules. Where a feat or item already specifies a detail (a time cost, a bonus, an output), that detail is preserved exactly — this section is filling the gaps around existing text, not overwriting it.
 
 ### Finance Bank
 - (dev note) Needs definition.  effectively need a system for players to store excess money as carrying it into adventures might impinge on the inventory system.  Assuming a narrative of independent or chain of banks enables the players to store and retrieve money where ever there is a bank or bank representative in a settlement.  maybe have a result on the roll determine if they have lost money due to the banks bad investment or brigands on the road managed to assault the carriages transferring real coinage between settlements? (/dev note)
@@ -136,24 +136,24 @@ Each entry below formalizes an Endeavour already referenced elsewhere in the rul
 - **Equipment Interaction:** A Field Surgeon's Kit grants a flat +2 to this check, as already specified in Hardware. It holds 6 uses before requiring restocking (see Acquisition, a separate gap worth addressing later).
 
 ### Field Medic
-*An accelerant feat-driven Endeavour, not a base action available to everyone.*
+*An accelerant feat-driven Pursuit , not a base action available to everyone.*
 
-This Endeavour does not exist independently — it is unlocked by a specific feat (already referenced, not included in this document) that allows a character to spend Progress Momentum to bypass the standard 3-day Tend to the Flesh cycle. Per the existing Combat Medic feat text already in *The Marrow*: spending 2 Progress Momentum instantly heals 1 Wound Slot in 10 minutes, at a cost of 2 Dissonant Stress to the patient. This document does not change that feat's text — it simply confirms Field Medic sits under the Downtime Endeavour umbrella defined here, and that the Progress Momentum it spends is the same currency generated above.
+This Pursuit  does not exist independently — it is unlocked by a specific feat (already referenced, not included in this document) that allows a character to spend Progress Momentum to bypass the standard 3-day Tend to the Flesh cycle. Per the existing Combat Medic feat text already in *The Marrow*: spending 2 Progress Momentum instantly heals 1 Wound Slot in 10 minutes, at a cost of 2 Dissonant Stress to the patient. This document does not change that feat's text — it simply confirms Field Medic sits under the Downtime Pursuit  umbrella defined here, and that the Progress Momentum it spends is the same currency generated above.
 
 ### Focused Burst
 *Self-inflicted urgency — burning your own composure to get ahead of schedule.*
 
 - **The Check:** None — this is not itself a roll, it's a resource conversion available during any downtime period, already defined by its feat: inflict up to 3 points of Locked Stress on yourself, converting each point 1-for-1 into Progress Momentum.
-- **Why it's listed here:** To confirm it taps the same Progress Momentum pool every other Endeavour in this document feeds, meaning a desperate character can effectively buy their way past a bad roll on Hammer & Forge or Tend to the Flesh by paying in Locked Stress instead of time.
+- **Why it's listed here:** To confirm it taps the same Progress Momentum pool every other Pursuit  in this document feeds, meaning a desperate character can effectively buy their way past a bad roll on Hammer & Forge or Tend to the Flesh by paying in Locked Stress instead of time.
 
-### Religious Endeavour (Penance, Communion, or Pilgrimage)
+### Religious Pursuit  (Penance, Communion, or Pilgrimage)
 *How a Priest clears Locked Stress.*
 
-- **Time Cost:** A minimum of 1 full day, dedicated entirely to the practice (fasting, prayer, ritual confession, a pilgrimage to a shrine) — no other Downtime Endeavour may be performed simultaneously.
+- **Time Cost:** A minimum of 1 full day, dedicated entirely to the practice (fasting, prayer, ritual confession, a pilgrimage to a shrine) — no other Downtime Pursuit  may be performed simultaneously.
 - **The Check:** Will + Faith vs. TN 8.
 - **Standard Success:** Clears Locked Stress equal to the character's Will score (minimum 1).
 - **Massive Success:** Clears all of the Priest's Locked Stress, and banks 1 Progress Momentum — a moment of genuine, total absolution.
-- **Failure:** No Stress is cleared, and the day is lost. Unlike a failed Hammer & Forge or Tend to the Flesh, a failed Religious Endeavour is worth narrating: the Priest reached for their faith and found only silence. This is a good spot for the GM to foreshadow consequences of past Borrowed Authority Fails (see the Tithe of Will rules) — a Priest who's been racking up GM Threat through failed Tithes may find their Religious Endeavours getting harder, at GM discretion.
+- **Failure:** No Stress is cleared, and the day is lost. Unlike a failed Hammer & Forge or Tend to the Flesh, a failed Religious Pursuit is worth narrating: the Priest reached for their faith and found only silence. This is a good spot for the GM to foreshadow consequences of past Borrowed Authority Fails (see the Tithe of Will rules) — a Priest who's been racking up GM Threat through failed Tithes may find their Religious Endeavours getting harder, at GM discretion.
 
 ### Acquisition (Restocking and Purchasing)
 *Replenishing limited-use kits and consumables, like the Field Surgeon's Kit's 6 uses — and the same procedure governing any new gear bought outright in town.*
@@ -176,12 +176,12 @@ ________________________________________________________________________
 
 ## Summary Table
 
-| Endeavour | Time Cost | Check | Output on Standard Success |
+| Pursuit                        | Time Cost | Check | Output on Standard Success |
 |---|---|---|---|
-| Hammer & Forge | 1 day/item | Crafting vs TN 8 | Clears Damaged or Ruined |
-| Commission | 1 week | None (paid) | Upgrades item to Masterwork |
-| Tend to the Flesh | 3 days/Wound (base rate) | Medicine vs TN 8 to improve | Heals 1 Wound Slot |
-| Field Medic | 10 minutes | Feat-gated, spends Progress Momentum | Heals 1 Wound Slot at a Stress cost |
-| Focused Burst | Instant | None — converts Locked Stress | Generates Progress Momentum |
-| Religious Endeavour | 1 day | Will + Faith vs TN 8 | Clears Locked Stress |
+| Hammer & Forge                 | 1 day/item | Crafting vs TN 8 | Clears Damaged or Ruined |
+| Commission                     | 1 week | None (paid) | Upgrades item to Masterwork |
+| Tend to the Flesh              | 3 days/Wound (base rate) | Medicine vs TN 8 to improve | Heals 1 Wound Slot |
+| Field Medic                    | 10 minutes | Feat-gated, spends Progress Momentum | Heals 1 Wound Slot at a Stress cost |
+| Focused Burst                  | Instant | None — converts Locked Stress | Generates Progress Momentum |
+| Religious Pursuit              | 1 day | Will + Faith vs TN 8 | Clears Locked Stress |
 | Acquisition (Restock/Purchase) | Half a day | Influence or Survival vs TN 8 | Restocks a kit, or completes a new purchase — subject to a Slot Check |

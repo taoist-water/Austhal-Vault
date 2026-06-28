@@ -129,13 +129,13 @@ _______________________________________________________________________
 | Light Crossbow                        | Crossbows            | 2     | 2H    | Ranged (Max: Long / 120 ft)     | Armor Piercing, Reload                                                                                                                                                                      |
 | Arcane Focus                          |                      |       |       |                                 |                                                                                                                                                                                             |
 | Grimoire                              |                      |       | 1H    |                                 | Repository: Holds your spells. If casting while open, you may spend 1 Momentum to cast a Novice spell without Locking a Stress slot for the first round (Reading it straight off the page). |
-| Mage Staff                            |                      |       | 2H    |                                 | Reach, Anchor, grounding rod.                                                                                                                                                               |
+| Mage Staff                            |                      |       | 2H    |                                 | Reach, Bound, grounding rod.                                                                                                                                                                |
 | Wand                                  |                      |       | 1H    |                                 | Conduit, Focus, Sidearm.                                                                                                                                                                    |
 
 ## Weapon Tags
-- Anchor:  enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
+- Bound:  enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
     
-- Bash: If your attack results in a Glancing Hit (Impact < Threshold), it deals +1 additional Stress due to blunt force trauma.
+- Bash: If your attack results in a Glancing Hit (Impact < Threshold), it deals +1 additional Dissonant Stress due to blunt force trauma.
     
 - Brutal: If the Reactor rolls a Fumble (Natural 2) while defending against this weapon, they take 2 Stress instead of 1.
     
@@ -156,7 +156,7 @@ _______________________________________________________________________
     
 - non-Lethal: strikes with this weapon can only cause Stress regardless of the Impact result. 
     
-- Precise: 
+- Precise: Ignores 1 Point of armour
     
 - Reach: Threatens a 10-foot radius (2 grid squares).   Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
     
