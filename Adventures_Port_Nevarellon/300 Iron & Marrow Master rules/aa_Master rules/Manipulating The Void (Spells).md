@@ -1,3 +1,5 @@
+(dev note)need to review spells to ensure all align with the established margin scaler mechanic(/dev note)
+
 # Universal Spell list
 **Common Arcane Magic**
 *Available to any Arcanist regardless of chosen Paradigm. Standard DP cost. Never benefits from Paradigm Mastery.*
