@@ -225,14 +225,18 @@ ______________________________________________________________________
 ### **Arcane Awakening (Tier 1 Feat)**
     
 - **Prerequisite:** Arcana 1, Wits 1.
-        
-- **Mechanic:** You have forced your mind to perceive the volatile geometries of the world. You gain a Grimoire containing 3 Novice Arcana spells. As long as you have a free hand and your Grimoire equipped, you may manifest these spells using the Arcane Margin mechanics.
+
+- **Mechanic:** You have forced your mind to perceive the volatile geometries of the world. **Choose one Paradigm.** You gain a Grimoire containing 3 Novice Arcana spells, drawn from the Common list and/or your chosen Paradigm's list. As long as you have a free hand and your Grimoire equipped, you may manifest these spells using the Arcane Margin mechanics. Spells from your chosen Paradigm benefit from **Paradigm Mastery**: a Messy Success (Margin 0–2) resolves as a Clean Success instead. Common spells and spells outside your Paradigm never benefit from Mastery. _(Additional spells — in- or off-Paradigm — are learned later through Advancement; off-Paradigm spells cost double DP and never gain Mastery, but they're never feat-gated or forbidden.)_
         
 ### **Divine Conduit (Tier 1 Feat)**
     
-- **Prerequisite:** Faith 1, Will 1.
-        
-- **Mechanic:** You have tethered your physical form to a higher authority. You gain a Holy Symbol and 3 Novice Miracles. As long as you speak the litany and bear your symbol, manifest these miracles by rolling the Tithe of Will and paying their Locked Stress cost.
+- - **Prerequisite:** Faith 1, Will 1.
+- **Mechanic:** You have tethered your physical form to a higher authority — or convinced yourself you have. Choose one path when you take this feat:
+    
+    - **The Covenant:** Bind yourself to one Domain. You gain a Holy Symbol, that Domain's Domain Tag, and 3 Novice Miracles drawn from the Common Miracle list and/or your chosen Domain's list. This binding is permanent — your Holy Symbol can never hold Miracles blessed by a different entity. No exceptions; no later switching.
+    - **The Heretic's Path:** Bind yourself to no single power. You gain a Holy Symbol and 3 Novice Miracles drawn from the Common Miracle list and/or **any combination** of the seven Domains' lists. You never gain a Domain Tag — no entity has claimed you long enough to bless you — and you roll every Tithe of Will check with **Disadvantage** (3d6, keep the lowest two) for as long as you walk this path. Nothing you channel is trusting you by default; you're convincing it fresh, every time.
+    
+    As long as you speak the litany and bear your symbol, manifest these Miracles by rolling the Tithe of Will and paying their Locked Stress cost. _(Design note: any future feat or item that grants "additional Miracles from your Domain" should be read as "from any Domain's list" for a character on the Heretic's Path.)_
 
 ### Battlefield Orator 
 - Prerequisite: Influence +2

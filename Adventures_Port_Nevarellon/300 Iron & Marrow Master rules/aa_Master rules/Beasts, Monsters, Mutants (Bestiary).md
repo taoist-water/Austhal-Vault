@@ -1,6 +1,6 @@
 # The Dynamic Trait Manifest
 Design Philosophy: Keep stat blocks microscopic. Let traits dictate tactical behaviour, stress interaction, and momentum usage.
-
+(dev note) I am going to have to a deeper re-think of the Bestiary mechanics, I realise the examples I have are/may be causing some tensions with the design philosophy of enemies.(/dev note)
 ####  Core Integration Rules
 
 - Fodder: Max 1 Trait. Fodder cannot spend Threat unless led by a leader or a trait allows them too.
@@ -21,6 +21,8 @@ A towering, decapitated mass of waterlogged flesh, rusted iron chains, and tangl
 - Tier: 2 (Elite)
     
 - Modifiers: Strike +6 (Mangrove Trunk) | Defense +4 (Absorbent Dead Flesh)
+>	**Defense +7:** Prowess +2, Absorbent Dead Flesh + 2. *(
+    >**Strike +6:** Prowess +2, Mangrove Trunk+4.
     
 - Wound Threshold: 11 (Incredibly difficult to cause a physical Wound; weapons tend to get stuck in the blubber and mud).
     
@@ -57,6 +59,9 @@ A terrifyingly elegant entity of obsidian armor and pale, burning eyes, wielding
 - Tier: 3 (Boss)
     
 - Modifiers: Strike +8 (Ashen Greatsword) | Defense +7 (Precognition & Hell-Forged Plate) (Explicitly breaking the +3 mortal cap).
+
+    >**Defense +7:** Precognition +4, Hell-Forged Plate +3. *(Explicitly breaking the +3 mortal cap on the Plate component alone — Precognition's +4 is itself already at the edge of what a mortal Boss should carry, representing supernatural foresight rather than trained skill.)*
+    >**Strike +8:** Prowess +4, Ashen Greatsword +4.
     
 - Wound Threshold: 13
     
