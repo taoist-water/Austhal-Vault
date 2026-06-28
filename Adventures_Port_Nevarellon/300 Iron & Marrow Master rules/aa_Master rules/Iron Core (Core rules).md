@@ -248,7 +248,6 @@ ________________________________________________________________________
 
 - *Incapacitated:*
     
-- *Immobilized:*
     
 -  *Prone:* You are on the ground. You suffer Disadvantage on all Clashes. It costs a Move Action or 1 Momentum to scramble to your feet.
     

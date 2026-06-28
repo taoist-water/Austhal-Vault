@@ -515,7 +515,7 @@ ______________________________________________________________________
     
 - You can reach out and unravel the magic of others.
     
-- Mechanic: When an enemy within 30 feet attempts to cast an Arcana or Faith spell (even if you are not the target), you may spend 1 Momentum to use your Reaction to unweave it. You roll an opposed Wits + Arcana check against their casting roll, and if you win, the spell is entirely shattered before it takes effect. If you win by a Margin of 3 or more, you also absorb the ambient magic, instantly restoring 1 Stress to yourself.
+- Mechanic: When an enemy within 30 feet attempts to cast an Arcana or Faith spell (even if you are not the target), you may spend 1 Momentum to unweave it. You roll an opposed Wits + Arcana check against their casting roll, and if you win, the spell is entirely shattered before it takes effect. If you win by a Margin of 5 or more, you also absorb the ambient magic, instantly restoring 1 Stress to yourself.
 ### Zeal
     
 
@@ -764,7 +764,7 @@ Focused on opportunistic strikes, siphoning momentum from the failures of others
     
 - You thrive on the systemic collapse of others.
     
-- Mechanic: When an enemy within 30 feet rolls a Fumble (two natural 1s), you may use your Reaction to steal their panicked energy, instantly banking 1 Momentum for yourself as you capitalize on their mistake.
+- Mechanic: When an enemy within 30 feet rolls a Fumble (two natural 1s), you steal their panicked energy, instantly banking 1 Momentum for yourself as you capitalize on their mistake.
     
 
 #### Anatomical Nihilism (Tier 3)
@@ -786,7 +786,7 @@ Focused on psychological warfare, weaponizing the Momentum of a crowd, and manip
     
 - You orchestrate the rhythm of the meat-grinder.
     
-- Mechanic: You know exactly how to twist the knife when an enemy is faltering. Whenever an ally within earshot successfully gains Momentum from winning a Clash, you may spend your Reaction to hurl a devastating insult or terrifying tactical observation. This instantly inflicts 1 Dissonant Stress on the enemy your ally just struck.
+- Mechanic: You know exactly how to twist the knife when an enemy is faltering. Whenever an ally within earshot successfully gains Momentum from winning a Clash, you may hurl a devastating insult or terrifying tactical observation. This instantly inflicts 1 Dissonant Stress on the enemy your ally just struck.
     
 
 #### Architect of Panic (Tier 3)
@@ -808,7 +808,7 @@ Focused on weaponized dogma, absolute punishment, and crushing the enemy under t
     
 - Your judgment is a physical anchor dragging them down.
     
-- Mechanic: When you win a Clash against an enemy who has inflicted a Wound on an ally during the current combat, you may immediately spend 1 Momentum. The target must pass an opposed Will + Resolve check against your Will + Faith. If they fail, their nervous system locks up in terror, instantly inflicting the Immobilized condition until they can break free on their next activation.
+- Mechanic: When you win a Clash against an enemy who has inflicted a Wound on an ally during the current combat, you may immediately spend 1 Momentum. The target must pass an opposed Will + Resolve check against your Will + Faith. If they fail, their nervous system locks up in terror, instantly inflicting the Anchored condition until they can break free on their next activation.
     
 
 #### Penance Engine (Tier 3)
