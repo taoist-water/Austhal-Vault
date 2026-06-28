@@ -10,7 +10,9 @@ When an Arcanist casts an offensive spell that deals Impact, calculate it the sa
 >
 > **Impact = (Margin of the Clash, or Margin over TN 8 for an unopposed spell) + Spell Power**
 >
-> Each spell's entry lists a flat **Spell Power** rating, exactly like a weapon's Power. The Margin Scaler no longer define the Impact number directly — it defines the *special effect* that comes with each tier (a condition, a debuff, a status). Impact itself now scales with how well the roll went, the same way it does for every weapon Strike in the game.
+> Each spell's entry lists a flat **Spell Power** rating, exactly like a weapon's Power. The Margin Scaler doesn't define the Impact number directly — it defines the *special effect* that comes with each tier (a condition, a debuff, a status). 
+> 
+**Overcharge:** Once per casting, before resolving the Clash, an Arcanist may Lock 1 Stress to add +2 to that spell's Spell Power for this casting only. Same shape as Power Strike for weapons — push the math, pay a price.
 
 **Defense :** When a spell's resolution reads "vs. Target's Defense," the target rolls **2d6 + the most relevant Reactor action available to them** — typically Block, Dodge, or Brace, exactly as if they were defending against a weapon Strike. "Defense" is shorthand for "the target picks their best applicable Reactor roll," not a separate derived stat the target has sitting on their sheet. 
 

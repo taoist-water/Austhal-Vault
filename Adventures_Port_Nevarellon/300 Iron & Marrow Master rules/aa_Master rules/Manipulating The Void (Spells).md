@@ -314,6 +314,43 @@ The caster either ignites a beacon of radiance or conjures a void that swallows 
 # Arcane Magic Paradigms
 In-Paradigm casters get the standard DP cost and Paradigm Mastery (a Messy Success resolves as Clean). Off-Paradigm casters can still learn these at double DP cost, with neither benefit.
 ## The Necromancy Spellbook
+### Drain Stress
+The caster reaches into a mind, unraveling focus and siphoning spiritual reserve — Marrow Siphon's thesis turned outward onto an enemy.
+
+- **Level:** Master
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Will + Resolve
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Target gains 2 Dissonant Stress.
+- Margin 3+ (Clean): Target gains 3 Dissonant Stress, and the caster clears 1 of their own Dissonant Stress as the siphoned focus settles.
+
+### Zombie
+Dark energy reanimates the dead, forcing cold flesh to serve the living.
+
+- **Level:** Master
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8 (requires a corpse within reach)
+- **Target/Range:** One corpse, touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The corpse rises as an NPC Undead under the caster's control for the scene (Wound Threshold 6, no Stress Limit); the working costs the caster 1 Dissonant Stress.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): The caster may Lock 5 Stress instead of letting the spell end — doing so makes the servant permanent until destroyed or released.
+
+### Puppet
+The caster seizes control of the target's motor functions, turning a foe into a marionette.
+
+- **Level:** Master
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Will + Resolve
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Caster controls the target's next Activation. The target cannot be forced to directly kill themselves, but can be forced to attack allies or drop their guard.
+- Margin 3+ (Clean): As above, and control extends for 1 additional round.
 
 ### 1. Marrow Siphon (Sustain / Attrition)
 
@@ -356,17 +393,12 @@ The caster forces the blood in a living target's extremities to instantly coagul
 The Necromancer uses a dead body on the battlefield as a bomb, rapidly accelerating its decay until the buildup of necrotic gases violently ruptures the flesh.
 
 - Resolution: Unopposed Wits + Arcana vs. TN 8. (Requires a corpse within sight).
-    
-- The Effect: The targeted corpse explodes, spraying razor-sharp bone shrapnel and toxic bile in a 10-foot radius. Every creature (friend or foe) in the radius suffers an immediate 3 Impact.
-    
+- **Spell Power: 2**
+- The Effect: The targeted corpse explodes, spraying razor-sharp bone shrapnel and toxic bile in a 10-foot radius. Every creature (friend or foe) in the radius suffers Impact equal to the casting Margin + Spell Power.
 - The Margin Scaler:
-    
-
-- Margin 0–2 (Messy): The explosion is delayed or unpredictable. The GM shifts the center of the blast 5 feet in a random direction before calculating who is hit.
-    
-- Margin 3–4 (Clean): The corpse detonates perfectly as planned.
-    
-- Margin 5+ (Exceptional): The bile is intensely concentrated. The blast area becomes Mire (difficult terrain) for the remainder of the encounter, as the ground becomes slick with gore.
+  - Margin 0–2 (Messy): The explosion is delayed or unpredictable. The GM shifts the center of the blast 5 feet in a random direction before calculating who is hit.
+  - Margin 3–4 (Clean): The corpse detonates perfectly as planned.
+  - Margin 5+ (Exceptional): The blast area becomes Mire (difficult terrain) for the remainder of the Scene.
     
 
 ### 4. Calcify Armor (Utility / Buff)
@@ -388,6 +420,49 @@ The caster forces their own bones, or the bones of an ally, to painfully extrude
 
 
 ## Shadow Sorcery
+### Deflection
+Invisible currents of air or shifting shadows cause incoming attacks to veer off course.
+
+- **Level:** Novice
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8 to raise
+- **Target/Range:** Self or one ally, Short Range
+- **Action Type:** Activation / Reactor
+- **Duration:** Sustain — Lock 1 Stress to maintain
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): Attacks targeting the protected character suffer a -2 penalty to their Clash; caster takes 1 Dissonant Stress raising it.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): Penalty becomes Disadvantage instead of -2.
+
+**Special Interactions:** As a Reactor action against an incoming Strike, roll 2d6 + Wits + Arcana — win, take no Impact; lose, take full Impact.
+
+### Disguise
+Magical energy warps the caster's features and voice to match another.
+
+- **Level:** Adept
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8. Anyone suspicious rolls Wits + Notice vs. the caster's Margin to see through it.
+- **Target/Range:** Self
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The disguise holds; caster takes 1 Dissonant Stress from maintaining the false face under scrutiny.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): The veil extends to up to three allies within Short Range.
+
+### Invisibility
+The target fades from view, replaced by the colors and textures of whatever lies behind them.
+
+- **Level:** Adept
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation
+- **Duration:** Scene, or until broken
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): Target is invisible; attackers suffer Disadvantage targeting them, and they gain Advantage on Stealth. The spell drops the instant they attack or cast a spell. Caster takes 1 Dissonant Stress from the unraveling effort.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): The target remains invisible even after attacking — attacking only reveals their general position, removing Disadvantage from attackers for 1 round rather than dropping the spell outright.
 ### 1. Creeping Dusk (Environmental Control)
 
 The sorcerer exhales a cloud of unnatural, pitch-black soot that instantly smothers ambient light and chokes the room in magical darkness.
@@ -456,20 +531,26 @@ The caster dissolves into a nearby shadow, losing physical cohesion, and instant
 - Margin 5+ (Exceptional): The caster steps out of the shadow in perfect ambush position. They instantly generate 1 Momentum, or they gain Advantage on their next Strike roll against an adjacent enemy.
 
 ## Shamanism
+### Beast Friend
+The caster's spirit resonates with the natural world, commanding the loyalty of beasts.
+
+- **Level:** Novice
+- **Resolution:** Arcane Clash, Wits + Arcana vs. the beast's Will + Resolve
+- **Target/Range:** One animal, Short Range
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: The beast becomes an ally for the scene.
+- Margin 3+ (Clean): As above, and the caster can communicate telepathically with it and see through its eyes for the scene.
 ### 1. Fulminating Strike (Combat / Anti-Armor)
 
 The Shaman draws ambient static from the air, concentrating it into a deafening, blinding arc of jagged lightning that seeks out grounded metal.
 
 - Resolution: Arcane Clash (Wits + Arcana vs. Target's Dodge or Brace).
-    
-- The Effect: This spell is the ultimate counter to heavy Elites and Constructs. If the target is wielding a metal shield or possesses the Ablative Armor or Construct tag, the Shaman automatically gains Advantage on the Clash roll.
-    
+- **Spell Power: 2**
 - The Margin Scaler (Based on Clash Margin):
-    
-
-- Margin 1–2: Deals 2 Impact. The sheer voltage causes the target to drop their weapon or shield; they must spend a Free Action on their next turn picking it up.
-    
-- Margin 3+ (Clean): Deals 3 Impact, and the electrical surge cooks the target inside their armor. The target instantly suffers 1 Dissonant Stress in addition to the physical Wound damage.
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). The sheer voltage causes the target to drop their weapon or shield; they must spend a Free Action on their next turn picking it up.
+  - Margin 3+ (Clean): As above, and the electrical surge cooks the target inside their armor — they instantly suffer 1 Dissonant Stress in addition to the physical Wound damage.
     
 
 ### 2. Blood-Wood Totem (Environmental / Aura)
@@ -524,20 +605,61 @@ The caster sweeps their arms outward, creating a localized, concussive blast of 
 - Margin 3+ (Clean): The enemy is shoved 10 feet backward, slammed to the ground (gaining the Prone condition), and suffers 1 Dissonant Stress from the concussive force.
 
 ## Alchemy and Transmutation
+### Boost/Lower Trait
+The caster reaches into a body's fundamental rhythm, quickening it or grinding it to a crawl.
+
+- **Level:** Novice
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Will + Resolve (if unwilling) — unopposed vs. TN 8 if willing
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor (unwilling) or Activation (willing)
+- **Duration:** Sustain — Lock 1 Stress to maintain
+
+**The Margin Scaler:**
+- Margin 1–2 / 0–2 (Messy): Target gains a +1 (Boost) or -1 (Lower) modifier to one chosen Attribute.
+- Margin 3+ / 3–4 (Clean): As above, with no complication.
+- Margin 5+ (Exceptional, unopposed only): Magnitude increases to +/-2.
+
+**Special Interactions:** A character can only have one Boost or Lower effect active at a time; a second casting replaces the first.
+
+### Growth/Shrink
+The target's physical dimensions warp, swelling to monstrous proportions or collapsing into a diminutive one.
+
+- **Level:** Adept
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Will + Resolve (if unwilling) — unopposed vs. TN 8 if willing
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor or Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 1–2 / 0–2 (Messy): Target's Scale shifts by 1 step (per the existing Scale rules — Growth: +2 WT, Advantage on Prowess shoving/grappling, Disadvantage on Stealth; Shrink: -1 WT, Advantage on Stealth, Disadvantage on Prowess).
+- Margin 3+ / 3–4 (Clean): As above, no complication.
+- Margin 5+ (Exceptional, unopposed only): The shift is extreme — Scale +/-2 instead of 1.
+
+### Burrow
+The caster or a chosen ally melts into the earth, moving through soil and stone like water.
+
+- **Level:** Novice
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): Target gains Earth Glide (move through earth at normal Move) and Total Cover from surface attacks while burrowed, but cannot see the surface; the working leaves them disoriented for 1 Dissonant Stress.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): Emerging to attack grants Advantage on the first Strike roll of that turn.
+
 ### 1. Caustic Deluge (Combat / Gear Degradation)
 
 The caster’s hands violently sweat a highly reactive, boiling solvent, which they hurl in a concentrated arc that eagerly eats through manufactured materials.
 
 - Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
-    
-- The Effect: This spell is designed to permanently ruin an enemy's math. It ignores the target's Shield Value (SV) entirely during the Clash, as the acid simply splashes over and eats through the barrier.
-    
+- **Spell Power: 1**
+- The Effect: This spell ignores the target's Shield Value (SV) entirely during the Clash, as the acid simply splashes over and eats through the barrier.
 - The Margin Scaler (Based on Clash Margin):
-    
+  - Margin 1–2: Impact = Margin + 1 (Spell Power). If the target used a shield to Block, the shield permanently loses 1 SV for the rest of the campaign (or until repaired via Downtime).
+  - Margin 3+ (Clean): As above, and the target's armor immediately gains the Damaged tag, permanently disabling special tags like Ablative Carapace or Construct plating.
 
-- Margin 1–2: Deals 1 Impact. If the target used a shield to Block, the shield permanently loses 1 SV for the rest of the campaign (or until repaired via Downtime).
-    
-- Margin 3+ (Clean): Deals 2 Impact. The acid finds the joints of the target's armor. The target’s armor immediately gains the Damaged tag, permanently disabling special tags like Ablative Carapace or Construct plating.
     
 
 ### 2. Mutagenic Surge (Utility / Flesh-Warping Buff)
@@ -592,21 +714,27 @@ The caster places their palm against a solid surface—stone, wood, or bone—an
 - Margin 5+ (Exceptional): The caster controls the tension of the glass. When it shatters, it leaves behind a floor of razor-sharp caltrops, turning that 10x10 zone into a hazard that deals 1 Impact to any enemy that moves through it.
 
 ## Demonology and Void Magic
+### Fear
+The caster whispers a truth from the outer dark, projecting pure existential dread.
+
+- **Level:** Novice
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Will + Resolve
+- **Target/Range:** One character or 10ft area, Short Range
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Target suffers 2 Dissonant Stress and must spend their next Activation moving away from the caster at maximum speed.
+- Margin 3+ (Clean): As above, and if it's a Fodder-tier enemy, they immediately Rout (per the NPC Stress rules) rather than just fleeing.
 ### 1. Flay the Veil (Combat / Unmitigated Annihilation)
 
 The caster rips a jagged, temporary tear in the air itself, exposing the target to the crushing pressure and absolute zero of the void outside reality.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Dodge action).
-    
+-Resolution: Arcane Clash (Wits + Arcana vs. Target's Dodge action).
+- **Spell Power: 3**
 - The Effect: This spell completely ignores all physical armor, Shield Values, and Bestiary tags. It is pure, unmitigated erasure. However, if the caster loses the Clash via a target's Dodge, the tear violently snaps shut, and the GM immediately gains 1 Threat point.
-    
 - The Margin Scaler (Based on Clash Margin):
-    
-
-- Margin 1–2: Deals 2 Impact. The target is chilled to the bone, suffering Disadvantage on their next physical Strike roll.
-    
-- Margin 3+ (Clean): Deals 3 Impact, and the target loses a piece of their physical form to the void. If it is an Elite or Boss, they permanently lose one of their Rule-Breaking Tags (e.g., Pack Tactics or Ablative Armor) as it is sucked into the tear.
-    
+  - Margin 1–2: Impact = Margin + 3 (Spell Power). The target is chilled to the bone, suffering Disadvantage on their next physical Strike roll.
+  - Margin 3+ (Clean): As above, and the target loses a piece of their physical form to the void. If it is an Elite or Boss, they permanently lose one of their Rule-Breaking Tags (e.g., Pack Tactics or Ablative Armor) as it is sucked into the tear.
 
 ### 2. Zone of Apathy (Environmental / Meta-Disruption)
 
@@ -648,18 +776,25 @@ The caster offers their own physical substance to the entities in the void in ex
 
 The caster violently twists the spatial dimensions around an enemy, causing distances to become infinitely long or impossibly short.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's wits + Resolve).
-    
-- The Effect: You target one Elite or Boss. If you win the Clash, you don't deal Impact. Instead, you lock them in a spatial paradox.
-    
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Wits + Resolve).
+- **Spell Power: 2**
+- The Effect: You target one Elite or Boss. If you win the Clash, you lock them in a spatial paradox.
 - The Margin Scaler (Based on Clash Margin):
-    
-
-- Margin 1–2: The target is Anchored (0 movement). Furthermore, any melee attack they attempt against an adjacent player automatically suffers a -2 penalty, as their weapon swings through warped space.
-    
-- Margin 3+ (Clean): The target is trapped. If they attempt to move or use an Aggressor action, they instantly suffer 2 Impact as the twisted geometry physically tears their muscles. They must spend their entire turn doing nothing (taking the Regroup action) just to let the space stabilize.
+  - Margin 1–2: The target is Anchored (0 movement). Any melee attack they attempt against an adjacent player automatically suffers a -2 penalty, as their weapon swings through warped space.
+  - Margin 3+ (Clean): The target is trapped. If they attempt to move or use an Aggressor action, they instantly suffer Impact equal to the original casting Margin + 2 (Spell Power) as the twisted geometry physically tears their muscles, and must spend their entire turn taking the Regroup action just to let the space stabilize.
 
 ## Witch Magic and Hedge Craft
+### Confusion
+Whispers of madness scramble the target's thoughts.
+
+- **Level:** Novice
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Will + Resolve
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Target suffers Disadvantage on their next Activation Order roll.
+- Margin 3+ (Clean): As above, and the target also suffers 1 Dissonant Stress as the curse roots.
 ### 1. The Evil Eye (Combat / Debuff)
 
 The Witch locks eyes with the target and whispers a localized, highly specific curse, snapping a small chicken bone or twig to seal the hex.
@@ -728,6 +863,19 @@ The Witch blows a handful of pale, grave-dust spores into the face of a target, 
 - Margin 3+ (Clean): The sickness is overwhelming. The target must forfeit their entire next turn, violently retching and coughing black bile. They automatically take the Regroup action, doing nothing else. If it is an Elite or Boss, the GM is denied the ability to spend Threat on this creature until it recovers.
 
 ## Astromancy
+### Fly
+Gravity loses its grip as the target begins to drift, then soar. The escalation of Weightless Step's gravity-defiance.
+
+- **Level:** Master
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): Target gains a Flying Move equal to their land Move and can hover; the working leaves them nauseated for 1 Dissonant Stress.
+- Margin 3–4 (Clean): As above, no cost. While airborne, they also gain Advantage on Reflex checks to dodge ground-based or non-flying melee attacks.
+- Margin 5+ (Exceptional): Flying Move doubles for the scene.
 ### 1. Crushing Singularity (Environmental / Gravity Control)
 
 The caster compresses a sphere of localized space into a marble-sized singularity, generating a crushing gravitational pull that distorts the battlefield.
@@ -750,16 +898,12 @@ The caster compresses a sphere of localized space into a marble-sized singularit
 
 The Astromancer calls down a pinpoint, blinding shaft of condensed starlight that strikes from the atmosphere directly onto the target’s skull.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
-    
+-Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
+- **Spell Power: 2**
 - The Effect: Because the attack comes from directly above at orbital velocity, traditional horizontal defenses are useless. The target completely loses the ability to use the Parry action against this Strike. They must rely on a heavy shield (Block) or attempt to Dodge.
-    
 - The Margin Scaler (Based on Clash Margin):
-    
-
-- Margin 1–2: Deals 2 Impact. The flash is blinding, stripping the target of their peripheral vision and denying them the flanking Bonus or Pack Tactics on their next turn.
-    
-- Margin 3+ (Clean): Deals 3 Impact. The sheer kinetic force of the downward strike instantly knocks the target Prone, forcing them to waste movement and momentum to stand back up.
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). The flash is blinding, stripping the target of their peripheral vision and denying them the flanking Bonus or Pack Tactics on their next turn.
+  - Margin 3+ (Clean): As above, and the sheer kinetic force instantly knocks the target Prone.
     
 
 ### 3. Tidal Lock (Crowd Control / Relational Geometry)
@@ -801,15 +945,11 @@ The Astromancer temporarily severs an ally’s connection to gravity, completely
 The caster exhales a concentrated, blinding beam of white-hot plasma that superheats the air and violently expands upon impact.
 
 - Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
-    
+- **Spell Power: 3**
 - The Effect: You cannot cross blades with a blowtorch. The target completely loses the ability to use the Parry action against this Strike. They must rely on a thick shield (Block) or attempt to Dodge.
-    
 - The Margin Scaler (Based on Clash Margin):
-    
-
-- Margin 1–2: Deals a massive 3 Impact. The raw heat causes the target to panic, forcing them to drop any wooden weapon or shield they are holding.
-    
-- Margin 3+ (Clean): Deals 4 Impact. The target is engulfed. In addition to the damage, they are Ablaze. Until they waste a full Aggressor action to put themselves out (taking the Regroup action), they suffer 1 Impact at the start of every turn.
+  - Margin 1–2: Impact = Margin + 3 (Spell Power). The raw heat causes the target to panic, forcing them to drop any wooden weapon or shield they are holding.
+  - Margin 3+ (Clean): As above, and the target is Ablaze — until they waste a full Aggressor action to put themselves out (the Regroup action), they suffer 1 Impact at the start of every turn.
     
 
 ### 2. Wildfire Proliferation (Environmental / Escalation)
@@ -817,17 +957,12 @@ The caster exhales a concentrated, blinding beam of white-hot plasma that superh
 The caster hurls a fistful of white-hot embers that aggressively seek out oxygen and combustible material, turning the environment into a hazard.
 
 - Resolution: Unopposed Wits + Arcana vs. TN 8.
-    
-- The Effect: Creates a 10x10 foot zone of raging fire. Any creature (friend or foe) starting their turn in the fire or moving through it automatically suffers 2 Impact. The zone destroys any wooden cover or mundane foliage.
-    
+- **Spell Power: 1**
+- The Effect: Creates a 10x10 foot zone of raging fire. The casting Margin is fixed at the moment of casting. Any creature (friend or foe) starting their turn in the fire or moving through it automatically suffers Impact equal to that fixed Margin + Spell Power, for as long as the zone persists. The zone destroys any wooden cover or mundane foliage.
 - The Margin Scaler:
-    
-
-- Margin 0–2 (Messy): The fire is dangerously hungry. The zone forms, but the backdraft instantly singes the caster, dealing 1 Impact to them and destroying one mundane, non-magical item in their inventory (like a rope or torch).
-    
-- Margin 3–4 (Clean): The fire zone is perfectly contained to the 10x10 area.
-    
-- Margin 5+ (Exceptional): The fire takes on a predatory life of its own. At the start of the next combat round, the GM must expand the fire zone by 5 feet in every direction, rapidly consuming the battlefield and trapping enemies.
+  - Margin 0–2 (Messy): The fire is dangerously hungry. The zone forms, but the backdraft instantly singes the caster, dealing 1 Impact to them and destroying one mundane, non-magical item in their inventory (like a rope or torch).
+  - Margin 3–4 (Clean): The fire zone is perfectly contained to the 10x10 area.
+  - Margin 5+ (Exceptional): At the start of the next combat round, the GM must expand the fire zone by 5 feet in every direction.
     
 
 ### 3. Cauterize (Utility / Brutal Triage)
@@ -852,16 +987,12 @@ The Pyromancer presses a glowing, superheated hand directly against an ally’s 
 
 The caster hyper-pressurizes the air directly around their own body, before releasing it in a deafening, spherical concussive blast.
 
-- Resolution: Arcane Clash (Wits + Arcana vs. Targets' Defense action ). Note: This targets every enemy currently engaged in the caster's Threat Zone.
-    
+- Resolution: Arcane Clash (Wits + Arcana vs. Targets' Defense action). Note: This targets every enemy currently engaged in the caster's Threat Zone.
+- **Spell Power: 1**
 - The Effect: This is the Pyromancer's panic button when swarmed. The caster rolls once, and every enemy within 5 feet must roll to defend.
-    
 - The Margin Scaler (Based on Clash Margin):
-    
-
-- Margin 1–2: Deals 1 Impact. The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Flanking Bonus.
-    
-- Margin 3+ (Clean): Deals 2 Impact. The enemy is thrown 10 feet backward, knocked Prone, and suffers 1 Dissonant Stress from the ruptured eardrums and concussive shockwave.
+  - Margin 1–2: Impact = Margin + 1 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus.
+  - Margin 3+ (Clean): As above, and the enemy is thrown 10 feet backward, knocked Prone, and suffers 1 Dissonant Stress from the ruptured eardrums.
 
 
 # The Word on Domains;
@@ -909,3 +1040,52 @@ Faith domains represent direct divine intervention powered by rigid devotion. Th
 - **The Lore:** Thalass was not a person, but an apocalyptic rogue wave that destroyed an entire fleet of the old king's armada. The Tidespoken revere this natural disaster as the ultimate proof that the ocean is the true sovereign of the world, and they seek to align themselves with its crushing power.
 - **Flavor/Trappings:** Sea-shell tokens, salt-crusted oilskins. Prayers manifest as the crash of distant rogue waves and heavy brine smells.
 - **Domain Tag (Tidal Undertow):** Affect enemy with prayer -> Target is physically shoved 1 Zone in a direction of your choosing.
+
+# Faith Spells
+## Common Miracles
+### Healing / Stabilize (Common Miracle)
+A litany murmured over torn flesh, asking permission to undo what was done. Available to every Priest regardless of Domain — this is the spell several Domain Tags already assumed existed.
+
+- **Level:** Novice Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Cost:** 2 Locked Stress
+- **Target/Range:** Touch
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: Clears 1 Wound Slot. If the target is Incapacitated, also Stabilizes them and prevents further death checks.
+- Fail: As Pass — the Miracle still occurs — and the GM gains 1 Threat.
+- Snake Eyes: The Wound clears, but convert this Miracle's Locked Stress cost into an equal number of direct Wounds on the Priest, per the Toll in Flesh rule.
+
+**Special Interactions:** A character cannot benefit from a second Healing-type Miracle in the same Scene. (This should be added to Iron Core's Golden Rules directly, rather than re-stated on every healing effect that comes along later.)
+
+## The Domain of Law
+### Banish (Domain of Law — exclusive)
+The caster marks an extra-planar entity with a sigil of rejection, forcing it back to its native realm. Locked to the Domain of Law — it's the mechanical teeth behind Smite Corruption's anti-Undead/Daemon/Mutant theme.
+
+- **Level:** Master Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8, opposed by the target's Will + Resolve
+- **Cost:** 3 Locked Stress
+- **Target/Range:** One supernatural entity, Short Range
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: If the Priest also wins the opposed roll, the target is stunned and suffers 3 Stress. If this exceeds the target's Stress Limit, it is immediately banished (Incapacitated). If the Priest loses the opposed roll, the Miracle still occurs but produces no effect beyond a flash of light — the entity resists.
+- Fail: As Pass, and the GM gains 1 Threat.
+- Snake Eyes: Convert the Locked Stress cost into direct Wounds on the Priest, per the Toll in Flesh rule, regardless of whether the banishment succeeded.
+
+## The Domain of Mercy & Healing
+he most profound and taxing of all Miracles — reaching into the void to pull a soul back to its broken vessel. Locked to the Domain of Mercy & Healing: only a Domain built on absorbing someone else's agony as your own (per Pure Martyrdom) earns a cost this absolute.
+
+- **Level:** Master Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8 (requires a full hour of ritual; target must have died within 24 hours)
+- **Cost:** 8 Locked Stress
+- **Target/Range:** Touch
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+- Pass: The target returns to life with 3 Wounds and maximum Stress. The Priest pays the Locked Stress cost — this will almost certainly exceed their Stress Limit, converting the excess into Wounds per the Death Spiral rule. This Miracle is built to cost the caster something severe, not "likely" to — say so plainly to the table before they commit.
+- Fail: As Pass, and the GM gains 1 Threat.
+- Snake Eyes: Convert the entire Locked Stress cost into direct Wounds, per the Toll in Flesh rule — at 8 points, this is unsurvivable for a Priest who isn't already braced for it.
+
+**Special Interactions:** Soul Scar — the resurrected character permanently loses 1 point of Will as the price of their return.
