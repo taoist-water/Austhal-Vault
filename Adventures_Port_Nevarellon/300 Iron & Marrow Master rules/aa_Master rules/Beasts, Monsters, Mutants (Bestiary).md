@@ -10,7 +10,158 @@ Design Philosophy: Keep stat blocks microscopic. Let traits dictate tactical beh
 - Bosses: 2–4 Traits. Break from the microscopic design philosophy, having more detail capture and define their narrative vibe.
 
 ________________________________________________________________________
+# Traits
+## DEFENSIVE & PHYSIOLOGICAL TRAITS
+### Resilient
+
+- This creature's physical resilience acts as a natural buffer against injury.
+    
+- Increase the creature’s Stress Limit by +2. Additionally, can spend Threat to Mitigate damage, it reduces the incoming Impact by 2 per point spent, limited by the vessel limit.
+    
+- Dev Note: Put this on frontline brutes, or undead to make players burning through their health pool feel the attrition.
+    
+
+### Plated 
+
+- Thick hide, rusted iron carapace, or heavy plate scales shield vital locations.
+    
+- Reduces all incoming standard Impact damage by a flat -1. 
+    
+
+###  Skittering 
+
+- Unnatural speed, shifting limbs, or erratic reflexes make them slippery targets.
+    
+- This Creature may move out of Threat zone without  requiring a test, or causing a free strike.
+    
+
+---
+
+## OFFENSIVE & MARTIAL TRAITS
+
+### Brute 
+
+- Heavy, sweeping strikes designed to shatter shields and break bones.
+    
+- When this creature wins a Clash as the Aggressor, it inflicts +1 Impact and forces the target back 1 square/5ft. If the target hits a wall or solid obstacle, they immediately take 1 Dissonant Stress from the concussive force.
+    
+
+### Vicious 
+
+- Jagged fangs, rusted serrated daggers, or disease-ridden claws that leave lingering wounds.
+    
+- If this creature inflicts damage on a player character, the target must immediately make a Prowess check (A check using only their Prowess attribute). If they fail they gain the Bleeding condition. 
+    
+
+### Swarm 
+
+- Small, overwhelming numbers of vermin or gibbering minor cultists attacking as one mind.
+    
+- (Fodder Only). These units do not occupy unique tactical slots. When multiple units with the Swarm trait engage the same PC, they pool their power. The primary attacker receives a flat +1 to their Clash roll for every additional Swarm unit adjacent to the target.
+    
+
+---
+
+##  TACTICAL & PSYCHOLOGICAL TRAITS
+
+### Terrifying 
+
+- A harrowing presence—whether an eldritch abomination or a faceless, silent headsman—that cracks the human mind.
+    
+- When a PC draws into an engagement with this creature or it activates within line of sight, the PC must immediately roll a Will + Resolve check against TN 8.
+    
+
+- Failure: The PC immediately gains the *Terrified* condition.
+    
+
+### Cunning Leader 
+
+- A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision.
+    
+- At the beginning of the Round, this creature can pass its own Postion in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
+    
+
+### Unstable Volatility 
+
+- A creature bloated with volatile arcane radiation, alchemical compounds, or demonic instability.
+    
+- If this creature is struck by a Fates Bounty(meaning the attack roll against it was a Fates bounty), or if it rolls Snake Eyes (fumbles) on its own action, its containment ruptures. All characters (allies and enemies alike) within a 10ft radius must defend against an immediate burst of raw energy, taking 2 points of Locked Stress (if magical) or Dissonant Stress (if alchemical/fire).
+    
+___________________________________________________________________
+# Example enemies
+
+#### The Goblin Scrapper (FODDER)
+
+Fodder enemies die in one hit and flee easily. They rely on numbers.
+
+- Wound Threshold: 5 (Base 4 + 0 Prowess + 1 Leather)
+    
+- Wounds: 1 (Any hit that beats their threshold kills them)
+    
+- Stress Limit: 0 (They don't use Stress; if a mechanic forces them to take Stress, they break and run)
+    
+- Primary Attack (Rusty Shiv): 2d6 + 0.
+    
+- Special: Pack Tactics: Gains a +1 to hit if another goblin is engaging the same target.
+    
+
+#### 2. The Orc Raider (GRUNT)
+
+Standard, dangerous frontline combatants.
+
+- Wound Threshold: 7 (Base 4 + 2 Prowess + 1 Thick Hide)
+    
+- Wounds: 2
+    
+- Stress Limit: 2
+    
+- Primary Attack (Greataxe): 2d6 + 3 (Rolling Prowess +2 and Melee +1)
+    
+- Maneuvers: Has access to Power Attack (-2 hit, +2 Impact).
+    
+
+#### 3. The Bandit Captain (ELITE)
+
+A serious threat that requires party synergy to defeat.
+
+- Wound Threshold: 9 (Base 4 + 2 Prowess + 3 Breastplate)
+    
+- Wounds: 3
+    
+- Stress Limit: 4
+    
+- Primary Attack (Masterwork Halberd): 2d6 + 5 (Rolling Prowess +2, Melee +2, Masterwork +1)
+    
+- Maneuvers: Has access to Precise Strike (bypasses Armor) and Battlefield Orator (Influence skill to rally Grunts).
+    
+
   
+
+---
+
+### EXAMPLE STAT BLOCK: The Frost-Cave Troll (Elite / Tier 3)
+
+Let's see how this looks in a clean, GM-friendly stat block:
+
+THE FROST-CAVE TROLL
+
+- Tier: Elite
+    
+- Stats: Prowess 3, Reflex 1, Wits -1, Will 1. (Melee 2, Athletics 2).
+    
+- Derived: Wound Threshold: 10 (4 + 3 Prowess + 3 Thick Hide). Stress Limit: 2 (Low intelligence).
+    
+- Weapons: * Uprooted Tree Trunk (2H): Power 3, Reach, Brutal.
+    
+
+- Claws (1H): Power 1.
+    
+
+- Tags: * Regeneration (Fire deactivates). * Massive.
+    
+- Momentum: Starts with 2.
+    
+- Tactics: The Troll has high Prowess but terrible Wits. Players should avoid trying to beat its Wound Threshold of 10 with physical attacks. Instead, mages should hit it with Fire to stop the Regeneration, and rogues should use tricks/feints to hit its low Stress Limit, turning its attacks into fumbles.
 
 Here are two horrifying entities built directly into the bounded math, Threat economy, and universal conditions of Iron & Marrow.
 

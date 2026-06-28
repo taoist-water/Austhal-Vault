@@ -78,7 +78,7 @@
 
 ---
 
-### 🛠️ Developer Application: How to build a "Gutter Beast" (Elite Skirmisher)
+### Developer Application: How to build a "Gutter Beast" (Elite Skirmisher)
 
 To see how easily this deploys, let’s combine a baseline Tier 2 Elite template with this manifest:
 
