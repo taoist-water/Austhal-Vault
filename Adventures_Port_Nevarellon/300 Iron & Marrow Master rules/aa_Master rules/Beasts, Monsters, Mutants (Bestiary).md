@@ -3,11 +3,11 @@ Design Philosophy: Keep stat blocks microscopic. Let traits dictate tactical beh
 (dev note) I am going to have to a deeper re-think of the Bestiary mechanics, I realise the examples I have are/may be causing some tensions with the design philosophy of enemies.(/dev note)
 ####  Core Integration Rules
 
-- Fodder: Max 1 Trait. Fodder cannot spend Threat unless led by a leader or a trait allows them too.
+- Fodder: Max 1 Trait. Fodder cannot spend Threat unless led by a leader or a trait allows them too. Typical modifiers to one attribute +1, +2.
+- Grunts: 1-2 Traits. Typical modifiers to 2 attribute and skill+1, +2. vessel limit 1. 1 threat ability.
+- Elites: 1–2 Traits. Typical modifiers to 2 attribute and skills +1, +2, +3. vessel limit 2 - 3. 1 - 2 Threat abilities.
     
-- Elites: 1–2 Traits.
-    
-- Bosses: 2–4 Traits. Break from the microscopic design philosophy, having more detail capture and define their narrative vibe.
+- Bosses: 2–4 Traits. Break from the microscopic design philosophy, having more detail capture and define their narrative vibe. Built almost like a player character. Vessel limit 3+. 2 + Threat abilities, usually has a contextual lair threat ability.
 
 ________________________________________________________________________
 # Traits
@@ -78,7 +78,7 @@ ________________________________________________________________________
 
 - A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision.
     
-- At the beginning of the Round, this creature can pass its own Postion in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
+- At the beginning of the Round, this creature can pass its own postion in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
     
 
 ### Unstable Volatility 
@@ -102,7 +102,7 @@ Fodder enemies die in one hit and flee easily. They rely on numbers.
     
 - Primary Attack (Rusty Shiv): 2d6 + 0.
     
-- Special: Pack Tactics: Gains a +1 to hit if another goblin is engaging the same target.
+- Trait: Swarm: The primary attacker receives a flat +1 to their Clash roll for every additional Swarm unit adjacent to the target.
     
 
 #### 2. The Orc Raider (GRUNT)
@@ -110,14 +110,15 @@ Fodder enemies die in one hit and flee easily. They rely on numbers.
 Standard, dangerous frontline combatants.
 
 - Wound Threshold: 7 (Base 4 + 2 Prowess + 1 Thick Hide)
-    
+    Prowess +2, Melee +1.
 - Wounds: 2
     
 - Stress Limit: 2
     
-- Primary Attack (Greataxe): 2d6 + 3 (Rolling Prowess +2 and Melee +1)
+- Primary Attack (Greataxe(power 3)): 2d6 + 3 (Rolling Prowess +2 and Melee +1)
     
-- Maneuvers: Has access to Power Attack (-2 hit, +2 Impact).
+- traits: resilient.
+- Vessel: 1
     
 
 #### 3. The Bandit Captain (ELITE)
@@ -125,23 +126,24 @@ Standard, dangerous frontline combatants.
 A serious threat that requires party synergy to defeat.
 
 - Wound Threshold: 9 (Base 4 + 2 Prowess + 3 Breastplate)
-    
+    - Prowess +2, Melee +2, reflex +1.
 - Wounds: 3
     
 - Stress Limit: 4
     
-- Primary Attack (Masterwork Halberd): 2d6 + 5 (Rolling Prowess +2, Melee +2, Masterwork +1)
+- Primary Attack (Masterwork Halberd(power 3) reach, cumbersome): 2d6 + 5 (Rolling Prowess +2, Melee +2, Masterwork +1)
     
-- Maneuvers: Has access to Precise Strike (bypasses Armor) and Battlefield Orator (Influence skill to rally Grunts).
-    
+- Traits: Cunning Leader, Brute.
 
+- Vessel: 2
+- Threat Ability — Cost 1 Threat: Call for Reinforcements.  
+Trigger: Declared on the Captains activation.  
+Effect: The Captaion shouts for backup. One additional Fodder (bandit) arrives at the edge of the battlefield next round, or — if reinforcements aren't narratively available — all currently engaged Fodder (Bandit) immediately gain the benefit of the Swarm Bonus as if one more ally were present (representing the Captain directing the formation).
   
 
 ---
 
 ### EXAMPLE STAT BLOCK: The Frost-Cave Troll (Elite / Tier 3)
-
-Let's see how this looks in a clean, GM-friendly stat block:
 
 THE FROST-CAVE TROLL
 
@@ -154,15 +156,19 @@ THE FROST-CAVE TROLL
 - Weapons: * Uprooted Tree Trunk (2H): Power 3, Reach, Brutal.
     
 
-- Claws (1H): Power 1.
+- Claws (1H): Power 1, Vicious.
     
 
 - Tags: * Regeneration (Fire deactivates). * Massive.
     
-- Momentum: Starts with 2.
+- Threat: GM starts with 2.
+- Vessel: 2
+- Cost 2 Threat: Sweeping Uproot.
     
-- Tactics: The Troll has high Prowess but terrible Wits. Players should avoid trying to beat its Wound Threshold of 10 with physical attacks. Instead, mages should hit it with Fire to stop the Regeneration, and rogues should use tricks/feints to hit its low Stress Limit, turning its attacks into fumbles.
-
+- Trigger: Declared before an Aggressor Strike.
+    
+- The Effect: The Troll drags its massive club through the earth. This Strike gains the Cleave tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
+___________________________________________________________________
 Here are two horrifying entities built directly into the bounded math, Threat economy, and universal conditions of Iron & Marrow.
 
 ### The Rotting Fen-Goliath (Tier 2 Elite)
