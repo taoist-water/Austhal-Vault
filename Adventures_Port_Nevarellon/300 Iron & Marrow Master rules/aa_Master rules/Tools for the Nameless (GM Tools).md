@@ -11,7 +11,18 @@ Outside of combat, such as exploring the world or socially engaging actions are 
 Activation order and rolls to determine it are mainly used to provide order to the chaos of combat.  This ensures the resolution can handled in an organised fashion.
 When an action that requires some dice rolling it is usually against a [[TN]], the result determines the outcome of the action.  Sometimes these actions will be Opposed by an opponent, meaning dice are rolled, appropriate modifiers are added and compared to the roll of the opponent.  Whoever rolls highest wins.  Depending on the action taken could also determine how well or how poorly a character has performed in this opposed roll.
 ___________________________________________________________________
+**Setting Difficulty: The Static TN and Situational Modifiers** In _Iron and Marrow_, the Target Number for unopposed checks is **always 8**. Do not change this number. A static TN reduces cognitive load for players—they always know exactly what they need to roll.
 
+Instead of raising the TN for a difficult task, the GM applies a **Situational Modifier** to the player's total roll. This preserves the Margin Scaler math while reflecting the harsh reality of the world:
+
+- **Standard (+0):** The default state of the world. Picking a standard lock, leaping a small gap, translating common runes.
+    
+- **Advantageous (+2):** The player has superior tools, abundant time, or significant environmental help.
+    
+- **Difficult (-2):** The task is inherently complex, rushed, or opposed by the environment. Picking a Masterwork lock, climbing a sheer wall in the rain.
+    
+- **Extreme (-4):** The task borders on the impossible. Performing surgery mid-combat, deciphering a Dread entity's true name from a shattered tablet.
+___________________________________________________________________
 # Economic Baselines
 
 - Currency Standard: The primary day-to-day trade currency is the Silver Piece (sp). Copper Pennies (cp) are used by peasants (10 cp = 1 sp). Gold Sovereigns (gs) are held only by nobility and wealthy cartels (1 gs = 20 sp).

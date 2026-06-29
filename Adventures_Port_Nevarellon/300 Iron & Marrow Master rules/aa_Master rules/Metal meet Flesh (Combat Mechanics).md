@@ -41,12 +41,12 @@ Impact: (Winner Roll - Loser Roll) + Weapon Power.
 
 During a Characters activation it may move up to its base movement value [MV] and take an Action. A Character can take an Action at any time during their movement. If a Character wishes to move up to double  their movement value, they will sacrifice their Action for that activation.  
 
-Free Actions:
+**Free Actions:**
 - at any time during their activation a Character may take a Free Action in addition to their Action. Free actions are drinking a potion, pulling a lever, passing an item to a nearby ally, etc. actions that are quick and require little to no effort.
 - Cannot be taken whilst engaged in an enemy threat zone.
     
 
-### Aggressor Actions:
+**Aggressor Actions:**
 
 - Strike: 2D6 + Prowess + Melee. The standard attack. 
 - Power Strike: 2D6 + Prowess + Melee + weapon power. Apply the weapon power to the strike roll, instead of the impact calculation. however, it reduces your Wounds threshold by 2 until the beginning of your next activation.
@@ -60,7 +60,7 @@ Free Actions:
 - Cast Spell: See spell description.
     
 
-### Reactor Actions:
+**Reactor Actions:**
 
 *When targeted by a ranged attack outside of movement distance and without a ranged weapon, the target of an activation is automatically the Reactor.*
 
@@ -76,7 +76,7 @@ Free Actions:
     
 - Cast Spell: See spell description.
     
-### Activation Actions:
+**Activation Actions:**
 
 - Disengage: If all you do is move for your activation you can leave an enemy threat zone without provoking a free strike. 
 	- otherwise: a Dodge roll V opponent Strike Action.
@@ -86,7 +86,7 @@ Free Actions:
     
 - Charge: ** only if within move distance. Gain +2  to the The Clash roll and breaks ties(the equivalent of winning by 1).  suffer a -2 to reactor actions until next activation.
     
-- (dev note) Grounding: An Arcanist can attempt to vent the magical heat in their mind. Roll Wits + Arcana (TN 8). Success: Unlock [Wits] amount of Stress (Min 1). Massive Success (12+): Clear all Locked Stress. Fumble: The energy 'leaks'—all Locked Stress becomes Dissonant. (/dev note)
+- (dev note) Grounding: An Arcanist can attempt to vent the magical heat in their mind. Roll Wits + Arcana (TN 8). Success: Unlock [Wits] amount of Stress (Min 1). Massive Success (5+): Clear all Locked Stress. Fumble: The energy 'leaks'—all Locked Stress becomes Dissonant. (/dev note)
     
 - Skill based Actions: based on skill
     
@@ -100,6 +100,13 @@ Taking the **Regroup** action consumes a player's entire turn. They cannot decla
     
 - **Clear a Severe Condition:** Spending the precious seconds required to pat out the flames of the **Ablaze** condition, untangle themselves from a dropped net, or blindly wash acid from their visor.
 
+- The Reprieve (Faith Caster Action): An Arcanist vents magical heat; a Priest lays a burden down for a moment, mid-battle, and asks whatever's listening to ease up.
+
+Roll **Will + Faith vs. TN 8**.
+
+- **Success:** Unlock [Will] Locked Stress (minimum 1).
+- **Massive Success (12+):** Clear all Locked Stress.
+- **Fumble (Snake Eyes):** The weight doesn't lift — it curdles. All Locked Stress becomes Dissonant, **and the GM gains 1 Threat** (the thing you've been borrowing from notices you reaching for relief without paying first).
 
 
 ### The Twin-Blade Stance (Two weapon fighting)
@@ -176,6 +183,6 @@ ________________________________________________________________________
 | ----------- | ------------------------- | -------------------------------------------------------------------------------------------- |
 | Point-Blank | 5 ft (1 Square)           | InThreat range. Disadvantage on ranged attacks (unless using a weapon with the Sidearm tag). |
 | Short       | 10 ft – 30 ft (2-6 Sq)    | Standard operating range. No penalties. (A typical move action distance).                    |
-| Medium      | 35 ft – 60 ft (7-12 Sq)   | -1 penalty to the Clash roll.                                                                |
-| Long        | 65 ft – 120 ft (13-24 Sq) | -2 penalty to the Clash roll.                                                                |
+| Medium      | 35 ft – 60 ft (7-12 Sq)   | Standard operating range. No penalties. (A typical move action distance).                    |
+| Long        | 65 ft – 120 ft (13-24 Sq) | Disadvantage to the Clash roll.                                                              |
 | Extreme     | 125 ft+                   | Disadvantage. Target must be completely in the open.                                         |

@@ -10,7 +10,7 @@
 
 - Rushed Stealth: Moving faster than half your Movement value whilst using Stealth imposes a disadvantage to your Stealth rolls.
     
-- Difficult Terrain: Moving through difficult terrain (deep mire, heavy snow, shifting rubble) halves your Movement value and imposes a flat -1 penalty on all checks requiring mobility (such as Prowess or Reflex checks) made within it.
+- Difficult Terrain: Moving through difficult terrain (deep mire, heavy snow, shifting rubble) halves your Movement value and imposes disadvantage on all checks requiring mobility (such as Prowess or Reflex checks) made within it.
     
 - Drawing a weapon is an free action. It is the only free action that can be taken whilst in an enemies threat zone. Doing so as a reactor causes a -2 on the CLASH roll. It is a free action, without penalty, as part of a charge.
 ________________________________________________________________________
