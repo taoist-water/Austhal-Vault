@@ -20,20 +20,23 @@ ________________________________________________________________________
 
 Being Obscured acts as a direct negative modifier to the attacker's roll. 
 
-- *Obscured (-1 Penalty):* What is is: thick underbrush, poor lighting, darkness, shadows, a dense crowd.
-    -  *what it is:* It obscures the the target, making it difficult to see and/or discern from environment around it. It does not provide a physical barrier.
-- *Heavily Obscured (-2):* What is is: Dense foliage, total darkness.
-
-Cover acts as a direct negative modifier to the attacker's roll and adds a front end reducer to the calculation of [[Impact]] in the same way as a shield functions.
-
-- *Light Cover (-1 Penalty, 2 Cover Value 'CV'):* What it is: A wooden fence, a flipped wooden table, or a target peaking around a corner. It covers roughly half the target.
-
-    - *What it is:* It obscures the target and provides a physical barrier, but heavy weapons (like a longbow or heavy crossbow) might still punch right through it if they hit.
+- - **Obscured (Thick underbrush, dim lighting, smoke):** You can track the target, but you are guessing their movements.
     
-
-- *Heavy Cover (-2 Penalty, 4 Cover Value 'CV'):*  What it is: An arrow slit, a thick stone pillar, a reinforced steel pavise shield. It covers 75% to 90% of the target.
+    - **The Mechanic:** Attacker has **Disadvantage** on the Attack.
+        
+- **Heavily Obscured (Pitch black, dense fog, swirling magical static):** You are effectively fighting blind. You might know they are in the zone, but you cannot pinpoint them.
     
-- *Total Cover:* The target is completely out of sight behind a solid object. They cannot be targeted by direct ranged attacks.
+    - **The Mechanic:** Attacker suffers **Disadvantage** on the Attack, and the target gains a **+2 bonus to their Defense roll**, representing the attacker’s inability to find a viable opening.
+
+Physical barriers reduce the power of an incoming attack. They are rated by how much Impact they absorb.
+
+- - **Partial Cover (Crates, low walls, a thin pillar):** The target is protected by a solid object, but not fully enveloped.
+    
+    - **The Mechanic:** When the target is hit, they may spend their **Block** or **Brace** action value to reduce the incoming Impact by 2.
+        
+- **Full Cover (Stone walls, reinforced iron doors, heavy portcullis):** The target is entirely hidden behind a physical object that can stop projectiles and heavy strikes.
+    
+    - **The Mechanic:** You cannot Strike a target in Full Cover unless you first spend an Action to destroy or bypass the cover. If an area-of-effect ability is used, the cover absorbs the full Impact value of the attack before the target is affected.
     
 
 ### \[DEV NOTE\] Material Penetration (Optional Realism Rule) 
@@ -45,7 +48,7 @@ Cover acts as a direct negative modifier to the attacker's roll and adds a front
 
 When a character shoots at an enemy that is actively engaged in melee with an ally, two things happen:
 
-- *The Chaos Penalty:* The attacker takes an automatic -1 Penalty to their attack roll. (The shifting bodies essentially act as obscured).
+- *The Chaos Penalty:* The attacker suffers disadvantage to their attack roll. (The shifting bodies essentially act as obscured).
     
 - *The Friendly Fire Trigger:* If the attack roll fails, and either of the 2d6 dice shows a natural "1", the projectile strikes an engaged ally instead.
     
