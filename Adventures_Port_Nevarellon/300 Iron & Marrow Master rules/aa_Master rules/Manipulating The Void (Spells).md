@@ -1062,6 +1062,58 @@ A litany murmured over torn flesh, asking permission to undo what was done. Avai
 **Special Interactions:** A character cannot benefit from a second Healing-type Miracle in the same Scene. (This should be added to Iron Core's Golden Rules directly, rather than re-stated on every healing effect that comes along later.)
 
 ## The Domain of Law
+
+### The Domain of Law (The Cult of the Zenith)
+
+- **Paragon:** Aurelius the Architect
+    
+- **Theme:** Absolute authority, prohibition, and flattening chaos into predictability. Law Miracles do not create elemental effects; they dictate what is _not allowed_ to happen, stripping away advantages and forcing enemies to play by the Priest's rules.
+    
+
+#### 1. The Architect’s Decree (Novice Miracle)
+
+- **Cost:** 1 Locked Stress
+    
+- **Action Type:** Free Reaction (Declared when an enemy attempts to Move, or attempts to leave a Threat Zone).
+    
+- **The Effect:** The Priest speaks a single word of absolute prohibition. The target immediately suffers the **Anchored** condition. Their movement speed instantly drops to 0 for the remainder of the round, completely halting their current Move Action in its tracks.
+    
+- _Designer Note: This is elite battlefield control. It allows the Priest to instantly peel for an Arcanist by halting a charging grunt, or lock a target in place so the Fighter can flank them. It bypasses saving throws entirely—you pay the Stress, they stop moving._
+    
+
+#### 2. Sanctuary of the Zenith (Novice Miracle)
+
+- **Cost:** 1 Locked Stress
+    
+- **Action Type:** Activation
+    
+- **The Effect:** The Priest designates a 3x3 square zone (centred on themselves or within 30 ft) as an arena of Absolute Order. For the rest of the Scene, **no character (ally or enemy) can gain Advantage or Disadvantage on any roll while inside this zone.** All circumstantial modifiers (like Flanking, Obscured terrain, or Prone penalties) are completely suppressed.
+    
+- _Designer Note: This forces the core math (2d6 + Attribute + Skill vs TN 8) to be played completely flat. If a Boss relies on stacking passive Advantages, or a pack of wolves relies on Flanking, the Priest completely shuts down their mechanical engine._
+    
+
+#### 3. Chains of Mandate (Apprentice Miracle)
+
+- **Cost:** 2 Locked Stress
+    
+- **Action Type:** Move Action
+    
+- **The Effect:** The Priest forces a creature to conform to mortal limitations. The Priest targets one enemy within 30 feet and declares a specific mechanical Trait from their Bestiary stat block (e.g., _Plated_, _Resilient_, _Cleave_). That Trait is **completely disabled** for the next 3 combat rounds.
+    
+- _Designer Note: This directly hooks into your "Dynamic Trait Manifest" design philosophy. Bosses and Elites derive their threat from these traits. Paying 2 Locked Stress to turn off "Resilient" right before the Fighter lands a devastating Greatsword blow is a deeply satisfying tactical loop._
+    
+
+#### 4. The Scales of Aurelius (Master Miracle)
+
+- **Cost:** 4 Locked Stress
+    
+- **Action Type:** Free Reaction (Triggered immediately after ANY character or enemy rolls 2d6, but before the GM declares the Impact or outcome).
+    
+- **The Effect:** The Priest imposes ultimate mathematical order on the universe. The rolled dice are completely ignored. The roll is treated as if exactly a **7** was rolled on the dice (meaning a 7 + Attribute + Skill). This explicitly overrides and prevents both _Fates Bounty_ (double 6s) and _Snake Eyes_ (double 1s).
+    
+- _Designer Note: This is the absolute peak of the Faith philosophy (Certainty vs Volatility). For 4 Locked Stress (putting the Priest perilously close to the Death Spiral), they can look at a Boss rolling double 6s for an impending team-wipe and say, "No, you rolled a 7." Alternatively, they can use it to save an ally who just rolled Snake Eyes on a critical Death/Survival check. It is pure, system-level reality manipulation._
+    
+
 ### Banish (Domain of Law — exclusive)
 The caster marks an extra-planar entity with a sigil of rejection, forcing it back to its native realm. Locked to the Domain of Law — it's the mechanical teeth behind Smite Corruption's anti-Undead/Daemon/Mutant theme.
 
@@ -1075,7 +1127,7 @@ The caster marks an extra-planar entity with a sigil of rejection, forcing it ba
 - Pass: If the Priest also wins the opposed roll, the target is stunned and suffers 3 Stress. If this exceeds the target's Stress Limit, it is immediately banished (Incapacitated). If the Priest loses the opposed roll, the Miracle still occurs but produces no effect beyond a flash of light — the entity resists.
 - Fail: As Pass, and the GM gains 1 Threat.
 - Snake Eyes: Convert the Locked Stress cost into direct Wounds on the Priest, per the Toll in Flesh rule, regardless of whether the banishment succeeded.
-
+__________________________________________________________________
 ## The Domain of Mercy & Healing
 he most profound and taxing of all Miracles — reaching into the void to pull a soul back to its broken vessel. Locked to the Domain of Mercy & Healing: only a Domain built on absorbing someone else's agony as your own (per Pure Martyrdom) earns a cost this absolute.
 
@@ -1121,3 +1173,57 @@ __________________________________________________________________
 - Snake Eyes: Convert the entire Locked Stress cost into direct Wounds, per the Toll in Flesh rule — at 8 points, this is unsurvivable for a Priest who isn't already braced for it.
 
 **Special Interactions:** Soul Scar — the resurrected character permanently loses 1 point of Will as the price of their return.
+__________________________________________________________________
+### The Domain of Trickery (The Cult of the Crooked Coin)
+
+- **Paragon:** Corvo's Folly
+    
+- **Theme:** Probability manipulation, illusions, and avoiding direct confrontation. Trickery Miracles do not inflict direct physical wounds; instead, they dictate the terms of reality, forcing the world to second-guess its own rules.
+    
+
+#### 1. The Crooked Coin (Novice Miracle)
+
+- **Cost:** 1 Locked Stress
+    
+- **Action Type:** Free Reaction (Declared when an enemy targets the Priest or an ally within 30 ft with an attack).
+    
+- **The Effect:** The Priest calls upon Corvo’s Folly, bending the probability of the immediate moment. A sudden glint of light, a phantom sound, or a momentary stutter in time distracts the attacker. The enemy automatically suffers **Disadvantage** on their Clash roll.
+    
+- _Designer Note: This perfectly integrates your new Advantage/Disadvantage rule. It provides a reliable, mathematical defense mechanism that doesn't rely on clunky flat modifiers._
+    
+
+#### 2. Fool's Errand (Novice Miracle)
+
+- **Cost:** 1 Locked Stress
+    
+- **Action Type:** Activation
+    
+- **The Effect:** The Priest manifests a localized, sensory illusion (sight and sound) within 60 ft. Out of combat, this can mimic a shouting guard, a false wall, or the sound of approaching reinforcements, lasting for the Scene or until physically touched.
+    
+    **In Combat:** The Priest may instantly create a 3x3 square zone of _Heavily Obscured_ terrain (phantom smoke, swirling shadows, or shifting mirrors). Per the environmental rules, enemies attempting to strike through or into this zone suffer Disadvantage, and targets inside gain a +2 bonus to Defense.
+    
+- _Designer Note: This ties the Trickery domain directly into your newly refined Environmental mechanics, making the Priest a master of battlefield control._
+    
+
+#### 3. Corvo’s Step (Apprentice Miracle)
+
+- **Cost:** 2 Locked Stress
+    
+- **Action Type:** Move Action
+    
+- **The Effect:** The Priest briefly steps out of conventional reality. The Priest instantly swaps physical positions with one willing ally, or one unattended object of similar size, within 60 feet. Because this is a fold in space rather than physical movement, **it does not provoke Engagement attacks**. If the Priest uses this to swap places with an ally who is actively being targeted by an attack, the Priest becomes the new target of the Clash.
+    
+- _Designer Note: This is an elite positioning tool. It allows the Priest to rescue a fragile Arcanist from a Boss’s Threat Zone, or put the heavily armored Fighter directly next to an enemy sniper, all for the steep cost of 2 Locked Stress._
+    
+
+#### 4. The House Always Wins (Master Miracle)
+
+- **Cost:** 4 Locked Stress
+    
+- **Action Type:** Free Reaction (Triggered immediately after an enemy resolves an action).
+    
+- **The Effect:** The ultimate expression of Corvo's Folly. The Priest reveals that the last few moments of reality were nothing but a Void-crafted lie. The GM must **completely undo** the enemy's just-resolved action. All Wounds inflicted are healed, all Conditions applied are removed, and the enemy's turn immediately ends. Crucially, any Action Points or **Threat spent by the enemy to trigger the ability is NOT refunded.**
+    
+- _Designer Note: 4 Locked Stress puts the Priest in immediate danger of the Death Spiral, but the effect is game-changing. This allows a Priest to look at the GM who just spent 5 Threat on a Boss's devastating ultimate attack and say, "No, that was an illusion." It is powerful, rule-breaking, and demands a brutal sacrifice from the player._
+    
+__________________________________________________________________
