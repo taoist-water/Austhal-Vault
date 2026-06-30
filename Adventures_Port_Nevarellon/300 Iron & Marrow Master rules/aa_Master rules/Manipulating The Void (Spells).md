@@ -1079,6 +1079,22 @@ The caster marks an extra-planar entity with a sigil of rejection, forcing it ba
 ## The Domain of Mercy & Healing
 he most profound and taxing of all Miracles — reaching into the void to pull a soul back to its broken vessel. Locked to the Domain of Mercy & Healing: only a Domain built on absorbing someone else's agony as your own (per Pure Martyrdom) earns a cost this absolute.
 
+**Bolster the Faithful** 
+- **Level:** Novice Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8 (
+- **Cost:** 1 Locked Stress
+- **Target/Range:** touch.
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+- Pass: Target gains the **Blessed** condition. 
+- Fail: As Pass, and the GM gains 1 Threat.
+- Snake Eyes: Convert the entire Locked Stress cost into direct Wounds, per the Toll in Flesh rule.
+
+**Special Interactions:** none.
+ 
+__________________________________________________________________
+**Resurrection**
 - **Level:** Master Miracle
 - **Resolution:** Tithe of Will — Will + Faith vs. TN 8 (requires a full hour of ritual; target must have died within 24 hours)
 - **Cost:** 8 Locked Stress
