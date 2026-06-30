@@ -89,7 +89,7 @@ ________________________________________________________________________
 
 To make "Cast Spell" a valid Reactor Action, you need a specific category of spells designed to be cast in a split second.
 
-- **Arcane Reactions (The Opposed Clash):** A spell like _Aetheric Deflection_ or _Void Step_ would trigger the moment an Aggressor declares a Strike. The Arcanist rolls an Opposed Clash using `2d6 + Wits + Arcana`. If the Arcanist wins, they completely negate the attack. If they win by a High Margin (5+), they might also trigger a counter-effect (like teleporting 5 feet or dealing 1 Stress to the attacker).
+- **Arcane Reactions (The Opposed Clash):** A spell like _Aetheric Deflection_ or _Void Step_ would trigger the moment the caster becomes the target of an attack. The Arcanist rolls an Opposed Clash using `2d6 + Wits + Arcana`. If the Arcanist wins, they completely negate the attack. If they win by a High Margin (5+), they might also trigger a counter-effect (like teleporting 5 feet or dealing 1 Stress to the attacker).
     
 - **Faith Reactions (The Stress Soak):** Because Faith magic bypasses the dice, a Priest's Reactor spell (like _Martyr's Shield_) wouldn't require a Clash roll. Instead, when an enemy rolls a massive Strike, the Priest declares the Miracle, instantly accepts 1 or 2 Locked Stress, and immediately grants themselves or an ally a massive Front-End Reducer (e.g., +4 Shield Value) against that specific attack.
     
@@ -146,7 +146,7 @@ The caster slams their staff into the earth, liquefying stone, soil, or wood int
     
 - Margin 3–4 (Clean): The mire forms flawlessly.
     
-- Margin 5+ (Exceptional): The mud is incredibly deep. One Elite or Fodder creature currently standing in the area is instantly Anchored and must waste their next Aggressor action pulling themselves free.
+- Margin 5+ (Exceptional): The mud is incredibly deep. One Elite or Fodder creature currently standing in the area is instantly Anchored and must waste their next activation action pulling themselves free.
     
 
 ### 3. Brittle-Iron Aura (Arcane)

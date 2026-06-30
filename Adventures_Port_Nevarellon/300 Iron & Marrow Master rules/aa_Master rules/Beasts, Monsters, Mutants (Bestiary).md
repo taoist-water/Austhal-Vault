@@ -53,7 +53,7 @@ _Fanatical:_ Immune to being Intimidated.
 
 - Heavy, sweeping strikes designed to shatter shields and break bones.
     
-- When this creature wins a Clash as the Aggressor, it inflicts +1 Impact and forces the target back 1 square/5ft. If the target hits a wall or solid obstacle, they immediately take 1 Dissonant Stress from the concussive force.
+- When this creature wins an attack action, it inflicts +1 Impact and forces the target back 1 square/5ft. If the target hits a wall or solid obstacle, they immediately take 1 Dissonant Stress from the concussive force.
     
 
 ### Vicious 
@@ -185,7 +185,7 @@ _A serious threat that requires party synergy to defeat. He doesn’t fight fair
         
     - _Brute:_ The Captain swings with immense, crushing momentum. Any player attempting to Block his Halberd strikes automatically suffers 1 Dissonant Stress, even on a successful defense.
         
-- **Weapons:** * _Masterwork Halberd (Power 3, Reach, Cumbersome)._ **Aggressor Strike Roll:** `2d6 + 5` _(Prowess 2 + Melee 2 + Masterwork 1)_.
+- **Weapons:** * _Masterwork Halberd (Power 3, Reach, Cumbersome)._ **Strike Roll:** `2d6 + 5` _(Prowess 2 + Melee 2 + Masterwork 1)_.
     
 - **Threat Abilities (2):**
     
@@ -214,9 +214,9 @@ _A towering, territorial brute of dense muscle and thick frost-bitten hide. It s
         
 - **Threat Abilities (2):**
     
-    - **Cost 1 Threat - Vicious Frenzy:** _Trigger:_ Declared immediately after the Troll completes an Aggressor Strike. _Effect:_ The Troll follows up its lumbering tree trunk attack with a sudden, tearing claw swipe. It makes an immediate, secondary Strike at an adjacent target (Treat the claws as Power 1, Vicious).
+    - **Cost 1 Threat - Vicious Frenzy:** _Trigger:_ Declared immediately after the Troll completes a Strike. _Effect:_ The Troll follows up its lumbering tree trunk attack with a sudden, tearing claw swipe. It makes an immediate, secondary Strike at an adjacent target (Treat the claws as Power 1, Vicious).
         
-    - **Cost 2 Threat - Sweeping Uproot:** _Trigger:_ Declared before the Troll makes an Aggressor Strike with its Tree Trunk (Power 3, Reach, Brutal). _Effect:_ The Troll drags its massive club through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
+    - **Cost 2 Threat - Sweeping Uproot:** _Trigger:_ Declared before the Troll makes a Strike with its Tree Trunk (Power 3, Reach, Brutal). _Effect:_ The Troll drags its massive club through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
         
 - **Vessel Limit:** 2
 ___________________________________________________________________
@@ -238,7 +238,7 @@ _A towering, decapitated mass of waterlogged flesh, rusted iron chains, and tang
     
     - **Cost 1 Threat - Corpse-Gas Rupture:** _Trigger:_ Declared immediately when the Goliath takes a physical Wound. _Effect:_ The wound forcefully expels highly toxic swamp gas. The player who delivered the Wound instantly suffers the _Rigor_ condition as their lungs violently seize up, completely denying them the ability to Parry or Dodge on the Goliath's next turn.
         
-    - **Cost 2 Threat - Sweeping Uproot:** _Trigger:_ Declared before the Goliath makes an Aggressor Strike. _Effect:_ The Goliath drags its massive club through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
+    - **Cost 2 Threat - Sweeping Uproot:** _Trigger:_ Declared before the Goliath makes a Strike. _Effect:_ The Goliath drags its massive club through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
         
 - **Vessel Limit:** 2
 ### Boss: Arch-Devil Malaphar

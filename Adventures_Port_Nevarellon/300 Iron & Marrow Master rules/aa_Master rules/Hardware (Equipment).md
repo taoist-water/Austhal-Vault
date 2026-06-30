@@ -190,7 +190,7 @@ These variations add specific situational tactical tools to the baseline weapon 
     
 - Tags: Precise, Armor-Piercing
     
-- 2d6 Special Rule: Designed specifically to pass between armor plates. If the Aggressor achieves a Perfect Form (rolling a natural 3 and 4 on the Clash check), this weapon completely ignores all physical Armor values and structural damage reduction, applying its full Impact raw to the Wound Threshold.
+- 2d6 Special Rule: Designed specifically to pass between armor plates. If the Attack roll is a Perfect Form (rolling a natural 3 and 4 on the Clash check), this weapon completely ignores all physical Armor values and structural damage reduction, applying its full Impact raw to the Wound Threshold.
     
 
 #### The Barbed Spear   
@@ -201,7 +201,7 @@ These variations add specific situational tactical tools to the baseline weapon 
     
 - Tags: Reach, Cruel
     
-- 2d6 Special Rule: When you win a Clash with this weapon as the Aggressor, you can forego doing standard Impact damage to execute a Hook. The target is pinned at the tip of your spear; they cannot execute Shift actions until they win an opposed Prowess check against you on their activation.
+- 2d6 Special Rule: When you win a Clash with this weapon as an attack action, you can forego doing standard Impact damage to execute a Hook. The target is pinned at the tip of your spear; they cannot execute Shift actions until they win an opposed Prowess check against you on their activation.
     
 
 #### The Heavy Arbalest

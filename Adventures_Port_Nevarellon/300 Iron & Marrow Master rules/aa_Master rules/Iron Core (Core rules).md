@@ -8,9 +8,9 @@
 
 - The Check: 2d6 + Attribute + Skill vs. TN 8 (or Opposed).
 	- When opposed in Combat, using a weapon is resolved as follows;
-		- Aggressor (The Currently Active character) chooses an action, like strike or shoot.
+		- The Currently Active character chooses an Attack action, like strike or shoot.
 		- roll 2d6 + Prowess/Reflex + melee/ranged
-		- The target (Reactor) choose an action, like parry, and rolls 2d6 + Ability + Skill.
+		- The target choose an Defensive action, like parry, and rolls 2d6 + Ability + Skill.
 		- the Higher roll wins.
 		- the difference between the winner and the loser is the Impact (when attacking).
 		- Impact is compared to the losers Wound Threshold.
@@ -58,7 +58,7 @@ ________________________________________________________________________
 
 Momentum represents tactical flow, adrenaline, and sudden strokes of genius. Each player maintains a personal bank capped at **5 Momentum**.
 
-- **Generation:** Players earn 1 Momentum by winning an Aggressor Clash, evading a trap, or executing an ambush.
+- **Generation:** Players earn 1 Momentum by winning an Attack Action, evading a trap, or executing an ambush.
     
 - **Spending (The Rule-Breakers):** Momentum is never spent to add a "+1" to a die. It is spent to break the rules. Players can spend Momentum to instantly clear debilitating conditions (like _Anchored_), construct improvised alchemical explosives mid-dungeon, rapidly patch _Damaged_ armor with spit and twine, or bend the narrative via flashbacks.
 
@@ -103,7 +103,7 @@ Momentum must become a currency of Rule-Breaking and Action Economy. Players spe
 
  These manipulate the action economy and the Bestiary tags directly.
 
-- The Surge (Action Economy): After successfully winning an Aggressor Clash, the player spends 2 Momentum to immediately take a second, completely free Aggressor action before the enemy can respond or the turn passes.
+- The Surge (Action Economy): After successfully winning an Attack Action, the player spends 2 Momentum to immediately take a second, completely free Attack action before the enemy can respond or the turn passes.
     
     
 - Adrenaline Flush (Death Spiral Reversal): As a Free Reaction, the player spends 2 Momentum to instantly clear 1 Dissonant Stress. This is the only way to heal the mind mid-combat without casting a spell , finding a safe room for a Breather, or use alchemical resources.
@@ -113,7 +113,7 @@ Momentum must become a currency of Rule-Breaking and Action Economy. Players spe
 
  These are massive, encounter-shifting expenditures that drain more than half of their maximum bank.
 
--  The Decisive Blow (Forcing the Threshold): The player wins an Aggressor Clash, but the math reveals the Impact is lower than the Boss's massive Wound Threshold, meaning it would normally only cause 1 Stress. The player spends 3 Momentum to drive the blade through anyway. The attack automatically inflicts exactly 1 Wound Slot, bypassing the Threshold check entirely. *without equipment and preparation this could be the only way to wound Boss tier entities. Use it!*
+-  The Decisive Blow (Forcing the Threshold): The player wins an Attack Action, but the math reveals the Impact is lower than the Boss's massive Wound Threshold, meaning it would normally only cause 1 Stress. The player spends 3 Momentum to drive the blade through anyway. The attack automatically inflicts exactly 1 Wound Slot, bypassing the Threshold check entirely. *without equipment and preparation this could be the only way to wound Boss tier entities. Use it!*
     
 -  Interrupt / Seize the Initiative: When the GM declares an enemy is about to activate, the player can spend 3 Momentum to literally pause time. The player instantly interrupts the enemy, and moves into the activation order before the enemy taking a full  turn before the enemy's activation. 
 
@@ -221,7 +221,7 @@ Because the player is stuck at the bottom of the turn order, the rest of the par
 
 - **Triage (The Save):** An ally can use an Action to perform a _Medicine_ check (TN 8), use an Alchemical Poultice, or cast the _Stabilize_ Faith Cantrip. If successful, the Incapacitated character instantly becomes Stabilized, stopping the Death Marks.
     
-- **The Coup de Grâce (The Threat):** If an Incapacitated character is hit by an Aggressor's melee attack while bleeding out, they do not calculate Impact. They immediately suffer 1 automatic Death Mark. If the attacker uses the _Vital Strike_ feat, the character is instantly killed.
+- **The Coup de Grâce (The Threat):** If an Incapacitated character is hit by a melee attack action they do not calculate Impact. They immediately suffer 1 automatic Death Mark. If the attacker uses the uses their whole activation, the character is instantly killed.
 _______________________________________________________________________
 
 ### The Breather (Universal Action)
@@ -251,7 +251,7 @@ ________________________________________________________________________
     
 -  *Prone:* You are on the ground. You suffer Disadvantage on all Clashes. It costs a Move Action or 1 Momentum to scramble to your feet.
     
-- *Blinded:* (Dirt in the eyes, magical darkness). You cannot take Aggressor actions against targets beyond 5 feet. All Reactor Clashes are made with Disadvantage.
+- *Blinded:* (Dirt in the eyes, magical darkness). You cannot take attack actions against targets beyond 5 feet. All Reactor Clashes are made with Disadvantage.
     
 - *Poisoned:* At the start of your turn, make a Prowess check. On a failure, you instantly take 1 Dissonant Stress. (If you max out your Stress while Poisoned, the toxin causes a Wound).
     
@@ -261,7 +261,7 @@ ________________________________________________________________________
     
 - *Terrified:* Your mind is clouded by panic. 1 stress is locked. You cannot spend Momentum for any reason. You must spend your turn running away from the object/being causing the Terror, fleeing until you can hide, or break the complete line of sight. When out of sight or hidden from the object/entity you can take a  Will + Resolve check to shake the condition.
     
-- *Fear:* 1 stress is locked, until fear condition is lost. Has disadvantage against the object/being causing the Fear condition. must Pass a Will + Resolve check to make aggressor actions or interact with the object/being causing the fear.
+- *Fear:* 1 stress is locked, until fear condition is lost. Has disadvantage against the object/being causing the Fear condition. must Pass a Will + Resolve check to make Attackactions or interact with the object/being causing the fear.
     
 - *Distracted:* suffer a - 1 to rolls until next activation, then lose the condition.
     
@@ -271,8 +271,7 @@ ________________________________________________________________________
     
 - *Surprised:* Rolls suffer Disadvantage.
     
-- *Grappled:* When the aggressor: can choose to let go of the Grapple as a Free action. 
-    - As the Reactor: Must use the Shove action to break the grapple.
+- *Grappled:* The active character must win the clash with either a Grab or shove action to determine what happens.(dev note)need to word this right. (/dev note)
     
 ### 1. Anchored (The Movement Lock)
 
@@ -291,7 +290,7 @@ _A severe stiffening of the joints, caused by nervous system shock, extreme cold
 
 - **The Mechanic:** The character's movement is halved.
     
-- **The Engine Interaction:** Because they cannot fluidly articulate their wrists or shift their weight, a character suffering from Rigor completely loses the ability to use the **Parry** or **Dodge** actions. If attacked, they must use **Block** or **Brace**. Furthermore, any Aggressor Strike they attempt suffers **Disadvantage**.
+- **The Engine Interaction:** Because they cannot fluidly articulate their wrists or shift their weight, a character suffering from Rigor completely loses the ability to use the **Parry** or **Dodge** actions. If attacked, they must use **Block** or **Brace**. Furthermore, any Attack action they attempt suffers **Disadvantage**.
     
 - **Clearance:** Fades automatically at the end of their next turn as the blood flow normalizes.
     
@@ -309,7 +308,7 @@ _Active, ongoing environmental destruction to the character's physical body or g
 
 ### 4. Regroup (The Universal Reset Action)
 
-_Regroup is not a condition; it is a universal **Aggressor Action** available to all characters and enemies._
+_Regroup is not a condition; it is a universal **Action** available to all characters and enemies._
 
 - **The Mechanic:** Instead of using their turn to declare a Strike, cast a spell, or reposition aggressively, the character spends their entire turn resetting their physical and mental state.
     
