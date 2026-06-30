@@ -5,12 +5,12 @@ Enemies use the same character generation rules as players. Once and enemy is ge
 ####  Core Integration Rules
 
 - **Fodder:** * _Budget:_ +1 to +2 total points distributed across 1 Attribute or Skill.
-	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. Fodder cannot spend Threat unless led by a leader or a tag allows them too. 
+	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. Fodder cannot spend Threat unless led by a leader or a tag allows them too. 1 wound. 0 stress, breaking the core rule.
     
     - _Example (Zombie):_ Prowess +1. _(Strikes and grabs at +1, everything else is +0). Undead_
         
 - **Grunt:** * _Budget:_ +2 to +4 total points across 1–2 Attributes and 1–2 Skills.
-	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. 
+	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. 2 wounds. stress as core rule defined.
     
     - _Example (Orc Line-Breaker):_ Prowess +2, Melee +2. _(Strikes at +4. Activation/Reflex is +0. Magic defense is +0)._
         
