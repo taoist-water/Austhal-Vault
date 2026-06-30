@@ -168,7 +168,7 @@ _______________________________________________________________________
 
 - Sunder: If you inflict a Minor or Major Wound with this weapon, permanently reduce the target's Armor value by 1.
     
-- Thrown: Can be hurled using the Ranged attack bands. If used in melee, it retains its 5 ft Threat.
+- Thrown: Can be hurled using the short range attack band. If used in melee, it retains its 5 ft Threat.
     
 - Versatile: can be wielded 1H or 2H. If wielded 2H add 1 to the weapon power.
     
