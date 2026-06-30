@@ -1089,7 +1089,21 @@ he most profound and taxing of all Miracles — reaching into the void to pull a
 **The Tithe Ladder:**
 - Pass: Target gains the **Blessed** condition. 
 - Fail: As Pass, and the GM gains 1 Threat.
-- Snake Eyes: Convert the entire Locked Stress cost into direct Wounds, per the Toll in Flesh rule.
+- Snake Eyes: Convert the 1 Locked Stress into 2 direct Wounds, per Toll in Flesh.
+
+**Special Interactions:** none.
+__________________________________________________________________
+**Wrathful Light** 
+- **Level:** Novice Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8 
+- **Cost:** 2 Locked Stress
+- **Target/Range:** one Target/short
+- **Action Type:** Attack
+
+**The Tithe Ladder:**
+- Pass: deals 2 Impact (ignores Armor) to one target; if the target is Undead/Daemon/Mutant, they also gain Fear.
+- Fail: As Pass, and the GM gains 1 Threat.
+- Snake Eyes: onvert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh.
 
 **Special Interactions:** none.
  
