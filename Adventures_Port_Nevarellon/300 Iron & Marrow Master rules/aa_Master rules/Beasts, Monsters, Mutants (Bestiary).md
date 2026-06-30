@@ -44,6 +44,7 @@ ________________________________________________________________________
     
 ### Massive
 - Massive: Weapons without Sunder, Brutal, or Piercing have their Impact halved before comparing to its Wounds threshold.
+_Fanatical:_ Immune to being Intimidated.
 ---
 
 ## OFFENSIVE & MARTIAL TRAITS
@@ -62,14 +63,11 @@ ________________________________________________________________________
 - If this creature inflicts damage on a player character, the target must immediately make a Prowess check (A check using only their Prowess attribute). If they fail they gain the Bleeding condition. 
     
 
-### Swarm 
 
-- Small, overwhelming numbers of vermin or gibbering minor cultists attacking as one mind.
-    
-- (Fodder Only). These units do not occupy unique tactical slots. When multiple units with the Swarm trait engage the same PC, they pool their power. The primary attacker receives a flat +1 to their Clash roll for every additional Swarm unit adjacent to the target.
     
 ### Amorphous
 - Single-target weapons (daggers, arrows, spears) can never inflict a Wound on the Swarm.
+_Scrappy Swarm:_ The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
 ---
 
 ##  TACTICAL & PSYCHOLOGICAL TRAITS
@@ -106,197 +104,161 @@ ________________________________________________________________________
 ___________________________________________________________________
 # Example enemies
 
-#### The Goblin Scrapper (FODDER)
+### The Goblin Scrapper (Fodder)
 
-Fodder enemies die in one hit and flee easily. They rely on numbers.
+_Scrawny, twitchy, and desperate. They prefer to strike from the shadows and retreat the moment the tide of battle turns against them._
 
-- Wound Threshold: 5 (Base 4 + 0 Prowess + 1 Leather)
+- **Wound Threshold:** 5 _(Base 4 + 1 Leather)_ | **Wound Slots:** 1 | **Stress Limit:** 0
     
-- Wounds: 1 (Any hit that beats their threshold kills them)
+- **Stats:** Reflex +2 | Melee +0. _(Assumed Zero: Everything else. They are incredibly difficult to hit/dodge, but if they get caught, they fold immediately)._
     
-- Stress Limit: 0 (They don't use Stress; if a mechanic forces them to take Stress, they break and run)
+- **Traits (1):**
     
-- Primary Attack (Rusty Shiv): 2d6 + 0.
+    - _Scrappy Swarm:_ The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
+        
+- **Threat Abilities:** _Passive._ Fodder cannot spend Threat unless led by a leader.
     
-- Trait: Swarm: The primary attacker receives a flat +1 to their Clash roll for every additional Swarm unit adjacent to the target.
-    
-### TIER 1: The Corpse-Trench Rat Brood
+- **Vessel Limit:** 1
 
-A writhing, starving mass that exists purely to drain the players' Momentum and Wounds before the real threat arrives.
+### The Corpse-Trench Rat Brood (Fodder)
 
-- Tier: Fodder
-    
-- Scale: Small (-1)
-    
-- Stats: Reflex +1, Prowess -1, Wits -1, Will -1.
-    
-- Derived: Wound Threshold: 2 (4 - 1 Prowess - 1 Scale). Stress Limit: 0. Wound Slots: 1.
-    
-- Weapons:
-    
+_A writhing, starving mass that exists purely to drain Momentum and Wounds before the real threat arrives._
 
-- A Thousand Teeth: Power 1, Close-Quarters.
+- **Wound Threshold:** 4 | **Wound Slots:** 1 | **Stress Limit:** 0
     
+- **Stats:** Reflex +1 | Melee +1. _(Assumed Zero: Everything else. They are quick, but their total lack of Prowess or Wits makes them pathetic in a direct grapple or against mental effects)._
+    
+- **Traits (1):**
+    
+    - _Amorphous Swarm:_ Single-target weapons (daggers, spears, arrows) cannot inflict a Wound. Only Area of Effect (AOE) attacks or weapons with the _Heavy_ or _Siege_ tag can kill them.
+        
+- **Threat Abilities (1):**
+    
+    - **Passive - Hive Mind:** Fodder cannot spend Threat unless led by a leader. However, if three or more swarms are engaged with a single target, they automatically generate +1 to the _Flanking Bonus_ for each other (representing the rats crawling over armor and finding gaps).
+        
+- **Vessel Limit:** 1
+### Grunt: Orc Line-Breaker
 
-- Tags:
+- **Budget Used:** 4 points.
     
+- **Stats:** Prowess +2 | Melee +2. _(Assumed Zero: Reflex, Wits, Will. They hit hard and block well, but are terrible at dodging or resisting mind-altering Arcana)._
+    
+- **Traits (1):**
+    
+    - _Plated_ (Can spend Threat to Mitigate damage, reducing incoming Impact by 2 per point spent).
+        
+- **Threat (1) - Unstoppable Mass (Cost 1):** _Trigger:_ Declared on a successful Melee clash. _Effect:_ Taxes player Momentum or violently shoves them out of position.
+    
+- **Vessel Limit:** 1
+    
+### Elite: Cultist Assassin
 
-- Amorphous: Single-target weapons (daggers, arrows, spears) can never inflict a Wound on the Swarm.
+- **Budget Used:** 8 points.
     
-- Swarm: Their Swarm Bonus to Clashes is +1 per extra ally engaging the target.
-#### 2. The Orc Raider (GRUNT)
+- **Stats:** Reflex +3, Wits +1 | Melee +2, Dodge +1, Stealth +1. _(Assumed Zero: Prowess, Brace, Will. They are practically untouchable by standard strikes, but if forced into a Grapple, they roll 2d6 + 0)._
+    
+- **Traits (2):**
+    
+    - _Fanatical:_ Immune to being Intimidated.
+        
+    - _Ambusher:_ Gains Advantage on the Clash roll if attacking an unaware target from Stealth.
+        
+- **Threat Abilities (2):**
+    
+    - **Cost 1 Threat - Smoke Bomb:** _Trigger:_ Declared as a Reactor. _Effect:_ The Assassin immediately drops a smoke bomb, blinding the attacker and allowing the Assassin to reposition into Stealth.
+        
+    - **Cost 2 Threat - Throat Slit:** _Trigger:_ On a successful Melee clash with a Margin of 3+. _Effect:_ The target immediately suffers a Minor Wound, bypassing their normal Impact Threshold.
+        
+- **Vessel Limit:** 2
 
-Standard, dangerous frontline combatants.
+### The Bandit Captain (Elite)
 
-- Wound Threshold: 7 (Base 4 + 2 Prowess + 1 Thick Hide)
-    Prowess +2, Melee +1.
-- Wounds: 2
-    
-- Stress Limit: 2
-    
-- Primary Attack (Greataxe(power 3)): 2d6 + 3 (Rolling Prowess +2 and Melee +1)
-    
-- traits: resilient.
-- Vessel: 1
-    
+_A serious threat that requires party synergy to defeat. He doesn’t fight fair; he commands the battlefield with a heavy halberd, barking orders from behind a wall of cutthroats._
 
-#### 3. The Bandit Captain (ELITE)
-
-A serious threat that requires party synergy to defeat.
-
-- Wound Threshold: 9 (Base 4 + 2 Prowess + 3 Breastplate)
-    - Prowess +2, Melee +2, reflex +1.
-- Wounds: 3
+- **Wound Threshold:** 9 _(Base 4 + 2 Prowess + 3 Breastplate)_ | **Wound Slots:** 3 | **Stress Limit:** 4
     
-- Stress Limit: 4
+- **Stats:** Prowess +2, Wits +1, Reflex +1 | Melee +2, Brace +1, Resolve +1. _(Assumed Zero: Dodge, Will, Arcana. He is a hardened commander who braces against hits, but his heavy armor and cumbersome weapon make him terrible at dodging out of the way of AOE attacks or fast projectiles)._
     
-- Primary Attack (Masterwork Halberd(power 3) reach, cumbersome): 2d6 + 5 (Rolling Prowess +2, Melee +2, Masterwork +1)
+- **Traits (2):**
     
-- Traits: Cunning Leader, Brute.
-
-- Vessel: 2
-- Threat Ability — Cost 1 Threat: Call for Reinforcements.  
-Trigger: Declared on the Captains activation.  
-Effect: The Captaion shouts for backup. One additional Fodder (bandit) arrives at the edge of the battlefield next round, or — if reinforcements aren't narratively available — all currently engaged Fodder (Bandit) immediately gain the benefit of the Swarm Bonus as if one more ally were present (representing the Captain directing the formation).
+    - _Cunning Leader:_ So long as the Captain is alive and on the battlefield, Fodder allies are emboldened and permitted to spend Threat abilities.
+        
+    - _Brute:_ The Captain swings with immense, crushing momentum. Any player attempting to Block his Halberd strikes automatically suffers 1 Dissonant Stress, even on a successful defense.
+        
+- **Weapons:** * _Masterwork Halberd (Power 3, Reach, Cumbersome)._ **Aggressor Strike Roll:** `2d6 + 5` _(Prowess 2 + Melee 2 + Masterwork 1)_.
+    
+- **Threat Abilities (2):**
+    
+    - **Cost 1 Threat - Call for Reinforcements:** _Trigger:_ Declared on the Captain's activation. _Effect:_ The Captain shouts for backup. One additional Fodder (Bandit) arrives at the edge of the battlefield next round, OR — if reinforcements aren't narratively available — all currently engaged Fodder immediately gain the benefit of the Flanking Bonus as if one more ally were present (representing the Captain directing the formation).
+        
+    - **Cost 1 Threat - Hook and Drag:** _Trigger:_ Declared after a successful Melee clash with his Halberd. _Effect:_ Instead of dealing normal Impact, the Captain hooks the player's legs. The target is immediately knocked Prone and dragged 5 feet directly into an adjacent Fodder's Threat Zone.
+        
+- **Vessel Limit:** 2
   
 
 ---
 
-### EXAMPLE STAT BLOCK: The Frost-Cave Troll (Elite / Tier 3)
+### The Frost-Cave Troll (Elite)
 
-THE FROST-CAVE TROLL
+_A towering, territorial brute of dense muscle and thick frost-bitten hide. It swings a shattered pine tree with horrifying speed, its wounds knitting together almost as fast as they are opened._
 
-- Tier: Elite
+- **Wound Threshold:** 9 | **Wound Slots:** 4
     
-- Stats: Prowess 3, Reflex 1, Wits -1, Will 1. (Melee 2, Athletics 2).
+- **Stats:** Prowess +3 | Melee +3, Brace +1, Reflex +1. _(Assumed Zero: Dodge, Wits, Will, Arcana, Resolve. It acts surprisingly fast and hits like a siege weapon, but it is entirely defenseless against mind-altering magic or illusions)._
     
-- Derived: Wound Threshold: 10 (4 + 3 Prowess + 3 Thick Hide). Stress Limit: 2 (Low intelligence).
+- **Traits (2):**
     
-- Weapons: * Uprooted Tree Trunk (2H): Power 3, Reach, Brutal.
+    - _Massive (Scale +2):_ The Troll's immense size taxes the defenders. Any character who attempts to Block the Troll's strikes automatically suffers 1 Stress and takes Disadvantage on their Reactor roll.
+        
+    - _Troll-Blood Regeneration:_ At the start of the Troll's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ If the Troll takes any Impact damage from a Fire source (such as a _Naphtha Fire-Flask_ or Pyromancy), this trait is entirely suppressed until the end of the next round.
+        
+- **Threat Abilities (2):**
     
-
-- Claws (1H): Power 1, Vicious.
-    
-
-- Tags: * Regeneration (Fire deactivates). * Massive.
-- Vessel: 2
-- Threat: GM starts with 2.
-	- Cost 2 Threat: Sweeping Uproot.
-    
-	- Trigger: Declared before an Aggressor Strike.
-    
-	- The Effect: The Troll drags its massive club through the earth. This Strike gains the Cleave tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
-	- Cost 1 Threat: the troll makes an immediate second strike with its claws.
+    - **Cost 1 Threat - Vicious Frenzy:** _Trigger:_ Declared immediately after the Troll completes an Aggressor Strike. _Effect:_ The Troll follows up its lumbering tree trunk attack with a sudden, tearing claw swipe. It makes an immediate, secondary Strike at an adjacent target (Treat the claws as Power 1, Vicious).
+        
+    - **Cost 2 Threat - Sweeping Uproot:** _Trigger:_ Declared before the Troll makes an Aggressor Strike with its Tree Trunk (Power 3, Reach, Brutal). _Effect:_ The Troll drags its massive club through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
+        
+- **Vessel Limit:** 2
 ___________________________________________________________________
-Here are two horrifying entities built directly into the bounded math, Threat economy, and universal conditions of Iron & Marrow.
+### The Rotting Fen-Goliath (Elite)
 
-### The Rotting Fen-Goliath (Tier 2 Elite)
+_A towering, decapitated mass of waterlogged flesh, rusted iron chains, and tangled mangrove roots. It does not feel pain; it only seeks to pull living warmth down into the freezing mud._
 
-A towering, decapitated mass of waterlogged flesh, rusted iron chains, and tangled mangrove roots. It does not feel pain; it only seeks to pull living warmth down into the freezing mud.
+- **Wound Threshold:** 9 | **Wound Slots:** 4
+    
+- **Stats:** Prowess +3 | Melee +3, Brace +2. _(Assumed Zero: Reflex, Dodge, Wits, Will, Arcana. A lumbering behemoth. It swings at a +6 and braces against physical blows at a +5, but is completely defenseless against Agility or Mind-targeting magic)._
+    
+- **Traits (2):**
+    
+    - _Sinking Gravity:_ The ground immediately within the Goliath’s Threat Zone is perpetually treated as Mire (Difficult Terrain), halving movement and imposing a -1 penalty to all mobility checks due to the supernatural rot and water bleeding from its body.
+        
+    - _Resilient:_ Increases the creature’s Stress Limit by +2. Can spend Threat to Mitigate damage, reducing incoming Impact by 2 per point spent (up to its Vessel limit).
+        
+- **Threat Abilities (2):**
+    
+    - **Cost 1 Threat - Corpse-Gas Rupture:** _Trigger:_ Declared immediately when the Goliath takes a physical Wound. _Effect:_ The wound forcefully expels highly toxic swamp gas. The player who delivered the Wound instantly suffers the _Rigor_ condition as their lungs violently seize up, completely denying them the ability to Parry or Dodge on the Goliath's next turn.
+        
+    - **Cost 2 Threat - Sweeping Uproot:** _Trigger:_ Declared before the Goliath makes an Aggressor Strike. _Effect:_ The Goliath drags its massive club through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
+        
+- **Vessel Limit:** 2
+### Boss: Arch-Devil Malaphar
 
-- Tier: 2 (Elite)
+- **Budget Used:** 14 points.
     
-- Modifiers: Strike +6 (Mangrove Trunk) | Defense +4 (Absorbent Dead Flesh)
->	**Defense +7:** Prowess +2, Absorbent Dead Flesh + 2. *(
-    >**Strike +6:** Prowess +2, Mangrove Trunk+4.
+- **Stats:** Prowess +3, Will +3, Wits +2 | Melee +3, Arcana +2, Resolve +1. _(Assumed Zero: Reflex, Dodge. A lumbering powerhouse of physical and magical pressure, but acts last in combat and cannot dodge out of the way of AOE attacks)._
     
-- Wound Threshold: 11 (Incredibly difficult to cause a physical Wound; weapons tend to get stuck in the blubber and mud).
+- **Traits (3):**
     
-- Health: 4 Wound Slots 
+    - _Terrifying_ & _Cunning Leader_.
+        
+    - _Hubris (Passive Threat Engine):_ The Arch-devil feeds on mortal desperation. The GM instantly generates 1 Threat every single time a player spends Momentum from their bank.
+        
+- **Threat Abilities (3+):**
     
-- Stress Limit: 3 (Represents the structural integrity of the necromantic binding, rather than psychological fear).
-    
-
-Threat Abilities & Tags:
-- Resilient. Fear.
-- Vessel limit: 2
-  
-- Passive Tag: Sinking Gravity. The ground immediately within the Goliath’s Threat Zone is perpetually treated as Mire (difficult terrain) due to the supernatural rot and water bleeding from its body.
-    
-- Cost 1 Threat: Corpse-Gas Rupture.
-    
-
-- Trigger: Declared immediately when the Goliath takes a physical Wound.
-    
-- The Effect: The wound forcefully expels highly toxic swamp gas. The player who delivered the Wound instantly suffers the Rigor condition as their lungs violently seize up, completely denying them the ability to Parry or Dodge on the Goliath's next turn.
-    
-
-- Cost 2 Threat: Sweeping Uproot.
-    
-
-- Trigger: Declared before the Goliath makes an Aggressor Strike.
-    
-- The Effect: The Goliath drags its massive club through the earth. This Strike gains the Cleave tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
-    
-
-### Malaphar, The Ashen Sovereign (Tier 3 Boss)
-
-A terrifyingly elegant entity of obsidian armor and pale, burning eyes, wielding a greatsword forged from compressed ash. Malaphar does not fight like a beast; he fights like a king dismantling a rebellion.
-
-- Tier: 3 (Boss)
-    
-- Modifiers: Strike +8 (Ashen Greatsword) | Defense +7 (Precognition & Hell-Forged Plate) (Explicitly breaking the +3 mortal cap).
-
-    >**Defense +7:** Precognition +4, Hell-Forged Plate +3. *(Explicitly breaking the +3 mortal cap on the Plate component alone — Precognition's +4 is itself already at the edge of what a mortal Boss should carry, representing supernatural foresight rather than trained skill.)*
-    >**Strike +8:** Prowess +4, Ashen Greatsword +4.
-    
-- Wound Threshold: 13
-    
-- Health: 6 Wound Slots 
-    
-- Stress Limit: 6 
-    
-
-Boss Paradigm Mechanics:
-
-- Action Economy: Malaphar takes two full Aggressor actions per round.
-    
-- Passive Threat Engine: Hubris. The Arch-devil feeds on mortal desperation. The GM instantly generates 1 Threat every single time a player spends Momentum from their bank.
-    
-
-Threat Abilities & Tags:
-- Terrifying, Cunning Leader.
-- Vessel limit: 4
-
-- Cost 1 Threat: Furnace Rebuke.
-    
-
-- Trigger: Declared when Malaphar wins a Clash as the Reactor (Defense).
-    
-- The Effect: The Sovereign deflects the player's blow with such friction that the player's weapon or hands burst into flames. The player instantly gains the Ablaze condition (taking 1 Impact and 1 Stress at the start of their next turn until they Regroup).
-    
-
-- Cost 2 Threat: The Devil's Mandate.
-    
-
-- Trigger: Declared as a Free Action on Malaphar's turn.
-    
-- The Effect: Malaphar speaks a word of absolute, crushing authority, targeting one player. That player must make a terrible choice: instantly mark 2 Dissonant Stress, OR drop to their knees in submission (gaining the Prone and Anchored conditions).
-    
-
-- Cost 3 Threat: Lair Action — Gehenna's Grip.
-    
-
-- Trigger: Declared at the absolute start of a combat round.
-    
-- The Effect: The veil tears, and chains of molten iron erupt from the dungeon floor. Every player on the battlefield must make an immediate, unopposed Prowess + Melee/Dodge check against TN 8. Failure means they are violently dragged 10 feet toward Malaphar. The searing chains melt through their armor, inflicting 1 Direct Wound.
+    - **Cost 1 Threat - Furnace Rebuke:** _Trigger:_ Declared when Malaphar wins a Clash as the Reactor (Defense). _Effect:_ The Sovereign deflects the player's blow with such friction that the player's weapon or hands burst into flames. The player instantly gains the Ablaze condition.
+        
+    - **Cost 2 Threat - The Devil's Mandate:** _Trigger:_ Declared as a Free Action on Malaphar's turn. _Effect:_ Malaphar speaks a word of absolute authority, targeting one player. That player must instantly mark 2 Dissonant Stress, OR drop to their knees in submission (gaining the Prone and Anchored conditions).
+        
+    - **Cost 3 Threat - Lair Action (Gehenna's Grip):** _Trigger:_ Declared at the absolute start of a combat round. _Effect:_ The veil tears, and chains of molten iron erupt. Every player must make an immediate, unopposed Prowess + Melee/Dodge check against TN 8. Failure means they are violently dragged 10 feet toward Malaphar.
+        
+- **Vessel Limit:** 4.
