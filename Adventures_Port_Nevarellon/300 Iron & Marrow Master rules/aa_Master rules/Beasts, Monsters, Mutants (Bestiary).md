@@ -1,25 +1,33 @@
 # The Dynamic Trait Manifest
-Design Philosophy: Keep stat blocks microscopic. Let traits dictate tactical behaviour, stress interaction, and momentum usage.
-(dev note) I am going to have to a deeper re-think of the Bestiary mechanics, I realise the examples I have are/may be causing some tensions with the design philosophy of enemies.(/dev note)
+Design Philosophy: Keep stat blocks simplified. Let traits dictate tactical behaviour, stress interaction, and threat usage.
+
+Enemies use the same character generation rules as players. Once and enemy is generated populate their stat block using the same derived stats as players, only list the stats that are most important, such as WT and Stress limit. The stats that have no modifier to not get listed and are assumed to be zero. 
 ####  Core Integration Rules
 
-- Fodder: Max 1 Trait. Fodder cannot spend Threat unless led by a leader or a trait allows them too. Typical modifiers to one attribute +1, +2.
-- Grunts: 1-2 Traits. Typical modifiers to 2 attribute and skill+1, +2. vessel limit 1. 1 threat ability.
-- Elites: 1–2 Traits. Typical modifiers to 2 attribute and skills +1, +2, +3. vessel limit 2 - 3. 1 - 2 Threat abilities.
+- **Fodder:** * _Budget:_ +1 to +2 total points distributed across 1 Attribute or Skill.
+	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. Fodder cannot spend Threat unless led by a leader or a tag allows them too. 
     
-- Bosses: 2–4 Traits. Break from the microscopic design philosophy, having more detail capture and define their narrative vibe. Built almost like a player character. Vessel limit 3+. 2 + Threat abilities, usually has a contextual lair threat ability.
+    - _Example (Zombie):_ Prowess +1. _(Strikes and grabs at +1, everything else is +0). Undead_
+        
+- **Grunt:** * _Budget:_ +2 to +4 total points across 1–2 Attributes and 1–2 Skills.
+	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. 
+    
+    - _Example (Orc Line-Breaker):_ Prowess +2, Melee +2. _(Strikes at +4. Activation/Reflex is +0. Magic defense is +0)._
+        
+- **Elite:** * _Budget:_ +5 to +8 total points. Attributes can reach +3.
+	-  1 - 2 Traits. 1 - 2 Threat Abilities. vessel limit 2 - 3. 
+    
+    - _Example (Cultist Assassin):_ Reflex +3, Wits +1 | Melee +2, Dodge +2, Stealth +2. _(Strikes at +5, Dodges at +5, Stealths at +5. Prowess/Brace is +0)._
+        
+- **Boss:** * _Budget:_ +9 to +14 total points. Built to rival a highly optimized player. Attributes can exceed +3.
+	- 2 - 4 Traits. 3+ Threat Abilities. vessel limit 2 - 4. 
+    
+    - _Example (Arch-Devil Malaphar):_ Prowess +4, Will +3, Wits +2 | Melee +4, Arcana +3, Resolve +3. _(Strikes at +8, casts at +5, resists mental magic at +6. Still has a +0 in Reflex).
+    
 
 ________________________________________________________________________
 # Traits
 ## DEFENSIVE & PHYSIOLOGICAL TRAITS
-### Resilient
-
-- This creature's physical resilience acts as a natural buffer against injury.
-    
-- Increase the creature’s Stress Limit by +2. Additionally, can spend Threat to Mitigate damage, it reduces the incoming Impact by 2 per point spent, limited by the vessel limit.
-    
-- Dev Note: Put this on frontline brutes, or undead to make players burning through their health pool feel the attrition.
-    
 
 ### Plated 
 
