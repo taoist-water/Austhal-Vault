@@ -43,7 +43,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 
 **Free Actions:**
 - at any time during their activation a Character may take a Free Action in addition to their Action. Free actions are drinking a potion, pulling a lever, passing an item to a nearby ally, etc. actions that are quick and require little to no effort.
-- Cannot be taken whilst engaged in an enemy threat zone.
+- When taken whilst engaged in an enemy threat zone, gain disadvantage on combat actions until next activation.
     
 
 **Aggressor Actions:**
@@ -86,7 +86,7 @@ During a Characters activation it may move up to its base movement value [MV] an
     
 - Charge: ** only if within move distance. Gain +2  to the The Clash roll and breaks ties(the equivalent of winning by 1).  suffer a -2 to reactor actions until next activation.
     
-- (dev note) Grounding: An Arcanist can attempt to vent the magical heat in their mind. Roll Wits + Arcana (TN 8). Success: Unlock [Wits] amount of Stress (Min 1). Massive Success (5+): Clear all Locked Stress. Fumble: The energy 'leaks'—all Locked Stress becomes Dissonant. (/dev note)
+- Grounding: An Arcanist can attempt to vent the magical heat in their mind. Roll Wits + Arcana (TN 8). Success: Unlock [Wits] amount of Stress (Min 1). Massive Success (5+): Clear all Locked Stress. Fumble: The energy 'leaks'—all Locked Stress becomes Dissonant. 
     
 - Skill based Actions: based on skill
     
