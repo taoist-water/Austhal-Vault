@@ -71,7 +71,7 @@ _____________________________________________________________________
     
 -  Halfling Luck: Once per session, a Halfling may completely ignore the mechanical effects of a Fumble (Snake Eyes). They still fail the action, but they do not take the Stress penalty.
     
--  Small Stature (Drawback): They physically cannot wield Heavy Weapons, and their base Wound Threshold is reduced by 1.
+-  Small Stature (Drawback): They physically cannot wield Heavy Weapons.
     
 -  Playstyle: Stealthy opportunists who excel at avoiding the brutal consequences of the system's lethal dice spikes.
 

@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"trench\"",
+                "query": "\"Halfling\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e47cbdca86c05050",
+  "active": "2c9b83574a8b2381",
   "lastOpenFiles": [
     "300 Iron & Marrow Master rules/aa_Master rules/Iron World (Environmental rules).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Metal meet Flesh (Combat Mechanics).md",
