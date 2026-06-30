@@ -353,7 +353,7 @@ ______________________________________________________________________
     
 - You are at home in the muck.
     
-- Mechanic: You completely ignore the Disadvantage penalty on checks caused by Difficult Terrain. Furthermore, drawing a weapon agement Clash.
+- Mechanic: You completely ignore the Disadvantage penalty on checks caused by Difficult Terrain. Furthermore, drawing a weapon whilst engaged doesn't gain disadvantage.
 ### Whispers in the Dark
 
 - Prerequisites: Stealth +1, Notice +1
