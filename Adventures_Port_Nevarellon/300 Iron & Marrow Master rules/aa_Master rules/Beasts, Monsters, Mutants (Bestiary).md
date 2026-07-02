@@ -109,9 +109,10 @@ _Scrawny, twitchy, and desperate. They prefer to strike from the shadows and ret
     - _Swarm:_ The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
         
 - **Threat Abilities:** _Passive._ Fodder cannot spend Threat unless led by a leader.
+	- Threat Cost 1: The scrappy, opportunistic goblins try to swipe supplies from the target. Sabotage: Target Must pass a TN8 Reflex test, Fail and reduce the community supply die by 1 order.
     
 - **Vessel Limit:** 1
-
+___________________________________________________________________________________________________________________________________________________________________________________
 ### The Corpse-Trench Rat Brood (Fodder)
 
 _A writhing, starving mass that exists purely to drain Momentum and Wounds before the real threat arrives._
@@ -127,7 +128,7 @@ _A writhing, starving mass that exists purely to drain Momentum and Wounds befor
         
 - **Threat Abilities (1):**
     
-    - **Passive - Hive Mind:** Fodder cannot spend Threat unless led by a leader. However, if three or more swarms are engaged with a single target, they automatically generate +1 to the _Flanking Bonus_ for each other (representing the rats crawling over armor and finding gaps).
+    - **Passive - Hive Mind:** Fodder cannot spend Threat unless led by a leader. However, if three or more swarms are engaged with a single target, they automatically inflict 1 Dissonant Stress on the Target. represnting the rats crawling over armor and finding gaps).
         
 - **Vessel Limit:** 1
   ________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -139,7 +140,7 @@ _A writhing, starving mass that exists purely to drain Momentum and Wounds befor
     
 - **Traits (1):**
     
-    - _Plated_ (Can spend Threat to Mitigate damage, reducing incoming Impact by 2 per point spent).
+    - _Plated_ : Reduces all incoming standard Impact damage by a flat -1. 
         
 - **Threat (1) - Unstoppable Mass (Cost 1):** _Trigger:_ Declared on a successful Melee clash. _Effect:_ Taxes player Momentum or violently shoves them out of position.
     
