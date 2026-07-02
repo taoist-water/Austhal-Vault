@@ -119,7 +119,7 @@ __________________________________________________________________
 
 - Wound Threshold [[Wounds Threshold|T]]: **4 + Prowess + Armour + Species Bonuses + Scale bonus + Misc.mods**
     
-- Stress Limit: **4 + Wits + Will + species bonus + Feat bonus**. 
+- Stress Limit: **4 + Will + Wits + Feat Bonus + Species bonus.**. 
     -  If your total Stress (Locked + Dissonant) exceeds this limit, your mental focus shatters: all current Locked Stress immediately becomes Dissonant, applying its full penalties, and any excess points are converted into Wounds.
 
 ## Attributes (capped at +3 Max)
