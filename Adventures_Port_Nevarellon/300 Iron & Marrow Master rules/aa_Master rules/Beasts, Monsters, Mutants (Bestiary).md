@@ -29,74 +29,66 @@ ________________________________________________________________________
 # Traits
 ## DEFENSIVE & PHYSIOLOGICAL TRAITS
 
-### Plated 
-
+**Plated** 
 - Thick hide, rusted iron carapace, or heavy plate scales shield vital locations.
     
 - Reduces all incoming standard Impact damage by a flat -1. 
     
 
-###  Skittering 
-
+**Skittering** 
 - Unnatural speed, shifting limbs, or erratic reflexes make them slippery targets.
     
 - This Creature may move out of Threat zone without  requiring a test, or causing a free strike.
     
-### Massive
+**Massive**
 - Massive: Weapons without Sunder, Brutal, or Piercing have their Impact halved before comparing to its Wounds threshold.
 _Fanatical:_ Immune to being Intimidated.
 ---
 
 ## OFFENSIVE & MARTIAL TRAITS
 
-### Brute 
-
+**Brute**
 - Heavy, sweeping strikes designed to shatter shields and break bones.
     
 - When this creature wins an attack action, it inflicts +1 Impact and forces the target back 1 square/5ft. If the target hits a wall or solid obstacle, they immediately take 1 Dissonant Stress from the concussive force.
     
 
-### Vicious 
-
+**Vicious**
 - Jagged fangs, rusted serrated daggers, or disease-ridden claws that leave lingering wounds.
     
 - If this creature inflicts damage on a player character, the target must immediately make a Prowess check (A check using only their Prowess attribute). If they fail they gain the Bleeding condition. 
     
-
+**Swarm:** 
+- The Swarm gains a +1 bonus to their Clash roll for every additional swarm ally currently engaged with the same target.
 
     
-### Amorphous
+**Amorphous**
 - Single-target weapons (daggers, arrows, spears) can never inflict a Wound on the Swarm.
-_Scrappy Swarm:_ The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
+
 ---
 
 ##  TACTICAL & PSYCHOLOGICAL TRAITS
-### Fear Inducing
+**Fear Inducing**
 - A frightening vision - whether a horrifying beast, or scene of heretical ritual.
--  When a PC engages with this creature or it activates within line of sight, the PC must immediately roll a Will + Resolve check against TN 8.
-    
+-  When a PC engages with this creature or it activates within line of sight, the PC must immediately roll a Will + Resolve check against TN 8.    
 
 - Failure: The PC immediately gains the *Fear*  condition.
 
-### Terrifying 
-
+**Terrifying**
 - A harrowing presence—whether an eldritch abomination or a faceless, silent headsman—that cracks the human mind.
     
-- When a PC engages with this creature or it activates within line of sight, the PC must immediately roll a Will + Resolve check against TN 8.
-    
+- When a PC engages with this creature or it activates within line of sight, the PC must immediately roll a Will + Resolve check against TN 8.    
 
 - Failure: The PC immediately gains the *Terrified* condition.
     
 
-### Cunning Leader 
-
+**Cunning Leader**
 - A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision.
     
 - At the beginning of the Round, this creature can pass its own postion in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
     
 
-### Unstable Volatility 
-
+**Unstable Volatility**
 - A creature bloated with volatile arcane radiation, alchemical compounds, or demonic instability.
     
 - If this creature is struck by a Fates Bounty(meaning the attack roll against it was a Fates bounty), or if it rolls Snake Eyes (fumbles) on its own action, its containment ruptures. All characters (allies and enemies alike) within a 10ft radius must defend against an immediate burst of raw energy, taking 2 points of Locked Stress (if magical) or Dissonant Stress (if alchemical/fire).
@@ -114,7 +106,7 @@ _Scrawny, twitchy, and desperate. They prefer to strike from the shadows and ret
     
 - **Traits (1):**
     
-    - _Scrappy Swarm:_ The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
+    - _Swarm:_ The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
         
 - **Threat Abilities:** _Passive._ Fodder cannot spend Threat unless led by a leader.
     
@@ -130,13 +122,15 @@ _A writhing, starving mass that exists purely to drain Momentum and Wounds befor
     
 - **Traits (1):**
     
-    - _Amorphous Swarm:_ Single-target weapons (daggers, spears, arrows) cannot inflict a Wound. Only Area of Effect (AOE) attacks or weapons with the _Heavy_ or _Siege_ tag can kill them.
+    - _Amorphous:_ Single-target weapons (daggers, spears, arrows) cannot inflict a Wound. Only Area of Effect (AOE) attacks or weapons with the _Heavy_ or _Siege_ tag can kill them.
+    -  Swarm:  The Swarm gains a +1 bonus to their Clash roll for every additional swarm ally currently engaged with the same target.
         
 - **Threat Abilities (1):**
     
     - **Passive - Hive Mind:** Fodder cannot spend Threat unless led by a leader. However, if three or more swarms are engaged with a single target, they automatically generate +1 to the _Flanking Bonus_ for each other (representing the rats crawling over armor and finding gaps).
         
 - **Vessel Limit:** 1
+  ________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Grunt: Orc Line-Breaker
 
 - **Budget Used:** 4 points.
