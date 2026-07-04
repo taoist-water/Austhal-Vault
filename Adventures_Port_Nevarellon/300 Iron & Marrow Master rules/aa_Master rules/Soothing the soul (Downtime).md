@@ -138,7 +138,7 @@ Each entry below formalizes an Pursuit  already referenced elsewhere in the rule
 ### Field Medic
 *An accelerant feat-driven Pursuit , not a base action available to everyone.*
 
-This Pursuit  does not exist independently — it is unlocked by a specific feat (already referenced, not included in this document) that allows a character to spend Progress Momentum to bypass the standard 3-day Tend to the Flesh cycle. Per the existing Combat Medic feat text already in *The Marrow*: spending 2 Progress Momentum instantly heals 1 Wound Slot in 10 minutes, at a cost of 2 Dissonant Stress to the patient. This document does not change that feat's text — it simply confirms Field Medic sits under the Downtime Pursuit  umbrella defined here, and that the Progress Momentum it spends is the same currency generated above.
+This Pursuit  does not exist independently — it is unlocked by a specific feat (already referenced, not included in this document) that allows a character to spend Progress Momentum to bypass the standard 3-day Tend to the Flesh cycle. Per the existing Flesh Weaver feat text already in *The Marrow*: spending 2 Progress Momentum instantly heals 1 Wound Slot in 10 minutes, at a cost of 2 Dissonant Stress to the patient. This document does not change that feat's text — it simply confirms Field Medic sits under the Downtime Pursuit  umbrella defined here, and that the Progress Momentum it spends is the same currency generated above.
 
 ### Focused Burst
 *Self-inflicted urgency — burning your own composure to get ahead of schedule.*
