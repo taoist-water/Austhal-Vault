@@ -29,6 +29,11 @@ ________________________________________________________________________
 # Traits
 ## DEFENSIVE & PHYSIOLOGICAL TRAITS
 
+ - _Sinking Gravity:_ The ground immediately within the creatures Threat Zone is perpetually treated as Mire (Difficult Terrain), halving movement and imposing disadvantage to all mobility checks. 
+        
+- _Resilient:_ Increases the creature’s Stress Limit by +2. Can spend Threat to Mitigate damage, reducing incoming Impact by 2 per point spent (up to its Vessel limit).
+        
+
 **Plated** 
 - Thick hide, rusted iron carapace, or heavy plate scales shield vital locations.
     
@@ -206,7 +211,7 @@ _A towering, territorial brute of dense muscle and thick frost-bitten hide. It s
     
 - **Traits (2):**
     
-    - _Massive (Scale +2):_
+    - _Huge (Scale +2):_
         
     - _Troll-Blood Regeneration:_ At the start of the Troll's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ If the Troll takes any Impact damage from a Fire source (such as a _Naphtha Fire-Flask_ or Pyromancy), this trait is entirely suppressed until the end of the next round.
         
@@ -222,13 +227,13 @@ ___________________________________________________________________
 
 _A towering, decapitated mass of waterlogged flesh, rusted iron chains, and tangled mangrove roots. It does not feel pain; it only seeks to pull living warmth down into the freezing mud._
 
-- **Wound Threshold:** 9 | **Wound Slots:** 4
+- **Wound Threshold:** 9 | **Wound Slots:** 4, Huge scale (+2)
     
 - **Stats:** Prowess +3 | Melee +3, Brace +2. _(Assumed Zero: Reflex, Dodge, Wits, Will, Arcana. A lumbering behemoth. It swings at a +6 and braces against physical blows at a +5, but is completely defenseless against Agility or Mind-targeting magic)._
     
 - **Traits (2):**
     
-    - _Sinking Gravity:_ The ground immediately within the Goliath’s Threat Zone is perpetually treated as Mire (Difficult Terrain), halving movement and imposing a -1 penalty to all mobility checks due to the supernatural rot and water bleeding from its body.
+    - _Sinking Gravity:_ The ground immediately within the Goliath’s Threat Zone is perpetually treated as Mire (Difficult Terrain), halving movement and imposing disadvantage to all mobility checks due to the supernatural rot and water bleeding from its body.
         
     - _Resilient:_ Increases the creature’s Stress Limit by +2. Can spend Threat to Mitigate damage, reducing incoming Impact by 2 per point spent (up to its Vessel limit).
         
@@ -239,6 +244,8 @@ _A towering, decapitated mass of waterlogged flesh, rusted iron chains, and tang
     - **Cost 2 Threat - Sweeping Uproot:** _Trigger:_ Declared before the Goliath makes a Strike. _Effect:_ The Goliath drags its massive club through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
         
 - **Vessel Limit:** 2
+
+_______________________________
 ### Boss: Arch-Devil Malaphar
 
 - **Budget Used:** 14 points.
@@ -255,7 +262,7 @@ _A towering, decapitated mass of waterlogged flesh, rusted iron chains, and tang
     
     - **Cost 1 Threat - Furnace Rebuke:** _Trigger:_ Declared when Malaphar wins a Clash as the Reactor (Defense). _Effect:_ The Sovereign deflects the player's blow with such friction that the player's weapon or hands burst into flames. The player instantly gains the Ablaze condition.
         
-    - **Cost 2 Threat - The Devil's Mandate:** _Trigger:_ Declared as a Free Action on Malaphar's turn. _Effect:_ Malaphar speaks a word of absolute authority, targeting one player. That player must instantly mark 2 Dissonant Stress, OR drop to their knees in submission (gaining the Prone and Anchored conditions).
+    - **Cost 2 Threat - The Devil's Mandate:** _Trigger:_ Declared as a Free Action on Malaphar's turn. _Effect:_ Malaphar speaks a word of absolute authority, targeting one player. That player must pass a TN8 will + resolve check at -2, OR drop to their knees in submission (gaining the Prone and Anchored conditions).
         
     - **Cost 3 Threat - Lair Action (Gehenna's Grip):** _Trigger:_ Declared at the absolute start of a combat round. _Effect:_ The veil tears, and chains of molten iron erupt. Every player must make an immediate, unopposed Prowess + Melee/Dodge check against TN 8. Failure means they are violently dragged 10 feet toward Malaphar.
         
