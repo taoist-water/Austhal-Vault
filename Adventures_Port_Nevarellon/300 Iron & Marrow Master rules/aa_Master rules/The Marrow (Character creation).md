@@ -325,7 +325,7 @@ ______________________________________________________________________
     
 - You move without displacing the air around you.
     
-- Mechanic: You ignore the standard -2 penalty for moving quickly while trying to remain hidden.
+- Mechanic: You ignore the standard penalty for moving quickly while trying to remain hidden.
 ### Stoic Resolve
 
 - Prerequisites: Will +2, Resolve +1
@@ -406,7 +406,7 @@ ______________________________________________________________________
     
 - Meat and bone, hardened against kinetic shock.
     
-- Mechanic: Your sheer mass makes it incredibly difficult to deal kinetic damage to you. When an attack's Impact equals or beats your Wound Threshold, you may spend 1 Momentum to completely absorb the kinetic shock, turning the physical Wound into 1 Dissonant Stress instead.
+- Mechanic: Your sheer mass makes it incredibly difficult to deal kinetic damage to you. you may spend 1 Momentum to add 2 to your wounds threshold for that attack. stacks with brace.
 ### Lateral Assessment
 
 - Prerequisites: Wits +2
