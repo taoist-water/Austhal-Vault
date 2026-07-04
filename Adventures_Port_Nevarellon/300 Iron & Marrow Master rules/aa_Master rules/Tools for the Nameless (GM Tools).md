@@ -37,7 +37,7 @@ Because the community supply die is a tangible mechanic, the GM can use their Th
     
 - The Scavenger: Small, fodder-tier enemies (like goblins or feral ghouls) might have a rule where if they win a Clash, they don't deal Impact. Instead, they slice open a backpack and flee, forcing an automatic step-down of the Supply Die without a roll.
 ________________________________________________________________________
-### It Empowers the Non-Caster
+### Non-Caster usage of Faith and Arcana
 
 Allowing non-casters to still use the _Arcana_ and _Faith_ skills is a brilliant piece of lateral design.
 
@@ -101,28 +101,28 @@ All enemies draw from one central bucket of Threat points.
 
 1. **The Common Pool:** Keep the Shared Threat Pool (Max 5). This is the "Dungeon's Adrenaline."
     
-2. **The Vessel Limit:** An individual Elite or Boss has a **Vessel Limit** (usually 1 or 2). This is the maximum amount of Shared Threat they can "pull" into themselves to trigger an ability in a single round.
+2. **The Vessel Limit:** each individual tier of enemy has a **Vessel Limit**. This is the maximum amount of Shared Threat they can "pull" into themselves to trigger an ability in a single round.
 ### The Behavioral Recharge (Condition Triggers)
 
-If you want an Elite to recover Threat during a fight without the GM doing any math, tie the recovery to a binary, narrative trigger unique to that monster's biology or psychology.
+If you want to generate Threat during a fight without the GM doing any math, tie the recovery to a binary, narrative trigger.
 
 - The Mechanic: The GM starts with 1 or 2 Threat. They regain 1 Threat only when a specific condition is met.
     
 - Examples by Enemy Type:
     
-- The Blood-Crazed Orc: Regains 1 Threat immediately whenever it suffers a Wound (representing uncontrollable rage).
+- The Blood-Crazed Orc: generates 1 Threat immediately whenever it suffers a Wound (representing uncontrollable rage).
     
-- The Sadistic Mercenary: Regains 1 Threat immediately whenever a player in its Threat Zone suffers a physical Wound (feeding on the momentum of the kill).
+- The Sadistic Mercenary: generates 1 Threat immediately whenever a player in its Threat Zone suffers a physical Wound (feeding on the momentum of the kill).
     
-- The Clockwork Sentinel: Regains 1 Threat automatically at the start of every even-numbered combat round (representing internal engine pressure building up).
+- The Clockwork Sentinel: generates 1 Threat automatically at the start of every even-numbered combat round (representing internal engine pressure building up).
     
 ### Static recharges
 
 - **The Vanguard Escalation:** At the start of **every round**, the GM gains 1 Threat. This is non-negotiable.
     
-- **The Attrition Tax:** If a player spends 30 minutes in a **Breather**, they don't just lose Momentum; they lose their "preparedness." The GM gains **2 Threat** immediately, representing the monsters closing in while the party is distracted and bandaging wounds.
+(dev note)- **The Attrition Tax:** If a player spends 30 minutes in a **Breather**, they don't just lose Momentum; they lose their "preparedness." The GM gains **2 Threat** immediately, representing the monsters closing in while the party is distracted and bandaging wounds.
     
-- **The "Targeting the Bank" Rule:** If an Elite hits a player and that player has **any** Momentum in their bank, the GM can spend **2 Threat** to "Drain the Adrenaline." The player loses 2 Momentum, and the GM instantly heals 1 Stress on the Elite.
+- **The "Targeting the Bank" Rule:** If an Elite hits a player and that player has **any** Momentum in their bank, the GM can spend **2 Threat** to "Drain the Adrenaline." The player loses 2 Momentum, and the GM instantly heals 1 Stress on the Elite.(/dev note)
 ________________________________________________________________________
 ## The Three Tiers of Monsters
 
@@ -134,20 +134,21 @@ Because modifiers are bounded, monsters are categorized by how they interact wit
 
 They exist to drain player Momentum and force tactical positioning.
 
-- Stats: Low modifiers (+1 or +2 max).
+- Stats: Low modifiers.
 - Thematic Threat Limits.
+- vessel limit 1: in most cases only useable when a leader is present.
     
 - Health: 1 Wound Slot, 0 Stress Limit.
     
 - Mechanic: They rely entirely on the Swarm Bonus. Any Impact instantly kills them.
     
 
-2. Elites (The Grinders)
+2. Elites/grunts (The Grinders)
 
 These are the core adversaries. Heavily armored mercenaries, mutated alchemical horrors, and seasoned killers. They force the players to spend Momentum and use the Two-Way Clash to survive.
 
-- Stats: High specialized modifiers (+4 to +6 in their primary attack/defense).
-- Threat Limit: 2
+- Stats: High specialized modifiers.
+- Vessel Limit: 2
     
 - Health: 2 to 3 Wound Slots. Low to Moderate Stress Limits (3 to 4).
     
@@ -158,8 +159,8 @@ These are the core adversaries. Heavily armored mercenaries, mutated alchemical 
 
 These are terrifying, almost mechanical monstrosities or apex predators.
 
-- Stats: Moderate modifiers (+7 or +8), ensuring players can still mathematically hit them.
-- Threat Limit: 4
+- Stats: Moderate modifiers
+- Vessel Limit: 4
     
 - Health: 4+ Wound Slots. High Stress Limit.
     
