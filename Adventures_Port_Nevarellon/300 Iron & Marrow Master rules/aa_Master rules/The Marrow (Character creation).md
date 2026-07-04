@@ -392,14 +392,15 @@ ______________________________________________________________________
 - Physics and leverage apply to monsters, too.
     
 - Mechanic: You may attempt to Grab or Shove creatures up to two sizes larger than you (e.g., Standard Scale vs. Huge Scale). Furthermore, you ignore the automatic 1 Stress penalty when attempting to Block an Aggressor who is larger than you.
-### Iron Conviction (dev note)This is going to need a revision as it no longer works with the current mechanics. (/dev note)
+### Iron Conviction 
 
 - Prerequisites: Will 2, Resolve 2
     
 - Your sheer grit is terrifying.
     
-- Mechanic: When you use the Desperate Soak maneuver (spending 2 Momentum to turn a Wound into 2 Stress), you gain Advantage (3d6 Keep 2) on the Will + Resolve roll. This transforms the Desperate Soak from a risky gamble into a highly reliable survival engine, allowing you to endure crushing kinetic blows without breaking.
-### Juggernaut (dev note)This will need revision, seems to similar to the Blood price momentum spend. (/dev note)
+- Mechanic: When you use the blood price maneuver, you do not spend momentum. This can only beusesd once per scene.
+
+### Juggernaut
     
 - Prerequisites: Prowess 2
     
