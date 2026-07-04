@@ -115,7 +115,7 @@ _______________________________________________________________________
 | Weapon Name                           | Specialization Group | Power | Grip  | Range / Threat                  | Tags & Attributes                                                                                                                                                                           |
 | ------------------------------------- | -------------------- | ----- | ----- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Unarmed (fists/feet/knees and elbows) | Unarmed              | 0     | 1H/2H | 5 ft Threat                     | Non-lethal, sidearm                                                                                                                                                                         |
-| Dagger / Knife                        | Blades               | 0     | 1H    | 5 ft Threat / 30 ft Thrown      | Concealable, Close-Quarters,Precise, Thrown, Sidearm                                                                                                                                        |
+| Dagger / Knife                        | Blades               | 0     | 1H    | 5 ft Threat / 30 ft Thrown      | Concealable, Close-Quarters,Precise, Thrown, Sidearm, finesse                                                                                                                                        |
 | Shortsword                            | Blades               | 1     | 1H    | 5 ft Threat                     | Sidearm                                                                                                                                                                                     |
 | Hand Axe                              | Axes                 | 1     | 1H    | 5 ft Threat / 30 ft Thrown      | Brutal, Thrown, Side arm                                                                                                                                                                    |
 | Mace / Bludgeon                       | Bludgeons            | 1     | 1H    | 5 ft Threat                     | Bash                                                                                                                                                                                        |
@@ -146,6 +146,8 @@ _______________________________________________________________________
 - Conduit can be used to perform Somatic components. The caster weaves the geometry of the spell using the item itself, meaning their hand does not need to be empty. 
     
 - Cumbersome: The weapon is heavy and slow to ready. Imposes a -1 penalty on Activation order rolls.
+
+- finesse: may use reflex instead of prowess in clashes.
     
 - Focus: Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the wand, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
     
