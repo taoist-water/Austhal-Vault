@@ -1,7 +1,7 @@
 # The Dynamic Trait Manifest
 Design Philosophy: Keep stat blocks simplified. Let traits dictate tactical behaviour, stress interaction, and threat usage.
 
-Enemies use the same character generation rules as players. Once and enemy is generated populate their stat block using the same derived stats as players, only list the stats that are most important, such as WT and Stress limit. The stats that have no modifier to not get listed and are assumed to be zero. 
+Enemies use the same character generation rules as players. Once an enemy is generated populate their stat block using the same derived stats as players, only list the stats that are most important, such as WT and Stress limit. The stats that have no modifier to not get listed and are assumed to be zero. 
 ####  Core Integration Rules
 
 - **Fodder:** * _Budget:_ +1 to +2 total points distributed across 1 Attribute or Skill.
@@ -42,7 +42,6 @@ ________________________________________________________________________
     
 **Massive**
 - Massive: Weapons without Sunder, Brutal, or Piercing have their Impact halved before comparing to its Wounds threshold.
-_Fanatical:_ Immune to being Intimidated.
 ---
 
 ## OFFENSIVE & MARTIAL TRAITS
@@ -81,6 +80,9 @@ _Fanatical:_ Immune to being Intimidated.
 
 - Failure: The PC immediately gains the *Terrified* condition.
     
+_**Fanatical:** Immune to being Intimidated.
+        
+**Ambusher:**_ Gains Advantage on the Clash roll if attacking an unaware target from Stealth.
 
 **Cunning Leader**
 - A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision.
@@ -145,7 +147,7 @@ _A writhing, starving mass that exists purely to drain Momentum and Wounds befor
 - **Threat (1) - Unstoppable Mass (Cost 1):** _Trigger:_ Declared on a successful Melee clash. _Effect:_ Taxes player Momentum or violently shoves them out of position.
     
 - **Vessel Limit:** 1
-    
+    ___________________________
 ### Elite: Cultist Assassin
 
 - **Budget Used:** 8 points.
@@ -160,11 +162,12 @@ _A writhing, starving mass that exists purely to drain Momentum and Wounds befor
         
 - **Threat Abilities (2):**
     
-    - **Cost 1 Threat - Smoke Bomb:** _Trigger:_ Declared as a Reactor. _Effect:_ The Assassin immediately drops a smoke bomb, blinding the attacker and allowing the Assassin to reposition into Stealth.
+    - **Cost 1 Threat - vanish** _Trigger:_when obsurced _Effect:_ The Assassin blends into the shadows, the assassin is effectively totally obscured, requiring a successful notice check to find.
         
     - **Cost 2 Threat - Throat Slit:** _Trigger:_ On a successful Melee clash with a Margin of 3+. _Effect:_ The target immediately suffers a Minor Wound, bypassing their normal Impact Threshold.
         
 - **Vessel Limit:** 2
+_______________________________
 
 ### The Bandit Captain (Elite)
 
@@ -176,11 +179,11 @@ _A serious threat that requires party synergy to defeat. He doesn’t fight fair
     
 - **Traits (2):**
     
-    - _Cunning Leader:_ So long as the Captain is alive and on the battlefield, Fodder allies are emboldened and permitted to spend Threat abilities.
+    - _Cunning Leader:_
         
-    - _Brute:_ The Captain swings with immense, crushing momentum. Any player attempting to Block his Halberd strikes automatically suffers 1 Dissonant Stress, even on a successful defense.
+    - _Brute:_ 
         
-- **Weapons:** * _Masterwork Halberd (Power 3, Reach, Cumbersome)._ **Strike Roll:** `2d6 + 5` _(Prowess 2 + Melee 2 + Masterwork 1)_.
+- **Weapons:** * _Masterwork Halberd (Power 3+1 masterwork (4), Reach, Cumbersome)._ **Strike Roll:** `2d6 + 5` _(Prowess 2 + Melee 2)_.
     
 - **Threat Abilities (2):**
     
@@ -203,7 +206,7 @@ _A towering, territorial brute of dense muscle and thick frost-bitten hide. It s
     
 - **Traits (2):**
     
-    - _Massive (Scale +2):_ The Troll's immense size taxes the defenders. Any character who attempts to Block the Troll's strikes automatically suffers 1 Stress and takes Disadvantage on their Reactor roll.
+    - _Massive (Scale +2):_
         
     - _Troll-Blood Regeneration:_ At the start of the Troll's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ If the Troll takes any Impact damage from a Fire source (such as a _Naphtha Fire-Flask_ or Pyromancy), this trait is entirely suppressed until the end of the next round.
         
