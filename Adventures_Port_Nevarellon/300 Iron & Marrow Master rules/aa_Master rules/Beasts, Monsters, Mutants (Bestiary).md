@@ -188,7 +188,7 @@ _A serious threat that requires party synergy to defeat. He doesn’t fight fair
         
     - _Brute:_ 
         
-- **Weapons:** * _Masterwork Halberd (Power 3+1 masterwork (4), Reach, Cumbersome)._ **Strike Roll:** `2d6 + 5` _(Prowess 2 + Melee 2)_.
+- **Weapons:** * _Masterwork Halberd (Power 3+1 masterwork (4), Reach, Cumbersome)._ **Strike Roll:** `2d6 + 4` _(Prowess 2 + Melee 2)_.
     
 - **Threat Abilities (2):**
     
