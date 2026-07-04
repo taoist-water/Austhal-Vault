@@ -2,7 +2,7 @@ To keep the two systems distinct, we should root them in entirely opposite philo
 
 # Arcana (The Volatile Margin)
 
-Arcana is the act of forcefully rewriting reality. It is highly illegal, mathematically devastating, and inherently unstable. It relies entirely on Margin mechanics.
+Arcana is the act of forcefully rewriting reality. It is highly complex, mathematically devastating, and inherently unstable. It relies entirely on Margin mechanics.
 
 **The Arcane Clash (Combat Spells)**
 
