@@ -1,3 +1,11 @@
+# Design concept
+- A gritty, High fantasy realism role playing game.
+- a brutal, psychologically driven fantasy RPG built around opposed rolls, Momentum, and the interaction between physical trauma and mental collapse
+- Rolls are either opposed or against a static target number, with contextually applied modifiers.
+- Unopposed rolls always resolve with a margin of success or scaler.
+- rule system that is simple, yet detailed. When dealing with combat.
+- trying to reduce cognitive load on the GM and Players.
+
 #  The Golden Rules:
 - Bonuses to Wound Threshold from magical sources (Spells, Auras) do not stack. A character only benefits from the highest single bonus. This does not apply to Shield Value.
 - All non-Opposed checks are against a Target Number [[TN|TN]] 8.
