@@ -150,9 +150,9 @@ This Pursuit  does not exist independently — it is unlocked by a specific feat
 
 - **Time Cost:** A minimum of 1 full day, dedicated entirely to the practice (fasting, prayer, ritual confession, a pilgrimage to a shrine) — no other Downtime Pursuit  may be performed simultaneously.
 - **The Check:** Will + Faith vs. TN 8.
-- **Standard Success:** Clears Locked Stress equal to the character's Will score (minimum 1).
-- **Massive Success:** Clears all of the Priest's Locked Stress, and banks 1 Progress Momentum — a moment of genuine, total absolution.
-- **Failure:** No Stress is cleared, and the day is lost. Unlike a failed Hammer & Forge or Tend to the Flesh, a failed Religious Pursuit is worth narrating: the Priest reached for their faith and found only silence. This is a good spot for the GM to foreshadow consequences of past Borrowed Authority Fails (see the Tithe of Will rules) — a Priest who's been racking up GM Threat through failed Tithes may find their Religious Endeavours getting harder, at GM discretion.
+-  **Standard Success:** Clears Locked Stress equal to the character's Will score (minimum 1), and clears 1 point of Encroachment (see Embracing the Abyss).
+- **Massive Success:** Clears all of the Priest's Locked Stress and all of their Encroachment, and banks 1 Progress Momentum — a moment of genuine, total absolution.
+- **Failure:** No Stress is cleared, and the day is lost. Unlike a failed Hammer & Forge or Tend to the Flesh, a failed Religious Pursuit is worth narrating: the Priest reached for their faith and found only silence. This is a good spot for the GM to foreshadow consequences of past Borrowed Authority Fails — a Priest carrying Encroachment from failed Tithes brings that same silence into this roll, at GM discretion.
 
 ### Acquisition (Restocking and Purchasing)
 *Replenishing limited-use kits and consumables, like the Field Surgeon's Kit's 6 uses — and the same procedure governing any new gear bought outright in town.*

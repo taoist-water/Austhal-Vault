@@ -1125,8 +1125,8 @@ The caster marks an extra-planar entity with a sigil of rejection, forcing it ba
 
 **The Tithe Ladder:**
 - Pass: If the Priest also wins the opposed roll, the target is stunned and suffers 3 Stress. If this exceeds the target's Stress Limit, it is immediately banished (Incapacitated). If the Priest loses the opposed roll, the Miracle still occurs but produces no effect beyond a flash of light — the entity resists.
-- Fail: As Pass, and the GM gains 1 Threat.
-- Snake Eyes: Convert the Locked Stress cost into direct Wounds on the Priest, per the Toll in Flesh rule, regardless of whether the banishment succeeded.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the Locked Stress cost into direct Wounds on the Priest, per the Toll in Flesh rule, regardless of whether the banishment succeeded, and reset the Priest's Encroachment to 0.
 __________________________________________________________________
 ## The Domain of Mercy & Healing
 he most profound and taxing of all Miracles — reaching into the void to pull a soul back to its broken vessel. Locked to the Domain of Mercy & Healing: only a Domain built on absorbing someone else's agony as your own (per Pure Martyrdom) earns a cost this absolute.
@@ -1140,8 +1140,8 @@ he most profound and taxing of all Miracles — reaching into the void to pull a
 
 **The Tithe Ladder:**
 - Pass: Target gains the **Blessed** condition. 
-- Fail: As Pass, and the GM gains 1 Threat.
-- Snake Eyes: Convert the 1 Locked Stress into 2 direct Wounds, per Toll in Flesh.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
 **Special Interactions:** none.
 __________________________________________________________________
@@ -1154,8 +1154,8 @@ __________________________________________________________________
 
 **The Tithe Ladder:**
 - Pass: deals 2 Impact (ignores Armor) to one target; if the target is Undead/Daemon/Mutant, they also gain Fear.
-- Fail: As Pass, and the GM gains 1 Threat.
-- Snake Eyes: onvert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh.
+-  Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
 **Special Interactions:** none.
  
@@ -1169,8 +1169,8 @@ __________________________________________________________________
 
 **The Tithe Ladder:**
 - Pass: The target returns to life with 3 Wounds and maximum Stress. The Priest pays the Locked Stress cost — this will almost certainly exceed their Stress Limit, converting the excess into Wounds per the Death Spiral rule. This Miracle is built to cost the caster something severe, not "likely" to — say so plainly to the table before they commit.
-- Fail: As Pass, and the GM gains 1 Threat.
-- Snake Eyes: Convert the entire Locked Stress cost into direct Wounds, per the Toll in Flesh rule — at 8 points, this is unsurvivable for a Priest who isn't already braced for it.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the entire Locked Stress cost into direct Wounds, per the Toll in Flesh rule — at 8 points, this is unsurvivable for a Priest who isn't already braced for it — and reset the Priest's Encroachment to 0.
 
 **Special Interactions:** Soul Scar — the resurrected character permanently loses 1 point of Will as the price of their return.
 __________________________________________________________________
