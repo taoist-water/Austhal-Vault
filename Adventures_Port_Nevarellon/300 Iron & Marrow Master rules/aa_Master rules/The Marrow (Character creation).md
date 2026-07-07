@@ -410,7 +410,7 @@ ______________________________________________________________________
     
 - Sleep is a luxury you cannot afford right now.
     
-- Mechanic: During downtime, you can intentionally inflict up to 3 points of Locked Stress upon yourself. For each point of Locked Stress taken, you generate 1 point of Progress Momentum. This allows you to artificially fuel the Focused Burst or Field Medic downtime actions without needing to roll a Massive Success.
+- Mechanic: During downtime, you can intentionally inflict up to 3 points of Locked Stress upon yourself. For each point of Locked Stress taken, you generate 1 point of Progress Momentum. This allows you to artificially fuel the Field Medic, hammer & forge, etc downtime actions without needing to roll a Massive Success.
 ### Path of Least Resistance
 
 - Prerequisites: Wits +2, Survival +2
@@ -441,7 +441,7 @@ ______________________________________________________________________
     
 - You are a master of punishing overextension.
     
-- Mechanic: If you win a Parry action in a melee Clash, you violently deflect the blow and instantly inflict Impact on the Aggressor. This turns your defense directly into a weapon.
+- Mechanic: If you win a Parry action in a melee Clash, you violently deflect the blow and instantly inflict Impact on the Attacker. This turns your defence directly into a weapon.
 ### Silver-Tongued Viper
 
 - Prerequisites: Wits +2, Influence +2

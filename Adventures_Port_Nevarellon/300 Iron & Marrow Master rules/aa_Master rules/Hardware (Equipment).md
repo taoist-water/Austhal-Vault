@@ -130,10 +130,11 @@ _______________________________________________________________________
 | Grimoire                              | Arcane Focus         | —     | 1H    | —                               | Repository:                                          | 15 sp | Scarce           |
 | Mage Staff                            | Arcane Focus         | —     | 2H    | —                               | Reach, Bound, grounding rod.                         | 45 sp | Rare             |
 | Wand                                  | Arcane Focus         | —     | 1H    | —                               | Conduit, Focus, Sidearm.                             | 35 sp | Rare             |
-| Wand                                  |                      |       | 1H    |                                 | Conduit, Focus, Sidearm.                             |       |                  |
+| Rapier                                | Blades               | 1     | 1H    | 5ft threat                      | Finesse, Armour-piercing                             | 30sp  | scarce           |
+
 
 ## Weapon Tags
-- Armor-Piercing: Ignores 1 Point of armour
+- Armour-Piercing: Ignores 1 Point of armour.
 - Bound:  enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
     
 - Bash: If your attack results in a Glancing Hit (Impact < Threshold), it deals +1 additional Dissonant Stress due to blunt force trauma.
@@ -192,7 +193,7 @@ These variations add specific situational tactical tools to the baseline weapon 
     
 - Stats: Power 1 | 1H | 5 ft Threat
     
-- Tags: Precise, Armor-Piercing
+- Tags: Finesse, Armor-Piercing
     
 - 2d6 Special Rule: Designed specifically to pass between armor plates. If the Attack roll is a Perfect Form (rolling a natural 3 and 4 on the Clash check), this weapon completely ignores all physical Armor values and structural damage reduction, applying its full Impact raw to the Wound Threshold.
     

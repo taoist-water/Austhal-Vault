@@ -46,7 +46,7 @@ ________________________________________________________________________
 - This Creature may move out of Threat zone without  requiring a test, or causing a free strike.
     
 **Massive**
-- Massive: Weapons without Sunder, Brutal, or Piercing have their Impact halved before comparing to its Wounds threshold.
+- Massive: Weapons without Sunder, Brutal, or Armour-Piercing have their Impact halved before comparing to its Wounds threshold.
 ---
 
 ## OFFENSIVE & MARTIAL TRAITS
