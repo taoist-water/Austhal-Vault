@@ -35,8 +35,7 @@ Not every Pursuit  is available everywhere. A fishing hamlet has no master black
 *A handful of families, maybe a shrine, no real market.*
 - **Available Endeavours:** Tend to the Flesh, Religious Pursuit  (if the local shrine matches the Priest's tradition — GM's call), basic Acquisition (food, rope, torches, common-tier items only).
 - **Unavailable:** Hammer & Forge (no forge), Commission (no master artisan).
-- **Acquisition Modifier:** **-2** to the Acquisition check for anything beyond Common availability — a hamlet simply doesn't stock it, full stop, regardless of how good the roll is. Treat a roll that would otherwise succeed as automatically failing if the item's Availability rating exceeds Common.
-
+- **Acquisition Modifier:** **-2** to the Acquisition check for Common-tier goods — a hamlet's stock is thin, and there's little room to haggle or substitute. Anything above Common isn't a modifier problem, it's a hard gate: automatically fails regardless of the roll — a hamlet simply doesn't stock Scarce, Rare, or Legendary goods, full stop.
 ### Town (Tier 1)
 *A proper market square, a working forge, a temple or chapter house.*
 - **Available Endeavours:** All of the above, plus Hammer & Forge and Acquisition up to Scarce availability, Finance bank.
@@ -84,7 +83,7 @@ This keeps the actual dice-facing procedure exactly as previously defined — no
 
 ___________________________________________________________________
 
-# Downtime Endeavours
+# Downtime Pursuits
 
 ## The Base Procedure: Progress Momentum
 
@@ -103,7 +102,7 @@ Downtime uses the same Margin-driven logic as everything else in the system, sca
 
 ________________________________________________________________________
 
-## The Named Endeavours
+## The Named Pursuits
 
 Each entry below formalizes an Pursuit  already referenced elsewhere in the rules. Where a feat or item already specifies a detail (a time cost, a bonus, an output), that detail is preserved exactly — this section is filling the gaps around existing text, not overwriting it.
 
@@ -157,6 +156,14 @@ This Pursuit  does not exist independently — it is unlocked by a specific feat
 
 ### Acquisition (Restocking and Purchasing)
 *Replenishing limited-use kits and consumables, like the Field Surgeon's Kit's 6 uses — and the same procedure governing any new gear bought outright in town.*
+
+| Availability | Sourced from              | Price band | Logic                                               |
+| ------------ | ------------------------- | ---------- | --------------------------------------------------- |
+| Common       | Hamlet+                   | 1–25 sp    | Village smith/herbalist, ordinary materials         |
+| Scarce       | Town+                     | 15–50 sp   | Needs a proper forge, market, or trained specialist |
+| Rare         | City+                     | 50–200+ sp | Guild-level craftsmanship, exotic materials         |
+| Legendary    | Capital, Commission-gated | GM-set     | One-of-a-kind, not a market good                    |
+Bands deliberately overlap — Availability tracks *how often the world stocks it*, price tracks *how good it is*. Same orthogonal relationship Quality tags (Shoddy/Balanced/Masterwork) already use.
 
 - **Time Cost:** Half a day, assuming the party is in a settlement of at least modest size.
 - **The Check:** Influence vs. TN 8 (haggling, calling in favors, knowing the right back-alley supplier) or Survival vs. TN 8 if restocking from the wild rather than a market (foraging replacement herbs, harvesting more thread from a hunted beast).

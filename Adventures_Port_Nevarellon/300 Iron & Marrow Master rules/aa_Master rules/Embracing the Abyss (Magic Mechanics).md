@@ -53,20 +53,26 @@ Faith magic is not a gamble against failure — it is a negotiation with the pri
 - **The Mechanic:** When declaring a Miracle, the Priest rolls **2d6 + Will + Faith vs. TN 8.** This is not a Margin-Scaler roll — there is no Messy/Clean/Exceptional ladder, and there is no Failure state that prevents the Miracle from occurring. The roll only ever determines the cost.
 
 - **Pass (Total 8+) — Clean Channel:** The Priest's own faith and discipline carry the weight. The Miracle occurs exactly as written, and the Priest pays the Locked Stress cost listed for that Miracle. Nothing else happens. This is the expected, unremarkable outcome for a Priest who knows their scripture.
-
-- **Fail (Total 7 or less) — Borrowed Authority:** The Miracle still occurs — full effect, no exceptions — but the power moves through the Priest rather than from them. Something on the other end of the litany takes notice. The Priest pays the standard Locked Stress cost **and** the GM immediately gains **1 Threat.** This is not a punishment for bad luck; it is the fictional truth of the system finally showing its teeth — the Priest doesn't actually control what they're invoking, they just have working enough faith to ask nicely.
-
-- **Snake Eyes (Natural 2) — The Toll in Flesh:** The Miracle still occurs. But whatever the Priest is channeling decides the mind has paid enough for today, and takes the rest out of the body instead. **Convert the Miracle's entire Locked Stress cost into an equal number of points of direct Wound damage** (bypassing Wound Threshold entirely, per the Direct Wounds rule), rather than Locked Stress. A Priest who Snake-Eyes a 2-Stress Miracle takes the full toll across 2 Wound slots' worth of damage instead — this is the stigmata, the shattered bone, the bleeding from the eyes the system has always promised, given an actual trigger condition instead of being purely narrative flavor.
-
+- **Fail (Total 7 or less) — Borrowed Authority:** The Miracle still occurs — full effect, no exceptions — but the power moves through the Priest rather than from them. The Priest pays the standard Locked Stress cost, exactly as on a Pass, **and** gains 1 point of **Encroachment** (see below). This is not a punishment for bad luck; it is the fictional truth of the system finally showing its teeth — the Priest doesn't actually control what they're invoking, they just have working enough faith to ask nicely.
+- **Snake Eyes (Natural 2) — The Toll in Flesh:** The Miracle still occurs. But whatever the Priest is channeling decides the mind has paid enough for today, and takes the rest out of the body instead. **Convert the Miracle's entire Locked Stress cost into an equal number of points of direct Wound damage** (bypassing Wound Threshold entirely, per the Direct Wounds rule), rather than Locked Stress. A Priest who Snake-Eyes a 2-Stress Miracle takes the full toll across 2 Wound slots' worth of damage instead — this is the stigmata, the shattered bone, the bleeding from the eyes the system has always promised, given an actual trigger condition instead of being purely narrative flavor. The entity considers this payment made in full: **reset the Priest's Encroachment to 0**, regardless of its current value.
 - **Fates' Bounty (Natural 12):** As with any other check, the Priest rolls an additional die. This cannot change whether the Miracle happens (it already was going to), but a Priest who rolls a 12 may treat the result as an automatic Pass even if the additional die would have otherwise pushed them past a threshold that matters for a specific Miracle (GM's discretion for Miracles with scaling effects).
+
+**Encroachment (The Running Tab)**
+
+Stress isn't the only thing a Fail costs a Priest — it also costs them a little more of the entity's attention. Track this on a personal counter from 0 to 3, separate from any Stress track.
+
+- Whenever a Priest Fails a Tithe of Will — on a fresh cast or a Sustain check — they gain 1 point of Encroachment, in addition to paying the normal Locked Stress cost.
+- Encroachment never modifies a dice roll. It sits on the sheet as a silent tally, exactly the way Locked Stress does — it costs nothing until it runs out of room.
+- The moment Encroachment reaches 3, it immediately clears to 0, and the Priest suffers **1 direct Wound** (bypassing Wound Threshold, per the Direct Wounds rule), as the entity collects on the tab all at once.
+- Encroachment does not clear on its own, and a Breather cannot touch it, per the Breather's existing limitation that it cannot clear Locked Stress — Encroachment is treated the same way. It only clears via the cap-trigger above, a Snake Eyes result (see Toll in Flesh), or a successful Religious Pursuit (see Downtime).
 
 **Why roll at all, if the Miracle never fails?**
 
-Because reliability was never the same thing as safety. The Arcanist risks *failure* — a botched spell, a wasted turn, a Snake-Eyes explosion that hurts everyone nearby. The Priest never risks failure, but every single Miracle is a coin flip between "I paid the toll myself" and "I just told something with no name that it's welcome at the table." The Threat generated on a Fail isn't flavor — it's the GM's pool growing because the Priest's channel just got a little less private. A party with a Priest who keeps rolling badly isn't watching their healer fail; they're watching the dungeon get hungrier.
+Because reliability was never the same thing as safety. The Arcanist risks _failure_ — a botched spell, a wasted turn, a Snake-Eyes explosion that hurts everyone nearby. The Priest never risks failure, and the Stress cost is the same whether they Pass or Fail — but every single Miracle is still a coin flip between "I paid the toll myself, cleanly" and "I paid it, but the thing on the other end remembers." A Fail doesn't hurt any worse in the moment than a Pass does; it's a mark against the Priest personally, one that has nothing to do with the party's fortunes and everything to do with how many times this specific channel has slipped. A party with a Priest who keeps rolling badly isn't watching the dungeon get hungrier — they're watching their healer quietly run up a debt that whatever they've been borrowing from will, eventually, collect on in blood.
 
-**The Attrition 
+**The Attrition**
 
-A Priest can perfectly heal the party and strip the armor off bosses, but every time they do, they step closer to their own breaking point. When a Priest maxes out their Stress track, they cannot cast anymore without suffering physical Wounds (stigmata, bleeding from the eyes, shattered bones) 
+A Priest can perfectly heal the party and strip the armor off bosses, but every time they do, they step closer to their own breaking point — on two separate clocks. Stress is the fast one: when a Priest maxes out their Stress track, they cannot cast anymore without suffering physical Wounds, per the Death Spiral rule. Encroachment is the slow one: even a Priest who manages their Stress carefully and never Breaks can still be run down by an accumulation of Fails alone, three bad rolls from now — always with a Wound waiting at the end, never with a Locked Stress figure to negotiate against.
 
 ________________________________________________________________________
 
@@ -76,9 +82,9 @@ The Channelling rule states Faith requires no roll to sustain because the Locked
 
 - **The Faith Cost :** Because the Priest already paid the Locked Stress upfront at the moment of casting, sustaining the Miracle requires no *additional* Stress payment. However, at the start of each of their Activations while sustaining, the Priest must roll **2d6 + Will + Faith vs. TN 8** to maintain their grip on the borrowed authority.
 
-  - **Pass:** The Miracle persists. No further cost.
-  - **Fail:** The Miracle persists anyway (Faith does not simply drop the way a failed Arcane Sustain check does) — but the GM gains 1 Threat, exactly as with a fresh cast. The longer a Priest white-knuckles a Sustain through failed rolls, the hungrier the room gets.
-  - **Snake Eyes:** The Miracle persists, but the Priest takes 1 direct Wound as their body pays a toll for staying tethered to something that doesn't want to let go.
+- **Pass:** The Miracle persists. No further cost.
+- **Fail:** The Miracle persists anyway (Faith does not simply drop the way a failed Arcane Sustain check does) — but the Priest gains 1 point of Encroachment, exactly as with a fresh cast. The longer a Priest white-knuckles a Sustain through failed rolls, the closer they creep toward paying for it in flesh.
+- **Snake Eyes:** The Miracle persists, but the Priest takes 1 direct Wound as their body pays a toll for staying tethered to something that doesn't want to let go, and their Encroachment resets to 0 as that toll is paid in full.
 
 - **The Physical Anchor:** Regardless of the roll, if the Priest takes a Wound or is knocked Prone, the sustained Miracle still instantly drops. Divine connection still requires absolute physical devotion — the dice govern the cost of staying tethered, not whether the tether can be physically severed.
     

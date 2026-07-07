@@ -112,25 +112,25 @@ ________________________________________________________________________
 
 _______________________________________________________________________
 # Weapons
-| Weapon Name                           | Specialization Group | Power | Grip  | Range / Threat                  | Tags & Attributes                                                                                                                                                                           |
-| ------------------------------------- | -------------------- | ----- | ----- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Unarmed (fists/feet/knees and elbows) | Unarmed              | 0     | 1H/2H | 5 ft Threat                     | Non-lethal, sidearm                                                                                                                                                                         |
-| Dagger / Knife                        | Blades               | 0     | 1H    | 5 ft Threat / 30 ft Thrown      | Concealable, Close-Quarters,Precise, Thrown, Sidearm, finesse                                                                                                                                        |
-| Shortsword                            | Blades               | 1     | 1H    | 5 ft Threat                     | Sidearm                                                                                                                                                                                     |
-| Hand Axe                              | Axes                 | 1     | 1H    | 5 ft Threat / 30 ft Thrown      | Brutal, Thrown, Side arm                                                                                                                                                                    |
-| Mace / Bludgeon                       | Bludgeons            | 1     | 1H    | 5 ft Threat                     | Bash                                                                                                                                                                                        |
-| Spear                                 | Polearms             | 1     | 1H/2H | 10 ft Threat / 60 ft Thrown     | Reach, Thrown                                                                                                                                                                               |
-| Longsword                             | Blades               | 2     | 1H/2H | 5 ft Threat                     | Versatile                                                                                                                                                                                   |
-| Warhammer                             | Bludgeons            | 2     | 2H    | 5 ft Threat                     | Bash, Sunder                                                                                                                                                                                |
-| Greatsword                            | Blades               | 3     | 2H    | 5 ft Threat                     | Inertia, Cumbersome                                                                                                                                                                         |
-| Halberd / Poleaxe                     | Polearms             | 3     | 2H    | 10 ft Threat                    | Reach, Cumbersome                                                                                                                                                                           |
-| Shortbow                              | Bows                 | 1     | 2H    | Ranged (Max: Long / 120 ft)     | Volley                                                                                                                                                                                      |
-| Longbow                               | Bows                 | 2     | 2H    | Ranged (Max: Extreme / 125+ ft) | Volley                                                                                                                                                                                      |
-| Light Crossbow                        | Crossbows            | 2     | 2H    | Ranged (Max: Long / 120 ft)     | Armor Piercing, Reload                                                                                                                                                                      |
-| Arcane Focus                          |                      |       |       |                                 |                                                                                                                                                                                             |
-| Grimoire                              |                      |       | 1H    |                                 | Repository: Holds your spells. If casting while open, you may spend 1 Momentum to cast a Novice spell without Locking a Stress slot for the first round (Reading it straight off the page). |
-| Mage Staff                            |                      |       | 2H    |                                 | Reach, Bound, grounding rod.                                                                                                                                                                |
-| Wand                                  |                      |       | 1H    |                                 | Conduit, Focus, Sidearm.                                                                                                                                                                    |
+| Weapon Name                           | Specialization Group | Power | Grip  | Range / Threat                  | Tags & Attributes                                                                                                                                                                           | Cost  | Availability     |
+| ------------------------------------- | -------------------- | ----- | ----- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------- |
+| Unarmed (fists/feet/knees and elbows) | Unarmed              | 0     | 1H/2H | 5 ft Threat                     | Non-lethal, sidearm                                                                                                                                                                         | —     | Always available |
+| Dagger / Knife                        | Blades               | 0     | 1H    | 5 ft Threat / 30 ft Thrown      | Concealable, Close-Quarters, Precise, Thrown, Sidearm                                                                                                                                       | 5 sp  | Common           |
+| Shortsword                            | Blades               | 1     | 1H    | 5 ft Threat                     | Sidearm                                                                                                                                                                                     | 10 sp | Common           |
+| Hand Axe                              | Axes                 | 1     | 1H    | 5 ft Threat / 30 ft Thrown      | Brutal, Thrown, Sidearm                                                                                                                                                                     | 8 sp  | Common           |
+| Mace / Bludgeon                       | Bludgeons            | 1     | 1H    | 5 ft Threat                     | Bash                                                                                                                                                                                        | 8 sp  | Common           |
+| Spear                                 | Polearms             | 1     | 1H/2H | 10 ft Threat / 60 ft Thrown     | Reach, Thrown                                                                                                                                                                               | 10 sp | Common           |
+| Longsword                             | Blades               | 2     | 1H/2H | 5 ft Threat                     | Versatile                                                                                                                                                                                   | 25 sp | Scarce           |
+| Warhammer                             | Bludgeons            | 2     | 2H    | 5 ft Threat                     | Bash, Sunder                                                                                                                                                                                | 30 sp | Scarce           |
+| Greatsword                            | Blades               | 3     | 2H    | 5 ft Threat                     | Inertia, Cumbersome                                                                                                                                                                         | 45 sp | Scarce           |
+| Halberd / Poleaxe                     | Polearms             | 3     | 2H    | 10 ft Threat                    | Reach, Cumbersome                                                                                                                                                                           | 45 sp | Scarce           |
+| Shortbow                              | Bows                 | 1     | 2H    | Ranged (Max: Long / 120 ft)     | Volley                                                                                                                                                                                      | 15 sp | Common           |
+| Longbow                               | Bows                 | 2     | 2H    | Ranged (Max: Extreme / 125+ ft) | Volley                                                                                                                                                                                      | 35 sp | Scarce           |
+| Light Crossbow                        | Crossbows            | 2     | 2H    | Ranged (Max: Long / 120 ft)     | Armor Piercing, Reload                                                                                                                                                                      | 30 sp | Scarce           |
+| Grimoire                              | Arcane Focus         | —     | 1H    | —                               | Repository: Holds your spells. If casting while open, you may spend 1 Momentum to cast a Novice spell without Locking a Stress slot for the first round (Reading it straight off the page). | 15 sp | Scarce           |
+| Mage Staff                            | Arcane Focus         | —     | 2H    | —                               | Reach, Bound, grounding rod.                                                                                                                                                                | 45 sp | Rare             |
+| Wand                                  | Arcane Focus         | —     | 1H    | —                               | Conduit, Focus, Sidearm.                                                                                                                                                                    | 35 sp | Rare             |
+| Wand                                  |                      |       | 1H    |                                 | Conduit, Focus, Sidearm.                                                                                                                                                                    |       |                  |
 
 ## Weapon Tags
 - Bound:  enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
@@ -220,15 +220,16 @@ These variations add specific situational tactical tools to the baseline weapon 
 ________________________________________________________________________
 
 # Armour
-| Armor / Shield Name | Value     | Type   | Tags & Attributes    |
-| ------------------- | --------- | ------ | -------------------- |
-| Padded / Gambeson   | +0 Armor  | Light  | Cushioned            |
-| Leather             | +1 Armour | Light  |                      |
-| Chainmail / Scale   | +2 Armor  | Medium | Bulky                |
-| Plate Armor         | +4 Armor  | Heavy  | Restricted           |
-| Buckler             | 2 SV      | Shield | Nimble               |
-| Kite / Round Shield | 4 SV      | Shield | Cover                |
-| Tower Shield        | 5 SV      | Shield | Bulwark, Obstructive |
+| Armor / Shield Name | Value     | Type   | Tags & Attributes    | Cost           | Availability |
+| ------------------- | --------- | ------ | -------------------- | -------------- | ------------ |
+| Padded / Gambeson   | +0 Armor  | Light  | Cushioned            | 5 sp           | Common       |
+| Leather             | +1 Armour | Light  | —                    | 12 sp          | Common       |
+| Chainmail / Scale   | +2 Armor  | Medium | Bulky                | 45 sp          | Scarce       |
+| Plate Armor         | +4 Armor  | Heavy  | Restricted           | 200 sp (10 gs) | Rare         |
+| Buckler             | 2 SV      | Shield | Nimble               | 8 sp           | Common       |
+| Kite / Round Shield | 4 SV      | Shield | Cover                | 18 sp          | Common       |
+| Tower Shield        | 5 SV      | Shield | Bulwark, Obstructive | 40 sp          | Scarce       |
+Plate at 200sp deliberately outcosts the Heavy Arbalest (80sp) — a full suit of armor should cost more than a single weapon — and 10 gs matches the existing fluff that gold is "held only by nobility and wealthy cartels."
 ## Armour and Shield Tags
 - Bulky: The weight and noise of the armor make it hard to move gracefully. Imposes a -1 penalty on Athletics and Stealth and Arcana rolls.
     
@@ -245,25 +246,25 @@ ________________________________________________________________________
 
 - Restricted: The heavy plates and limited visibility slow your reaction time. You can never be first in the activation order when rolling for activation order. If you roll the highest result, you will slip down to be second, behind the next highest. you will never win activation order ties. Impossible to recreate the intricate movements required in Arcane spell casting, cannot cast Arcane spells whilst wearing. Reduces movement speed by 10ft.
 
-## CRITICAL UTILITY ARMOR MODIFICATIONS
+ **CRITICAL UTILITY ARMOR MODIFICATIONS**
 
 Instead of just buying entirely new suits of plate, characters in a low-fantasy setting weld, rivet, and bolt additions to their existing kit.
 
-#### Reinforced Riveted Pauldrons (Armor Add-on)   
+ *Reinforced Riveted Pauldrons (Armor Add-on)*   
 
 - Cost: 20 sp | Availability: Common
     
 - Rules: Requires a suit of Medium or Heavy armor to attach. Adds a flat +1 to your Wound Threshold (WT). However, the added shoulder bulk restricts head movement; you suffer a permanent -1 penalty to your activation order rolls.
     
 
-#### Visored Great-Helm (Headpiece Modification)    
+ *Visored Great-Helm (Headpiece Modification)*    
 
 - Cost: 35 sp | Availability: Scarce
     
 - Rules: When an enemy achieves an Ace (exploding 6) or a Critical success against you, you can choose to have the helm take the structural brunt. The attack does standard damage instead of critical/bonus damage, but the helm's visor is bent shut. For the remainder of the combat, your actions suffer Disadvantage due to near-total blindness until an action is spent tearing the helm off.
     
 
-#### Oil-Cured Gambeson (Under-layer Layering)    
+*Oil-Cured Gambeson (Under-layer Layering)*    
 
 - Cost: 15 sp | Availability: Common
     
@@ -273,43 +274,48 @@ Instead of just buying entirely new suits of plate, characters in a low-fantasy 
 ______________________________________________________________________
 
 # Expedition Gear
-## TACTICAL EXPEDITION GEAR
+
+**TACTICAL EXPEDITION GEAR**
 
 Practical kits that anchor survival and optimize downtime actions.
 
-#### Iron Pitons & Sledge (Set of 6)    
+*Iron Pitons & Sledge (Set of 6)*    
 
 - Cost: 5 sp | Availability: Common
     
 - Tactical Rule: During a movement or preparation phase, a player can spend an action to spike a heavy iron door or narrow passageway shut. Enemies attempting to bypass this square or break the door must spend a Full Action and pass a Prowess check vs TN 8 to smash the piton out, buying the party vital tactical rounds.
     
 
-#### Masterwork Apothecary Field Kit    
+*Field  Surgeon Kit*    
 
 - Cost: 50 sp | Availability: Rare
     
 - Downtime Rule: Possessing this kit grants a flat +2 bonus to all "Tend to the Flesh" downtime checks. It contains fine bone saws, clean linen sheets, and non-rancid cauterizing irons. Contains enough specialized thread for 6 uses before requiring an acquisition roll to restock.
     
 
-#### Hooded Bullseye Lantern    
+*Hooded Bullseye Lantern*    
 
 - Cost: 12 sp | Availability: Scarce
     
 - Tactical Rule: Illuminates a tight, 30-foot cone directly ahead. Any character standing inside the dark zone outside of this cone has absolute Advantage on stealth. However, if an enemy is caught directly in the beam during a Draw (Initiative phase), they lose any ambush bonuses because their night vision is instantly shattered by the focused beam.
+-
+*Holy Symbol*
+- **Cost:** 5 sp | **Availability:** Common
+- **Rules:** Required to manifest Miracles — per *The Marrow*'s Divine Conduit feat, a Priest must "speak the litany and bear your symbol" to cast. A Symbol bound to a Domain via the Covenant path can never hold a different entity's Miracles (no later switching, per Divine Conduit). 0 Slots — worn/carried, per the Inventory micro-item exemption.
 
 ## ALCHEMICAL WARES & FIELD CONSUMABLES
 
 Alchemical supplies are highly volatile, unstable, and often act as a mechanical double-edged sword.
 
-| Item Name            | Cost  | Avail. | Mechanical 2d6 & Resource Output                                                                                                                                                                                                                                                                          |
-| -------------------- | ----- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Grave-Dust Poultice  | 8 sp  | Common | Field Medicine: Used as a Full Action. Instantly clears 1 filled Wound slot. However, due to the filth of the compounds, the target must roll a Prowess check vs TN 8. On a failure, they take 1 point of Dissonant Stress from spreading infection.                                                      |
-| Black-Root Draught   | 15 sp | Scarce | Caster Exhaustion: Used as a Move Action. Instantly unlocks 2 Locked Stress slots for an Arcane caster. However, it drains physical stamina; at the absolute end of the current scene, the character automatically fills 1 physical Wound slot from systemic toxicity.                                    |
-| Witch-Spur Salve     | 12 sp | Scarce | Nerve Numbing: Rubbed into the temples as a Move Action. Grants absolute immunity to the Terrifying trait and psychological panic checks for the next scene. The Catch: It instantly fills and locks 1 Dissonant Stress slot for the duration of the scene, reducing the user's maximum stress ceiling.   |
-| Vitriol Solvent      | 25 sp | Rare   | Armor Melt: Applied to a bladed or piercing weapon as a Full Action. For the next 3 combat rounds, the weapon gains the Sunder tag. If a strike hits a target with the Plated trait, that trait is suppressed for the rest of the encounter.                                                              |
-| Naphtha Fire-Flask   | 30 sp | Rare   | Zone Control: Can be thrown (Ranged, Max 30ft). Shatters upon a square/zone. Anyone occupying or entering the zone during the next 3 rounds must pass a Reflex + Dodge check vs TN 8 or take a flat 2 Impact damage and 1 Dissonant Stress from chemical burns.                                           |
-| Arcane Salts         | 8sp   | common | A violently harsh alchemical stimulant. Using it as a Move Action instantly unlocks 1 Locked Stress slot, but immediately inflicts 1 normal Dissonant Stress on the user from the chemical shock..                                                                                                        |
-| Philter of Focus     | 20sp  | scarce | Grants **Advantage** on the next Grounding check performed in the scene.                                                                                                                                                                                                                                  |
-| Corpse-Weed Resin    |       |        | Lethargy: For the first combat encounter after the Breather, the user cannot generate Momentum, as their nervous system is too dulled.                Clears 1 Locked Stress. Can be smoked during a 30-minute Breather.                                                                                  |
-| Marrow-Glass Ampoule |       |        | The Crash: At the end of the combat encounter, the user immediately suffers 1 Minor physical Wound from the violent chemical shock to their heart.             Instant Override: Can be injected mid-combat as a Free Reaction. Converts all currently Locked Stress back into standard Dissonant Stress. |
-| Surgical Spirits     |       |        | Tremors: The user permanently suffers Disadvantage on any Prowess or Arcana rolls requiring fine motor skills until they return to a town to fully detox.                                                            Taken during a Breather. Numbness allows the user to clear 2 Locked Stress.          |
+| Item Name            | Cost  | Avail. | Mechanical 2d6 & Resource Output                                                                                                                                                                                                                                                                        |
+| -------------------- | ----- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Grave-Dust Poultice  | 8 sp  | Common | Field Medicine: Used as a Full Action. Instantly clears 1 filled Wound slot. However, due to the filth of the compounds, the target must roll a Prowess check vs TN 8. On a failure, they take 1 point of Dissonant Stress from spreading infection.                                                    |
+| Black-Root Draught   | 15 sp | Scarce | Caster Exhaustion: Used as a Move Action. Instantly unlocks 2 Locked Stress slots for an Arcane caster. However, it drains physical stamina; at the absolute end of the current scene, the character automatically fills 1 physical Wound slot from systemic toxicity.                                  |
+| Witch-Spur Salve     | 12 sp | Scarce | Nerve Numbing: Rubbed into the temples as a Move Action. Grants absolute immunity to the Terrifying trait and psychological panic checks for the next scene. The Catch: It instantly fills and locks 1 Dissonant Stress slot for the duration of the scene, reducing the user's maximum stress ceiling. |
+| Vitriol Solvent      | 25 sp | Rare   | Armor Melt: Applied to a bladed or piercing weapon as a Full Action. For the next 3 combat rounds, the weapon gains the Sunder tag. If a strike hits a target with the Plated trait, that trait is suppressed for the rest of the encounter.                                                            |
+| Naphtha Fire-Flask   | 30 sp | Rare   | Zone Control: Can be thrown (Ranged, Max 30ft). Shatters upon a square/zone. Anyone occupying or entering the zone during the next 3 rounds must pass a Reflex + Dodge check vs TN 8 or take a flat 2 Impact damage and 1 Dissonant Stress from chemical burns.                                         |
+| Arcane Salts         | 8sp   | common | A violently harsh alchemical stimulant. Using it as a Move Action instantly unlocks 1 Locked Stress slot, but immediately inflicts 1 normal Dissonant Stress on the user from the chemical shock..                                                                                                      |
+| Philter of Focus     | 20sp  | scarce | Grants **Advantage** on the next Grounding check performed in the scene.                                                                                                                                                                                                                                |
+| Corpse-Weed Resin    | 6 sp  | Common | Lethargy: For the first combat encounter after the Breather, the user cannot generate Momentum, as their nervous system is too dulled. Clears 1 Locked Stress. Can be smoked during a 30-minute Breather.                                                                                               |
+| Marrow-Glass Ampoule | 40 sp | Rare   | The Crash: At the end of the combat encounter, the user immediately suffers 1 Minor physical Wound from the violent chemical shock to their heart. Instant Override: Can be injected mid-combat as a Free Reaction. Converts all currently Locked Stress back into standard Dissonant Stress.           |
+| Surgical Spirits     | 10 sp | Common | Tremors: The user permanently suffers Disadvantage on any Prowess or Arcana rolls requiring fine motor skills until they return to a town(long rest/pursuit) to fully detox. Taken during a Breather. Numbness allows the user to clear 2 Locked Stress.                                                |

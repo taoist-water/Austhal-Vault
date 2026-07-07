@@ -14,34 +14,29 @@ Step 5: Select starting equipment
     - Choose Weapons & Shields: Up to two 1-Handed items (e.g., Shortsword + Kite Shield, or Grimoire + Dagger) OR one 2-Handed item (e.g., Greatsword, Longbow, Mage Staff).
 _____________________________________________________________________
 # Species
-## Human (The Resilient Adapters)
- Humans in gritty fantasy aren't the strongest or the fastest, but they have sheer grit and adaptability. They outlast others through willpower and versatility.
+### Human (The Resilient Adapters)
 
-- Size: Standard.
-    
-- Move Value : 30 ft/6 squares
-    
--  Adaptable: Humans gain 1 extra Skill Point at character creation to represent their varied backgrounds and quick learning.
-    
-- Indomitable Spirit: Humans have a slightly higher breaking point. Their base Stress Limit is increased by +1.
-- Adaptability: At creation Humans can choose between;
-	- An Additional Attribute point, respecting the +3 cap OR,
-	- A third feat.
-- Playstyle: The perfect blank slate. They can flex into any role, and that extra point of Stress gives them just a little more breathing room before they panic or break.
+_Humans in gritty fantasy aren't the strongest or the fastest, but they have sheer grit and adaptability. They outlast others through willpower and versatility._
+
+- **Size:** Standard.
+- **Move Value:** 30 ft/6 squares
+- **Adaptable:** Humans gain 1 extra Skill Point at character creation to represent their varied backgrounds and quick learning.
+- **Indomitable Spirit:** Humans have a slightly higher breaking point. Their base Stress Limit is increased by +1.
+- **Steady, Not Sharp (Drawback):** Humans burn slow and steady rather than bright. Their Momentum Bank is capped at **4** instead of the standard 5 — they rarely hit the adrenaline peaks a specialist can chase down.
+- **Playstyle:** The perfect blank slate. They can flex into any role, and that extra point of Stress gives them just a little more breathing room before they panic or break — but they'll be the last one at the table to cash in a 3-Momentum Ultimate.
 
 ## Half-Elf (The Bridge Builders)
 
- Possessing the ambition of humans and the grace of elves, Half-Elves are charismatic wanderers who fit in everywhere but belong nowhere.
+ ### Half-Elf (The Bridge Builders)
 
-- Size: Standard
-    
-- Move Value: 30 ft/6 squares
-    
--  Silver-Tongued: Half-Elves have a supernatural knack for reading a room. They gain Advantage on Wits + Influence checks when trying to persuade, or de-escalate a fight, negotiate, or gather information.
-    
-- Split Heritage: They may choose either the Human's Adaptable trait (1 extra Skill Point) OR the Elf's Fey Reflexes trait (Advantage to dodge hazards).
-    
-- Playstyle: The ultimate face characters and versatile support pieces. In a lethal system, talking your way out of an engagement is often the smartest move, making Half-Elves invaluable.
+_Possessing the ambition of humans and the grace of elves, Half-Elves are charismatic wanderers who fit in everywhere but belong nowhere._
+
+- **Size:** Standard
+- **Move Value:** 30 ft/6 squares
+- **Silver-Tongued:** Half-Elves have a supernatural knack for reading a room. They gain Advantage on Wits + Influence checks when trying to persuade, de-escalate a fight, negotiate, or gather information.
+- **Split Heritage:** They may choose either the Human's Adaptable trait (1 extra Skill Point) or the Elf's Fey Reflexes trait (Advantage to dodge hazards) — and inherit that race's paired drawback along with it. Choosing Adaptable also imposes **Steady, Not Sharp** (Momentum Bank capped at 4); choosing Fey Reflexes also imposes **Hollow-Boned** (-1 Wound Threshold). You cannot take the trait without its cost — that cost is what the source race actually paid for it.
+- **Between Worlds (Drawback):** Half-Elves suffer Disadvantage on Wits + Influence checks when dealing with an insular or homogeneous community that has had little contact with outsiders — an isolated Elven enclave, a xenophobic frontier hamlet, a closed guild.
+- **Playstyle:** The ultimate face characters and versatile support pieces — everywhere except the one room that's never trusted an outsider.
 
 ## Half-Orc (The Relentless Brutes)
 
@@ -75,21 +70,16 @@ _____________________________________________________________________
     
 -  Playstyle: Stealthy opportunists who excel at avoiding the brutal consequences of the system's lethal dice spikes.
 
-## Elf (The Ancient & Graceful)
+### Elf (The Ancient & Graceful)
 
- Elves are attuned to magic and the natural world. They are blindingly fast and perceptive, but lack the physical density of the heavier races.
+_Elves are attuned to magic and the natural world. They are blindingly fast and perceptive, but lack the physical density of the heavier races._
 
--  Size: Standard.
-    
-- Move Value: 30 ft/6 squares
-    
--  Fey Reflexes: Elves gain Advantage (roll 3d6, keep the highest two) on Reflex checks to avoid environmental hazards, traps, or area-of-effect abilities.
-    
--  Trance: Elves do not sleep deeply. They only require 4 hours of meditation to gain the benefits of a full night's rest (clearing Stress and Stabilizing wounds), making them excellent watchmen.
-    
--  Hollow-Boned (Drawback): Their lithe frames are susceptible to trauma. Their base Wound Threshold is reduced by 1.
-    
--  Playstyle: Agile skirmishers or perceptive scouts. They avoid getting hit because if they do get hit, they go down faster.
+- **Size:** Standard.
+- **Move Value:** 30 ft/6 squares
+- **Fey Reflexes:** Elves gain Advantage (roll 3d6, keep the highest two) on Reflex checks to avoid environmental hazards, traps, or area-of-effect abilities.
+- **Trance:** Elves do not sleep deeply. They only require 4 hours of meditation to gain the benefits of a full night's rest (clearing Stress and Stabilizing wounds), making them excellent watchmen.
+- **Hollow-Boned (Drawback):** Their lithe frames are susceptible to trauma. Their base Wound Threshold is reduced by 1. _(This drawback travels with Fey Reflexes if a Half-Elf takes it via Split Heritage — see Half-Elf.)_
+- **Playstyle:** Agile skirmishers or perceptive scouts. They avoid getting hit because if they do get hit, they go down faster.
 
 ## Dwarf (The Ironclad Survivors)
 
