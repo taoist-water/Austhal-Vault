@@ -121,7 +121,7 @@ The player spots the pressure plate but is forced to leap across it, or they del
 
 
 ________________________________________________________________________
-# THE SOCIAL ENGINE (Influence & Resolve)(dev note) to be revised(/dev note)
+# THE SOCIAL ENGINE (Influence & Resolve)
 
 # THE SOCIAL ENGINE (Influence & Resolve) — Revised
 
