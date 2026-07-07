@@ -56,4 +56,4 @@ If a Scrounger-tree character wants the Death-of-a-Thousand-Cuts treatment later
 
 ### Touchpoint: Armor Piercing
 
-**Armor Piercing** (Cost 2: ignore SV/Ablative Armor/Construct tags for one Clash) has been deliberately **left out of this tree** and remains in the core universal Momentum list. It has no fictional connection to scrounging, viscera, or improvisation — it's a precision/technique spend ("I know exactly where the gap in the plate is"), not a resourcefulness one. Folding it in here would dilute the archetype's identity with a mechanic that doesn't share its throughline.
+**Armor-Piercing** (Cost 2: ignore SV/Ablative Armor/Construct tags for one Clash) has been deliberately **left out of this tree** and remains in the core universal Momentum list. It has no fictional connection to scrounging, viscera, or improvisation — it's a precision/technique spend ("I know exactly where the gap in the plate is"), not a resourcefulness one. Folding it in here would dilute the archetype's identity with a mechanic that doesn't share its throughline.

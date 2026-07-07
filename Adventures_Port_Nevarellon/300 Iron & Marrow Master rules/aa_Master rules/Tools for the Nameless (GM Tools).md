@@ -51,7 +51,7 @@ It turns those skills from "Caster-Only Taxes" into universally valuable adventu
 
 
 ________________________________________________________________________
-Non-weapon damage needs to fall into one of three distinct, terrifying categories:
+**Non-weapon damage falls into one of three distinct, terrifying categories:**
 
 ### 1. Direct Stress (The Attrition Engine)
 
@@ -124,48 +124,38 @@ If you want to generate Threat during a fight without the GM doing any math, tie
     
 - **The "Targeting the Bank" Rule:** If an Elite hits a player and that player has **any** Momentum in their bank, the GM can spend **2 Threat** to "Drain the Adrenaline." The player loses 2 Momentum, and the GM instantly heals 1 Stress on the Elite.(/dev note)
 ________________________________________________________________________
-## The Three Tiers of Monsters
+## The Tiers of Monsters
 
 Because modifiers are bounded, monsters are categorized by how they interact with the game's action economy and the Threat pool.
 
-### The Three Tiers of Attrition
+### The Tiers of Attrition
 
-1. Fodder (The Swarm)
+**Fodder:** They exist to drain player Momentum and force tactical positioning.
+* _Budget:_ +1 to +2 total points distributed across 1 Attribute or Skill.
+	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. Fodder cannot spend Threat unless led by a leader or a tag allows them too. 1 wound. 0 stress, breaking the core rule.
+	- Example (Zombie):_ Prowess +1. _(Strikes and grabs at +1, everything else is +0). Undead
 
-They exist to drain player Momentum and force tactical positioning.
-
-- Stats: Low modifiers.
-- Thematic Threat Limits.
-- vessel limit 1: in most cases only useable when a leader is present.
+- **Grunt:** These are the core adversaries. Armored mercenaries, mutated alchemical horrors, and seasoned killers. They force the players to spend Momentum .
+* _Budget:_ +2 to +4 total points across 1–2 Attributes and 1–2 Skills.
+	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. 2 wounds. stress as core rule defined.
     
-- Health: 1 Wound Slot, 0 Stress Limit.
+    - _Example (Orc Line-Breaker):_ Prowess +2, Melee +2. _(Strikes at +4. Activation/Reflex is +0. Magic defense is +0)._
+        
+- **Elite:** Almost equivalent to the characters capabilities, very challenging. Built to be a few advances ahead of the characters at all times.
+* _Budget:_ +5 to +8 total points. Attributes can reach +3.
+	-  2 - 3 Traits. 1 - 2 Threat Abilities. vessel limit 2 - 3.  3 - 4 wounds. stress as core rule defined +1.
     
-- Mechanic: They rely entirely on the Swarm Bonus. Any Impact instantly kills them.
+    - _Example (Cultist Assassin):_ Reflex +3, Wits +1 | Melee +2, Dodge +1, Stealth +1. _(Strikes at +2, Dodges at +4, Stealths at +4. Prowess/Brace is +0)._
+        
+- **Dread Entities / Bosses (The Behemoths):** These are terrifying, almost mechanical monstrosities or apex predators.
+* _Budget:_ +9 to +14 total points. Built to rival a highly optimized player. Attributes can exceed +3.
+	- 2 - 4 Traits. 3+ Threat Abilities. vessel limit 2 - 4. 4+ wounds. stress as core rule defined + 2
     
-
-2. Elites/grunts (The Grinders)
-
-These are the core adversaries. Heavily armored mercenaries, mutated alchemical horrors, and seasoned killers. They force the players to spend Momentum and use the Two-Way Clash to survive.
-
-- Stats: High specialized modifiers.
-- Vessel Limit: 2
-    
-- Health: 2 to 3 Wound Slots. Low to Moderate Stress Limits (3 to 4).
-    
-- Mechanic: They possess Armor Tags or Auras that force players to change their tactics. You don't beat them by just rolling high; you beat them by exploiting their specific weakness.
+    - _Example (Arch-Devil Malaphar):_ Prowess +4, Will +3, Wits +2 | Melee +4, Arcana +3, Resolve +3. _(Strikes at +8, casts at +5, resists mental magic at +6. Still has a +0 in Reflex).
     
 
-3. Dread Entities / Bosses (The Behemoths)
 
-These are terrifying, almost mechanical monstrosities or apex predators.
 
-- Stats: Moderate modifiers
-- Vessel Limit: 4
-    
-- Health: 4+ Wound Slots. High Stress Limit.
-    
-- Mechanic: They break the action economy. They activate multiple times a round and possess Anatomical Phasing—when they take Wounds, their behavior fundamentally changes as they physically degrade.
-    
 ________________________________________________________________________
 ### NPC Stress
 is a binary "health bar," there are only two states: Fully Functional (0) and Broken (1). Nothing in between matters mechanically.

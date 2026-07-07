@@ -100,12 +100,12 @@ Taking the **Regroup** action consumes a player's entire turn. They cannot decla
     
 - **Clear a Severe Condition:** Spending the precious seconds required to pat out the flames of the **Ablaze** condition, untangle themselves from a dropped net, or blindly wash acid from their visor.
 
-- The Reprieve (Faith Caster Action): An Arcanist vents magical heat; a Priest lays a burden down for a moment, mid-battle, and asks whatever's listening to ease up.
+- **The Reprieve (Faith Caster Action):** An Arcanist vents magical heat; a Priest lays a burden down for a moment, mid-battle, and asks whatever's listening to ease up.
 
 Roll **Will + Faith vs. TN 8**.
 
 - **Success:** Unlock [Will] Locked Stress (minimum 1).
-- **Massive Success (12+):** Clear all Locked Stress.
+- **Massive Success (5+):** Clear all Locked Stress.
 - **Fumble (Snake Eyes):** The weight doesn't lift — it curdles. All Locked Stress becomes Dissonant, **and the GM gains 1 Threat** (the thing you've been borrowing from notices you reaching for relief without paying first).
 
 

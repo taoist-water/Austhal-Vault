@@ -14,7 +14,7 @@
 | Halberd / Poleaxe                     | Polearms             | 3     | 2H    | 10 ft Threat                    | Reach, Cumbersome                           |
 | Shortbow                              | Bows                 | 1     | 2H    | Ranged (Max: Long / 120 ft)     | Volley                                      |
 | Longbow                               | Bows                 | 2     | 2H    | Ranged (Max: Extreme / 125+ ft) | Volley                                      |
-| Light Crossbow                        | Crossbows            | 2     | 2H    | Ranged (Max: Long / 120 ft)     | Armor Piercing, Reload                      |
+| Light Crossbow                        | Crossbows            | 2     | 2H    | Ranged (Max: Long / 120 ft)     | Armor-Piercing, Reload                      |
 
 
 | Arcane Focus | Grip | Tags & Rules                                                                                                                                                                                |

@@ -15,11 +15,11 @@ Enemies use the same character generation rules as players. Once an enemy is gen
     - _Example (Orc Line-Breaker):_ Prowess +2, Melee +2. _(Strikes at +4. Activation/Reflex is +0. Magic defense is +0)._
         
 - **Elite:** * _Budget:_ +5 to +8 total points. Attributes can reach +3.
-	-  1 - 2 Traits. 1 - 2 Threat Abilities. vessel limit 2 - 3.  3 - 4 wounds. stress as core rule defined +1.
+	-  2 - 3 Traits. 1 - 2 Threat Abilities. vessel limit 2 - 3.  3 - 4 wounds. stress as core rule defined +1.
     
     - _Example (Cultist Assassin):_ Reflex +3, Wits +1 | Melee +2, Dodge +1, Stealth +1. _(Strikes at +2, Dodges at +4, Stealths at +4. Prowess/Brace is +0)._
         
-- **Boss:** * _Budget:_ +9 to +14 total points. Built to rival a highly optimized player. Attributes can exceed +3.
+- **Dread Entities / Bosses (The Behemoths):** * _Budget:_ +9 to +14 total points. Built to rival a highly optimized player. Attributes can exceed +3.
 	- 2 - 4 Traits. 3+ Threat Abilities. vessel limit 2 - 4. 4+ wounds. stress as core rule defined + 2
     
     - _Example (Arch-Devil Malaphar):_ Prowess +4, Will +3, Wits +2 | Melee +4, Arcana +3, Resolve +3. _(Strikes at +8, casts at +5, resists mental magic at +6. Still has a +0 in Reflex).

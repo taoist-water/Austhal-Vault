@@ -139,12 +139,6 @@ Each entry below formalizes an Pursuit  already referenced elsewhere in the rule
 
 This Pursuit  does not exist independently — it is unlocked by a specific feat (already referenced, not included in this document) that allows a character to spend Progress Momentum to bypass the standard 3-day Tend to the Flesh cycle. Per the existing Flesh Weaver feat text already in *The Marrow*: spending 2 Progress Momentum instantly heals 1 Wound Slot in 10 minutes, at a cost of 2 Dissonant Stress to the patient. This document does not change that feat's text — it simply confirms Field Medic sits under the Downtime Pursuit  umbrella defined here, and that the Progress Momentum it spends is the same currency generated above.
 
-### Focused Burst
-*Self-inflicted urgency — burning your own composure to get ahead of schedule.*
-
-- **The Check:** None — this is not itself a roll, it's a resource conversion available during any downtime period, already defined by its feat: inflict up to 3 points of Locked Stress on yourself, converting each point 1-for-1 into Progress Momentum.
-- **Why it's listed here:** To confirm it taps the same Progress Momentum pool every other Pursuit  in this document feeds, meaning a desperate character can effectively buy their way past a bad roll on Hammer & Forge or Tend to the Flesh by paying in Locked Stress instead of time.
-
 ### Religious Pursuit  (Penance, Communion, or Pilgrimage)
 *How a Priest clears Locked Stress.*
 

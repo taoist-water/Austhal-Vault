@@ -112,27 +112,28 @@ ________________________________________________________________________
 
 _______________________________________________________________________
 # Weapons
-| Weapon Name                           | Specialization Group | Power | Grip  | Range / Threat                  | Tags & Attributes                                                                                                                                                                           | Cost  | Availability     |
-| ------------------------------------- | -------------------- | ----- | ----- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------- |
-| Unarmed (fists/feet/knees and elbows) | Unarmed              | 0     | 1H/2H | 5 ft Threat                     | Non-lethal, sidearm                                                                                                                                                                         | —     | Always available |
-| Dagger / Knife                        | Blades               | 0     | 1H    | 5 ft Threat / 30 ft Thrown      | Concealable, Close-Quarters, Precise, Thrown, Sidearm                                                                                                                                       | 5 sp  | Common           |
-| Shortsword                            | Blades               | 1     | 1H    | 5 ft Threat                     | Sidearm                                                                                                                                                                                     | 10 sp | Common           |
-| Hand Axe                              | Axes                 | 1     | 1H    | 5 ft Threat / 30 ft Thrown      | Brutal, Thrown, Sidearm                                                                                                                                                                     | 8 sp  | Common           |
-| Mace / Bludgeon                       | Bludgeons            | 1     | 1H    | 5 ft Threat                     | Bash                                                                                                                                                                                        | 8 sp  | Common           |
-| Spear                                 | Polearms             | 1     | 1H/2H | 10 ft Threat / 60 ft Thrown     | Reach, Thrown                                                                                                                                                                               | 10 sp | Common           |
-| Longsword                             | Blades               | 2     | 1H/2H | 5 ft Threat                     | Versatile                                                                                                                                                                                   | 25 sp | Scarce           |
-| Warhammer                             | Bludgeons            | 2     | 2H    | 5 ft Threat                     | Bash, Sunder                                                                                                                                                                                | 30 sp | Scarce           |
-| Greatsword                            | Blades               | 3     | 2H    | 5 ft Threat                     | Inertia, Cumbersome                                                                                                                                                                         | 45 sp | Scarce           |
-| Halberd / Poleaxe                     | Polearms             | 3     | 2H    | 10 ft Threat                    | Reach, Cumbersome                                                                                                                                                                           | 45 sp | Scarce           |
-| Shortbow                              | Bows                 | 1     | 2H    | Ranged (Max: Long / 120 ft)     | Volley                                                                                                                                                                                      | 15 sp | Common           |
-| Longbow                               | Bows                 | 2     | 2H    | Ranged (Max: Extreme / 125+ ft) | Volley                                                                                                                                                                                      | 35 sp | Scarce           |
-| Light Crossbow                        | Crossbows            | 2     | 2H    | Ranged (Max: Long / 120 ft)     | Armor Piercing, Reload                                                                                                                                                                      | 30 sp | Scarce           |
-| Grimoire                              | Arcane Focus         | —     | 1H    | —                               | Repository: Holds your spells. If casting while open, you may spend 1 Momentum to cast a Novice spell without Locking a Stress slot for the first round (Reading it straight off the page). | 15 sp | Scarce           |
-| Mage Staff                            | Arcane Focus         | —     | 2H    | —                               | Reach, Bound, grounding rod.                                                                                                                                                                | 45 sp | Rare             |
-| Wand                                  | Arcane Focus         | —     | 1H    | —                               | Conduit, Focus, Sidearm.                                                                                                                                                                    | 35 sp | Rare             |
-| Wand                                  |                      |       | 1H    |                                 | Conduit, Focus, Sidearm.                                                                                                                                                                    |       |                  |
+| Weapon Name                           | Specialization Group | Power | Grip  | Range / Threat                  | Tags & Attributes                                    | Cost  | Availability     |
+| ------------------------------------- | -------------------- | ----- | ----- | ------------------------------- | ---------------------------------------------------- | ----- | ---------------- |
+| Unarmed (fists/feet/knees and elbows) | Unarmed              | 0     | 1H/2H | 5 ft Threat                     | Non-lethal, sidearm                                  | —     | Always available |
+| Dagger / Knife                        | Blades               | 0     | 1H    | 5 ft Threat / 30 ft Thrown      | Concealable, Close-Quarters, Finesse,Thrown, Sidearm | 5 sp  | Common           |
+| Shortsword                            | Blades               | 1     | 1H    | 5 ft Threat                     | Sidearm                                              | 10 sp | Common           |
+| Hand Axe                              | Axes                 | 1     | 1H    | 5 ft Threat / 30 ft Thrown      | Brutal, Thrown, Sidearm                              | 8 sp  | Common           |
+| Mace / Bludgeon                       | Bludgeons            | 1     | 1H    | 5 ft Threat                     | Bash                                                 | 8 sp  | Common           |
+| Spear                                 | Polearms             | 1     | 1H/2H | 10 ft Threat / 60 ft Thrown     | Reach, Thrown                                        | 10 sp | Common           |
+| Longsword                             | Blades               | 2     | 1H/2H | 5 ft Threat                     | Versatile                                            | 25 sp | Scarce           |
+| Warhammer                             | Bludgeons            | 2     | 2H    | 5 ft Threat                     | Bash, Sunder                                         | 30 sp | Scarce           |
+| Greatsword                            | Blades               | 3     | 2H    | 5 ft Threat                     | Inertia, Cumbersome                                  | 45 sp | Scarce           |
+| Halberd / Poleaxe                     | Polearms             | 3     | 2H    | 10 ft Threat                    | Reach, Cumbersome                                    | 45 sp | Scarce           |
+| Shortbow                              | Bows                 | 1     | 2H    | Ranged (Max: Long / 120 ft)     | Volley                                               | 15 sp | Common           |
+| Longbow                               | Bows                 | 2     | 2H    | Ranged (Max: Extreme / 125+ ft) | Volley                                               | 35 sp | Scarce           |
+| Light Crossbow                        | Crossbows            | 2     | 2H    | Ranged (Max: Long / 120 ft)     | Armor Piercing, Reload                               | 30 sp | Scarce           |
+| Grimoire                              | Arcane Focus         | —     | 1H    | —                               | Repository:                                          | 15 sp | Scarce           |
+| Mage Staff                            | Arcane Focus         | —     | 2H    | —                               | Reach, Bound, grounding rod.                         | 45 sp | Rare             |
+| Wand                                  | Arcane Focus         | —     | 1H    | —                               | Conduit, Focus, Sidearm.                             | 35 sp | Rare             |
+| Wand                                  |                      |       | 1H    |                                 | Conduit, Focus, Sidearm.                             |       |                  |
 
 ## Weapon Tags
+- Armor-Piercing: Ignores 1 Point of armour
 - Bound:  enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
     
 - Bash: If your attack results in a Glancing Hit (Impact < Threshold), it deals +1 additional Dissonant Stress due to blunt force trauma.
@@ -147,7 +148,7 @@ _______________________________________________________________________
     
 - Cumbersome: The weapon is heavy and slow to ready. Imposes a -1 penalty on Activation order rolls.
 
-- finesse: may use reflex instead of prowess in clashes.
+- Finesse: may use reflex instead of prowess in clashes.
     
 - Focus: Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the wand, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
     
@@ -158,11 +159,12 @@ _______________________________________________________________________
     
 - non-Lethal: strikes with this weapon can only cause Stress regardless of the Impact result. 
     
-- Precise: Ignores 1 Point of armour
     
 - Reach: Threatens a 10-foot radius (2 grid squares).   Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
     
 - Reload: After firing, requires an Action to load the next shot.
+
+- Repository: Holds your spells. If casting while open, you may spend 1 Momentum to cast a Novice spell without Locking a Stress slot for the first round (Reading it straight off the page).
     
 - Sidearm: Can be drawn as a Free Action without penalty.
 
@@ -312,7 +314,7 @@ Alchemical supplies are highly volatile, unstable, and often act as a mechanical
 | Grave-Dust Poultice  | 8 sp  | Common | Field Medicine: Used as a Full Action. Instantly clears 1 filled Wound slot. However, due to the filth of the compounds, the target must roll a Prowess check vs TN 8. On a failure, they take 1 point of Dissonant Stress from spreading infection.                                                    |
 | Black-Root Draught   | 15 sp | Scarce | Caster Exhaustion: Used as a Move Action. Instantly unlocks 2 Locked Stress slots for an Arcane caster. However, it drains physical stamina; at the absolute end of the current scene, the character automatically fills 1 physical Wound slot from systemic toxicity.                                  |
 | Witch-Spur Salve     | 12 sp | Scarce | Nerve Numbing: Rubbed into the temples as a Move Action. Grants absolute immunity to the Terrifying trait and psychological panic checks for the next scene. The Catch: It instantly fills and locks 1 Dissonant Stress slot for the duration of the scene, reducing the user's maximum stress ceiling. |
-| Vitriol Solvent      | 25 sp | Rare   | Armor Melt: Applied to a bladed or piercing weapon as a Full Action. For the next 3 combat rounds, the weapon gains the Sunder tag. If a strike hits a target with the Plated trait, that trait is suppressed for the rest of the encounter.                                                            |
+| Vitriol Solvent      | 25 sp | Rare   | Armor Melt: Applied to a bladed or Armour-piercing weapon as a Full Action. For the next 3 combat rounds, the weapon gains the Sunder tag. If a strike hits a target with the Plated trait, that trait is suppressed for the rest of the encounter.                                                     |
 | Naphtha Fire-Flask   | 30 sp | Rare   | Zone Control: Can be thrown (Ranged, Max 30ft). Shatters upon a square/zone. Anyone occupying or entering the zone during the next 3 rounds must pass a Reflex + Dodge check vs TN 8 or take a flat 2 Impact damage and 1 Dissonant Stress from chemical burns.                                         |
 | Arcane Salts         | 8sp   | common | A violently harsh alchemical stimulant. Using it as a Move Action instantly unlocks 1 Locked Stress slot, but immediately inflicts 1 normal Dissonant Stress on the user from the chemical shock..                                                                                                      |
 | Philter of Focus     | 20sp  | scarce | Grants **Advantage** on the next Grounding check performed in the scene.                                                                                                                                                                                                                                |
