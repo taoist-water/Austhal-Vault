@@ -5,22 +5,38 @@ Enemies use the same character generation rules as players. Once an enemy is gen
 ####  Core Integration Rules
 
 - **Fodder:** * _Budget:_ +1 to +2 total points distributed across 1 Attribute or Skill.
-	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. Fodder cannot spend Threat unless led by a leader or a tag allows them too. 1 wound. 0 stress, breaking the core rule.
+	- 1 - 2 Traits. 1 Threat Abilities. 
+	- vessel limit 1. 
+	- Fodder cannot spend Threat unless led by a leader or a tag allows them too. 
+	- 1 wound. 
+	- 0 stress, breaking the core rule.
     
     - _Example (Zombie):_ Prowess +1. _(Strikes and grabs at +1, everything else is +0). Undead_
-        
+    
 - **Grunt:** * _Budget:_ +2 to +4 total points across 1–2 Attributes and 1–2 Skills.
-	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. 2 wounds. stress as core rule defined.
+	- 1 - 2 Traits. 
+	- 1 Threat Abilities. 
+	- vessel limit 1. 
+	- 2 wounds. 
+	- stress as core rule defined.
     
     - _Example (Orc Line-Breaker):_ Prowess +2, Melee +2. _(Strikes at +4. Activation/Reflex is +0. Magic defense is +0)._
-        
+    
 - **Elite:** * _Budget:_ +5 to +8 total points. Attributes can reach +3.
-	-  2 - 3 Traits. 1 - 2 Threat Abilities. vessel limit 2 - 3.  3 - 4 wounds. stress as core rule defined +1.
+	-  2 - 3 Traits. 
+	- 1 - 2 Threat Abilities. 
+	- vessel limit 2 - 3.  
+	- 3 - 4 wounds. 
+	- stress as core rule defined +1.
     
     - _Example (Cultist Assassin):_ Reflex +3, Wits +1 | Melee +2, Dodge +1, Stealth +1. _(Strikes at +2, Dodges at +4, Stealths at +4. Prowess/Brace is +0)._
-        
+    
 - **Dread Entities / Bosses (The Behemoths):** * _Budget:_ +9 to +14 total points. Built to rival a highly optimized player. Attributes can exceed +3.
-	- 2 - 4 Traits. 3+ Threat Abilities. vessel limit 2 - 4. 4+ wounds. stress as core rule defined + 2
+	- 2 - 4 Traits. 
+	- 3+ Threat Abilities. 
+	- vessel limit 2 - 4. 
+	- 4+ wounds. 
+	- stress as core rule defined + 2
     
     - _Example (Arch-Devil Malaphar):_ Prowess +4, Will +3, Wits +2 | Melee +4, Arcana +3, Resolve +3. _(Strikes at +8, casts at +5, resists mental magic at +6. Still has a +0 in Reflex).
     
@@ -139,11 +155,12 @@ _A writhing, starving mass that exists purely to drain Momentum and Wounds befor
         
 - **Vessel Limit:** 1
   ________________________________________________________________________________________________________________________________________________________________________________________________________________
-### Grunt: Orc Line-Breaker
+### Orc Line-Breaker (Grunt)
 
 - **Budget Used:** 4 points.
     
-- **Stats:** Prowess +2 | Melee +2. _(Assumed Zero: Reflex, Wits, Will. They hit hard and block well, but are terrible at dodging or resisting mind-altering Arcana)._
+- **Stats:** Prowess +2 | Melee +2. _(Assumed Zero: Reflex, Wits, Will. They hit hard and block well, but are terrible at dodging or resisting mind-altering Arcana).
+- **Wound Threshold:** 6 | **Wound Slots:** 2 | **Stress Limit:** 4
     
 - **Traits (1):**
     
@@ -153,11 +170,12 @@ _A writhing, starving mass that exists purely to drain Momentum and Wounds befor
     
 - **Vessel Limit:** 1
     ___________________________
-### Elite: Cultist Assassin
+### Cultist Assassin (Elite)
 
 - **Budget Used:** 8 points.
     
-- **Stats:** Reflex +3, Wits +1 | Melee +2, Dodge +1, Stealth +1. _(Assumed Zero: Prowess, Brace, Will. They are practically untouchable by standard strikes, but if forced into a Grapple, they roll 2d6 + 0)._
+- **Stats:** Reflex +3, Wits +1 | Melee +2, Dodge +1, Stealth +1. _(Assumed Zero: Prowess, Brace, Will. They are practically untouchable by standard strikes, but if forced into a Grapple, they roll 2d6 + 0).
+- **Wound Threshold:** 4 | **Wound Slots:** 3 | **Stress Limit:** 6
     
 - **Traits (2):**
     
@@ -178,7 +196,7 @@ _______________________________
 
 _A serious threat that requires party synergy to defeat. He doesn’t fight fair; he commands the battlefield with a heavy halberd, barking orders from behind a wall of cutthroats._
 
-- **Wound Threshold:** 9 _(Base 4 + 2 Prowess + 3 Breastplate)_ | **Wound Slots:** 3 | **Stress Limit:** 4
+- **Wound Threshold:** 9 _(Base 4 + 2 Prowess + 3 Breastplate)_ | **Wound Slots:** 3 | **Stress Limit:** 6 
     
 - **Stats:** Prowess +2, Wits +1, Reflex +1 | Melee +2, Brace +1, Resolve +1. _(Assumed Zero: Dodge, Will, Arcana. He is a hardened commander who braces against hits, but his heavy armor and cumbersome weapon make him terrible at dodging out of the way of AOE attacks or fast projectiles)._
     
@@ -205,13 +223,13 @@ _A serious threat that requires party synergy to defeat. He doesn’t fight fair
 
 _A towering, territorial brute of dense muscle and thick frost-bitten hide. It swings a shattered pine tree with horrifying speed, its wounds knitting together almost as fast as they are opened._
 
-- **Wound Threshold:** 9 | **Wound Slots:** 4
+- **Wound Threshold:** 9 (4 + Prowess 3 + Scale 2 ) | **Wound Slots:** 3 | **Stress Limit:** 4
     
 - **Stats:** Prowess +3 | Melee +3, Brace +1, Reflex +1. _(Assumed Zero: Dodge, Wits, Will, Arcana, Resolve. It acts surprisingly fast and hits like a siege weapon, but it is entirely defenseless against mind-altering magic or illusions)._
     
 - **Traits (2):**
     
-    - _Huge (Scale +2):_
+    - _Large (Scale +1):_
         
     - _Troll-Blood Regeneration:_ At the start of the Troll's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ If the Troll takes any Impact damage from a Fire source (such as a _Naphtha Fire-Flask_ or Pyromancy), this trait is entirely suppressed until the end of the next round.
         
@@ -227,7 +245,7 @@ ___________________________________________________________________
 
 _A towering, decapitated mass of waterlogged flesh, rusted iron chains, and tangled mangrove roots. It does not feel pain; it only seeks to pull living warmth down into the freezing mud._
 
-- **Wound Threshold:** 9 | **Wound Slots:** 4, Huge scale (+2)
+- **Wound Threshold:** 11 (4 + Prowess 3 + Scale 4 )| **Wound Slots:** 4(3 base + 1 Scale), Huge scale (+2)|**Stress Limit** 4.
     
 - **Stats:** Prowess +3 | Melee +3, Brace +2. _(Assumed Zero: Reflex, Dodge, Wits, Will, Arcana. A lumbering behemoth. It swings at a +6 and braces against physical blows at a +5, but is completely defenseless against Agility or Mind-targeting magic)._
     
@@ -251,7 +269,8 @@ _______________________________
 - **Budget Used:** 14 points.
     
 - **Stats:** Prowess +3, Will +3, Wits +2 | Melee +3, Arcana +2, Resolve +1. _(Assumed Zero: Reflex, Dodge. A lumbering powerhouse of physical and magical pressure, but acts last in combat and cannot dodge out of the way of AOE attacks)._
-    
+- **Wound Threshold:** 11 (4 + Prowess 3 + Scale 4 )| **Wound Slots:** 4(3 base + 1 Scale), Huge scale (+2)| **Stress Limit** 4.
+- 
 - **Traits (3):**
     
     - _Terrifying_ & _Cunning Leader_.

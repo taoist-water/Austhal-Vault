@@ -154,7 +154,10 @@ _______________________________________________________________________
 - Focus: Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the wand, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
     
 - Grounding Rod: You may add a staff or wand property that grants Advantage on the Grounding (Wits + Arcana) check to unlock stress slots. 
+
 - Heavy Hitter : When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7. 
+
+- Heavy: deals +2 Impact against targets with Scale +1 or higher.
 
 - Inertia: If you win the Clash roll by a High Margin (5+), add +2 Power to the Final Impact (essentially guaranteeing a Major Wound).
     
@@ -204,9 +207,9 @@ These variations add specific situational tactical tools to the baseline weapon 
     
 - Stats: Power 1 | 1H/2H | 10 ft Threat
     
-- Tags: Reach, Cruel
+- Tags: Reach, 
     
-- 2d6 Special Rule: When you win a Clash with this weapon as an attack action, you can forego doing standard Impact damage to execute a Hook. The target is pinned at the tip of your spear; they cannot execute Shift actions until they win an opposed Prowess check against you on their activation.
+- 2d6 Special Rule: *Cruel* : When you win a Clash with this weapon as an attack action, you can forego doing standard Impact damage to execute a Hook. The target is pinned at the tip of your spear; they cannot execute movement actions until they win an opposed Prowess check against you on their activation.
     
 
 #### The Heavy Arbalest
@@ -216,9 +219,9 @@ These variations add specific situational tactical tools to the baseline weapon 
     
 - Stats: Power 3 | 2H | Ranged (Max: Long / 120 ft)
     
-- Tags: Armor-Piercing, Cumbersome, Heavy Reload
+- Tags: Armor-Piercing, Cumbersome, Heavy
     
-- 2d6 Special Rule: Requiring a literal windlass to crank. It takes two entire Move Actions to reload this weapon. However, its steel-headed bolts ignore the infantry projectile protections of shields (Cover tags are nullified) and deal +2 Impact against targets with Scale +1 or higher.
+- 2d6 Special Rule: *Heavy Reload* : Requiring a literal windlass to crank. It takes two entire Move Actions to reload this weapon. However, its steel-headed bolts ignore the infantry projectile protections of shields (Cover tags are nullified) and deal +2 Impact against targets with Scale +1 or higher.
 
 ________________________________________________________________________
 
@@ -228,6 +231,7 @@ ________________________________________________________________________
 | Padded / Gambeson   | +0 Armor  | Light  | Cushioned            | 5 sp           | Common       |
 | Leather             | +1 Armour | Light  | —                    | 12 sp          | Common       |
 | Chainmail / Scale   | +2 Armor  | Medium | Bulky                | 45 sp          | Scarce       |
+| Breast plate        | +3 Armour | Medium | Bulky, Cushioned     | 95sp           | Scarce       |
 | Plate Armor         | +4 Armor  | Heavy  | Restricted           | 200 sp (10 gs) | Rare         |
 | Buckler             | 2 SV      | Shield | Nimble               | 8 sp           | Common       |
 | Kite / Round Shield | 4 SV      | Shield | Cover                | 18 sp          | Common       |

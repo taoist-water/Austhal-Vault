@@ -46,7 +46,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 - When taken whilst engaged in an enemy threat zone, gain disadvantage on combat actions until next activation.
     
 
-**Aggressor Actions:**
+**Attack Actions:**
 
 - Strike: 2D6 + Prowess + Melee. The standard attack. 
 - Power Strike: 2D6 + Prowess + Melee + weapon power. Apply the weapon power to the strike roll, instead of the impact calculation. however, it reduces your Wounds threshold by 2 until the beginning of your next activation.
@@ -60,7 +60,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 - Cast Spell: See spell description.
     
 
-**Reactor Actions:**
+**Defence Actions:**
 
 *When targeted by a ranged attack outside of movement distance and without a ranged weapon, the target of an activation is automatically the Reactor.*
 
@@ -174,7 +174,7 @@ Mass dictates how easily a creature absorbs trauma. We adjust the Wound Threshol
 
 Larger creatures hit with overwhelming force, severely taxing the defender's ability to block.
 
-- Overwhelming Force: When a Reactor attempts to Block an Aggressor who is Larger than them, the Reactor suffers 1 automatic Stress, even if they successfully block. If the attacker is two or more sizes larger (e.g., Human vs. Giant), the Block action suffers Disadvantage.
+- Overwhelming Force: When a target attempts to Block an Attack action from a Larger opponent, the target suffers 1 automatic Stress, even if they successfully block. If the attacker is two or more sizes larger (e.g., Human vs. Giant), the Block action suffers Disadvantage.
     
 - Grappling/Shoving: A character automatically has Advantage on Prowess checks to grapple, shove, or knock down a creature smaller than them. You cannot grapple a creature more than one size larger than you without special feats or equipment (like ropes and harpoons).
 ________________________________________________________________________

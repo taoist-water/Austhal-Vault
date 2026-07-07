@@ -499,7 +499,7 @@ ______________________________________________________________________
     
 - You anchor the line so others can breathe.
     
-- Mechanic: You know how to anchor a line and protect the vulnerable. If an adjacent ally is targeted by an Aggressor action, you may spend 1 Momentum to physically shove them aside and become the Reactor in their place. Furthermore, you grant them your shield's Shield Value (SV) as a Front-End Reducer against that specific attack.
+- Mechanic: You know how to anchor a line and protect the vulnerable. If an adjacent ally is targeted by an attack action, you may spend 1 Momentum to physically shove them aside and become the Target in their place. 
 ### Void Weaver
 
 - Prerequisites: Reflex 1+, Arcana 2+
@@ -689,7 +689,7 @@ Focused on leveraging sheer trauma, terrifying resilience, and turning bodily pu
     
 - Pain is just a targeting mechanism.
     
-- Mechanic: If you suffer a Minor or Major Wound from an Aggressor's melee attack, your nervous system rejects the shock. You may immediately spend 1 Momentum to perform a brutal, retaliatory Strike action against them. This occurs instantly before the Engagement ends and before you suffer any associated Stress penalties.
+- Mechanic: If you suffer a Minor or Major Wound from a melee attack, your nervous system rejects the shock. You may immediately spend 1 Momentum to perform a brutal, retaliatory Strike action against them. This occurs instantly before the Engagement ends and before you suffer any associated Stress penalties.
     
 
 #### Apex Butcher (Tier 3)
@@ -743,7 +743,7 @@ Focused on surgical precision, arrogant mobility, and completely dismantling an 
     
 - You move faster than their pain receptors can register.
     
-- Mechanic: When wielding two one-handed weapons (a primary weapon and a weapon with the Sidearm tag), your sheer speed bypasses the standard Momentum economy. Whenever you win a Clash as the Aggressor, your off-hand weapon automatically deals its Power + 1 Stress to the target. You no longer need to spend 1 Momentum to perform the Twin Strike maneuver.
+- Mechanic: When wielding two one-handed weapons (a primary weapon and a weapon with the Sidearm tag), your sheer speed bypasses the standard Momentum economy. Whenever you win an attack action in a clash, your off-hand weapon automatically deals its Power + 1 Stress to the target. You no longer need to spend 1 Momentum to perform the Twin Strike maneuver.
 ### The Cutthroat (Thief/Rogue Archetype)
 
 Focused on opportunistic strikes, siphoning momentum from the failures of others, and anatomical nihilism.
@@ -765,7 +765,7 @@ Focused on opportunistic strikes, siphoning momentum from the failures of others
     
 - Nothing matters when the arteries are severed.
     
-- Mechanic: If you win an Aggressor Clash with a Light Weapon or Sidearm by a Massive Success (Margin of 5+), you do not calculate standard Impact against the target's Wound Threshold. Instead, you permanently disable one of the target's limbs or sensory organs (GM's discretion), instantly inflicting 1 Major Wound (2 slots) and applying the Bleeding condition.
+- Mechanic: If you win an Attack action with a finesse Weapon or Sidearm by a Massive Success (Margin of 5+), you do not calculate standard Impact against the target's Wound Threshold. Instead, you permanently disable one of the target's limbs or sensory organs (GM's discretion), instantly inflicting 1 Major Wound (2 slots) and applying the Bleeding condition.
 ### The Demagogue (Bard Archetype)
 
 Focused on psychological warfare, weaponizing the Momentum of a crowd, and manipulating the Social Engine right in the middle of a slaughter.
