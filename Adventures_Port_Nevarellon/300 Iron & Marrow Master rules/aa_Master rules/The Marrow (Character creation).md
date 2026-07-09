@@ -106,16 +106,16 @@ __________________________________________________________________
 - *Will:* Resolve and spiritual weight.
     
 
-- Wound Threshold [[Wounds Threshold|T]]: **4 + Prowess + Armour Value + Species Bonuses + Scale bonus + Misc.mods**
+- *Wound Threshold [[Wounds Threshold|T]]:* **4 + Prowess + Armour Value + Species Bonuses + Scale bonus + Misc.mods**
     
-- Stress Limit: **4 + Will + Wits + Feat Bonus + Species bonus.**. 
+- *Stress Limit:* **4 + Will + Wits + Feat Bonus + Species bonus.**. 
     -  If your total Stress (Locked + Dissonant) exceeds this limit, your mental focus shatters: all current Locked Stress immediately becomes Dissonant, applying its full penalties, and any excess points are converted into Wounds.
 
 **Attributes (capped at +3 Max)**
    
 **Skills (capped at +3).**
 
-# Determine Attributes
+## Determine Attributes
 You have Development Points [[DP]]: 4 Points to distribute among your four Attributes. 
 
 - All Attributes start at 0.
