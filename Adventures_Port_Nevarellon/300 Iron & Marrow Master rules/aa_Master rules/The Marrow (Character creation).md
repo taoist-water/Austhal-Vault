@@ -753,21 +753,19 @@ ______________________________________________________________________
     
 - Mechanic: When you successfully inflict a Minor or Major Wound on a living creature, you may spend 1 Momentum to plant a parasitic, alchemically-altered spore deep in the tissue. At the start of each of their subsequent turns, they must pass a Prowess check or take 1 Dissonant Stress. If they fail, the blooming spore also grants you a flat +1 bonus on your next Clash roll against them.
     
-
-#### Apex Chimera (Tier 3)
-    
+**Apex Chimera (Tier 3)**    
 
 - Prerequisites: Prowess +2, Survival +3
     
 - You forcefully rewrite your own anatomy to survive.
     
 - Mechanic: During combat, you may inflict 1 Dissonant Stress upon yourself as a Free Action to violently warp your bones and musculature. You gain one Monster Entity Tag (such as Regeneration, Corrosive Form, or shifting your Scale up by +1) until the end of the scene. However, if you roll a Fumble while in this state, the transformation destabilizes, resulting in a permanent, gruesome physiological penalty (GM's discretion).
-### The Bravo (Duelist Archetype)
+
+**The Bravo (Duelist Archetype)**
 
 Focused on surgical precision, arrogant mobility, and completely dismantling an enemy's Momentum economy.
 
-#### The Insulting Deflection (Tier 2)
-    
+**The Insulting Deflection (Tier 2)**    
 
 - Prerequisites: Reflex +2, Melee +2
     
@@ -776,20 +774,19 @@ Focused on surgical precision, arrogant mobility, and completely dismantling an 
 - Mechanic: When you act as the Reactor and successfully Parry an attack by a High margin (5+), you do not just calculate Impact. You may immediately spend 1 Momentum to inflict the Surprised condition on the Aggressor.
     
 
-#### Death of a Thousand Cuts (Tier 3)
-    
+**Death of a Thousand Cuts (Tier 3)**    
 
 - Prerequisites: Reflex +3, Melee +3
     
 - You move faster than their pain receptors can register.
     
 - Mechanic: When wielding two one-handed weapons (a primary weapon and a weapon with the Sidearm tag), your sheer speed bypasses the standard Momentum economy. Whenever you win an attack action in a clash, your off-hand weapon automatically deals its Power + 1 Stress to the target. You no longer need to spend 1 Momentum to perform the Twin Strike maneuver.
-### The Cutthroat (Thief/Rogue Archetype)
+
+**The Cutthroat (Thief/Rogue Archetype)**
 
 Focused on opportunistic strikes, siphoning momentum from the failures of others, and anatomical nihilism.
 
-#### Parasitic Momentum (Tier 2)
-    
+**Parasitic Momentum (Tier 2)**    
 
 - Prerequisites: Reflex +2, Stealth +2 or Thievery +2
     
@@ -797,21 +794,19 @@ Focused on opportunistic strikes, siphoning momentum from the failures of others
     
 - Mechanic: When an enemy within 30 feet rolls a Fumble (two natural 1s), you steal their panicked energy, instantly banking 1 Momentum for yourself as you capitalize on their mistake.
     
-
-#### Anatomical Nihilism (Tier 3)
-    
+**Anatomical Nihilism (Tier 3)**    
 
 - Prerequisites: Reflex +3, Melee +3 or Ranged +3
     
 - Nothing matters when the arteries are severed.
     
 - Mechanic: If you win an Attack action with a finesse Weapon or Sidearm by a Massive Success (Margin of 5+), you do not calculate standard Impact against the target's Wound Threshold. Instead, you permanently disable one of the target's limbs or sensory organs (GM's discretion), instantly inflicting 1 Major Wound (2 slots) and applying the Bleeding condition.
-### The Demagogue (Bard Archetype)
+
+**The Demagogue (Bard Archetype)**
 
 Focused on psychological warfare, weaponizing the Momentum of a crowd, and manipulating the Social Engine right in the middle of a slaughter.
 
-#### Vitriolic Cadence (Tier 2)
-    
+**Vitriolic Cadence (Tier 2)**    
 
 - Prerequisites: Will +2, Influence +2
     
@@ -820,64 +815,62 @@ Focused on psychological warfare, weaponizing the Momentum of a crowd, and manip
 - Mechanic: You know exactly how to twist the knife when an enemy is faltering. Whenever an ally within earshot successfully gains Momentum from winning a Clash, you may hurl a devastating insult or terrifying tactical observation. This instantly inflicts 1 Dissonant Stress on the enemy your ally just struck.
     
 
-#### Architect of Panic (Tier 3)
-    
+**Architect of Panic (Tier 3)**    
 
 - Prerequisites: Will +3, Influence +3
     
 - You narrate their inevitable doom until their mind simply accepts it.
     
 - Mechanic: You may spend 2 Momentum to target one enemy within 30 feet who can hear and understand you. Instead of an Aggressor action, you roll an opposed Will + Influence check against their Will + Resolve. On a Massive Success (a Margin of 5+), you completely shatter their psychological fortitude to absorb kinetic trauma. Their Wound Threshold is permanently reduced by 2 for the remainder of the encounter.
-### The Inquisitor (Paladin Archetype)
+
+
+**The Inquisitor (Paladin Archetype)**
 
 Focused on weaponized dogma, absolute punishment, and crushing the enemy under the sheer weight of divine authority.
 
-#### The Weight of Guilt (Tier 2)
-    
+**The Weight of Guilt (Tier 2)**    
 
 - Prerequisites: Will +2, Faith +2, Melee +1
     
 - Your judgment is a physical anchor dragging them down.
     
-- Mechanic: When you win a Clash against an enemy who has inflicted a Wound on an ally during the current combat, you may immediately spend 1 Momentum. The target must pass an opposed Will + Resolve check against your Will + Faith. If they fail, their nervous system locks up in terror, instantly inflicting the Anchored condition until they can break free on their next activation.
+- Mechanic: When you win a Clash against an enemy who has inflicted a Wound on an ally during the current scene, you may immediately spend 1 Momentum. The target must pass an opposed Will + Resolve check against your Will + Faith. If they fail, their nervous system locks up in terror, instantly inflicting the Anchored condition until they can break free on their next activation.
     
 
-#### Penance Engine (Tier 3)
-    
+**Penance Engine (Tier 3)**    
 
 - Prerequisites: Will +3, Faith +3, Prowess +2
     
-- To strike you is to invite the wrath of god.
+>To strike you is to invite the wrath of god.
     
-- Mechanic: When an Aggressor rolls a natural 6 on a Clash against you, you may spend 2 Momentum to instantly shatter their weapon or their arm via divine backlash. The incoming attack is completely nullified (0 Impact), and the Aggressor instantly suffers 1 Major Wound (2 slots) as the kinetic energy violently rebounds into their own body.
-### The Ironclad (Fighter/Warrior Archetype)
+- Mechanic: When an Attack roll has a natural 6 on a Clash against you, you may spend 2 Momentum to instantly shatter their weapon or their arm via divine backlash. The incoming attack is completely nullified (0 Impact), and the Aggressor instantly suffers 1 Major Wound (2 slots) as the kinetic energy violently rebounds into their own body.
+
+**The Ironclad (Fighter/Warrior Archetype)**
 
 Focused on brutal mechanical efficiency, surviving physical trauma, and turning defense into inevitable offense.
 
-#### Attrition Engine (Tier 2)
-    
+**Attrition Engine (Tier 2)**    
 
 - Prerequisites: Prowess +2, Block +2 or Melee +2
     
 - You grind them down to the marrow.
     
-- Mechanic: Whenever you act as the Reactor and successfully Block or Parry an attack, reducing the total Impact to less than your Wound Threshold, you automatically bank 1 Momentum. Your defense directly fuels your offensive economy.
+- Mechanic: Whenever you successfully Block or Parry an attack, you automatically bank 1 Momentum. Your defense directly fuels your offensive economy.
     
 
-#### The Downward Swing (Tier 3)
-    
+**The Downward Swing (Tier 3)**    
 
 - Prerequisites: Prowess +3, Melee +3
     
 - The heavier the physical burden, the harder the kinetic release.
     
-- Mechanic: For every active Wound slot currently filled on your character sheet, you gain a flat +1 bonus to the total of your Aggressor Strike checks. As your body breaks down, your lethality spikes.
-### The Stalker (Ranger/Hunter Archetype)
+- Mechanic: For every active Wound slot currently filled on your character sheet, you gain a flat +1 bonus to the total of your Strike actions. As your body breaks down, your lethality spikes.
+
+**The Stalker (Ranger/Hunter Archetype)**
 
 Focused on isolation, predatory tracking, and ruling the fringes of the battlefield.
 
-#### Predator's Rhythm (Tier 2)
-    
+**Predator's Rhythm (Tier 2)**    
 
 - Prerequisites: Wits +2, Survival +2
     
@@ -885,21 +878,19 @@ Focused on isolation, predatory tracking, and ruling the fringes of the battlefi
     
 - Mechanic: When you successfully kill or Incapacitate a Fodder or Grunt level enemy, you may immediately clear 1 Dissonant Stress or bank 1 Momentum (your choice).
     
-
-#### No Quarter in the Mud (Tier 3)
-    
+ **No Quarter in the Mud (Tier 3)**    
 
 - Prerequisites: Prowess +3 or Reflex +3, Survival +3
     
-- You are the apex organism of the wasteland.
+>You are the apex organism of the wasteland.
     
-- Mechanic: When an enemy attempts to leave your Threat Zone and provokes a Free Aggressor action from you, your strike is devastatingly precise. You automatically roll the Clash with Advantage, and if you hit, the attack ignores 2 points of the target’s Wound Threshold.
-### The Zealot (Priest/Cleric Archetype)
+- Mechanic: When an enemy attempts to leave your Threat Zone and provokes a Free Attack action from you, your strike is devastatingly precise. You automatically roll the Clash with Advantage, and if you hit, the attack ignores 2 points of the target’s Wound Threshold.
+
+**The Zealot (Priest/Cleric Archetype)**
 
 Focused on weaponized suffering, cynical devotion, and using the self as a conduit for divine violence.
 
-#### Litany of Nails (Tier 2)
-    
+**Litany of Nails (Tier 2)**    
 
 - Prerequisites: Will +2, Faith +2
     
@@ -907,23 +898,21 @@ Focused on weaponized suffering, cynical devotion, and using the self as a condu
     
 - Mechanic: When you successfully maintain a sustaining spell by passing your Will + Faith check at the start of your turn, you may instantly inflict 1 Dissonant Stress on any one engaged enemy who can hear you speak the profane words.
     
-
-#### Martyr’s Furnace (Tier 3)
-    
+ **Martyr’s Furnace (Tier 3)**    
 
 - Prerequisites: Will +3, Faith +3
     
 - You take on the world's rot so others might live.
     
-- Mechanic: When an ally within 30 feet suffers a Wound, you may spend 2 Momentum to instantly transfer that Wound to yourself instead. If this Wound fills your final Wound slot and pushes you to Incapacitation, your collapse triggers a shockwave of absolute divine radiation, instantly clearing all Locked and Dissonant Stress from all allies within line of sight.
+- Mechanic: When an ally within 30 feet suffers a Wound, you may spend 2 Momentum to instantly transfer that Wound to yourself instead. If this Wound pushes you to Incapacitation, your collapse triggers a shockwave of absolute divine radiation, instantly clearing all Locked and Dissonant Stress from all allies within line of sight.
 
-### The Scrounger (Survivalist Archetype)
+**The Scrounger (Survivalist Archetype)**
 
-*Some adventurers carry a forge's worth of steel into the dungeon. The Scrounger carries a knife, a length of wire, and the absolute certainty that everything around them is a weapon, a tool, or a meal if you're desperate enough.*
+>Some adventurers carry a forge's worth of steel into the dungeon. The Scrounger carries a knife, a length of wire, and the absolute certainty that everything around them is a weapon, a tool, or a meal if you're desperate enough.
 
 ________________________________________________________________________
 
-#### Spit and Twine (Tier 1)
+**Spit and Twine (Tier 1)**
 
 - Prerequisites: Crafting +1 or Survival +1
 
