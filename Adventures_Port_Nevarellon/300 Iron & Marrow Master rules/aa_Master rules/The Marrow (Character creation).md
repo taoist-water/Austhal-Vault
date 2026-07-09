@@ -14,7 +14,8 @@ Step 5: Select starting equipment
     - Choose Weapons & Shields: Up to two 1-Handed items (e.g., Shortsword + Kite Shield, or Grimoire + Dagger) OR one 2-Handed item (e.g., Greatsword, Longbow, Mage Staff).
 _____________________________________________________________________
 # Species
-### Human (The Resilient Adapters)
+
+ **Human (The Resilient Adapters)**
 
 _Humans in gritty fantasy aren't the strongest or the fastest, but they have sheer grit and adaptability. They outlast others through willpower and versatility._
 
@@ -25,9 +26,7 @@ _Humans in gritty fantasy aren't the strongest or the fastest, but they have she
 - **Steady, Not Sharp (Drawback):** Humans burn slow and steady rather than bright. Their Momentum Bank is capped at **4** instead of the standard 5 — they rarely hit the adrenaline peaks a specialist can chase down.
 - **Playstyle:** The perfect blank slate. They can flex into any role, and that extra point of Stress gives them just a little more breathing room before they panic or break — but they'll be the last one at the table to cash in a 3-Momentum Ultimate.
 
-## Half-Elf (The Bridge Builders)
-
- ### Half-Elf (The Bridge Builders)
+**Half-Elf (The Bridge Builders)**
 
 _Possessing the ambition of humans and the grace of elves, Half-Elves are charismatic wanderers who fit in everywhere but belong nowhere._
 
@@ -38,7 +37,7 @@ _Possessing the ambition of humans and the grace of elves, Half-Elves are charis
 - **Between Worlds (Drawback):** Half-Elves suffer Disadvantage on Wits + Influence checks when dealing with an insular or homogeneous community that has had little contact with outsiders — an isolated Elven enclave, a xenophobic frontier hamlet, a closed guild.
 - **Playstyle:** The ultimate face characters and versatile support pieces — everywhere except the one room that's never trusted an outsider.
 
-## Half-Orc (The Relentless Brutes)
+**Half-Orc (The Relentless Brutes)**
 
  Born of two worlds and often shunned by both, Half-Orcs survive through raw intimidation and a terrifying physiological ability to push through lethal pain.
 
@@ -54,7 +53,7 @@ _Possessing the ambition of humans and the grace of elves, Half-Elves are charis
     
 -  Playstyle: Berserkers and shock troopers who actually become more mentally stable (mechanically) when the blood starts flowing.
 
-## Halfling (The Unseen & Unbothered)
+**Halfling (The Unseen & Unbothered)**
 
  In a world of towering monsters and lethal blows, Halflings survive by not being noticed and having an uncanny knack for slipping out of danger at the last possible second.
 
@@ -70,7 +69,7 @@ _Possessing the ambition of humans and the grace of elves, Half-Elves are charis
     
 -  Playstyle: Stealthy opportunists who excel at avoiding the brutal consequences of the system's lethal dice spikes.
 
-### Elf (The Ancient & Graceful)
+**Elf (The Ancient & Graceful)**
 
 _Elves are attuned to magic and the natural world. They are blindingly fast and perceptive, but lack the physical density of the heavier races._
 
@@ -81,7 +80,7 @@ _Elves are attuned to magic and the natural world. They are blindingly fast and 
 - **Hollow-Boned (Drawback):** Their lithe frames are susceptible to trauma. Their base Wound Threshold is reduced by 1. _(This drawback travels with Fey Reflexes if a Half-Elf takes it via Split Heritage — see Half-Elf.)_
 - **Playstyle:** Agile skirmishers or perceptive scouts. They avoid getting hit because if they do get hit, they go down faster.
 
-## Dwarf (The Ironclad Survivors)
+**Dwarf (The Ironclad Survivors)**
 
  Dwarves are built like brick outhouses. They are dense, stubborn, and completely at home in the dark, punishing environments of the deep earth.
 
@@ -98,13 +97,13 @@ _Elves are attuned to magic and the natural world. They are blindingly fast and 
 - Playstyle: The ultimate frontline anchors. They can take a beating and hold a choke point better than anyone.
 __________________________________________________________________
 # Attributes and Derived Stats
-- Prowess: Strength and physical power.
+- *Prowess:* Strength and physical power.
     
-- Reflex: Speed and coordination.
+- *Reflex:* Speed and coordination.
     
-- Wits: Logic and mental processing.
+- *Wits:* Logic and mental processing.
     
-- Will: Resolve and spiritual weight.
+- *Will:* Resolve and spiritual weight.
     
 
 - Wound Threshold [[Wounds Threshold|T]]: **4 + Prowess + Armour Value + Species Bonuses + Scale bonus + Misc.mods**
@@ -112,10 +111,9 @@ __________________________________________________________________
 - Stress Limit: **4 + Will + Wits + Feat Bonus + Species bonus.**. 
     -  If your total Stress (Locked + Dissonant) exceeds this limit, your mental focus shatters: all current Locked Stress immediately becomes Dissonant, applying its full penalties, and any excess points are converted into Wounds.
 
-## Attributes (capped at +3 Max)
-
-    
-## Skills (capped at +3).
+**Attributes (capped at +3 Max)**
+   
+**Skills (capped at +3).**
 
 # Determine Attributes
 You have Development Points [[DP]]: 4 Points to distribute among your four Attributes. 
