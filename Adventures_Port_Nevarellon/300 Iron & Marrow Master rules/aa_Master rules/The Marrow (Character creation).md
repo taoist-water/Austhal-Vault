@@ -920,15 +920,15 @@ ________________________________________________________________________
 
 - Mechanic: You gain access to the following Momentum spends:
 
-  - **The Patch Job:** Your armor or weapon just gained the Damaged tag, rendering it mechanically weak. Spend 1 Momentum to hurriedly bind it with leather straps, sap, or wire. You completely ignore the Damaged tag for the duration of the next combat encounter. Once the fight ends, the gear breaks again.
+  - **The Patch Job:** Your armor or weapon just gained the Damaged tag, rendering it mechanically weak. Spend 1 Momentum to hurriedly bind it with leather straps, sap, or wire. You completely ignore the Damaged tag for the duration of the next scene. Once the fight ends, the gear breaks again.
 
   - **Shivs and Shrapnel:** Spend 1 Momentum to instantly fashion a crude, single-use Power 1 weapon (a glass shiv, a heavy bone club) or a rudimentary tool (a makeshift lockpick, a wedge for a door) from the immediate environment, without needing to roll for success.
 
-#### Volatile Concoction (Tier 2)
+ **Volatile Concoction (Tier 2)**
 
 - Prerequisites: Spit and Twine, Crafting +2 or Survival +2
 
-- Given a corpse, a puddle, and ten minutes, you could probably brew up something that kills.
+>Given a corpse, a puddle, and ten minutes, you could probably brew up something that kills.
 
 - Mechanic: You gain access to the following Momentum spends:
 
@@ -938,15 +938,15 @@ ________________________________________________________________________
 
   - **Scavenge and Cannibalize:** Spend 2 Momentum after clearing a room to harvest meat from a beast, boil stagnant water, or pull unbroken arrows from corpses (using the Spit and Twine or Dungeon Chemistry logic above). This immediately steps the Community Supply Die back up by one tier (e.g., from a d4 back to a d6).
 
-#### Tactical Engineering (Tier 3)
+**Tactical Engineering (Tier 3)**
 
 - Prerequisites: Volatile Concoction, Crafting +3 or Survival +3
 
-- Give them ten minutes and a pile of rubble, and they'll build you a grave.
+>Give them ten minutes and a pile of rubble, and they'll build you a grave.
 
 - Mechanic: You gain access to the following Momentum spends:
 
-  - **The Kill-Box Barricade:** You only have minutes before the swarm arrives. Spend 3 Momentum to cannibalize the environment (pews, iron gates, rubble) to create a flawless, booby-trapped choke point. The first enemy that attempts to cross the threshold automatically suffers a massive kinetic hit (e.g., 5 Impact) and gains the Anchored condition, without you ever having to roll a Strike.
+  - **The Kill-Box Barricade:** You only have minutes before the swarm arrives. Spend 3 Momentum to cannibalize the environment (pews, iron gates, rubble) to create a  booby-trapped choke point. The first enemy that attempts to cross the threshold automatically suffers a massive kinetic hit (e.g., 7 Impact) and gains the Anchored condition, without you ever having to roll a Strike.
 
   - **Cannibalize Gear:** Instead of a temporary patch, you permanently repair a critical piece of gear. Spend 3 Momentum and destroy one piece of metal equipment (an enemy's dropped sword, a heavy iron pot) to permanently strip the Damaged tag from your primary weapon or armor mid-dungeon.
 
