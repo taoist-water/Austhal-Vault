@@ -278,57 +278,65 @@ ______________________________________________________________________
     
 - You are unfazed by threats when coin is on the table.
     
-- Mechanic: You ignore the standard social penalties of dealing with hostile environments. When attempting to buy, sell, or trade information, you treat NPCs with a Hostile stance as if they were Neutral for the purposes of setting prices and negotiating terms.
-### Iron Grip
+- Mechanic: You ignore the standard social penalties of dealing with hostile environments. When attempting to buy, sell, or trade information, you treat NPCs/settlements with a Hostile stance as if they were Neutral for the purposes of setting prices and negotiating terms.
+ 
+ **Iron Grip**
 
 - Prerequisites: Melee +1 or Athletics +1
     
 - You don't let go when the steel catches.
     
 - Mechanic: During the Engagement Flow, if you tie on a Clash and the weapons bind (ending the engagement), you automatically bank 1 Momentum as you secure a superior physical footing for the next exchange.
-### Lethal Strikes
+
+**Lethal Strikes**
 
 - Prerequisites: Melee 1
     
 - Your knuckles are as dense and dangerous as rusted iron.
     
 - Mechanic: Your Unarmed strikes can deal Lethal impact and can cause physical Wounds.
-### Quick
+
+**Quick**
 
 - Prerequisites: Reflex 1
     
 - The world moves like sludge when the adrenaline hits.
     
 - Mechanic: You have a supernatural hair-trigger response to danger. When rolling your Activation Order (2d6 + Reflex), you roll with Advantage (Roll 3d6, keep the highest two).
-### Scavenger’s Eye
+
+**Scavenger’s Eye**
 
 - Prerequisites: Wits +1, Stealth +1 or Survival +1
     
 - Paranoia is just a high-functioning survival instinct.
     
 - Mechanic: When you achieve a Massive Success (winning by 5+) on an exploration or scouting check. You gain 2 points of Momentum instead of the standard 1.
-### Scholarly Resonance
+
+**Scholarly Resonance**
 
 - Prerequisites: Arcana 2
     
 - The volatile heat in your mind acts as a physical barrier.
     
 - Mechanic: While you have at least 1 point of Locked Stress, you gain +1 SV (Shield Value) against magical effects as the excess energy forms a protective harmonic shell.
-### Shadow-Weaver
+
+**Shadow-Weaver**
 
 - Prerequisites: Stealth 1
     
 - You move without displacing the air around you.
     
 - Mechanic: You ignore the standard penalty for moving quickly while trying to remain hidden.
-### Stoic Resolve
+
+**Stoic Resolve**
 
 - Prerequisites: Will +2, Resolve +1
     
 - The mind must be a fortress against the meat-grinder.
     
 - Mechanic: You increase your maximum Stress Limit by +2. Additionally, when you take the Grounding action or spend a Momentum on The Rally, you clear 1 extra point of Locked or Dissonant Stress.
-### Tactical Mind
+
+**Tactical Mind**
 
 - Prerequisites: Wits 2, Notice 2
     
