@@ -743,10 +743,9 @@ ______________________________________________________________________
 
 **The Biomancer (Druid Archetype)**
 
-Focused on survival horror, weaponized flora, and treating biology as a malleable, expendable resource.
+>Focused on survival horror, weaponized flora, and treating biology as a malleable, expendable resource.
 
-#### Parasitic Symbiosis (Tier 2)
-    
+**Parasitic Symbiosis (Tier 2)**    
 
 - Prerequisites: Wits +2, Survival +2
     
