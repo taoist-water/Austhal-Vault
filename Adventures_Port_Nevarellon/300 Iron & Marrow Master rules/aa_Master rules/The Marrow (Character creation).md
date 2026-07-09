@@ -343,21 +343,24 @@ ______________________________________________________________________
 - You count the exits and weigh the weapons before anyone even speaks.
     
 - Mechanic: You are always reading the room before weapons are even drawn. You automatically start every combat encounter with 1 Momentum in your bank.
-### The Downward Spiral
+
+**The Downward Spiral**
 
 - Prerequisites: Wits +1
     
 - When everything falls apart, you find clarity at the bottom.
     
 - Mechanic: If your Stress Limit is maxed out and you are forced into the Death Spiral (Stress converting instantly into Wounds), the shock to your nervous system instantly generates 1 Momentum.
-### Trench Fighter
+
+**Trench Fighter**
 
 - Prerequisites: Prowess +1 or Reflex +1
     
 - You are at home in the muck.
     
 - Mechanic: You completely ignore the Disadvantage penalty on checks caused by Difficult Terrain. Furthermore, drawing a weapon whilst engaged doesn't gain disadvantage.
-### Whispers in the Dark
+
+**Whispers in the Dark**
 
 - Prerequisites: Stealth +1, Notice +1
     
@@ -366,36 +369,40 @@ ______________________________________________________________________
 - Mechanic: You excel at gathering intel from the shadows. As long as you remain successfully hidden, you gain Advantage on Wits + Notice checks to eavesdrop, read lips, or observe minor details without breaking your cover.
 
 ## Tier 2 Tactical Momentum
-### Architect of Ruin
+
+**Architect of Ruin**
 
 - Prerequisites: Wits +2, Thievery +2
     
 - You see the fatal flaw in every design.
     
 - Mechanic: When examining a lock, mechanical trap, or structural weak point, you can spend 1 Momentum. If you do, you instantly deduce its precise mechanism, allowing you to automatically pass the Thievery check to bypass or disable it without rolling—completely eliminating the risk of a Fumble.
-### Combat Scholar (Tier 2 - Arcana)
-    
+
+**Combat Scholar**    
 
 - Prerequisites: Reflex +1, Arcana +2
     
 - You are used to the chaos of the battlefield.
     
 - Mechanic: When you are forced to perform Blind Casting (casting without your Grimoire), you still cast with Disadvantage. However, you may reroll any natural 1s that appear in your dice pool. You must keep the second result.
-### Fevered Channelling
+
+**Fevered Channelling**
 
 - Prerequisites: Will +2, Arcana +2 or Faith +2
     
 - The magic wants out. Let it burn through you.
     
-- Mechanic: If you roll a Desperate Edge on a spell manifestation, you generate 1 Momentum. Furthermore, if you roll a Fumble while channeling or sustaining a spell, you take the 1 Dissonant Stress but the spell does not instantly drop.
-### Giant Feller
+- Mechanic: If you roll a Desperate Edge on a spell manifestation, you generate 1 Momentum. Furthermore, if you roll a Fumble while sustaining a spell, you take the 1 Dissonant Stress but the spell does not instantly drop.
+
+**Giant Feller**
 
 - Prerequisites: Prowess +2 or Acrobatics +2
     
 - Physics and leverage apply to monsters, too.
     
 - Mechanic: You may attempt to Grab or Shove creatures up to two sizes larger than you (e.g., Standard Scale vs. Huge Scale). Furthermore, you ignore the automatic 1 Stress penalty when attempting to Block an Attack from an enemy who is larger than you.
-### Iron Conviction 
+
+**Iron Conviction** 
 
 - Prerequisites: Will 2, Resolve 2
     
@@ -403,35 +410,39 @@ ______________________________________________________________________
     
 - Mechanic: When you use the blood price maneuver, you do not spend momentum. This can only beusesd once per scene.
 
-### Juggernaut
+**Juggernaut**
     
 - Prerequisites: Prowess 2
     
 - Meat and bone, hardened against kinetic shock.
     
 - Mechanic: Your sheer mass makes it incredibly difficult to deal kinetic damage to you. you may spend 1 Momentum to add 2 to your wounds threshold for that attack. stacks with brace.
-### Lateral Assessment
+
+**Lateral Assessment**
 
 - Prerequisites: Wits +2
     
 - Spiral out and over-analyze the chaos of the battlefield.
     
 - Mechanic: When you perform the Tactical Assessment action (2d6 + Wits + Skill), a successful check allows you to bank 2 Momentum instead of 1. However, the mental friction of processing that much combat data instantly inflicts 1 Dissonant Stress.
-### Midnight Oil
+
+**Midnight Oil**
 
 - Prerequisites: Wits +2, Crafting +2 or Arcana +2
     
 - Sleep is a luxury you cannot afford right now.
     
 - Mechanic: During downtime, you can intentionally inflict up to 3 points of Locked Stress upon yourself. For each point of Locked Stress taken, you generate 1 point of Progress Momentum. This allows you to artificially fuel the Field Medic, hammer & forge, etc downtime actions without needing to roll a Massive Success.
-### Path of Least Resistance
+
+**Path of Least Resistance**
 
 - Prerequisites: Wits +2, Survival +2
     
 - You see the safe steps where others only see the hazard.
     
 - Mechanic: When you roll a Desperate Edge on an environmental Hazard Check, you generate 1 Momentum. You may immediately spend this Momentum to allow an adjacent ally who failed their check to retroactively pass, saving them from the Locked Stress penalty.
-### Psychological Fracture
+
+**Psychological Fracture**
 
 - Prerequisites: Will +2, Influence +2
     
@@ -440,88 +451,95 @@ ______________________________________________________________________
     
 	- Control the Room: Give an ally Advantage ($3d6$ Keep the highest 2) on a subsequent follow-up check (e.g., the face of the party terrifies the merchant, generating Momentum, which the thief immediately spends to get Advantage on picking the merchant's strongbox while he's distracted).
 
-### Relentless Momentum
-    
+**Relentless Momentum**    
 
 - Prerequisites: Prowess 2
     
 - Forward progression is the only way out of the meat-grinder.
     
-- Mechanic: You thrive on forward progression. Whenever you successfully inflict a Minor or Major Wound on an enemy, you instantly gain 1 Momentum. This explicitly stacks with the baseline +1 Momentum gained for winning the Clash.
-### Riposte
+- Mechanic: You thrive on forward progression. Whenever you successfully inflict a Minor or Major Wound on an enemy, you instantly gain 1 Momentum.
+
+**Riposte**
 
 - Prerequisites: Melee 2
     
 - You are a master of punishing overextension.
     
 - Mechanic: If you win a Parry action in a melee Clash, you violently deflect the blow and instantly inflict Impact on the Attacker. This turns your defence directly into a weapon.
-### Silver-Tongued Viper
+
+**Silver-Tongued Viper**
 
 - Prerequisites: Wits +2, Influence +2
     
 - You can talk a zealot out of their faith.
     
 - Mechanic: If you achieve a Massive Success (winning by a Margin of 5+) on an opposed Influence vs. Resolve check, you bypass the standard limitation of only shifting an NPC's stance up one level. You can instantly flip an NPC 3 steps in either direction, bending them entirely to your agenda for the scene.
-### Smuggler’s Pockets
+
+ **Smuggler’s Pockets**
 
 - Prerequisites: Reflex +2, Thievery +2
     
 - They only find what you want them to find.
     
 - Mechanic: Any NPC attempting an opposed Notice check to search your person for concealed weapons, lockpicks, or contraband automatically suffers Disadvantage. Furthermore, drawing these hidden items is a Free Action that does not provoke an engagement penalty.
-### Surgical Cruelty
+
+**Surgical Cruelty**
 
 - Prerequisites: Wits +2, Medicine +1
     
 - You know exactly where the nerves cluster.
     
 - Mechanic: When calculating Impact after a successful Clash, if your Impact exactly equals the target's Wound Threshold (hitting the < Threshold or =< Threshold bracket with no overage), you inflict 2 Dissonant Stress to the target in addition to any physical Wounds.
-### Sweep
-    
+
+**Sweep**    
 
 - Prerequisites: Prowess 1, Reflex 1, Melee 1
     
 - One wide, brutal arc of butchery.
     
-- Mechanic: When you win an Aggressor action with a Melee weapon against a group of enemies, you can spend 1 Momentum to apply your total Impact to two adjacent targets instead of just one.
-### The Chain
+- Mechanic: When you win an Strike action with a Melee weapon against a group of enemies, you can spend 1 Momentum to apply your total Impact to two adjacent targets instead of just one.
+
+**The Chain**
 
 - Prerequisites: Reflex +2, Melee +2 or Ranged +2
     
 - Violence, properly applied, is perpetual motion.
     
-- Mechanic: When you are the Aggressor and win a Clash with a Massive Success (a margin of 5+), you can immediately spend 1 Momentum to initiate a secondary, free Strike or Shoot Clash against a different valid target within range.
-### The Grudge
+- Mechanic: When you win a Clash with a Massive Success (a margin of 5+), you can immediately spend 1 Momentum to initiate a secondary, free Strike or Shoot Clash against a different valid target within range.
+
+**The Grudge**
 
 - Prerequisites: Will +2
     
 - Wear your scars as a weapon.
     
-- Mechanic: When you suffer a Wound from an Aggressor, you automatically bank 1 Momentum  and gain Advantage on your next Clash against that specific target.
-### The Scoundrel
+- Mechanic: When you suffer a Wound from an Attack, you automatically bank 1 Momentum  and gain Advantage on your next Clash against that specific target.
+
+**The Scoundrel**
 
 - Prerequisites: Reflex 1+, Wits 1+
     
 - You don't fight fair; you throw sand, strike groins, and exploit blind spots.
     
-- Mechanic: When you win an Aggressor Clash with a Light Weapon or Unarmed strike, you may spend 1 Momentum to forego calculating Impact. Instead, the target takes 1 Stress and is permanently at Disadvantage on their next roll (whether acting as an Aggressor or Reactor) as they stumble or wipe blood from their eyes.
-### The Vanguard / Shield Brother
-    
+- Mechanic: When you win a Clash with a Light Weapon or Unarmed strike, you may spend 1 Momentum to forego calculating Impact. Instead, the target takes 1 dissonant Stress and is permanently at Disadvantage on their next roll as they stumble or wipe blood from their eyes.
+
+**The Vanguard / Shield Brother**    
 
 - Prerequisites: Prowess 2, Melee 2, Block 1
     
 - You anchor the line so others can breathe.
     
 - Mechanic: You know how to anchor a line and protect the vulnerable. If an adjacent ally is targeted by an attack action, you may spend 1 Momentum to physically shove them aside and become the Target in their place. 
-### Void Weaver
+
+**Void Weaver**
 
 - Prerequisites: Reflex 1+, Arcana 2+
     
 - You can reach out and unravel the magic of others.
     
 - Mechanic: When an enemy within 30 feet attempts to cast an Arcana or Faith spell (even if you are not the target), you may spend 1 Momentum to unweave it. You roll an opposed Wits + Arcana check against their casting roll, and if you win, the spell is entirely shattered before it takes effect. If you win by a Margin of 5 or more, you also absorb the ambient magic, instantly restoring 1 Stress to yourself.
-### Zeal
-    
+
+**Zeal**    
 
 - Prerequisites: Prowess 1, Faith 2
     
@@ -530,92 +548,100 @@ ______________________________________________________________________
 - Mechanic: When the holy spirit fills you, you feel no pain. While you are successfully Sustaining a Level 1 Faith spell, you may spend 1 Momentum. For as long as that spell remains active, you completely ignore the negative dice penalties caused by your current Dissonant Stress when making Melee attacks.
 
 ## Tier 3 The Void
-### Apex Survivor
+
+**Apex Survivor**
 
 - Prerequisites: Prowess +3 or Wits +3, Survival +3
     
 - The wild cannot kill you.
     
 - Mechanic: You are immune to the Death Spiral when it is caused by the environment. If a Hazard check (freezing blizzard, starvation, toxic gas) fills your Stress Limit, the excess Stress is simply lost into the void. Environmental hazards can never convert to Wounds on your character sheet.
-### Blade Master
-    
+
+**Weapon Master**    
 
 - Prerequisites: Melee 3+
     
 - Perfect edge alignment and flawless footwork.
     
-- Mechanic: You have spent thousands of hours perfecting edge alignment and footwork. You gain permanent Advantage on Clash rolls when wielding Swords or Daggers.
-### Break Morale
+- Mechanic: You have spent thousands of hours perfecting edge alignment and footwork. Choose a weapon class e.g. Blades, Bludgeons, axes, etc. You gain permanent Advantage on Clash rolls when wielding weapons of this class.
+
+**Break Morale**(dev note) this needs some reworking(/dev note)
 
 - Prerequisites: Influence +3
     
 - A brutal execution is the purest form of rhetoric.
     
 - Mechanic: Take a -4 penalty to a lethal Aggressor check. On a success, your sheer presence or terrifying threat causes Grunt-level enemies who witness you kill an ally to instantly break formation or flee entirely. You end fights not by killing everyone, but by demonstrating the absolute futility of opposing you.
-### Defiance
-    
+
+**Defiance**    
 
 - Prerequisites: Resolve 3
     
 - You refuse to die quietly on their terms.
     
-- Mechanic: You do not go down quietly. If you take a Wound that fills your 3rd and final Wound Slot, which would normally incapacitate you, you may immediately spend 1 Momentum to make a final Will + Resolve check. On a success, you remain conscious and standing for exactly one more turn, allowing you to make a final, heroic action before you collapse.
-### Embrace the Void
+- Mechanic: You do not go down quietly. If you take a Wound that would cause you to become incapacitated, you may immediately spend 1 Momentum to make a final Will + Resolve check. On a success, you remain conscious and standing for exactly one more turn, allowing you to make a final, heroic action before you collapse.
+
+**Embrace the Void**
 
 - Prerequisites: Will +3, Prowess +2 or Reflex +2
     
-- Birth, suffering, and a rusty blade.
+> Birth, suffering, and a rusty blade.
     
 - Mechanic: When your Wounds slots are full, but before you take anymore wounds, you enter a state of lethal, detached focus. Your Desperate Edge triggers on natural 5s as well as 6s for all Clash rolls. However, rolling a Fumble in this state results in immediate death rather than 1 Stress.
-### Flesh Weaver
+
+**Flesh Weaver**
 
 - Prerequisites: Wits +3, Medicine +3
     
-- You treat biology as clay.
+>You treat biology as clay.
     
 - Mechanic: When performing downtime triage, you completely ignore the rule requiring 3 days of rest to heal a Wound. You can spend 2 Progress Momentum to instantly and gruesomely stitch up a Wound Slot in 10 minutes. The patient suffers 2 Dissonant Stress from the agony, but the Wound Slot is fully restored.
-### Ghost in the Machine
+
+**Ghost in the Machine**
 
 - Prerequisites: Reflex +3, Thievery +3
     
-- Mechanisms simply cease to acknowledge your presence.
+>Mechanisms simply cease to acknowledge your presence.
     
 - Mechanic: You never trigger mechanical traps by walking over them or interacting with them (they only trigger if you intentionally choose to set them off). Additionally, you can open any non-magical lock instantly as a Free Action, without needing tools or making a Thievery check.
-### Ingrained Arcana
+
+**Ingrained Arcana**
 
 - Prerequisites: Wits +3, Arcana +3
     
 - You have burned the formula into your very marrow.
     
-- Mechanic: Choose one Novice or Adept Arcana spell from your Grimoire. You can cast this spell purely from memory—ignoring the Blind Casting Disadvantage and the automatic 1 Dissonant Stress penalty. Furthermore, its Locked Stress cost is permanently reduced by 1 (to a minimum of 0).
-### Macabre Genius
+- Mechanic: Choose one Novice or Adept Arcana spell from your Grimoire. You can cast this spell purely from memory—ignoring the Blind Casting Disadvantage and the automatic 1 Dissonant Stress penalty. Furthermore, its Stress cost is permanently reduced by 1 (to a minimum of 0).
+
+**Macabre Genius**
 
 - Prerequisites: Wits +3, Crafting +3
     
 - You can build a masterpiece out of absolute garbage.
     
 - Mechanic: You do not require a proper forge, toolkit, or high-grade materials to repair or craft items. With 1 hour of downtime and the salvaged remains of Fodder/Grunt weapons and armor, you can permanently upgrade any standard weapon or piece of armor to Masterwork, granting it a permanent +1 modifier to damage or defense.
-### Marrow-Forged
+
+**Marrow-Forged**
 
 - Prerequisites: Will +3, Prowess +3
     
-- You are a patchwork of scar tissue and stubborn grit.
+>You are a patchwork of scar tissue and stubborn grit.
     
 - Mechanic: You gain a 4th Wound slot, meaning you are only Incapacitated upon taking your 5th Wound. However, your body is so heavily damaged that any healing (whether magical or through mundane downtime activities) takes twice as long and requires double the normal resources.
-### Miraculous Intervention
-    
+
+**Miraculous Intervention**(dev note)I think that this will cease to be a feat and become a miracle in the healing and mercy domain (/dev note)    
 
 - Prerequisites: Faith 3
     
 - The gods reach down and aggressively deny reality.
     
 - Mechanic: If an ally within line of sight takes a lethal blow or permanent trauma, you can take a -4 penalty and instantly spend all your remaining Dissonant Stress (minimum 2). You cast a localized miracle that completely negates that attack, leaving the ally unharmed, but leaving you completely exhausted.
-### Overchannel
-    
+
+**Overchannel**    
 
 - Prerequisites: Arcana 3
     
-- You rip the fabric of the world apart, taking yourself with it.
+>You rip the fabric of the world apart, taking yourself with it.
     
 - Mechanic: You take a -4 penalty to the casting roll. If successful, the spell automatically gains a Margin of Success of 5 (Massive Impact), devastating the battlefield. However, you instantly take 1 physical Wound from the magical blowback.
 ### (dev note)Perfect Nullification TO BE REVIEWED
@@ -625,56 +651,61 @@ ______________________________________________________________________
 - Be exactly where the blade isn't.
     
 - Mechanic: When acting as the Reactor and using the Dodge action, if you roll a natural 12, you don't just dodge the attack. You instantly steal the initiative, becoming the Aggressor, and may resolve a free Shoot or Strike action against your attacker before the Engagement ends.(/dev note)
-### Reaper’s Engine
+
+**Reaper’s Engine**
 
 - Prerequisites: Prowess +3, Melee +3
     
 - Death begets life. Blood washes the slate clean.
     
-- Mechanic: When you inflict an Incapacitating Wound (usually the 4th wound) on a living, non-minion enemy, the surge of adrenaline violently clears your system. You instantly recover 1 Wound Slot and reset your Stress to 0.
-### Sabotage
+- Mechanic: When you inflict an Incapacitating Wound on a living, non- fodder enemy, the surge of adrenaline violently clears your system. You instantly recover 1 Wound Slot and reset your Stress to 0.
+
+**Sabotage**
 
 - Prerequisites: Thievery +3
     
 - You dismantle their hope right along with their steel.
     
 - Mechanic: As a Combat Action, take a -4 penalty to an opposed roll. Instead of attacking, you slice a shield strap, cut a bowstring, or unbuckle armor. The target loses the use of that item or loses their Armor rating for the rest of the fight. This completely bypasses the Wound system to permanently cripple Elite or Boss-level enemies.
-### Shatter the Ego
+
+**Shatter the Ego**
 
 - Prerequisites: Will +3, Influence +3
     
 - You strip away their identity until only obedience remains.
     
-- Mechanic: If you win an opposed Influence vs. Resolve check against a standard NPC (Fodder or Grunt level) by a Margin of 3+, their mind fractures. Instead of gaining Scene Momentum, you permanently break them. They will act as an indentured servant, informant, or terrified zealot for your cause until they die, requiring no further Influence checks to command.
-### The Oracle’s Burden
+- Mechanic: If you win an opposed Influence vs. Resolve check against a standard NPC (Fodder or Grunt level) by a Margin of 3+, their mind fractures. Instead of gaining Momentum, you permanently break them. They will act as an indentured servant, informant, or terrified zealot for your cause until they die, requiring no further Influence checks to command.
+
+**The Oracle’s Burden**
 
 - Prerequisites: Wits +3, Insight +3
     
 - You see the absolute truth of the world, but it hurts to look.
     
 - Mechanic: Once per session, you can ask the GM one specific, unvarnished truth about a person's motives, a hidden location, or a complex plot. The GM must answer completely honestly. However, absorbing this cosmic absolute instantly fills your Stress Limit with Locked Stress, bringing you to the absolute brink of the Death Spiral.
-### Transgressive Asymmetry
+
+**Transgressive Asymmetry**
 
 - Prerequisites: Wits +3 or Reflex +3
     
 - Cynicism applied to giant monsters.
     
 - Mechanic: When fighting creatures of a larger Scale, your precision bypasses their natural resilience. If your Clash roll includes a natural 6 (triggering a Desperate Edge) against a larger creature, their Wound Threshold scale bonus (+2 for Large, +4 for Huge, etc.) is completely ignored during the Impact calculation of that specific attack.
-### Vital Strike
-    
+
+**Vital Strike**    
 
 - Prerequisites:  Melee 3
     
-- You see the map of their arteries; nothing matters when the blood stops flowing.
+>You see the map of their arteries; nothing matters when the blood stops flowing.
     
-- Mechanic: As an Aggressor action, you take a -4 penalty to your Attack Roll. Ignore armour value in threshold, if you inflict a Wound, you may disable a targeted limb, forcing the target to drop their weapon or halving their movement. On a High Success (Margin 5+), you strike a major artery or the neck. The target is instantly Incapacitated, regardless of how many Wound Slots they have left.
+- Mechanic: As an Attack action, you take a -2 penalty to your Attack Roll. Ignore armour value in threshold, if you inflict a Wound, you may disable a targeted limb, forcing the target to drop their weapon or halving their movement. On a High Success (Margin 5+), you strike a major artery or the neck. The target is instantly Incapacitated, regardless of how many Wound Slots they have left.
 ## Archetypes
-### The Arcanist (Wizard Archetype)
 
-Focused on esoteric geometries, pushing the mind to the breaking point, and treating magic as a volatile engine.
+**The Arcanist (Wizard Archetype)**
 
-#### Euclidean Nightmare (Tier 2)
-    
+>Focused on esoteric geometries, pushing the mind to the breaking point, and treating magic as a volatile engine.
+
+**Euclidean Nightmare (Tier 2)**    
 
 - Prerequisites: Wits +2, Arcana +2
     
@@ -682,21 +713,19 @@ Focused on esoteric geometries, pushing the mind to the breaking point, and trea
     
 - Mechanic: When you successfully cast an Arcana spell, you may spend 1 Momentum to leave a residual, jagged magical glyph in the air in an adjacent square. Any enemy that enters or starts their turn in that square takes 1 Dissonant Stress as the impossible angles burn their retinas.
     
-
-#### The Engine of Ruin (Tier 3)
-    
+**The Engine of Ruin (Tier 3)**    
 
 - Prerequisites: Wits +3, Arcana +3
     
-- Destruction is just energy seeking its natural resting state.
+>Destruction is just energy seeking its natural resting state.
     
-- Mechanic: Whenever you successfully vent the magical heat in your mind via the Grounding action, you may instantly channel that raw, expelled energy into a Cantrip as a Free Action. This allows you to aggressively cycle your Locked Stress into continuous offensive output.
-### The Berserker (Barbarian Archetype)
+- Mechanic: Whenever you successfully vent the magical heat in your mind via the Grounding action, you may instantly channel that raw, expelled energy into a Cantrip as a Free Action. This allows you to aggressively cycle your Stress into continuous offensive output.
 
-Focused on leveraging sheer trauma, terrifying resilience, and turning bodily punishment directly into kinetic output.
+**The Berserker (Barbarian Archetype)**
 
-#### The Red Mist (Tier 2)
-    
+>Focused on leveraging sheer trauma, terrifying resilience, and turning bodily punishment directly into kinetic output.
+
+**The Red Mist (Tier 2)**    
 
 - Prerequisites: Prowess +2, Resolve +2
     
@@ -704,16 +733,15 @@ Focused on leveraging sheer trauma, terrifying resilience, and turning bodily pu
     
 - Mechanic: If you suffer a Minor or Major Wound from a melee attack, your nervous system rejects the shock. You may immediately spend 1 Momentum to perform a brutal, retaliatory Strike action against them. This occurs instantly before the Engagement ends and before you suffer any associated Stress penalties.
     
-
-#### Apex Butcher (Tier 3)
-    
+**Apex Butcher (Tier 3)**    
 
 - Prerequisites: Prowess +3, Athletics +3
     
-- You are a walking abattoir; your survival demands their collapse.
+>You are a walking abattoir; your survival demands their collapse.
     
-- Mechanic: When you inflict an Incapacitating Wound (usually the 4th wound) on a non-minion organic target, the sheer brutality of the execution breaks the morale of those watching. All enemies within 15 feet immediately suffer 2 Dissonant Stress. Furthermore, you may use a Free Action to revel in the carnage, instantly converting up to 3 of your own accumulated Dissonant Stress points directly back into your Momentum bank.
-### The Biomancer (Druid Archetype)
+- Mechanic: When you inflict an Incapacitating Wound on a non-fodder organic target, the sheer brutality of the execution breaks the morale of those watching. All enemies within 15 feet immediately suffer 2 Dissonant Stress. Furthermore, you may use a Free Action to revel in the carnage, instantly converting up to 3 of your own accumulated Dissonant Stress points directly back into your Momentum bank.
+
+**The Biomancer (Druid Archetype)**
 
 Focused on survival horror, weaponized flora, and treating biology as a malleable, expendable resource.
 
