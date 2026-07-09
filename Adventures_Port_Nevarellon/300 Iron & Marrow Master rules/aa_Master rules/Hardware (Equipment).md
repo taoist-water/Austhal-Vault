@@ -153,13 +153,13 @@ _______________________________________________________________________
     
 - Focus: Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the wand, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
     
-- Grounding Rod: You may add a staff or wand property that grants Advantage on the Grounding (Wits + Arcana) check to unlock stress slots. 
+- Grounding Rod: grants Advantage on the Grounding (Wits + Arcana) check to unlock stress slots. 
 
 - Heavy Hitter : When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7. 
 
 - Heavy:  Required to inflict wounds on Gargantuan scale creatures.
 
-- Inertia: If you win the Clash roll by a High Margin (5+), add +2 Power to the Final Impact (essentially guaranteeing a Major Wound).
+- Inertia: If you win the Clash roll by a High Margin (5+), add +2 Power to the Final Impact.
     
 - non-Lethal: strikes with this weapon can only cause Stress regardless of the Impact result. 
     
@@ -168,7 +168,7 @@ _______________________________________________________________________
     
 - Reload: After firing, requires an Action to load the next shot.
 
-- Repository: Holds your spells. If casting while open, you may spend 1 Momentum to cast a Novice spell without Locking a Stress slot for the first round (Reading it straight off the page).
+- Repository: Holds your spells. 
     
 - Sidearm: Can be drawn as a Free Action without penalty.
 

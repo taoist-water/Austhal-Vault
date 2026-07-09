@@ -30,7 +30,7 @@ Being Obscured acts as a direct negative modifier to the attacker's roll. 
 
 Physical barriers reduce the power of an incoming attack. They are rated by how much Impact they absorb.
 
-- - **Partial Cover (Crates, low walls, a thin pillar):** The target is protected by a solid object, but not fully enveloped.
+-  **Partial Cover (Crates, low walls, a thin pillar):** The target is protected by a solid object, but not fully enveloped.
     
     - **The Mechanic:** When the target is hit, they may spend their **Block** or **Brace** action value to reduce the incoming Impact by 2.
         

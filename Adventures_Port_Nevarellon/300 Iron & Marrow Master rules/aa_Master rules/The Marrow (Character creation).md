@@ -266,7 +266,7 @@ ______________________________________________________________________
     
 - You find the punchline at the end of the world.
     
-- Mechanic: When taking a Short Rest, if you recount a recent harrowing experience or near-death encounter, you and all allies participating in the rest clear 1 additional point of Dissonant Stress.
+- Mechanic: When taking a Breather, if you recount a recent harrowing experience or near-death encounter, you and all allies participating in the rest clear 1 additional point of Dissonant Stress.
 ### Haggler’s Scorn
 
 - Prerequisites: Influence +1
@@ -381,7 +381,7 @@ ______________________________________________________________________
     
 - Physics and leverage apply to monsters, too.
     
-- Mechanic: You may attempt to Grab or Shove creatures up to two sizes larger than you (e.g., Standard Scale vs. Huge Scale). Furthermore, you ignore the automatic 1 Stress penalty when attempting to Block an Aggressor who is larger than you.
+- Mechanic: You may attempt to Grab or Shove creatures up to two sizes larger than you (e.g., Standard Scale vs. Huge Scale). Furthermore, you ignore the automatic 1 Stress penalty when attempting to Block an Attack from an enemy who is larger than you.
 ### Iron Conviction 
 
 - Prerequisites: Will 2, Resolve 2
