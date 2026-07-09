@@ -998,20 +998,20 @@ The caster hyper-pressurizes the air directly around their own body, before rele
 
 
 # The Word on Domains;
-(dev note)The word on Domains is a first draft, and needs extensive revision to fit into the current faith casting system mechanics (/dev note)
+(dev note)still in draft heading in the right direction(/dev note)
 Faith domains represent direct divine intervention powered by rigid devotion. Their domains give them an aura and a specific prayer manifestation.
 
 ## 1. The Domain of Strategy (The Cult of the Iron Horizon)
 - **The Paragon:** *Saint Senecus the Unyielding*
 - **The Lore:** Senecus was an ancient military philosopher who held a doomed mountain pass against a horde of aberrant monstrous races. He taught that true victory isn't survival, but the stoic adherence to tactical duty regardless of the odds. 
 - **Flavor:** Polished iron shields, clean-cut discipline. Prayers are recited as short, pragmatic tactical maxims.
-- **Domain Tag (Tactical Horizon):** Pass Faith check vs. TN 8 -> Grant 1 point of Momentum instead of personal benefit.
+- **Domain Tag (Tactical Horizon):** Pass Faith check vs. TN 8 -> Grant 1 point of Momentum that can be taken personally or given to another character.
 
 ## 2. The Domain of Trickery (The Cult of the Crooked Coin)
 - **The Paragon:** *Corvo's Folly (The Grinning Prophet)*
 - **The Lore:** Corvo wasn't a holy man; he was a legendary cynic and smuggler who realized the ancient bureaucratic laws of the old empire were a joke, and successfully counterfeited the royal treasury into bankruptcy. The Syndicate reveres him as the patron of outsmarting rigged systems.
 - **Flavor:** Loaded dice amulets, mismatched clothes. Prayers are murmured riddles, jokes about authority, and localized distortions of luck.
-- **Domain Tag (Fickle Fate):** Ally rolls Fumble -> Spend 1 Stress as Reaction to turn it into a standard failure.
+- **Domain Tag (Fickle Fate):** Ally rolls Fumble -> Spend 1 locked Stress as a free action to turn it into a standard failure.
 
 ## 3. The Domain of Law (The Cult of the Zenith)
 - **The Paragon:** *Aurelius the Architect*
@@ -1029,7 +1029,7 @@ Faith domains represent direct divine intervention powered by rigid devotion. Th
 - **The Paragon:** *Kaelen the Survivor*
 - **The Lore:** A tribal matriarch from the deepest winters of the north who supposedly hunted a primordial winter-drake with nothing but an iron spear and her bare teeth. She embodies the raw, animalistic grit required to survive when civilization fails.
 - **Flavor:** Heavy white wolf pelts, frosted breath. Prayers manifest as freezing howling wind and ice.
-- **Domain Tag (Chilling Frost):** Cast offensive prayer -> Target is numbed. They cannot Move next turn unless they take 1 physical Stress to snap their frozen muscles free.
+- **Domain Tag (Chilling Frost):** Cast offensive prayer -> Target is numbed. They cannot Move next turn unless they take 1 dissonant Stress to snap their frozen muscles free.
 
 ## 6. The Domain of Mercy & Healing (The Cult of the Weeping Martyr)
 - **The Paragon:** *Mother Elara of the Mud*
@@ -1041,7 +1041,7 @@ Faith domains represent direct divine intervention powered by rigid devotion. Th
 - **The Paragon:** *Thalass's Omen*
 - **The Lore:** Thalass was not a person, but an apocalyptic rogue wave that destroyed an entire fleet of the old king's armada. The Tidespoken revere this natural disaster as the ultimate proof that the ocean is the true sovereign of the world, and they seek to align themselves with its crushing power.
 - **Flavor:** Sea-shell tokens, salt-crusted oilskins. Prayers manifest as the crash of distant rogue waves and heavy brine smells.
-- **Domain Tag (Tidal Undertow):** Affect enemy with prayer -> Target is physically shoved 1 Zone in a direction of your choosing.
+- **Domain Tag (Tidal Undertow):** Affect enemy with prayer -> Target is physically shoved 5ft in a direction of your choosing.
 
 # Faith Spells
 ## Common Miracles
@@ -1092,7 +1092,7 @@ A litany murmured over torn flesh, asking permission to undo what was done. Avai
 - _Designer Note: This forces the core math (2d6 + Attribute + Skill vs TN 8) to be played completely flat. If a Boss relies on stacking passive Advantages, or a pack of wolves relies on Flanking, the Priest completely shuts down their mechanical engine._
     
 
-#### 3. Chains of Mandate (Apprentice Miracle)
+#### 3. Chains of Mandate (Adept Miracle)
 
 - **Cost:** 2 Locked Stress
     
@@ -1205,7 +1205,7 @@ __________________________________________________________________
 - _Designer Note: This ties the Trickery domain directly into your newly refined Environmental mechanics, making the Priest a master of battlefield control._
     
 
-#### 3. Corvo’s Step (Apprentice Miracle)
+#### 3. Corvo’s Step (Adept Miracle)
 
 - **Cost:** 2 Locked Stress
     

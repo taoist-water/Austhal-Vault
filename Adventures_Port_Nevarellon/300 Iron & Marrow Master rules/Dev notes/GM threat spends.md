@@ -73,7 +73,7 @@ Here is a complete progression (Novice, Apprentice, Master) for this Domain. (Yo
 - **The Effect:** The Priest physically projects the concept of a shield wall through the Void. The target ally immediately gains the benefits of the **Brace** action (reducing incoming Impact by 2) against the triggering attack, without having to spend their own Activation to do so.
     
 
-#### 3. Senecus’s March (Apprentice Miracle)
+#### 3. Senecus’s March (Adept Miracle)
 
 - **Cost:** 2 Locked Stress
     
