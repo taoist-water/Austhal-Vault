@@ -215,48 +215,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "17e46f55fdb513a0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2d669dec4fc8d37e",
-        "type": "window",
-        "children": [
-          {
-            "id": "5bcd0489622043f1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "785216c0edf72f55",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "300 Iron & Marrow Master rules/Dev notes/Spells_Power_Revision_DRAFT.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Spells_Power_Revision_DRAFT"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 580,
-        "width": 1920,
-        "height": 580,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e47cbdca86c05050",
+  "active": "bf9b17df2cdfe0a9",
   "lastOpenFiles": [
-    "300 Iron & Marrow Master rules/Dev notes/Spells_Power_Revision_DRAFT.md",
+    "300 Iron & Marrow Master rules/Dev notes/Spells_Power_Revision_DRAFT_done.md",
     "300 Iron & Marrow Master rules/Dev notes/Spell_Power_Patch_done.md",
     "300 Iron & Marrow Master rules/Dev notes/Hardware_Weapon_Power_Revision_DRAFT_done.md",
     "300 Iron & Marrow Master rules/Dev notes/Hardware_Pricing_Availability_Update_done.md",
