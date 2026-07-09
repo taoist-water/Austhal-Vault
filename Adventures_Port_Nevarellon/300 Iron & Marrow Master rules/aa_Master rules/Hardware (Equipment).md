@@ -112,25 +112,25 @@ ________________________________________________________________________
 
 _______________________________________________________________________
 # Weapons
-| Weapon Name                           | Specialization Group | Power | Grip  | Range / Threat                  | Tags & Attributes                                    | Cost  | Availability     |
-| ------------------------------------- | -------------------- | ----- | ----- | ------------------------------- | ---------------------------------------------------- | ----- | ---------------- |
-| Unarmed (fists/feet/knees and elbows) | Unarmed              | 0     | 1H/2H | 5 ft Threat                     | Non-lethal, sidearm                                  | —     | Always available |
-| Dagger / Knife                        | Blades               | 0     | 1H    | 5 ft Threat / 30 ft Thrown      | Concealable, Close-Quarters, Finesse,Thrown, Sidearm | 5 sp  | Common           |
-| Shortsword                            | Blades               | 1     | 1H    | 5 ft Threat                     | Sidearm                                              | 10 sp | Common           |
-| Hand Axe                              | Axes                 | 1     | 1H    | 5 ft Threat / 30 ft Thrown      | Brutal, Thrown, Sidearm                              | 8 sp  | Common           |
-| Mace / Bludgeon                       | Bludgeons            | 1     | 1H    | 5 ft Threat                     | Bash                                                 | 8 sp  | Common           |
-| Spear                                 | Polearms             | 1     | 1H/2H | 10 ft Threat / 60 ft Thrown     | Reach, Thrown                                        | 10 sp | Common           |
-| Longsword                             | Blades               | 2     | 1H/2H | 5 ft Threat                     | Versatile                                            | 25 sp | Scarce           |
-| Warhammer                             | Bludgeons            | 2     | 2H    | 5 ft Threat                     | Bash, Sunder                                         | 30 sp | Scarce           |
-| Greatsword                            | Blades               | 3     | 2H    | 5 ft Threat                     | Inertia, Cumbersome                                  | 45 sp | Scarce           |
-| Halberd / Poleaxe                     | Polearms             | 3     | 2H    | 10 ft Threat                    | Reach, Cumbersome                                    | 45 sp | Scarce           |
-| Shortbow                              | Bows                 | 1     | 2H    | Ranged (Max: Long / 120 ft)     | Volley                                               | 15 sp | Common           |
-| Longbow                               | Bows                 | 2     | 2H    | Ranged (Max: Extreme / 125+ ft) | Volley                                               | 35 sp | Scarce           |
-| Light Crossbow                        | Crossbows            | 2     | 2H    | Ranged (Max: Long / 120 ft)     | Armor Piercing, Reload                               | 30 sp | Scarce           |
-| Grimoire                              | Arcane Focus         | —     | 1H    | —                               | Repository:                                          | 15 sp | Scarce           |
-| Mage Staff                            | Arcane Focus         | —     | 2H    | —                               | Reach, Bound, grounding rod.                         | 45 sp | Rare             |
-| Wand                                  | Arcane Focus         | —     | 1H    | —                               | Conduit, Focus, Sidearm.                             | 35 sp | Rare             |
-| Rapier                                | Blades               | 1     | 1H    | 5ft threat                      | Finesse, Armour-piercing                             | 30sp  | scarce           |
+| Weapon Name       | Specialization Group | Power | Grip  | Range / Threat                  | Tags & Attributes                                     | Cost  | Availability     |
+| ----------------- | -------------------- | ----- | ----- | ------------------------------- | ----------------------------------------------------- | ----- | ---------------- |
+| Unarmed           | Unarmed              | 0     | 1H/2H | 5 ft Threat                     | Non-lethal, sidearm                                   | —     | Always available |
+| Dagger / Knife    | Blades               | 0     | 1H    | 5 ft Threat / 30 ft Thrown      | Concealable, Close-Quarters, Finesse, Thrown, Sidearm | 5 sp  | Common           |
+| Shortsword        | Blades               | **2** | 1H    | 5 ft Threat                     | Sidearm                                               | 10 sp | Common           |
+| Hand Axe          | Axes                 | **2** | 1H    | 5 ft Threat / 30 ft Thrown      | Brutal, Thrown, Sidearm                               | 8 sp  | Common           |
+| Mace / Bludgeon   | Bludgeons            | **2** | 1H    | 5 ft Threat                     | Bash                                                  | 8 sp  | Common           |
+| Spear             | Polearms             | **2** | 1H/2H | 10 ft Threat / 60 ft Thrown     | Reach, Thrown                                         | 10 sp | Common           |
+| Longsword         | Blades               | **3** | 1H/2H | 5 ft Threat                     | Versatile                                             | 25 sp | Scarce           |
+| Warhammer         | Bludgeons            | **3** | 2H    | 5 ft Threat                     | Bash, Sunder                                          | 30 sp | Scarce           |
+| Greatsword        | Blades               | **5** | 2H    | 5 ft Threat                     | Inertia, Cumbersome                                   | 45 sp | Scarce           |
+| Halberd / Poleaxe | Polearms             | **5** | 2H    | 10 ft Threat                    | Reach, Cumbersome                                     | 45 sp | Scarce           |
+| Shortbow          | Bows                 | **2** | 2H    | Ranged (Max: Long / 120 ft)     | Volley                                                | 15 sp | Common           |
+| Longbow           | Bows                 | **3** | 2H    | Ranged (Max: Extreme / 125+ ft) | Volley                                                | 35 sp | Scarce           |
+| Light Crossbow    | Crossbows            | **3** | 2H    | Ranged (Max: Long / 120 ft)     | Armor-Piercing, Reload                                | 30 sp | Scarce           |
+| Grimoire          | Arcane Focus         | —     | 1H    | —                               | Repository                                            | 15 sp | Scarce           |
+| Mage Staff        | Arcane Focus         | —     | 2H    | —                               | Reach, Bound, grounding rod                           | 45 sp | Rare             |
+| Wand              | Arcane Focus         | —     | 1H    | —                               | Conduit, Focus, Sidearm                               | 35 sp | Rare             |
+| Rapier            | Blades               | 2     | 1H    | 5ft threat                      | Finesse, Armour-piercing                              | 30sp  | scarce           |
 
 
 ## Weapon Tags
@@ -157,7 +157,7 @@ _______________________________________________________________________
 
 - Heavy Hitter : When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7. 
 
-- Heavy: deals +2 Impact against targets with Scale +1 or higher.
+- Heavy:  Required to inflict wounds on Gargantuan scale creatures.
 
 - Inertia: If you win the Clash roll by a High Margin (5+), add +2 Power to the Final Impact (essentially guaranteeing a Major Wound).
     
@@ -194,7 +194,7 @@ These variations add specific situational tactical tools to the baseline weapon 
 
 - Cost: 45 sp | Availability: Scarce
     
-- Stats: Power 1 | 1H | 5 ft Threat
+- Stats: Power 2 | 1H | 5 ft Threat
     
 - Tags: Finesse, Armor-Piercing
     
@@ -205,9 +205,9 @@ These variations add specific situational tactical tools to the baseline weapon 
 
 - Cost: 25 sp | Availability: Common
     
-- Stats: Power 1 | 1H/2H | 10 ft Threat
+- Stats: Power 2 | 1H/2H | 10 ft Threat
     
-- Tags: Reach, 
+- Tags: Reach, versatile
     
 - 2d6 Special Rule: *Cruel* : When you win a Clash with this weapon as an attack action, you can forego doing standard Impact damage to execute a Hook. The target is pinned at the tip of your spear; they cannot execute movement actions until they win an opposed Prowess check against you on their activation.
     
@@ -217,12 +217,19 @@ These variations add specific situational tactical tools to the baseline weapon 
 
 - Cost: 80 sp | Availability: Rare
     
-- Stats: Power 3 | 2H | Ranged (Max: Long / 120 ft)
+- Stats: Power 5 | 2H | Ranged (Max: Long / 120 ft)
     
 - Tags: Armor-Piercing, Cumbersome, Heavy
     
 - 2d6 Special Rule: *Heavy Reload* : Requiring a literal windlass to crank. It takes two entire Move Actions to reload this weapon. However, its steel-headed bolts ignore the infantry projectile protections of shields (Cover tags are nullified) and deal +2 Impact against targets with Scale +1 or higher.
 
+
+## Reserved: Black Powder Ordnance *(placeholder — not designed yet)*
+
+Flagging space for this rather than designing it now. Tentative bucketing, to be revisited:
+- **Pistols/hand cannons:** likely slot into the existing Ranged progression alongside Crossbows (Power 2–3 range), possibly trading Reload for a Concealable/Sidearm angle.
+- **Wall guns / cannons / siege ordnance:** likely carry **Siege** by default, and are where the still-unbuilt "Siege Engines" subsection belongs — these were always meant to be literal artillery, not a mundane weapon upgrade path.
+- No numbers are proposed here; this section exists purely to mark where the category will attach once designed.
 ________________________________________________________________________
 
 # Armour

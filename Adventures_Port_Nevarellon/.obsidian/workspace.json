@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/aa_Master rules/Beasts, Monsters, Mutants (Bestiary).md",
+                "file": "300 Iron & Marrow Master rules/Dev notes/Spells_Power_Revision_DRAFT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beasts, Monsters, Mutants (Bestiary)"
+              "title": "Spells_Power_Revision_DRAFT"
             }
           },
           {
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 474.5
   },
   "right": {
     "id": "da7259c6f24681c7",
@@ -215,23 +215,63 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e47cbdca86c05050",
+  "floating": {
+    "id": "17e46f55fdb513a0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2d669dec4fc8d37e",
+        "type": "window",
+        "children": [
+          {
+            "id": "5bcd0489622043f1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "785216c0edf72f55",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "300 Iron & Marrow Master rules/Dev notes/Spells_Power_Revision_DRAFT.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Spells_Power_Revision_DRAFT"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 580,
+        "width": 1920,
+        "height": 580,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "785216c0edf72f55",
   "lastOpenFiles": [
+    "300 Iron & Marrow Master rules/Dev notes/Spell_Power_Patch_done.md",
+    "300 Iron & Marrow Master rules/Dev notes/Hardware_Weapon_Power_Revision_DRAFT_done.md",
+    "300 Iron & Marrow Master rules/Dev notes/Hardware_Pricing_Availability_Update_done.md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Hardware (Equipment).md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Beasts, Monsters, Mutants (Bestiary).md",
     "300 Iron & Marrow Master rules/Dev notes/Spells_Power_Revision_DRAFT.md",
     "300 Iron & Marrow Master rules/Dev notes/Faith domain spells.md",
     "300 Iron & Marrow Master rules/Dev notes/bestiary dynamic tags.md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Beasts, Monsters, Mutants (Bestiary).md",
-    "300 Iron & Marrow Master rules/Dev notes/Hardware_Weapon_Power_Revision_DRAFT.md",
     "400 Meta/Templates/Template - Enemies.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core rules).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Iron World (Environmental rules).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Metal meet Flesh (Combat Mechanics).md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Hardware (Equipment).md",
     "300 Iron & Marrow Master rules/aa_Master rules/The Marrow (Character creation).md",
     "300 Iron & Marrow Master rules/07 Equipment/Weapons.md",
     "300 Iron & Marrow Master rules/Dev notes/Scrounger_Feat_Tree_done.md",
     "300 Iron & Marrow Master rules/13 Bestiary/Monster Examples.md",
-    "300 Iron & Marrow Master rules/Dev notes/Hardware_Pricing_Availability_Update_done.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Soothing the soul (Downtime).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Tools for the Nameless (GM Tools).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
@@ -242,7 +282,6 @@
     "300 Iron & Marrow Master rules/04 Species/Halfling.md",
     "300 Iron & Marrow Master rules/Dev notes/Downtime_Endeavours_done.md",
     "300 Iron & Marrow Master rules/05 Combat/Action Types.md",
-    "300 Iron & Marrow Master rules/Dev notes/Arcana_Full_Pass_done.md",
     "300 Iron & Marrow Master rules/aa_Master rules",
     "300 Iron & Marrow Master rules/Iron and Marrow core",
     "Iron & Marrow Rule set v1.0/Iron and Marrow Master rules/01 Character Creation 1",

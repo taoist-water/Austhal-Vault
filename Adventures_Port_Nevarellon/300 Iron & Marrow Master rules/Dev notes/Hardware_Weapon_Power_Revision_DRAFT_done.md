@@ -6,24 +6,24 @@
 ---
 
 ## Weapons
-| Weapon Name | Specialization Group | Power | Grip | Range / Threat | Tags & Attributes | Cost | Availability |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Unarmed | Unarmed | 0 | 1H/2H | 5 ft Threat | Non-lethal, sidearm | — | Always available |
-| Dagger / Knife | Blades | 0 | 1H | 5 ft Threat / 30 ft Thrown | Concealable, Close-Quarters, Precise, Thrown, Sidearm | 5 sp | Common |
-| Shortsword | Blades | **2** | 1H | 5 ft Threat | Sidearm | 10 sp | Common |
-| Hand Axe | Axes | **2** | 1H | 5 ft Threat / 30 ft Thrown | Brutal, Thrown, Sidearm | 8 sp | Common |
-| Mace / Bludgeon | Bludgeons | **2** | 1H | 5 ft Threat | Bash | 8 sp | Common |
-| Spear | Polearms | **2** | 1H/2H | 10 ft Threat / 60 ft Thrown | Reach, Thrown | 10 sp | Common |
-| Longsword | Blades | **3** | 1H/2H | 5 ft Threat | Versatile | 25 sp | Scarce |
-| Warhammer | Bludgeons | **3** | 2H | 5 ft Threat | Bash, Sunder | 30 sp | Scarce |
-| Greatsword | Blades | **5** | 2H | 5 ft Threat | Inertia, Cumbersome | 45 sp | Scarce |
-| Halberd / Poleaxe | Polearms | **5** | 2H | 10 ft Threat | Reach, Cumbersome | 45 sp | Scarce |
-| Shortbow | Bows | **2** | 2H | Ranged (Max: Long / 120 ft) | Volley | 15 sp | Common |
-| Longbow | Bows | **3** | 2H | Ranged (Max: Extreme / 125+ ft) | Volley | 35 sp | Scarce |
-| Light Crossbow | Crossbows | **3** | 2H | Ranged (Max: Long / 120 ft) | Armor-Piercing, Reload | 30 sp | Scarce |
-| Grimoire | Arcane Focus | — | 1H | — | Repository | 15 sp | Scarce |
-| Mage Staff | Arcane Focus | — | 2H | — | Reach, Bound, grounding rod | 45 sp | Rare |
-| Wand | Arcane Focus | — | 1H | — | Conduit, Focus, Sidearm | 35 sp | Rare |
+| Weapon Name       | Specialization Group | Power | Grip  | Range / Threat                  | Tags & Attributes                                     | Cost  | Availability     |
+| ----------------- | -------------------- | ----- | ----- | ------------------------------- | ----------------------------------------------------- | ----- | ---------------- |
+| Unarmed           | Unarmed              | 0     | 1H/2H | 5 ft Threat                     | Non-lethal, sidearm                                   | —     | Always available |
+| Dagger / Knife    | Blades               | 0     | 1H    | 5 ft Threat / 30 ft Thrown      | Concealable, Close-Quarters, Precise, Thrown, Sidearm | 5 sp  | Common           |
+| Shortsword        | Blades               | **2** | 1H    | 5 ft Threat                     | Sidearm                                               | 10 sp | Common           |
+| Hand Axe          | Axes                 | **2** | 1H    | 5 ft Threat / 30 ft Thrown      | Brutal, Thrown, Sidearm                               | 8 sp  | Common           |
+| Mace / Bludgeon   | Bludgeons            | **2** | 1H    | 5 ft Threat                     | Bash                                                  | 8 sp  | Common           |
+| Spear             | Polearms             | **2** | 1H/2H | 10 ft Threat / 60 ft Thrown     | Reach, Thrown                                         | 10 sp | Common           |
+| Longsword         | Blades               | **3** | 1H/2H | 5 ft Threat                     | Versatile                                             | 25 sp | Scarce           |
+| Warhammer         | Bludgeons            | **3** | 2H    | 5 ft Threat                     | Bash, Sunder                                          | 30 sp | Scarce           |
+| Greatsword        | Blades               | **5** | 2H    | 5 ft Threat                     | Inertia, Cumbersome                                   | 45 sp | Scarce           |
+| Halberd / Poleaxe | Polearms             | **5** | 2H    | 10 ft Threat                    | Reach, Cumbersome                                     | 45 sp | Scarce           |
+| Shortbow          | Bows                 | **2** | 2H    | Ranged (Max: Long / 120 ft)     | Volley                                                | 15 sp | Common           |
+| Longbow           | Bows                 | **3** | 2H    | Ranged (Max: Extreme / 125+ ft) | Volley                                                | 35 sp | Scarce           |
+| Light Crossbow    | Crossbows            | **3** | 2H    | Ranged (Max: Long / 120 ft)     | Armor-Piercing, Reload                                | 30 sp | Scarce           |
+| Grimoire          | Arcane Focus         | —     | 1H    | —                               | Repository                                            | 15 sp | Scarce           |
+| Mage Staff        | Arcane Focus         | —     | 2H    | —                               | Reach, Bound, grounding rod                           | 45 sp | Rare             |
+| Wand              | Arcane Focus         | —     | 1H    | —                               | Conduit, Focus, Sidearm                               | 35 sp | Rare             |
 
 **Bolded** values are the only changes. Unarmed, Dagger/Knife, and all Arcane Focus items are intentionally untouched — their value already lives in their tags (Precise, Concealable, Twin-Blade off-hand math), not raw Impact.
 
