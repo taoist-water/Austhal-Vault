@@ -90,23 +90,22 @@ During a Characters activation it may move up to its base movement value [MV] an
     
 - Skill based Actions: based on skill
     
-
 - The Regroup Action:
-_Sometimes, survival means giving up the offensive just to fix a deteriorating situation._
+	_Sometimes, survival means giving up the offensive just to fix a deteriorating situation._
 
-Taking the **Regroup** action consumes a player's entire turn. They cannot declare an Aggressor Strike or make a tactical movement. Instead, they drop their guard to focus entirely on one of the following critical tasks:
+	Taking the **Regroup** action consumes a player's entire turn. They cannot declare an Aggressor Strike or make a tactical movement. Instead, they drop their guard to focus entirely on one of the following critical tasks:
 
-- **Rummage the Pack:** Digging past armor and straps to retrieve a stowed item (such as a potion, a specialized tool, or a backup weapon) from **The Pack** inventory slots. Items in The Pack cannot be accessed mid-combat without taking this action.
+	- **Rummage the Pack:** Digging past armor and straps to retrieve a stowed item (such as a potion, a specialized tool, or a backup weapon) from **The Pack** inventory slots. Items in The Pack cannot be accessed mid-combat without taking this action.
     
-- **Clear a Severe Condition:** Spending the precious seconds required to pat out the flames of the **Ablaze** condition, untangle themselves from a dropped net, or blindly wash acid from their visor.
+	- **Clear a Severe Condition:** Spending the precious seconds required to pat out the flames of the **Ablaze** condition, untangle themselves from a dropped net, or blindly wash acid from their visor.
 
 - **The Reprieve (Faith Caster Action):** An Arcanist vents magical heat; a Priest lays a burden down for a moment, mid-battle, and asks whatever's listening to ease up.
 
-Roll **Will + Faith vs. TN 8**.
+	Roll **Will + Faith vs. TN 8**.
 
-- **Success:** Unlock [Will] Locked Stress (minimum 1).
-- **Massive Success (5+):** Clear all Locked Stress.
-- **Fumble (Snake Eyes):** The weight doesn't lift — it curdles. All Locked Stress becomes Dissonant, **and the GM gains 1 Threat** (the thing you've been borrowing from notices you reaching for relief without paying first).
+	- **Success:** Unlock [Will] Locked Stress (minimum 1).
+	- **Massive Success (5+):** Clear all Locked Stress.
+	- **Fumble (Snake Eyes):** The weight doesn't lift — it curdles. All Locked Stress becomes Dissonant, **and the Priest gains 1 Encroachment** (the thing you've been borrowing from notices you reaching for relief without paying first).
 
 
 ### The Twin-Blade Stance (Two weapon fighting)

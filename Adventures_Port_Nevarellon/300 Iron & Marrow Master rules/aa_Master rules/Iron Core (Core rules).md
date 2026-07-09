@@ -227,7 +227,7 @@ When a character takes a Wound and cannot fill a wound slot, they immediately fa
 
 Because the player is stuck at the bottom of the turn order, the rest of the party has a desperate window to save them.
 
-- **Triage (The Save):** An ally can use an Action to perform a _Medicine_ check (TN 8), use an Alchemical Poultice, or cast the _Stabilize_ Faith Cantrip. If successful, the Incapacitated character instantly becomes Stabilized, stopping the Death Marks.
+- **Triage (The Save):** An ally can use an Action to perform a _Medicine_ check (TN 8), use an Alchemical Poultice, or cast  _Stabilize_. If successful, the Incapacitated character instantly becomes Stabilized, stopping the Death Marks.
     
 - **The Coup de Grâce (The Threat):** If an Incapacitated character is hit by a melee attack action they do not calculate Impact. They immediately suffer 1 automatic Death Mark. If the attacker uses the uses their whole activation, the character is instantly killed.
 _______________________________________________________________________
@@ -247,7 +247,7 @@ _______________________________________________________________________
 
 # Long Rest:
 
-a period of downtime, lasting at least typically 8 hours, during which a character does nothing more strenuous than eating, drinking, uninterrupted sleeping.
+a period of downtime, lasting at least typically 8 hours, during which a character does nothing more strenuous than eating, drinking, uninterrupted sleeping. Depending on the Narrative the GM can allow 1 contextually relevant Pursuit.
 
 ________________________________________________________________________
 # The Conditions System

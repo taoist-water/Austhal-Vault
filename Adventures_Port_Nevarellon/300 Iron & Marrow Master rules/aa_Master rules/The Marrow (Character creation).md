@@ -210,15 +210,16 @@ Skills represent specific training. Like Attributes, Skills range from Level 0 (
 ______________________________________________________________________
 # Feats
 ## Tier 1 Blood and Rust
-### **Arcane Awakening (Tier 1 Feat)**
+
+**Arcane Awakening (Tier 1 Feat)**
     
 - **Prerequisite:** Arcana 1, Wits 1.
 
 - **Mechanic:** You have forced your mind to perceive the volatile geometries of the world. **Choose one Paradigm.** You gain a Grimoire containing 3 Novice Arcana spells, drawn from the Common list and/or your chosen Paradigm's list. As long as you have a free hand and your Grimoire equipped, you may manifest these spells using the Arcane Margin mechanics. Spells from your chosen Paradigm benefit from **Paradigm Mastery**: a Messy Success (Margin 0–2) resolves as a Clean Success instead. Common spells and spells outside your Paradigm never benefit from Mastery. _(Additional spells — in- or off-Paradigm — are learned later through Advancement; off-Paradigm spells cost double DP and never gain Mastery, but they're never feat-gated or forbidden.)_
         
-### **Divine Conduit (Tier 1 Feat)**
+**Divine Conduit (Tier 1 Feat)**
     
-- - **Prerequisite:** Faith 1, Will 1.
+- **Prerequisite:** Faith 1, Will 1.
 - **Mechanic:** You have tethered your physical form to a higher authority — or convinced yourself you have. Choose one path when you take this feat:
     
     - **The Covenant:** Bind yourself to one Domain. You gain a Holy Symbol, that Domain's Domain Tag, and 3 Novice Miracles drawn from the Common Miracle list and/or your chosen Domain's list. This binding is permanent — your Holy Symbol can never hold Miracles blessed by a different entity. No exceptions; no later switching.
@@ -226,46 +227,52 @@ ______________________________________________________________________
     
     As long as you speak the litany and bear your symbol, manifest these Miracles by rolling the Tithe of Will and paying their Locked Stress cost. _(Design note: any future feat or item that grants "additional Miracles from your Domain" should be read as "from any Domain's list" for a character on the Heretic's Path.)_
 
-### Battlefield Orator 
+ **Battlefield Orator** 
 - Prerequisite: Influence +2
 
 - Effect: Spend an Action in combat to shout orders, hurl insults, or rally the line. Choose one: An ally immediately clears 1d6 Stress, OR an engaged enemy suffers a -2 penalty to their next Defense roll due to distraction/fear.
-### Callous Pragmatism
+
+**Callous Pragmatism**
 
 - Prerequisites: Will +1, Wits +1
     
 - Pity gets you killed. Focus gets you out.
     
 - Mechanic: If you witness an ally take a Wound or fall Incapacitated, your survival instincts override panic. You may immediately use a Free Action to bank 1 Momentum.
-### Calloused Lungs
+
+**Calloused Lungs**
 
 - Prerequisites: Survival +1
     
 - You've breathed in worse.
     
 - Mechanic: When you fail an environmental Hazard check (such as navigating a toxic swamp or freezing blizzard), you take 1 less Locked Stress from the resulting penalty (to a minimum of 1 Locked Stress).
-### Cold Reader
+
+**Cold Reader**
 
 - Prerequisites: Insight +1, Notice +1
     
 - You know who breaks first.
     
 - Mechanic: When you first enter a tense social situation, you may use a Free Action to roll Wits + Insight against a baseline TN 8. On a success, the GM reveals which NPC in the room has the lowest Resolve score, and you gain Advantage (roll 3d6, keep the highest two) on your first Influence check against them.
-### Dung-Healer's Salve
+
+**Dung-Healer's Salve**
 
 - Prerequisites: Medicine +1 or Crafting +1
     
 - It smells awful, it burns terribly, but it stops the bleeding.
     
 - Mechanic: When performing a Medicine check to heal Wounds during a Short Rest, you can forage mundane mud, moss, and strong alcohol to substitute for proper medical supplies. Healing a Wound this way inflicts 1 Locked Stress on the patient due to the sheer agony, but restores the Wound Slot.
-### Gallows Humour
+
+**Gallows Humour**
 
 - Prerequisites: Influence +1 or Resolve +1
     
 - You find the punchline at the end of the world.
     
 - Mechanic: When taking a Breather, if you recount a recent harrowing experience or near-death encounter, you and all allies participating in the rest clear 1 additional point of Dissonant Stress.
-### Haggler’s Scorn
+
+**Haggler’s Scorn**
 
 - Prerequisites: Influence +1
     
