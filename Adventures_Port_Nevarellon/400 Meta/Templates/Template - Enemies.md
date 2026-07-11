@@ -18,10 +18,4 @@
 ## Phases 
 - **Behaviour when unbroken:** (How the enemy narratively plays when at full health and unbroken stress)
 - **Behaviour when Broken:** (How the enemy narratively plays when at broken stress, list any mechanical changes)
-- **Dread Entity/Boss Phase changes:** (How the enemy narratively plays when at broken stress, list any mechanical changes)
-- **Equipment & Upkeep:** (What realistic gear do they carry, and how do they maintain it?)
-
-## 🧠 Psychology & Drive
-- **Immediate Goal:** (What do they desperately need in the next 48 hours?)
-- **The Core Fear:** (What loss would ruin them socially or physically?)
-- **Moral Compromises:** (What lines have they already crossed to survive in Port Nevarellon?)
+- **Dread Entity/Boss Phase changes:** (How the enemy narratively plays when at different wound tracks have been filled, list any mechanical changes)
