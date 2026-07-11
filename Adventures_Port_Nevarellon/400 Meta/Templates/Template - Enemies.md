@@ -6,6 +6,7 @@
 ## Vital Statistics
 - **Tier:** (Fodder, Grunt, Elite, Dread entity/boss)
 - **Type:** (e.g. Human, orc, Dragon, construct, demon, angel, devil, etc)
+- **Size:** (use the scale rules)
 - **Stats:** (only listing stats with a modifier) Prowess | Reflex | Wits | Will 
 - **Skills:** (only listing stats with a modifier) Melee | Athletics | Block | Ranged | Stealth | Thievery | Acrobatics | Ride | Notice | Insight | Medicine | Crafting | Lore | Arcana | Influence | Faith | Survival | Resolve
 - **Derived stats:** (show the calculation for each) Wound Threshold | Stress Limit
