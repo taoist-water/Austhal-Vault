@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "Template - Enemies"
             }
-          },
-          {
-            "id": "f9c80dc1757caa58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 Iron & Marrow Master rules/aa_Master rules/Beasts, Monsters, Mutants (Bestiary).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Beasts, Monsters, Mutants (Bestiary)"
-            }
           }
         ]
       }
@@ -215,10 +201,84 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "0d9e8be18d8b9f3d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "75ae0d7ba083764c",
+        "type": "window",
+        "children": [
+          {
+            "id": "2f4ca40223b9946e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e5b6b314cc53b830",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "300 Iron & Marrow Master rules/aa_Master rules/Beasts, Monsters, Mutants (Bestiary).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Beasts, Monsters, Mutants (Bestiary)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 409,
+        "y": 20,
+        "width": 1741,
+        "height": 1400,
+        "maximize": true,
+        "zoom": 0
+      },
+      {
+        "id": "5db036ba6bff308c",
+        "type": "window",
+        "children": [
+          {
+            "id": "f455c3a3fae8752a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "73fb25ae116bb9b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "300 Iron & Marrow Master rules/aa_Master rules/The Marrow (Character creation).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Marrow (Character creation)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 320,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "e6847b11f81c1b2a",
   "lastOpenFiles": [
-    "400 Meta/Templates/Template - Character.md",
+    "300 Iron & Marrow Master rules/aa_Master rules/The Marrow (Character creation).md",
     "400 Meta/Templates/Template - Enemies.md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Beasts, Monsters, Mutants (Bestiary).md",
+    "400 Meta/Templates/Template - Character.md",
     "300 Iron & Marrow Master rules/Dev notes/15 Glossary/Wounds Threshold.md",
     "300 Iron & Marrow Master rules/Dev notes/15 Glossary/TN.md",
     "300 Iron & Marrow Master rules/Dev notes/15 Glossary/Opposed.md",
@@ -245,9 +305,7 @@
     "300 Iron & Marrow Master rules/Dev notes/12 Advancement/Character Tiers and Scaling Limits.md",
     "300 Iron & Marrow Master rules/Dev notes/12 Advancement",
     "300 Iron & Marrow Master rules/Dev notes/11 Downtime/The Endeavour Catalog.md",
-    "300 Iron & Marrow Master rules/Dev notes/11 Downtime/The Downtime Loop.md",
     "300 Iron & Marrow Master rules/Dev notes/11 Downtime",
-    "300 Iron & Marrow Master rules/Dev notes/10 Faith/fth-01 Faith Magic.md",
     "300 Iron & Marrow Master rules/Dev notes/10 Faith",
     "300 Iron & Marrow Master rules/Dev notes/09 Arcana",
     "300 Iron & Marrow Master rules/Dev notes/08 Feats/Tier 3 The Void",

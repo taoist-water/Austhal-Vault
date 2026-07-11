@@ -1,11 +1,11 @@
-# Character: [Character Name]
-#cast/active #status/draft
+# Enemy Name: 
 
-> "Insert a spoken quote or a rumor heard about this character here." — Source
 
-## 📊 Vital Statistics
-- **Full Name / Aliases:** 
-- **Current Occupation:** 
+> "Insert a narrative line about the enemy." 
+
+## Vital Statistics
+- **Stats:** (only listing stats with a modifier) Prowess | Reflex | Wits | Will 
+- **Skills:** (only listing stats with a modifier) Melee | Athletics | Block | Ranged | Stealth | Thievery | Acrobatics | Ride | Notice | Insight | Medicine | Crafting | Lore | Arcana | Influence | Faith | Survival | Resolve
 - **Social Class / Standing:** (e.g., Laborer, Unlicensed Alchemist, Disgraced Noble)
 - **Primary Residence:** [[Link to Location]]
 - **Affiliations:** [[Link to Faction/Guild]]
