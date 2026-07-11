@@ -4,9 +4,10 @@
 > "Insert a narrative line about the enemy." 
 
 ## Vital Statistics
+- Type: (e.g. Human, orc, Dragon, construct, demon, angel, devil, etc)
 - **Stats:** (only listing stats with a modifier) Prowess | Reflex | Wits | Will 
 - **Skills:** (only listing stats with a modifier) Melee | Athletics | Block | Ranged | Stealth | Thievery | Acrobatics | Ride | Notice | Insight | Medicine | Crafting | Lore | Arcana | Influence | Faith | Survival | Resolve
-- **Social Class / Standing:** (e.g., Laborer, Unlicensed Alchemist, Disgraced Noble)
+- **Derived stats:** (show the calculation for each) Wound Threshold | Stress Limit
 - **Primary Residence:** [[Link to Location]]
 - **Affiliations:** [[Link to Faction/Guild]]
 

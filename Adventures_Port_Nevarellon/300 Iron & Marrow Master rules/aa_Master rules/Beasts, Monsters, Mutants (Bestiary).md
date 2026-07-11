@@ -1,7 +1,7 @@
 # The Dynamic Trait Manifest
 Design Philosophy: Keep stat blocks simplified. Let traits dictate tactical behaviour, stress interaction, and threat usage.
 
-Enemies use the same character generation rules as players. Once an enemy is generated populate their stat block using the same derived stats as players, only list the stats that are most important, such as WT and Stress limit. The stats that have no modifier to not get listed and are assumed to be zero. 
+Enemies use the similar character generation rules as players, the difference is the skills are bought a a 1:1 ratio regardless of the parent attribute value. Once an enemy is generated populate their stat block using the same derived stats as players, only list the stats that are most important, such as WT and Stress limit. The stats that have no modifier to not get listed and are assumed to be zero. 
 ####  Core Integration Rules
 
 - **Fodder:** * _Budget:_ +1 to +2 total points distributed across 1 Attribute or Skill.
