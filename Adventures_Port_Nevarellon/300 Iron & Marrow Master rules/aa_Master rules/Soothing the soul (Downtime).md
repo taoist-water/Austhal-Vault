@@ -166,6 +166,18 @@ Bands deliberately overlap — Availability tracks *how often the world stocks i
 - **Massive Success:** Restocked or purchased at a 25% discount, and the character banks 1 Progress Momentum.
 - **Failure:** The settlement simply doesn't have what's needed this visit — no harm done, but the party must look elsewhere or wait.
 
+**Replenishing the Community Die:**
+
+| Step                             | Cost            |
+| -------------------------------- | --------------- |
+| Depleted → d4                    | 5 sp            |
+| d4 → d6                          | 10 sp           |
+| d6 → d8                          | 15 sp           |
+| d8 → d10                         | 20 sp           |
+| **Full restock, Depleted → d10** | **50 sp total** |
+Resolved as a single Half-day Acquisition action (Influence or Survival vs. TN 8, Common-tier goods) — Settlement Tier and Reputation modifiers apply normally (a Hostile settlement can refuse outright; a Hamlet's -2 still bites). This is the "civilized" counterpart to the Scrounger's _Scavenge and Cannibalize_ Momentum spend, which does the same +1 step mid-dungeon for 2 Momentum instead of coin.
+
+
 **The Slot Check (New):** A successful Acquisition only completes the purchase — it does not grant a character extra room to carry the result. The moment an item changes hands, the buyer must immediately have an open Slot to receive it (per the Inventory Slot Assignments), exactly as if they'd looted it from a dungeon. If they don't, the purchase still happens (their coin is spent, the item is theirs), but the item is left with the merchant, a hired porter, or back at the inn until the character frees up the room to carry it — buying it doesn't conjure pack space out of nowhere. This is the same logic already governing battlefield looting; town shopping shouldn't get a quieter exemption from the rule just because it's peaceful.
 
 **Why this matters in town specifically:** Dungeon looting is naturally self-limiting — a character drowning in treasure usually also has fresh Wounds eating their Slots (per the Attrition Tax), so the system already polices itself in the field. A trip to town has no such friction: nothing stops a fully-healed character from trying to walk out with a Tower Shield, a Longbow, and six potions in a single shopping spree. The Slot Check above exists specifically to close that loophole — town shopping should still cost something other than coin.

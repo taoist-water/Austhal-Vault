@@ -959,25 +959,33 @@ Every 2 to 3 sessions, the GM awards the party a Milestone Reward of 3 Developme
 
 ### The Training & Growth Menu
 
-#### 1. Learning a New Skill (Rank 1 / Novice)
-
-- Standard Learning: Costs 2 DP to unlock Rank 1 if the Associated Attribute is 1 or higher.
+1. Learning a New Skill (Rank 1 / Novice)
+	- Standard Learning: Costs 2 DP to unlock Rank 1 if the Associated Attribute is 1 or higher.
     
-- Blind Learning: Costs 4 DP to unlock Rank 1 if the Associated Attribute is currently at 0.
-    
-
-#### 2. Upgrading an Existing Skill 
-
-- Within Aptitude: Costs 1 DP if the new skill rank is at or under the score of its Associated Attribute.
-    
-- Pushing the Limit: Costs 2 DP if the new skill rank is past the score of its Associated Attribute.
+	- Blind Learning: Costs 4 DP to unlock Rank 1 if the Associated Attribute is currently at 0.
     
 
-#### 3. Advancing an Attribute
-
-- Physical/Mental Conditioning: Costs 5 DP to increase any Attribute by +1. This automatically scales up your associated Vitals (Prowess adds to $T$, Wits adds to your Stress Limit) and instantly lowers the future training costs of any skills tethered to it.
+2. Upgrading an Existing Skill 
+	- Within Aptitude: Costs 1 DP if the new skill rank is at or under the score of its Associated Attribute.
+    
+	- Pushing the Limit: Costs 2 DP if the new skill rank is past the score of its Associated Attribute.
     
 
-#### 4. Purchase a Feat
+3. Advancing an Attribute
+	- Physical/Mental Conditioning: Costs 5 DP to increase any Attribute by +1. This automatically scales up your associated Vitals (Prowess adds to $T$, Wits adds to your Stress Limit) and instantly lowers the future training costs of any skills tethered to it.
+    
 
-- Horizontal development: costs 3 DP  to gain a new feat, as long as the prerequisites are met.
+4. Purchase a Feat
+	- Horizontal development: costs 3 DP  to gain a new feat, as long as the prerequisites are met.
+
+5. Learn New Faith Spells
+	- Cannot learn Prayers from outside your Chosen Cult/Domain.
+	- Novice Miracle = 2 DP
+	- Apprentice = 3 DP
+	- Master = 4–5 DP
+	
+6. Learn New Arcane Spells
+	-  Novice Miracle = 2 DP
+	- Apprentice = 3 DP
+	- Master = 4–5 DP
+	- Spells from outside your chosen Paradigm cost double.

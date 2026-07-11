@@ -3,20 +3,23 @@
 
 Instead of tracking weight, a character’s carrying capacity is defined by a hard limit of physical "Slots" drawn on their character sheet as literal boxes.
 
-- Total Capacity: Every character has a base of 8 Slots, plus their Prowess (Max 13 total slots).
-    
-- Item Sizing:
-    
+- Total Capacity: Every character has a base of 8 Slots, plus their Prowess (Max 13 total slots).    
+- Item Sizing:    
 
-- 1 Slot: A one-handed weapon, a shield, a coiled rope, a Grimoire, a lantern, a cluster of 3 potions.
-    
-- 2 Slots: A heavy two-handed weapon, a bulky Bestiary trophy (a Gorgon's head), a small treasure chest.
-    
-- 0 Slots (Micro-Items): Things you can hide in a pocket don't take slots unless stacked in bulk. (e.g., 100 gold coins = 1 Slot).
-    
+- 1 Slot: A one-handed weapon, a shield, a coiled rope, a Grimoire, a lantern, a cluster of 3 potions.    
+- 2 Slots: A heavy two-handed weapon, a bulky Bestiary trophy (a Gorgon's head), a small treasure chest.    
+- 0 Slots (Micro-Items): Things you can hide in a pocket don't take slots unless stacked in bulk. (e.g., 100 gold coins = 1 Slot).    
 
 - Worn Armor Exemption: The armor a character is actively wearing does not take up Slots, but heavy armor inherently limits movement or stealth. If they take it off to carry it, it consumes 3 Slots.
     
+**Containers Don't Multiply Slots:**
+A container's listed Slot cost is for **the object itself**, full stop. Owning one never grants extra carrying capacity — it isn't a nested storage space, it's an item like any other. One 2-Slot chest consumes 2 - slots of Inventory and has a volume of 2-Slots. If the box is stolen or lost, any contents is stolen or lost with it.
+
+**What decides whether an _empty_ container costs a Slot at all:**
+- **Rigid/bulky-shaped** containers (Basket, Chest, Barrel) hold their shape and bulk whether full or empty, so they cost their listed Slots regardless of contents.
+- **Soft/collapsible** containers (Sack, Belt Pouch, the Backpack itself) fold to nothing when unstuffed, so they're 0 Slots — until something with its own Slot cost goes inside, at which point you're tracking _that item's_ cost, not an extra charge for the sack around it.
+
+**The Backpack** is still 0 Slots and worn-exempt, but to be explicit: it doesn't add capacity either. It's the fictional wrapper for the Pack designation, not a bag of holding — the Pack's actual size is fixed entirely by the character's Prowess-derived Slot total, independent of what container physically holds it.
 
 ### 2. The Belt vs. The Pack (Action Economy)
 
@@ -41,7 +44,17 @@ This is where the encumbrance system ties directly into your Death Spiral. As a 
     
 _______________________________________________________________________
 # The Community Die
-## The Community Supply Die
+**The Community Supply Die**
+_Hardware_ abstracts the party's shared consumables into the Community Die so nobody tracks individual arrows, torches, or waterskins. Concretely, that's:
+
+- **Ammunition** — arrows, bolts, sling stones, thrown weapons you don't bother retrieving.
+- **Light & Fuel** — torch stubs, lantern oil, flint-and-steel strikes, tindertwigs.
+- **Field Rations & Water** — trail rations, waterskin refills.
+- **Field Medicine** — the bandages and clean linen that make a Breather actually work. This is why a Depleted die specifically blocks Breathers from clearing Dissonant Stress — there's nothing left to bind the wounds with.
+
+**The dividing line:** if it's _used up in the doing_ — an arrow loosed, oil burnt, a ration eaten, a bandage wound around a cut — it's the Die's problem. If it _still exists and still works_ after you use it — a bow, a lantern, a crowbar, a coil of rope — it's a normal Slotted item, tracked individually.
+
+**Does the Die itself take a Slot?** No. It isn't a discrete object on any one character's sheet — it's already distributed as flavor across everyone's belts and packs collectively. Don't write "1× Supply Die" under anyone's inventory.
 
 Instead of tracking every torch, bandage, and arrow, the entire party relies on a single shared abstraction of their collective resources.
 
@@ -51,12 +64,21 @@ Instead of tracking every torch, bandage, and arrow, the entire party relies on 
     
 - The Depleted State: If a d4 steps down, the party is completely out of usable incidentals. Until restocked, no one can fire a bow, Breathers do not heal Dissonant Stress (no clean bandages or rations to offer comfort), and the dungeon is pitch black unless powered by magic.
     
+**Replenishing it**, via the existing Acquisition Downtime Pursuit (_Soothing the Soul_):
 
+| Step                             | Cost            |
+| -------------------------------- | --------------- |
+| Depleted → d4                    | 5 sp            |
+| d4 → d6                          | 10 sp           |
+| d6 → d8                          | 15 sp           |
+| d8 → d10                         | 20 sp           |
+| **Full restock, Depleted → d10** | **50 sp total** |
 ### When to Roll the Die
 
 1. The Breather: the party must roll the Supply Die at the exact end of a 30-minute Breather. This represents the bandages used, the rations eaten, and the torch fuel burned while resting.
     
 2. The Catastrophic Failure: If a player rolls a Natural 2 (Double 1s) while firing a ranged weapon or navigating a physical hazard, the GM can force a Supply Die roll as arrows shatter, bowstrings snap, or a pack falls into the mud.
+
 ________________________________________________________________________
 # Quality
 ## MERCANTILE CRAFTSMANSHIP STATUS
@@ -109,8 +131,11 @@ Quality (above) describes how good a piece of gear was *when new*. Condition des
 - **Downtime Repair** (Hammer & Forge) is the standard, no-cost-beyond-time way to clear either Damaged or Ruined once back in civilization.
 
 ________________________________________________________________________
+# Currency Standard: 
+The primary day-to-day trade currency is the Silver Piece (sp). Copper Pennies (cp) are used by peasants (10 cp = 1 sp). Gold Sovereigns (gs) are held only by nobility and wealthy cartels (1 gs = 20 sp).
 
 _______________________________________________________________________
+
 # Weapons
 | Weapon Name       | Specialization Group | Power | Grip  | Range / Threat                  | Tags & Attributes                                     | Cost  | Availability     |
 | ----------------- | -------------------- | ----- | ----- | ------------------------------- | ----------------------------------------------------- | ----- | ---------------- |
@@ -190,8 +215,7 @@ _______________________________________________________________________
 
 These variations add specific situational tactical tools to the baseline weapon tables.
 
-#### The Estoc (Tuck)    
-
+**The Estoc (Tuck)**
 - Cost: 45 sp | Availability: Scarce
     
 - Stats: Power 2 | 1H | 5 ft Threat
@@ -201,7 +225,7 @@ These variations add specific situational tactical tools to the baseline weapon 
 - 2d6 Special Rule: Designed specifically to pass between armor plates. If the Attack roll is a Perfect Form (rolling a natural 3 and 4 on the Clash check), this weapon completely ignores all physical Armor values and structural damage reduction, applying its full Impact raw to the Wound Threshold.
     
 
-#### The Barbed Spear   
+**The Barbed Spear   
 
 - Cost: 25 sp | Availability: Common
     

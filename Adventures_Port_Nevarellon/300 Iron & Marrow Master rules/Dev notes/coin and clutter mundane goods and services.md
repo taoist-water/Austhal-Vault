@@ -35,13 +35,13 @@ _Hardware_ abstracts the party's shared consumables into the Die so nobody track
 
 **Replenishing it**, via the existing Acquisition Downtime Pursuit (_Soothing the Soul_):
 
-|Step|Cost|
-|---|---|
-|Depleted → d4|5 sp|
-|d4 → d6|10 sp|
-|d6 → d8|15 sp|
-|d8 → d10|20 sp|
-|**Full restock, Depleted → d10**|**50 sp total**|
+| Step                             | Cost            |
+| -------------------------------- | --------------- |
+| Depleted → d4                    | 5 sp            |
+| d4 → d6                          | 10 sp           |
+| d6 → d8                          | 15 sp           |
+| d8 → d10                         | 20 sp           |
+| **Full restock, Depleted → d10** | **50 sp total** |
 
 Resolved as a single Half-day Acquisition action (Influence or Survival vs. TN 8, Common-tier goods) — Settlement Tier and Reputation modifiers apply normally (a Hostile settlement can refuse outright; a Hamlet's -2 still bites). This is the "civilized" counterpart to the Scrounger's _Scavenge and Cannibalize_ Momentum spend, which does the same +1 step mid-dungeon for 2 Momentum instead of coin.
 
