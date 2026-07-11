@@ -106,6 +106,7 @@ ________________________________________________________________________
 
 Each entry below formalizes an Pursuit  already referenced elsewhere in the rules. Where a feat or item already specifies a detail (a time cost, a bonus, an output), that detail is preserved exactly — this section is filling the gaps around existing text, not overwriting it.
 
+### Carousing (placeholder, to be developed like the old school warhammer quest from 1995, a D66 roll on a table. Will have good and bad results and/or skill/attribute checks to resolve or just need a certain level in either to get the good result?)
 ### Finance Bank
 - (dev note) Needs definition.  effectively need a system for players to store excess money as carrying it into adventures might impinge on the inventory system.  Assuming a narrative of independent or chain of banks enables the players to store and retrieve money where ever there is a bank or bank representative in a settlement.  maybe have a result on the roll determine if they have lost money due to the banks bad investment or brigands on the road managed to assault the carriages transferring real coinage between settlements? (/dev note)
 ### Hammer & Forge
