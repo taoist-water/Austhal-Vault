@@ -62,64 +62,64 @@ A container's listed Slot cost is for **the object itself**, full stop. Owning o
 
 ## 1. Adventuring Gear
 
-|Item|Slots|Cost|Availability|Notes|
-|---|---|---|---|---|
-|Backpack|0 (worn)|3 sp|Common|Exempted from Slots like worn armor — it's the frame the Pack lives in, not an item inside it, and grants no bonus capacity (see Section 0b).|
-|Barrel (empty)|2|8 sp|Common|Bulky; rigid — costs its Slots even empty (see Section 0b).|
-|Basket (empty)|1|1 sp|Common|Rigid — costs its Slot even empty (see Section 0b).|
-|Bedroll|1|2 sp|Common|—|
-|Bell|0|3 sp|Common|—|
-|Blanket, winter|1|3 sp|Common|—|
-|Block and tackle|1|12 sp|Scarce|Advantage on Athletics checks to lift/hoist loads beyond your own strength.|
-|Bottle, glass|0|2 sp|Common|—|
-|Bucket (empty)|1|2 sp|Common|—|
-|Caltrops (bag)|0|4 sp|Common|Move Action to scatter across one square. First creature to enter it without noticing (failed Notice vs. your Margin) rolls Reflex + Acrobatics vs TN 8 or takes 1 Stress and half Movement for the round.|
-|Candle / Chalk / Firewood / Torch / Tindertwig|0|~1 cp each|Common|Flavor only — light and fuel are tracked by the Community Supply Die during a dungeon crawl (see Section 0a). Price these individually only for town/travel bookkeeping.|
-|Canvas (sq. yd.)|0|1 sp|Common|—|
-|Case, map or scroll|0|2 sp|Common|—|
-|Chain (10 ft.)|1|15 sp|Scarce|—|
-|Chest (empty)|2|5 sp|Common|Rigid — costs 2 Slots whether empty or full, and grants no bonus capacity of its own (see Section 0b). Note: _Hardware_'s "small treasure chest" example is a found-loot abstraction, a different use case from this.|
-|Crowbar|1|3 sp|Common|Advantage on Athletics/Thievery checks to force a door, crate, or portcullis latch.|
-|Fishhook / Fishing net|0 / 1|1 sp / 4 sp|Common|—|
-|Flask (empty) / Vial|0|3 cp / 1 sp|Common|Stacks per the existing "cluster of 3 potions = 1 Slot" rule.|
-|Flint and steel|0|2 sp|Common|—|
-|Grappling hook|1|3 sp|Common|Pairs with Rope, below.|
-|Hammer|1|2 sp|Common|—|
-|Hourglass|1|20 sp|Scarce|—|
-|Ink, inkpen, paper, parchment, sealing wax|0|1–2 sp bundle|Common|—|
-|Ladder, 10-foot|2|3 sp|Common|Bulky, awkward — doesn't fold into a pocket regardless of price.|
-|Lamp, common|0|2 sp|Common|See Hooded Bullseye Lantern in _Hardware_ (12 sp, Scarce) for the tactical version — no need to duplicate.|
-|Manacles|1|15 sp|Scarce|Escaping requires a Thievery or Athletics check at **Difficult (-2)** instead of Standard.|
-|Manacles, masterwork|1|45 sp|Rare|As above, at **Extreme (-4)**.|
-|Mirror, small steel|0|5 sp|Common|—|
-|Mug/Tankard, Pitcher, Pot|0|2 cp – 3 sp|Common|—|
-|Oil (1-pint flask)|0|1 sp|Common|Fictional fuel for Naphtha Fire-Flasks and lanterns alike.|
-|Pick, miner's / Shovel / Sledge|1|2–3 sp|Common|—|
-|Pole, 10-foot|1|2 sp|Common|—|
-|Pouch, belt (empty)|0|1 sp|Common|—|
-|Ram, portable|2|10 sp|Scarce|Advantage on Athletics checks to break down a door.|
-|Rations, trail|0|2 sp/day|Common|Tracked by the Community Supply Die inside a dungeon (see Section 0a) — don't double-track. Priced here only for overland travel montages and Downtime.|
-|Rope, hemp (50 ft.)|1|2 sp|Common|Direct match for the "coiled rope" example already in _Hardware_.|
-|Rope, silk (50 ft.)|1|15 sp|Scarce|As above; Advantage on Thievery checks using it (silent bindings, garrotes).|
-|Sack (empty)|0|1 sp|Common|Soft/collapsible — 0 Slots until it's holding something with its own Slot cost (see Section 0b).|
-|Sewing needle / Signal whistle / Signet ring / Soap|0|1–5 sp|Common|—|
-|Shovel or spade|1|2 sp|Common|—|
-|Spyglass|1|90 sp|Rare|Advantage on Notice checks made at Long or Extreme Range.|
-|Tent|2|8 sp|Common|—|
-|Water clock|—|—|Legendary|A city fixture, not a carried item. Not normally purchasable by PCs.|
-|Waterskin|0|1 sp|Common|—|
-|Whetstone|0|1 sp|Common|Mundane, feat-free version of the Spit and Twine feat's Patch Job: as a Regroup action, roll Crafting vs TN 8 to ignore the Damaged tag on one weapon for the rest of the encounter.|
+| Item                                                | Slots    | Cost          | Availability | Notes                                                                                                                                                                                                                 |
+| --------------------------------------------------- | -------- | ------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Backpack                                            | 0 (worn) | 3 sp          | Common       | Exempted from Slots like worn armor — it's the frame the Pack lives in, not an item inside it, and grants no bonus capacity (see Section 0b).                                                                         |
+| Barrel (empty)                                      | 2        | 8 sp          | Common       | Bulky; rigid — costs its Slots even empty (see Section 0b).                                                                                                                                                           |
+| Basket (empty)                                      | 1        | 1 sp          | Common       | Rigid — costs its Slot even empty (see Section 0b).                                                                                                                                                                   |
+| Bedroll                                             | 1        | 2 sp          | Common       | —                                                                                                                                                                                                                     |
+| Bell                                                | 0        | 3 sp          | Common       | —                                                                                                                                                                                                                     |
+| Blanket, winter                                     | 1        | 3 sp          | Common       | —                                                                                                                                                                                                                     |
+| Block and tackle                                    | 1        | 12 sp         | Scarce       | Advantage on Athletics checks to lift/hoist loads beyond your own strength.                                                                                                                                           |
+| Bottle, glass                                       | 0        | 2 sp          | Common       | —                                                                                                                                                                                                                     |
+| Bucket (empty)                                      | 1        | 2 sp          | Common       | —                                                                                                                                                                                                                     |
+| Caltrops (bag)                                      | 0        | 4 sp          | Common       | Move Action to scatter across one square. First creature to enter it without noticing (failed Notice vs. your Margin) rolls Reflex + Acrobatics vs TN 8 or takes 1 Stress and half Movement for the round.            |
+| Candle / Chalk / Firewood / Torch / Tindertwig      | 0        | ~1 cp each    | Common       | Flavor only — light and fuel are tracked by the Community Supply Die during a dungeon crawl (see Section 0a). Price these individually only for town/travel bookkeeping.                                              |
+| Canvas (sq. yd.)                                    | 0        | 1 sp          | Common       | —                                                                                                                                                                                                                     |
+| Case, map or scroll                                 | 0        | 2 sp          | Common       | —                                                                                                                                                                                                                     |
+| Chain (10 ft.)                                      | 1        | 15 sp         | Scarce       | —                                                                                                                                                                                                                     |
+| Chest (empty)                                       | 2        | 5 sp          | Common       | Rigid — costs 2 Slots whether empty or full, and grants no bonus capacity of its own (see Section 0b). Note: _Hardware_'s "small treasure chest" example is a found-loot abstraction, a different use case from this. |
+| Crowbar                                             | 1        | 3 sp          | Common       | Advantage on Athletics/Thievery checks to force a door, crate, or portcullis latch.                                                                                                                                   |
+| Fishhook / Fishing net                              | 0 / 1    | 1 sp / 4 sp   | Common       | —                                                                                                                                                                                                                     |
+| Flask (empty) / Vial                                | 0        | 3 cp / 1 sp   | Common       | Stacks per the existing "cluster of 3 potions = 1 Slot" rule.                                                                                                                                                         |
+| Flint and steel                                     | 0        | 2 sp          | Common       | —                                                                                                                                                                                                                     |
+| Grappling hook                                      | 1        | 3 sp          | Common       | Pairs with Rope, below.                                                                                                                                                                                               |
+| Hammer                                              | 1        | 2 sp          | Common       | —                                                                                                                                                                                                                     |
+| Hourglass                                           | 1        | 20 sp         | Scarce       | —                                                                                                                                                                                                                     |
+| Ink, inkpen, paper, parchment, sealing wax          | 0        | 1–2 sp bundle | Common       | —                                                                                                                                                                                                                     |
+| Ladder, 10-foot                                     | 2        | 3 sp          | Common       | Bulky, awkward — doesn't fold into a pocket regardless of price.                                                                                                                                                      |
+| Lamp, common                                        | 0        | 2 sp          | Common       | See Hooded Bullseye Lantern in _Hardware_ (12 sp, Scarce) for the tactical version — no need to duplicate.                                                                                                            |
+| Manacles                                            | 1        | 15 sp         | Scarce       | Escaping requires a Thievery or Athletics check at **Difficult (-2)** instead of Standard.                                                                                                                            |
+| Manacles, masterwork                                | 1        | 45 sp         | Rare         | As above, at **Extreme (-4)**.                                                                                                                                                                                        |
+| Mirror, small steel                                 | 0        | 5 sp          | Common       | —                                                                                                                                                                                                                     |
+| Mug/Tankard, Pitcher, Pot                           | 0        | 2 cp – 3 sp   | Common       | —                                                                                                                                                                                                                     |
+| Oil (1-pint flask)                                  | 0        | 1 sp          | Common       | Fictional fuel for Naphtha Fire-Flasks and lanterns alike.                                                                                                                                                            |
+| Pick, miner's / Shovel / Sledge                     | 1        | 2–3 sp        | Common       | —                                                                                                                                                                                                                     |
+| Pole, 10-foot                                       | 1        | 2 sp          | Common       | —                                                                                                                                                                                                                     |
+| Pouch, belt (empty)                                 | 0        | 1 sp          | Common       | —                                                                                                                                                                                                                     |
+| Ram, portable                                       | 2        | 10 sp         | Scarce       | Advantage on Athletics checks to break down a door.                                                                                                                                                                   |
+| Rations, trail                                      | 0        | 2 sp/day      | Common       | Tracked by the Community Supply Die inside a dungeon (see Section 0a) — don't double-track. Priced here only for overland travel montages and Downtime.                                                               |
+| Rope, hemp (50 ft.)                                 | 1        | 2 sp          | Common       | Direct match for the "coiled rope" example already in _Hardware_.                                                                                                                                                     |
+| Rope, silk (50 ft.)                                 | 1        | 15 sp         | Scarce       | As above; Advantage on Thievery checks using it (silent bindings, garrotes).                                                                                                                                          |
+| Sack (empty)                                        | 0        | 1 sp          | Common       | Soft/collapsible — 0 Slots until it's holding something with its own Slot cost (see Section 0b).                                                                                                                      |
+| Sewing needle / Signal whistle / Signet ring / Soap | 0        | 1–5 sp        | Common       | —                                                                                                                                                                                                                     |
+| Shovel or spade                                     | 1        | 2 sp          | Common       | —                                                                                                                                                                                                                     |
+| Spyglass                                            | 1        | 90 sp         | Rare         | Advantage on Notice checks made at Long or Extreme Range.                                                                                                                                                             |
+| Tent                                                | 2        | 8 sp          | Common       | —                                                                                                                                                                                                                     |
+| Water clock                                         | —        | —             | Legendary    | A city fixture, not a carried item. Not normally purchasable by PCs.                                                                                                                                                  |
+| Waterskin                                           | 0        | 1 sp          | Common       | —                                                                                                                                                                                                                     |
+| Whetstone                                           | 0        | 1 sp          | Common       | Mundane, feat-free version of the Spit and Twine feat's Patch Job: as a Regroup action, roll Crafting vs TN 8 to ignore the Damaged tag on one weapon for the rest of the encounter.                                  |
 
 ### 1a. Locks (Thievery Interaction)
 
 D&D's Simple/Average/Good/Superior lock ladder maps directly onto the Situational Modifier framework _Tools for the Nameless_ already defines — no new mechanic needed, just a price/difficulty table.
 
-|Lock Quality|Bypass Modifier|Cost|Availability|
-|---|---|---|---|
-|Simple|Standard (+0)|5 sp|Common|
-|Average|Difficult (-2)|20 sp|Common|
-|Good|Extreme (-4)|45 sp|Scarce|
-|Superior|Extreme (-4) **and** Disadvantage|90 sp|Rare|
+| Lock Quality | Bypass Modifier                   | Cost  | Availability |
+| ------------ | --------------------------------- | ----- | ------------ |
+| Simple       | Standard (+0)                     | 5 sp  | Common       |
+| Average      | Difficult (-2)                    | 20 sp | Common       |
+| Good         | Extreme (-4)                      | 45 sp | Scarce       |
+| Superior     | Extreme (-4) **and** Disadvantage | 90 sp | Rare         |
 
 _Ghost in the Machine (Tier 3 Feat) already bypasses any lock regardless of quality — this table doesn't need a special case for it, it already just works._
 
@@ -138,37 +138,37 @@ Several d20 items already have a mechanical twin in _Hardware_'s Alchemical Ware
 
 **New entries (no existing analog):**
 
-|Item|Cost|Availability|Slots|Effect|
-|---|---|---|---|---|
-|Antitoxin (vial)|20 sp|Scarce|0|Drunk as a Free Action before a Poison check. Grants Advantage on the next Prowess check made to resist the Poisoned condition this scene.|
-|Everburning Torch|40 sp|Rare|1|Permanent arcane light source. Never consumes a Supply Die step.|
-|Sunrod|5 sp|Common|0|As Everburning Torch, but burns out at scene's end.|
-|Holy Water (flask)|15 sp|Scarce|0|Thrown as a Ranged (Short) attack; only affects targets with the Undead or Void-Touched tag. On a hit, deals 1 Impact ignoring Armor.|
-|Smokestick|15 sp|Scarce|0|Snapped as a Move Action. Creates a 5 ft. radius of Heavily Obscured terrain for 1 round (per the Environmental cover rules in _Iron World_).|
-|Tanglefoot Bag|20 sp|Scarce|0|Thrown (Short Range). On a hit, the target is Anchored until they spend a full Aggressor action tearing free — mechanically identical to the Entangle spell's Margin 1–2 result.|
-|Thunderstone|20 sp|Scarce|0|Thrown; explodes in a 10 ft. radius. Everyone caught rolls Prowess vs TN 8 or gains the Distracted condition (-1 to rolls until their next Activation).|
+| Item               | Cost  | Availability | Slots | Effect                                                                                                                                                                           |
+| ------------------ | ----- | ------------ | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Antitoxin (vial)   | 20 sp | Scarce       | 0     | Drunk as a Free Action before a Poison check. Grants Advantage on the next Prowess check made to resist the Poisoned condition this scene.                                       |
+| Everburning Torch  | 40 sp | Rare         | 1     | Permanent arcane light source. Never consumes a Supply Die step.                                                                                                                 |
+| Sunrod             | 5 sp  | Common       | 0     | As Everburning Torch, but burns out at scene's end.                                                                                                                              |
+| Holy Water (flask) | 15 sp | Scarce       | 0     | Thrown as a Ranged (Short) attack; only affects targets with the Undead or Void-Touched tag. On a hit, deals 1 Impact ignoring Armor.                                            |
+| Smokestick         | 15 sp | Scarce       | 0     | Snapped as a Move Action. Creates a 5 ft. radius of Heavily Obscured terrain for 1 round (per the Environmental cover rules in _Iron World_).                                    |
+| Tanglefoot Bag     | 20 sp | Scarce       | 0     | Thrown (Short Range). On a hit, the target is Anchored until they spend a full Aggressor action tearing free — mechanically identical to the Entangle spell's Margin 1–2 result. |
+| Thunderstone       | 20 sp | Scarce       | 0     | Thrown; explodes in a 10 ft. radius. Everyone caught rolls Prowess vs TN 8 or gains the Distracted condition (-1 to rolls until their next Activation).                          |
 
 ---
 
 ## 3. Tools & Skill Kits
 
-|Item|Slots|Cost|Availability|Effect|
-|---|---|---|---|---|
-|Alchemist's Lab|— (stationary facility, not carried)|150 sp|Rare, City-tier+|Required for reliable Hammer & Forge-style Crafting of Alchemical Wares outside of desperate battlefield chemistry (the Scrounger's Volatile Concoction feat already covers the field-expedient version).|
-|Artisan's tools (per trade)|1|5 sp|Common|Required to attempt a Crafting check in that trade without Disadvantage.|
-|Artisan's tools, masterwork|1|20 sp|Scarce|+1 flat bonus to that trade's Crafting check (same logic as Masterwork Quality weapons/armor).|
-|Climber's Kit|1|25 sp|Scarce|Advantage on Athletics checks made specifically to climb.|
-|Disguise Kit|1|15 sp|Scarce|Grants Advantage on the unopposed Wits + Arcana-equivalent roll for a mundane disguise (resolved exactly like the Disguise spell's Illusion check — Notice vs. your Margin to see through it).|
-|Healer's Kit|1|15 sp|Common|Cheaper cousin of the Field Surgeon's Kit: +1 (not +2) to Tend to the Flesh checks, and holds only 2 uses before restocking.|
-|Magnifying Glass|0|30 sp|Scarce|Advantage on Notice checks made on small or fine details (forgeries, tiny inscriptions).|
-|Musical Instrument, common|1|5 sp|Common|Flavor.|
-|Musical Instrument, masterwork|1|40 sp|Scarce|+1 flat bonus to an Influence check made while performing with it.|
-|Scale, merchant's|0|3 sp|Common|Advantage on Insight/Notice checks to catch a rigged deal or counterfeit coin.|
-|Spell Component Pouch|—|—|—|**Not needed.** Grimoire/Wand/Staff already fill the Arcane Focus role; a separate component pouch would be a redundant subsystem.|
-|Spellbook, wizard's (blank)|—|—|—|This is just an unfilled Grimoire (15 sp, Scarce, already in _Hardware_) — no separate item.|
-|Thieves' Tools|1|20 sp|Scarce|**Gap fill:** _Hardware_ lists the Thievery skill but never actually lists the tool for it. Required to attempt a Thievery check against locks/mechanisms without Disadvantage.|
-|Thieves' Tools, masterwork|1|60 sp|Rare|As above, +1 flat bonus to the check.|
-|Holy Symbol, silver|0|15 sp|Scarce|Cosmetic/prestige upgrade over the standard Holy Symbol (5 sp) only — **no mechanical bonus.** Faith runs on the Tithe of Will, not item bonuses; don't let this quietly become a "+1 Faith" item later, or it breaks parity with Domains that have no silver-symbol equivalent.|
+| Item                           | Slots                                | Cost   | Availability     | Effect                                                                                                                                                                                                                                                                           |
+| ------------------------------ | ------------------------------------ | ------ | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alchemist's Lab                | — (stationary facility, not carried) | 150 sp | Rare, City-tier+ | Required for reliable Hammer & Forge-style Crafting of Alchemical Wares outside of desperate battlefield chemistry (the Scrounger's Volatile Concoction feat already covers the field-expedient version).                                                                        |
+| Artisan's tools (per trade)    | 1                                    | 5 sp   | Common           | Required to attempt a Crafting check in that trade without Disadvantage.                                                                                                                                                                                                         |
+| Artisan's tools, masterwork    | 1                                    | 20 sp  | Scarce           | +1 flat bonus to that trade's Crafting check (same logic as Masterwork Quality weapons/armor).                                                                                                                                                                                   |
+| Climber's Kit                  | 1                                    | 25 sp  | Scarce           | Advantage on Athletics checks made specifically to climb.                                                                                                                                                                                                                        |
+| Disguise Kit                   | 1                                    | 15 sp  | Scarce           | Grants Advantage on the unopposed Wits + Arcana-equivalent roll for a mundane disguise (resolved exactly like the Disguise spell's Illusion check — Notice vs. your Margin to see through it).                                                                                   |
+| Healer's Kit                   | 1                                    | 15 sp  | Common           | Cheaper cousin of the Field Surgeon's Kit: +1 (not +2) to Tend to the Flesh checks, and holds only 2 uses before restocking.                                                                                                                                                     |
+| Magnifying Glass               | 0                                    | 30 sp  | Scarce           | Advantage on Notice checks made on small or fine details (forgeries, tiny inscriptions).                                                                                                                                                                                         |
+| Musical Instrument, common     | 1                                    | 5 sp   | Common           | Flavor.                                                                                                                                                                                                                                                                          |
+| Musical Instrument, masterwork | 1                                    | 40 sp  | Scarce           | +1 flat bonus to an Influence check made while performing with it.                                                                                                                                                                                                               |
+| Scale, merchant's              | 0                                    | 3 sp   | Common           | Advantage on Insight/Notice checks to catch a rigged deal or counterfeit coin.                                                                                                                                                                                                   |
+| Spell Component Pouch          | —                                    | —      | —                | **Not needed.** Grimoire/Wand/Staff already fill the Arcane Focus role; a separate component pouch would be a redundant subsystem.                                                                                                                                               |
+| Spellbook, wizard's (blank)    | —                                    | —      | —                | This is just an unfilled Grimoire (15 sp, Scarce, already in _Hardware_) — no separate item.                                                                                                                                                                                     |
+| Thieves' Tools                 | 1                                    | 20 sp  | Scarce           | **Gap fill:** _Hardware_ lists the Thievery skill but never actually lists the tool for it. Required to attempt a Thievery check against locks/mechanisms without Disadvantage.                                                                                                  |
+| Thieves' Tools, masterwork     | 1                                    | 60 sp  | Rare             | As above, +1 flat bonus to the check.                                                                                                                                                                                                                                            |
+| Holy Symbol, silver            | 0                                    | 15 sp  | Scarce           | Cosmetic/prestige upgrade over the standard Holy Symbol (5 sp) only — **no mechanical bonus.** Faith runs on the Tithe of Will, not item bonuses; don't let this quietly become a "+1 Faith" item later, or it breaks parity with Domains that have no silver-symbol equivalent. |
 
 ---
 
@@ -176,17 +176,17 @@ Several d20 items already have a mechanical twin in _Hardware_'s Alchemical Ware
 
 All Clothing is worn (0 Slots). Prices are flavor-tier, but a few outfits earn a Situational Modifier hook consistent with how _Tools for the Nameless_ already handles court dress and cold-weather Hazard checks.
 
-|Item|Cost|Availability|Notes|
-|---|---|---|---|
-|Peasant's outfit|1 sp|Common|—|
-|Traveler's / Artisan's outfit|3 sp|Common|—|
-|Entertainer's / Monk's / Scholar's outfit|5–8 sp|Common|—|
-|Cleric's vestments|8 sp|Common|—|
-|Cold-weather outfit|10 sp|Common|Negates the Hazard Check penalty specifically for cold-based environmental hazards (per _Iron World_'s Hazard Roll rules).|
-|Explorer's outfit|12 sp|Common|—|
-|Courtier's outfit|40 sp|Scarce|GM may apply a +2 Advantageous modifier on Influence checks in high-society settings where dress matters — and, symmetrically, a -2 for showing up underdressed.|
-|Noble's outfit|90 sp|Rare|As above.|
-|Royal outfit|250 sp (12.5 gs)|Legendary|As above; also a strong narrative flag on its own.|
+| Item                                      | Cost             | Availability | Notes                                                                                                                                                            |
+| ----------------------------------------- | ---------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Peasant's outfit                          | 1 sp             | Common       | —                                                                                                                                                                |
+| Traveler's / Artisan's outfit             | 3 sp             | Common       | —                                                                                                                                                                |
+| Entertainer's / Monk's / Scholar's outfit | 5–8 sp           | Common       | —                                                                                                                                                                |
+| Cleric's vestments                        | 8 sp             | Common       | —                                                                                                                                                                |
+| Cold-weather outfit                       | 10 sp            | Common       | Negates the Hazard Check penalty specifically for cold-based environmental hazards (per _Iron World_'s Hazard Roll rules).                                       |
+| Explorer's outfit                         | 12 sp            | Common       | —                                                                                                                                                                |
+| Courtier's outfit                         | 40 sp            | Scarce       | GM may apply a +2 Advantageous modifier on Influence checks in high-society settings where dress matters — and, symmetrically, a -2 for showing up underdressed. |
+| Noble's outfit                            | 90 sp            | Rare         | As above.                                                                                                                                                        |
+| Royal outfit                              | 250 sp (12.5 gs) | Legendary    | As above; also a strong narrative flag on its own.                                                                                                               |
 
 ---
 
@@ -194,18 +194,18 @@ All Clothing is worn (0 Slots). Prices are flavor-tier, but a few outfits earn a
 
 **Frame this correctly:** these prices are for **town scenes and Downtime bookkeeping** — buying a round, paying for a room, throwing a banquet. They are **not** for tracking dungeon rations; that's what the Community Supply Die already abstracts. Don't run both systems on the same fiction.
 
-|Item|Cost|Availability|
-|---|---|---|
-|Ale, mug|4 cp|Common|
-|Ale, gallon|4 sp|Common|
-|Bread, loaf|2 cp|Common|
-|Cheese, hunk|1 sp|Common|
-|Meat, chunk|2 sp|Common|
-|Meal, poor / common / good|1 sp / 2 sp / 4 sp|Common|
-|Inn stay, poor / common / good|2 sp / 5 sp / 15 sp|Common|
-|Wine, common pitcher|2 sp|Common|
-|Wine, fine bottle|35 sp|Scarce|
-|Banquet (per person)|30 sp|Scarce|
+| Item                           | Cost                | Availability |
+| ------------------------------ | ------------------- | ------------ |
+| Ale, mug                       | 4 cp                | Common       |
+| Ale, gallon                    | 4 sp                | Common       |
+| Bread, loaf                    | 2 cp                | Common       |
+| Cheese, hunk                   | 1 sp                | Common       |
+| Meat, chunk                    | 2 sp                | Common       |
+| Meal, poor / common / good     | 1 sp / 2 sp / 4 sp  | Common       |
+| Inn stay, poor / common / good | 2 sp / 5 sp / 15 sp | Common       |
+| Wine, common pitcher           | 2 sp                | Common       |
+| Wine, fine bottle              | 35 sp               | Scarce       |
+| Banquet (per person)           | 30 sp               | Scarce       |
 
 ---
 
@@ -213,29 +213,29 @@ All Clothing is worn (0 Slots). Prices are flavor-tier, but a few outfits earn a
 
 This is the one place the d20 list touches something _already mechanically defined_ — **Metal meet Flesh** explicitly lists Horses under **Large (Scale +1)**. So mounts get real stats, not just flavor pricing.
 
-|Mount|Scale|Move|Wound Threshold|Stress Limit|Cost|Availability|
-|---|---|---|---|---|---|---|
-|Donkey / Mule|Small (-1)|20 ft (4 sq)|3|3|12 sp|Common|
-|Pony|Small (-1)|25 ft (5 sq)|3|3|20 sp|Common|
-|Guard Dog|Small (-1)|40 ft (8 sq)|3|3|15 sp|Common|
-|Light Horse|Large (+1)|40 ft (8 sq)|6|4|60 sp|Scarce|
-|Light Horse, combat trained|Large (+1)|40 ft (8 sq)|8 _(+1 Prowess)_|4|90 sp|Scarce|
-|Heavy Horse (warhorse)|Large (+1)|35 ft (7 sq)|8 _(+1 Prowess)_|4|150 sp|Rare|
-|Heavy Horse, combat trained|Large (+1)|35 ft (7 sq)|8|4|220 sp (11 gs)|Rare|
+| Mount                       | Scale      | Move         | Wound Threshold  | Stress Limit | Cost           | Availability |
+| --------------------------- | ---------- | ------------ | ---------------- | ------------ | -------------- | ------------ |
+| Donkey / Mule               | Small (-1) | 20 ft (4 sq) | 3                | 3            | 12 sp          | Common       |
+| Pony                        | Small (-1) | 25 ft (5 sq) | 3                | 3            | 20 sp          | Common       |
+| Guard Dog                   | Small (-1) | 40 ft (8 sq) | 3                | 3            | 15 sp          | Common       |
+| Light Horse                 | Large (+1) | 40 ft (8 sq) | 6                | 4            | 60 sp          | Scarce       |
+| Light Horse, combat trained | Large (+1) | 40 ft (8 sq) | 8 _(+1 Prowess)_ | 4            | 90 sp          | Scarce       |
+| Heavy Horse (warhorse)      | Large (+1) | 35 ft (7 sq) | 8 _(+1 Prowess)_ | 4            | 150 sp         | Rare         |
+| Heavy Horse, combat trained | Large (+1) | 35 ft (7 sq) | 8                | 4            | 220 sp (11 gs) | Rare         |
 
 _Combat-trained mounts don't panic from ordinary Fear-Inducing effects (they're bred/drilled for it) but are not immune to Terrifying-tier effects._
 
 **Tack:**
 
-|Item|Cost|Availability|Notes|
-|---|---|---|---|
-|Bit and bridle|3 sp|Common|—|
-|Riding saddle|8 sp|Common|—|
-|Pack saddle|5 sp|Common|—|
-|Military saddle|15 sp|Scarce|Advantage on the Ride skill check to stay mounted when your mount is Shoved, spooked, or knocked.|
-|Saddlebags|6 sp|Common|Grants 2 additional Pack-equivalent Slots that live on the mount rather than the rider — still requires a Regroup-equivalent action to dig through mid-combat.|
-|Feed (per day)|3 cp|Common|—|
-|Stabling (per day)|1 sp|Common|—|
+| Item               | Cost  | Availability | Notes                                                                                                                                                          |
+| ------------------ | ----- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bit and bridle     | 3 sp  | Common       | —                                                                                                                                                              |
+| Riding saddle      | 8 sp  | Common       | —                                                                                                                                                              |
+| Pack saddle        | 5 sp  | Common       | —                                                                                                                                                              |
+| Military saddle    | 15 sp | Scarce       | Advantage on the Ride skill check to stay mounted when your mount is Shoved, spooked, or knocked.                                                              |
+| Saddlebags         | 6 sp  | Common       | Grants 2 additional Pack-equivalent Slots that live on the mount rather than the rider — still requires a Regroup-equivalent action to dig through mid-combat. |
+| Feed (per day)     | 3 cp  | Common       | —                                                                                                                                                              |
+| Stabling (per day) | 1 sp  | Common       | —                                                                                                                                                              |
 
 **Barding:** priced as **2× the base armor's sp cost**, reflecting the extra material a Large-scale mount requires. A barded mount carries the same tag penalties as a rider would (Bulky armor still imposes its usual -1 penalties). Example: Chainmail barding = 90 sp; Plate barding = 400 sp (20 gs), Rare/exotic, warhorse-only.
 
@@ -245,39 +245,39 @@ _Combat-trained mounts don't panic from ordinary Fear-Inducing effects (they're 
 
 Campaign-scale assets, not inventory items — no Slots apply. Anything ship-sized should be treated as Commission-gated per _Soothing the Soul_ (Capital/Metropolis settlement tier, GM narrative gatekeeping), not a walk-in purchase.
 
-|Item|Cost|Availability|
-|---|---|---|
-|Rowboat|25 sp|Common|
-|Cart|20 sp|Common|
-|Sled|25 sp|Common|
-|Wagon|45 sp|Scarce|
-|Carriage|90 sp|Rare|
-|Keelboat|300 sp (15 gs)|Rare|
-|Longship|1,500 sp (75 gs)|Legendary, Commission-gated|
-|Sailing Ship|2,000 sp (100 gs)|Legendary, Commission-gated|
-|Galley / Warship|5,000–6,000 sp (250–300 gs)|Legendary, Commission-gated|
+| Item             | Cost                        | Availability                |
+| ---------------- | --------------------------- | --------------------------- |
+| Rowboat          | 25 sp                       | Common                      |
+| Cart             | 20 sp                       | Common                      |
+| Sled             | 25 sp                       | Common                      |
+| Wagon            | 45 sp                       | Scarce                      |
+| Carriage         | 90 sp                       | Rare                        |
+| Keelboat         | 300 sp (15 gs)              | Rare                        |
+| Longship         | 1,500 sp (75 gs)            | Legendary, Commission-gated |
+| Sailing Ship     | 2,000 sp (100 gs)           | Legendary, Commission-gated |
+| Galley / Warship | 5,000–6,000 sp (250–300 gs) | Legendary, Commission-gated |
 
 ---
 
 ## 8. Spellcasting, Miracles & Hired Services
 
-|Service|Cost|Notes|
-|---|---|---|
-|Coach cab|3 cp/mile|—|
-|Messenger|2 cp/mile|—|
-|Road or gate toll|1 cp|—|
-|Ship's passage|1 sp/mile|—|
-|Hireling, untrained|5 cp/day|—|
-|Hireling, trained|3 sp/day|—|
+| Service             | Cost      | Notes |
+| ------------------- | --------- | ----- |
+| Coach cab           | 3 cp/mile | —     |
+| Messenger           | 2 cp/mile | —     |
+| Road or gate toll   | 1 cp      | —     |
+| Ship's passage      | 1 sp/mile | —     |
+| Hireling, untrained | 5 cp/day  | —     |
+| Hireling, trained   | 3 sp/day  | —     |
 
 **Paying an NPC to cast a spell or perform a Miracle — new formula.** D&D's _caster level × spell level × 10 gp_ has nothing to key off in Iron & Marrow (no "caster level" stat exists). I'm proposing a flat Level-tier price instead:
 
-|Spell/Miracle Level|Price|
-|---|---|
-|Cantrip|15 sp|
-|Novice|30 sp|
-|Adept / Apprentice|60 sp|
-|Master|120–150 sp|
+| Spell/Miracle Level | Price      |
+| ------------------- | ---------- |
+| Cantrip             | 15 sp      |
+| Novice              | 30 sp      |
+| Adept / Apprentice  | 60 sp      |
+| Master              | 120–150 sp |
 
 _Resurrection is explicitly excluded from this table — at 8 Locked Stress cost to the caster and a Master Miracle to begin with, it should never be a walk-up shop purchase. Treat it as Commission-gated, if available at all._
 

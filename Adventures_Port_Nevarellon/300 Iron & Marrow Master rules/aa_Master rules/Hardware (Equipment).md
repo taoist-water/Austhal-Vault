@@ -137,116 +137,173 @@ The primary day-to-day trade currency is the Silver Piece (sp). Copper Pennies (
 _______________________________________________________________________
 
 # Weapons
-| Weapon Name       | Specialization Group | Power | Grip  | Range / Threat                  | Tags & Attributes                                     | Cost  | Availability     |
-| ----------------- | -------------------- | ----- | ----- | ------------------------------- | ----------------------------------------------------- | ----- | ---------------- |
-| Unarmed           | Unarmed              | 0     | 1H/2H | 5 ft Threat                     | Non-lethal, sidearm                                   | —     | Always available |
-| Dagger / Knife    | Blades               | 0     | 1H    | 5 ft Threat / 30 ft Thrown      | Concealable, Close-Quarters, Finesse, Thrown, Sidearm | 5 sp  | Common           |
-| Shortsword        | Blades               | **2** | 1H    | 5 ft Threat                     | Sidearm                                               | 10 sp | Common           |
-| Hand Axe          | Axes                 | **2** | 1H    | 5 ft Threat / 30 ft Thrown      | Brutal, Thrown, Sidearm                               | 8 sp  | Common           |
-| Mace / Bludgeon   | Bludgeons            | **2** | 1H    | 5 ft Threat                     | Bash                                                  | 8 sp  | Common           |
-| Spear             | Polearms             | **2** | 1H/2H | 10 ft Threat / 60 ft Thrown     | Reach, Thrown                                         | 10 sp | Common           |
-| Longsword         | Blades               | **3** | 1H/2H | 5 ft Threat                     | Versatile                                             | 25 sp | Scarce           |
-| Warhammer         | Bludgeons            | **3** | 2H    | 5 ft Threat                     | Bash, Sunder                                          | 30 sp | Scarce           |
-| Greatsword        | Blades               | **5** | 2H    | 5 ft Threat                     | Inertia, Cumbersome                                   | 45 sp | Scarce           |
-| Halberd / Poleaxe | Polearms             | **5** | 2H    | 10 ft Threat                    | Reach, Cumbersome                                     | 45 sp | Scarce           |
-| Shortbow          | Bows                 | **2** | 2H    | Ranged (Max: Long / 120 ft)     | Volley                                                | 15 sp | Common           |
-| Longbow           | Bows                 | **3** | 2H    | Ranged (Max: Extreme / 125+ ft) | Volley                                                | 35 sp | Scarce           |
-| Light Crossbow    | Crossbows            | **3** | 2H    | Ranged (Max: Long / 120 ft)     | Armor-Piercing, Reload                                | 30 sp | Scarce           |
-| Grimoire          | Arcane Focus         | —     | 1H    | —                               | Repository                                            | 15 sp | Scarce           |
-| Mage Staff        | Arcane Focus         | —     | 2H    | —                               | Reach, Bound, grounding rod                           | 45 sp | Rare             |
-| Wand              | Arcane Focus         | —     | 1H    | —                               | Conduit, Focus, Sidearm                               | 35 sp | Rare             |
-| Rapier            | Blades               | 2     | 1H    | 5ft threat                      | Finesse, Armour-piercing                              | 30sp  | scarce           |
 
+## Unarmed
+
+|Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
+|---|---|---|---|---|---|---|
+|Unarmed (fists/feet/knees and elbows)|0|1H/2H|5 ft Threat|Non-lethal, Sidearm|—|Always available|
+|Gauntlet|0|1H|5 ft Threat|Sidearm|2 sp|Common|
+|Spiked Gauntlet|0|1H|5 ft Threat|Sidearm, Precise|5 sp|Common|
+
+## Blades
+
+|Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
+|---|---|---|---|---|---|---|
+|Dagger / Knife|0|1H|5 ft Threat / 30 ft Thrown|Concealable, Close-Quarters, Precise, Thrown, Sidearm|5 sp|Common|
+|Punching Dagger|0|1H|5 ft Threat|Concealable, Close-Quarters, Inertia|6 sp|Common|
+|Kukri|0|1H|5 ft Threat|Precise, Concealable|10 sp|Common|
+|Sai|0|1H|5 ft Threat|Disarm, Concealable|5 sp|Scarce|
+|Shortsword|2|1H|5 ft Threat|Sidearm|10 sp|Common|
+|Rapier|2|1H|5 ft Threat|Precise, finesse|20 sp|Scarce|
+|Longsword|3 (4 if 2H)|1H/2H|5 ft Threat|Versatile|25 sp|Scarce|
+|Bastard Sword|3 (4 if 2H)|1H/2H|5 ft Threat|Versatile, Precise|35 sp|Scarce|
+|Greatsword|5|2H|5 ft Threat|Inertia, Cumbersome|45 sp|Scarce|
+
+## Axes
+
+|Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
+|---|---|---|---|---|---|---|
+|Sickle|0|1H|5 ft Threat|Trip|6 sp|Common|
+|Hand Axe|2|1H|5 ft Threat / 30 ft Thrown|Brutal, Thrown, Sidearm|8 sp|Common|
+|Battleaxe|2|1H|5 ft Threat|Inertia|12 sp|Common|
+|Light Pick|2|1H|5 ft Threat|Inertia, Precise|8 sp|Common|
+|Heavy Pick|3|1H|5 ft Threat|Inertia, Precise|16 sp|Scarce|
+|Greataxe|5|2H|5 ft Threat|Inertia, Cumbersome|40 sp|Scarce|
+
+## Bludgeons
+
+|Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
+|---|---|---|---|---|---|---|
+|Club|0|1H|5 ft Threat|Bash|— (improvised, always available)|Common|
+|Sap|2|1H|5 ft Threat|non-Lethal, Concealable|3 sp|Common|
+|Mace / Bludgeon|2|1H|5 ft Threat|Bash|8 sp|Common|
+|Morningstar|2|1H|5 ft Threat|Bash, Precise|12 sp|Common|
+|Quarterstaff|2/2|2H|5 ft Threat|Double, Close-Quarters|3 sp|Common|
+|Warhammer|3|2H|5 ft Threat|Bash, Sunder|30 sp|Scarce|
+
+## Polearms
+
+|Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
+|---|---|---|---|---|---|---|
+|Javelin|2|1H|5 ft Threat / 30 ft Thrown|Thrown|5 sp|Common|
+|Spear|2|1H/2H|10 ft Threat / 60 ft Thrown|Reach, Thrown|10 sp|Common|
+|Longspear|2|2H|10 ft Threat|Reach, Set, Cumbersome|12 sp|Common|
+|Trident|2|1H|10 ft Threat / 10 ft Thrown|Reach, Thrown|15 sp|Scarce|
+|Glaive|3|2H|10 ft Threat|Reach, Inertia|20 sp|Scarce|
+|Lance|3|2H|10 ft Threat|Reach, Set, Inertia|20 sp|Scarce|
+|Scythe|3|2H|5 ft Threat|Trip, Inertia|18 sp|Scarce|
+|Halberd / Poleaxe|5|2H|10 ft Threat|Reach, Cumbersome|45 sp|Scarce|
+
+## Flails 
+
+|Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
+|---|---|---|---|---|---|---|
+|Whip|0|1H|10 ft Threat|Reach, Disarm, Trip, non-Lethal|5 sp|Scarce|
+|Nunchaku|0|1H|5 ft Threat|Disarm, Concealable|6 sp|Scarce|
+|Flail|2|1H|5 ft Threat|Disarm, Trip|16 sp|Scarce|
+|Spiked Chain|2|2H|10 ft Threat|Reach, Disarm, Trip, finesse|25 sp|Scarce|
+|Heavy Flail|3|2H|5 ft Threat|Disarm, Trip, Precise|35 sp|Scarce|
+
+## Thrown 
+
+|Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
+|---|---|---|---|---|---|---|
+|Dart|0|1H|5 ft Threat / 20 ft Thrown|Thrown, Concealable|1 sp (cluster of 3 = 1 Slot)|Common|
+|Sling|0|1H|Ranged (Max: Medium / 50 ft)|Sidearm|2 sp|Common|
+|Shuriken|0|1H|5 ft Threat / 10 ft Thrown|Thrown, Concealable, Sidearm|8 sp (cluster of 3 = 1 Slot)|Scarce|
+|Bolas|0|1H|5 ft Threat / 10 ft Thrown|Thrown, Trip|5 sp|Scarce|
+|Net|—|1H|5 ft Threat / 10 ft Thrown|Entangling|20 sp|Scarce|
+
+## Bows
+
+|Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
+|---|---|---|---|---|---|---|
+|Blowgun|0|2H|Ranged (Max: Short / 20 ft)|Concealable|5 sp|Common|
+|Shortbow|2|2H|Ranged (Max: Long / 120 ft)|Volley|15 sp|Common|
+|Longbow|3|2H|Ranged (Max: Extreme / 125+ ft)|Volley|35 sp|Scarce|
+
+## Crossbows
+
+|Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
+|---|---|---|---|---|---|---|
+|Hand Crossbow|0|1H|Ranged (Max: Short / 30 ft)|Concealable, Sidearm, Reload|40 sp|Rare|
+|Light Crossbow|3|2H|Ranged (Max: Long / 120 ft)|Armor Piercing, Reload|30 sp|Scarce|
+|Repeating Heavy Crossbow|3|2H|Ranged (Max: Long / 120 ft)|Volley, Armor-Piercing, Repeating|90 sp|Rare|
+
+## Arcane Focus
+
+|Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
+|---|---|---|---|---|---|---|
+|Grimoire|—|1H|—|Repository: Holds your spells. If casting while open, you may spend 1 Momentum to cast a Novice spell without Locking a Stress slot for the first round (Reading it straight off the page).|15 sp|Scarce|
+|Mage Staff|—|2H|—|Reach, Bound, grounding rod.|45 sp|Rare|
+|Wand|—|1H|—|Conduit, Focus, Sidearm.|35 sp|Rare|
 
 ## Weapon Tags
-- Armour-Piercing: Ignores 1 Point of armour.
-- Bound:  enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
-    
+
+- Bound: enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
 - Bash: If your attack results in a Glancing Hit (Impact < Threshold), it deals +1 additional Dissonant Stress due to blunt force trauma.
-    
 - Brutal: If the Reactor rolls a Fumble (Natural 2) while defending against this weapon, they take 2 Stress instead of 1.
-    
 - Close-Quarters: suffers no penalties when In-Fighting.
-    
 - Concealable: Grants Advantage (3d6 keep 2) on rolls made to hide the weapon on your person.
-    
-- Conduit can be used to perform Somatic components. The caster weaves the geometry of the spell using the item itself, meaning their hand does not need to be empty. 
-    
+- Conduit can be used to perform Somatic components. The caster weaves the geometry of the spell using the item itself, meaning their hand does not need to be empty.
 - Cumbersome: The weapon is heavy and slow to ready. Imposes a -1 penalty on Activation order rolls.
-
-- Finesse: may use reflex instead of prowess in clashes.
-    
-- Focus: Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the wand, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
-    
-- Grounding Rod: grants Advantage on the Grounding (Wits + Arcana) check to unlock stress slots. 
-
-- Heavy Hitter : When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7. 
-
-- Heavy:  Required to inflict wounds on Gargantuan scale creatures.
-
+- finesse: may use reflex instead of prowess in clashes.
+- Focus: Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the item, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
+- Grounding Rod: grants Advantage on the Grounding (Wits + Arcana) check to unlock stress slots.
+- Heavy Hitter : When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7.
 - Inertia: If you win the Clash roll by a High Margin (5+), add +2 Power to the Final Impact.
-    
-- non-Lethal: strikes with this weapon can only cause Stress regardless of the Impact result. 
-    
-    
-- Reach: Threatens a 10-foot radius (2 grid squares).   Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
-    
+- non-Lethal: strikes with this weapon can only cause Stress regardless of the Impact result, will never spill over into wounds.
+- Precise: Ignores 1 Point of armour
+- Reach: Threatens a 10-foot radius (2 grid squares). Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
 - Reload: After firing, requires an Action to load the next shot.
-
-- Repository: Holds your spells. 
-    
 - Sidearm: Can be drawn as a Free Action without penalty.
-
 - Siege: Required to inflict wounds on Gargantuan scale creatures, and damage fortifications.
-
 - Sunder: If you inflict a Minor or Major Wound with this weapon, permanently reduce the target's Armor value by 1.
-    
 - Thrown: Can be hurled using the short range attack band. If used in melee, it retains its 5 ft Threat.
-    
 - Versatile: can be wielded 1H or 2H. If wielded 2H add 1 to the weapon power.
-    
 - Volley: Requires two hands and prevents the user from holding a Shield or Grimoire.
-    
 
 (Note on Ranged Weapons: firing a Ranged or Thrown weapon while an enemy is inside your 5-foot Threat Zone imposes Disadvantage on the attack roll).
 
+### New Tags (this update)
+
+- **Armor-Piercing:** Ignores 2 points of the target's Armor Value when calculating Impact — twice Precise's ignore-1.
+- **Trip:** As an Aggressor Strike with this weapon, you may forgo Impact on a win to instead knock the target Prone.
+- **Disarm:** As an Aggressor Strike with this weapon, you may forgo Impact on a win to force the target to pass a Prowess check vs TN 8 or drop what they're holding into an adjacent square.
+- **Set:** If this weapon is readied and an enemy voluntarily moves into your Threat Zone, your Strike against them gains a Charge's +2 Clash bonus and tie-break — without the -2 Reactor penalty a real Charge imposes on you.
+- **Double:** This two-handed weapon has two striking ends, each with its own Power (listed X/Y). It functions as a built-in Twin-Blade Stance: spend 1 Momentum on a won Clash to immediately follow up with the second Power value as Impact + 1 Stress, without needing a separate Sidearm weapon in your off hand.
+- **Repeating:** Holds multiple shots internally; does not require the Reload action between individual shots. Once the magazine is empty, reloading it fully requires a full Action.
+- **Entangling:** As an Aggressor action, forgo Impact on a win to instead apply the Anchored condition to the target (identical to the Entangle spell's effect).
 
 ##  ADVANCED SPECIALIZED WEAPONRY
 
 These variations add specific situational tactical tools to the baseline weapon tables.
 
-**The Estoc (Tuck)**
-- Cost: 45 sp | Availability: Scarce
-    
-- Stats: Power 2 | 1H | 5 ft Threat
-    
-- Tags: Finesse, Armor-Piercing
-    
-- 2d6 Special Rule: Designed specifically to pass between armor plates. If the Attack roll is a Perfect Form (rolling a natural 3 and 4 on the Clash check), this weapon completely ignores all physical Armor values and structural damage reduction, applying its full Impact raw to the Wound Threshold.
-    
+## ADVANCED SPECIALIZED WEAPONRY
 
-**The Barbed Spear   
+These variations add specific situational tactical tools to the baseline weapon tables.
+
+#### The Estoc (Tuck)
+
+- Cost: 45 sp | Availability: Scarce
+- Stats: Power 2 | 1H | 5 ft Threat
+- Tags: Precise, Armor-Piercing
+- 2d6 Special Rule: Designed specifically to pass between armor plates. If the Attack roll is a Perfect Form (rolling a natural 3 and 4 on the Clash check), this weapon completely ignores all physical Armor values and structural damage reduction, applying its full Impact raw to the Wound Threshold.
+
+#### The Barbed Spear
 
 - Cost: 25 sp | Availability: Common
-    
 - Stats: Power 2 | 1H/2H | 10 ft Threat
-    
-- Tags: Reach, versatile
-    
-- 2d6 Special Rule: *Cruel* : When you win a Clash with this weapon as an attack action, you can forego doing standard Impact damage to execute a Hook. The target is pinned at the tip of your spear; they cannot execute movement actions until they win an opposed Prowess check against you on their activation.
-    
+- Tags: Reach.
+- 2d6 Special Rule: When you win a Clash with this weapon as an attack action, you can forego doing standard Impact damage to execute a Hook. The target is pinned at the tip of your spear; they cannot execute Shift actions until they win an opposed Prowess check against you on their activation.
 
 #### The Heavy Arbalest
-    
 
 - Cost: 80 sp | Availability: Rare
-    
 - Stats: Power 5 | 2H | Ranged (Max: Long / 120 ft)
-    
-- Tags: Armor-Piercing, Cumbersome, Heavy
-    
-- 2d6 Special Rule: *Heavy Reload* : Requiring a literal windlass to crank. It takes two entire Move Actions to reload this weapon. However, its steel-headed bolts ignore the infantry projectile protections of shields (Cover tags are nullified) and deal +2 Impact against targets with Scale +1 or higher.
-
+- Tags: Armor-Piercing, Cumbersome, Heavy Reload
+- 2d6 Special Rule: Requiring a literal windlass to crank. It takes two entire Move Actions to reload this weapon. However, its steel-headed bolts ignore the infantry projectile protections of shields (Cover tags are nullified) and deal +2 Impact against targets with Scale +1 or higher.
 
 ## Reserved: Black Powder Ordnance *(placeholder — not designed yet)*
 
@@ -257,103 +314,276 @@ Flagging space for this rather than designing it now. Tentative bucketing, to be
 ________________________________________________________________________
 
 # Armour
-| Armor / Shield Name | Value     | Type   | Tags & Attributes    | Cost           | Availability |
-| ------------------- | --------- | ------ | -------------------- | -------------- | ------------ |
-| Padded / Gambeson   | +0 Armor  | Light  | Cushioned            | 5 sp           | Common       |
-| Leather             | +1 Armour | Light  | —                    | 12 sp          | Common       |
-| Chainmail / Scale   | +2 Armor  | Medium | Bulky                | 45 sp          | Scarce       |
-| Breast plate        | +3 Armour | Medium | Bulky, Cushioned     | 95sp           | Scarce       |
-| Plate Armor         | +4 Armor  | Heavy  | Restricted           | 200 sp (10 gs) | Rare         |
-| Buckler             | 2 SV      | Shield | Nimble               | 8 sp           | Common       |
-| Kite / Round Shield | 4 SV      | Shield | Cover                | 18 sp          | Common       |
-| Tower Shield        | 5 SV      | Shield | Bulwark, Obstructive | 40 sp          | Scarce       |
-Plate at 200sp deliberately outcosts the Heavy Arbalest (80sp) — a full suit of armor should cost more than a single weapon — and 10 gs matches the existing fluff that gold is "held only by nobility and wealthy cartels."
-## Armour and Shield Tags
-- Bulky: The weight and noise of the armor make it hard to move gracefully. Imposes a -1 penalty on Athletics and Stealth and Arcana rolls.
-    
-- Bulwark: The massive size allows you to plant it firmly into the ground. Grants a +2 bonus to Clash rolls when using the Block Reactor action.
-    
-- Cover: Provides excellent physical obstruction from missiles. Grants Advantage (3d6 Keep 2) to your defense rolls against ranged attacks.
-    
-- Cushioned: Thick layers of cloth absorb minor impacts. Negates the first point of Dissonant Stress you would take from a Glancing Hit each combat round.
-    
-- Nimble: Light enough to be actively punched out or used to deflect. Allows the user to roll Reflex instead of Prowess when performing a Block action.
-    
-- Obstructive: The sheer size of this shield gets in the way of evasive footwork. Imposes a -2 penalty to all Dodge actions.
-    
+|Armor / Shield Name|Value|Type|Tags & Attributes|Cost|Availability|
+|---|---|---|---|---|---|
+|Padded / Gambeson|+0 Armor|Light|Cushioned|5 sp|Common|
+|Leather|+1 Armour|Light|—|12 sp|Common|
+|Chain Shirt|+2 Armor|Light|—|70 sp|Scarce|
+|Chainmail / Scale|+2 Armor|Medium|Bulky|45 sp|Scarce|
+|Breastplate|+3 Armor|Medium|Bulky|120 sp|Rare|
+|Plate Armor|+4 Armor|Heavy|Restricted|200 sp (10 gs)|Rare|
+|Buckler|2 SV|Shield|Nimble|8 sp|Common|
+|Kite / Round Shield|4 SV|Shield|Cover|18 sp|Common|
+|Tower Shield|5 SV|Shield|Bulwark, Obstructive|40 sp|Scarce|
 
+## Armour and Shield Tags
+
+- Bulky: The weight and noise of the armor make it hard to move gracefully. Imposes a -1 penalty on Athletics and Stealth and Arcana rolls.
+- Bulwark: The massive size allows you to plant it firmly into the ground. Grants a +2 bonus to Clash rolls when using the Block Reactor action.
+- Cover: Provides excellent physical obstruction from missiles. Grants Advantage (3d6 Keep 2) to your defense rolls against ranged attacks.
+- Cushioned: Thick layers of cloth absorb minor impacts. Negates the first point of Dissonant Stress you would take from a Glancing Hit each combat round.
+- Nimble: Light enough to be actively punched out or used to deflect. Allows the user to roll Reflex instead of Prowess when performing a Block action.
+- Obstructive: The sheer size of this shield gets in the way of evasive footwork. Imposes a -2 penalty to all Dodge actions.
 - Restricted: The heavy plates and limited visibility slow your reaction time. You can never be first in the activation order when rolling for activation order. If you roll the highest result, you will slip down to be second, behind the next highest. you will never win activation order ties. Impossible to recreate the intricate movements required in Arcane spell casting, cannot cast Arcane spells whilst wearing. Reduces movement speed by 10ft.
 
  **CRITICAL UTILITY ARMOR MODIFICATIONS**
 
 Instead of just buying entirely new suits of plate, characters in a low-fantasy setting weld, rivet, and bolt additions to their existing kit.
 
- *Reinforced Riveted Pauldrons (Armor Add-on)*   
+_Reinforced Riveted Pauldrons (Armor Add-on)_
 
 - Cost: 20 sp | Availability: Common
-    
 - Rules: Requires a suit of Medium or Heavy armor to attach. Adds a flat +1 to your Wound Threshold (WT). However, the added shoulder bulk restricts head movement; you suffer a permanent -1 penalty to your activation order rolls.
-    
 
- *Visored Great-Helm (Headpiece Modification)*    
+_Visored Great-Helm (Headpiece Modification)_
 
 - Cost: 35 sp | Availability: Scarce
-    
 - Rules: When an enemy achieves an Ace (exploding 6) or a Critical success against you, you can choose to have the helm take the structural brunt. The attack does standard damage instead of critical/bonus damage, but the helm's visor is bent shut. For the remainder of the combat, your actions suffer Disadvantage due to near-total blindness until an action is spent tearing the helm off.
-    
 
-*Oil-Cured Gambeson (Under-layer Layering)*    
+_Oil-Cured Gambeson (Under-layer Layering)_
 
 - Cost: 15 sp | Availability: Common
-    
 - Rules: Can be worn under Chainmail or Scale armor. Grants the Cushioned tag (Negates the first point of Dissonant Stress you would take from a Glancing Hit each combat round).
+
+_Armor Spikes (Armor Add-on)_
+
+- Cost: 15 sp | Availability: Scarce
+- Rules: When an enemy loses a Grab or Shove Clash against you, they suffer 1 Impact from the spikes.
+
+_Locked Gauntlet (Armor Add-on)_
+
+- Cost: 5 sp | Availability: Common
+- Rules: Grants Advantage on Prowess checks made to resist being disarmed.
+
+_Shield Spikes (Shield Add-on)_
+
+- Cost: 8 sp | Availability: Common
+- Rules: When you win a Shove action using this shield, deal +1 Impact on top of the standard result.
 
 
 ______________________________________________________________________
 
 # Expedition Gear
 
+| Item                                                | Slots    | Cost          | Availability | Notes                                                                                                                                                                                                      |
+| --------------------------------------------------- | -------- | ------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Backpack                                            | 0 (worn) | 3 sp          | Common       | Exempted from Slots like worn armor — it's the frame the Pack lives in, not an item inside it, and grants no bonus capacity.                                                                               |
+| Barrel (empty)                                      | 2        | 8 sp          | Common       | Bulky; rigid — costs its Slots even empty (see Section 0b).                                                                                                                                                |
+| Basket (empty)                                      | 1        | 1 sp          | Common       | Rigid — costs its Slot even empty.                                                                                                                                                                         |
+| Bedroll                                             | 1        | 2 sp          | Common       | —                                                                                                                                                                                                          |
+| Bell                                                | 0        | 3 sp          | Common       | —                                                                                                                                                                                                          |
+| Blanket, winter                                     | 1        | 3 sp          | Common       | —                                                                                                                                                                                                          |
+| Block and tackle                                    | 1        | 12 sp         | Scarce       | Advantage on Athletics checks to lift/hoist loads beyond your own strength.                                                                                                                                |
+| Bottle, glass                                       | 0        | 2 sp          | Common       | —                                                                                                                                                                                                          |
+| Bucket (empty)                                      | 1        | 2 sp          | Common       | —                                                                                                                                                                                                          |
+| Caltrops (bag)                                      | 0        | 4 sp          | Common       | Move Action to scatter across one square. First creature to enter it without noticing (failed Notice vs. your Margin) rolls Reflex + Acrobatics vs TN 8 or takes 1 Stress and half Movement for the round. |
+| Candle / Chalk / Firewood / Torch / Tindertwig      | 0        | ~1 cp each    | Common       | Flavor only — light and fuel are tracked by the Community Supply Die during a dungeon crawl. Price these individually only for town/travel bookkeeping.                                                    |
+| Canvas (sq. yd.)                                    | 0        | 1 sp          | Common       | —                                                                                                                                                                                                          |
+| Case, map or scroll                                 | 0        | 2 sp          | Common       | —                                                                                                                                                                                                          |
+| Chain (10 ft.)                                      | 1        | 15 sp         | Scarce       | —                                                                                                                                                                                                          |
+| Chest (empty)                                       | 2        | 5 sp          | Common       | Rigid — costs 2 Slots whether empty or full, and grants no bonus capacity of its own. Note: _Hardware_'s "small treasure chest" example is a found-loot abstraction, a different use case from this.       |
+| Crowbar                                             | 1        | 3 sp          | Common       | Advantage on Athletics/Thievery checks to force a door, crate, or portcullis latch.                                                                                                                        |
+| Fishhook / Fishing net                              | 0 / 1    | 1 sp / 4 sp   | Common       | —                                                                                                                                                                                                          |
+| Flask (empty) / Vial                                | 0        | 3 cp / 1 sp   | Common       | Stacks per the existing "cluster of 3 potions = 1 Slot" rule.                                                                                                                                              |
+| Flint and steel                                     | 0        | 2 sp          | Common       | —                                                                                                                                                                                                          |
+| Grappling hook                                      | 1        | 3 sp          | Common       | Pairs with Rope, below.                                                                                                                                                                                    |
+| Hammer                                              | 1        | 2 sp          | Common       | —                                                                                                                                                                                                          |
+| Hourglass                                           | 1        | 20 sp         | Scarce       | —                                                                                                                                                                                                          |
+| Ink, inkpen, paper, parchment, sealing wax          | 0        | 1–2 sp bundle | Common       | —                                                                                                                                                                                                          |
+| Ladder, 10-foot                                     | 2        | 3 sp          | Common       | Bulky, awkward — doesn't fold into a pocket regardless of price.                                                                                                                                           |
+| Lamp, common                                        | 0        | 2 sp          | Common       | See Hooded Bullseye Lantern in _Hardware_ (12 sp, Scarce) for the tactical version.                                                                                                                        |
+| Manacles                                            | 1        | 15 sp         | Scarce       | Escaping requires a Thievery or Athletics check at **Difficult (-2)** instead of Standard.                                                                                                                 |
+| Manacles, masterwork                                | 1        | 45 sp         | Rare         | As above, at **Extreme (-4)**.                                                                                                                                                                             |
+| Mirror, small steel                                 | 0        | 5 sp          | Common       | —                                                                                                                                                                                                          |
+| Mug/Tankard, Pitcher, Pot                           | 0        | 2 cp – 3 sp   | Common       | —                                                                                                                                                                                                          |
+| Oil (1-pint flask)                                  | 0        | 1 sp          | Common       | Fictional fuel for Naphtha Fire-Flasks and lanterns alike.                                                                                                                                                 |
+| Pick, miner's / Shovel / Sledge                     | 1        | 2–3 sp        | Common       | —                                                                                                                                                                                                          |
+| Pole, 10-foot                                       | 1        | 2 sp          | Common       | —                                                                                                                                                                                                          |
+| Pouch, belt (empty)                                 | 0        | 1 sp          | Common       | —                                                                                                                                                                                                          |
+| Ram, portable                                       | 2        | 10 sp         | Scarce       | Advantage on Athletics checks to break down a door.                                                                                                                                                        |
+| Rations, trail                                      | 0        | 2 sp/day      | Common       | Tracked by the Community Supply Die inside a dungeon — don't double-track. Priced here only for overland travel montages and Downtime.                                                                     |
+| Rope, hemp (50 ft.)                                 | 1        | 2 sp          | Common       | Direct match for the "coiled rope" example already in _Hardware_.                                                                                                                                          |
+| Rope, silk (50 ft.)                                 | 1        | 15 sp         | Scarce       | As above; Advantage on Thievery checks using it (silent bindings, garrotes).                                                                                                                               |
+| Sack (empty)                                        | 0        | 1 sp          | Common       | Soft/collapsible — 0 Slots until it's holding something with its own Slot cost.                                                                                                                            |
+| Sewing needle / Signal whistle / Signet ring / Soap | 0        | 1–5 sp        | Common       | —                                                                                                                                                                                                          |
+| Shovel or spade                                     | 1        | 2 sp          | Common       | —                                                                                                                                                                                                          |
+| Spyglass                                            | 1        | 90 sp         | Rare         | Advantage on Notice checks made at Long or Extreme Range.                                                                                                                                                  |
+| Tent                                                | 2        | 8 sp          | Common       | —                                                                                                                                                                                                          |
+| Water clock                                         | —        | —             | Legendary    | A city fixture, not a carried item. Not normally purchasable by PCs.                                                                                                                                       |
+| Waterskin                                           | 0        | 1 sp          | Common       | —                                                                                                                                                                                                          |
+| Whetstone                                           | 0        | 1 sp          | Common       | Mundane, feat-free version of the Spit and Twine feat's Patch Job: as a Regroup action, roll Crafting vs TN 8 to ignore the Damaged tag on one weapon for the rest of the encounter.                       |
+
 **TACTICAL EXPEDITION GEAR**
 
 Practical kits that anchor survival and optimize downtime actions.
 
-*Iron Pitons & Sledge (Set of 6)*    
+_Iron Pitons & Sledge (Set of 6)_
 
 - Cost: 5 sp | Availability: Common
-    
 - Tactical Rule: During a movement or preparation phase, a player can spend an action to spike a heavy iron door or narrow passageway shut. Enemies attempting to bypass this square or break the door must spend a Full Action and pass a Prowess check vs TN 8 to smash the piton out, buying the party vital tactical rounds.
-    
 
-*Field  Surgeon Kit*    
+_Field Surgeon Kit_
 
 - Cost: 50 sp | Availability: Rare
-    
 - Downtime Rule: Possessing this kit grants a flat +2 bonus to all "Tend to the Flesh" downtime checks. It contains fine bone saws, clean linen sheets, and non-rancid cauterizing irons. Contains enough specialized thread for 6 uses before requiring an acquisition roll to restock.
-    
 
-*Hooded Bullseye Lantern*    
+_Hooded Bullseye Lantern_
 
 - Cost: 12 sp | Availability: Scarce
-    
 - Tactical Rule: Illuminates a tight, 30-foot cone directly ahead. Any character standing inside the dark zone outside of this cone has absolute Advantage on stealth. However, if an enemy is caught directly in the beam during a Draw (Initiative phase), they lose any ambush bonuses because their night vision is instantly shattered by the focused beam.
--
-*Holy Symbol*
-- **Cost:** 5 sp | **Availability:** Common
-- **Rules:** Required to manifest Miracles — per *The Marrow*'s Divine Conduit feat, a Priest must "speak the litany and bear your symbol" to cast. A Symbol bound to a Domain via the Covenant path can never hold a different entity's Miracles (no later switching, per Divine Conduit). 0 Slots — worn/carried, per the Inventory micro-item exemption.
 
+_Holy Symbol_
+
+- **Cost:** 5 sp | **Availability:** Common
+- **Rules:** Required to manifest Miracles — per _The Marrow_'s Divine Conduit feat, a Priest must "speak the litany and bear your symbol" to cast. A Symbol bound to a Domain via the Covenant path can never hold a different entity's Miracles (no later switching, per Divine Conduit). 0 Slots — worn/carried, per the Inventory micro-item exemption.
+
+_Holy Symbol, Silver_
+
+- **Cost:** 15 sp | **Availability:** Scarce
+- **Rules:** A cosmetic/prestige upgrade over the standard Holy Symbol above — **no mechanical bonus.** 
+
+___________________________________________________________________
 ## ALCHEMICAL WARES & FIELD CONSUMABLES
 
 Alchemical supplies are highly volatile, unstable, and often act as a mechanical double-edged sword.
 
-| Item Name            | Cost  | Avail. | Mechanical 2d6 & Resource Output                                                                                                                                                                                                                                                                        |
-| -------------------- | ----- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Grave-Dust Poultice  | 8 sp  | Common | Field Medicine: Used as a Full Action. Instantly clears 1 filled Wound slot. However, due to the filth of the compounds, the target must roll a Prowess check vs TN 8. On a failure, they take 1 point of Dissonant Stress from spreading infection.                                                    |
-| Black-Root Draught   | 15 sp | Scarce | Caster Exhaustion: Used as a Move Action. Instantly unlocks 2 Locked Stress slots for an Arcane caster. However, it drains physical stamina; at the absolute end of the current scene, the character automatically fills 1 physical Wound slot from systemic toxicity.                                  |
-| Witch-Spur Salve     | 12 sp | Scarce | Nerve Numbing: Rubbed into the temples as a Move Action. Grants absolute immunity to the Terrifying trait and psychological panic checks for the next scene. The Catch: It instantly fills and locks 1 Dissonant Stress slot for the duration of the scene, reducing the user's maximum stress ceiling. |
-| Vitriol Solvent      | 25 sp | Rare   | Armor Melt: Applied to a bladed or Armour-piercing weapon as a Full Action. For the next 3 combat rounds, the weapon gains the Sunder tag. If a strike hits a target with the Plated trait, that trait is suppressed for the rest of the encounter.                                                     |
-| Naphtha Fire-Flask   | 30 sp | Rare   | Zone Control: Can be thrown (Ranged, Max 30ft). Shatters upon a square/zone. Anyone occupying or entering the zone during the next 3 rounds must pass a Reflex + Dodge check vs TN 8 or take a flat 2 Impact damage and 1 Dissonant Stress from chemical burns.                                         |
-| Arcane Salts         | 8sp   | common | A violently harsh alchemical stimulant. Using it as a Move Action instantly unlocks 1 Locked Stress slot, but immediately inflicts 1 normal Dissonant Stress on the user from the chemical shock..                                                                                                      |
-| Philter of Focus     | 20sp  | scarce | Grants **Advantage** on the next Grounding check performed in the scene.                                                                                                                                                                                                                                |
-| Corpse-Weed Resin    | 6 sp  | Common | Lethargy: For the first combat encounter after the Breather, the user cannot generate Momentum, as their nervous system is too dulled. Clears 1 Locked Stress. Can be smoked during a 30-minute Breather.                                                                                               |
-| Marrow-Glass Ampoule | 40 sp | Rare   | The Crash: At the end of the combat encounter, the user immediately suffers 1 Minor physical Wound from the violent chemical shock to their heart. Instant Override: Can be injected mid-combat as a Free Reaction. Converts all currently Locked Stress back into standard Dissonant Stress.           |
-| Surgical Spirits     | 10 sp | Common | Tremors: The user permanently suffers Disadvantage on any Prowess or Arcana rolls requiring fine motor skills until they return to a town(long rest/pursuit) to fully detox. Taken during a Breather. Numbness allows the user to clear 2 Locked Stress.                                                |
+| Item Name            | Cost  | Avail.  | Slots | Mechanical 2d6 & Resource Output                                                                                                                                                                                                                                                                        |
+| -------------------- | ----- | ------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Grave-Dust Poultice  | 8 sp  | Common  | 1/3   | Field Medicine: Used as a Full Action. Instantly clears 1 filled Wound slot. However, due to the filth of the compounds, the target must roll a Prowess check vs TN 8. On a failure, they take 1 point of Dissonant Stress from spreading infection.                                                    |
+| Black-Root Draught   | 15 sp | Scarce  | 1/3   | Caster Exhaustion: Used as a Move Action. Instantly unlocks 2 Locked Stress slots for an Arcane caster. However, it drains physical stamina; at the absolute end of the current scene, the character automatically fills 1 physical Wound slot from systemic toxicity.                                  |
+| Witch-Spur Salve     | 12 sp | Scarce  | 1/3   | Nerve Numbing: Rubbed into the temples as a Move Action. Grants absolute immunity to the Terrifying trait and psychological panic checks for the next scene. The Catch: It instantly fills and locks 1 Dissonant Stress slot for the duration of the scene, reducing the user's maximum stress ceiling. |
+| Vitriol Solvent      | 25 sp | Rare    | 1/3   | Armor Melt: Applied to a bladed or Armour-piercing weapon as a Full Action. For the next 3 combat rounds, the weapon gains the Sunder tag. If a strike hits a target with the Plated trait, that trait is suppressed for the rest of the encounter.                                                     |
+| Naphtha Fire-Flask   | 30 sp | Rare1/3 |       | Zone Control: Can be thrown (Ranged, Max 30ft). Shatters upon a square/zone. Anyone occupying or entering the zone during the next 3 rounds must pass a Reflex + Dodge check vs TN 8 or take a flat 2 Impact damage and 1 Dissonant Stress from chemical burns.                                         |
+| Arcane Salts         | 8sp   | common  | 1/3   | A violently harsh alchemical stimulant. Using it as a Move Action instantly unlocks 1 Locked Stress slot, but immediately inflicts 1 normal Dissonant Stress on the user from the chemical shock..                                                                                                      |
+| Philter of Focus     | 20sp  | scarce  | 1/3   | Grants **Advantage** on the next Grounding check performed in the scene.                                                                                                                                                                                                                                |
+| Corpse-Weed Resin    | 6 sp  | Common  | 1/3   | Lethargy: For the first combat encounter after the Breather, the user cannot generate Momentum, as their nervous system is too dulled. Clears 1 Locked Stress. Can be smoked during a 30-minute Breather.                                                                                               |
+| Marrow-Glass Ampoule | 40 sp | Rare    | 1/3   | The Crash: At the end of the combat encounter, the user immediately suffers 1 Minor physical Wound from the violent chemical shock to their heart. Instant Override: Can be injected mid-combat as a Free Reaction. Converts all currently Locked Stress back into standard Dissonant Stress.           |
+| Surgical Spirits     | 10 sp | Common  | 1/3   | Tremors: The user permanently suffers Disadvantage on any Prowess or Arcana rolls requiring fine motor skills until they return to a town(long rest/pursuit) to fully detox. Taken during a Breather. Numbness allows the user to clear 2 Locked Stress.                                                |
+| Antitoxin (vial)     | 20 sp | Scarce  | 0     | Drunk as a Free Action before a Poison check. Grants Advantage on the next Prowess check made to resist the Poisoned condition this scene.                                                                                                                                                              |
+| Everburning Torch    | 40 sp | Rare    | 1     | Permanent arcane light source. Never consumes a Supply Die step.                                                                                                                                                                                                                                        |
+| Sunrod               | 5 sp  | Common  | 0     | As Everburning Torch, but burns out at scene's end.                                                                                                                                                                                                                                                     |
+| Holy Water (flask)   | 15 sp | Scarce  | 0     | Thrown as a Ranged (Short) attack; only affects targets with the Undead or Void-Touched tag. On a hit, deals 1 Impact ignoring Armor.                                                                                                                                                                   |
+| Smokestick           | 15 sp | Scarce  | 0     | Snapped as a Move Action. Creates a 5 ft. radius of Heavily Obscured terrain for 1 round (per the Environmental cover rules in _Iron World_).                                                                                                                                                           |
+| Tanglefoot Bag       | 20 sp | Scarce  | 0     | Thrown (Short Range). On a hit, the target is Anchored until they spend a full Aggressor action tearing free — mechanically identical to the Entangle spell's Margin 1–2 result.                                                                                                                        |
+| Thunderstone         | 20 sp | Scarce  | 0     | Thrown; explodes in a 10 ft. radius. Everyone caught rolls Prowess vs TN 8 or gains the Distracted condition (-1 to rolls until their next Activation).                                                                                                                                                 |
+
+## Tools & Skill Kits
+
+| Item                           | Slots                                | Cost   | Availability     | Effect                                                                                                                                                                                                                                                                           |
+| ------------------------------ | ------------------------------------ | ------ | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Alchemist's Lab                | — (stationary facility, not carried) | 150 sp | Rare, City-tier+ | Required for reliable Hammer & Forge-style Crafting of Alchemical Wares outside of desperate battlefield chemistry (the Scrounger's Volatile Concoction feat already covers the field-expedient version).                                                                        |
+| Artisan's tools (per trade)    | 1                                    | 5 sp   | Common           | Required to attempt a Crafting check in that trade without Disadvantage.                                                                                                                                                                                                         |
+| Artisan's tools, masterwork    | 1                                    | 20 sp  | Scarce           | +1 flat bonus to that trade's Crafting check (same logic as Masterwork Quality weapons/armor).                                                                                                                                                                                   |
+| Climber's Kit                  | 1                                    | 25 sp  | Scarce           | Advantage on Athletics checks made specifically to climb.                                                                                                                                                                                                                        |
+| Disguise Kit                   | 1                                    | 15 sp  | Scarce           | Grants Advantage on the unopposed Wits + Arcana-equivalent roll for a mundane disguise (resolved exactly like the Disguise spell's Illusion check — Notice vs. your Margin to see through it).                                                                                   |
+| Healer's Kit                   | 1                                    | 15 sp  | Common           | Cheaper cousin of the Field Surgeon's Kit: +1 (not +2) to Tend to the Flesh checks, and holds only 2 uses before restocking.                                                                                                                                                     |
+| Magnifying Glass               | 0                                    | 30 sp  | Scarce           | Advantage on Notice checks made on small or fine details (forgeries, tiny inscriptions).                                                                                                                                                                                         |
+| Musical Instrument, common     | 1                                    | 5 sp   | Common           | Flavor.                                                                                                                                                                                                                                                                          |
+| Musical Instrument, masterwork | 1                                    | 40 sp  | Scarce           | +1 flat bonus to an Influence check made while performing with it.                                                                                                                                                                                                               |
+| Scale, merchant's              | 0                                    | 3 sp   | Common           | Advantage on Insight/Notice checks to catch a rigged deal or counterfeit coin.                                                                                                                                                                                                   |
+| Spell Component Pouch          | —                                    | —      | —                | **Not needed.** Grimoire/Wand/Staff already fill the Arcane Focus role; a separate component pouch would be a redundant subsystem.                                                                                                                                               |
+| Spellbook, wizard's (blank)    | —                                    | —      | —                | This is just an unfilled Grimoire (15 sp, Scarce, already in _Hardware_) — no separate item.                                                                                                                                                                                     |
+| Thieves' Tools                 | 1                                    | 20 sp  | Scarce           | Required to attempt a Thievery check against locks/mechanisms without Disadvantage.                                                                                                                                                                                              |
+| Thieves' Tools, masterwork     | 1                                    | 60 sp  | Rare             | As above, +1 flat bonus to the check.                                                                                                                                                                                                                                            |
+| Holy Symbol, silver            | 0                                    | 15 sp  | Scarce           | Cosmetic/prestige upgrade over the standard Holy Symbol (5 sp) only — **no mechanical bonus.** Faith runs on the Tithe of Will, not item bonuses; don't let this quietly become a "+1 Faith" item later, or it breaks parity with Domains that have no silver-symbol equivalent. |
+
+## Clothing
+All Clothing is worn (0 Slots). Prices are flavor-tier, but a few outfits earn a Situational Modifier hook consistent with how _Tools for the Nameless_ already handles court dress and cold-weather Hazard checks.
+
+| Item                                      | Cost             | Availability | Notes                                                                                                                                                            |
+| ----------------------------------------- | ---------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Peasant's outfit                          | 1 sp             | Common       | —                                                                                                                                                                |
+| Traveler's / Artisan's outfit             | 3 sp             | Common       | —                                                                                                                                                                |
+| Entertainer's / Monk's / Scholar's outfit | 5–8 sp           | Common       | —                                                                                                                                                                |
+| Cleric's vestments                        | 8 sp             | Common       | —                                                                                                                                                                |
+| Cold-weather outfit                       | 10 sp            | Common       | Negates the Hazard Check penalty specifically for cold-based environmental hazards (per _Iron World_'s Hazard Roll rules).                                       |
+| Explorer's outfit                         | 12 sp            | Common       | —                                                                                                                                                                |
+| Courtier's outfit                         | 40 sp            | Scarce       | GM may apply a +2 Advantageous modifier on Influence checks in high-society settings where dress matters — and, symmetrically, a -2 for showing up underdressed. |
+| Noble's outfit                            | 90 sp            | Rare         | As above.                                                                                                                                                        |
+| Royal outfit                              | 250 sp (12.5 gs) | Legendary    | As above; also a strong narrative flag on its own.                                                                                                               |
+
+## Food, Drink & Lodging
+these prices are for **town scenes and Downtime bookkeeping** — buying a round, paying for a room, throwing a banquet. They are **not** for tracking dungeon rations; that's what the Community Supply Die already abstracts. 
+
+| Item                           | Cost                | Availability |
+| ------------------------------ | ------------------- | ------------ |
+| Ale, mug                       | 4 cp                | Common       |
+| Ale, gallon                    | 4 sp                | Common       |
+| Bread, loaf                    | 2 cp                | Common       |
+| Cheese, hunk                   | 1 sp                | Common       |
+| Meat, chunk                    | 2 sp                | Common       |
+| Meal, poor / common / good     | 1 sp / 2 sp / 4 sp  | Common       |
+| Inn stay, poor / common / good | 2 sp / 5 sp / 15 sp | Common       |
+| Wine, common pitcher           | 2 sp                | Common       |
+| Wine, fine bottle              | 35 sp               | Scarce       |
+| Banquet (per person)           | 30 sp               | Scarce       |
+
+## Mounts, Tack & Barding
+_Combat-trained mounts don't panic from ordinary Fear-Inducing effects (they're bred/drilled for it) but are not immune to Terrifying-tier effects._
+
+| Mount                       | Scale      | Move         | Wound Threshold  | Stress Limit | Cost           | Availability |
+| --------------------------- | ---------- | ------------ | ---------------- | ------------ | -------------- | ------------ |
+| Donkey / Mule               | Small (-1) | 20 ft (4 sq) | 3                | 3            | 12 sp          | Common       |
+| Pony                        | Small (-1) | 25 ft (5 sq) | 3                | 3            | 20 sp          | Common       |
+| Guard Dog                   | Small (-1) | 40 ft (8 sq) | 3                | 3            | 15 sp          | Common       |
+| Light Horse                 | Large (+1) | 40 ft (8 sq) | 6                | 4            | 60 sp          | Scarce       |
+| Light Horse, combat trained | Large (+1) | 40 ft (8 sq) | 8 _(+1 Prowess)_ | 4            | 90 sp          | Scarce       |
+| Heavy Horse (warhorse)      | Large (+1) | 35 ft (7 sq) | 8 _(+1 Prowess)_ | 4            | 150 sp         | Rare         |
+| Heavy Horse, combat trained | Large (+1) | 35 ft (7 sq) | 8                | 4            | 220 sp (11 gs) | Rare         |
+
+**Tack:**
+**Barding:** priced as **2× the base armor's sp cost**, reflecting the extra material a Large-scale mount requires. A barded mount carries the same tag penalties as a rider would (Bulky armor still imposes its usual -1 penalties). Example: Chainmail barding = 90 sp; Plate barding = 400 sp (20 gs), Rare/exotic, warhorse-only.
+
+| Item               | Cost  | Availability | Notes                                                                                                                                                          |
+| ------------------ | ----- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bit and bridle     | 3 sp  | Common       | —                                                                                                                                                              |
+| Riding saddle      | 8 sp  | Common       | —                                                                                                                                                              |
+| Pack saddle        | 5 sp  | Common       | —                                                                                                                                                              |
+| Military saddle    | 15 sp | Scarce       | Advantage on the Ride skill check to stay mounted when your mount is Shoved, spooked, or knocked.                                                              |
+| Saddlebags         | 6 sp  | Common       | Grants 2 additional Pack-equivalent Slots that live on the mount rather than the rider — still requires a Regroup-equivalent action to dig through mid-combat. |
+| Feed (per day)     | 3 cp  | Common       | —                                                                                                                                                              |
+| Stabling (per day) | 1 sp  | Common       | —                                                                                                                                                              |
+
+## Transport
+Campaign-scale assets, not inventory items — no Slots apply. Anything ship-sized should be treated as Commission-gated per _Soothing the Soul_ (Capital/Metropolis settlement tier, GM narrative gatekeeping), not a walk-in purchase.
+
+| Item             | Cost                        | Availability                |
+| ---------------- | --------------------------- | --------------------------- |
+| Rowboat          | 25 sp                       | Common                      |
+| Cart             | 20 sp                       | Common                      |
+| Sled             | 25 sp                       | Common                      |
+| Wagon            | 45 sp                       | Scarce                      |
+| Carriage         | 90 sp                       | Rare                        |
+| Keelboat         | 300 sp (15 gs)              | Rare                        |
+| Longship         | 1,500 sp (75 gs)            | Legendary, Commission-gated |
+| Sailing Ship     | 2,000 sp (100 gs)           | Legendary, Commission-gated |
+| Galley / Warship | 5,000–6,000 sp (250–300 gs) | Legendary, Commission-gated |
+
+## Spellcasting, Miracles & Hired Services
+
+| Service             | Cost      | Notes |
+| ------------------- | --------- | ----- |
+| Coach cab           | 3 cp/mile | —     |
+| Messenger           | 2 cp/mile | —     |
+| Road or gate toll   | 1 cp      | —     |
+| Ship's passage      | 1 sp/mile | —     |
+| Hireling, untrained | 5 cp/day  | —     |
+| Hireling, trained   | 3 sp/day  | —     |
+
+| Spell/Miracle Level | Price      |
+| ------------------- | ---------- |
+| Cantrip             | 15 sp      |
+| Novice              | 30 sp      |
+| Adept / Apprentice  | 60 sp      |
+| Master              | 120–150 sp |
+_Resurrection is explicitly excluded from this table — at 8 Locked Stress cost to the caster and a Master Miracle to begin with, it should never be a walk-up shop purchase. Treat it as Commission-gated, if available at all._
