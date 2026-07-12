@@ -1,0 +1,37 @@
+A werewolf is actually a great proof-of-concept for the Bane/Type work we just did, so let me build one that pays it off directly — regeneration with a silver weakness, the Lycanthrope+Humanoid dual-type actually mattering, and a Break behavior that has to make a real call given that dual-type. Here's the full stat block:
+
+---
+
+# The Barrow-Fang
+
+> *"The howls stopped an hour before it found us. That's when Corvis said we should've kept moving."*
+
+## Vital Statistics
+- **Tier:** Elite
+- **Type:** Lycanthrope, Humanoid
+- **Size:** Large (Scale +1)
+- **Stats:** Prowess +2, Reflex +2 *(Assumed Zero: Wits, Will — whatever reasoned it out died the first time it changed.)*
+- **Skills:** Melee +2, Dodge +1, Notice +1 *(Assumed Zero: everything else.)*
+- **Derived stats:**
+  - Wound Threshold: **8** *(4 + Prowess 2 + Scale +2)*
+  - Stress Limit: **5** *(4 + Will 0 + Wits 0 + 1 Elite)*
+- **Equipment:** None — natural weapons only. Bite & Claw (Power 2). Strike Roll: 2d6 + 4 (Prowess 2 + Melee 2).
+- **Traits (3):**
+  - **Cursed Regeneration:** At the start of the Barrow-Fang's activation, it automatically heals 1 Wound Slot and clears 1 Stress. *Weakness:* any Wound inflicted by a weapon carrying a Lycanthrope Bane effect (Silvered Edge, per Hardware) permanently suppresses this trait for the rest of the encounter — the same shape as the Frost-Cave Troll's fire weakness, with silver standing in for flame.
+  - **Vicious:** If the Barrow-Fang inflicts damage on a PC, the target must immediately pass a Prowess check or gain the Bleeding condition.
+  - **Ambusher:** Gains Advantage on the Clash roll if attacking an unaware target from Stealth.
+- **Vessel Limit:** 2
+- **Threat Abilities (2):**
+  - **Cost 1 Threat — Howl of the Hunt:** *Trigger:* Declared at the start of the Barrow-Fang's activation. *Effect:* Every player within 30 ft who can hear it must pass a Will + Resolve check vs. TN 8 or gain the Fear condition (targeting the Barrow-Fang) for the rest of the encounter.
+  - **Cost 2 Threat — Rend and Pin:** *Trigger:* Declared on a successful Melee Clash with a Margin of 3+. *Effect:* In addition to normal Impact, the target is knocked Prone and pinned — they cannot stand or take a Move Action until they win an opposed Prowess check against the Barrow-Fang (attempted as a Free Action on their own activation).
+
+## Phases
+- **Behaviour when unbroken:** Hunts with patient, almost human cunning before the change fully takes hold — uses Ambusher to open the fight from cover rather than announcing itself, closing to melee only once an opening is certain. The Howl is a closer's move, not an opener: spent once it's confident the fight is already lost for its prey.
+- **Behaviour when Broken:** Per the GM Tools NPC Stress rules, this resolves as **Frenzy** (Beasts & Monsters), not Surrender (Humanoid Elites) — a deliberate call given the dual Type. The wolf, not the person, is what's left once the mind goes: it loses Dodge and Block entirely but gains Advantage on all Strike rolls until it dies. *If your table wants a tragic "still human underneath" beat instead, this is the specific creature to house-rule to Surrender — but the trope reading is Frenzy.*
+- **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
+
+---
+
+A few calls worth flagging rather than burying: **WT8 with Large Scale** slots it between the Cultist Assassin (WT4, a glass-cannon dodge build) and the Trolls/Goliath (WT9–11) — a credible mid-pack Elite rather than a reskinned Troll. And I deliberately made the Break behavior a live decision rather than picking silently, since giving it both Lycanthrope and Humanoid Types (the first actual multi-type creature in the Bestiary) creates a genuine fork between GM Tools' two existing break-states — I went with Frenzy as the truer trope read, but flagged the Surrender alternative right in the stat block for tables that want the tragic version instead.
+
+Want me to add this into the actual Bestiary file as a new Example Enemy (it'd slot in right after Arch-Devil Malaphar), the way we've been keeping the working documents current all session?
