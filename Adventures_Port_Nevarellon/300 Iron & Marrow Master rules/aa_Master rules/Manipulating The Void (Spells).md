@@ -998,8 +998,7 @@ The caster hyper-pressurizes the air directly around their own body, before rele
 
 
 # The Word on Domains;
-(dev note)still in draft heading in the right direction(/dev note)
-Faith domains represent direct divine intervention powered by rigid devotion. Their domains give them an aura and a specific prayer manifestation.
+Faith domains represent direct divine intervention powered by rigid devotion. Every Miracle, regardless of Domain, resolves through the standard Tithe of Will — Will + Faith vs. TN 8, Locked Stress cost paid on Pass and Fail alike, the Priest gains 1 Encroachment, Toll in Flesh on Snake Eyes — exactly as defined in Embracing the Abyss. What a Domain adds on top of that chassis is a unique aura, a specific prayer manifestation, and an exclusive list of Miracles only that Domain's faithful may learn.
 
 ## 1. The Domain of Strategy (The Cult of the Iron Horizon)
 - **The Paragon:** *Saint Senecus the Unyielding*
