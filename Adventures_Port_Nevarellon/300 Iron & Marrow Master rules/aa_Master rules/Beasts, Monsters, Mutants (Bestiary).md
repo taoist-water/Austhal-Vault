@@ -2,6 +2,26 @@
 Design Philosophy: Keep stat blocks simplified. Let traits dictate tactical behaviour, stress interaction, and threat usage.
 
 Enemies use the similar character generation rules as players, the difference is the skills are bought a a 1:1 ratio regardless of the parent attribute value. Once an enemy is generated populate their stat block using the same derived stats as players, only list the stats that are most important, such as WT and Stress limit. The stats that have no modifier to not get listed and are assumed to be zero. 
+
+# Creature Types
+
+Every stat block declares one or more Creature Types alongside its Tier. Type carries no inherent stat effect on its own — its entire job is to be a hook for other things to reference: Bane effects (Hardware: Enchantments), Domain Tags like Smite Corruption, spells like Ward of the Threshold, and any future resistance/vulnerability trait. A creature can carry more than one Type where the fiction demands it (a reanimated golem is both Undead and Construct; a hag-blooded cultist could be both Humanoid and Fey) — treat it the same way multiple Traits stack on one stat block.
+
+- **Humanoid:** Baseline mortal peoples and their monstrous cousins. Humans, orcs, goblins, cultists, bandits.
+- **Beast:** Non-sapient natural or magically-touched fauna, regardless of size. Wolves, giant rats, trolls, ogres, dire wolves — Scale handles "how big," Type just confirms "it's an animal, not a person."
+- **Dragon:** True dragons and wyrm-kin. Apex predators defined by hoarding intelligence, imposing Scale, and an elemental breath weapon or equivalent.
+- **Fey:** Bound to the old pacts and capricious natural law of the wild places. Hag-covens, will-o'-wisps, thorn-court nobles.
+- **Elemental:** A living embodiment of raw primal force — fire, water, earth, air, or the violent compound of two.
+- **Undead:** The restless dead, animated by necromancy, grief, or unfinished business. Zombies, skeletons, wraiths, ghosts.
+- **Vampire:** Undead predators sustained by the blood or life-force of the living. Broken out from common Undead because their cunning, regeneration, and domination-style abilities usually need their own Bane and Trait interactions rather than inheriting Undead's wholesale.
+- **Lycanthrope:** Humanoids cursed or blessed with a beast-shifted second nature. Broken out from Beast for the same reason Vampire is broken out from Undead — the curse itself, not the claws, is usually what a Bane or ritual needs to target.
+- **Daemon:** Infernal or otherworldly entities of deliberate, contractual malice. Bound to pacts, hierarchies, and Hells (or their local equivalent).
+- **Void-Touched:** Entities whose existence itself violates natural law through contact with the Outer Dark — the product side of the Demonology/Void Magic paradigm (see Manipulating the Void).
+- **Ooze:** Amorphous, usually mindless, and often corrosive. Gelatinous cubes, black puddings, creeping molds. (Pair with the existing Amorphous trait when a single-target weapon shouldn't be able to Wound it.)
+- **Construct:** Artificial or animated bodies without a natural life cycle. Golems, animated armor, clockwork sentinels.
+- **Mutant:** Flesh warped by alchemy, radiation, or forbidden transmutation into something no longer wholly natural.
+
+
 ####  Core Integration Rules
 
 - **Fodder:** * _Budget:_ +1 to +2 total points distributed across 1 Attribute or Skill.
@@ -132,7 +152,7 @@ _Scrawny, twitchy, and desperate. They prefer to strike from the shadows and ret
     - _Swarm:_ The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
         
 - **Threat Abilities:** _Passive._ Fodder cannot spend Threat unless led by a leader.
-	- Threat Cost 1: The scrappy, opportunistic goblins try to swipe supplies from the target. Sabotage: Target Must pass a TN8 Reflex test, Fail and reduce the community supply die by 1 order.
+	- Threat Cost 1: instead of a regular attack action, The scrappy, opportunistic goblins try to swipe supplies from the target. Sabotage: Target Must pass a TN8 Reflex test, Fail and reduce the community supply die by 1 order.
     
 - **Vessel Limit:** 1
 ___________________________________________________________________________________________________________________________________________________________________________________
@@ -262,6 +282,39 @@ _A towering, decapitated mass of waterlogged flesh, rusted iron chains, and tang
     - **Cost 2 Threat - Sweeping Uproot:** _Trigger:_ Declared before the Goliath makes a Strike. _Effect:_ The Goliath drags its massive club through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
         
 - **Vessel Limit:** 2
+__________________________________________________________________
+## The Barrow-Fang
+
+> _"The howls stopped an hour before it found us. That's when Corvis said we should've kept moving."_
+
+### Vital Statistics
+
+- **Tier:** Elite
+- **Type:** Lycanthrope, Humanoid
+- **Size:** Large (Scale +1)
+- **Stats:** Prowess +2, Reflex +2 _(Assumed Zero: Wits, Will — whatever reasoned it out died the first time it changed.)_
+- **Skills:** Melee +2, Dodge +1, Notice +1 _(Assumed Zero: everything else.)_
+- **Derived stats:**
+    - Wound Threshold: **8** _(4 + Prowess 2 + Scale +2)_
+    - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite)_
+- **Equipment:** None — natural weapons only. Bite & Claw (Power 2). Strike Roll: 2d6 + 4 (Prowess 2 + Melee 2).
+- **Traits (3):**
+    - **Cursed Regeneration:** At the start of the Barrow-Fang's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ any Wound inflicted by a weapon carrying a Lycanthrope Bane effect (Silvered Edge, per Hardware) permanently suppresses this trait for the rest of the encounter — the same shape as the Frost-Cave Troll's fire weakness, with silver standing in for flame.
+    - **Vicious:** If the Barrow-Fang inflicts damage on a PC, the target must immediately pass a Prowess check or gain the Bleeding condition.
+    - **Ambusher:** Gains Advantage on the Clash roll if attacking an unaware target from Stealth.
+- **Vessel Limit:** 2
+- **Threat Abilities (2):**
+    - **Cost 1 Threat — Howl of the Hunt:** _Trigger:_ Declared at the start of the Barrow-Fang's activation. _Effect:_ Every player within 30 ft who can hear it must pass a Will + Resolve check vs. TN 8 or gain the Fear condition (targeting the Barrow-Fang) for the rest of the encounter.
+    - **Cost 2 Threat — Rend and Pin:** _Trigger:_ Declared on a successful Melee Clash with a Margin of 3+. _Effect:_ In addition to normal Impact, the target is knocked Prone and pinned — they cannot stand or take a Move Action until they win an opposed Prowess check against the Barrow-Fang (attempted as a Free Action on their own activation).
+
+### Phases
+
+- **Behaviour when unbroken:** Hunts with patient, almost human cunning before the change fully takes hold — uses Ambusher to open the fight from cover rather than announcing itself, closing to melee only once an opening is certain. The Howl is a closer's move, not an opener: spent once it's confident the fight is already lost for its prey.
+- **Behaviour when Broken:** Per the GM Tools NPC Stress rules, this resolves as **Frenzy** (Beasts & Monsters), not Surrender (Humanoid Elites) — a deliberate call given the dual Type. The wolf, not the person, is what's left once the mind goes: it loses Dodge and Block entirely but gains Advantage on all Strike rolls until it dies. _If your table wants a tragic "still human underneath" beat instead, this is the specific creature to house-rule to Surrender — but the trope reading is Frenzy._
+- **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
+
+---
+
 
 _______________________________
 ### Boss: Arch-Devil Malaphar

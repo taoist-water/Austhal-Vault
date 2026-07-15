@@ -245,6 +245,12 @@ A single-use wand pre-loaded with one specific spell by an Arcanist during downt
 A Holy Symbol whose Domain-blessing has visibly deepened — filigree that was plain now catches light that isn't there.
 - **Effect:** +1 to all Tithe of Will rolls. *(The Faith-side equivalent of the old Wand bonus, translated into Faith's own currency: pushing more rolls over the TN 8 line means fewer Fails, which means less Encroachment, rather than a flat combat bonus Faith's math doesn't otherwise have a slot for.)*
 
+**Whisper-Kissed Leathers** — ~150 sp | Legendary, Commission-gated | 1 Locked Stress Attunement  
+Requires a Light armor base (Padded or Leather).
+
+- **Effect:** Once per Scene, when declared the target of an Aggressor action, the wearer may spend 1 Momentum to become **Obscured** (per Iron World's Cover rules) for that single Clash — the attacker suffers Disadvantage, as if striking through smoke, even in the open.
+- _Reuses the existing Obscured mechanic rather than inventing a new defensive stat — same logic as Cloak of Still Water reusing Rushed Stealth._
+
 ### Relic (1 Locked Stress Attunement + Built-In Drawback)
 
 **The Widow's Needle** (unique dagger) — Not for sale. GM-authored, campaign-specific.

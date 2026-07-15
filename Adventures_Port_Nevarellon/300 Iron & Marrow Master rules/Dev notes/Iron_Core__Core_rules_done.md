@@ -57,7 +57,7 @@ When this happens on an unopposed check, the GM immediately applies one of the f
     
 - The Panic Reflex: The character realizes they have made a catastrophic error. They instantly suffer 1 point of Dissonant Stress, immediately ticking them closer to the Death Spiral.
     
-- The Momentum Drain: The sheer embarrassment or shock of the failure kills the party's forward drive. The party instantly loses 1 banked Momentum. If they have no Momentum to lose, the active character takes 1 Dissonant Stress instead.
+- The Momentum Drain: The sheer embarrassment or shock of the failure kills the party's forward drive. The character instantly loses 1 banked Momentum. If they have no Momentum to lose, the active character takes 1 Dissonant Stress instead.
     
 - Catastrophic Exposure: If the roll was related to Stealth or Scouting, the failure is loud and undeniable. The character is completely exposed, and all enemies in the upcoming encounter gain Advantage on their opening Activation order rolls.
 

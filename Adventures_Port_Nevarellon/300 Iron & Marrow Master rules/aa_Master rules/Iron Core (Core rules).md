@@ -7,7 +7,9 @@
 - trying to reduce cognitive load on the GM and Players.
 
 #  The Golden Rules:
-- Bonuses to Wound Threshold from magical sources (Spells, Auras) do not stack. A character only benefits from the highest single bonus. This does not apply to Shield Value.
+- Bonuses to Wound Threshold from magical sources (Spells, Auras, Enchanted Equipment) do not stack. A character only benefits from the highest single bonus. This does not apply to Shield Value.
+- Bane effects (a flat reduction to a target's Wound Threshold against one specific Creature Type — see the Bestiary's Creature Types list) do not stack with each other against the same target; only the single highest Bane reduction applies. Bane reduces Wound Threshold before Impact is compared against it — this is a separate step from the Massive trait's Impact-halving, and the two apply independently rather than cancelling out.
+- Locked Stress committed to a Sustained spell/Miracle, or to an item's Attunement (see Hardware: Enchantments), cannot be targeted by Grounding, the Reprieve, or Religious Pursuit. It only releases when the effect is voluntarily ended, the Miracle drops, or the item is deliberately unattuned.
 - All non-Opposed checks are against a Target Number [[TN|TN]] 8.
 - Situational Modifiers are applied at GM’s discretion, +2, -2, -4.
 - Advantage and Disadvantage do not stack. If you have multiple sources of Disadvantage, you still only roll 1 extra die and drop the highest. If you have both Advantage and Disadvantage, they cancel each other out entirely.
@@ -23,8 +25,8 @@
 		- the difference between the winner and the loser is the Impact (when attacking).
 		- Impact is compared to the losers Wound Threshold.
   	    
-- Fates Bounty (double 6s): When a natural double 6 is rolled, the player (or Elite/boss NPC)  rolls an additional die and adds it to the total. This is only done once.
-- Snake Eyes (natural 2): Automatic failure. The character immediately suffers 1 Stress, and additional contextual penalties.
+- **Fates Bounty (double 6s):** When a natural double 6 is rolled, the player (or Elite/boss NPC)  rolls an additional die and adds it to the total. This is only done once.
+- **Snake Eyes (natural 2):** Automatic failure. The character immediately suffers 1 Stress, and additional contextual penalties.
 - **Desperate Edge (a single natural 6):** When exactly one of the two dice in a 2d6 check shows a 6, the roller may treat that die as exploding: roll one additional d6 and add it to the total. Unlike Fates' Bounty (which triggers on *both* dice showing 6 and immediately grants an extra full die with no further conditions), Desperate Edge triggers on rolling a single 6 **only while the character is in a qualifying desperate state** — at half or more of their Stress Limit in Dissonant Stress, at their final Wound Slot, or under a specific feat/spell that explicitly lowers the threshold (such as *Embrace the Void*, which extends this to natural 5s as well). Outside a qualifying desperate state, a lone natural 6 is just a 6 — solid, unremarkable, no explosion.
 
 - \[dev note\]Perfect Sequence (Universal Combat Rule): If a Prowess or Reflex check results specifically in a 3 and a 4 (creating a natural 7), the character achieves "Perfect Form". They may immediately perform a Free Shift (move 1 square) without triggering a Reactor action from the enemy. \[/dev note\]
