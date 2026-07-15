@@ -5,7 +5,7 @@
 
 ## Vital Statistics
 - **Tier:** (Fodder, Grunt, Elite, Dread entity/boss)
-- **Type:** (e.g. Human, orc, Dragon, construct, demon, angel, devil, etc)
+- **Type:** One or more Creature Types from the Bestiary's Creature Types list (Humanoid, Beast, Dragon, Fey, Elemental, Undead, Vampire, Lycanthrope, Daemon, Void-Touched, Ooze, Construct, Mutant). Stack more than one Type where the fiction calls for it (e.g. a possessed golem is both Construct and Void-Touched).
 - **Size:** (use the scale rules)
 - **Stats:** (only listing stats with a modifier) Prowess | Reflex | Wits | Will 
 - **Skills:** (only listing stats with a modifier) Melee | Athletics | Block | Ranged | Stealth | Thievery | Acrobatics | Ride | Notice | Insight | Medicine | Crafting | Lore | Arcana | Influence | Faith | Survival | Resolve

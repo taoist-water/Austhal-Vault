@@ -81,34 +81,34 @@ Instead of tracking every torch, bandage, and arrow, the entire party relies on 
 
 ________________________________________________________________________
 # Quality
-## MERCANTILE CRAFTSMANSHIP STATUS
+**MERCANTILE CRAFTSMANSHIP STATUS**
 
 Items found in local markets carry tags denoting the skill of the artisan who hammered them together.
 
-#### Shoddy Quality 
+*Shoddy Quality* 
 - Cost Modifier: -50% to base price.
     
 - 2d6 Rule: Rusted iron, green wood, or poor craftsmanship. If a character rolls a fumble (Snake Eyes) or even just a standard failure while using a Shoddy item, the item is immediately Damaged. If it is already Damaged, it shatters completely and is Ruined.
     
 
-#### Balanced Quality 
+*Balanced Quality* 
 - Cost Modifier: +100% to base price.
     
 - 2d6 Rule: Perfectly weighted pommels or expertly aligned shafts. Once per scene, when rolling a Clash or Attribute check using this item, the player can reroll a single die that landed on a '1', mitigating low-end variance.
     
 
-#### Masterwork Quality 
+*Masterwork Quality* 
 - Cost Modifier: +300% to base price (Requires a specialized Commission downtime action).
     
 - 2d6 Rule: Folded steel or bespoke custom-molded plating. Weapons gain a permanent +1 to their Power profile. Armor pieces grant their mechanical defensive bonuses but completely suppress one negative tag associated with them (e.g., a Masterwork Chainmail shirt loses its Bulky penalty).
 __________________________________________________________________
 # Gear Condition
 
-## DAMAGED AND RUINED (THE CONDITION TRACK)
+**DAMAGED AND RUINED (THE CONDITION TRACK)**
 
 Quality (above) describes how good a piece of gear was *when new*. Condition describes what's happened to it since. Every weapon, armor piece, shield, or tool — regardless of its Quality tier — can degrade along the same two-step track: **Damaged**, then **Ruined**.
 
-#### Damaged (Tag)
+*Damaged (Tag)*
 
 - **The Effect:** The item suffers a flat **-1 penalty** to whatever numeric value it normally contributes to a roll or calculation. A Damaged weapon applies -1 to its Power. Damaged armor applies -1 to its Armor Value. A Damaged shield applies -1 to its Shield Value (SV). A Damaged tool kit applies -1 to the relevant skill check it would normally assist.
     
@@ -116,7 +116,7 @@ Quality (above) describes how good a piece of gear was *when new*. Condition des
     
 - **Stacking:** Damaged does not stack with itself. An already-Damaged item that would be Damaged again is immediately **Ruined** instead (see below) — the second failure is what finally breaks it past the point of limping along.
 
-#### Ruined (Tag)
+*Ruined (Tag)*
 
 - **The Effect:** The item is **non-functional**. A Ruined weapon deals no Power (Unarmed-equivalent only), Ruined armor grants no Armor Value, a Ruined shield grants no SV, and a Ruined tool cannot be used to assist any check at all.
     
@@ -124,13 +124,136 @@ Quality (above) describes how good a piece of gear was *when new*. Condition des
     
 - **Repair:** A Ruined item cannot be restored mid-dungeon by any of the temporary battlefield fixes below — it requires a **Hammer & Forge** downtime action back in civilization (or an equivalent feat/Momentum spend that explicitly says it can strip the tag, such as Cannibalize Gear) to become functional again.
 
-#### Getting From Damaged Back to Working
+**Getting From Damaged Back to Working**
 
 - **Temporary Field Fixes** (e.g., The Patch Job) let a character ignore the -1 Damaged penalty for the duration of the current encounter only. The penalty returns the moment the fight ends — wire and sap aren't a permanent solution.
 - **Permanent Field Repair** (e.g., Cannibalize Gear) strips the Damaged tag entirely, mid-dungeon, at the cost of cannibalizing a separate piece of equipment. This is the only way to permanently clear Damaged without returning to town.
 - **Downtime Repair** (Hammer & Forge) is the standard, no-cost-beyond-time way to clear either Damaged or Ruined once back in civilization.
 
 ________________________________________________________________________
+# Enchantments
+
+## The Third Axis
+
+Quality (above) describes how good an item was when it was forged. Condition describes what's happened to it since. **Enchantment is a third, fully independent axis** — a Balanced-Quality, Damaged-Condition, Enchanted longsword is a perfectly coherent item, and all three lines are answered separately. Magic in Iron & Marrow does not stack flat bonuses on top of the existing Power/Wound Threshold math — that headroom is already spent (see the rescaled Weapon Power tiers, and the Golden Rule that Wound Threshold bonuses from magical sources don't stack). Instead, enchanted items grant **tags, Momentum-gated abilities, or Bane effects** — the same vocabulary spells and Domain Tags already use elsewhere in the system.
+
+## Attunement
+
+Wearing or carrying an Enchanted or Relic item permanently isn't free — a sliver of the magic occupies a corner of the wielder's mind.
+
+- **Trinkets and Charmed items never require Attunement.** Wear or carry as many as you like.
+- **Enchanted and Relic items cost 1 Locked Stress each to Attune.** This Stress is locked for as long as the item is bonded to its wielder, exactly like a Sustained spell, and falls under the same Golden Rule: it cannot be cleared by Grounding, the Reprieve, or Religious Pursuit — only by physically unattuning.
+- **Unattuning takes 10 minutes of uninterrupted handling** — safe to do during a Breather or downtime, impossible mid-combat.
+- **Attunement Slots = Will score (minimum 1).** A character cannot be Attuned to more Enchanted/Relic items at once than this.
+- Losing an Attuned item mid-combat (disarmed, stolen, Sundered) does not instantly refund the Stress — it releases at the start of the wielder's next Activation, the same beat as any other Sustain dropping.
+
+## The Four Tiers
+
+| Tier          | Availability                   | Attunement                                    | Power Level                                                                                          |
+| ------------- | ------------------------------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Trinket**   | Common/Scarce                  | None                                          | Flavor only, or a single trivial non-combat nudge — the "Cantrip" of magic items.                    |
+| **Charmed**   | Scarce/Rare                    | None                                          | One tag grant, or a narrow situational bonus — roughly Common-spell strength.                        |
+| **Enchanted** | Rare/Legendary                 | 1 Locked Stress                               | A real ability, or a Momentum-gated active — Adept/Apprentice-spell strength.                        |
+| **Relic**     | Legendary, unique, GM-authored | 1 Locked Stress + a bespoke built-in drawback | Master Miracle/Tier 3 Feat strength. Not purchasable — a campaign fixture with a name and a history. |
+
+**On Relics specifically:** the Locked Stress cost alone isn't enough of a toll for Master-tier power. Per the same logic already used for Resurrection's Soul Scar and Half-Elf's inherited drawbacks, a Relic's cost should be written into the item itself, not just paid for in Stress. Don't hand out a Relic without also handing out its hook.
+___________________________________________________________________
+### Trinkets (No Attunement)
+
+**Ever-Warm Hearthstone** — 8 sp | Common
+A fist-sized river stone that radiates gentle warmth and never needs fuel. No mechanical effect — a comfort item only. Cold-weather Survival Hazard Checks (per Iron World) are still made normally; this just makes camp pleasant.
+
+**Chorus Locket** — 15 sp | Scarce
+A hinged locket that records up to 10 seconds of whispered sound and replays it once when opened. No combat application — a message-passing or narrative tool only.
+
+**Prattling Bauble** — 6 sp | Common
+Jewellery that shifts through a slow spectrum of colours when tapped, or a stone that releases a wisp of perfume when rubbed. Common "adventurer curiosity" loot, worth exactly what a buyer will pay for a conversation piece.
+
+### Charmed (No Attunement)
+
+_Bane items below deliberately don't cover every Creature Type. Humanoid and Beast have no entry — not an oversight. Bane exists to answer "how do I reliably hurt something ordinary steel struggles against"; regular people and animals don't have that problem, a plain arming sword already does the job._
+
+**Silvered Edge** (weapon add-on) — 40 sp | Rare
+Requires a bladed or bludgeoning weapon. The striking surface is chased in pure silver, ground into the metal by hunters who learned the trade the hard way.
+- **Effect:** Bane (Lycanthrope) — see Bestiary: Creature Types. The wielder treats a Lycanthrope target's Wound Threshold as 1 point lower.
+- *The classic trope, mechanized: cold, pure silver reliably bites through a curse-born hide in a way ordinary steel doesn't.*
+
+**Blessed Edge** (weapon add-on) — 40 sp | Rare
+Requires a bladed or bludgeoning weapon, sanctified by a Priest of any Domain (fictionally, a Religious Pursuit spent in dedication to the weapon rather than the self).
+- **Effect:** Bane (Undead) — see Bestiary: Creature Types. The wielder treats an Undead target's Wound Threshold as 1 point lower.
+- *Deliberately the same number Smite Corruption already grants a Domain of Law Priest for free — this item is how anyone else buys a sliver of that same ward against corruption made physical. Note this is a flavor name, not a new mechanical tag — it does not grant the Blessed Condition (Iron Core); the two are deliberately kept separate so the word "Blessed" doesn't mean two different things depending on whether it's on a character sheet or an item card.*
+
+**Cold Iron Weapon** (weapon add-on) — 25 sp | Scarce
+Requires a weapon. Forged from iron worked pure of the impurities that make ordinary steel — heavier, softer, and murder on anything that isn't wholly of this world.
+- **Effect:** Bane (Fey, Daemon). The wielder treats a Fey or Daemon target's Wound Threshold as 1 point lower.
+- *The one deliberate exception to "one Creature Type per Charmed item": cold iron's dual reach is a single, unified material property, not two separate wards bundled together, so it doesn't strain the logic that keeps Enchanted-tier breadth capped. Priced and gated below Silvered Edge and Blessed Edge for the same reason — no blessing, no silversmithing, just the metal itself, worked pure.*
+
+**Sun Iron** (weapon add-on) — 40 sp | Rare
+Requires a weapon. Iron quenched at first light for nine consecutive dawns, then worked while the metal still holds the warmth.
+- **Effect:** Bane (Vampire) — see Bestiary: Creature Types. The wielder treats a Vampire target's Wound Threshold as 1 point lower.
+
+**Wyrmtooth** (weapon add-on) — 220 sp | Legendary, Commission-gated
+Requires a harvested Dragon tooth, claw, or scale shard, and a weapon to set it into.
+- **Effect:** Bane (Dragon) — see Bestiary: Creature Types. The wielder treats a Dragon target's Wound Threshold as 1 point lower.
+- *Priced and gated well above the other Charmed Bane items for a purely narrative reason, not a mechanical one — the effect is identical in strength to Silvered Edge or Blessed Edge, but the raw material is the entire cost. A party is far more likely to loot one of these off a dead wyrm than find one for sale.*
+
+**Grounding Chain** (weapon add-on) — 40 sp | Rare
+Requires a weapon. A fine copper-and-iron chain wound through the grip or haft, humming faintly when the air itself starts to feel wrong.
+- **Effect:** Bane (Elemental) — see Bestiary: Creature Types. The wielder treats an Elemental target's Wound Threshold as 1 point lower.
+- *Named for the same underlying idea as the Arcanist's Grounding action and the Mage Staff's Grounding Rod tag — venting raw, ungoverned energy safely to earth, just applied outward through a strike instead of inward through a caster's own mind.*
+
+**Rust-Bitten Edge** (weapon add-on) — 35 sp | Rare
+Requires a weapon. Treated in a slow-acting alchemical bath related to the same formula behind Vitriol Solvent — a controlled, permanent version of the same corrosion, bonded into the metal rather than splashed on fresh each fight.
+- **Effect:** Bane (Construct) — see Bestiary: Creature Types. The wielder treats a Construct target's Wound Threshold as 1 point lower.
+
+**Cinder-Wrought Edge** (weapon add-on) — 35 sp | Rare
+Requires a weapon. Tempered in a bed of true embers rather than water or oil — the blade never fully loses its warmth.
+- **Effect:** Bane (Ooze) — see Bestiary: Creature Types. The wielder treats an Ooze target's Wound Threshold as 1 point lower.
+- *Fire is the standard answer to "how do you stop something that just re-forms" across enough fiction to earn its slot here — and it's already the system's own answer, since Wildfire Proliferation and the rest of the Pyromancy list are built on exactly that same idea of persistent, decisive damage.*
+
+**Leadglass Ward** (weapon add-on) — 40 sp | Rare
+Requires a weapon. A sliver of lead-heavy glass, ground to a precise, unnatural facet and set into the blade or haft — it doesn't reflect light so much as refuse it.
+- **Effect:** Bane (Void-Touched) — see Bestiary: Creature Types. The wielder treats a Void-Touched target's Wound Threshold as 1 point lower.
+- *Worth being honest about this one's ceiling: several written Void-Touched abilities (Flay the Veil, most notably) already bypass Wound Threshold and Armor entirely by design. Leadglass Ward still matters in any fight that comes down to ordinary Impact-vs-Threshold math, but it isn't the reliable answer Silvered Edge is against a Lycanthrope — useful, not a silver bullet.*
+
+**Quicksilver-Traced Edge** (weapon add-on) — 35 sp | Rare
+Requires a weapon. A hair-thin vein of quicksilver run along the fuller or edge — an old alchemist's belief that the thing which unmakes flesh can also unmake what remade it.
+- **Effect:** Bane (Mutant) — see Bestiary: Creature Types. The wielder treats a Mutant target's Wound Threshold as 1 point lower.
+
+**Cloak of Still Water** (armor add-on) — 35 sp | Rare
+A grey, unremarkable cloak that seems to drink ambient noise.
+- **Effect:** The wearer gains Advantage on Stealth checks while moving at half their Move value or slower — turning the existing Rushed Stealth penalty (Iron World) into a non-issue for anyone patient enough to earn it, rather than granting a new kind of bonus outright.
+
+### Enchanted (1 Locked Stress Attunement)
+
+**Sigil-Etched Blade** — ~150 sp | Legendary, Commission-gated
+A longsword (or similar) inlaid with warding sigils that glow faintly hot to the touch of anything unnatural.
+- **Effect:** Bane (Undead, Daemon). Once per Scene, the wielder may spend 1 Momentum on a successful hit against a Bane-eligible target to also inflict the Fear condition (per the Bestiary Trait of the same name).
+
+**Blade of the Undertow** — ~150 sp | Legendary, Commission-gated
+A weapon that always smells faintly of brine, regardless of how far from the sea it travels.
+- **Effect:** Once per Scene, the wielder may spend 1 Momentum on a successful hit to force the target into an unopposed Prowess + Athletics check vs. TN 8; on a failure, the target is shoved 1 Zone and knocked Prone. (Reuses Havoc's and the Domain of Sea & Storms' existing push/shove language rather than inventing new physics.)
+
+**Sigil-Bound Wand (Single-Charge)** — 40 sp for a stored Novice spell, scaling to Legendary for Master-tier | Rare–Legendary
+A single-use wand pre-loaded with one specific spell by an Arcanist during downtime (treat the loading process as a Commission). This is the formal version of the "activate an alchemical wand looted off a dead Boss" scenario GM Tools already gestures at — any character can trigger it, not just casters.
+- **Activation:** The activator makes that spell's normal Resolution roll (Wits + Arcana, opposed or unopposed per the spell's own entry), whether or not they possess the Arcane Awakening feat.
+- **If the activator has Arcane Awakening:** only a Snake Eyes destroys the wand (it gains the Ruined condition). A standard Failure just fizzles — the charge remains for a later attempt.
+- **If the activator does not have Arcane Awakening** (using invested Arcana skill points per the Non-Caster Usage of Faith and Arcana rules in GM Tools): any Failure, not just Snake Eyes, destroys the wand. An untrained hand can't channel it precisely enough to survive a botch.
+- *This item costs the activator no personal Stress win or lose — that's the whole point, it's what makes it safely usable by non-casters. The destruction risk on a failed roll is what stops it from being strictly better than casting the spell yourself.*
+
+**Reliquary Symbol** (Holy Symbol upgrade) — ~150 sp | Legendary, Commission-gated
+A Holy Symbol whose Domain-blessing has visibly deepened — filigree that was plain now catches light that isn't there.
+- **Effect:** +1 to all Tithe of Will rolls. *(The Faith-side equivalent of the old Wand bonus, translated into Faith's own currency: pushing more rolls over the TN 8 line means fewer Fails, which means less Encroachment, rather than a flat combat bonus Faith's math doesn't otherwise have a slot for.)*
+
+### Relic (1 Locked Stress Attunement + Built-In Drawback)
+
+**The Widow's Needle** (unique dagger) — Not for sale. GM-authored, campaign-specific.
+A slim, black dagger that is always slightly warmer than the air around it.
+- **Effect:** Functions as a permanent, always-on Vital Strike (ignores Armor value in the Wound Threshold calculation) with no -4 penalty required to use it.
+- **The Cost:** Every kill made with the Needle locks 1 additional point of Stress on the wielder that **cannot** be cleared by Grounding, Momentum spend, or a Breather — only a full Religious Pursuit or a Long Rest will do. The blade is hungry, and it remembers who fed it.
+
+___________________________________________________________________
+
 # Currency Standard: 
 The primary day-to-day trade currency is the Silver Piece (sp). Copper Pennies (cp) are used by peasants (10 cp = 1 sp). Gold Sovereigns (gs) are held only by nobility and wealthy cartels (1 gs = 20 sp).
 
@@ -148,17 +271,17 @@ _______________________________________________________________________
 
 ## Blades
 
-|Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
-|---|---|---|---|---|---|---|
-|Dagger / Knife|0|1H|5 ft Threat / 30 ft Thrown|Concealable, Close-Quarters, Precise, Thrown, Sidearm|5 sp|Common|
-|Punching Dagger|0|1H|5 ft Threat|Concealable, Close-Quarters, Inertia|6 sp|Common|
-|Kukri|0|1H|5 ft Threat|Precise, Concealable|10 sp|Common|
-|Sai|0|1H|5 ft Threat|Disarm, Concealable|5 sp|Scarce|
-|Shortsword|2|1H|5 ft Threat|Sidearm|10 sp|Common|
-|Rapier|2|1H|5 ft Threat|Precise, finesse|20 sp|Scarce|
-|Longsword|3 (4 if 2H)|1H/2H|5 ft Threat|Versatile|25 sp|Scarce|
-|Bastard Sword|3 (4 if 2H)|1H/2H|5 ft Threat|Versatile, Precise|35 sp|Scarce|
-|Greatsword|5|2H|5 ft Threat|Inertia, Cumbersome|45 sp|Scarce|
+| Weapon Name     | Power       | Grip  | Range / Threat             | Tags & Attributes                                     | Cost  | Availability |
+| --------------- | ----------- | ----- | -------------------------- | ----------------------------------------------------- | ----- | ------------ |
+| Dagger / Knife  | 0           | 1H    | 5 ft Threat / 30 ft Thrown | Concealable, Close-Quarters, Finesse, Thrown, Sidearm | 5 sp  | Common       |
+| Punching Dagger | 0           | 1H    | 5 ft Threat                | Concealable, Close-Quarters, Inertia                  | 6 sp  | Common       |
+| Kukri           | 0           | 1H    | 5 ft Threat                | Precise, Concealable                                  | 10 sp | Common       |
+| Sai             | 0           | 1H    | 5 ft Threat                | Disarm, Concealable                                   | 5 sp  | Scarce       |
+| Shortsword      | 2           | 1H    | 5 ft Threat                | Sidearm, Finesse                                      | 10 sp | Common       |
+| Rapier          | 2           | 1H    | 5 ft Threat                | Precise, Finesse                                      | 20 sp | Scarce       |
+| Longsword       | 3 (4 if 2H) | 1H/2H | 5 ft Threat                | Versatile                                             | 25 sp | Scarce       |
+| Bastard Sword   | 3 (4 if 2H) | 1H/2H | 5 ft Threat                | Versatile, Precise                                    | 35 sp | Scarce       |
+| Greatsword      | 5           | 2H    | 5 ft Threat                | Inertia, Cumbersome                                   | 45 sp | Scarce       |
 
 ## Axes
 
@@ -241,33 +364,28 @@ _______________________________________________________________________
 
 ## Weapon Tags
 
-- Bound: enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
-- Bash: If your attack results in a Glancing Hit (Impact < Threshold), it deals +1 additional Dissonant Stress due to blunt force trauma.
-- Brutal: If the Reactor rolls a Fumble (Natural 2) while defending against this weapon, they take 2 Stress instead of 1.
-- Close-Quarters: suffers no penalties when In-Fighting.
-- Concealable: Grants Advantage (3d6 keep 2) on rolls made to hide the weapon on your person.
-- Conduit can be used to perform Somatic components. The caster weaves the geometry of the spell using the item itself, meaning their hand does not need to be empty.
-- Cumbersome: The weapon is heavy and slow to ready. Imposes a -1 penalty on Activation order rolls.
-- finesse: may use reflex instead of prowess in clashes.
-- Focus: Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the item, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
-- Grounding Rod: grants Advantage on the Grounding (Wits + Arcana) check to unlock stress slots.
-- Heavy Hitter : When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7.
-- Inertia: If you win the Clash roll by a High Margin (5+), add +2 Power to the Final Impact.
-- non-Lethal: strikes with this weapon can only cause Stress regardless of the Impact result, will never spill over into wounds.
-- Precise: Ignores 1 Point of armour
-- Reach: Threatens a 10-foot radius (2 grid squares). Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
-- Reload: After firing, requires an Action to load the next shot.
-- Sidearm: Can be drawn as a Free Action without penalty.
-- Siege: Required to inflict wounds on Gargantuan scale creatures, and damage fortifications.
-- Sunder: If you inflict a Minor or Major Wound with this weapon, permanently reduce the target's Armor value by 1.
-- Thrown: Can be hurled using the short range attack band. If used in melee, it retains its 5 ft Threat.
-- Versatile: can be wielded 1H or 2H. If wielded 2H add 1 to the weapon power.
-- Volley: Requires two hands and prevents the user from holding a Shield or Grimoire.
-
-(Note on Ranged Weapons: firing a Ranged or Thrown weapon while an enemy is inside your 5-foot Threat Zone imposes Disadvantage on the attack roll).
-
-### New Tags (this update)
-
+- **Bound:** enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
+- **Bash:** If your attack results in a Glancing Hit (Impact < Threshold), it deals +1 additional Dissonant Stress due to blunt force trauma.
+- **Brutal:** If the Reactor rolls a Fumble (Natural 2) while defending against this weapon, they take 2 Stress instead of 1.
+- **Close-Quarters:** suffers no penalties when In-Fighting.
+- **Concealable:** Grants Advantage (3d6 keep 2) on rolls made to hide the weapon on your person.
+- **Conduit:** can be used to perform Somatic components. The caster weaves the geometry of the spell using the item itself, meaning their hand does not need to be empty.
+- **Cumbersome:** The weapon is heavy and slow to ready. Imposes a -1 penalty on Activation order rolls.
+- **finesse:** may use reflex instead of prowess in clashes.
+- **Focus:** Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the item, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
+- **Grounding Rod:** grants Advantage on the Grounding (Wits + Arcana) check to unlock stress slots.
+- **Heavy Hitter:** When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7.
+- **Inertia:** If you win the Clash roll by a High Margin (5+), add +2 Power to the Final Impact.
+- **non-Lethal:** strikes with this weapon can only cause Stress regardless of the Impact result, will never spill over into wounds.
+- **Precise:** Ignores 1 Point of armour
+- **Reach:** Threatens a 10-foot radius (2 grid squares). Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
+- **Reload:** After firing, requires an Action to load the next shot.
+- **Sidearm:** Can be drawn as a Free Action without penalty.
+- **Siege:** Required to inflict wounds on Gargantuan scale creatures, and damage fortifications.
+- **Sunder:** If you inflict a Minor or Major Wound with this weapon, permanently reduce the target's Armor value by 1.
+- **Thrown:** Can be hurled using the short range attack band. If used in melee, it retains its 5 ft Threat.
+- **Versatile:** can be wielded 1H or 2H. If wielded 2H add 1 to the weapon power.
+- **Volley:** Requires two hands and prevents the user from holding a Shield or Grimoire.
 - **Armor-Piercing:** Ignores 2 points of the target's Armor Value when calculating Impact — twice Precise's ignore-1.
 - **Trip:** As an Aggressor Strike with this weapon, you may forgo Impact on a win to instead knock the target Prone.
 - **Disarm:** As an Aggressor Strike with this weapon, you may forgo Impact on a win to force the target to pass a Prowess check vs TN 8 or drop what they're holding into an adjacent square.
@@ -275,12 +393,10 @@ _______________________________________________________________________
 - **Double:** This two-handed weapon has two striking ends, each with its own Power (listed X/Y). It functions as a built-in Twin-Blade Stance: spend 1 Momentum on a won Clash to immediately follow up with the second Power value as Impact + 1 Stress, without needing a separate Sidearm weapon in your off hand.
 - **Repeating:** Holds multiple shots internally; does not require the Reload action between individual shots. Once the magazine is empty, reloading it fully requires a full Action.
 - **Entangling:** As an Aggressor action, forgo Impact on a win to instead apply the Anchored condition to the target (identical to the Entangle spell's effect).
+(Note on Ranged Weapons: firing a Ranged or Thrown weapon while an enemy is inside your 5-foot Threat Zone imposes Disadvantage on the attack roll).
+
 
 ##  ADVANCED SPECIALIZED WEAPONRY
-
-These variations add specific situational tactical tools to the baseline weapon tables.
-
-## ADVANCED SPECIALIZED WEAPONRY
 
 These variations add specific situational tactical tools to the baseline weapon tables.
 
