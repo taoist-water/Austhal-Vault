@@ -1136,6 +1136,71 @@ The Priest lays a hand on corrupted flesh and speaks a single word of refusal.
 - Pass: Cures one disease, poison, or curse-based condition currently affecting the target.
 - Fail: As Pass, and the GM gains 1 Threat.
 - Snake Eyes: The affliction clears, but convert the cost into a direct Wound on the Priest.
+__________________________________________________________________
+# Domain of Strategy (The Cult of the Iron Horizon)
+
+_Paragon: Saint Senecus the Unyielding. Tactical duty over survival — these Miracles reward discipline and holding the line, never panic._
+
+### Senecus's Stand
+
+A maxim recited under pressure — the line holds because the line was told to hold.
+
+- **Level:** Novice
+- **Cost:** 1 Locked Stress
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+
+- Pass: For the rest of the scene, the target ignores the Overwhelming Force penalty (the automatic Stress from Blocking a Larger attacker) and the Swarm Bonus a group of enemies gains against them is capped at +1 instead of +2.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The effect applies, but convert the cost into a direct Wound.
+
+### Tactical Reading
+
+The Priest reads the battlefield the way Senecus read the pass — not what the enemy is doing, but what they intend to.
+
+- **Level:** Adept
+- **Cost:** 2 Locked Stress
+- **Target/Range:** One Elite or Boss, Short Range
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+
+- Pass: The GM must truthfully reveal the Threat cost of that enemy's next ability before it's declared.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The reading lands, but convert the cost into a direct Wound.
+
+### Iron Discipline
+
+There is no room for fear in the formation. Senecus didn't have room for it either.
+
+- **Level:** Novice
+- **Cost:** 1 Locked Stress
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation / Free Action
+
+**The Tithe Ladder:**
+
+- Pass: Immediately clears any Fear or Terrified condition on the target, and grants immunity to acquiring it again for the rest of the scene.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The condition clears, but convert the cost into a direct Wound.
+
+### The Unbreakable Line
+
+The formation does not break. It was never going to break. Senecus is very clear on this point.
+
+- **Level:** Master
+- **Cost:** 3 Locked Stress
+- **Target/Range:** Self and all allies within 15ft
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Tithe Ladder:**
+
+- Pass: For the duration, allies in range cannot be knocked Prone or forcibly Pushed by an enemy Strike or spell.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The line holds, but convert the cost into direct Wounds on the Priest.
 
 __________________________________________________________________
 ### The Domain of Law (The Cult of the Zenith)
@@ -1193,7 +1258,7 @@ Designer Note: This is the absolute peak of the Faith philosophy — Certainty v
 
 Ruling needed: this Miracle cannot be declared in response to its own Tithe of Will roll (or any other Miracle's Tithe roll) — otherwise you get a self-referential loop where the Priest tries to lock in their own casting roll as a flat 7 before it's determined whether the Miracle that would do that even Passes. Recommend an explicit line: "Cannot target the Tithe of Will roll of the Miracle being cast to trigger it."
 
-Banish (Domain of Law — exclusive)
+**Banish (Domain of Law — exclusive)**
 Unchanged — already conformant. Included here for completeness since it's Law's other Master Miracle:
 
 Cost: 3 Locked Stress | Resolution: Tithe of Will, opposed by the target's Will + Resolve | Target/Range: One supernatural entity, Short Range | Action Type: Aggressor
@@ -1207,7 +1272,7 @@ he most profound and taxing of all Miracles — reaching into the void to pull a
 
 **Bolster the Faithful** 
 - **Level:** Novice Miracle
-- **Resolution:** Tithe of Will — Will + Faith vs. TN 8 (
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8 
 - **Cost:** 1 Locked Stress
 - **Target/Range:** touch.
 - **Action Type:** Activation
@@ -1254,59 +1319,114 @@ __________________________________________________________________
     
 - **Theme:** Probability manipulation, illusions, and avoiding direct confrontation. Trickery Miracles do not inflict direct physical wounds; instead, they dictate the terms of reality, forcing the world to second-guess its own rules.
     
+### Beginner's Luck
 
-#### 1. The Crooked Coin (Novice Miracle)
+The house always wins — except for the one hand Corvo decides it doesn't.
+
+- **Level:** Novice
+- **Cost:** 1 Locked Stress
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation / Free Action
+
+**The Tithe Ladder:**
+
+- Pass: The target gains Advantage on their next Clash roll, made within the next minute.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The Advantage applies, but convert the cost into a direct Wound.
+#### The Crooked Coin (Novice Miracle)
 
 - **Cost:** 1 Locked Stress
-    
-- **Action Type:** Free Reaction (Declared when an enemy targets the Priest or an ally within 30 ft with an attack).
-    
-- **The Effect:** The Priest calls upon Corvo’s Folly, bending the probability of the immediate moment. A sudden glint of light, a phantom sound, or a momentary stutter in time distracts the attacker. The enemy automatically suffers **Disadvantage** on their Clash roll.
-    
-- _Designer Note: This perfectly integrates your new Advantage/Disadvantage rule. It provides a reliable, mathematical defense mechanism that doesn't rely on clunky flat modifiers._
-    
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Target/Range:** Self or one ally, Short Range
+- **Action Type:** Free Reaction (declared when an enemy targets the Priest or an ally within Short Range with an attack)
 
-#### 2. Fool's Errand (Novice Miracle)
+**The Tithe Ladder:**
+
+- Pass: The Priest bends the probability of the moment. The attacking enemy automatically suffers Disadvantage on their Clash roll.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, reset the Priest's Encroachment to 0.
+
+---
+
+#### Fool's Errand (Novice Miracle)
 
 - **Cost:** 1 Locked Stress
-    
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Target/Range:** Medium Range
 - **Action Type:** Activation
-    
-- **The Effect:** The Priest manifests a localized, sensory illusion (sight and sound) within 60 ft. Out of combat, this can mimic a shouting guard, a false wall, or the sound of approaching reinforcements, lasting for the Scene or until physically touched.
-    
-    **In Combat:** The Priest may instantly create a 3x3 square zone of _Heavily Obscured_ terrain (phantom smoke, swirling shadows, or shifting mirrors). Per the environmental rules, enemies attempting to strike through or into this zone suffer Disadvantage, and targets inside gain a +2 bonus to Defense.
-    
-- _Designer Note: This ties the Trickery domain directly into your newly refined Environmental mechanics, making the Priest a master of battlefield control._
-    
+- **Duration:** Scene, or until physically disrupted
 
-#### 3. Corvo’s Step (Adept Miracle)
+**The Tithe Ladder:**
+
+- Pass: The Priest manifests a localized sensory illusion (sight and sound). Out of combat, this mimics a shouting guard, a false wall, or approaching reinforcements. In combat, it instead creates a 3x3 square zone of **Heavily Obscured** terrain — enemies striking through or into it suffer Disadvantage, and targets inside gain +2 to Defense (per the Environmental rules).
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, reset the Priest's Encroachment to 0.
+
+### The Long Con
+
+A favor planted now, called in later, when it does the most damage.
+
+- **Level:** Adept
+- **Cost:** 2 Locked Stress
+- **Target/Range:** One enemy, Short Range
+- **Action Type:** Activation
+- **Duration:** Until triggered, or end of Scene
+
+**The Tithe Ladder:**
+
+- Pass: Mark one enemy. The next time that enemy fails a Clash this scene, they suffer 2 additional Impact as the planted ill luck calls itself in.
+- Fail: As Pass, and gain 1 encroachment.
+- Snake Eyes: The mark is set, but convert the cost into a direct Wound on the Priest immediately.
+#### Corvo's Step (Adept Miracle) 
 
 - **Cost:** 2 Locked Stress
-    
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Target/Range:** Self and one willing ally or unattended object of similar size, Medium Range
 - **Action Type:** Move Action
-    
-- **The Effect:** The Priest briefly steps out of conventional reality. The Priest instantly swaps physical positions with one willing ally, or one unattended object of similar size, within 60 feet. Because this is a fold in space rather than physical movement, **it does not provoke Engagement attacks**. If the Priest uses this to swap places with an ally who is actively being targeted by an attack, the Priest becomes the new target of the Clash.
-    
-- _Designer Note: This is an elite positioning tool. It allows the Priest to rescue a fragile Arcanist from a Boss’s Threat Zone, or put the heavily armored Fighter directly next to an enemy sniper, all for the steep cost of 2 Locked Stress._
-    
 
-#### 4. The House Always Wins (Master Miracle)
+**The Tithe Ladder:**
+
+- Pass: The Priest steps briefly outside conventional reality, instantly swapping positions with the target. Because this is a fold in space rather than physical movement, it does not provoke Engagement attacks. If the Priest swaps with an ally actively being targeted by an attack, the Priest becomes the new target of that Clash.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, reset the Priest's Encroachment to 0. The swap still occurs.
+
+### Counterfeit Soul
+
+Corvo didn't fight the empire's laws — he forged better ones. The Priest forges a face.
+
+- **Level:** Adept
+- **Cost:** 2 Locked Stress
+- **Target/Range:** Self
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Tithe Ladder:**
+
+- Pass: The Priest's face, voice, and bearing convincingly become someone else's. Anyone suspicious rolls Wits + Notice against the Priest's original casting roll to see through it.
+- Fail: As Pass, and gain 1 encroachment.
+- Snake Eyes: The disguise holds, but convert the cost into a direct Wound.
+#### The House Always Wins (Master Miracle)
 
 - **Cost:** 4 Locked Stress
-    
-- **Action Type:** Free Reaction (Triggered immediately after an enemy resolves an action).
-    
-- **The Effect:** The ultimate expression of Corvo's Folly. The Priest reveals that the last few moments of reality were nothing but a Void-crafted lie. The GM must **completely undo** the enemy's just-resolved action. All Wounds inflicted are healed, all Conditions applied are removed, and the enemy's turn immediately ends. Crucially, any Action Points or **Threat spent by the enemy to trigger the ability is NOT refunded.**
-    
-- _Designer Note: 4 Locked Stress puts the Priest in immediate danger of the Death Spiral, but the effect is game-changing. This allows a Priest to look at the GM who just spent 5 Threat on a Boss's devastating ultimate attack and say, "No, that was an illusion." It is powerful, rule-breaking, and demands a brutal sacrifice from the player._
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Target/Range:** One enemy, line of sight
+- **Action Type:** Free Reaction (triggered immediately after an enemy resolves an action)
+
+**The Tithe Ladder:**
+
+- Pass: The GM must completely undo the enemy's just-resolved action. All Wounds inflicted are healed, all Conditions applied are removed, and the enemy's turn immediately ends. Any Action Points or Threat spent by the enemy to trigger the ability is **not** refunded.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 4 Locked Stress into 4 direct Wounds, reset the Priest's Encroachment to 0. The undo still occurs.
+
+**Flag, not yet resolved:** House Always Wins and Scales of Aurelius both fire on adjacent trigger windows (one right before a roll resolves, one right after an action resolves). A Heretic's Path priest could plausibly take both. They don't strictly conflict — different windows — but if you ever see a table try to chain them against the same enemy action, you'll want a ruling on order. Not urgent; flagging so it doesn't surprise you later.
     
 __________________________________________________________________
 
-The Domain of Winter & Wilds (The Cult of the Rime-Fang)
+### **The Domain of Winter & Wilds (The Cult of the Rime-Fang)**
 Reminder of the existing entry: Paragon Kaelen the Survivor; Domain Tag Chilling Frost (offensive prayers numb the target — no Move next turn unless they pay 1 physical Stress to snap free).
 
-Novice Miracles
-Rime-Fang's Bite
+**Novice Miracles**
+**Rime-Fang's Bite**
 
 Cost: 2 Locked Stress
 Resolution: Tithe of Will — Will + Faith vs. TN 8
@@ -1317,7 +1437,8 @@ Tithe Ladder:
 Pass: Deals 2 Impact. If this Impact causes a Wound, the cold seizes the target's joints and they also gain Rigor.
 Fail: As Pass, and the Priest gains 1 Encroachment.
 Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset Encroachment to 0.
-Wolf's Ward
+
+**Wolf's Ward**
 
 Cost: 1 Locked Stress
 Target/Range: Touch
@@ -1338,7 +1459,8 @@ Tithe Ladder:
 Pass: Every enemy in the radius must pass a Will + Resolve check (TN 8) or gain the Fear condition as the wolf-spirit's cry breaks their nerve.
 Fail: As Pass, and the Priest gains 1 Encroachment.
 Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, reset Encroachment to 0.
-Frostbitten Ground
+
+**Frostbitten Ground**
 
 Cost: 1 Locked Stress
 Target/Range: 10x10ft area, Short Range
@@ -1349,7 +1471,8 @@ Tithe Ladder:
 Pass: The ground glazes with black ice. The area becomes Mire (difficult terrain, per the Iron World Environmental rules).
 Fail: As Pass, and the Priest gains 1 Encroachment.
 Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, reset Encroachment to 0.
-Kaelen's Eye
+
+**Kaelen's Eye**
 
 Cost: 1 Locked Stress
 Target/Range: Self
@@ -1360,8 +1483,10 @@ Tithe Ladder:
 Pass: The Priest reads the wild the way Kaelen did — broken branches, frost patterns, the direction of a fleeing breath. Gain Advantage on Wits + Survival or Wits + Notice checks to track a specific creature or navigate harsh terrain.
 Fail: As Pass, and the Priest gains 1 Encroachment.
 Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, reset Encroachment to 0.
-Apprentice Miracles
-Winter's Endurance
+
+**Apprentice Miracles**
+
+**Winter's Endurance**
 
 Cost: 2 Locked Stress
 Target/Range: Touch
@@ -1372,14 +1497,16 @@ Tithe Ladder:
 Pass: The target's body remembers the endurance of the old hunters. If their Stress Limit is maxed out by an environmental Hazard specifically, the excess is simply lost rather than converting to Wounds, for the rest of the scene.
 Fail: As Pass, and the Priest gains 1 Encroachment.
 Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, reset Encroachment to 0.
-Rime-Fang's Vigil
+
+**Rime-Fang's Vigil**
 
 Cost: 2 Locked Stress
 Resolution: No roll — paid directly in Locked Stress (Faith Reaction)
 Target/Range: Self or one ally, Short Range
 Action Type: Reactor (declared the instant the target is targeted by an Aggressor Strike)
 Effect: The old wolf-spirit's hide answers as a ward of packed ice and matted fur. The target gains +4 Shield Value (SV) as a Front-End Reducer against that single incoming attack.
-Call of the Rime-Fang
+
+**Call of the Rime-Fang**
 
 Cost: 2 Locked Stress
 Target/Range: Self, 10ft
@@ -1390,8 +1517,10 @@ Tithe Ladder:
 Pass: A translucent, frost-limned wolf spirit erupts from the Priest's shadow and fights at their side. Treat it as an NPC ally (Wound Threshold 5, 1 Wound Slot, Prowess +1 | Melee +1, no Stress Limit — as a spirit, it cannot Break or flee) acting on the Priest's Activation.
 Fail: As Pass, and the Priest gains 1 Encroachment.
 Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, reset Encroachment to 0. If summoned, the spirit-wolf instantly dissipates.
-Master Miracles
-The Hunter's Reckoning
+
+**Master Miracles**
+
+**The Hunter's Reckoning**
 
 Cost: 4 Locked Stress
 Resolution: Tithe of Will — Will + Faith vs. TN 8
@@ -1402,7 +1531,8 @@ Tithe Ladder:
 Pass: Kaelen's grit answers the call. The just-resolved Clash automatically inflicts a Minor Wound on the target, even if the calculated Impact fell short of their Wound Threshold.
 Fail: As Pass, and the Priest gains 1 Encroachment.
 Snake Eyes: Convert the 4 Locked Stress into 4 direct Wounds, and reset Encroachment to 0. The Wound is still inflicted regardless.
-The Long Winter
+
+**The Long Winter**
 
 Cost: 3 Locked Stress
 Target/Range: 30ft radius, centered on self
