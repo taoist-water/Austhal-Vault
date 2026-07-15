@@ -1044,7 +1044,7 @@ Faith domains represent direct divine intervention powered by rigid devotion. Ev
 
 # Faith Spells
 ## Common Miracles
-### Healing / Stabilize (Common Miracle)
+**Healing / Stabilize (Common Miracle)**
 A litany murmured over torn flesh, asking permission to undo what was done. Available to every Priest regardless of Domain — this is the spell several Domain Tags already assumed existed.
 
 - **Level:** Novice Miracle
@@ -1060,10 +1060,88 @@ A litany murmured over torn flesh, asking permission to undo what was done. Avai
 
 **Special Interactions:** A character cannot benefit from a second Healing-type Miracle in the same Scene. (This should be added to Iron Core's Golden Rules directly, rather than re-stated on every healing effect that comes along later.)
 
-The Domain of Law (The Cult of the Zenith)
+**Bless**
+
+A short, pragmatic prayer settles over an ally, steadying their hand.
+
+- **Level:** Novice
+- **Cost:** 1 Locked Stress
+- **Target/Range:** One ally, touch
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+
+- Pass: The target gains +1 to their next Clash roll, made within the next minute.
+- Fail: As Pass, and the GM gains 1 Threat.
+- Snake Eyes: The bonus applies, but convert the Locked Stress cost into an equal point of direct Wound on the Priest.
+
+**Sanctuary**
+
+The Priest plants their symbol and speaks a ward; for a moment, harm forgets the way in.
+
+- **Level:** Adept
+- **Cost:** 2 Locked Stress (paid once; no ongoing cost — Faith doesn't roll to sustain the way Arcana does, per the Physical Anchor rule)
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation / Reactor
+- **Duration:** Until the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule)
+
+**The Tithe Ladder:**
+
+- Pass: The warded character gains SV 3 against the next hostile Strike or spell that targets them.
+- Fail: As Pass, and the GM gains 1 Threat.
+- Snake Eyes: The ward still grants its SV, but convert the cost into a direct Wound on the Priest.
+
+**Commune**
+
+The Priest closes their eyes and asks a single question of whatever is listening.
+
+- **Level:** Adept
+- **Cost:** 2 Locked Stress
+- **Target/Range:** Self
+- **Action Type:** Activation (requires 1 minute)
+
+**The Tithe Ladder:**
+
+- Pass: The GM truthfully answers one yes/no question to the best of the Priest's patron's knowledge.
+- Fail: As Pass, but the answer is deliberately vague or riddling, and the GM gains 1 Threat.
+- Snake Eyes: The question is answered, but convert the Locked Stress cost into a direct Wound — something noticed the asking.
+
+**Beacon**
+
+A point of warm, steady light kindles at the Priest's word — never flickers, never gutters.
+
+- **Level:** Novice
+- **Cost:** 1 Locked Stress
+- **Target/Range:** Self or one object, touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Tithe Ladder:**
+
+- Pass: A 20ft radius of steady light. Cannot be extinguished by wind, water, or non-magical means for the duration.
+- Fail: As Pass, and the GM gains 1 Threat.
+- Snake Eyes: The light manifests, but convert the cost into a direct Wound on the Priest.
+
+**Purify**
+
+The Priest lays a hand on corrupted flesh and speaks a single word of refusal.
+
+- **Level:** Adept
+- **Cost:** 2 Locked Stress
+- **Target/Range:** One character, touch
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+
+- Pass: Cures one disease, poison, or curse-based condition currently affecting the target.
+- Fail: As Pass, and the GM gains 1 Threat.
+- Snake Eyes: The affliction clears, but convert the cost into a direct Wound on the Priest.
+
+__________________________________________________________________
+### The Domain of Law (The Cult of the Zenith)
 Paragon: Aurelius the Architect. Theme unchanged: Law Miracles don't create elemental effects — they dictate what is not allowed to happen.
 
-The Architect's Decree (Novice Miracle)
+**The Architect's Decree (Novice Miracle)**
 Cost: 1 Locked Stress
 Resolution: Tithe of Will — Will + Faith vs. TN 8
 Target/Range: One enemy, Short Range
@@ -1075,7 +1153,7 @@ Fail: As Pass, and the Priest gains 1 Encroachment.
 Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per the Toll in Flesh rule, and reset the Priest's Encroachment to 0.
 Designer Note: This is elite battlefield control. It bypasses saving throws entirely — the target stops moving regardless of the roll. What the roll now determines is whether that certainty came cheap (Pass) or whether the Priest is quietly running up a tab with something that isn't them (Fail/Snake Eyes).
 
-Sanctuary of the Zenith (Novice Miracle)
+**Sanctuary of the Zenith (Novice Miracle)**
 Cost: 1 Locked Stress
 Resolution: Tithe of Will — Will + Faith vs. TN 8
 Target/Range: A 3x3 square zone, centered on self or within Short Range
@@ -1088,7 +1166,7 @@ Fail: As Pass, and the Priest gains 1 Encroachment.
 Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, reset the Priest's Encroachment to 0.
 Designer Note: This forces the core 2d6 + Attribute + Skill math to be played completely flat. If a Boss relies on stacked passive Advantages, or a pack of wolves relies on Flanking, the Priest shuts down their mechanical engine — the Tithe roll never touches whether that shutdown happens, only what it costs the Priest personally.
 
-Chains of Mandate (Apprentice Miracle)
+**Chains of Mandate (Apprentice Miracle)**
 Cost: 2 Locked Stress
 Resolution: Tithe of Will — Will + Faith vs. TN 8
 Target/Range: One enemy, Medium Range
@@ -1101,7 +1179,7 @@ Fail: As Pass, and the Priest gains 1 Encroachment.
 Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, reset the Priest's Encroachment to 0.
 Designer Note: This directly hooks into the Dynamic Trait Manifest — Bosses and Elites derive their threat from these Traits. Paying 2 Locked Stress to turn off "Resilient" right before the Fighter lands a Greatsword blow is a deeply satisfying tactical loop, and it's now backed by the same cost-not-outcome uncertainty every other Miracle carries.
 
-The Scales of Aurelius (Master Miracle)
+**The Scales of Aurelius (Master Miracle)**
 Cost: 4 Locked Stress
 Resolution: Tithe of Will — Will + Faith vs. TN 8
 Target/Range: The triggering roll
