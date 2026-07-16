@@ -27,7 +27,7 @@ A concentrated bolt of raw energy streaks from the caster's hand toward a single
 
 - **Level:** Novice
 - **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Defense
-- **Spell Power:** 1
+- **Spell Power:** 2
 - **Target/Range:** One character, Medium Range
 - **Action Type:** Aggressor
 
@@ -42,7 +42,7 @@ The caster hurls a ball of energy that explodes on impact, catching multiple foe
 
 - **Level:** Adept
 - **Resolution:** Arcane Clash, Wits + Arcana vs. each target's Defense (caster rolls once; every target in the radius defends)
-- **Spell Power:** 2
+- **Spell Power:** 3
 - **Target/Range:** A point within Medium Range, 10ft radius
 - **Action Type:** Aggressor
 
@@ -87,7 +87,7 @@ A cone of raw elemental energy erupts from the caster's hands.
 
 - **Level:** Novice
 - **Resolution:** Arcane Clash, Wits + Arcana vs. each target's Defense
-- **Spell Power:** 1
+- **Spell Power:** 2
 - **Target/Range:** 10ft cone
 - **Action Type:** Aggressor
 
@@ -406,7 +406,7 @@ The Necromancer uses a dead body on the battlefield as a bomb, rapidly accelerat
 - Action Type: Activation
 - Duration: Instantaneous
 - Resolution: Unopposed Wits + Arcana vs. TN 10. (Requires a corpse within sight).
-- **Spell Power: 2**
+- **Spell Power: 3**
 - The Effect: The targeted corpse explodes, spraying razor-sharp bone shrapnel and toxic bile in a 10-foot radius. Every creature (friend or foe) in the radius suffers Impact equal to the casting Margin + Spell Power.
 - The Margin Scaler:
   - Margin 0–2 (Messy): The explosion is delayed or unpredictable. The GM shifts the center of the blast 5 feet in a random direction before calculating who is hit.
@@ -585,7 +585,7 @@ The Shaman draws ambient static from the air, concentrating it into a deafening,
 - Action Type: Aggressor
 - Duration: Instantaneous
 - Resolution: Arcane Clash (Wits + Arcana vs. Target's Dodge or Brace).
-- **Spell Power: 2**
+- **Spell Power: 3**
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 2 (Spell Power). The sheer voltage causes the target to drop their weapon or shield; they must spend a Free Action on their next turn picking it up.
   - Margin 3+ (Clean): As above, and the electrical surge cooks the target inside their armor — they instantly suffer 1 Dissonant Stress in addition to the physical Wound damage.
@@ -708,7 +708,7 @@ The caster’s hands violently sweat a highly reactive, boiling solvent, which t
 - Action Type: Aggressor
 - Duration: Instantaneous
 - Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
-- **Spell Power: 1**
+- **Spell Power: 2**
 - The Effect: This spell ignores the target's Shield Value (SV) entirely during the Clash, as the acid simply splashes over and eats through the barrier.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 1 (Spell Power). If the target used a shield to Block, the shield permanently loses 1 SV for the rest of the campaign (or until repaired via Downtime).
@@ -800,7 +800,7 @@ The caster rips a jagged, temporary tear in the air itself, exposing the target 
 - Action Type: Aggressor
 - Duration: Instantaneous
 -Resolution: Arcane Clash (Wits + Arcana vs. Target's Dodge action).
-- **Spell Power: 3**
+- **Spell Power: 5**
 - The Effect: This spell completely ignores all physical armor, Shield Values, and Bestiary tags. It is pure, unmitigated erasure. However, if the caster loses the Clash via a target's Dodge, the tear violently snaps shut, and the GM immediately gains 1 Threat point.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 3 (Spell Power). The target is chilled to the bone, suffering Disadvantage on their next physical Strike roll.
@@ -859,7 +859,7 @@ The caster violently twists the spatial dimensions around an enemy, causing dist
 - Action Type: Aggressor
 - Duration: Until the paradox resolves (see Margin Scaler)
 - Resolution: Arcane Clash (Wits + Arcana vs. Target's Wits + Resolve).
-- **Spell Power: 2**
+- **Spell Power: 3**
 - The Effect: You target one Elite or Boss. If you win the Clash, you lock them in a spatial paradox.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: The target is Anchored (0 movement). Any melee attack they attempt against an adjacent player automatically suffers a -2 penalty, as their weapon swings through warped space.
@@ -1005,7 +1005,7 @@ The Astromancer calls down a pinpoint, blinding shaft of condensed starlight tha
 - Action Type: Aggressor
 - Duration: Instantaneous
 -Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
-- **Spell Power: 2**
+- **Spell Power: 3**
 - The Effect: Because the attack comes from directly above at orbital velocity, traditional horizontal defenses are useless. The target completely loses the ability to use the Parry action against this Strike. They must rely on a heavy shield (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 2 (Spell Power). The flash is blinding, stripping the target of their peripheral vision and denying them the flanking Bonus or Pack Tactics on their next turn.
@@ -1063,7 +1063,7 @@ The caster exhales a concentrated, blinding beam of white-hot plasma that superh
 - Action Type: Aggressor
 - Duration: Instantaneous
 - Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
-- **Spell Power: 3**
+- **Spell Power: 5**
 - The Effect: You cannot cross blades with a blowtorch. The target completely loses the ability to use the Parry action against this Strike. They must rely on a thick shield (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 3 (Spell Power). The raw heat causes the target to panic, forcing them to drop any wooden weapon or shield they are holding.
@@ -1079,7 +1079,7 @@ The caster hurls a fistful of white-hot embers that aggressively seek out oxygen
 - Action Type: Activation
 - Duration: Until the fire burns out or is extinguished
 - Resolution: Unopposed Wits + Arcana vs. TN 10.
-- **Spell Power: 1**
+- **Spell Power: 2**
 - The Effect: Creates a 10x10 foot zone of raging fire. The casting Margin is fixed at the moment of casting. Any creature (friend or foe) starting their turn in the fire or moving through it automatically suffers Impact equal to that fixed Margin + Spell Power, for as long as the zone persists. The zone destroys any wooden cover or mundane foliage.
 - The Margin Scaler:
   - Margin 0–2 (Messy): The fire is dangerously hungry. The zone forms, but the backdraft instantly singes the caster, dealing 1 Impact to them and destroying one mundane, non-magical item in their inventory (like a rope or torch).
@@ -1118,7 +1118,7 @@ The caster hyper-pressurizes the air directly around their own body, before rele
 - Action Type: Aggressor
 - Duration: Instantaneous
 - Resolution: Arcane Clash (Wits + Arcana vs. Targets' Defense action). Note: This targets every enemy currently engaged in the caster's Threat Zone.
-- **Spell Power: 1**
+- **Spell Power: 2**
 - The Effect: This is the Pyromancer's panic button when swarmed. The caster rolls once, and every enemy within 5 feet must roll to defend.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 1 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus.
