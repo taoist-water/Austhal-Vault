@@ -629,6 +629,14 @@ ______________________________________________________________________
     
 - Mechanic: You gain a 4th Wound slot, meaning you are only Incapacitated upon taking your 5th Wound. However, your body is so heavily damaged that any healing (whether magical or through mundane downtime activities) takes twice as long and requires double the normal resources.
 
+**Miraculous Intervention**(dev note)I think that this will cease to be a feat and become a miracle in the healing and mercy domain (/dev note)    
+
+- Prerequisites: Faith 3
+    
+- The gods reach down and aggressively deny reality.
+    
+- Mechanic: If an ally within line of sight takes a lethal blow or permanent trauma, you can take a -4 penalty and instantly spend all your remaining Dissonant Stress (minimum 2). You cast a localized miracle that completely negates that attack, leaving the ally unharmed, but leaving you completely exhausted.
+
 **Overchannel**    
 
 - Prerequisites: Arcana 3
@@ -973,11 +981,11 @@ Every 2 to 3 sessions, the GM awards the party a Milestone Reward of 3 Developme
 5. Learn New Faith Spells
 	- Cannot learn Prayers from outside your Chosen Cult/Domain.
 	- Novice Miracle = 2 DP
-	- Adept = 3 DP
+	- Apprentice = 3 DP
 	- Master = 4–5 DP
 	
 6. Learn New Arcane Spells
 	-  Novice Miracle = 2 DP
-	- Adept = 3 DP
+	- Apprentice = 3 DP
 	- Master = 4–5 DP
 	- Spells from outside your chosen Paradigm cost double.

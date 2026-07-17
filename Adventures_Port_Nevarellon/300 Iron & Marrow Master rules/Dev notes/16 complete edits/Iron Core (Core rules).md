@@ -48,21 +48,21 @@ The Resolution Ladder You calculate the Margin (Total Result - 8) and apply the 
 - Exceptional Success (Margin 5+): You absolutely dominate the challenge. You achieve the result and generate 1 Momentum, or you gain a Prep Tag for an upcoming encounter.
 _____________________________________________________________________
 
-Passive Notice
+**Passive Notice**
 Not every threat announces itself with a die roll. When a character isn't actively searching — walking down a corridor, mid-conversation, sprinting through a firefight — the world still needs a number to test their awareness against, without pausing the game for a check nobody declared.
 
-The Formula: Passive Notice = 7 + Wits + Notice, modified by any applicable Situational Modifier (+2/-2/-4, per Tools for the Nameless).
+*The Formula: Passive Notice = 7 + Wits + Notice, modified by any applicable Situational Modifier (+2/-2/-4, per Tools for the Nameless).*
 
 The baseline of 7 (rather than a flat TN8) anchors Passive Notice to the statistical average of 2d6, keeping it consistent with the actual odds of an active roll. An unmodified character's Passive Notice sits just below TN8 — matching the fact that they'd fail an active TN8 check more often than not. Passive Notice should never make an untrained bystander more perceptive than a trained character actively rolling to look.
 
-Advantage/Disadvantage Conversion: Because Passive Notice doesn't roll dice, sources of Advantage or Disadvantage on Notice checks (e.g. the Dwarf's Subterranean Senses, or the Whispers in the Dark feat) apply as a flat +2 or -2 to the Passive Notice score instead — consistent with the existing Situational Modifier scale (Advantageous = +2, Difficult = -2).
+*Advantage/Disadvantage Conversion:* Because Passive Notice doesn't roll dice, sources of Advantage or Disadvantage on Notice checks (e.g. the Dwarf's Subterranean Senses, or the Whispers in the Dark feat) apply as a flat +2 or -2 to the Passive Notice score instead — consistent with the existing Situational Modifier scale (Advantageous = +2, Difficult = -2).
 
-The Winded Penalty: Passive Notice stands in for a roll, not an exemption from one. It takes the standard -1 Winded penalty if the character's Dissonant Stress is at or above 50% of their Stress Limit, exactly as an active roll would.
+*The Winded Penalty:* Passive Notice stands in for a roll, not an exemption from one. It takes the standard -1 Winded penalty if the character's Dissonant Stress is at or above 50% of their Stress Limit, exactly as an active roll would.
 
-Resolution Modes:
+**Resolution Modes:**
 
-Opposed (detecting a person): Compare Passive Notice directly against the sneaking creature's Stealth roll (2d6 + Reflex + Stealth), or against a fixed Concealment Rating. This mirrors the existing Illusion/Disguise pattern of comparing a static value against a banked roll or Margin.
-Unopposed (detecting a hazard or feature): Passive Notice + Situational Modifier vs. TN8 flat.
+*Opposed (detecting a person):* Compare Passive Notice directly against the sneaking creature's Stealth roll (2d6 + Reflex + Stealth), or against a fixed Concealment Rating. This mirrors the existing Illusion/Disguise pattern of comparing a static value against a banked roll or Margin.
+*Unopposed (detecting a hazard or feature):* Passive Notice + Situational Modifier vs. TN8 flat.
 This mechanic resolves the Aware/Unaware fork in Iron World's Hazard Roll, the Bestiary's Ambusher trait, and the Cultist Assassin's Vanish ability — see those entries for specific application.
 
 _____________________________________________________________________
@@ -346,18 +346,7 @@ _The lungs burn, the light above the surface gets smaller, and the pressure keep
 - **Clearance:** The character (or an adjacent ally spending an Action) may attempt a **Prowess + Athletics check (TN 8)** to reach the surface and clear the condition. Automatically cleared if the character is physically removed from the water.
     
 
-### 5. Suppressed (The Discipline Tax)
-
-_The relentless, disciplined pressure of coordinated fire makes anything but hunkering down feel like an invitation to disaster._
-
-- **The Mechanic:** While Suppressed, if the character takes any action other than Attack, Block, Brace, or Regroup, that action is made with Disadvantage, and the character immediately suffers 1 Dissonant Stress from breaking cover under pressure.
-    
-- **The Engine Interaction:** Suppressed doesn't stop a character from doing something risky — it makes doing anything except holding their ground and fighting back cost real Stress. It pushes the target toward committing to the exchange rather than repositioning or using utility actions.
-    
-- **Clearance:** Fades automatically at the start of the Suppressed character's next turn if they're no longer in line of sight of the source. Otherwise cleared via the Regroup action.
-    
-
-### 6. Regroup (The Universal Reset Action)
+### 5. Regroup (The Universal Reset Action)
 
 _Regroup is not a condition; it is a universal **Action** available to all characters and enemies._
 
