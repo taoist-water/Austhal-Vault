@@ -1205,10 +1205,10 @@ Sanctuary
 The Priest plants their symbol and speaks a ward; for a moment, harm forgets the way in.
 
 Level: Adept
-Cost: 2 Locked Stress (paid once; no ongoing cost — Faith doesn't roll to sustain the way Arcana does, per the Physical Anchor rule)
+Cost: 2 Locked Stress
 Target/Range: Self or one ally, touch
 Action Type: Activation / Reactor
-Duration: Until the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule)
+Duration: Sustain.
 The Tithe Ladder:
 
 Pass: The warded character gains SV 3 against the next hostile Strike or spell that targets them.
