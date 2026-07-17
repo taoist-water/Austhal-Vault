@@ -1543,3 +1543,109 @@ Tithe Ladder:
 Pass: Kaelen's endless winter descends. The zone becomes Heavily Obscured (per the Environmental rules), and every enemy that ends its turn inside suffers 1 Dissonant Stress from the bone-deep cold. Allies are unaffected by the cold.
 Fail: As Pass, and the Priest gains 1 Encroachment.
 Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, reset Encroachment to 0. The blizzard still forms.
+__________________________________________________________________
+
+## The Domain of the Sea & Storms (The Tidespoken Clergy)
+### Novice Miracles
+
+**Riptide**
+The ground itself decides it would rather be underwater.
+
+- **Level:** Novice Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: Target must pass Prowess + Athletics (TN 8) or be swept 2 Zones in a direction of the Priest's choosing and knocked Prone.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
+
+**Storm's Breath**
+
+- **Level:** Novice Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** Touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Tithe Ladder:**
+- Pass: Target ignores Stress and penalties from weather- or water-related environmental hazards (per the Iron World Hazard Check rules) for the scene.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
+
+**Crushing Surf**
+
+- **Level:** Novice Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Cost:** 2 Locked Stress
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: Target must pass Prowess + Athletics (TN 8) or suffer 2 Dissonant Stress and be knocked Prone.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
+
+### Adept Miracles
+
+**The Undertow's Grip**
+
+- **Level:** Adept Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
+- **Cost:** 2 Locked Stress
+- **Target/Range:** 15ft radius, Short Range
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: Every enemy in the radius must pass Prowess + Athletics (TN 10) or become Anchored until they break free (repeat the check as a Free Action on their turn).
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
+
+**Rogue Wave**
+
+- **Level:** Adept Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
+- **Cost:** 2 Locked Stress
+- **Target/Range:** 15ft radius, Short Range
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: Every character in the radius — friend or foe — must pass Prowess + Athletics (TN 10) or suffer 3 Dissonant Stress and be swept 1 Zone and knocked Prone.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
+
+**Special Interactions:** Deliberately indiscriminate, mirroring Corpse Bloom — the sea doesn't negotiate.
+
+### Master Miracles
+
+**The Drowning Depths**
+Thalass doesn't drown you all at once. She simply doesn't let you back up for air.
+
+- **Level:** Master Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
+- **Cost:** 3 Locked Stress
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: Target must pass Prowess + Athletics (TN 12) or gain the Drowned condition (see Iron Core).
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
+
+**The Sovereign Tide**
+The storm doesn't rage because Thalass is angry. It rages because the ocean has never once needed permission.
+
+- **Level:** Master Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
+- **Cost:** 3 Locked Stress
+- **Target/Range:** 25ft radius, centered on self
+- **Action Type:** Activation
+- **Duration:** Sustain — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 12 at the start of each of their Activations to maintain it (per the Faith Cost sustain rule in Embracing the Abyss). The zone instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
+
+**The Tithe Ladder:**
+- Pass: The zone becomes Heavily Obscured and Mire for enemies only (per the Environmental rules); every enemy that ends its turn inside suffers 1 Dissonant Stress. Allies are unaffected.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The zone still forms.
