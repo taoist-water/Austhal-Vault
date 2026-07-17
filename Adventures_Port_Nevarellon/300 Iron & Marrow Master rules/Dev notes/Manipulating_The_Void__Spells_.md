@@ -791,7 +791,6 @@ The caster whispers a truth from the outer dark, projecting pure existential dre
 **The Margin Scaler:**
 - Margin 1–2: Target suffers 2 Dissonant Stress and must spend their next Activation moving away from the caster at maximum speed.
 - Margin 3+ (Clean): As above, and if it's a Fodder-tier enemy, they immediately Rout (per the NPC Stress rules) rather than just fleeing.
-
 ### 1. Flay the Veil (Combat / Unmitigated Annihilation)
 
 The caster rips a jagged, temporary tear in the air itself, exposing the target to the crushing pressure and absolute zero of the void outside reality.
@@ -1154,6 +1153,127 @@ Faith domains represent direct divine intervention powered by rigid devotion. Th
 - **Flavor:** Black hooded raiment, stark quiet expressions. Prayers manifest as chilling quietude and falling feathers.
 - **Domain Tag (Rest in Peace):** Cast *Stabilize* -> Target becomes completely immune to further Stress gains from mental shock or supernatural dread for the scene.
 
+### Novice Miracles
+
+**Peaceful Repose**
+Vael doesn't guard you from dying. He guards you from being afraid of it.
+
+- **Level:** Novice Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Tithe Ladder:**
+- Pass: The target's mind settles into the quiet Vael taught. For the duration, they're immune to the Fear and Terrified conditions, and cannot suffer the Panic Reflex.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
+
+**Special Interactions:** Distinct from the Rest in Peace Domain Tag — Rest in Peace only fires off a Stabilize cast; this can be cast proactively on anyone, anytime.
+
+**The Quiet Truth**
+The Priest doesn't summon a vision. They just let the target see, for one second, exactly how small and mortal they are.
+
+- **Level:** Novice Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: The target must pass a Will + Resolve check (TN 8) or gain the Fear condition, fixed on the Priest.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Resolve check.
+
+**The Last Bell**
+Somewhere close, a bell only Vael's faithful can hear has begun to toll.
+
+- **Level:** Novice Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** Self, 60ft radius
+- **Action Type:** Activation
+- **Duration:** Instantaneous
+
+**The Tithe Ladder:**
+- Pass: The Priest instantly knows the number, rough direction, and severity (Incapacitated / Bleeding Out / dead within the hour) of every dying or recently-dead creature in range — friend, foe, or stranger.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0. The knowledge is still granted.
+
+**Special Interactions:** Pairs directly with Shepherd the Dying and Vael's Mercy — it's the spell that tells the Priest where to point the other two.
+
+### Adept Miracles
+
+**Last Rites**
+Vael's answer to a Necromancer isn't a duel. It's getting there first.
+
+- **Level:** Adept Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
+- **Cost:** 2 Locked Stress
+- **Target/Range:** One corpse, touch
+- **Action Type:** Activation (requires a few uninterrupted minutes — cannot be cast mid-Clash)
+- **Duration:** Permanent
+
+**The Tithe Ladder:**
+- Pass: The rite settles permanently over the body. This corpse can never be reanimated by Zombie, Puppet, or any spell that requires "a corpse within reach" — the protection cannot be dispelled by the Necromancer. If the character died within the last hour, the Priest may also ask the remains one final yes/no question, answered honestly.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The rite still takes.
+
+**Special Interactions:** Death's dedicated counter to the Necromancy Spellbook — a Priest who sweeps a graveyard or battlefield ahead of time denies an enemy Necromancer their raw material entirely. *(Dev note: cross-reference this in the Zombie entry once reviewed.)*
+
+**Shepherd the Dying**
+Vael doesn't fight death. He negotiates with it, on your behalf, before you can.
+
+- **Level:** Adept Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
+- **Cost:** 2 Locked Stress
+- **Target/Range:** One ally, Short Range
+- **Action Type:** Reactor (declared the instant the target becomes Incapacitated, before any Bleed-Out check is rolled)
+
+**The Tithe Ladder:**
+- Pass: The target is instantly Stabilized (per Iron Core's Bleed-Out rules) — no roll needed.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target is still Stabilized.
+
+**Special Interactions:** Doesn't replace Triage or the Common Miracle Stabilize — differentiated by timing (Reactor, free of the action economy) rather than by being strictly stronger.
+
+### Master Miracles
+
+**Vael's Mercy**
+There's no violence in it. A hand on the brow, a held breath, and it's over. Turned toward a target who still has the strength to resist, the same mercy becomes a verdict.
+
+- **Level:** Master Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
+- **Cost:** 3 Locked Stress
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor (against a living target) or Activation/Reactor (against an already-Incapacitated target)
+
+**The Tithe Ladder:**
+- Pass, against an Incapacitated target: the target dies instantly and without pain. Bypasses the mundane Coup de Grâce entirely — no attack roll, no Impact, no Death Mark. Usable on a willing, Incapacitated ally to spare them a Bleed-Out fight the party can't win, or on an Incapacitated enemy to end them outright.
+- Pass, against a living, conscious target of Elite tier or below: the target must pass a Will + Resolve check (TN 12) or immediately become Incapacitated (per Iron Core's Incapacitated condition), regardless of remaining Wound Slots. **This cannot target Boss-tier enemies under any circumstance.**
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The effect still occurs.
+
+**Special Interactions:** A living target Incapacitated this way still enters the normal Bleed-Out track and can be saved by Triage or Stabilize — this is a removal-from-the-fight tool against a resisting target, not a second unconditional execution. Explicitly Boss-exempt.
+
+**The Long Silence**
+Every sound dies at the edge of the zone. Everyone inside feels, all at once, exactly how alone they are.
+
+- **Level:** Master Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
+- **Cost:** 3 Locked Stress
+- **Target/Range:** 20ft radius, centered on self
+- **Action Type:** Activation
+- **Duration:** Sustain — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 12 at the start of each of their Activations to maintain it (per the Faith Cost sustain rule in Embracing the Abyss). The zone instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
+
+**The Tithe Ladder:**
+- Pass: Every enemy that starts its turn in the zone must pass a Will + Resolve check (TN 12) or gain Fear, fixed on the Priest. Allies inside the zone gain Peaceful Repose's Panic Reflex immunity for as long as they remain there.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The zone still forms.
+
+*(Dev note: this Miracle's Duration is built on the Faith Cost sustain rule in Embracing the Abyss — a Priest rolls Tithe of Will every Activation to maintain a sustained Miracle. This contradicts Sanctuary's cost line elsewhere in this document, which states "Faith doesn't roll to sustain the way Arcana does." That contradiction is unresolved — flagged for a ruling, not fixed here.)*
+
 ## 5. The Domain of Winter & Wilds (The Cult of the Rime-Fang)
 - **The Paragon:** *Kaelen the Survivor*
 - **The Lore:** A tribal matriarch from the deepest winters of the north who supposedly hunted a primordial winter-drake with nothing but an iron spear and her bare teeth. She embodies the raw, animalistic grit required to survive when civilization fails.
@@ -1171,6 +1291,110 @@ Faith domains represent direct divine intervention powered by rigid devotion. Th
 - **The Lore:** Thalass was not a person, but an apocalyptic rogue wave that destroyed an entire fleet of the old king's armada. The Tidespoken revere this natural disaster as the ultimate proof that the ocean is the true sovereign of the world, and they seek to align themselves with its crushing power.
 - **Flavor:** Sea-shell tokens, salt-crusted oilskins. Prayers manifest as the crash of distant rogue waves and heavy brine smells.
 - **Domain Tag (Tidal Undertow):** Affect enemy with prayer -> Target is physically shoved 1 Zone in a direction of your choosing.
+
+### Novice Miracles
+
+**Riptide**
+The ground itself decides it would rather be underwater.
+
+- **Level:** Novice Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: Target must pass Prowess + Athletics (TN 8) or be swept 2 Zones in a direction of the Priest's choosing and knocked Prone.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
+
+**Storm's Breath**
+
+- **Level:** Novice Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** Touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Tithe Ladder:**
+- Pass: Target ignores Stress and penalties from weather- or water-related environmental hazards (per the Iron World Hazard Check rules) for the scene.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
+
+**Crushing Surf**
+
+- **Level:** Novice Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
+- **Cost:** 2 Locked Stress
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: Target must pass Prowess + Athletics (TN 8) or suffer 2 Dissonant Stress and be knocked Prone.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
+
+### Adept Miracles
+
+**The Undertow's Grip**
+
+- **Level:** Adept Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
+- **Cost:** 2 Locked Stress
+- **Target/Range:** 15ft radius, Short Range
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: Every enemy in the radius must pass Prowess + Athletics (TN 10) or become Anchored until they break free (repeat the check as a Free Action on their turn).
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
+
+**Rogue Wave**
+
+- **Level:** Adept Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
+- **Cost:** 2 Locked Stress
+- **Target/Range:** 15ft radius, Short Range
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: Every character in the radius — friend or foe — must pass Prowess + Athletics (TN 10) or suffer 3 Dissonant Stress and be swept 1 Zone and knocked Prone.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
+
+**Special Interactions:** Deliberately indiscriminate, mirroring Corpse Bloom — the sea doesn't negotiate.
+
+### Master Miracles
+
+**The Drowning Depths**
+Thalass doesn't drown you all at once. She simply doesn't let you back up for air.
+
+- **Level:** Master Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
+- **Cost:** 3 Locked Stress
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Tithe Ladder:**
+- Pass: Target must pass Prowess + Athletics (TN 12) or gain the Drowned condition (see Iron Core).
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
+
+**The Sovereign Tide**
+The storm doesn't rage because Thalass is angry. It rages because the ocean has never once needed permission.
+
+- **Level:** Master Miracle
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
+- **Cost:** 3 Locked Stress
+- **Target/Range:** 25ft radius, centered on self
+- **Action Type:** Activation
+- **Duration:** Sustain — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 12 at the start of each of their Activations to maintain it (per the Faith Cost sustain rule in Embracing the Abyss). The zone instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
+
+**The Tithe Ladder:**
+- Pass: The zone becomes Heavily Obscured and Mire for enemies only (per the Environmental rules); every enemy that ends its turn inside suffers 1 Dissonant Stress. Allies are unaffected.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The zone still forms.
 
 Faith Spells
 Common Miracles
@@ -1206,14 +1430,14 @@ Sanctuary
 The Priest plants their symbol and speaks a ward; for a moment, harm forgets the way in.
 
 Level: Adept
-Cost: 2 Locked Stress
+Cost: 2 Locked Stress (paid once; no ongoing cost — Faith doesn't roll to sustain the way Arcana does, per the Physical Anchor rule)
 Target/Range: Self or one ally, touch
 Action Type: Activation / Reactor
-Duration: Sustain.
+Duration: Sustain
 The Tithe Ladder:
 
 Pass: The warded character gains SV 3 against the next hostile Strike or spell that targets them.
-Fail: As Pass, and the GM gains 1 Threat.
+Fail: As Pass, and the GM
 Snake Eyes: The ward still grants its SV, but convert the cost into a direct Wound on the Priest.
 Commune
 

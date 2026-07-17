@@ -7,7 +7,9 @@
 - trying to reduce cognitive load on the GM and Players.
 
 #  The Golden Rules:
-- Bonuses to Wound Threshold from magical sources (Spells, Auras) do not stack. A character only benefits from the highest single bonus. This does not apply to Shield Value.
+- Bonuses to Wound Threshold from magical sources (Spells, Auras, Enchanted Equipment) do not stack. A character only benefits from the highest single bonus. This does not apply to Shield Value.
+- Bane effects (a flat reduction to a target's Wound Threshold against one specific Creature Type — see the Bestiary's Creature Types list) do not stack with each other against the same target; only the single highest Bane reduction applies. Bane reduces Wound Threshold before Impact is compared against it — this is a separate step from the Massive trait's Impact-halving, and the two apply independently rather than cancelling out.
+- Locked Stress committed to a Sustained spell/Miracle, or to an item's Attunement (see Hardware: Enchantments), cannot be targeted by Grounding, the Reprieve, or Religious Pursuit. It only releases when the effect is voluntarily ended, the Miracle drops, or the item is deliberately unattuned.
 - All non-Opposed checks are against a Target Number [[TN|TN]] 8.
 - Situational Modifiers are applied at GM’s discretion, +2, -2, -4.
 - Advantage and Disadvantage do not stack. If you have multiple sources of Disadvantage, you still only roll 1 extra die and drop the highest. If you have both Advantage and Disadvantage, they cancel each other out entirely.
@@ -23,8 +25,8 @@
 		- the difference between the winner and the loser is the Impact (when attacking).
 		- Impact is compared to the losers Wound Threshold.
   	    
-- Fates Bounty (double 6s): When a natural double 6 is rolled, the player (or Elite/boss NPC)  rolls an additional die and adds it to the total. This is only done once.
-- Snake Eyes (natural 2): Automatic failure. The character immediately suffers 1 Stress, and additional contextual penalties.
+- **Fates Bounty (double 6s):** When a natural double 6 is rolled, the player (or Elite/boss NPC)  rolls an additional die and adds it to the total. This is only done once.
+- **Snake Eyes (natural 2):** Automatic failure. The character immediately suffers 1 Stress, and additional contextual penalties.
 - **Desperate Edge (a single natural 6):** When exactly one of the two dice in a 2d6 check shows a 6, the roller may treat that die as exploding: roll one additional d6 and add it to the total. Unlike Fates' Bounty (which triggers on *both* dice showing 6 and immediately grants an extra full die with no further conditions), Desperate Edge triggers on rolling a single 6 **only while the character is in a qualifying desperate state** — at half or more of their Stress Limit in Dissonant Stress, at their final Wound Slot, or under a specific feat/spell that explicitly lowers the threshold (such as *Embrace the Void*, which extends this to natural 5s as well). Outside a qualifying desperate state, a lone natural 6 is just a 6 — solid, unremarkable, no explosion.
 
 - \[dev note\]Perfect Sequence (Universal Combat Rule): If a Prowess or Reflex check results specifically in a 3 and a 4 (creating a natural 7), the character achieves "Perfect Form". They may immediately perform a Free Shift (move 1 square) without triggering a Reactor action from the enemy. \[/dev note\]
@@ -45,23 +47,23 @@ The Resolution Ladder You calculate the Margin (Total Result - 8) and apply the 
     
 - Exceptional Success (Margin 5+): You absolutely dominate the challenge. You achieve the result and generate 1 Momentum, or you gain a Prep Tag for an upcoming encounter.
 _____________________________________________________________________
-## Passive Notice
 
+Passive Notice
 Not every threat announces itself with a die roll. When a character isn't actively searching — walking down a corridor, mid-conversation, sprinting through a firefight — the world still needs a number to test their awareness against, without pausing the game for a check nobody declared.
 
-**The Formula:** Passive Notice = 7 + Wits + Notice, modified by any applicable Situational Modifier (+2/-2/-4, per Tools for the Nameless).
+The Formula: Passive Notice = 7 + Wits + Notice, modified by any applicable Situational Modifier (+2/-2/-4, per Tools for the Nameless).
 
 The baseline of 7 (rather than a flat TN8) anchors Passive Notice to the statistical average of 2d6, keeping it consistent with the actual odds of an active roll. An unmodified character's Passive Notice sits just below TN8 — matching the fact that they'd fail an active TN8 check more often than not. Passive Notice should never make an untrained bystander more perceptive than a trained character actively rolling to look.
 
-**Advantage/Disadvantage Conversion:** Because Passive Notice doesn't roll dice, sources of Advantage or Disadvantage on Notice checks (e.g. the Dwarf's Subterranean Senses, or the Whispers in the Dark feat) apply as a flat **+2** or **-2** to the Passive Notice score instead — consistent with the existing Situational Modifier scale (Advantageous = +2, Difficult = -2).
+Advantage/Disadvantage Conversion: Because Passive Notice doesn't roll dice, sources of Advantage or Disadvantage on Notice checks (e.g. the Dwarf's Subterranean Senses, or the Whispers in the Dark feat) apply as a flat +2 or -2 to the Passive Notice score instead — consistent with the existing Situational Modifier scale (Advantageous = +2, Difficult = -2).
 
-**The Winded Penalty:** Passive Notice stands in for a roll, not an exemption from one. It takes the standard -1 Winded penalty if the character's Dissonant Stress is at or above 50% of their Stress Limit, exactly as an active roll would.
+The Winded Penalty: Passive Notice stands in for a roll, not an exemption from one. It takes the standard -1 Winded penalty if the character's Dissonant Stress is at or above 50% of their Stress Limit, exactly as an active roll would.
 
-**Resolution Modes:**
-- **Opposed (detecting a person):** Compare Passive Notice directly against the sneaking creature's Stealth roll (2d6 + Reflex + Stealth), or against a fixed Concealment Rating. This mirrors the existing Illusion/Disguise pattern of comparing a static value against a banked roll or Margin.
-- **Unopposed (detecting a hazard or feature):** Passive Notice + Situational Modifier vs. TN8 flat.
+Resolution Modes:
 
-*This mechanic resolves the Aware/Unaware fork in Iron World's Hazard Roll, the Bestiary's Ambusher trait, and the Cultist Assassin's Vanish ability — see those entries for specific application.*
+Opposed (detecting a person): Compare Passive Notice directly against the sneaking creature's Stealth roll (2d6 + Reflex + Stealth), or against a fixed Concealment Rating. This mirrors the existing Illusion/Disguise pattern of comparing a static value against a banked roll or Margin.
+Unopposed (detecting a hazard or feature): Passive Notice + Situational Modifier vs. TN8 flat.
+This mechanic resolves the Aware/Unaware fork in Iron World's Hazard Roll, the Bestiary's Ambusher trait, and the Cultist Assassin's Vanish ability — see those entries for specific application.
 
 _____________________________________________________________________
 ## The "Snake Eyes" Rule (Natural 2)
@@ -246,7 +248,7 @@ When a character takes a Wound and cannot fill a wound slot, they immediately fa
 
 Because the player is stuck at the bottom of the turn order, the rest of the party has a desperate window to save them.
 
-- **Triage (The Save):** An ally can use an Action to perform a _Medicine_ check (TN 8), use an Alchemical Poultice, or cast the _Stabilize_ Faith Cantrip. If successful, the Incapacitated character instantly becomes Stabilized, stopping the Death Marks.
+- **Triage (The Save):** An ally can use an Action to perform a _Medicine_ check (TN 8), use an Alchemical Poultice, or cast  _Stabilize_. If successful, the Incapacitated character instantly becomes Stabilized, stopping the Death Marks.
     
 - **The Coup de Grâce (The Threat):** If an Incapacitated character is hit by a melee attack action they do not calculate Impact. They immediately suffer 1 automatic Death Mark. If the attacker uses the uses their whole activation, the character is instantly killed.
 _______________________________________________________________________
@@ -266,7 +268,7 @@ _______________________________________________________________________
 
 # Long Rest:
 
-a period of downtime, lasting at least typically 8 hours, during which a character does nothing more strenuous than eating, drinking, uninterrupted sleeping.
+a period of downtime, lasting at least typically 8 hours, during which a character does nothing more strenuous than eating, drinking, uninterrupted sleeping. Depending on the Narrative the GM can allow 1 contextually relevant Pursuit.
 
 ________________________________________________________________________
 # The Conditions System
