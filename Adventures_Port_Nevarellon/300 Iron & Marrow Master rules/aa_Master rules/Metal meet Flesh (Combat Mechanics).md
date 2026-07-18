@@ -51,7 +51,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 - Strike: 2D6 + Prowess + Melee. The standard attack. 
 - Power Strike: 2D6 + Prowess + Melee + weapon power. Apply the weapon power to the strike roll, instead of the impact calculation. however, it reduces your Wounds threshold by 2 until the beginning of your next activation.
 
-- Grab: 2D6 + Prowess + Athletics. Attempt to Hold the Target in a grapple. Win, you and the opponent gain the In-Fighting and Grappled conditions.
+- Grab: 2D6 + Prowess + Athletics. Attempt to Hold the Target in a grapple or hold onto an enemy. Win, you and the opponent gain the In-Fighting and Grappled conditions.
     
 - Shove: 2D6 + Prowess + Athletics. The physical Push, you bash the target to create space or break a grapple. If you win, the target takes 1 Stress and is pushed back 5 feet out of your threat Zone.
     
@@ -64,7 +64,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 
 *When targeted by a ranged attack outside of movement distance and without a ranged weapon, the target of an activation is automatically the Reactor.*
 
-- Block: 2D6 + Prowess + Block + Shield value. 
+- Block: 2D6 + Prowess + Block. If you lose the Clash, subtract your Shield's Value from the Impact before comparing it to your Wound Threshold (minimum 0).
     
 - Dodge: 2D6 + Reflex + Acrobatics. Avoid damage and instantly shift 5ft.
     

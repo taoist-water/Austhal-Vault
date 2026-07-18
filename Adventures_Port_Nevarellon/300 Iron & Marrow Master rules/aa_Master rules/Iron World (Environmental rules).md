@@ -20,7 +20,7 @@ ________________________________________________________________________
 
 Being Obscured acts as a direct negative modifier to the attacker's roll. 
 
-- - **Obscured (Thick underbrush, dim lighting, smoke):** You can track the target, but you are guessing their movements.
+-  **Obscured (Thick underbrush, dim lighting, smoke):** You can track the target, but you are guessing their movements.
     
     - **The Mechanic:** Attacker has **Disadvantage** on the Attack.
         
@@ -80,7 +80,7 @@ The player fails to spot the tripwire, or opens the chest without checking for a
     
 - The Armor Check: The GM compares this Impact directly against the player's static Wound Threshold.
     
-- The Vulnerability: Because the player could not brace for the hit, they cannot add their Shield Value (SV) to their Threshold, nor can they use weapons to Parry. Their survival relies entirely on the raw metal of their worn armor. If the Impact meets or exceeds the Threshold, they suffer a physical Wound. If it is lower, the armor catches the blow, but the kinetic shock or panic inflicts 1 Dissonant Stress.
+- The Vulnerability: Because the player could not brace for the hit, they cannot use the Block action, nor can they use weapons to Parry. Their survival relies entirely on the raw metal of their worn armor. If the Impact meets or exceeds the Threshold, they suffer a physical Wound. If it is lower, the armor catches the blow, but the kinetic shock or panic inflicts 1 Dissonant Stress.
     
 
 #### 2. The Aware Target (The Desperate Reaction)
@@ -94,7 +94,7 @@ The player spots the pressure plate but is forced to leap across it, or they del
 
 - Dodge: Attempting to completely physically avoid the mechanism.
     
-- Block: Raising a heavy shield to absorb a dart volley or falling rocks (allowing them to add their Shield Value to their Threshold if they lose the Clash).
+- Block: Raising a heavy shield to absorb a dart volley or falling rocks (subtracting their Shield Value from the Impact, per the standard Block Reactor action, if they lose the Clash).
     
 - Parry: Using a weapon to jam the gears or bat away a swinging blade.
     
