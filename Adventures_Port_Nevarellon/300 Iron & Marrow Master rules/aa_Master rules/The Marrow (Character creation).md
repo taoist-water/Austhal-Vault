@@ -12,7 +12,9 @@ Step 4: Select 2 Feats.
 Step 5: Select starting equipment
 	- Choose 1 Armor
     - Choose Weapons & Shields: Up to two 1-Handed items (e.g., Shortsword + Kite Shield, or Grimoire + Dagger) OR one 2-Handed item (e.g., Greatsword, Longbow, Mage Staff).
-_____________________________________________________________________
+    - **Starting Money:** 25 sp. For incidental personal gear and narrative coinage — not additional armor/weapons, 
+    - The Party Community Die starts at a D8.
+    _____________________________________________________________________
 # Species
 
  **Human (The Resilient Adapters)**
