@@ -29,6 +29,8 @@ When an Arcanist casts an offensive spell that deals Impact, calculate it the sa
 > 
 **Overcharge:** Once per casting, before resolving the Clash, an Arcanist may Lock 1 Stress to add +2 to that spell's Spell Power for this casting only. Same shape as Power Strike for weapons — push the math, pay a price.
 
+>**Cost:** A Margin 1–2 result costs the caster 1 Dissonant Stress — this is the Clash-spell equivalent of the Margin of Manifestation's Messy Success, and it's the tier Paradigm Mastery upgrades to Margin 3+ (Clean) for in-Paradigm casters, paying no cost. Margin 3+ (Clean) costs nothing. Losing the Clash outright (the target's roll is higher) costs nothing beyond the lost action — same as whiffing a mundane Strike, you only pay to land a rough hit, not to miss. The Snake Eyes Backfire (natural double-1s: 1 Wound + 1 Dissonant Stress + a battlefield hazard) applies to any Arcana casting roll, Clash or unopposed, exactly as it already does for the Margin of Manifestation.
+
 **Defense :** When a spell's resolution reads "vs. Target's Defense," the target rolls **2d6 + the most relevant Reactor action available to them** — typically Block, Dodge, or Brace, exactly as if they were defending against a weapon Strike. "Defense" is shorthand for "the target picks their best applicable Reactor roll," not a separate derived stat the target has sitting on their sheet. 
 
 **The Margin of Manifestation (Utility Spells)**

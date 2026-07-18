@@ -32,7 +32,7 @@ A concentrated bolt of raw energy streaks from the caster's hand toward a single
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Impact = Margin + 1 (Spell Power).
+- Margin 1–2: Impact = Margin + 1 (Spell Power). The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, no complication.
 
 ---
@@ -47,7 +47,7 @@ The caster hurls a ball of energy that explodes on impact, catching multiple foe
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Impact = Margin + 2 (Spell Power) to every target who loses.
+- Margin 1–2: Impact = Margin + 2 (Spell Power) to every target who loses. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, and the blast ignores the first point of Armor on anyone caught at the radius's center.
 
 ---
@@ -77,7 +77,7 @@ A flash of light, a cloud of soot, or a veil of shadow robs the target of sight.
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Target is Blinded for 1 round.
+- Margin 1–2: Target is Blinded for 1 round. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): Target is Blinded for 3 rounds.
 
 ---
@@ -92,7 +92,7 @@ A cone of raw elemental energy erupts from the caster's hands.
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Impact = Margin + 1 (Spell Power) to every target who loses.
+- Margin 1–2: Impact = Margin + 1 (Spell Power) to every target who loses. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, no complication.
 
 ---
@@ -138,7 +138,7 @@ With a sharp gesture and a word of negation, the caster severs the threads of a 
 - **Action Type:** Activation or Reactor
 
 **The Margin Scaler:**
-- Margin 1–2: The targeted spell is suppressed for 1 round.
+- Margin 1–2: The targeted spell is suppressed for 1 round. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): The targeted spell ends immediately.
 
 ---
@@ -168,10 +168,9 @@ The ground erupts with grasping vines, shadow-tendrils, or chains.
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Target is Anchored. They lose the Dodge action until they break free (a full Aggressor action, or 1 Momentum).
+- Margin 1–2: Target is Anchored. They lose the Dodge action until they break free (a full Aggressor action, or 1 Momentum). The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, and the bindings are thorned — the target suffers 1 Dissonant Stress at the start of each turn they remain Anchored.
 
-*(This reuses Anchored rather than inventing a new condition — Anchored already does everything "Restrained" was going to do.)*
 
 ---
 
@@ -216,7 +215,7 @@ A concussive wave of force throws enemies into disarray.
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Target is pushed 5 feet and suffers 1 Dissonant Stress.
+- Margin 1–2: Target is pushed 5 feet and suffers 1 Dissonant Stress. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): Target is pushed 10 feet, knocked Prone, and suffers 1 Dissonant Stress.
 
 ---
@@ -231,7 +230,7 @@ Light and sound are woven into a convincing facade.
 - **Duration:** Scene
 
 **The Margin Scaler:**
-- Margin 0–2 (Messy): The illusion forms, but the caster takes 1 Dissonant Stress from holding the image steady.
+- Margin 0–2 (Messy): The illusion forms, but the caster takes 1 Dissonant Stress from holding the image steady. 
 - Margin 3–4 (Clean): As above, no cost.
 - Margin 5+ (Exceptional): The illusion is "True" — it includes scent and resists touch — and cannot be seen through except by physically disrupting it.
 
@@ -261,7 +260,7 @@ A telepathic bridge forms between the caster and their allies.
 - **Duration:** Scene
 
 **The Margin Scaler:**
-- Margin 0–4: Linked characters communicate telepathically for the scene and gain Advantage on group Activation Order rolls while in line of sight of one another.
+- Margin 0–4: Linked characters communicate telepathically for the scene and gain Advantage on group Activation Order rolls while in line of sight of one another. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 5+ (Exceptional): Linked allies may also share their Momentum bank with one another for the scene.
 
 ---
@@ -325,7 +324,7 @@ The caster reaches into a mind, unraveling focus and siphoning spiritual reserve
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Target gains 2 Dissonant Stress.
+- Margin 1–2: Target gains 2 Dissonant Stress. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): Target gains 3 Dissonant Stress, and the caster clears 1 of their own Dissonant Stress as the siphoned focus settles.
 
 ### Zombie
@@ -351,7 +350,7 @@ The caster seizes control of the target's motor functions, turning a foe into a 
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Caster controls the target's next Activation. The target cannot be forced to directly kill themselves, but can be forced to attack allies or drop their guard.
+- Margin 1–2: Caster controls the target's next Activation. The target cannot be forced to directly kill themselves, but can be forced to attack allies or drop their guard. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, and control extends for 1 additional round.
 
 ### 1. Marrow Siphon (Sustain / Attrition)
@@ -367,7 +366,6 @@ The Necromancer targets a fresh corpse or a severely wounded enemy, inhaling the
     
 - The Margin Scaler:
     
-
 - Failure (<8): The dead mind pollutes the caster's. The caster takes 1 Dissonant Stress.
     
 - Margin 0–2 (Messy): The caster successfully clears 2 Dissonant Stress, but the violent physiological reaction inflicts 1 Minor physical Wound on the caster.
@@ -391,8 +389,7 @@ The caster forces the blood in a living target's extremities to instantly coagul
     
 - The Margin Scaler (Based on Clash Margin):
     
-
-- Margin 1–2: The target's movement speed is halved, and they cannot use the Dodge action on their next turn.
+- Margin 1–2: The target's movement speed is halved, and they cannot use the Dodge action on their next turn. The caster also takes 1 Dissonant Stress from the strain.
     
 - Margin 3+ (Clean): The target is completely Anchored (cannot move) and suffers a -2 penalty to their next Aggressor Strike roll because they cannot articulate their joints.
     
@@ -435,7 +432,7 @@ The caster forces their own bones, or the bones of an ally, to painfully extrude
     
 - Margin 5+ (Exceptional): The bone spikes are violently sharp. Any enemy who attacks the target and fails the Clash via a Block or Parry immediately suffers 1 Impact from striking the jagged bone.
 
-
+__________________________________________________________________
 ## Shadow Sorcery
 ### Deflection
 Invisible currents of air or shifting shadows cause incoming attacks to veer off course.
@@ -494,7 +491,6 @@ The sorcerer exhales a cloud of unnatural, pitch-black soot that instantly smoth
     
 - The Margin Scaler:
     
-
 - Margin 0–2 (Messy): The darkness manifests, but the shadow hungers. It instantly snuffs out all non-magical light sources (torches, lanterns) currently carried by the party, plunging the rest of the room into standard darkness as well.
     
 - Margin 3–4 (Clean): The localized zone forms perfectly as intended.
@@ -517,7 +513,7 @@ The caster pulls a blade of condensed absence-of-light from the shadows. It pass
 - The Margin Scaler (Based on Clash Margin):
     
 
-- Margin 1–2: The target's mind fractures; they suffer 1 Dissonant Stress.
+- Margin 1–2: The target's mind fractures; they suffer 1 Dissonant Stress. The caster also takes 1 Dissonant Stress from the strain.
     
 - Margin 3+ (Clean): The target suffers 2 Dissonant Stress, rapidly pushing Elites and Bosses toward their Break Point. Furthermore, the sheer terror of the blow saps their momentum—the GM must immediately discard 1 Threat point from the NPC's pool (if they have one).
     
@@ -536,8 +532,7 @@ The sorcerer drives an iron nail or a blade into the target’s cast shadow on t
     
 - The Margin Scaler (Based on Clash Margin):
     
-
-- Margin 1–2: The target is Anchored until they spend their entire next Aggressor action physically tearing their shadow free, which causes them to suffer 1 Impact from the metaphysical tearing.
+- Margin 1–2: The target is Anchored until they spend their entire next Aggressor action physically tearing their shadow free, which causes them to suffer 1 Impact from the metaphysical tearing. The caster also takes 1 Dissonant Stress from the strain.
     
 - Margin 3+ (Clean): The target is Anchored, and because their silhouette is pulled taut, they completely lose the ability to use the Dodge action until they break free. They must rely on Block or Parry.
     
@@ -562,7 +557,7 @@ The caster dissolves into a nearby shadow, losing physical cohesion, and instant
 - Margin 3–4 (Clean): The teleport is flawless and silent.
     
 - Margin 5+ (Exceptional): The caster steps out of the shadow in perfect ambush position. They instantly generate 1 Momentum, or they gain Advantage on their next Strike roll against an adjacent enemy.
-
+_________________________________________________________________
 ## Shamanism
 ### Beast Friend
 The caster's spirit resonates with the natural world, commanding the loyalty of beasts.
@@ -574,7 +569,7 @@ The caster's spirit resonates with the natural world, commanding the loyalty of 
 - **Duration:** Scene
 
 **The Margin Scaler:**
-- Margin 1–2: The beast becomes an ally for the scene.
+- Margin 1–2: The beast becomes an ally for the scene. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, and the caster can communicate telepathically with it and see through its eyes for the scene.
 ### 1. Fulminating Strike (Combat / Anti-Armor)
 
@@ -587,7 +582,7 @@ The Shaman draws ambient static from the air, concentrating it into a deafening,
 - Resolution: Arcane Clash (Wits + Arcana vs. Target's Dodge or Brace).
 - **Spell Power: 3**
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 2 (Spell Power). The sheer voltage causes the target to drop their weapon or shield; they must spend a Free Action on their next turn picking it up.
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). The sheer voltage causes the target to drop their weapon or shield; they must spend a Free Action on their next turn picking it up. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the electrical surge cooks the target inside their armor — they instantly suffer 1 Dissonant Stress in addition to the physical Wound damage.
     
 
@@ -627,7 +622,6 @@ The Shaman inhales the ashes or bone dust of a long-dead warrior, allowing a fer
     
 - The Margin Scaler:
     
-
 - Margin 0–2 (Messy): The possession is agonizing. The buff is applied, but the target immediately takes 1 Dissonant Stress as the ancient spirit tries to override their consciousness.
     
 - Margin 3–4 (Clean): The mantle settles perfectly onto the target.
@@ -649,11 +643,10 @@ The caster sweeps their arms outward, creating a localized, concussive blast of 
     
 - The Margin Scaler (Based on Clash Margin):
     
-
-- Margin 1–2: The enemy is violently shoved 10 feet backward, breaking any engagements and removing them from the party's Threat Zones.
+- Margin 1–2: The enemy is violently shoved 10 feet backward, breaking any engagements and removing them from the party's Threat Zones. The caster also takes 1 Dissonant Stress from the strain.
     
 - Margin 3+ (Clean): The enemy is shoved 10 feet backward, slammed to the ground (gaining the Prone condition), and suffers 1 Dissonant Stress from the concussive force.
-
+_______________________________________________________________
 ## Alchemy and Transmutation
 ### Boost/Lower Trait
 The caster reaches into a body's fundamental rhythm, quickening it or grinding it to a crawl.
@@ -665,7 +658,7 @@ The caster reaches into a body's fundamental rhythm, quickening it or grinding i
 - **Duration:** Sustain — Lock 1 Stress to maintain
 
 **The Margin Scaler:**
-- Margin 1–2 / 0–2 (Messy): Target gains a +1 (Boost) or -1 (Lower) modifier to one chosen Attribute.
+- Margin 1–2 / 0–2 (Messy): Target gains a +1 (Boost) or -1 (Lower) modifier to one chosen Attribute. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ / 3–4 (Clean): As above, with no complication.
 - Margin 5+ (Exceptional, unopposed only): Magnitude increases to +/-2.
 
@@ -681,7 +674,7 @@ The target's physical dimensions warp, swelling to monstrous proportions or coll
 - **Duration:** Scene
 
 **The Margin Scaler:**
-- Margin 1–2 / 0–2 (Messy): Target's Scale shifts by 1 step (per the existing Scale rules — Growth: +2 WT, Advantage on Prowess shoving/grappling, Disadvantage on Stealth; Shrink: -1 WT, Advantage on Stealth, Disadvantage on Prowess).
+- Margin 1–2 / 0–2 (Messy): Target's Scale shifts by 1 step (per the existing Scale rules — Growth: +2 WT, Advantage on Prowess shoving/grappling, Disadvantage on Stealth; Shrink: -1 WT, Advantage on Stealth, Disadvantage on Prowess). The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ / 3–4 (Clean): As above, no complication.
 - Margin 5+ (Exceptional, unopposed only): The shift is extreme — Scale +/-2 instead of 1.
 
@@ -711,7 +704,7 @@ The caster’s hands violently sweat a highly reactive, boiling solvent, which t
 - **Spell Power: 2**
 - The Effect: This spell ignores the target's Shield Value (SV) entirely during the Clash, as the acid simply splashes over and eats through the barrier.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 1 (Spell Power). If the target used a shield to Block, the shield permanently loses 1 SV for the rest of the campaign (or until repaired via Downtime).
+  - Margin 1–2: Impact = Margin + 1 (Spell Power). If the target used a shield to Block, the shield permanently loses 1 SV for the rest of the campaign (or until repaired via Downtime). The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the target's armor immediately gains the Damaged tag, permanently disabling special tags like Ablative Carapace or Construct plating.
 
     
@@ -753,7 +746,7 @@ The caster snaps their fingers, drastically superheating the ambient air around 
 - The Margin Scaler (Based on Clash Margin):
     
 
-- Margin 1–2: You weld the target's boots to the floor or their greaves at the knees. The target is Anchored (0 movement) until they spend their next full Aggressor action physically tearing the metal apart.
+- Margin 1–2: You weld the target's boots to the floor or their greaves at the knees. The target is Anchored (0 movement) until they spend their next full Aggressor action physically tearing the metal apart. The caster also takes 1 Dissonant Stress from the strain.
     
 - Margin 3+ (Clean): You fuse the target's weapon to their gauntlet or weld their visor shut. The target is Anchored and permanently suffers Disadvantage on all Strike rolls until the end of the fight.
     
@@ -778,7 +771,7 @@ The caster places their palm against a solid surface—stone, wood, or bone—an
 - Margin 3–4 (Clean): The surface turns to glass, waiting to be shattered safely.
     
 - Margin 5+ (Exceptional): The caster controls the tension of the glass. When it shatters, it leaves behind a floor of razor-sharp caltrops, turning that 10x10 zone into a hazard that deals 1 Impact to any enemy that moves through it.
-
+________________________________________________________________
 ## Demonology and Void Magic
 ### Fear
 The caster whispers a truth from the outer dark, projecting pure existential dread.
@@ -789,7 +782,7 @@ The caster whispers a truth from the outer dark, projecting pure existential dre
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Target suffers 2 Dissonant Stress and must spend their next Activation moving away from the caster at maximum speed.
+- Margin 1–2: Target suffers 2 Dissonant Stress and must spend their next Activation moving away from the caster at maximum speed. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, and if it's a Fodder-tier enemy, they immediately Rout (per the NPC Stress rules) rather than just fleeing.
 ### 1. Flay the Veil (Combat / Unmitigated Annihilation)
 
@@ -803,7 +796,7 @@ The caster rips a jagged, temporary tear in the air itself, exposing the target 
 - **Spell Power: 5**
 - The Effect: This spell completely ignores all physical armor, Shield Values, and Bestiary tags. It is pure, unmitigated erasure. However, if the caster loses the Clash via a target's Dodge, the tear violently snaps shut, and the GM immediately gains 1 Threat point.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 3 (Spell Power). The target is chilled to the bone, suffering Disadvantage on their next physical Strike roll.
+  - Margin 1–2: Impact = Margin + 3 (Spell Power). The target is chilled to the bone, suffering Disadvantage on their next physical Strike roll. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the target loses a piece of their physical form to the void. If it is an Elite or Boss, they permanently lose one of their Rule-Breaking Tags (e.g., Pack Tactics or Ablative Armor) as it is sucked into the tear.
 
 ### 2. Zone of Apathy (Environmental / Meta-Disruption)
@@ -820,7 +813,6 @@ The caster whispers a truth from the outer dark, creating a localized field wher
     
 - The Margin Scaler:
     
-
 - Margin 0–2 (Messy): The apathy infects the caster. The zone is created, but the caster immediately loses all their banked Momentum and takes 1 Dissonant Stress.
     
 - Margin 3–4 (Clean): The zone forms and holds until the end of the encounter or until the caster moves.
@@ -842,7 +834,6 @@ The caster offers their own physical substance to the entities in the void in ex
     
 - The Margin Scaler:
     
-
 - Margin 0–2 (Messy): The void takes more than offered. The caster suffers the Wound AND 1 Dissonant Stress, but the target ally instantly gains 2 Momentum.
     
 - Margin 3–4 (Clean): The caster suffers the Wound, and the target ally's next Strike roll automatically counts as rolling a Natural 12 (triggering the exploding dice mechanic and a massive Margin), without having to roll.
@@ -862,9 +853,9 @@ The caster violently twists the spatial dimensions around an enemy, causing dist
 - **Spell Power: 3**
 - The Effect: You target one Elite or Boss. If you win the Clash, you lock them in a spatial paradox.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: The target is Anchored (0 movement). Any melee attack they attempt against an adjacent player automatically suffers a -2 penalty, as their weapon swings through warped space.
+  - Margin 1–2: The target is Anchored (0 movement). Any melee attack they attempt against an adjacent player automatically suffers a -2 penalty, as their weapon swings through warped space. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): The target is trapped. If they attempt to move or use an Aggressor action, they instantly suffer Impact equal to the original casting Margin + 2 (Spell Power) as the twisted geometry physically tears their muscles, and must spend their entire turn taking the Regroup action just to let the space stabilize.
-
+_____________________________________________________________
 ## Witch Magic and Hedge Craft
 ### Confusion
 Whispers of madness scramble the target's thoughts.
@@ -875,7 +866,7 @@ Whispers of madness scramble the target's thoughts.
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Target suffers Disadvantage on their next Activation Order roll.
+- Margin 1–2: Target suffers Disadvantage on their next Activation Order roll. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, and the target also suffers 1 Dissonant Stress as the curse roots.
 ### 1. The Evil Eye (Combat / Debuff)
 
@@ -891,8 +882,7 @@ The Witch locks eyes with the target and whispers a localized, highly specific c
     
 - The Margin Scaler (Based on Clash Margin):
     
-
-- Margin 1–2: The target is Hexed. They immediately suffer Disadvantage on their next Aggressor Strike roll or Reactor defense roll.
+- Margin 1–2: The target is Hexed. They immediately suffer Disadvantage on their next Aggressor Strike roll or Reactor defense roll. The caster also takes 1 Dissonant Stress from the strain.
     
 - Margin 3+ (Clean): The curse roots deep. The target suffers Disadvantage on their next roll, and if they fail that roll, the supernatural backlash instantly inflicts 1 Dissonant Stress on them. This forces enemies to either stop attacking or rapidly accelerate toward their breaking point.
     
@@ -956,7 +946,7 @@ The Witch blows a handful of pale, grave-dust spores into the face of a target, 
 - The Margin Scaler (Based on Clash Margin):
     
 
-- Margin 1–2: The fever spikes. The target's movement is reduced to 0 (Anchored), and they completely lose the ability to use the Parry or Dodge actions on their next turn, as their muscles spasm uncontrollably.
+- Margin 1–2: The fever spikes. The target's movement is reduced to 0 (Anchored), and they completely lose the ability to use the Parry or Dodge actions on their next turn, as their muscles spasm uncontrollably. The caster also takes 1 Dissonant Stress from the strain.
     
 - Margin 3+ (Clean): The sickness is overwhelming. The target must forfeit their entire next turn, violently retching and coughing black bile. They automatically take the Regroup action, doing nothing else. If it is an Elite or Boss, the GM is denied the ability to spend Threat on this creature until it recovers.
 
@@ -988,7 +978,6 @@ The caster compresses a sphere of localized space into a marble-sized singularit
     
 - The Margin Scaler:
     
-
 - Margin 0–2 (Messy): The singularity is misaligned. The zone forms, but the caster is immediately dragged 5 feet toward the center and suffers 1 Dissonant Stress from the G-force.
     
 - Margin 3–4 (Clean): The gravity well stabilizes perfectly.
@@ -1008,7 +997,7 @@ The Astromancer calls down a pinpoint, blinding shaft of condensed starlight tha
 - **Spell Power: 3**
 - The Effect: Because the attack comes from directly above at orbital velocity, traditional horizontal defenses are useless. The target completely loses the ability to use the Parry action against this Strike. They must rely on a heavy shield (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 2 (Spell Power). The flash is blinding, stripping the target of their peripheral vision and denying them the flanking Bonus or Pack Tactics on their next turn.
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). The flash is blinding, stripping the target of their peripheral vision and denying them the flanking Bonus or Pack Tactics on their next turn. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the sheer kinetic force instantly knocks the target Prone.
     
 
@@ -1026,8 +1015,7 @@ The caster mathematically binds an enemy’s gravitational pull to an ally, forc
     
 - The Margin Scaler (Based on Clash Margin):
     
-
-- Margin 1–2: The target is caught in a minor orbit. If the target willingly moves closer to or further away from the tethered ally, the spatial shearing instantly inflicts 1 Impact on the target. They must maintain the exact distance to stay safe.
+- Margin 1–2: The target is caught in a minor orbit. If the target willingly moves closer to or further away from the tethered ally, the spatial shearing instantly inflicts 1 Impact on the target. They must maintain the exact distance to stay safe. The caster also takes 1 Dissonant Stress from the strain.
     
 - Margin 3+ (Clean): The target is perfectly locked. If the tethered ally moves on their turn, the enemy is violently dragged across the battlefield with them, maintaining the exact geometric distance, completely ignoring the enemy's weight or Construct tags.
     
@@ -1066,7 +1054,7 @@ The caster exhales a concentrated, blinding beam of white-hot plasma that superh
 - **Spell Power: 5**
 - The Effect: You cannot cross blades with a blowtorch. The target completely loses the ability to use the Parry action against this Strike. They must rely on a thick shield (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 3 (Spell Power). The raw heat causes the target to panic, forcing them to drop any wooden weapon or shield they are holding.
+  - Margin 1–2: Impact = Margin + 3 (Spell Power). The raw heat causes the target to panic, forcing them to drop any wooden weapon or shield they are holding. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the target is Ablaze — until they waste a full Aggressor action to put themselves out (the Regroup action), they suffer 1 Impact at the start of every turn.
     
 
@@ -1121,7 +1109,7 @@ The caster hyper-pressurizes the air directly around their own body, before rele
 - **Spell Power: 2**
 - The Effect: This is the Pyromancer's panic button when swarmed. The caster rolls once, and every enemy within 5 feet must roll to defend.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 1 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus.
+  - Margin 1–2: Impact = Margin + 1 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the enemy is thrown 10 feet backward, knocked Prone, and suffers 1 Dissonant Stress from the ruptured eardrums.
 
 
