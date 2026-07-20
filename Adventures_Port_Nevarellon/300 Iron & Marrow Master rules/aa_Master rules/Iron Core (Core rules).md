@@ -290,7 +290,7 @@ ________________________________________________________________________
     
 - *Terrified:* Your mind is clouded by panic. 1 stress is locked. You cannot spend Momentum for any reason. You must spend your turn running away from the object/being causing the Terror, fleeing until you can hide, or break the complete line of sight. When out of sight or hidden from the object/entity you can take a  Will + Resolve check to shake the condition.
     
-- *Fear:* 1 stress is locked, until fear condition is lost. Has disadvantage against the object/being causing the Fear condition. must Pass a Will + Resolve check to make Attackactions or interact with the object/being causing the fear.
+- *Fear:* 1 stress is locked, until fear condition is lost. Has disadvantage against the object/being causing the Fear condition. must Pass a Will + Resolve check to make Attack actions or interact with the object/being causing the fear. cleared by taking the regroup action when out of sight or has cover from the object/enemy causing fear.
     
 - *Distracted:* suffer a - 1 to rolls until next activation, then lose the condition.
     
@@ -300,7 +300,7 @@ ________________________________________________________________________
     
 - *Surprised:* Rolls suffer Disadvantage.
     
-- *Grappled:* The active character must win the clash with either a Grab or shove action to determine what happens.(dev note)need to word this right. (/dev note)
+- *Grappled:*  can only take limited actions. Strike: does not break or control the grapple, unless the target becomes incapacitated, then participants loose the grappled condition. Grab: to take control of the Grapple, meaning to maintain grappling, or move the participants 5ft in a chosen direction. Shove: To break free of the Grapple. Cannot Block, Parry, Dodge. 
     
 ### 1. Anchored (The Movement Lock)
 
