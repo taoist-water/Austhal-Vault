@@ -76,7 +76,7 @@ The Sergeant and 2 Patrolmen physically close in.
 - If the Watch has crossbows loosed to suppress rather than kill, a failed check applies the existing **Suppressed** condition (Disadvantage on anything but Attack/Block/Brace/Regroup, +1 Dissonant Stress) instead of a Wound.
 - If the party turns to fight, resolve normally with the stat blocks below — it should be short.
 
-**Resolved since this doc was drafted:** Fodder now spend Threat freely regardless of whether a leader is present, up to their Vessel Limit (see Tools for the Nameless — Tiers of Attrition). The Watch Patrolman doesn't currently have a Threat Ability defined, so this doesn't change anything for this specific stat block — but the open question about Cunning Leader is settled and can be dropped from the log.
+**Design flag to revisit later:** the Bestiary states Fodder "cannot spend Threat unless led by a leader," but Cunning Leader's written effect never explicitly says it *unlocks* Fodder Threat-spending. Default ruling for this session: **Patrolmen never spend Threat**, Sergeant present or not. Worth an explicit clause later.
 
 ### Watch Patrolman (Fodder)
 - **Type:** Humanoid | **Size:** Standard

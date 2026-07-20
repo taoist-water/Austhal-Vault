@@ -31,7 +31,7 @@ ___________________________________________________________________
 ______________________________________________________________________
 # Targeting the Resources
 
-Because the community supply die is a tangible mechanic, the GM can use their Threat pool to pressure the party's supplies instead of their health, creating terrifying new enemy archetypes.
+Because the community supply die is a tangible mechanic, the GM can use their Threat pool to attack the party's supplies instead of their health, creating terrifying new enemy archetypes.
 
 - The Rust Monster / Acid Spit: If an enemy with a corrosive or fire-based attack wins a Clash with a high margin, the GM can spend 1 Threat to force an immediate Supply Die roll as the party's gear melts or catches fire.
     
@@ -86,14 +86,14 @@ This is managed through the GM's Threat Economy and a tiered Bestiary Tag system
 
 # The Threat Economy (The GM's Momentum)
 
-Threat is the GM’s equivalent of the players' Momentum. They are points used to activate horrifying monster abilities, interrupt the action economy, and steadily escalate the pressure of a scene toward the Death Spiral.
+Threat is the GM’s equivalent of the players' Momentum. They are points used to activate horrifying monster abilities, interrupt the action economy, and aggressively push the players into the Death Spiral.
 ### The Shared Pool (The "GM Momentum" Model)
 
 All enemies draw from one central bucket of Threat points.
 
-- **The Pro:** It creates a "Global Pressure" system. Even if the players kill the weak fodder, the Threat they generated stays in the pool, allowing the Boss to use even more devastating abilities later. The encounter carries a memory of everything that's happened in it, not just the current exchange.
+- **The Pro:** It creates a "Global Pressure" system. Even if the players kill the weak fodder, the Threat they generated stays in the pool, allowing the Boss to use even more devastating abilities later. It rewards the GM for the party's poor play across the _entire_ encounter.
     
-- **The Vibe:** It feels like a living, breathing dungeon that reacts and remembers as the fight unfolds, rather than a set of monsters that reset to neutral between turns.
+- **The Vibe:** It feels like a living, breathing dungeon. The dungeon itself is the enemy, and the monsters are just its appendages.
     
 ### The Hybrid "Vessel" System
 
@@ -102,19 +102,27 @@ All enemies draw from one central bucket of Threat points.
 1. **The Common Pool:** Keep the Shared Threat Pool (Max 5). This is the "Dungeon's Adrenaline."
     
 2. **The Vessel Limit:** each individual tier of enemy has a **Vessel Limit**. This is the maximum amount of Shared Threat they can "pull" into themselves to trigger an ability in a single round.
-### Automatic Ticks (Every Encounter, No Tracking Required)
+### The Behavioral Recharge (Condition Triggers)
 
-These are the only Threat sources that apply regardless of which monsters are on the field — a GM never needs to remember a bespoke trigger for a specific creature to run these.
+If you want to generate Threat during a fight without the GM doing any math, tie the recovery to a binary, narrative trigger.
+
+- The Mechanic: The GM starts with 1 or 2 Threat. They regain 1 Threat only when a specific condition is met.
+    
+- Examples by Enemy Type:
+    
+- The Blood-Crazed Orc: generates 1 Threat immediately whenever it suffers a Wound (representing uncontrollable rage).
+    
+- The Sadistic Mercenary: generates 1 Threat immediately whenever a player in its Threat Zone suffers a physical Wound (feeding on the momentum of the kill).
+    
+- The Clockwork Sentinel: generates 1 Threat automatically at the start of every even-numbered combat round (representing internal engine pressure building up).
+    
+### Static recharges
 
 - **The Vanguard Escalation:** At the start of **every round**, the GM gains 1 Threat. This is non-negotiable.
-- **The Attrition Tax:** If a player spends 30 minutes in a **Breather**, the GM gains **2 Threat** immediately, representing the monsters closing in while the party is distracted and bandaging wounds. This only fires at a natural pause point, so it doesn't add any round-to-round tracking load.
-
-### Threat-Generating Traits (Condition Triggers)
-
-Beyond the two automatic ticks above, exactly two reusable Traits let a specific monster generate Threat on top of the baseline. Nothing else needs to be invented per-monster — if a creature doesn't carry one of these two tags, it doesn't generate Threat beyond Starting Threat, Vanguard Escalation, and the Attrition Tax.
-
-- **Vicious Recoil:** Generates 1 Threat immediately whenever this creature suffers a Wound (representing uncontrollable rage or trauma-fueled retaliation).
-- **Cunning Leader** (see Bestiary): Generates 1 Threat whenever an allied unit in this creature's line of sight dies, in addition to its Activation Order-passing effect. This does not, by itself, unlock Threat-spending for any other creature — per the Tiers of Attrition below, Fodder spend Threat freely regardless of whether a leader is present.
+    
+(dev note)- **The Attrition Tax:** If a player spends 30 minutes in a **Breather**, they don't just lose Momentum; they lose their "preparedness." The GM gains **2 Threat** immediately, representing the monsters closing in while the party is distracted and bandaging wounds.
+    
+- **The "Targeting the Bank" Rule:** If an Elite hits a player and that player has **any** Momentum in their bank, the GM can spend **2 Threat** to "Drain the Adrenaline." The player loses 2 Momentum, and the GM instantly heals 1 Stress on the Elite.(/dev note)
 ________________________________________________________________________
 ## The Tiers of Monsters
 
@@ -122,9 +130,9 @@ Because modifiers are bounded, monsters are categorized by how they interact wit
 
 ### The Tiers of Attrition
 
-**Fodder:** They exist to cost the party Momentum and shape tactical positioning.
+**Fodder:** They exist to drain player Momentum and force tactical positioning.
 * _Budget:_ +1 to +2 total points distributed across 1 Attribute or Skill.
-	- 1 - 2 Traits. 1 Threat Abilities. Vessel Limit 1. Fodder spend Threat freely, no leader required — any Fodder with a Threat Ability can use it whenever Threat is available, up to its Vessel Limit. 1 wound. Stress Limit per the standard formula (4 + Will + Wits + Feat + Species bonus) — no tier-specific carveout.
+	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. Fodder cannot spend Threat unless led by a leader or a tag allows them too. 1 wound. 
 	- Example (Zombie):_ Prowess +1. _(Strikes and grabs at +1, everything else is +0). Undead
 
 - **Grunt:** These are the core adversaries. Armored mercenaries, mutated alchemical horrors, and seasoned killers. They force the players to spend Momentum .
