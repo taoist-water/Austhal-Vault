@@ -1724,7 +1724,7 @@ Unchanged — already conformant. Included here for completeness since it's Law'
 - **Action Type:** Attack
 
 **The Tithe Ladder:**
-- Pass: deals 2 Impact (ignores Armor) to one target; if the target is Undead/Daemon/Mutant, they also gain Fear.
+- Pass: Target must pass a **Will + Resolve check (TN 8)** or suffer 2 Dissonant Stress as holy light burns through them; if the target is Undead/Daemon/Mutant, they also gain Fear.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
@@ -1936,7 +1936,7 @@ The house always wins. Sometimes it just likes to remind the table why.
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: Deals 2 Impact. If this Impact causes a Wound, the cold seizes the target's joints and they also gain Rigor.
+- **Pass:** Target must pass a **Prowess + Athletics check (TN 8)** or suffer 2 Dissonant Stress as the cold bites deep, and gains Rigor as it seizes their joints.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset Encroachment to 0.
 
