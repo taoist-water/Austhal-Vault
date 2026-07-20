@@ -143,7 +143,7 @@ ___________________________________________________________________
 
 _Scrawny, twitchy, and desperate. They prefer to strike from the shadows and retreat the moment the tide of battle turns against them._
 
-- **Wound Threshold:** 5 _(Base 4 + 1 Leather)_ | **Wound Slots:** 1 | **Stress Limit:** 0
+- **Wound Threshold:** 5 _(Base 4 + 1 Leather)_ | **Wound Slots:** 1 | **Stress Limit:** 4
     
 - **Stats:** Reflex +2 | Melee +0. _(Assumed Zero: Everything else. They are incredibly difficult to hit/dodge, but if they get caught, they fold immediately)._
     
@@ -160,7 +160,7 @@ ________________________________________________________________________________
 
 _A writhing, starving mass that exists purely to drain Momentum and Wounds before the real threat arrives._
 
-- **Wound Threshold:** 4 | **Wound Slots:** 1 | **Stress Limit:** 0
+- **Wound Threshold:** 4 | **Wound Slots:** 1 | **Stress Limit:** 4
     
 - **Stats:** Reflex +1 | Melee +1. _(Assumed Zero: Everything else. They are quick, but their total lack of Prowess or Wits makes them pathetic in a direct grapple or against mental effects)._
     
