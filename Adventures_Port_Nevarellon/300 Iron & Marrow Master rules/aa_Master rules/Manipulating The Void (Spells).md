@@ -340,7 +340,7 @@ Dark energy reanimates the dead, forcing cold flesh to serve the living.
 - Margin 0–2 (Messy): The corpse rises as an NPC Undead under the caster's control for the scene (Wound Threshold 6, no Stress Limit); the working costs the caster 1 Dissonant Stress.
 - Margin 3–4 (Clean): As above, no cost.
 - Margin 5+ (Exceptional): The caster may Lock 5 Stress instead of letting the spell end — doing so makes the servant permanent until destroyed or released.
-
+*Last Rites - Denies the effect of this spell.*
 ### Puppet
 The caster seizes control of the target's motor functions, turning a foe into a marionette.
 
@@ -1208,7 +1208,7 @@ Vael's answer to a Necromancer isn't a duel. It's getting there first.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The rite still takes.
 
-**Special Interactions:** Death's dedicated counter to the Necromancy Spellbook — a Priest who sweeps a graveyard or battlefield ahead of time denies an enemy Necromancer their raw material entirely. *(Dev note: cross-reference this in the Zombie entry once reviewed.)*
+**Special Interactions:** Death's dedicated counter to the Necromancy Spellbook — a Priest who sweeps a graveyard or battlefield ahead of time denies an enemy Necromancer their raw material entirely.
 
 **Shepherd the Dying**
 Vael doesn't fight death. He negotiates with it, on your behalf, before you can.
