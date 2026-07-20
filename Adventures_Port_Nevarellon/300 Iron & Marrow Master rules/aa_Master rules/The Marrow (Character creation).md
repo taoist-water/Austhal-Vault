@@ -796,7 +796,7 @@ Focused on opportunistic strikes, siphoning momentum from the failures of others
     
 - Nothing matters when the arteries are severed.
     
-- Mechanic: If you win an Attack action with a finesse Weapon or Sidearm by a Massive Success (Margin of 5+), you do not calculate standard Impact against the target's Wound Threshold. Instead, you permanently disable one of the target's limbs or sensory organs (GM's discretion), instantly inflicting 1 Major Wound (2 slots) and applying the Bleeding condition.
+- Mechanic: If you win an Attack action with a finesse Weapon or Sidearm by a Massive Success (Margin of 5+), you do not calculate standard Impact against the target's Wound Threshold. Instead, you permanently disable one of the target's limbs or sensory organs (GM's discretion), instantly inflicting 1 Minor Wound (2 slots) and applying the Bleeding condition.
 
 **The Demagogue (Bard Archetype)**
 

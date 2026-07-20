@@ -12,6 +12,7 @@
 - Locked Stress committed to a Sustained spell/Miracle, or to an item's Attunement (see Hardware: Enchantments), cannot be targeted by Grounding, the Reprieve, or Religious Pursuit. It only releases when the effect is voluntarily ended, the Miracle drops, or the item is deliberately unattuned.
 - Situational Modifiers are applied at GM’s discretion, +2, -2, -4.
 - Advantage and Disadvantage do not stack. If you have multiple sources of Disadvantage, you still only roll 1 extra die and drop the highest. If you have both Advantage and Disadvantage, they cancel each other out entirely.
+- Wounds Threshold Bypassing effects cannot target creatures of Scale +3 or higher without a weapon carrying Heavy or Siege.
 
 # Dice Mechanics
 
@@ -106,7 +107,7 @@ Momentum represents tactical flow, adrenaline, and sudden strokes of genius. Eac
 
 Because the 2d6 engine only explodes on a Natural 12, that moment is already mechanically rare and highly celebrated at the table.
 
--  The Trigger: Anytime a player rolls a Natural 12 (Double 6s) on any check—whether it is a Strike, a Parry, or a lore check—they instantly generate 2 Momentum, regardless of the final Margin. It mathematically reinforces that "perfect luck" fuels their adrenaline.
+-  The Trigger: Anytime a player rolls a Natural 12 (Double 6s) on any check—whether it is a Strike, a Parry, or a lore check—they instantly generate 2 Momentum, regardless of the final Margin. It mathematically reinforces that "perfect luck" fuels their adrenaline. This CAN compound with a High success margin (5+) for 3 momentum off 1 roll.
     
 ### 3. The Sacrificial Pillar (The Desperate Push)
 

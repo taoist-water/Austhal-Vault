@@ -114,7 +114,7 @@ When wielding two one-handed weapons (a primary weapon and a weapon with the Sid
 
 **Clash Advantage:** You may choose which weapon's tags to apply to the Engagement Clash. For example, having a Reach weapon (like a spear) in one hand and a Sidearm (like a dagger) in the other allows you to use the Reach while maintaining the ability to fight effectively in close quarters.
     
-**Off-Hand Parry:** While wielding a Sidearm-tagged weapon in your off-hand, you may use that weapon's Power as a separate Front-End Reducer when you choose Parry as your Reactor action — stacking with (not replacing) your primary weapon's Parry bonus, up to the off-hand weapon's own Power value. Fictionally: you're using the dagger to deflect the killing edge of the blow rather than catching the whole weapon.
+**Off-Hand Parry:** While wielding a Sidearm-tagged weapon in your off-hand, you may use that weapon's Power as a separate Front-End Reducer when you choose Parry as your Reactor action — stacking with (not replacing) your primary weapon's Parry bonus, up to the off-hand weapon's own Power value (minimum of 1, power 0 weapons effectively add one). Fictionally: you're using the dagger to deflect the killing edge of the blow rather than catching the whole weapon.
 
 **The "Twin Strike" Maneuver (Momentum Spend)**
 
