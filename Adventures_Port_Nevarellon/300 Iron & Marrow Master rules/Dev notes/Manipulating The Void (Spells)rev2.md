@@ -32,7 +32,7 @@ A concentrated bolt of raw energy streaks from the caster's hand toward a single
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Impact = Margin + 2 (Spell Power). The caster also takes 1 Dissonant Stress from the strain.
+- Margin 1–2: Impact = Margin + 1 (Spell Power). The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, no complication.
 
 ---
@@ -47,7 +47,7 @@ The caster hurls a ball of energy that explodes on impact, catching multiple foe
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Impact = Margin + 3 (Spell Power) to every target who loses. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 1–2: Impact = Margin + 2 (Spell Power) to every target who loses. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, and the blast ignores the first point of Armor on anyone caught at the radius's center.
 
 ---
@@ -92,7 +92,7 @@ A cone of raw elemental energy erupts from the caster's hands.
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Impact = Margin + 2 (Spell Power) to every target who loses. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 1–2: Impact = Margin + 1 (Spell Power) to every target who loses. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, no complication.
 
 ---
@@ -340,7 +340,7 @@ Dark energy reanimates the dead, forcing cold flesh to serve the living.
 - Margin 0–2 (Messy): The corpse rises as an NPC Undead under the caster's control for the scene (Wound Threshold 6, no Stress Limit); the working costs the caster 1 Dissonant Stress.
 - Margin 3–4 (Clean): As above, no cost.
 - Margin 5+ (Exceptional): The caster may Lock 5 Stress instead of letting the spell end — doing so makes the servant permanent until destroyed or released.
-
+Special Interaction: *Last rites* stops this from functioning.
 ### Puppet
 The caster seizes control of the target's motor functions, turning a foe into a marionette.
 
@@ -582,7 +582,7 @@ The Shaman draws ambient static from the air, concentrating it into a deafening,
 - Resolution: Arcane Clash (Wits + Arcana vs. Target's Dodge or Brace).
 - **Spell Power: 3**
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 3 (Spell Power). The sheer voltage causes the target to drop their weapon or shield; they must spend a Free Action on their next turn picking it up. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). The sheer voltage causes the target to drop their weapon or shield; they must spend a Free Action on their next turn picking it up. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the electrical surge cooks the target inside their armor — they instantly suffer 1 Dissonant Stress in addition to the physical Wound damage.
     
 
@@ -704,7 +704,7 @@ The caster’s hands violently sweat a highly reactive, boiling solvent, which t
 - **Spell Power: 2**
 - The Effect: This spell ignores the target's Shield Value (SV) entirely during the Clash, as the acid simply splashes over and eats through the barrier.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 2 (Spell Power). If the target used a shield to Block, the shield permanently loses 1 SV for the rest of the campaign (or until repaired via Downtime). The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: Impact = Margin + 1 (Spell Power). If the target used a shield to Block, the shield permanently loses 1 SV for the rest of the campaign (or until repaired via Downtime). The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the target's armor immediately gains the Damaged tag, permanently disabling special tags like Ablative Carapace or Construct plating.
 
     
@@ -796,7 +796,7 @@ The caster rips a jagged, temporary tear in the air itself, exposing the target 
 - **Spell Power: 5**
 - The Effect: This spell completely ignores all physical armor, Shield Values, and Bestiary tags. It is pure, unmitigated erasure. However, if the caster loses the Clash via a target's Dodge, the tear violently snaps shut, and the GM immediately gains 1 Threat point.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 5 (Spell Power). The target is chilled to the bone, suffering Disadvantage on their next physical Strike roll. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: Impact = Margin + 3 (Spell Power). The target is chilled to the bone, suffering Disadvantage on their next physical Strike roll. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the target loses a piece of their physical form to the void. If it is an Elite or Boss, they permanently lose one of their Rule-Breaking Tags (e.g., Pack Tactics or Ablative Armor) as it is sucked into the tear.
 
 ### 2. Zone of Apathy (Environmental / Meta-Disruption)
@@ -854,7 +854,7 @@ The caster violently twists the spatial dimensions around an enemy, causing dist
 - The Effect: You target one Elite or Boss. If you win the Clash, you lock them in a spatial paradox.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: The target is Anchored (0 movement). Any melee attack they attempt against an adjacent player automatically suffers a -2 penalty, as their weapon swings through warped space. The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): The target is trapped. If they attempt to move or use an Aggressor action, they instantly suffer Impact equal to the original casting Margin + 3 (Spell Power) as the twisted geometry physically tears their muscles, and must spend their entire turn taking the Regroup action just to let the space stabilize.
+  - Margin 3+ (Clean): The target is trapped. If they attempt to move or use an Aggressor action, they instantly suffer Impact equal to the original casting Margin + 2 (Spell Power) as the twisted geometry physically tears their muscles, and must spend their entire turn taking the Regroup action just to let the space stabilize.
 _____________________________________________________________
 ## Witch Magic and Hedge Craft
 ### Confusion
@@ -997,7 +997,7 @@ The Astromancer calls down a pinpoint, blinding shaft of condensed starlight tha
 - **Spell Power: 3**
 - The Effect: Because the attack comes from directly above at orbital velocity, traditional horizontal defenses are useless. The target completely loses the ability to use the Parry action against this Strike. They must rely on a heavy shield (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 3 (Spell Power). The flash is blinding, stripping the target of their peripheral vision and denying them the flanking Bonus or Pack Tactics on their next turn. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). The flash is blinding, stripping the target of their peripheral vision and denying them the flanking Bonus or Pack Tactics on their next turn. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the sheer kinetic force instantly knocks the target Prone.
     
 
@@ -1054,7 +1054,7 @@ The caster exhales a concentrated, blinding beam of white-hot plasma that superh
 - **Spell Power: 5**
 - The Effect: You cannot cross blades with a blowtorch. The target completely loses the ability to use the Parry action against this Strike. They must rely on a thick shield (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 5 (Spell Power). The raw heat causes the target to panic, forcing them to drop any wooden weapon or shield they are holding. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: Impact = Margin + 3 (Spell Power). The raw heat causes the target to panic, forcing them to drop any wooden weapon or shield they are holding. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the target is Ablaze — until they waste a full Aggressor action to put themselves out (the Regroup action), they suffer 1 Impact at the start of every turn.
     
 
@@ -1109,7 +1109,7 @@ The caster hyper-pressurizes the air directly around their own body, before rele
 - **Spell Power: 2**
 - The Effect: This is the Pyromancer's panic button when swarmed. The caster rolls once, and every enemy within 5 feet must roll to defend.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 2 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: Impact = Margin + 1 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the enemy is thrown 10 feet backward, knocked Prone, and suffers 1 Dissonant Stress from the ruptured eardrums.
 
 
@@ -1633,7 +1633,7 @@ Aurelius wrote the law before the sword was drawn. The sword simply hasn't caugh
 
 ### Adept Miracles
 
-**Chains of Mandate** (Adept Miracle)
+**Chains of Mandate** (Apprentice Miracle)
 
 - **Cost:** 2 Locked Stress
 - **Resolution:** Tithe of Will — Will + Faith vs. TN 10
@@ -1670,7 +1670,7 @@ The verdict is entered. The body may keep fighting; the law has already decided 
 
 - **Cost:** 4 Locked Stress
 - **Resolution:** Tithe of Will — Will + Faith vs. TN 12
-- **Target/Range:** The triggering roll, Cannot target the Tithe of Will roll of the Miracle being cast to trigger it.
+- **Target/Range:** The triggering roll. Cannot target the Tithe of Will roll of the Miracle being cast to trigger it.
 - **Action Type:** Free Reaction (triggered immediately after ANY character or enemy rolls 2d6, but before the GM declares the Impact or outcome)
 
 **The Tithe Ladder:**
@@ -1920,7 +1920,7 @@ The house always wins. Sometimes it just likes to remind the table why.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 4 Locked Stress into 4 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The curse still lands.
 
-*Scales of Aurelius overrides this Spell. 
+*Flag, not yet resolved: House Always Wins, Scales of Aurelius, and now Loaded Dice all fire on adjacent or identical trigger windows (Loaded Dice and Scales of Aurelius share the exact same window — immediately after a roll, before outcome). A Heretic's Path priest could plausibly hold two or three of these at once. They don't strictly conflict — different effects, and Loaded Dice can't target the Tithe of Will roll of the Miracle being cast to trigger it, same caveat as Scales of Aurelius — but if a table ever tries to stack Scales of Aurelius and Loaded Dice against the same enemy roll (one saying "it's a 7," one saying "it's a 2"), you'll want a ruling on precedence. Not urgent; flagging so it doesn't surprise you later.*
 
 ## The Domain of Winter & Wilds (The Cult of the Rime-Fang)
 *Reminder of the existing entry: Paragon Kaelen the Survivor; Domain Tag Chilling Frost (offensive prayers numb the target — no Move next turn unless they pay 1 physical Stress to snap free).*
@@ -1986,7 +1986,7 @@ The house always wins. Sometimes it just likes to remind the table why.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, reset Encroachment to 0.
 
-### Adept Miracles
+### Apprentice Miracles
 
 **Winter's Endurance**
 

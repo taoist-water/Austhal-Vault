@@ -10,7 +10,6 @@
 - Bonuses to Wound Threshold from magical sources (Spells, Auras, Enchanted Equipment) do not stack. A character only benefits from the highest single bonus. This does not apply to Shield Value.
 - Bane effects (a flat reduction to a target's Wound Threshold against one specific Creature Type — see the Bestiary's Creature Types list) do not stack with each other against the same target; only the single highest Bane reduction applies. Bane reduces Wound Threshold before Impact is compared against it — this is a separate step from the Massive trait's Impact-halving, and the two apply independently rather than cancelling out.
 - Locked Stress committed to a Sustained spell/Miracle, or to an item's Attunement (see Hardware: Enchantments), cannot be targeted by Grounding, the Reprieve, or Religious Pursuit. It only releases when the effect is voluntarily ended, the Miracle drops, or the item is deliberately unattuned.
-- All non-Opposed checks are against a Target Number [[TN|TN]] 8.
 - Situational Modifiers are applied at GM’s discretion, +2, -2, -4.
 - Advantage and Disadvantage do not stack. If you have multiple sources of Disadvantage, you still only roll 1 extra die and drop the highest. If you have both Advantage and Disadvantage, they cancel each other out entirely.
 
@@ -97,9 +96,9 @@ Momentum represents tactical flow, adrenaline, and sudden strokes of genius. Eac
 
  If we want to keep the engine unified, Momentum generation should be directly tied to the Margin math we have built. It shouldn't be arbitrary; it should be the mechanical reward for overwhelming success.
 
--  Combat: Winning a Clash by a Margin of 5+ (High Success, 1 Momentum) or 12+ (Massive Success, 2 Momentum).
+-  Combat: Winning a Clash by a Margin of 5+ (High Success, 1 Momentum) 
     
-- Magic: As we built in the spellbooks, hitting that Margin of 5+ on an unopposed Arcana check generates Momentum because the caster executed the spell flawlessly.
+- Magic: hitting that Margin of 5+ on an unopposed Arcana check generates Momentum because the caster executed the spell flawlessly.
     
 - Exploration: Exceeding an unopposed Target Number (like TN 8 for picking a lock or scaling a wall) by a Margin of 5+ (1 Momentum).
     
