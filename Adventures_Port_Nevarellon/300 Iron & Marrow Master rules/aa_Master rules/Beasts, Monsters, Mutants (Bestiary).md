@@ -323,7 +323,7 @@ _______________________________
     
 - **Stats:** Prowess +4, Will +3, Wits +2 | Melee +3, Arcana +2, Resolve +1. _(Assumed Zero: Reflex, Dodge. A lumbering powerhouse of physical and magical pressure, but acts last in combat and cannot dodge out of the way of AOE attacks)._
 - **Wound Threshold:** 12 (4 + Prowess 4 + armour 4 )| **Wound Slots:** 5| **Stress Limit** 11.
-- **Equipment:** Brimstone Plate (+4 Armour, immune to damage, immune to fire) , Hell-forge Great sword (Power 5, after inflicting a wound target must pass a Resolve check at -2 or gain Ablaze condition.)
+- **Equipment:** Brimstone Plate (+4 Armour, armour immune to damage, immune to fire) , Hell-forge Great sword (Power 5, after inflicting a wound target must pass a Resolve check at -2 or gain Ablaze condition.)
 - **Traits (3):**
     
     - _Terrifying_ & _Cunning Leader_.
