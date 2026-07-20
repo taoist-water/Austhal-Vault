@@ -29,7 +29,7 @@ Every stat block declares one or more Creature Types alongside its Tier. Type ca
 	- vessel limit 1. 
 	- Fodder cannot spend Threat unless led by a leader or a tag allows them too. 
 	- 1 wound. 
-	- 0 stress, breaking the core rule.
+	- stress as core rule defined.
     
     - _Example (Zombie):_ Prowess +1. _(Strikes and grabs at +1, everything else is +0). Undead_
     
@@ -143,7 +143,7 @@ ___________________________________________________________________
 
 _Scrawny, twitchy, and desperate. They prefer to strike from the shadows and retreat the moment the tide of battle turns against them._
 
-- **Wound Threshold:** 5 _(Base 4 + 1 Leather)_ | **Wound Slots:** 1 | **Stress Limit:** 0
+- **Wound Threshold:** 5 _(Base 4 + 1 Leather)_ | **Wound Slots:** 1 | **Stress Limit:** 4
     
 - **Stats:** Reflex +2 | Melee +0. _(Assumed Zero: Everything else. They are incredibly difficult to hit/dodge, but if they get caught, they fold immediately)._
     
@@ -160,7 +160,7 @@ ________________________________________________________________________________
 
 _A writhing, starving mass that exists purely to drain Momentum and Wounds before the real threat arrives._
 
-- **Wound Threshold:** 4 | **Wound Slots:** 1 | **Stress Limit:** 0
+- **Wound Threshold:** 4 | **Wound Slots:** 1 | **Stress Limit:** 4
     
 - **Stats:** Reflex +1 | Melee +1. _(Assumed Zero: Everything else. They are quick, but their total lack of Prowess or Wits makes them pathetic in a direct grapple or against mental effects)._
     
