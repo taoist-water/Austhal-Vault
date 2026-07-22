@@ -10,7 +10,7 @@
 ## 🏙️ District Profile
 - **Settlement:** [[Port Nevarellon|Port Nevarellon]]
 - **Social Stratum:** Squalid/Slums — the city's most impoverished and least-documented population, overwhelmingly Un-Landed.
-- **Architecture & Infrastructure:** Two distinct zones stitched together by shared poverty rather than shared architecture: the waterfront sprawl of stilt-housing and boardwalks that make up [[The Muddy Docks|The Muddy Docks]], and the older, inland tenement blocks — collectively known as **Cinder Row** — thrown up in a hurry fifty years ago to absorb the flood of refugees fleeing the [[The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|Corvus Scar]].
+- **Architecture & Infrastructure:** Two distinct zones stitched together by shared poverty rather than shared architecture: the waterfront sprawl of stilt-housing and boardwalks that make up [[The Muddy Docks|The Muddy Docks]], and the older, inland tenement blocks — collectively known as **Cinder Row** — thrown up in a hurry fifty years ago to absorb the flood of refugees fleeing the [[draft2_The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|Corvus Scar]].
 
 ---
 

@@ -5,7 +5,7 @@
 
 ## 📊 Quick Reference
 - **Type of Establishment:** Hidden Deep-Water Anchorage & Pirate Haven
-- **District / Region:** [[Silted Marshes|The Silted Marshes]] (Directly adjacent to [[Divtown|Divtown]])
+- **District / Region:** [[draft_Silted Marshes|The Silted Marshes]] (Directly adjacent to [[Divtown|Divtown]])
 - **Owner / Proprietor:** Officially unclaimed; practically governed by a tense truce between the local pirate captains and [[Lord Kelf Thorne|Lord Kelf Thorne]].
 - **Affiliation / Protection:** The Grey Water Pirates (An informal coalition of independent smugglers and privateers).
 

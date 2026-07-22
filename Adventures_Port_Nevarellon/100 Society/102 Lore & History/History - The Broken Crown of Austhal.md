@@ -21,7 +21,7 @@ Generations ago, the region known as **The Whispering Coast** was claimed by a w
 3. **The Historical Borders:** The early kingdom successfully suppressed the wild inland, locking down the region between three unyielding geographical boundaries:
    - **The North:** The treacherous peaks of [[The Jagged Spine|The Jagged Spine Range]].
    - **The East:** The dwarven realm of [[Ubaraz Kingdom|The Ubaraz Kingdom]], dug beneath the Lonely Mountain.
-   - **The South:** The toxic, waterlogged expanse of [[Silted Marshes|The Silted Marshes]].
+   - **The South:** The toxic, waterlogged expanse of [[draft_Silted Marshes|The Silted Marshes]].
 
 ---
 

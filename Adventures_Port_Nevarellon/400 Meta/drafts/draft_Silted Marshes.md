@@ -26,4 +26,4 @@
 - **Notable Fauna / Predators:** 
   - **Marsh-Stalkers:** Large, ambush-predator reptiles that lie submerged in the mud, mimicking rotting logs before striking.
   - **Silt-Leeches:** Swarming, forearm-sized parasites that drop from the low-hanging canopy into passing boats.
-  - **The Lost (Feral Remnants):** Desperate travelers or escaped slaves who survived the marsh physically but lost their minds to the fever and the Undertow-touched shards buried in the deep mud, becoming violently territorial cannibals.
+  - **The Lost (Feral Remnants):** Desperate travelers or escaped slaves who survived the marsh physically but lost their minds to the fever and the low-frequency god-shards buried in the deep mud, becoming violently territorial cannibals.

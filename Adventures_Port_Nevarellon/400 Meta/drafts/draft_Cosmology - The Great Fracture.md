@@ -32,21 +32,12 @@ Driven by a desire for absolute freedom, immortality, and power, the mortals sto
 
 ---
 
-## 🌊 The Tideways: The High Reach, The Slack Water, and The Undertow
-When the mortals finally tore the Sphere apart, the scattered god-essence didn't drift at random. It settled the way disturbed water settles after a storm — into layers, currents, and stillness — shaped as much by the mortals' own guilt, hope, and terror as by whatever the entities had been before. Scholars and sailors call the whole layered structure **the Tideways**; what any one person calls a given layer usually says more about that person's temple, or lack of one, than about the layer itself.
+## 📻 The Spectrum of Reality & The Outer Planes
+When the gods shattered, pieces of their essence shifted out of phase, creating the multi-planar spectrum that defines magic and existence.
 
 ```text
-[ THE HIGH REACH ] --> Order, Law, Light, "Good"
+[ HIGHER FREQUENCIES ] --> Order, Law, Light, "Good"
           |
-[ THE SLACK WATER ] --> The Great Disk (The Physical Anchor & The Shards)
+[ THE MATERIAL PLANE ] --> The Great Disk (The Physical Anchor & The Shards)
           |
-[ THE UNDERTOW ] --> Chaos, Decay, Entropy, "Evil"
-```
-
-- **The High Reach:** The uppermost layer, where god-essence pulled by mortal hope and mortal longing for salvation drifted upward and outward. The pious call this **the Heavens**; sailors and scholars more often call it the Reach, since — like a tidal reach — it's a navigable extremity, not a throne room.
-- **The Slack Water:** The calm, central layer — the Great Disk itself, the Material Plane, where the shattered god-shards still lie half-buried in stone and silt. Mortals live here by default, in the still water between two opposing pulls, which is either the safest place in the Tideways or the most exposed, depending on who you ask. Most mortals just call it "the world" and never think of it as a layer at all — which is rather the point.
-- **The Undertow:** The lowest layer, where god-essence twisted by mortal terror, guilt, and the raw violence of the pre-Sundering war sank and thickened. The pious call this **the Hells**; the Undertow is the more honest word, because it doesn't drag you down all at once — it just never lets go once it has you.
-
-Because these are simply positions in a continuous, layered structure rather than separate absolute realities, a mortal — or anything else — can in principle be pulled from one layer to another, or reach into a layer that isn't theirs, provided they can survive the crossing. Very few do; most who try without a stabilizing anchor drown in it, one way or another.
-
-**A note on the labels:** "Good" and "Evil" are mortal words laid over the High Reach and the Undertow after the fact, the same way mortal Ego and Identity were laid over the nameless entities during the Naming. The Reach and the Undertow are not inherently virtuous or wicked — they are simply where mortal collective feeling pulled the wreckage. A saint of the Reach can be a butcher who happened to die convinced he was righteous. A thing that crawled up out of the Undertow can be the only creature that ever told a slave the truth. Nothing in the Tideways is required to be good just because it floats, or evil just because it sinks.
+[ LOWER FREQUENCIES ] --> Chaos, Decay, Entropy, "Evil"
