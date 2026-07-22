@@ -16,14 +16,15 @@ To maintain a realistic setting, Port Nevarellon’s design is governed by its e
 - **Sanitation:** The Lower Districts have no sewage system; waste drains directly into the harbor via open stone gutters, leading to severe stagnation during low tides. The High Quarter uses a subterranean flush-vault system that vents out past the eastern cliffs.
 - **Defense:** Shielded from ocean storms by a massive stone breakwater known as **The Sea-Wall**. Landward defenses consist of a 20-foot limestone curtain wall, though it is poorly maintained near the industrial sectors.
 
-## 🏛️ The Five Districts
+## 🏛️ The Six Districts
 The city is starkly divided by geography, elevation, and wealth:
 
 1. **[[The High Quarter|The High Quarter]]** — Built on the northern limestone cliffs. Home to old nobility, the finest stonework, and the city's clean water vaults.
 2. **[[The Trade Plazas|The Trade Plazas]]** — The commercial heart. Cobblestone streets lined with banking houses, legal guilds, and upscale markets.
-3. **[[The Sunken Ward|The Sunken Ward]]** — Home to the city's most impoverished underclass, including the descendants of the Corvus refugee crisis. Its best-known neighborhood, [[The Muddy Docks|The Muddy Docks]], is a treacherous labyrinth of wooden boardwalks and ships permanently converted into housing, heavily policed by gangs rather than the City Watch.
+3. **[[The Muddy Docks|The Muddy Docks]]** — A treacherous labyrinth of wooden boardwalks and ships permanently converted into housing. Heavily policed by gangs rather than the City Watch.
 4. **[[The Foundry Slips|The Foundry Slips]]** — The industrial sector. Dominated by shipyards, fish-curing smokehouses, and coal-fired alchemical refineries.
-5. **[[The Great Anchor Basin|The Great Anchor Basin]]** — The massive central harbor capable of hosting up to two hundred deep-sea vessels at once.
+5. **[[The Shades|The Shades]]** — A low-lying slum built on reclaimed marshland. It experiences mild flooding during spring tides, leaving the streets constantly slick with dark silt.
+6. **[[The Great Anchor Basin|The Great Anchor Basin]]** — The massive central harbor capable of hosting up to two hundred deep-sea vessels at once.
 
 ## ⚖️ Power & Law Enforcement
 The balance of power in Port Nevarellon is delicate and highly transactional:
