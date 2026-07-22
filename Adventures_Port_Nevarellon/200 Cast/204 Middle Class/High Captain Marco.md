@@ -32,4 +32,4 @@ He respects Duke Tythius De Vonce more than he'll admit and resents that the fee
 - **Subordinates:** [[Provost Halvard Stross|Provost Halvard Stross]] (internal discipline, Constabulary oversight); [[First Envoy Isolde Vantry|First Envoy Isolde Vantry]] (Envoy Corps, under his final sign-off)
 - **Represents the fault line he fears:** [[Sergeant Wren Cobb|Sergeant Wren Cobb]]
 - **Wary respect / friction:** [[Tythius De Vonce|Duke Tythius De Vonce]]
-- **Unresolved institutional concern:** [[The Jagged Spine|The Jagged Spine]] and [[draft2_The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|the Corvus Scar]]
+- **Unresolved institutional concern:** [[The Jagged Spine|The Jagged Spine]] and [[400 Meta/drafts/draft2_The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|the Corvus Scar]]

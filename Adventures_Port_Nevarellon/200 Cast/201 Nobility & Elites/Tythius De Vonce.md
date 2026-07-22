@@ -5,7 +5,7 @@
 
 ## 📊 Vital Statistics
 - **Full Name / Aliases:** Tythius De Vonce / "The Iron Duke" / "The Old Oak"
-- **Current Occupation:** Sovereign Duke of [[draft2_The Five Duchies of the Whispering Coast#1. Duchy of De Vonce (The Iron Court)|The Duchy of De Vonce]]
+- **Current Occupation:** Sovereign Duke of [[400 Meta/drafts/draft2_The Five Duchies of the Whispering Coast#1. Duchy of De Vonce (The Iron Court)|The Duchy of De Vonce]]
 - **Social Class / Standing:** High Nobility / Senior Signatory of the Ducal Accord
 - **Primary Residence:** [[Castle Iron-Spire|Castle Iron-Spire]], Ancestral Seat of House De Vonce, northern foothills.
 - **Affiliations:** House De Vonce (Patriarch); The Ducal Accord (Reluctant Protector).
