@@ -50,10 +50,8 @@ The logic behind each column:
 
 - **Fodder:** 1 - 2 Traits. 1 Threat Abilities. 
 	- vessel limit 1. 
-	- Fodder cannot spend Threat unless led by a leader or a tag allows them too. 
 	- 1 wound. 
-	- 0 stress, breaking the core rule.
-    
+	- stress as core rule defined.    
     - _Example (Zombie):_ Brawn +1. _(Strikes and grabs at +1, everything else is +0). Undead_
     
 - **Grunt:** 1 - 2 Traits. 
@@ -164,7 +162,7 @@ ___________________________________________________________________
 
 _Scrawny, twitchy, and desperate. They prefer to strike from the shadows and retreat the moment the tide of battle turns against them._
 
-- **Wound Threshold:** 5 _(Base 4 + 1 Leather)_ | **Wound Slots:** 1 | **Stress Limit:** 0
+- **Wound Threshold:** 5 _(Base 4 + 1 Leather)_ | **Wound Slots:** 1 | **Stress Limit:** 4
     
 - **Stats:** Reflex +2 | Melee +0. _(Assumed Zero: Everything else. They are incredibly difficult to hit/dodge, but if they get caught, they fold immediately)._
     
@@ -172,8 +170,8 @@ _Scrawny, twitchy, and desperate. They prefer to strike from the shadows and ret
     
     - _Swarm:_ The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
         
-- **Threat Abilities:** _Passive._ Fodder cannot spend Threat unless led by a leader.
-	- Threat Cost 1: instead of a regular attack action, The scrappy, opportunistic goblins try to swipe supplies from the target. Sabotage: Target Must pass a TN8 Reflex test, Fail and reduce the community supply die by 1 order.
+- **Threat Abilities (1):**
+	- **Cost 1 — Sabotage:** Instead of a regular attack action, the scrappy, opportunistic goblins try to swipe supplies from the target. Target must pass a TN 8 Reflex check or the Community Supply Die is reduced by 1 step.
     
 - **Vessel Limit:** 1
 ___________________________________________________________________________________________________________________________________________________________________________________
@@ -181,7 +179,7 @@ ________________________________________________________________________________
 
 _A writhing, starving mass that exists purely to drain Momentum and Wounds before the real threat arrives._
 
-- **Wound Threshold:** 4 | **Wound Slots:** 1 | **Stress Limit:** 0
+- **Wound Threshold:** 4 | **Wound Slots:** 1 | **Stress Limit:** 4
     
 - **Stats:** Reflex +1 | Melee +1. _(Assumed Zero: Everything else. They are quick, but their total lack of Brawn or Wits makes them pathetic in a direct grapple or against mental effects)._
     
@@ -190,9 +188,10 @@ _A writhing, starving mass that exists purely to drain Momentum and Wounds befor
     - _Amorphous:_ Single-target weapons (daggers, spears, arrows) cannot inflict a Wound. Only Area of Effect (AOE) attacks or weapons with the _Heavy_ or _Siege_ tag can kill them.
     -  Swarm:  The Swarm gains a +1 bonus to their Clash roll for every additional swarm ally currently engaged with the same target.
         
+     
 - **Threat Abilities (1):**
     
-    - **Passive - Hive Mind:** Fodder cannot spend Threat unless led by a leader. However, if three or more swarms are engaged with a single target, they automatically inflict 1 Dissonant Stress on the Target. represnting the rats crawling over armor and finding gaps).
+    - **Passive - Hive Mind (no Threat cost):** If three or more swarms are engaged with a single target, they automatically inflict 1 Dissonant Stress on the target, representing the rats crawling over armor and finding gaps.
         
 - **Vessel Limit:** 1
   ________________________________________________________________________________________________________________________________________________________________________________________________________________

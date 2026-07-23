@@ -131,7 +131,7 @@ Because modifiers are bounded, monsters are categorized by how they interact wit
 ### The Tiers of Attrition
 
 **Fodder:** They exist to drain player Momentum and force tactical positioning.
-	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. Fodder cannot spend Threat unless led by a leader or a tag allows them too. 1 wound. 0 stress, breaking the core rule.
+	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. Fodder cannot spend Threat unless led by a leader or a tag allows them too. 1 wound. stress as core rule defined.
 	- Example (Zombie):_ Brawn +1. _(Strikes and grabs at +1, everything else is +0). Undead
 
 - **Grunt:** These are the core adversaries. Armored mercenaries, mutated alchemical horrors, and seasoned killers. They force the players to spend Momentum .
