@@ -4,17 +4,27 @@ To keep the two systems distinct, we should root them in entirely opposite philo
 
 Unopposed casting checks — the Margin of Manifestation roll, a Sustain check, and a Priest's Tithe of Will — no longer target a flat TN 8. The Target Number is set by the spell or Miracle's own Level:
 
-| Level | TN |
-|---|---|
-| Cantrip | 6 |
-| Novice | 8 |
-| Adept | 10 |
-| Master | 12 |
+| Level   | TN  |
+| ------- | --- |
+| Cantrip | 6   |
+| Novice  | 8   |
+| Adept   | 10  |
+| Master  | 12  |
 
 This does not apply to Arcane Clash spells or any other opposed roll — both sides already scale together, so there's no static-TN problem to fix. It also does not apply to general skill checks outside of spellcasting; those remain governed by the GM Tools Situational Modifier system. A Sustain check always targets the TN of the specific spell being sustained.
 
 *(Note: Faith's Miracle tiers are Novice / Adept / Master, matching Arcana's naming exactly — the tier previously labeled "Apprentice" is renamed to Adept throughout, so both systems read off the same table above.)*
 
+## Spell accessibility by skill level
+
+| Level   | Skill level |
+| ------- | ----------- |
+| Cantrip | 0           |
+| Novice  | 1           |
+| Adept   | 2           |
+| Master  | 3           |
+
+A spell caster cannot learn a level of spell with the associated skill level.
 # Arcana (The Volatile Margin)
 
 Arcana is the act of forcefully rewriting reality. It is highly complex, mathematically devastating, and inherently unstable. It relies entirely on Margin mechanics.
