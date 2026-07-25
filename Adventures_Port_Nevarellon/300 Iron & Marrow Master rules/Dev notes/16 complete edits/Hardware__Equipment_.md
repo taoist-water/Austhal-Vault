@@ -377,7 +377,6 @@ _______________________________________________________________________
 - **Concealable:** Grants Advantage (3d6 keep 2) on rolls made to hide the weapon on your person.
 - **Conduit:** can be used to perform Somatic components. The caster weaves the geometry of the spell using the item itself, meaning their hand does not need to be empty.
 - **Cumbersome:** The weapon is heavy and slow to ready. Imposes a -1 penalty on Activation order rolls.
-- **Devastating:** A mark of exceptional make — masterwork craft, ancient forging, or magic worked directly into the item — assigned to a specific weapon rather than a weapon category. Enables the weapon to inflict Wounds directly on Scale +3 (Gargantuan) creatures (without it, Strikes against Gargantuan creatures only ever inflict Stress, per the Scale rules in Metal meet Flesh). When targeting a Scale +3 or higher creature, this weapon also ignores that creature's Scale-based Wound Threshold bonus when calculating whether a Strike inflicts a Wound — otherwise a weapon capping out at Power 5 could almost never generate enough Impact to matter against a Gargantuan-scale Wound Threshold. Carries no inherent size, Power, or hands requirement, and grants no bonus against fortifications — a Devastating dagger and a Devastating greatmaul are equally valid. The tag describes what the weapon *is*, not how big it is.
 - **finesse:** may use reflex instead of prowess in clashes.
 - **Focus:** Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the item, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
 - **Grounding Rod:** grants Advantage on the Grounding (Wits + Arcana) check to unlock stress slots.
@@ -388,7 +387,7 @@ _______________________________________________________________________
 - **Reach:** Threatens a 10-foot radius (2 grid squares). Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
 - **Reload:** After firing, requires an Action to load the next shot.
 - **Sidearm:** Can be drawn as a Free Action without penalty.
-- **Siege:** Emplaced, crew-served, or vehicle-mounted armament — a ballista, wall gun, cannon, or siege engine — rather than a personal weapon; it isn't carried in Inventory Slots. Like Devastating, it enables inflicting Wounds directly on Scale +3 (Gargantuan) creatures and ignores that creature's Scale-based Wound Threshold bonus when calculating whether a Strike inflicts a Wound; unlike Devastating, it can also damage fortifications and structures.
+- **Siege:** Required to inflict wounds on Gargantuan scale creatures, and damage fortifications.
 - **Sunder:** If you inflict a Minor or Major Wound with this weapon, permanently reduce the target's Armor value by 1.
 - **Thrown:** Can be hurled using the short range attack band. If used in melee, it retains its 5 ft Threat.
 - **Versatile:** can be wielded 1H or 2H. If wielded 2H add 1 to the weapon power.
