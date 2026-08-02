@@ -16,20 +16,28 @@
 
 # Dice Mechanics
 
-- The Check: 2d6 + Attribute + Skill vs. TN 8 (or Opposed).
+- The Check: 2d6 + Skill vs. TN 8 (or Opposed).
+	- Attributes are not added to the roll. They set the ceiling a Skill
+	  can reach, and they drive your derived stats.
 	- When opposed in Combat, using a weapon is resolved as follows;
-		- The Currently Active character chooses an Attack action, like strike or shoot.
-		- roll 2d6 + Brawn/Reflex + melee/ranged
-		- The target choose an Defensive action, like parry, and rolls 2d6 + Ability + Skill.
+		- The Currently Active character chooses an Attack action,
+		  like strike or shoot.
+		- roll 2d6 + Melee/Ranged
+		- The target chooses a Defensive action, like parry, and
+		  rolls 2d6 + Skill.
 		- the Higher roll wins.
-		- the difference between the winner and the loser is the Impact (when attacking).
+		- the difference between the winner and the loser is the
+		  Impact (when attacking).
 		- Impact is compared to the losers Wound Threshold.
   	    
 - **Fates Bounty (double 6s):** When a natural double 6 is rolled, the player (or Elite/boss NPC)  rolls an additional die and adds it to the total. This is only done once.
 - **Snake Eyes (natural 2):** Automatic failure. The character immediately suffers 1 Stress, and additional contextual penalties.
 - **Desperate Edge (a single natural 6):** When exactly one of the two dice in a 2d6 check shows a 6, the roller may treat that die as exploding: roll one additional d6 and add it to the total. Unlike Fates' Bounty (which triggers on *both* dice showing 6 and immediately grants an extra full die with no further conditions), Desperate Edge triggers on rolling a single 6 **only while the character is in a qualifying desperate state** — at half or more of their Stress Limit in Dissonant Stress, at their final Wound Slot, or under a specific feat/spell that explicitly lowers the threshold (such as *Embrace the Void*, which extends this to natural 5s as well). Outside a qualifying desperate state, a lone natural 6 is just a 6 — solid, unremarkable, no explosion.
 
-- \[dev note\]Perfect Sequence (Universal Combat Rule): If a Brawn or Reflex check results specifically in a 3 and a 4 (creating a natural 7), the character achieves "Perfect Form". They may immediately perform a Free Shift (move 1 square) without triggering a Reactor action from the enemy. \[/dev note\]
+- [dev note] Perfect Sequence (Universal Combat Rule): If a Melee, Ranged,
+Athletics, Acrobatics, Block, Prowess, Stealth, Thievery or Ride check
+results specifically in a 3 and a 4 (creating a natural 7), the character
+achieves "Perfect Form"... [/dev note]
 
 ## The Margin-Focused Resolution (Unopposed Checks)
 
@@ -85,7 +93,8 @@ ________________________________________________________________________
 
 ## The Momentum Bank
 
-Momentum represents tactical flow, adrenaline, and sudden strokes of genius. Each player maintains a personal bank capped at **5 Momentum**.
+Momentum represents tactical flow, adrenaline, and sudden strokes of genius.
+Each player maintains a personal bank capped at **4 + Reflex**.
 
 - **Generation:** Players earn 1 Momentum by winning an Attack Action, evading a trap, or executing an ambush.
     

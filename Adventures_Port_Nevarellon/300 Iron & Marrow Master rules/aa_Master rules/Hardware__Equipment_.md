@@ -457,7 +457,7 @@ ________________________________________________________________________
 - *Cushioned:* Thick layers of cloth absorb minor impacts. Negates the first point of Dissonant Stress you would take from a Glancing Hit each combat round.
 - *Nimble:* Light enough to be actively punched out or used to deflect. Allows the user to roll Reflex instead of Brawn when performing a Block action.
 - *Obstructive:* The sheer size of this shield gets in the way of evasive footwork. Imposes a -2 penalty to all Dodge actions.
-- *Restricted:* The heavy plates and limited visibility slow your reaction time. You can never be first in the activation order when rolling for activation order. If you roll the highest result, you will slip down to be second, behind the next highest. you will never win activation order ties. Impossible to recreate the intricate movements required in Arcane spell casting, cannot cast Arcane spells whilst wearing. Reduces movement speed by 10ft.
+- *Restricted:* The heavy plates and limited visibility slow your reaction time. You can never be first in the activation order. Your Activation Order is reduced by 3, and you can never act first in a round regardless of your total. Impossible to recreate the intricate movements required in Arcane spell casting, cannot cast Arcane spells whilst wearing. Reduces movement speed by 10ft.
 
  **CRITICAL UTILITY ARMOR MODIFICATIONS**
 

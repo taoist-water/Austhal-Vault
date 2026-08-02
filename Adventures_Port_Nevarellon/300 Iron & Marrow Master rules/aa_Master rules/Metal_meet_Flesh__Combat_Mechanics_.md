@@ -1,10 +1,13 @@
 # When it comes to Combat
 ## The Engagement Flow
 
-1. Activation Order: 2d6 + Reflex. This determines turn order.
-	- Activations are then executed in descending order.
-	- once all Activations are complete, the round is over.
-	- All participants roll for Activation order again.
+1. Activation Order: **6 + Reflex**, a static value. This determines turn
+   order and does not change between rounds.
+	- Activations are executed in descending order.
+	- Ties are broken by higher Acrobatics; if still tied, the player
+	  acts before the NPC.
+	- Once all Activations are complete, the round is over. Order
+	  carries over unchanged into the next round.
     
 2. Move and Action: Active Characters (aggressors) can spend their activation moving and taking an action and a free action if they are not also engaged. They may move up to their Move value and at any time resolve their action/free action during that movement. If the Active Character enters an enemies Threat zone both the Active character and the enemy become Engaged.
     

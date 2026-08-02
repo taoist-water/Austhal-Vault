@@ -27,7 +27,7 @@ _Humans in gritty fantasy aren't the strongest or the fastest, but they have she
 - **Move Value:** 30 ft/6 squares
 - **Adaptable:** Humans gain 1 extra Skill Point at character creation to represent their varied backgrounds and quick learning.
 - **Indomitable Spirit:** Humans have a slightly higher breaking point. Their base Stress Limit is increased by +1.
-- **Steady, Not Sharp (Drawback):** Humans burn slow and steady rather than bright. Their Momentum Bank is capped at **4** instead of the standard 5 — they rarely hit the adrenaline peaks a specialist can chase down.
+- **Steady, Not Sharp (Drawback):** Humans burn slow and steady rather than bright. Their Momentum Bank cap suffers a **-1**  — they rarely hit the adrenaline peaks a specialist can chase down.
 - **Playstyle:** The perfect blank slate. They can flex into any role, and that extra point of Stress gives them just a little more breathing room before they panic or break — but they'll be the last one at the table to cash in a 3-Momentum Ultimate.
 
 **Half-Elf (The Bridge Builders)**
@@ -37,7 +37,7 @@ _Possessing the ambition of humans and the grace of elves, Half-Elves are charis
 - **Size:** Standard
 - **Move Value:** 30 ft/6 squares
 - **Silver-Tongued:** Half-Elves have a supernatural knack for reading a room. They gain Advantage on Will + Influence checks when trying to persuade, de-escalate a fight, negotiate, or gather information.
-- **Split Heritage:** They may choose either the Human's Adaptable trait (1 extra Skill Point) or the Elf's Fey Reflexes trait (Advantage to dodge hazards) — and inherit that race's paired drawback along with it. Choosing Adaptable also imposes **Steady, Not Sharp** (Momentum Bank capped at 4); choosing Fey Reflexes also imposes **Hollow-Boned** (-1 Wound Threshold). You cannot take the trait without its cost — that cost is what the source race actually paid for it.
+- **Split Heritage:** They may choose either the Human's Adaptable trait (1 extra Skill Point) or the Elf's Fey Reflexes trait (Advantage to dodge hazards) — and inherit that race's paired drawback along with it. Choosing Adaptable also imposes **Steady, Not Sharp** (Momentum Bank cap - 1); choosing Fey Reflexes also imposes **Hollow-Boned** (-1 Wound Threshold). You cannot take the trait without its cost — that cost is what the source race actually paid for it.
 - **Between Worlds (Drawback):** Half-Elves suffer Disadvantage on Wits + Influence checks when dealing with an insular or homogeneous community that has had little contact with outsiders — an isolated Elven enclave, a xenophobic frontier hamlet, a closed guild.
 - **Playstyle:** The ultimate face characters and versatile support pieces — everywhere except the one room that's never trusted an outsider.
 
