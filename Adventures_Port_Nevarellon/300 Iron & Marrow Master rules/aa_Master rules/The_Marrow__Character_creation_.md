@@ -101,70 +101,96 @@ _Elves are attuned to magic and the natural world. They are blindingly fast and 
 - Playstyle: The ultimate frontline anchors. They can take a beating and hold a choke point better than anyone.
 __________________________________________________________________
 # Attributes and Derived Stats
-- *Brawn:* Strength and physical power.
-    
-- *Reflex:* Speed and coordination.
-    
-- *Wits:* Logic and mental processing.
-    
-- *Will:* Resolve and spiritual weight.
-    
 
-- *Wound Threshold [[Wounds Threshold|T]]:* **4 + Brawn + Armour Value + Species Bonuses + Scale bonus + Misc.mods**
-    
-- *Stress Limit:* **4 + Will + Wits + Feat Bonus + Species bonus.**. 
-    -  If your total Stress (Locked + Dissonant) exceeds this limit, your mental focus shatters: all current Locked Stress immediately becomes Dissonant, applying its full penalties, and any excess points are converted into Wounds.
+Attributes are not added to your Checks. They do two things: they set the
+ceiling each Skill can be trained to, and they determine your derived stats.
+
+- *Brawn:* Strength and physical power. Feeds Wound Threshold.
+- *Reflex:* Speed and coordination. Feeds Momentum Bank and Activation Order.
+- *Wits:* Logic and mental processing. Feeds Stress Limit.
+- *Will:* Resolve and spiritual weight. Feeds Stress Limit.
+
+- *Wound Threshold:* **4 + Brawn + Armour Value + Species Bonuses +
+  Scale bonus + Misc. mods**
+- *Stress Limit:* **4 + Will + Wits + Feat Bonus + Species bonus.**
+	- If your total Stress (Locked + Dissonant) exceeds this limit, your
+	  mental focus shatters: all current Locked Stress immediately becomes
+	  Dissonant, applying its full penalties, and any excess points are
+	  converted into Wounds.
+- *Momentum Bank:* **4 + Reflex**
+- *Activation Order:* **6 + Reflex**
 
 **Attributes (capped at +3 Max)**
-   
-**Skills (capped at +3).**
+**Skills (capped at Associated Attribute + 3, absolute maximum +6)**
 
 ## Determine Attributes
-You have Development Points [[DP]]: 4 Points to distribute among your four Attributes. 
 
-- All Attributes start at 0.
+You have 4 Development Points to distribute among your four Attributes.
+All Attributes start at 0, and no Attribute may exceed 3.
 
-(Cost: 1 Point = +1 to an Attribute. Max: 3).
+At four points there are only four possible shapes. Pick one, then assign
+its values to whichever Attributes you like.
 
-Attributes represent your raw capabilities. Mortal Attributes and Skills are strictly capped at +3 You divide your starting points among four core Attributes. 
+| Array | Spread  | Skill Ceilings | What it buys you                                                                       |
+| ----- | ------- | -------------- | -------------------------------------------------------------------------------------- |
+| Spike | 3/1/0/0 | 6 / 4 / 3 / 3  | One skill that can eventually reach the mortal ceiling. Everything else stays capable. |
+| Twin  | 2/2/0/0 | 5/5/3/3        | Two strong pillars, neither of them absolute.                                          |
+| Broad | 2/1/1/0 | 5/4/4/3        | One strength, wide competence beneath it.                                              |
+| Flat  | 1/1/1/1 | 4/4/4/4        | No weaknesses, no peak. Derived stats spread evenly across every track.                |
 
+Every array is worth exactly four points of derived stat, however you
+assign it. There is no efficient choice — only different shapes.
 
-1. Brawn: Physical power, strength, and brute force.
-    
-2. Reflex: Speed, precision, and fine motor control.
-    
-3. Wits: Intellect, observation, and applied knowledge.
-    
-4. Will: Presence, grit, and mental fortitude.
-    
+- Brawn: Physical power, strength, and brute force.
+- Reflex: Speed, precision, and fine motor control.
+- Wits: Intellect, observation, and applied knowledge.
+- Will: Presence, grit, and mental fortitude.
+
+Your array is a starting shape, not a permanent identity. The first
+Attribute you raise through Advancement takes you to five points and off
+every array for good.
 
 Calculate your survival metrics based on your Attributes and gear choices.
 
-- Wound Threshold : **4 + Brawn + Armour + Species Bonuses + Scale bonus + Misc.mods**
-    
-- (This is the amount of Impact required in a single hit to cause a physical Minor Wound).
-    
-- Stress Limit: **4 + Wits + Will + species bonus + Feat bonus**. 
-    
-- (This is your mental fatigue pool. Once filled, taking more Stress causes Wounds).
-    
-- Wound Slots: All characters have exactly 3 Wound Slots. Taking a 4th wound leaves you Incapacitated.
+- Wound Threshold: 4 + Brawn + Armour + Species Bonuses + Scale + Misc.
+  (Impact required in a single hit to cause a physical Minor Wound.)
+- Stress Limit: 4 + Wits + Will + species bonus + Feat bonus.
+  (Your mental fatigue pool. Once filled, taking more Stress causes Wounds.)
+- Momentum Bank: 4 + Reflex.
+- Activation Order: 6 + Reflex.
+- Wound Slots: All characters have exactly 3 Wound Slots. Taking a 4th
+  wound leaves you Incapacitated.
 ___________________________________________________________________
 # Determine Skills
-You have 8 [[DP]] Points to distribute among the Broad Skills. 
 
-- All Skills start at Level 0.
+You have 8 DP to distribute among the Broad Skills. All Skills start at
+Level 0.
 
-(Max Level: 3).
+The Ceiling Rule: a Skill can never be trained higher than its Associated
+Attribute + 3, to an absolute maximum of +6.
 
-The Link Rule: Skills are tied to the physical or mental reality of your Attributes. 
+| Associated Attribute | 0 | 1 | 2 | 3 |
+|----------------------|---|---|---|---|
+| Skill Ceiling        | 3 | 4 | 5 | 6 |
 
-Raising a Skill's level higher than its parent Attribute costs 2 DP points per level instead of 1.
+An Attribute of 0 does not lock you out of a Skill — it caps how far that
+training can take you. Anyone can learn to fight. Not everyone has the frame
+to become a master of it.
 
-(Example: If you have Reflex 1, raising the Ranged skill to Level 1 costs 1 point. Raising it to Level 2 costs 2 additional points).
+Skill Costs:
 
-Skills represent specific training. Like Attributes, Skills range from Level 0 (Untrained) to a strict cap of +3 (Master).
+| Rank | Cost | Cumulative |
+|------|------|------------|
+| 1–4  | 1 DP each | 4 DP  |
+| 5    | 2 DP      | 6 DP  |
+| 6    | 3 DP      | 9 DP  |
 
+Rank 6 cannot be reached at character creation — it costs 9 DP and you have 8. The mortal ceiling is something you climb to across a campaign, not
+something you start at. A creation character who spends 6 of 8 points
+reaching Rank 5 is a genuine prodigy with almost nothing else to their name.
+
+The nine Skills under Brawn and Reflex are collectively the Physical Skills.
+Rules that reference Physical Skills (Perfect Sequence, Sunder) mean these.
 #### Brawn Skills
 
 - Melee: Close-quarters combat, from greatswords to brawling.
@@ -958,19 +984,22 @@ Every 2 to 3 sessions, the GM awards the party a Milestone Reward of 3 Developme
 ### The Training & Growth Menu
 
 1. Learning a New Skill (Rank 1 / Novice)
-	- Standard Learning: Costs 2 DP to unlock Rank 1 if the Associated Attribute is 1 or higher.
-    
-	- Blind Learning: Costs 4 DP to unlock Rank 1 if the Associated Attribute is currently at 0.
-    
+	- Costs 2 DP to unlock Rank 1 in a Skill currently at 0. Finding a
+	  teacher mid-campaign costs more than choosing a background did.
 
-2. Upgrading an Existing Skill 
-	- Within Aptitude: Costs 1 DP if the new skill rank is at or under the score of its Associated Attribute.
-    
-	- Pushing the Limit: Costs 2 DP if the new skill rank is past the score of its Associated Attribute.
-    
+2. Upgrading an Existing Skill
+	- Ranks 2, 3 and 4: 1 DP each.
+	- Rank 5: 2 DP.
+	- Rank 6: 3 DP.
+	- No Skill may exceed its Associated Attribute + 3, or +6, whichever
+	  is lower.
 
 3. Advancing an Attribute
-	- Physical/Mental Conditioning: Costs 5 DP to increase any Attribute by +1. This automatically scales up your associated Vitals (Brawn adds to $T$, Wits adds to your Stress Limit) and instantly lowers the future training costs of any skills tethered to it.
+	- Physical/Mental Conditioning: Costs 5 DP to increase any Attribute
+	  by +1, to a maximum of 3. This raises your derived stats (Brawn
+	  raises Wound Threshold; Wits and Will raise Stress Limit; Reflex
+	  raises your Momentum Bank and Activation Order) and raises the
+	  ceiling on every Skill tethered to it.
     
 
 4. Purchase a Feat
