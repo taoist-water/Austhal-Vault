@@ -6,7 +6,7 @@
 The air around the target thickens into a dull, shimmering haze, dampening the resonance of hostile sorcery.
 
 - **Level:** Novice
-- **Resolution:** Unopposed Arcana vs. TN 8
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation (to raise) / Reactor (to use)
 - **Duration:** Sustain — Lock 1 Stress to maintain
@@ -16,7 +16,7 @@ The air around the target thickens into a dull, shimmering haze, dampening the r
 - Margin 3–4 (Clean): The ward holds. Hostile spells targeting the protected character suffer Disadvantage on their casting roll.
 - Margin 5+ (Exceptional): As Clean, and the ward gains SV 2 against the next hostile spell's Impact.
 
-**Special Interactions:** As a Reactor action against an incoming hostile spell, the protected character may Block using Arcana instead of their normal Reactor stat.
+**Special Interactions:** As a Reactor action against an incoming hostile spell, the protected character may Block using Wits + Arcana instead of their normal Reactor stat.
 
 ---
 
@@ -24,7 +24,7 @@ The air around the target thickens into a dull, shimmering haze, dampening the r
 A concentrated bolt of raw energy streaks from the caster's hand toward a single foe. This is the floor every Arcanist stands on — Pyromancy and Shamanism both build sharper, paradigm-exclusive versions of this same idea.
 
 - **Level:** Novice
-- **Resolution:** Arcane Clash, Arcana vs. Target's Defense
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Defense
 - **Spell Power:** 2
 - **Target/Range:** One character, Medium Range
 - **Action Type:** Aggressor
@@ -39,7 +39,7 @@ A concentrated bolt of raw energy streaks from the caster's hand toward a single
 The caster hurls a ball of energy that explodes on impact, catching multiple foes in its radius.
 
 - **Level:** Adept
-- **Resolution:** Arcane Clash, Arcana vs. each target's Defense (caster rolls once; every target in the radius defends)
+- **Resolution:** Arcane Clash, Wits + Arcana vs. each target's Defense (caster rolls once; every target in the radius defends)
 - **Spell Power:** 3
 - **Target/Range:** A point within Medium Range, 10ft radius
 - **Action Type:** Aggressor
@@ -54,7 +54,7 @@ The caster hurls a ball of energy that explodes on impact, catching multiple foe
 The caster conjures a physical or energetic wall to block passage and protect allies.
 
 - **Level:** Adept
-- **Resolution:** Unopposed Arcana vs. TN 10
+- **Resolution:** Unopposed Wits + Arcana vs. TN 10
 - **Target/Range:** A 10ft line within Short Range
 - **Action Type:** Activation
 - **Duration:** Until destroyed
@@ -70,7 +70,7 @@ The caster conjures a physical or energetic wall to block passage and protect al
 A flash of light, a cloud of soot, or a veil of shadow robs the target of sight.
 
 - **Level:** Novice
-- **Resolution:** Arcane Clash, Arcana vs. Target's Dodge (Acrobatics)
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Dodge (Reflex + Acrobatics)
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
 
@@ -84,7 +84,7 @@ A flash of light, a cloud of soot, or a veil of shadow robs the target of sight.
 A cone of raw elemental energy erupts from the caster's hands.
 
 - **Level:** Novice
-- **Resolution:** Arcane Clash, Arcana vs. each target's Defense
+- **Resolution:** Arcane Clash, Wits + Arcana vs. each target's Defense
 - **Spell Power:** 2
 - **Target/Range:** 10ft cone
 - **Action Type:** Aggressor
@@ -99,7 +99,7 @@ A cone of raw elemental energy erupts from the caster's hands.
 Energy lashes out from the caster's skin, punishing any who approach or strike them.
 
 - **Level:** Adept
-- **Resolution:** Unopposed Arcana vs. TN 10
+- **Resolution:** Unopposed Wits + Arcana vs. TN 10
 - **Target/Range:** Self, 5ft radius
 - **Action Type:** Activation
 - **Duration:** Sustain — Lock 1 Stress to maintain
@@ -115,7 +115,7 @@ Energy lashes out from the caster's skin, punishing any who approach or strike t
 The caster's eyes take on a predatory sheen, piercing the deepest gloom.
 
 - **Level:** Novice
-- **Resolution:** Unopposed Arcana vs. TN 8
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -131,7 +131,7 @@ The caster's eyes take on a predatory sheen, piercing the deepest gloom.
 With a sharp gesture and a word of negation, the caster severs the threads of a nearby enchantment.
 
 - **Level:** Adept
-- **Resolution:** Opposed Arcana vs. the original caster's recorded casting roll
+- **Resolution:** Opposed Wits + Arcana vs. the original caster's recorded casting roll
 - **Target/Range:** One active spell effect, Short Range
 - **Action Type:** Activation or Reactor
 
@@ -145,7 +145,7 @@ With a sharp gesture and a word of negation, the caster severs the threads of a 
 The caster enters a trance, seeking answers from the echoes of the world.
 
 - **Level:** Master
-- **Resolution:** Unopposed Arcana vs. TN 12 (requires 1 minute of concentration)
+- **Resolution:** Unopposed Wits + Arcana vs. TN 12 (requires 1 minute of concentration)
 - **Target/Range:** Self
 - **Action Type:** Activation
 - **Duration:** Instantaneous
@@ -161,7 +161,7 @@ The caster enters a trance, seeking answers from the echoes of the world.
 The ground erupts with grasping vines, shadow-tendrils, or chains.
 
 - **Level:** Novice
-- **Resolution:** Arcane Clash, Arcana vs. Target's Dodge
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Dodge
 - **Target/Range:** One character or 10ft area, Short Range
 - **Action Type:** Aggressor
 
@@ -176,7 +176,7 @@ The ground erupts with grasping vines, shadow-tendrils, or chains.
 The caster's vision stretches across the horizon with impossible clarity.
 
 - **Level:** Adept
-- **Resolution:** Unopposed Arcana vs. TN 10
+- **Resolution:** Unopposed Wits + Arcana vs. TN 10
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -192,7 +192,7 @@ The caster's vision stretches across the horizon with impossible clarity.
 A thin membrane of energy stabilizes the air and temperature around the recipient.
 
 - **Level:** Novice
-- **Resolution:** Unopposed Arcana vs. TN 8
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -208,7 +208,7 @@ A thin membrane of energy stabilizes the air and temperature around the recipien
 A concussive wave of force throws enemies into disarray.
 
 - **Level:** Novice
-- **Resolution:** Arcane Clash, Arcana vs. each target's Prowess + Athletics or Acrobatics
+- **Resolution:** Arcane Clash, Wits + Arcana vs. each target's Brawn + Prowess or Reflex + Acrobatics
 - **Target/Range:** 10ft radius, Short Range
 - **Action Type:** Aggressor
 
@@ -222,7 +222,7 @@ A concussive wave of force throws enemies into disarray.
 Light and sound are woven into a convincing facade.
 
 - **Level:** Novice
-- **Resolution:** Unopposed Arcana vs. TN 8. Anyone inspecting it rolls Notice vs. the caster's original Margin to see through it.
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8. Anyone inspecting it rolls Wits + Notice vs. the caster's original Margin to see through it.
 - **Target/Range:** 10ft area, Short Range
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -238,7 +238,7 @@ Light and sound are woven into a convincing facade.
 Minor feats of elemental control — lighting a candle, cooling a drink, kicking up dust.
 
 - **Level:** Cantrip
-- **Resolution:** Unopposed Arcana vs. TN 6
+- **Resolution:** Unopposed Wits + Arcana vs. TN 6
 - **Target/Range:** 10ft radius, Short Range
 - **Action Type:** Activation
 
@@ -252,7 +252,7 @@ Minor feats of elemental control — lighting a candle, cooling a drink, kicking
 A telepathic bridge forms between the caster and their allies.
 
 - **Level:** Novice
-- **Resolution:** Unopposed Arcana vs. TN 8
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
 - **Target/Range:** Self and up to [Wits] allies, anywhere in the same Scene
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -267,7 +267,7 @@ A telepathic bridge forms between the caster and their allies.
 The caster imbues a weapon with crackling energy or holy light.
 
 - **Level:** Novice
-- **Resolution:** Unopposed Arcana vs. TN 8
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
 - **Target/Range:** One weapon, touch
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -283,7 +283,7 @@ The caster imbues a weapon with crackling energy or holy light.
 Echoes of ancient battles flow into the recipient, granting mastery they have not earned.
 
 - **Level:** Adept
-- **Resolution:** Unopposed Arcana vs. TN 10
+- **Resolution:** Unopposed Wits + Arcana vs. TN 10
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -299,7 +299,7 @@ Echoes of ancient battles flow into the recipient, granting mastery they have no
 The caster either ignites a beacon of radiance or conjures a void that swallows sight.
 
 - **Level:** Novice
-- **Resolution:** Unopposed Arcana vs. TN 8
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
 - **Target/Range:** 10ft radius or one object, Short Range
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -317,7 +317,7 @@ In-Paradigm casters get the standard DP cost and Paradigm Mastery (a Messy Succe
 The caster reaches into a mind, unraveling focus and siphoning spiritual reserve — Marrow Siphon's thesis turned outward onto an enemy.
 
 - **Level:** Master
-- **Resolution:** Arcane Clash, Arcana vs. Target's Resolve
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Will + Resolve
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
 
@@ -329,7 +329,7 @@ The caster reaches into a mind, unraveling focus and siphoning spiritual reserve
 Dark energy reanimates the dead, forcing cold flesh to serve the living.
 
 - **Level:** Master
-- **Resolution:** Unopposed Arcana vs. TN 12 (requires a corpse within reach)
+- **Resolution:** Unopposed Wits + Arcana vs. TN 12 (requires a corpse within reach)
 - **Target/Range:** One corpse, touch
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -343,7 +343,7 @@ Dark energy reanimates the dead, forcing cold flesh to serve the living.
 The caster seizes control of the target's motor functions, turning a foe into a marionette.
 
 - **Level:** Master
-- **Resolution:** Arcane Clash, Arcana vs. Target's Resolve
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Will + Resolve
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
 
@@ -358,7 +358,7 @@ The Necromancer targets a fresh corpse or a severely wounded enemy, inhaling the
 - Level: Novice
 - Action Type: Activation
 - Duration: Instantaneous
-- Resolution: Unopposed Arcana vs. TN 8. (Must target a corpse or an enemy with at least 2 Wounds).
+- Resolution: Unopposed Wits + Arcana vs. TN 8. (Must target a corpse or an enemy with at least 2 Wounds).
     
 - The Effect: The caster attempts to clear their own Dissonant Stress by consuming residual life force.
     
@@ -381,7 +381,7 @@ The caster forces the blood in a living target's extremities to instantly coagul
 - Target/Range: One character, Short Range
 - Action Type: Aggressor
 - Duration: 1 round (Margin 1–2) or until the target breaks free (Margin 3+)
-- Resolution: Arcane Clash (Arcana vs. Target's Resolve).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Will + resolve).
     
 - The Effect: This is not designed to deal Impact (damage), but to cripple the action economy. If the Necromancer wins the Clash, the target is afflicted with Rigor.
     
@@ -400,7 +400,7 @@ The Necromancer uses a dead body on the battlefield as a bomb, rapidly accelerat
 - Target/Range: One corpse, Short Range, 10ft radius
 - Action Type: Activation
 - Duration: Instantaneous
-- Resolution: Unopposed Arcana vs. TN 10. (Requires a corpse within sight).
+- Resolution: Unopposed Wits + Arcana vs. TN 10. (Requires a corpse within sight).
 - **Spell Power: 3**
 - The Effect: The targeted corpse explodes, spraying razor-sharp bone shrapnel and toxic bile in a 10-foot radius. Every creature (friend or foe) in the radius suffers Impact equal to the casting Margin + Spell Power.
 - The Margin Scaler:
@@ -417,7 +417,7 @@ The caster forces their own bones, or the bones of an ally, to painfully extrude
 - Target/Range: Self or one ally, touch
 - Action Type: Activation
 - Duration: Until the end of the encounter
-- Resolution: Unopposed Arcana vs. TN 8.
+- Resolution: Unopposed Wits + Arcana vs. TN 8.
     
 - The Effect: The target gains an ablative armor layer of bone. They gain +1 Shield Value (SV) for the duration of the encounter, which stacks with physical shields.
     
@@ -436,7 +436,7 @@ __________________________________________________________________
 Invisible currents of air or shifting shadows cause incoming attacks to veer off course.
 
 - **Level:** Novice
-- **Resolution:** Unopposed Arcana vs. TN 8 to raise
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8 to raise
 - **Target/Range:** Self or one ally, Short Range
 - **Action Type:** Activation / Reactor
 - **Duration:** Sustain — Lock 1 Stress to maintain
@@ -446,13 +446,13 @@ Invisible currents of air or shifting shadows cause incoming attacks to veer off
 - Margin 3–4 (Clean): As above, no cost.
 - Margin 5+ (Exceptional): Penalty becomes Disadvantage instead of -2.
 
-**Special Interactions:** While this ward is actively sustained, the protected character may, as a Reactor action against an incoming Strike, substitute a `2d6 + Arcana` roll for their normal Reactor roll (win: no Impact; lose: full Impact, no mitigation) — in addition to the passive Clash penalty above, which still applies to the attacker's roll. This substitution requires the ward to already be sustained; it cannot be cast fresh as a reaction to an unforeseen Strike. The Reactor-substitution option is only available if the ward was raised at Clean or Exceptional quality — a Messy-tier ward grants the passive penalty only.
+**Special Interactions:** While this ward is actively sustained, the protected character may, as a Reactor action against an incoming Strike, substitute a `2d6 + Wits + Arcana` roll for their normal Reactor roll (win: no Impact; lose: full Impact, no mitigation) — in addition to the passive Clash penalty above, which still applies to the attacker's roll. This substitution requires the ward to already be sustained; it cannot be cast fresh as a reaction to an unforeseen Strike. The Reactor-substitution option is only available if the ward was raised at Clean or Exceptional quality — a Messy-tier ward grants the passive penalty only.
 
 ### Disguise
 Magical energy warps the caster's features and voice to match another.
 
 - **Level:** Adept
-- **Resolution:** Unopposed Arcana vs. TN 10. Anyone suspicious rolls Notice vs. the caster's Margin to see through it.
+- **Resolution:** Unopposed Wits + Arcana vs. TN 10. Anyone suspicious rolls Wits + Notice vs. the caster's Margin to see through it.
 - **Target/Range:** Self
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -466,7 +466,7 @@ Magical energy warps the caster's features and voice to match another.
 The target fades from view, replaced by the colors and textures of whatever lies behind them.
 
 - **Level:** Adept
-- **Resolution:** Unopposed Arcana vs. TN 10
+- **Resolution:** Unopposed Wits + Arcana vs. TN 10
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
 - **Duration:** Scene, or until broken
@@ -483,7 +483,7 @@ The sorcerer exhales a cloud of unnatural, pitch-black soot that instantly smoth
 - Target/Range: 15ft radius, Short Range
 - Action Type: Activation
 - Duration: Scene
-- Resolution: Unopposed Arcana vs. TN 10.
+- Resolution: Unopposed Wits + Arcana vs. TN 10.
     
 - The Effect: Creates a 15-foot radius of magical darkness. Line of sight is completely broken; ranged attacks cannot enter or pass through the zone. Anyone attacking an enemy inside the zone who they cannot see suffers a -2 penalty to their Clash.
     
@@ -504,7 +504,7 @@ The caster pulls a blade of condensed absence-of-light from the shadows. It pass
 - Target/Range: One character, Short Range
 - Action Type: Aggressor
 - Duration: Instantaneous
-- Resolution: Arcane Clash (Arcana vs. Target's Wits or Resolve).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Wits or Resolve).
     
 - The Effect: This spell is explicitly designed to bypass high Shield Values and thick armor tags (like the Construct or Ablative Armor tags). It deals absolutely zero physical Impact. Instead, it attacks the enemy's binary Stress track.
     
@@ -524,7 +524,7 @@ The sorcerer drives an iron nail or a blade into the target’s cast shadow on t
 - Target/Range: One character, Short Range
 - Action Type: Aggressor
 - Duration: Until the target breaks free
-- Resolution: Arcane Clash (Arcana vs. Prowess + Athletics).
+- Resolution: Arcane Clash (Wits + Arcana vs. Brawn + Prowess).
     
 - The Effect: If the caster wins, the target’s shadow is nailed to the environment. The target becomes Anchored (Movement is reduced to 0).
     
@@ -543,7 +543,7 @@ The caster dissolves into a nearby shadow, losing physical cohesion, and instant
 - Target/Range: Self, 30ft
 - Action Type: Activation
 - Duration: Instantaneous
-- Resolution: Unopposed Arcana vs. TN 8.
+- Resolution: Unopposed Wits + Arcana vs. TN 8.
     
 - The Effect: The caster instantly teleports to any other shadow within 30 feet. This movement completely ignores the Threat Zones of enemies and does not trigger any attacks of opportunity. It is the ultimate escape button for a trapped Arcanist.
     
@@ -561,7 +561,7 @@ _________________________________________________________________
 The caster's spirit resonates with the natural world, commanding the loyalty of beasts.
 
 - **Level:** Novice
-- **Resolution:** Arcane Clash, Arcana vs. the beast's Resolve
+- **Resolution:** Arcane Clash, Wits + Arcana vs. the beast's Will + Resolve
 - **Target/Range:** One animal, Short Range
 - **Action Type:** Aggressor
 - **Duration:** Scene
@@ -577,7 +577,7 @@ The Shaman draws ambient static from the air, concentrating it into a deafening,
 - Target/Range: One character, Medium Range
 - Action Type: Aggressor
 - Duration: Instantaneous
-- Resolution: Arcane Clash (Arcana vs. Target's Dodge or Brace).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Dodge or Brace).
 - **Spell Power: 3**
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 3 (Spell Power). The sheer voltage causes the target to drop their weapon or shield; they must spend a Free Action on their next turn picking it up. The caster also takes 1 Dissonant Stress from the strain.
@@ -592,7 +592,7 @@ The caster drives a carved, bone-and-wood fetish into the earth, bleeding onto i
 - Target/Range: 15ft radius, Short Range
 - Action Type: Activation
 - Duration: Until destroyed
-- Resolution: Unopposed Arcana vs. TN 10.
+- Resolution: Unopposed Wits + Arcana vs. TN 10.
     
 - The Effect: Creates a 15-foot radius aura centered on the totem. The environment physically warps within this zone—roots tear through cobblestones, and the air grows heavy. Any ally standing inside the aura gains the Pack Tactics tag (ignoring an enemy's Shield Value if an ally is also engaged with that enemy).
     
@@ -614,7 +614,7 @@ The Shaman inhales the ashes or bone dust of a long-dead warrior, allowing a fer
 - Target/Range: Self or one ally, Short Range
 - Action Type: Activation
 - Duration: Until the end of the encounter
-- Resolution: Unopposed Arcana vs. TN 10. (Targeting self or one ally in sight).
+- Resolution: Unopposed Wits + Arcana vs. TN 10. (Targeting self or one ally in sight).
     
 - The Effect: The target is physically swollen with spiritual mass. For the rest of the encounter, the target's primary weapon permanently gains +1 Power, and they are immune to being knocked Prone or Repositioned.
     
@@ -635,7 +635,7 @@ The caster sweeps their arms outward, creating a localized, concussive blast of 
 - Target/Range: 10ft cone
 - Action Type: Aggressor
 - Duration: Instantaneous
-- Resolution: Arcane Clash (Arcana vs. Targets' Prowess or Acrobatics). Note: This targets all enemies within a 10-foot cone.
+- Resolution: Arcane Clash (Wits + Arcana vs. Targets' Brawn + Prowess or reflex + Acrobatics). Note: This targets all enemies within a 10-foot cone.
     
 - The Effect: This spell does not deal Impact. Instead, it alters the battlefield geometry to save swarmed allies. The Shaman rolls once, and every enemy in the cone rolls to defend.
     
@@ -650,7 +650,7 @@ _______________________________________________________________
 The caster reaches into a body's fundamental rhythm, quickening it or grinding it to a crawl.
 
 - **Level:** Novice
-- **Resolution:** Arcane Clash, Arcana vs. Target's Resolve (if unwilling) — unopposed vs. TN 8 if willing
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Will + Resolve (if unwilling) — unopposed vs. TN 8 if willing
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor (unwilling) or Activation (willing)
 - **Duration:** Sustain — Lock 1 Stress to maintain
@@ -666,13 +666,13 @@ The caster reaches into a body's fundamental rhythm, quickening it or grinding i
 The target's physical dimensions warp, swelling to monstrous proportions or collapsing into a diminutive one.
 
 - **Level:** Adept
-- **Resolution:** Arcane Clash, Arcana vs. Target's Resolve (if unwilling) — unopposed vs. TN 10 if willing
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Will + Resolve (if unwilling) — unopposed vs. TN 10 if willing
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor or Activation
 - **Duration:** Scene
 
 **The Margin Scaler:**
-- Margin 1–2 / 0–2 (Messy): Target's Scale shifts by 1 step (per the existing Scale rules — Growth: +2 WT, Advantage on Prowess shoving/grappling, Disadvantage on Stealth; Shrink: -1 WT, Advantage on Stealth, Disadvantage on Prowess). The caster also takes 1 Dissonant Stress from the strain.
+- Margin 1–2 / 0–2 (Messy): Target's Scale shifts by 1 step (per the existing Scale rules — Growth: +2 WT, Advantage on Prowess checks (shoving/grappling), Disadvantage on Stealth; Shrink: -1 WT, Advantage on Stealth, Disadvantage on Prowess checks). The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ / 3–4 (Clean): As above, no complication.
 - Margin 5+ (Exceptional, unopposed only): The shift is extreme — Scale +/-2 instead of 1.
 
@@ -680,7 +680,7 @@ The target's physical dimensions warp, swelling to monstrous proportions or coll
 The caster or a chosen ally melts into the earth, moving through soil and stone like water.
 
 - **Level:** Novice
-- **Resolution:** Unopposed Arcana vs. TN 8
+- **Resolution:** Unopposed Wits + Arcana vs. TN 8
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -698,7 +698,7 @@ The caster’s hands violently sweat a highly reactive, boiling solvent, which t
 - Target/Range: One character, Short Range
 - Action Type: Aggressor
 - Duration: Instantaneous
-- Resolution: Arcane Clash (Arcana vs. Target's Defense action).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
 - **Spell Power: 2**
 - The Effect: This spell ignores the target's Shield Value (SV) entirely during the Clash, as the acid simply splashes over and eats through the barrier.
 - The Margin Scaler (Based on Clash Margin):
@@ -715,9 +715,9 @@ The caster forces a localized, agonizing biological reaction—either in themsel
 - Target/Range: Self or one ally, touch
 - Action Type: Activation
 - Duration: Until the end of the encounter
-- Resolution: Unopposed Arcana vs. TN 10.
+- Resolution: Unopposed Wits + Arcana vs. TN 10.
     
-- The Effect: The target undergoes a grotesque physical enhancement. For the remainder of the encounter, the target gains a +2 modifier to Prowess (up to the absolute mortal cap of +5) and their unarmed strikes deal Impact equal to a Power 2 weapon.
+- The Effect: The target undergoes a grotesque physical enhancement. For the remainder of the encounter, the target gains a +2 modifier to Brawn (up to the absolute mortal cap of +5) and their unarmed strikes deal Impact equal to a Power 2 weapon.
     
 - The Margin Scaler:
     
@@ -737,7 +737,7 @@ The caster snaps their fingers, drastically superheating the ambient air around 
 - Target/Range: One character, Short Range
 - Action Type: Aggressor
 - Duration: Until the target breaks free, or (Margin 3+) until the end of the fight
-- Resolution: Arcane Clash(treat like a target number) (Arcana vs. Target's wound threshold).
+- Resolution: Arcane Clash(treat like a target number) (Wits + Arcana vs. Target's wound threshold).
     
 - The Effect: You target an enemy wearing metal armor or wielding a mechanical/metal weapon. If you win the Clash, you don't deal Impact; instead, you fuse their gear.
     
@@ -757,7 +757,7 @@ The caster places their palm against a solid surface—stone, wood, or bone—an
 - Target/Range: A 10x10 foot section of wall, floor, or door, touch
 - Action Type: Activation
 - Duration: Until shattered
-- Resolution: Unopposed Arcana vs. TN 10.
+- Resolution: Unopposed Wits + Arcana vs. TN 10.
     
 - The Effect: This spell alters the physical geometry of the dungeon. It targets a 10x10 foot section of wall, floor, or a locked door. The material becomes fragile glass. Any physical hit (even a kick) instantly shatters it.
     
@@ -775,7 +775,7 @@ ________________________________________________________________
 The caster whispers a truth from the outer dark, projecting pure existential dread.
 
 - **Level:** Novice
-- **Resolution:** Arcane Clash, Arcana vs. Target's Resolve
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Will + Resolve
 - **Target/Range:** One character or 10ft area, Short Range
 - **Action Type:** Aggressor
 
@@ -790,7 +790,7 @@ The caster rips a jagged, temporary tear in the air itself, exposing the target 
 - Target/Range: One character, Short Range
 - Action Type: Aggressor
 - Duration: Instantaneous
--Resolution: Arcane Clash (Arcana vs. Target's Dodge action).
+-Resolution: Arcane Clash (Wits + Arcana vs. Target's Dodge action).
 - **Spell Power: 5**
 - The Effect: This spell completely ignores all physical armor, Shield Values, and Bestiary tags. It is pure, unmitigated erasure. However, if the caster loses the Clash via a target's Dodge, the tear violently snaps shut, and the GM immediately gains 1 Threat point.
 - The Margin Scaler (Based on Clash Margin):
@@ -805,7 +805,7 @@ The caster whispers a truth from the outer dark, creating a localized field wher
 - Target/Range: 15ft radius, Short Range
 - Action Type: Activation
 - Duration: Until the end of the encounter, or until the caster moves
-- Resolution: Unopposed Arcana vs. TN 12.
+- Resolution: Unopposed Wits + Arcana vs. TN 12.
     
 - The Effect: Creates a 15-foot radius of soul-crushing despair. While inside this zone, the game’s meta-economy is completely paused. Players cannot generate or spend Momentum, and the GM cannot spend Threat points for Elite/Boss abilities.
     
@@ -826,7 +826,7 @@ The caster offers their own physical substance to the entities in the void in ex
 - Target/Range: Self or one ally, Short Range
 - Action Type: Activation or Free Reaction
 - Duration: Instantaneous
-- Resolution: Unopposed Arcana vs. TN 12. (Can be cast as a Free Reaction).
+- Resolution: Unopposed Wits + Arcana vs. TN 12. (Can be cast as a Free Reaction).
     
 - The Effect: This is the ultimate panic button. The caster intentionally suffers 1 Minor physical Wound (marking a Wound Slot). In exchange, they grant themselves or an ally an immediate, game-breaking advantage.
     
@@ -847,7 +847,7 @@ The caster violently twists the spatial dimensions around an enemy, causing dist
 - Target/Range: One Elite or Boss enemy, Short Range
 - Action Type: Aggressor
 - Duration: Until the paradox resolves (see Margin Scaler)
-- Resolution: Arcane Clash (Arcana vs. Target's Resolve).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Wits + Resolve).
 - **Spell Power: 3**
 - The Effect: You target one Elite or Boss. If you win the Clash, you lock them in a spatial paradox.
 - The Margin Scaler (Based on Clash Margin):
@@ -859,7 +859,7 @@ _____________________________________________________________
 Whispers of madness scramble the target's thoughts.
 
 - **Level:** Novice
-- **Resolution:** Arcane Clash, Arcana vs. Target's Resolve
+- **Resolution:** Arcane Clash, Wits + Arcana vs. Target's Will + Resolve
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
 
@@ -874,7 +874,7 @@ The Witch locks eyes with the target and whispers a localized, highly specific c
 - Target/Range: One character, Short Range
 - Action Type: Aggressor
 - Duration: Until the hexed roll resolves
-- Resolution: Arcane Clash (Arcana vs. Target's Resolve).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's will + Resolve).
     
 - The Effect: This spell does not deal immediate physical Impact. It infects the target’s luck and muscle memory.
     
@@ -893,7 +893,7 @@ The Witch rapidly binds a handful of straw, twine, and a drop of an ally's blood
 - Target/Range: Self or one ally, touch
 - Action Type: Activation
 - Duration: Until triggered, or the end of the scene
-- Resolution: Unopposed Arcana vs. TN 10.
+- Resolution: Unopposed Wits + Arcana vs. TN 10.
     
 - The Effect: The Witch links the poppet to themselves or one ally. The poppet acts as a sacrificial Ward. The next time the linked character would suffer a physical Wound, the poppet violently snaps in half, completely negating the Wound.
     
@@ -915,7 +915,7 @@ The caster scatters a handful of dead seeds that instantly erupt into a writhing
 - Target/Range: 15ft radius, Short Range
 - Action Type: Activation
 - Duration: Scene
-- Resolution: Unopposed Arcana vs. TN 10.
+- Resolution: Unopposed Wits + Arcana vs. TN 10.
     
 - The Effect: Creates a 15-foot radius of cursed ground. This is not just difficult terrain; it is actively hostile. Any enemy that declares an Aggressor action while standing in the briars is punished for shifting their weight.
     
@@ -937,7 +937,7 @@ The Witch blows a handful of pale, grave-dust spores into the face of a target, 
 - Target/Range: One character, Short Range
 - Action Type: Aggressor
 - Duration: Scene
-- Resolution: Arcane Clash (Arcana vs. Resolve or Brace action).
+- Resolution: Arcane Clash (Wits + Arcana vs. will + reslove or Brace action).
     
 - The Effect: The target's immune system violently rebels, destroying their stamina and action economy.
     
@@ -953,14 +953,14 @@ The Witch blows a handful of pale, grave-dust spores into the face of a target, 
 Gravity loses its grip as the target begins to drift, then soar. The escalation of Weightless Step's gravity-defiance.
 
 - **Level:** Master
-- **Resolution:** Unopposed Arcana vs. TN 12
+- **Resolution:** Unopposed Wits + Arcana vs. TN 12
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
 - **Duration:** Scene
 
 **The Margin Scaler:**
 - Margin 0–2 (Messy): Target gains a Flying Move equal to their land Move and can hover; the working leaves them nauseated for 1 Dissonant Stress.
-- Margin 3–4 (Clean): As above, no cost. While airborne, they also gain Advantage on Acrobatics checks to dodge ground-based or non-flying melee attacks.
+- Margin 3–4 (Clean): As above, no cost. While airborne, they also gain Advantage on Reflex checks to dodge ground-based or non-flying melee attacks.
 - Margin 5+ (Exceptional): Flying Move doubles for the scene.
 ### 1. Crushing Singularity (Environmental / Gravity Control)
 
@@ -970,7 +970,7 @@ The caster compresses a sphere of localized space into a marble-sized singularit
 - Target/Range: 15ft radius, Short Range
 - Action Type: Activation
 - Duration: Scene
-- Resolution: Unopposed Arcana vs. TN 10.
+- Resolution: Unopposed Wits + Arcana vs. TN 10.
     
 - The Effect: Creates a 15-foot radius zone of hyper-gravity. Any creature starting its turn inside the zone, or attempting to move through it, treats the area as Mire (difficult terrain). Furthermore, moving away from the center of the singularity requires the creature to forfeit its Aggressor action for the turn as it fights the gravitational drag.
     
@@ -991,7 +991,7 @@ The Astromancer calls down a pinpoint, blinding shaft of condensed starlight tha
 - Target/Range: One character, Medium Range
 - Action Type: Aggressor
 - Duration: Instantaneous
--Resolution: Arcane Clash (Arcana vs. Target's Defense action).
+-Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
 - **Spell Power: 3**
 - The Effect: Because the attack comes from directly above at orbital velocity, traditional horizontal defenses are useless. The target completely loses the ability to use the Parry action against this Strike. They must rely on a heavy shield (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
@@ -1007,7 +1007,7 @@ The caster mathematically binds an enemy’s gravitational pull to an ally, forc
 - Target/Range: One character, Short Range
 - Action Type: Aggressor
 - Duration: Until the end of the encounter
-- Resolution: Arcane Clash (Arcana vs. Target's Arcana or Resolve).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Wits + arcana or Will + resolve).
     
 - The Effect: You target an enemy and tether them to a specific ally.
     
@@ -1026,7 +1026,7 @@ The Astromancer temporarily severs an ally’s connection to gravity, completely
 - Target/Range: Self or one ally, touch
 - Action Type: Activation
 - Duration: Until the end of the encounter
-- Resolution: Unopposed Arcana vs. TN 10.
+- Resolution: Unopposed Wits + Arcana vs. TN 10.
     
 - The Effect: The target ally becomes completely weightless. For the remainder of the encounter, they ignore all difficult terrain (Mire, Choking Brambles, etc.) and automatically gain Advantage on all Dodge checks. However, because they lack physical mass and leverage, they cannot use the Block or Brace actions while under this effect.
     
@@ -1048,7 +1048,7 @@ The caster exhales a concentrated, blinding beam of white-hot plasma that superh
 - Target/Range: One character, Medium Range
 - Action Type: Aggressor
 - Duration: Instantaneous
-- Resolution: Arcane Clash (Arcana vs. Target's Defense action).
+- Resolution: Arcane Clash (Wits + Arcana vs. Target's Defense action).
 - **Spell Power: 5**
 - The Effect: You cannot cross blades with a blowtorch. The target completely loses the ability to use the Parry action against this Strike. They must rely on a thick shield (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
@@ -1064,7 +1064,7 @@ The caster hurls a fistful of white-hot embers that aggressively seek out oxygen
 - Target/Range: 10x10ft zone, Short Range
 - Action Type: Activation
 - Duration: Until the fire burns out or is extinguished
-- Resolution: Unopposed Arcana vs. TN 10.
+- Resolution: Unopposed Wits + Arcana vs. TN 10.
 - **Spell Power: 2**
 - The Effect: Creates a 10x10 foot zone of raging fire. The casting Margin is fixed at the moment of casting. Any creature (friend or foe) starting their turn in the fire or moving through it automatically suffers Impact equal to that fixed Margin + Spell Power, for as long as the zone persists. The zone destroys any wooden cover or mundane foliage.
 - The Margin Scaler:
@@ -1081,7 +1081,7 @@ The Pyromancer presses a glowing, superheated hand directly against an ally’s 
 - Target/Range: Self or one ally, touch
 - Action Type: Activation
 - Duration: Instantaneous
-- Resolution: Unopposed Arcana vs. TN 10. (Requires engaging the target in close range).
+- Resolution: Unopposed Wits + Arcana vs. TN 10. (Requires engaging the target in close range).
     
 - The Effect: This is the Arcane alternative to a Priest's Triage. It clears exactly 1 Wound Slot from the target, allowing them to survive another hit, but it permanently reduces their Stress Limit by 1 (following standard Triage rules).
     
@@ -1103,7 +1103,7 @@ The caster hyper-pressurizes the air directly around their own body, before rele
 - Target/Range: 5ft radius, self
 - Action Type: Aggressor
 - Duration: Instantaneous
-- Resolution: Arcane Clash (Arcana vs. Targets' Defense action). Note: This targets every enemy currently engaged in the caster's Threat Zone.
+- Resolution: Arcane Clash (Wits + Arcana vs. Targets' Defense action). Note: This targets every enemy currently engaged in the caster's Threat Zone.
 - **Spell Power: 2**
 - The Effect: This is the Pyromancer's panic button when swarmed. The caster rolls once, and every enemy within 5 feet must roll to defend.
 - The Margin Scaler (Based on Clash Margin):
@@ -1122,7 +1122,7 @@ Faith domains represent direct divine intervention powered by rigid devotion. Th
 A litany murmured over torn flesh, asking permission to undo what was done. Available to every Priest regardless of Domain — this is the spell several Domain Tags already assumed existed.
 
 - **Level:** Novice Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Cost:** 2 Locked Stress
 - **Target/Range:** Touch
 - **Action Type:** Aggressor
@@ -1238,7 +1238,7 @@ There is no room for fear in the formation. Senecus didn't have room for it eith
 Senecus never told his soldiers to charge into the open. He told them where to make the enemy afraid to.
 
 - **Level:** Novice Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** One enemy, Medium Range
 - **Action Type:** Aggressor
@@ -1269,7 +1269,7 @@ The Priest reads the battlefield the way Senecus read the pass — not what the 
 Senecus didn't win battles with heroes. He won them by making sure everyone hit the same spot at the same time.
 
 - **Level:** Adept Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** One enemy, Medium Range
 - **Action Type:** Activation
@@ -1302,7 +1302,7 @@ The formation does not break. It was never going to break. Senecus is very clear
 There was no clever maneuver. Senecus just told them to stand, and the wall of shields did the rest.
 
 - **Level:** Master Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 12
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
 - **Cost:** 3 Locked Stress
 - **Target/Range:** 20ft radius, Short Range
 - **Action Type:** Activation
@@ -1337,7 +1337,7 @@ The house always wins — except for the one hand Corvo decides it doesn't.
 **The Crooked Coin** (Novice Miracle)
 
 - **Cost:** 1 Locked Stress
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Target/Range:** Self or one ally, Short Range
 - **Action Type:** Free Reaction (declared when an enemy targets the Priest or an ally within Short Range with an attack)
 
@@ -1349,7 +1349,7 @@ The house always wins — except for the one hand Corvo decides it doesn't.
 **Fool's Errand** (Novice Miracle)
 
 - **Cost:** 1 Locked Stress
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Target/Range:** Medium Range
 - **Action Type:** Activation
 - **Duration:** Scene, or until physically disrupted
@@ -1378,7 +1378,7 @@ A favor planted now, called in later, when it does the most damage.
 **Corvo's Step** (Adept Miracle)
 
 - **Cost:** 2 Locked Stress
-- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
 - **Target/Range:** Self and one willing ally or unattended object of similar size, Medium Range
 - **Action Type:** Move Action
 
@@ -1397,7 +1397,7 @@ Corvo didn't fight the empire's laws — he forged better ones. The Priest forge
 - **Duration:** Scene
 
 **The Tithe Ladder:**
-- Pass: The Priest's face, voice, and bearing convincingly become someone else's. Anyone suspicious rolls Notice against the Priest's original casting roll to see through it.
+- Pass: The Priest's face, voice, and bearing convincingly become someone else's. Anyone suspicious rolls Wits + Notice against the Priest's original casting roll to see through it.
 - Fail: As Pass, and gain 1 encroachment.
 - Snake Eyes: The disguise holds, but convert the cost into a direct Wound.
 
@@ -1406,7 +1406,7 @@ Corvo didn't fight the empire's laws — he forged better ones. The Priest forge
 **The House Always Wins** (Master Miracle)
 
 - **Cost:** 4 Locked Stress
-- **Resolution:** Tithe of Will — Faith vs. TN 12
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
 - **Target/Range:** One enemy, line of sight
 - **Action Type:** Free Reaction (triggered immediately after an enemy resolves an action)
 
@@ -1419,7 +1419,7 @@ Corvo didn't fight the empire's laws — he forged better ones. The Priest forge
 The house always wins. Sometimes it just likes to remind the table why.
 
 - **Level:** Master Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 12
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
 - **Cost:** 4 Locked Stress
 - **Target/Range:** One enemy's triggering roll
 - **Action Type:** Free Reaction (triggered immediately after an enemy rolls 2d6 for any check, but before the GM declares the outcome)
@@ -1441,7 +1441,7 @@ The house always wins. Sometimes it just likes to remind the table why.
 **The Architect's Decree** (Novice Miracle)
 
 - **Cost:** 1 Locked Stress
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Target/Range:** One enemy, Short Range
 - **Action Type:** Free Reaction (declared when an enemy attempts to Move, or attempts to leave a Threat Zone)
 
@@ -1455,7 +1455,7 @@ The house always wins. Sometimes it just likes to remind the table why.
 **Sanctuary of the Zenith** (Novice Miracle)
 
 - **Cost:** 1 Locked Stress
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Target/Range:** A 3x3 square zone, centered on self or within Short Range
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -1471,7 +1471,7 @@ The house always wins. Sometimes it just likes to remind the table why.
 Aurelius wrote the law before the sword was drawn. The sword simply hasn't caught up yet.
 
 - **Cost:** 1 Locked Stress
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Target/Range:** One ally, Short Range
 - **Action Type:** Free Reaction (declared the instant an enemy declares an Aggressor action targeting that ally)
 
@@ -1487,7 +1487,7 @@ Aurelius wrote the law before the sword was drawn. The sword simply hasn't caugh
 **Chains of Mandate** (Adept Miracle)
 
 - **Cost:** 2 Locked Stress
-- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
 - **Target/Range:** One enemy, Medium Range
 - **Action Type:** Move Action
 - **Duration:** 3 rounds
@@ -1503,7 +1503,7 @@ Aurelius wrote the law before the sword was drawn. The sword simply hasn't caugh
 The verdict is entered. The body may keep fighting; the law has already decided it will not be saved.
 
 - **Cost:** 2 Locked Stress
-- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
 - **Target/Range:** One enemy, Short Range
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -1520,7 +1520,7 @@ The verdict is entered. The body may keep fighting; the law has already decided 
 **The Scales of Aurelius** (Master Miracle)
 
 - **Cost:** 4 Locked Stress
-- **Resolution:** Tithe of Will — Faith vs. TN 12
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
 - **Target/Range:** The triggering roll, Cannot target the Tithe of Will roll of the Miracle being cast to trigger it.
 - **Action Type:** Free Reaction (triggered immediately after ANY character or enemy rolls 2d6, but before the GM declares the Impact or outcome)
 
@@ -1536,7 +1536,7 @@ The verdict is entered. The body may keep fighting; the law has already decided 
 Unchanged — already conformant. Included here for completeness since it's Law's other Master Miracle:
 
 - **Cost:** 3 Locked Stress
-- **Resolution:** Tithe of Will, opposed by the target's Resolve
+- **Resolution:** Tithe of Will, opposed by the target's Will + Resolve
 - **Target/Range:** One supernatural entity, Short Range
 - **Action Type:** Aggressor
 
@@ -1558,7 +1558,7 @@ Unchanged — already conformant. Included here for completeness since it's Law'
 Vael doesn't guard you from dying. He guards you from being afraid of it.
 
 - **Level:** Novice Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
@@ -1575,13 +1575,13 @@ Vael doesn't guard you from dying. He guards you from being afraid of it.
 The Priest doesn't summon a vision. They just let the target see, for one second, exactly how small and mortal they are.
 
 - **Level:** Novice Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: The target must pass a Resolve check (TN 8) or gain the Fear condition, fixed on the Priest.
+- Pass: The target must pass a Will + Resolve check (TN 8) or gain the Fear condition, fixed on the Priest.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Resolve check.
 
@@ -1589,7 +1589,7 @@ The Priest doesn't summon a vision. They just let the target see, for one second
 Somewhere close, a bell only Vael's faithful can hear has begun to toll.
 
 - **Level:** Novice Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Self, 60ft radius
 - **Action Type:** Activation
@@ -1608,7 +1608,7 @@ Somewhere close, a bell only Vael's faithful can hear has begun to toll.
 Vael's answer to a Necromancer isn't a duel. It's getting there first.
 
 - **Level:** Adept Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** One corpse, touch
 - **Action Type:** Activation (requires a few uninterrupted minutes — cannot be cast mid-Clash)
@@ -1625,7 +1625,7 @@ Vael's answer to a Necromancer isn't a duel. It's getting there first.
 Vael doesn't fight death. He negotiates with it, on your behalf, before you can.
 
 - **Level:** Adept Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** One ally, Short Range
 - **Action Type:** Reactor (declared the instant the target becomes Incapacitated, before any Bleed-Out check is rolled)
@@ -1643,14 +1643,14 @@ Vael doesn't fight death. He negotiates with it, on your behalf, before you can.
 There's no violence in it. A hand on the brow, a held breath, and it's over. Turned toward a target who still has the strength to resist, the same mercy becomes a verdict.
 
 - **Level:** Master Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 12
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
 - **Cost:** 3 Locked Stress
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor (against a living target) or Activation/Reactor (against an already-Incapacitated target)
 
 **The Tithe Ladder:**
 - Pass, against an Incapacitated target: the target dies instantly and without pain. Bypasses the mundane Coup de Grâce entirely — no attack roll, no Impact, no Death Mark. Usable on a willing, Incapacitated ally to spare them a Bleed-Out fight the party can't win, or on an Incapacitated enemy to end them outright.
-- Pass, against a living, conscious target of Elite tier or below: the target must pass a Resolve check (TN 12) or immediately become Incapacitated (per Iron Core's Incapacitated condition), regardless of remaining Wound Slots. **This cannot target Boss-tier enemies under any circumstance.**
+- Pass, against a living, conscious target of Elite tier or below: the target must pass a Will + Resolve check (TN 12) or immediately become Incapacitated (per Iron Core's Incapacitated condition), regardless of remaining Wound Slots. **This cannot target Boss-tier enemies under any circumstance.**
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The effect still occurs.
 
@@ -1660,14 +1660,14 @@ There's no violence in it. A hand on the brow, a held breath, and it's over. Tur
 Every sound dies at the edge of the zone. Everyone inside feels, all at once, exactly how alone they are.
 
 - **Level:** Master Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 12
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
 - **Cost:** 3 Locked Stress
 - **Target/Range:** 20ft radius, centered on self
 - **Action Type:** Activation
 - **Duration:** Sustain — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 12 at the start of each of their Activations to maintain it (per the Faith Cost sustain rule in Embracing the Abyss). The zone instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
 
 **The Tithe Ladder:**
-- Pass: Every enemy that starts its turn in the zone must pass a Resolve check (TN 12) or gain Fear, fixed on the Priest. Allies inside the zone gain Peaceful Repose's Panic Reflex immunity for as long as they remain there.
+- Pass: Every enemy that starts its turn in the zone must pass a Will + Resolve check (TN 12) or gain Fear, fixed on the Priest. Allies inside the zone gain Peaceful Repose's Panic Reflex immunity for as long as they remain there.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The zone still forms.
 
@@ -1683,12 +1683,12 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 **Rime-Fang's Bite**
 
 - **Cost:** 2 Locked Stress
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Target/Range:** One target, Short Range
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- **Pass:** Target must pass a **Prowess + Athletics check (TN 8)** or suffer 2 Dissonant Stress as the cold bites deep, and gains Rigor as it seizes their joints.
+- **Pass:** Target must pass a **Brawn + Prowess check (TN 8)** or suffer 2 Dissonant Stress as the cold bites deep, and gains Rigor as it seizes their joints.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset Encroachment to 0.
 
@@ -1711,7 +1711,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: Every enemy in the radius must pass a Resolve check (TN 8) or gain the Fear condition as the wolf-spirit's cry breaks their nerve.
+- Pass: Every enemy in the radius must pass a Will + Resolve check (TN 8) or gain the Fear condition as the wolf-spirit's cry breaks their nerve.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, reset Encroachment to 0.
 
@@ -1735,7 +1735,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 - **Duration:** Scene
 
 **The Tithe Ladder:**
-- Pass: The Priest reads the wild the way Kaelen did — broken branches, frost patterns, the direction of a fleeing breath. Gain Advantage on Survival or Notice checks to track a specific creature or navigate harsh terrain.
+- Pass: The Priest reads the wild the way Kaelen did — broken branches, frost patterns, the direction of a fleeing breath. Gain Advantage on Wits + Survival or Wits + Notice checks to track a specific creature or navigate harsh terrain.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, reset Encroachment to 0.
 
@@ -1769,7 +1769,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 - **Duration:** Scene, or until the spirit-wolf is slain
 
 **The Tithe Ladder:**
-- Pass: A translucent, frost-limned wolf spirit erupts from the Priest's shadow and fights at their side. Treat it as an NPC ally (Wound Threshold 5, 1 Wound Slot, Prowess +1 | Melee +1, no Stress Limit — as a spirit, it cannot Break or flee) acting on the Priest's Activation.
+- Pass: A translucent, frost-limned wolf spirit erupts from the Priest's shadow and fights at their side. Treat it as an NPC ally (Wound Threshold 5, 1 Wound Slot, Brawn +1 | Melee +1, no Stress Limit — as a spirit, it cannot Break or flee) acting on the Priest's Activation.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, reset Encroachment to 0. If summoned, the spirit-wolf instantly dissipates.
 
@@ -1778,7 +1778,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 **The Hunter's Reckoning**
 
 - **Cost:** 4 Locked Stress
-- **Resolution:** Tithe of Will — Faith vs. TN 12
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
 - **Target/Range:** Self
 - **Action Type:** Free Reaction (declared immediately after the Priest wins an Aggressor Clash against a creature of Scale +1 or higher, or an Elite/Boss-tier enemy of any Scale)
 
@@ -1810,7 +1810,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 **Bolster the Faithful**
 
 - **Level:** Novice Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** touch.
 - **Action Type:** Activation
@@ -1825,13 +1825,13 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 **Wrathful Light**
 
 - **Level:** Novice Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Cost:** 2 Locked Stress
 - **Target/Range:** one Target/short
 - **Action Type:** Attack
 
 **The Tithe Ladder:**
-- Pass: Target must pass a **Resolve check (TN 8)** or suffer 2 Dissonant Stress as holy light burns through them; if the target is Undead/Daemon/Mutant, they also gain Fear.
+- Pass: Target must pass a **Will + Resolve check (TN 8)** or suffer 2 Dissonant Stress as holy light burns through them; if the target is Undead/Daemon/Mutant, they also gain Fear.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
@@ -1841,7 +1841,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 A hand on the shoulder, and for one moment, the weight isn't yours alone.
 
 - **Level:** Novice Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** One ally, touch
 - **Action Type:** Activation
@@ -1857,7 +1857,7 @@ A hand on the shoulder, and for one moment, the weight isn't yours alone.
 Mother Elara didn't cure the plague. She simply asked it to move house.
 
 - **Level:** Adept Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** One ally, touch
 - **Action Type:** Activation
@@ -1871,7 +1871,7 @@ Mother Elara didn't cure the plague. She simply asked it to move house.
 She walked into the quarantine zones so no one else would have to walk in alone.
 
 - **Level:** Adept Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** Self and all allies within 15ft
 - **Action Type:** Activation
@@ -1887,7 +1887,7 @@ She walked into the quarantine zones so no one else would have to walk in alone.
 **Resurrection**
 
 - **Level:** Master Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 12 (requires a full hour of ritual; target must have died within 24 hours)
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12 (requires a full hour of ritual; target must have died within 24 hours)
 - **Cost:** 8 Locked Stress
 - **Target/Range:** Touch
 - **Action Type:** Activation
@@ -1903,7 +1903,7 @@ She walked into the quarantine zones so no one else would have to walk in alone.
 The gods reach down and aggressively deny reality. *(Converted from a Faith-3 feat previously in The Marrow — removed from that document, as it's now Domain-locked here instead of open to any Faith-3 build.)*
 
 - **Level:** Master Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 12
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
 - **Cost:** 4 Locked Stress
 - **Target/Range:** One ally, line of sight
 - **Action Type:** Reactor (declared the instant that ally would suffer a Wound that would kill or Incapacitate them)
@@ -1926,20 +1926,20 @@ The gods reach down and aggressively deny reality. *(Converted from a Faith-3 fe
 The ground itself decides it would rather be underwater.
 
 - **Level:** Novice Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: Target must pass Prowess + Athletics (TN 8) or be swept 2 Zones in a direction of the Priest's choosing and knocked Prone.
+- Pass: Target must pass Brawn + Prowess (TN 8) or be swept 2 Zones in a direction of the Priest's choosing and knocked Prone.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
 
 **Storm's Breath**
 
 - **Level:** Novice Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Touch
 - **Action Type:** Activation
@@ -1953,13 +1953,13 @@ The ground itself decides it would rather be underwater.
 **Crushing Surf**
 
 - **Level:** Novice Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 8
 - **Cost:** 2 Locked Stress
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: Target must pass Prowess + Athletics (TN 8) or suffer 2 Dissonant Stress and be knocked Prone.
+- Pass: Target must pass Brawn + Prowess (TN 8) or suffer 2 Dissonant Stress and be knocked Prone.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
 
@@ -1968,26 +1968,26 @@ The ground itself decides it would rather be underwater.
 **The Undertow's Grip**
 
 - **Level:** Adept Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** 15ft radius, Short Range
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: Every enemy in the radius must pass Prowess + Athletics (TN 10) or become Anchored until they break free (repeat the check as a Free Action on their turn).
+- Pass: Every enemy in the radius must pass Brawn + Prowess (TN 10) or become Anchored until they break free (repeat the check as a Free Action on their turn).
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
 **Rogue Wave**
 
 - **Level:** Adept Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** 15ft radius, Short Range
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: Every character in the radius — friend or foe — must pass Prowess + Athletics (TN 10) or suffer 3 Dissonant Stress and be swept 1 Zone and knocked Prone.
+- Pass: Every character in the radius — friend or foe — must pass Brawn + Prowess (TN 10) or suffer 3 Dissonant Stress and be swept 1 Zone and knocked Prone.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
@@ -1999,13 +1999,13 @@ The ground itself decides it would rather be underwater.
 Thalass doesn't drown you all at once. She simply doesn't let you back up for air.
 
 - **Level:** Master Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 12
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
 - **Cost:** 3 Locked Stress
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: Target must pass Prowess + Athletics (TN 12) or gain the Drowned condition (see Iron Core).
+- Pass: Target must pass Brawn + Prowess (TN 12) or gain the Drowned condition (see Iron Core).
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
 
@@ -2013,7 +2013,7 @@ Thalass doesn't drown you all at once. She simply doesn't let you back up for ai
 The storm doesn't rage because Thalass is angry. It rages because the ocean has never once needed permission.
 
 - **Level:** Master Miracle
-- **Resolution:** Tithe of Will — Faith vs. TN 12
+- **Resolution:** Tithe of Will — Will + Faith vs. TN 12
 - **Cost:** 3 Locked Stress
 - **Target/Range:** 25ft radius, centered on self
 - **Action Type:** Activation

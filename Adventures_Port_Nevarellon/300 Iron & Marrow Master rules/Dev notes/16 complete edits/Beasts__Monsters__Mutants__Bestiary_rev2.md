@@ -26,41 +26,27 @@ Every stat block declares one or more Creature Types alongside its Tier. Type ca
 
 **Enemy Budget by Party Standing**
 
-Budgets are measured in **Skill points** — the sum of every Skill rank on the sheet. Attributes are deliberately excluded. They no longer contribute to any roll; they set Skill ceilings and drive derived stats, and they cost 5 DP against a Skill rank's 1–3, so summing the two would be adding unlike currencies. What a creature rolls is its Skills, and what a PC rolls is theirs — that is the only number worth comparing.
+The budgets below used to be a single flat number per tier, calibrated against a Milestone-0 (Green) party and never revisited as PCs advance. That undersells every tier once a party has spent even a few Milestones — Ox, Morwenna, and Perpetua (Hardened, Milestone 6–9, see The Meat) each sit at 16–17 total Attribute+Skill points on their own, comfortably past the old Dread/Boss ceiling of 14, before the rest of the party is even counted.
 
-Budgets scale with the party's current Standing (see The Marrow, Character Creation — "Milestone Standing"). Find the party's Standing, then use that row for whichever tier is being built.
+Budgets now scale with the party's current Standing (see The Marrow, Character Creation — "Milestone Standing"). Find the party's Standing, then use that row for whichever tier is being built. "Typical PC total" is the same Attribute+Skill sum documented there.
 
-| Party Standing | Typical PC Skill points | Fodder | Grunt | Elite | Dread/Boss |
+| Party Standing | Typical PC total | Fodder | Grunt | Elite | Dread/Boss |
 |---|---|---|---|---|---|
-| Green | 8 | 1–2 | 4–6 | 9–12 | 13–17 |
-| Blooded | 9 | 1–2 | 5–6 | 10–13 | 15–19 |
-| Veteran | 10–11 | 2–3 | 5–7 | 12–15 | 17–22 |
-| Hardened | 12–14 | 2–3 | 6–8 | 15–18 | 20–26 |
-| Storied | 15+ | 3–4 | 7–10 | 18–22+ | 24–30+ |
+| Green | 12 | 1–2 | 3–4 | 11–14 | 15–20 |
+| Blooded | 13 | 1–2 | 3–5 | 12–15 | 17–22 |
+| Veteran | 14 | 2–3 | 4–5 | 15–18 | 19–25 |
+| Hardened | 17 | 2–3 | 4–6 | 17–21 | 22–28 |
+| Storied | 19+ | 3–4 | 5–7 | 20–24+ | 26–34+ |
 
 The logic behind each column:
-- **Fodder** barely moves — it's disposable chaff by design, and a Fodder mook that scaled with the party would stop being Fodder. The only growth is a token bump by Storied so a late-campaign mob scene doesn't look absurd next to everything else on the field. Roughly 15–25% of a PC's Skill total.
-- **Grunt** tracks the party's *current* Standing, at roughly 50–70% of their typical total — enough to force a Momentum spend from a single PC, credible in numbers, still meant to lose to focused attention. That percentage looks far higher than the 25–30% quoted under the old Attribute+Skill metric, but nothing about a Grunt actually changed: the Orc Line-Breaker struck at +4 then and strikes at +4 now. The old figure was understated because a PC's 12 included 4 Attribute points that were also feeding their rolls. Measured on what both sides actually roll, a Grunt has always been this close to a PC on its one good number, and short of them everywhere else.
-- **Elite** is budgeted as roughly the party's *next* Standing tier up — a literal reading of the tier's own text, "a few advances ahead of the characters at all times." At Green, Elite is budgeted like a Blooded PC; at Hardened, like a Storied one. The four Elites below land at 9–11 Skill points against a Green party's 8, which makes the tier's "almost equivalent to the characters' capabilities" description true as written for the first time.
+- **Fodder** barely moves — it's disposable chaff by design, and a Fodder mook that scaled with the party would stop being Fodder. The only growth is a token bump by Storied so a late-campaign mob scene doesn't look absurd next to everything else on the field.
+- **Grunt** tracks the party's *current* Standing, at roughly 25–30% of their typical total — enough to force a Momentum spend from a single PC, credible in numbers, still meant to lose to focused attention.
+- **Elite** is budgeted as roughly the party's *next* Standing tier up — a literal reading of the tier's own text, "a few advances ahead of the characters at all times." At Green, Elite is budgeted like a Blooded PC; at Hardened, like a Storied one. This is the largest change from the old flat number (5–8), because that number never actually matched its own "almost equivalent to the characters' capabilities" description — 5–8 against a 12-point Green party is only 42–67%. The new range makes that description true at Green and keeps it true as the party advances.
 - **Dread/Boss** is budgeted roughly two Standing tiers ahead, with a wide, GM-discretion range. A solo Boss has to "rival a highly optimized player" while getting acted on 3–5 times for every one of its own actions, so its raw stat budget needs real headroom over Elite, not a marginal bump.
 
-**The existing roster, checked against the new numbers:**
-
-| Creature | Tier | Skill points | Green band | Verdict |
-|---|---|---|---|---|
-| Goblin Scrapper | Fodder | 2 | 1–2 | in band |
-| Corpse-Trench Rat Brood | Fodder | 2 | 1–2 | in band |
-| Orc Line-Breaker | Grunt | 6 | 4–6 | in band |
-| Bandit Captain | Elite | 9 | 9–12 | in band |
-| Frost-Cave Troll | Elite | 10 | 9–12 | in band |
-| Cultist Assassin | Elite | 11 | 9–12 | in band |
-| Rotting Fen-Goliath | Elite | 11 | 9–12 | in band |
-| The Barrow-Fang | Dread | 8 | 13–17 | **under floor** |
-| Arch-Devil Malaphar | Boss | 15 | 13–17 | in band |
-
-- **Cultist Assassin** was previously flagged as needing a rebuild for falling under the Elite floor. It no longer does. The flag was an artefact of the old metric double-counting a shared Attribute: its Reflex +3 was propping up both Dodge and Stealth but only counted once. At 11 Skill points it sits comfortably mid-band, and its Traits and Threat Abilities were correctly tuned all along. **No rebuild required — flag withdrawn.**
-- **The Barrow-Fang** is the roster's real outlier at 8 Skill points against a Dread floor of 13. It was never checked against the old table either, so this is a pre-existing gap the recalibration surfaced rather than caused. Its phase structure and Threat suite carry more of its threat than its raw numbers do, so this may be a deliberate design that the budget simply doesn't capture — but a Dread that rolls worse than three of the four Elites is worth a deliberate decision rather than an accident. Flagged for its own pass.
-- **Arch-Devil Malaphar** carries an internal contradiction predating this conversion: the worked example in this section cited Melee +4 / Resolve +3, while the statblock itself has Melee +3 / Resolve +1. The conversion followed the statblock, since that is what a GM actually runs. At 15 Skill points he sits at the top of the Green Dread band and inside every later row through Veteran. Against a Hardened or Storied party he is under-budgeted and would need a pass.
+**Two existing examples, checked against the new numbers:**
+- **Arch-Devil Malaphar** (Dread, below — Brawn +4/Will +3/Wits +2/Melee +4/Arcana +3/Resolve +3 = 19 points) previously *exceeded* even the old flat ceiling of 14 by 5 points, flagged separately as a likely pre-Standing-system inconsistency. It now sits cleanly inside the Green-party Dread range (15–20), and inside every later row too. No changes needed — the recalibration resolves it without any edits to the statblock itself.
+- **Cultist Assassin** (Elite, below — Reflex +3/Wits +1/Melee +2/Dodge +1/Stealth +1 = 8 points) no longer clears the new floor at any Standing (Green Elite starts at 11). Unlike Malaphar, this one needs an actual rebuild, not just a note — its Traits and Threat Abilities were tuned around the old 5–8 budget, and inflating the raw numbers without revisiting those would likely leave it either redundant with Grunt or clumsily overtuned. Flagging rather than patching it here; it deserves its own pass.
 
 - **Fodder:** 1 - 2 Traits. 1 Threat Abilities. 
 	- vessel limit 1. 
