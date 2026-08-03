@@ -334,7 +334,7 @@ ______________________________________________________________________
     
 - The world moves like sludge when the adrenaline hits.
     
-- Mechanic: You have a supernatural hair-trigger response to danger. When rolling your Activation Order (2d6 + Reflex), you roll with Advantage (Roll 3d6, keep the highest two).
+- Mechanic: +3 to your Activation Order, and break ties against others without Quick.
 
 **Scavenger’s Eye**
 
