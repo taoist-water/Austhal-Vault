@@ -94,7 +94,7 @@ Items found in local markets carry tags denoting the skill of the artisan who ha
 *Balanced Quality* 
 - Cost Modifier: +100% to base price.
     
-- 2d6 Rule: Perfectly weighted pommels or expertly aligned shafts. Once per scene, when rolling a Clash or Skill check using this item, the player can reroll a single die that landed on a '1' or a '2', mitigating low-end variance. (Broader than the Finesse tag's reroll, which only catches natural 1s — so Balanced remains worth paying for on a Finesse weapon, and the two stack: Finesse first, then Balanced on the remaining die.)
+- 2d6 Rule: Perfectly weighted pommels or expertly aligned shafts. Once per scene, when rolling a Clash or Attribute check using this item, the player can reroll a single die that landed on a '1', mitigating low-end variance.
     
 
 *Masterwork Quality* 
@@ -232,11 +232,11 @@ A longsword (or similar) inlaid with warding sigils that glow faintly hot to the
 
 **Blade of the Undertow** — ~150 sp | Legendary, Commission-gated
 A weapon that always smells faintly of brine, regardless of how far from the sea it travels.
-- **Effect:** Once per Scene, the wielder may spend 1 Momentum on a successful hit to force the target into an unopposed Prowess check vs. TN 8; on a failure, the target is shoved 1 Zone and knocked Prone. (Reuses Havoc's and the Domain of Sea & Storms' existing push/shove language rather than inventing new physics.)
+- **Effect:** Once per Scene, the wielder may spend 1 Momentum on a successful hit to force the target into an unopposed Brawn + Prowess check vs. TN 8; on a failure, the target is shoved 1 Zone and knocked Prone. (Reuses Havoc's and the Domain of Sea & Storms' existing push/shove language rather than inventing new physics.)
 
 **Sigil-Bound Wand (Single-Charge)** — 40 sp for a stored Novice spell, scaling to Legendary for Master-tier | Rare–Legendary
 A single-use wand pre-loaded with one specific spell by an Arcanist during downtime (treat the loading process as a Commission). This is the formal version of the "activate an alchemical wand looted off a dead Boss" scenario GM Tools already gestures at — any character can trigger it, not just casters.
-- **Activation:** The activator makes that spell's normal Resolution roll (Arcana, opposed or unopposed per the spell's own entry), whether or not they possess the Arcane Awakening feat.
+- **Activation:** The activator makes that spell's normal Resolution roll (Wits + Arcana, opposed or unopposed per the spell's own entry), whether or not they possess the Arcane Awakening feat.
 - **If the activator has Arcane Awakening:** only a Snake Eyes destroys the wand (it gains the Ruined condition). A standard Failure just fizzles — the charge remains for a later attempt.
 - **If the activator does not have Arcane Awakening** (using invested Arcana skill points per the Non-Caster Usage of Faith and Arcana rules in GM Tools): any Failure, not just Snake Eyes, destroys the wand. An untrained hand can't channel it precisely enough to survive a botch.
 - *This item costs the activator no personal Stress win or lose — that's the whole point, it's what makes it safely usable by non-casters. The destruction risk on a failed roll is what stops it from being strictly better than casting the spell yourself.*
@@ -376,11 +376,11 @@ _______________________________________________________________________
 - **Close-Quarters:** suffers no penalties when In-Fighting.
 - **Concealable:** Grants Advantage (3d6 keep 2) on rolls made to hide the weapon on your person.
 - **Conduit:** can be used to perform Somatic components. The caster weaves the geometry of the spell using the item itself, meaning their hand does not need to be empty.
-- **Cumbersome:** The weapon is heavy and slow to ready. Imposes a -1 penalty to your Activation Order.
+- **Cumbersome:** The weapon is heavy and slow to ready. Imposes a -1 penalty on Activation order rolls.
 - **Devastating:** A mark of exceptional make — masterwork craft, ancient forging, or magic worked directly into the item — assigned to a specific weapon rather than a weapon category. Enables the weapon to inflict Wounds directly on Scale +3 (Gargantuan) creatures (without it, Strikes against Gargantuan creatures only ever inflict Stress, per the Scale rules in Metal meet Flesh). When targeting a Scale +3 or higher creature, this weapon also ignores that creature's Scale-based Wound Threshold bonus when calculating whether a Strike inflicts a Wound — otherwise a weapon capping out at Power 5 could almost never generate enough Impact to matter against a Gargantuan-scale Wound Threshold. Carries no inherent size, Power, or hands requirement, and grants no bonus against fortifications — a Devastating dagger and a Devastating greatmaul are equally valid. The tag describes what the weapon *is*, not how big it is.
-- **Finesse:** When making or defending a Clash with this weapon, you may reroll one die that landed on a natural 1. The new result stands, even if it is another 1. If *both* dice landed on 1, that is Snake Eyes and cannot be rerolled — no amount of technique saves a catastrophe. A rerolled 6 triggers Desperate Edge normally.
+- **finesse:** may use reflex instead of Brawn in clashes.
 - **Focus:** Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the item, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
-- **Grounding Rod:** grants Advantage on the Grounding (Arcana) check to unlock stress slots.
+- **Grounding Rod:** grants Advantage on the Grounding (Wits + Arcana) check to unlock stress slots.
 - **Heavy Hitter:** When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7.
 - **Inertia:** If you win the Clash roll by a High Margin (5+), add +2 Power to the Final Impact.
 - **non-Lethal:** strikes with this weapon can only cause Stress regardless of the Impact result, will never spill over into wounds.
@@ -395,7 +395,7 @@ _______________________________________________________________________
 - **Volley:** Requires two hands and prevents the user from holding a Shield or Grimoire.
 - **Armor-Piercing:** Ignores 2 points of the target's Armor Value when calculating Impact — twice Precise's ignore-1.
 - **Trip:** As an Aggressor Strike with this weapon, you may forgo Impact on a win to instead knock the target Prone.
-- **Disarm:** As an Aggressor Strike with this weapon, you may forgo Impact on a win to force the target to pass a Prowess check vs TN 8 or drop what they're holding into an adjacent square.
+- **Disarm:** As an Aggressor Strike with this weapon, you may forgo Impact on a win to force the target to pass a Brawn + Prowess check vs TN 8 or drop what they're holding into an adjacent square.
 - **Set:** If this weapon is readied and an enemy voluntarily moves into your Threat Zone, your Strike against them gains a Charge's +2 Clash bonus and tie-break — without the -2 Reactor penalty a real Charge imposes on you.
 - **Double:** This two-handed weapon has two striking ends, each with its own Power (listed X/Y). It functions as a built-in Twin-Blade Stance: spend 1 Momentum on a won Clash to immediately follow up with the second Power value as Impact + 1 Stress, without needing a separate Sidearm weapon in your off hand.
 - **Repeating:** Holds multiple shots internally; does not require the Reload action between individual shots. Once the magazine is empty, reloading it fully requires a full Action.
@@ -419,7 +419,7 @@ These variations add specific situational tactical tools to the baseline weapon 
 - Cost: 25 sp | Availability: Common
 - Stats: Power 2 | 1H/2H | 10 ft Threat
 - Tags: Reach.
-- 2d6 Special Rule: When you win a Clash with this weapon as an attack action, you can forego doing standard Impact damage to execute a Hook. The target is pinned at the tip of your spear; they cannot execute Shift actions until they win an opposed Prowess check against you on their activation.
+- 2d6 Special Rule: When you win a Clash with this weapon as an attack action, you can forego doing standard Impact damage to execute a Hook. The target is pinned at the tip of your spear; they cannot execute Shift actions until they win an opposed Brawn + Prowess check against you on their activation.
 
 #### The Heavy Arbalest
 
@@ -457,7 +457,7 @@ ________________________________________________________________________
 - *Cushioned:* Thick layers of cloth absorb minor impacts. Negates the first point of Dissonant Stress you would take from a Glancing Hit each combat round.
 - *Nimble:* Light enough to be actively punched out or used to deflect. Allows the user to roll Reflex instead of Brawn when performing a Block action.
 - *Obstructive:* The sheer size of this shield gets in the way of evasive footwork. Imposes a -2 penalty to all Dodge actions.
-- *Restricted:* The heavy plates and limited visibility slow your reaction time. Your Activation Order is reduced by 3, and you can never act first in a round regardless of your total. Impossible to recreate the intricate movements required in Arcane spell casting, cannot cast Arcane spells whilst wearing. Reduces movement speed by 10ft.
+- *Restricted:* The heavy plates and limited visibility slow your reaction time. You can never be first in the activation order. Your Activation Order is reduced by 3, and you can never act first in a round regardless of your total. Impossible to recreate the intricate movements required in Arcane spell casting, cannot cast Arcane spells whilst wearing. Reduces movement speed by 10ft.
 
  **CRITICAL UTILITY ARMOR MODIFICATIONS**
 
@@ -486,7 +486,7 @@ _Armor Spikes (Armor Add-on)_
 _Locked Gauntlet (Armor Add-on)_
 
 - Cost: 5 sp | Availability: Common
-- Rules: Grants Advantage on Prowess checks made to resist being disarmed.
+- Rules: Grants Advantage on Brawn + Prowess checks made to resist being disarmed.
 
 _Shield Spikes (Shield Add-on)_
 
@@ -509,7 +509,7 @@ ______________________________________________________________________
 | Block and tackle                                    | 1        | 12 sp         | Scarce       | Advantage on Athletics checks to lift/hoist loads beyond your own strength.                                                                                                                                |
 | Bottle, glass                                       | 0        | 2 sp          | Common       | —                                                                                                                                                                                                          |
 | Bucket (empty)                                      | 1        | 2 sp          | Common       | —                                                                                                                                                                                                          |
-| Caltrops (bag)                                      | 0        | 4 sp          | Common       | Move Action to scatter across one square. First creature to enter it without noticing (failed Notice vs. your Margin) rolls Acrobatics vs TN 8 or takes 1 Stress and half Movement for the round. |
+| Caltrops (bag)                                      | 0        | 4 sp          | Common       | Move Action to scatter across one square. First creature to enter it without noticing (failed Notice vs. your Margin) rolls Reflex + Acrobatics vs TN 8 or takes 1 Stress and half Movement for the round. |
 | Candle / Chalk / Firewood / Torch / Tindertwig      | 0        | ~1 cp each    | Common       | Flavor only — light and fuel are tracked by the Community Supply Die during a dungeon crawl. Price these individually only for town/travel bookkeeping.                                                    |
 | Canvas (sq. yd.)                                    | 0        | 1 sp          | Common       | —                                                                                                                                                                                                          |
 | Case, map or scroll                                 | 0        | 2 sp          | Common       | —                                                                                                                                                                                                          |
@@ -553,7 +553,7 @@ Practical kits that anchor survival and optimize downtime actions.
 _Iron Pitons & Sledge (Set of 6)_
 
 - Cost: 5 sp | Availability: Common
-- Tactical Rule: During a movement or preparation phase, a player can spend an action to spike a heavy iron door or narrow passageway shut. Enemies attempting to bypass this square or break the door must spend a Full Action and pass a Prowess check vs TN 8 to smash the piton out, buying the party vital tactical rounds.
+- Tactical Rule: During a movement or preparation phase, a player can spend an action to spike a heavy iron door or narrow passageway shut. Enemies attempting to bypass this square or break the door must spend a Full Action and pass a Brawn + Prowess check vs TN 8 to smash the piton out, buying the party vital tactical rounds.
 
 _Field Surgeon Kit_
 
@@ -586,7 +586,7 @@ Alchemical supplies are highly volatile, unstable, and often act as a mechanical
 | Black-Root Draught   | 15 sp | Scarce  | 1/3   | Caster Exhaustion: Used as a Move Action. Instantly unlocks 2 Locked Stress slots for an Arcane caster. However, it drains physical stamina; at the absolute end of the current scene, the character automatically fills 1 physical Wound slot from systemic toxicity.                                  |
 | Witch-Spur Salve     | 12 sp | Scarce  | 1/3   | Nerve Numbing: Rubbed into the temples as a Move Action. Grants absolute immunity to the Terrifying trait and psychological panic checks for the next scene. The Catch: It instantly fills and locks 1 Dissonant Stress slot for the duration of the scene, reducing the user's maximum stress ceiling. |
 | Vitriol Solvent      | 25 sp | Rare    | 1/3   | Armor Melt: Applied to a bladed or Armour-piercing weapon as a Full Action. For the next 3 combat rounds, the weapon gains the Sunder tag. If a strike hits a target with the Plated trait, that trait is suppressed for the rest of the encounter.                                                     |
-| Naphtha Fire-Flask   | 30 sp | Rare1/3 |       | Zone Control: Can be thrown (Ranged, Max 30ft). Shatters upon a square/zone. Anyone occupying or entering the zone during the next 3 rounds must pass a Dodge check vs TN 8 or take a flat 2 Impact damage and 1 Dissonant Stress from chemical burns.                                         |
+| Naphtha Fire-Flask   | 30 sp | Rare1/3 |       | Zone Control: Can be thrown (Ranged, Max 30ft). Shatters upon a square/zone. Anyone occupying or entering the zone during the next 3 rounds must pass a Reflex + Dodge check vs TN 8 or take a flat 2 Impact damage and 1 Dissonant Stress from chemical burns.                                         |
 | Arcane Salts         | 8sp   | common  | 1/3   | A violently harsh alchemical stimulant. Using it as a Move Action instantly unlocks 1 Locked Stress slot, but immediately inflicts 1 normal Dissonant Stress on the user from the chemical shock..                                                                                                      |
 | Philter of Focus     | 20sp  | scarce  | 1/3   | Grants **Advantage** on the next Grounding check performed in the scene.                                                                                                                                                                                                                                |
 | Corpse-Weed Resin    | 6 sp  | Common  | 1/3   | Lethargy: For the first combat encounter after the Breather, the user cannot generate Momentum, as their nervous system is too dulled. Clears 1 Locked Stress. Can be smoked during a 30-minute Breather.                                                                                               |
@@ -608,7 +608,7 @@ Alchemical supplies are highly volatile, unstable, and often act as a mechanical
 | Artisan's tools (per trade)    | 1                                    | 5 sp   | Common           | Required to attempt a Crafting check in that trade without Disadvantage.                                                                                                                                                                                                         |
 | Artisan's tools, masterwork    | 1                                    | 20 sp  | Scarce           | +1 flat bonus to that trade's Crafting check (same logic as Masterwork Quality weapons/armor).                                                                                                                                                                                   |
 | Climber's Kit                  | 1                                    | 25 sp  | Scarce           | Advantage on Athletics checks made specifically to climb.                                                                                                                                                                                                                        |
-| Disguise Kit                   | 1                                    | 15 sp  | Scarce           | Grants Advantage on the unopposed Arcana-equivalent roll for a mundane disguise (resolved exactly like the Disguise spell's Illusion check — Notice vs. your Margin to see through it).                                                                                   |
+| Disguise Kit                   | 1                                    | 15 sp  | Scarce           | Grants Advantage on the unopposed Wits + Arcana-equivalent roll for a mundane disguise (resolved exactly like the Disguise spell's Illusion check — Notice vs. your Margin to see through it).                                                                                   |
 | Healer's Kit                   | 1                                    | 15 sp  | Common           | Cheaper cousin of the Field Surgeon's Kit: +1 (not +2) to Tend to the Flesh checks, and holds only 2 uses before restocking.                                                                                                                                                     |
 | Magnifying Glass               | 0                                    | 30 sp  | Scarce           | Advantage on Notice checks made on small or fine details (forgeries, tiny inscriptions).                                                                                                                                                                                         |
 | Musical Instrument, common     | 1                                    | 5 sp   | Common           | Flavor.                                                                                                                                                                                                                                                                          |

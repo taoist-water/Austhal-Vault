@@ -110,7 +110,7 @@ Tithe of Will 2d6+3 | Strike (Mace) 2d6+1, Impact = Margin+2 | Block 2d6+1 (mode
 
 ### Equipment
 - **Armor:** Leather (+1 Armor, Light — no Arcana penalty)
-- **Weapons (two 1H items):** Grimoire (Repository) + Dagger (Finesse — reroll a natural 1 in a Clash; with Melee 0 he is rerolling into a +0 either way, but it is free)
+- **Weapons (two 1H items):** Grimoire (Repository) + Dagger (Finesse — resolves on Acrobatics rather than Melee)
 - **Starting Money: 25 sp** — 5 sp on a signet ring (a different name and seal in every city, which is rather the point), 2 sp on ink/paper/sealing wax, 18 sp in reserve.
 
 ### Grimoire (Arcana = **2d6+3**)
@@ -121,7 +121,7 @@ Tithe of Will 2d6+3 | Strike (Mace) 2d6+1, Impact = Margin+2 | Block 2d6+1 (mode
 - **Flicker-Step** *(Paradigm, Mastery-eligible)* — Unopposed vs. TN 8, Self, 30ft teleport, ignores Threat Zones entirely. Margin 0–2: teleports, but arrives gasping — 1 Dissonant Stress. Margin 3–4: silent and flawless. Margin 5+: also generates 1 Momentum or grants Advantage on his next Strike.
 
 ### Combat Math Quick-Ref
-Arcane Clash/Manifestation 2d6+3 | Dagger Strike 2d6+0 *(Melee 0; Finesse lets him reroll a natural 1)* | Dodge 2d6+1 | Notice 2d6+1 | Activation Order 7
+Arcane Clash/Manifestation 2d6+3 | Dagger Strike (Finesse) 2d6+1 | Dodge 2d6+1 | Notice 2d6+1 | Activation Order 7
 
 ---
 
@@ -245,7 +245,7 @@ Every prerequisite above is checked against what he actually had *at the moment 
 
 ### Equipment
 - **Armor:** Leather (+1 Armor, Light — no Arcana penalty)
-- **Weapons (two 1H items):** Grimoire (Repository) + Dagger (Finesse — the natural-1 reroll applies, though with Melee 0 it is rescuing a +0; Sidearm/Concealable/Thrown are why she carries it)
+- **Weapons (two 1H items):** Grimoire (Repository) + Dagger (Finesse — irrelevant with Reflex 0, but Sidearm/Concealable/Thrown still make it the practical backup)
 - **Starting Money: 25 sp** — 5 sp on a surgeon's tool roll (feeds Medicine), 3 sp on grave-wax candles and ritual chalk, 17 sp in reserve.
 - **Loot acquired in play:** **Cloak of Still Water** (35 sp, Rare — bought during Downtime after Milestone 5) — Advantage on Stealth checks while moving at half Move or slower. Bought for exactly the reason you'd expect: robbing graves quietly takes patience, not speed.
 
@@ -349,56 +349,6 @@ Tithe of Will 2d6+4 *(2d6+3 at creation — see Advancement Ledger)* | Mace Stri
 
 ---
 
-## Corvin Ashgrave — Human Male, Bravo (Duelist)
-
-*"You are not losing to me. You are losing to the fact that you brought one weapon."*
-
-### Vital Statistics
-- **Species:** Human
-- **Standing:** Blooded (Milestone 2 — 6 DP earned, 0 banked)
-- **Size:** Standard | **Move:** 30 ft / 6 squares
-- **Attributes:** Brawn 2 | Reflex 2 | Wits 0 | Will 0 *(**Twin** array — the roster's first non-Spike build)*
-- **Skills:** Melee 4 | Acrobatics 3 | Prowess 1 | Notice 1 *(9 ranks, 9 DP with Adaptable. Ceilings: Melee/Prowess/Block/Athletics 5 (Brawn 2); Acrobatics/Stealth/Ranged 5 (Reflex 2); everything under Wits or Will 3)*
-- **Wound Threshold:** 7 *(4 base + 2 Brawn + 1 Leather)*
-- **Stress Limit:** 5 *(4 base + 0 Wits + 0 Will + 1 Indomitable Spirit)*
-- **Wound Slots:** 3 | **Momentum Bank:** 5 *(4 + Reflex 2, −1 Steady Not Sharp)* | **Activation Order:** 11 *(6 + Reflex 2, +3 Quick)*
-- **Inventory Slots:** 10 *(8 + 2 Brawn)*
-
-### Species Traits (Human)
-- **Adaptable:** +1 Skill Point at creation (already applied — 9 DP spent instead of 8).
-- **Indomitable Spirit:** +1 Stress Limit (already applied above).
-- **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap.
-
-### Feats
-- **Iron Grip** *(Melee +1 — Creation)*: when a Clash ties and the weapons bind, automatically bank 1 Momentum. His Momentum engine — a Twin-array duelist has a small bank and needs to fill it without spending actions.
-- **Quick** *(Reflex 1 — Creation)*: +3 to your Activation Order.
-- **Riposte** *(Melee 2 — Milestone 2)*: winning a Parry inflicts Impact on the attacker outright.
-- **The Insulting Deflection** *(Bravo, Tier 2; Reflex +2, Melee +2 — Milestone 2)*: on a Parry won by Margin 5+, spend 1 Momentum to inflict Surprised on the Aggressor.
-
-### Equipment
-- **Armor:** Leather (+1 Armor, Light) — Gambeson at creation, upgraded during Downtime after Milestone 1.
-- **Weapons (two 1H items):** Shortsword (Power 2, **Sidearm**, **Finesse**) + Dagger (Power 0, **Sidearm**, **Finesse**, Concealable, Close-Quarters, Thrown) — qualifies for **Twin-Blade Stance**.
-- **Starting Money: 25 sp** — Shortsword 10 sp, Dagger 5 sp, Gambeson 5 sp, 5 sp reserve. The Leather came out of session earnings.
-
-### Combat Math Quick-Ref
-Strike (Shortsword) 2d6+4, Impact = Margin+2 | Parry 2d6+4 | Dodge 2d6+3 | **Finesse on both** — reroll a natural 1 in any Clash with either blade, attacking or defending | **Off-Hand Parry:** the Dagger reduces incoming Impact by 1, stacking with the Shortsword | **Twin Strike:** 1 Momentum on a won Clash for an off-hand follow-up | Prowess 2d6+1 | Notice 2d6+1 | **Resolve 2d6+0** | Activation Order 11
-
-### Advancement Ledger — Milestone 0 → Milestone 2 (6 DP)
-
-| Milestone | DP earned | Banked before | Spent this Milestone | Bank after |
-|---|---|---|---|---|
-| 1 | 3 | 0 | — (saving) | 3 |
-| 2 | 3 | 3 | **3 DP** — Feat: Riposte *(Melee 2 ✓)*, **3 DP** — Feat: The Insulting Deflection *(Reflex 2 ✓, Melee 2 ✓)* | 0 |
-
-Both Milestones went to Feats, so his Skill total never moved off its creation-day 9 — exactly the Blooded typical in The Marrow's Standing table, and the same pattern as Wren, whose one Milestone also bought a Feat. Riposte and Insulting Deflection both trigger off a won Parry, which is deliberate: he is built to be attacked.
-
-### Table Notes
-- **What the Twin array actually bought, and what it cost.** Built as Spike (Brawn 3 / Reflex 1) with the identical 9 skill ranks, his rolls would be *identical* — Strike 2d6+4, Dodge 2d6+3. The arrays diverge only in ceilings and derived stats: Spike would give him Melee ceiling 6 and Wound Threshold 8, Twin gives him Acrobatics ceiling 5, Momentum 5 and Activation Order 11. **At Green and Blooded, array choice is invisible on the dice.** Twin's payoff is entirely deferred to the point where he has DP spare to climb a second ceiling — realistically Veteran. Worth stating plainly in The Marrow's array table, or Twin reads as strictly worse at exactly the moment a player is choosing it.
-- **Two dump Attributes is a real price, and it is all in one place.** Wits 0 and Will 0 give him Stress Limit 5 and Resolve 2d6+0, with a Resolve ceiling of 3 he can never exceed. He folds to Fear, to Terrified, and to any Faith caster's resistance test. Ox at Will 3 has Stress Limit 9 and Resolve 2d6+3; Corvin has neither and cannot buy his way out. That is the Twin array's bill, and it comes due in the mental attrition track rather than the physical one.
-- **Finesse on both hands is why this build works.** Both blades carry the tag, so every Clash he makes — Strike, Parry, Off-Hand Parry — can reroll a natural 1. Against a defensive build whose two best Feats key off winning Parries, that reroll is worth more than the +0.82 average suggests: it is specifically insurance against the low rolls that would otherwise lose the Parry outright and deny both Feats.
-
----
-
 ## Design Notes
 
 **4. Focus vs. spread — superseded by the Attribute restructure.** This note originally compared each character built twice: once maxing the core Attribute at 3, once capped at 2 with the freed point spent elsewhere, and concluded that one point off the signature roll bought roughly one point somewhere else load-bearing. That tradeoff no longer exists in the form described, because Attributes don't contribute to any roll. The comparison it was making is now made by the Attribute arrays at creation (Spike / Twin / Broad / Flat, see The Marrow), which trade Skill *ceilings* and derived stats rather than roll modifiers. What the roster demonstrates instead:
@@ -413,9 +363,7 @@ Both Milestones went to Feats, so his Skill total never moved off its creation-d
 | Morwenna (Hardened, Spike) | Arcana 2d6+4 | Arcana 6 | WT 4 / Stress 9 / Momentum 4 |
 | Perpetua (Hardened, Spike) | Tithe of Will 2d6+4 | Faith 6 | WT 7 / Stress 9 / Momentum 3 |
 
-| Corvin (Blooded, **Twin**) | Melee 2d6+4 | Melee 5 / Acrobatics 5 | WT 7 / Stress 5 / Momentum 5 |
-
-**Seven of eight characters use the Spike array.** All seven predate the restructure, and that is the strongest available evidence that the old Link Rule made 3/1/0/0 the only real choice — seven independent builds, seven identical shapes. Corvin is the first deliberate Twin build, and what he demonstrates is that **the arrays are indistinguishable on the dice at Green and Blooded.** Built as Spike with the same 9 skill ranks his rolls would be identical; the arrays differ only in ceilings and derived stats. Twin trades 1 Wound Threshold for 1 Momentum, 1 Activation Order, and a second Skill ceiling at 5 instead of 4 — none of which shows up until a character has DP spare to climb toward a ceiling. Broad and Flat remain undemonstrated, and both push further in the same direction: more ceilings, later payoff, thinner derived stats in any one place.
+**Every character on the roster uses the Spike array.** That is the strongest available evidence that the old Link Rule made 3/1/0/0 the only real choice — seven independent builds, seven identical shapes. Under the flat ladder the discount is gone and Twin, Broad and Flat become genuinely competitive, but nothing on this roster demonstrates them yet. A deliberately non-Spike build is the obvious next addition.
 
 **5. Milestone Standing — first character built past Green.** Helga, Faelan, and Pillit are Milestone 0 (Green) — clean creation builds, useful for comparing chargen tradeoffs, but none of them show what the game looks like after actual play. Wren, on closer inspection, isn't actually Green either — her Parasitic Momentum is Tier 2, which chargen cannot grant, so she's Milestone 1 (Blooded); the previous pass mistagged her and it's corrected above now. Ox is Milestone 6 (Hardened), and his ledger is deliberately shown in full rather than just stating his final numbers, so the Standing terminology (full definition in The Marrow, Character Creation) has a worked example to point at instead of just an abstract table. Two things worth watching as more Hardened/Storied characters get built: whether the Blooded/Veteran/Hardened/Storied band boundaries actually track how a character *feels* at the table, and whether "Milestone count" or "Standing" ends up being the one people actually say out loud — my guess is Standing wins for casual reference and Milestone count only gets used when something's being checked precisely (prerequisites, GM encounter math), but that's a guess until it's been through a few sessions.
 
