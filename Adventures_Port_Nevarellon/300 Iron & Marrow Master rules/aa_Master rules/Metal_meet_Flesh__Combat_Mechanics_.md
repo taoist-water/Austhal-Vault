@@ -104,7 +104,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 
 - **The Reprieve (Faith Caster Action):** An Arcanist vents magical heat; a Priest lays a burden down for a moment, mid-battle, and asks whatever's listening to ease up.
 
-	Roll **Will + Faith vs. TN 8**.
+	Roll **Faith vs. TN 8**.
 
 	- **Success:** Unlock [Will] Locked Stress (minimum 1).
 	- **Massive Success (5+):** Clear all Locked Stress.
