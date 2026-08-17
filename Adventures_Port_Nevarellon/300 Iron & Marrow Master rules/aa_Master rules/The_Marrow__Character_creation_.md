@@ -10,12 +10,28 @@ Step 3: Distribute skill points (Practical Training).
 	- 8 DP to spend
 Step 4: Select 2 Feats. 
 	-  Tier 1 only.
-Step 5: Select starting equipment
-	- Choose 1 Armor
-    - Choose Weapons & Shields: Up to two 1-Handed items (e.g., Shortsword + Kite Shield, or Grimoire + Dagger) OR one 2-Handed item (e.g., Greatsword, Longbow, Mage Staff).
-    - Standard Backpack and Belt.
-    - **Starting Money:** 25 sp. For incidental personal gear and narrative coinage — not additional armor/weapons, 
+Step 5: Outfit the character.  
+	- **80 sp to spend.** See *The Starting Purse* below.
     - The Party Community Die starts at a D8.
+
+## The Starting Purse
+
+You begin with **80 silver pieces** and buy your own kit from Hardware. There is no free armour pick — a breastplate is a breastplate whether you are wearing it in Chapter 1 or Chapter 9, and it costs what it costs.
+
+**Availability: Scarce or lower.** You kitted out in a settlement with a market and a working forge — a Town, in the language of Soothing the Soul — not a guild-hall trade hub. Rare-tier goods are sourced from a City or better and are not available to a starting character at any price. They are something you acquire in play, through Acquisition, Commission, or the point of a sword.
+
+**Enchanted and Relic items are unavailable at creation**, regardless of their availability tier or price. Attunement is a bond formed in play, not a purchase. A Green character has not yet made one.
+
+**Free with the kit — these do not come out of the 80 sp:**
+
+- A standard **Backpack and Belt**, and the mundane clothes you stand up in.
+- **A caster's focus, if a Tier 1 feat granted you one.** *Arcane Awakening* grants a Grimoire; *Divine Conduit* grants a Holy Symbol. These are the instruments of the feat, not equipment purchases, and neither tradition pays for what the other gets free.
+
+**Everything else comes out of the purse** — armour, weapons, shields, ammunition, tools, consumables, and whatever coin you choose to keep in your pocket rather than spend. Unspent silver stays yours.
+
+**Grip still constrains the loadout.** The purse governs what you can *afford*; the Grip rules in Hardware govern what you can *hold*. Two 1-Handed items, or one 2-Handed item — a Greatsword leaves no hand for a shield, and a Grimoire must be wielded in one hand with the other free to cast without penalty.
+
+> **A note on the trade.** 80 sp buys a Chain Shirt and very little else, or it buys a Gambeson and a workshop's worth of rope, lockpicks, oil, and caltrops. Armour is roughly two-thirds of any heavily-armoured kit, and every point of Wound Threshold you buy is bought with something you now do not own. That is the intended shape of the choice. A character who walks out of Step 5 with nothing left over has made a real decision, not a mistake.
     _____________________________________________________________________
 # Species
 
