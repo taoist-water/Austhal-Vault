@@ -21,7 +21,7 @@ Generations ago, the region known as **The Whispering Coast** was claimed by a w
 3. **The Historical Borders:** The early kingdom successfully suppressed the wild inland, locking down the region between three unyielding geographical boundaries:
    - **The North:** The treacherous peaks of [[The Jagged Spine|The Jagged Spine Range]].
    - **The East:** The dwarven realm of [[Ubaraz Kingdom|The Ubaraz Kingdom]], dug beneath the Lonely Mountain.
-   - **The South:** The toxic, waterlogged expanse of [[draft_Silted Marshes|The Silted Marshes]].
+   - **The South:** The toxic, waterlogged expanse of [[Silted Marshes|The Silted Marshes]].
 
 ---
 
@@ -30,7 +30,7 @@ The stability lasted for generations until a brutal, tyrannical line of kings pu
 
 - **The Trade Leverage:** Seeing their profits destroyed by the endless war, the rising merchant and trade families of the city of Port Nevarellon took matters into their own hands. They pooled their wealth and sailed to a distant continental power to hire **The Golden Company**—a legendary, hyper-professional mercenary army.
 - **The Seat Falls:** The Golden Company blockaded and assaulted the royal seat at Port Nevarellon. During the chaos, a local folk hero, heavily financed and backed by the merchant cartel, breached the inner sanctum and slew the King.
-- **The Traitor's Flight:** The merchants systematically executed or bought off the King's remaining heirs—or so they believed. In secret, one of the King's children fled south through the deadly hazards of the Silted Marshes with a remnant of royal loyalists, eventually founding **[[000 Atlas/The Chalced Kingdom|The Chalced Kingdom]]** far to the south.
+- **The Traitor's Flight:** The merchants systematically executed or bought off the King's remaining heirs—or so they believed. In secret, several of the King's children fled south through the deadly hazards of the Silted Marshes with a remnant of royal loyalists, carrying whatever wealth two nights and a river barge could hold. They founded nothing. They *bought* sanctuary in the **[[000 Atlas/The Twelgorn Kingdom|Twelgorn Kingdom]]**—an old, powerful slaving realm that had stood on the far southern coast for centuries before the Whispering Coast was ever settled. The sitting King of Twelgorn took their gold, weighed what else they might one day be worth, and granted them the status of honoured "guests."
 
 ---
 
@@ -57,5 +57,7 @@ With the royal line broken and the crown physically smashed, the mercantile inte
 Because the city is enforced by the Golden Company under a 99-year lease, the **Blue-Cloak Watch** we mentioned in the docks are actually subordinates or cheap local recruits overseen by this elite foreign mercenary corporation. The Golden Company doesn't care about street-level crime in the docks; they care about tax revenue, harbor defense, and making sure the contract is paid on time. 
 ### 2. The Golden Company vs. The Syndicate 
 Think about the tension this creates! **Garrick the Keelhauler** wants to turn his Syndicate into a legitimate "Logistics Guild." To do that, he has to wait out or corrupt the Golden Company's contract, because a hyper-professional mercenary army cannot be easily intimidated by common dockyard thugs. Meanwhile, **Silas Bane**'s violent chaos risks bringing the full, lethal weight of the Golden Company down on the Muddy Docks. 
-### 3. The Threat from the South: 
-The Chalced Kingdom The exiled royal bloodline down in the southern Chalced Kingdom is a ticking clock. They represent the old order—the belief in hereditary divine right stemming from the old kingdom. If they ever march north through the Silted Marshes to reclaim their ancestral home, the Ducal Accord will shatter, forcing the five independent Dukes and the greedy Council of Five to decide if they hate each other more than they fear the return of a King.
+### 3. The Threat from the South: The Twelgorn Kingdom
+Nearly six decades on, the exiled bloodline still lives in Twelgorn as permanent "guests" of its King—a courtesy that curdled into custody somewhere across the generations, without anyone needing to say so aloud. They have no army, no treasury, and no realm. What they have is a claim to the Whispering Coast, and that claim is no longer meaningfully theirs. It is an asset in a foreign King's strongroom, to be shelved, married off, or brandished entirely at his convenience.
+
+That makes the danger something colder than a restoration. If Twelgorn ever moves north through the Silted Marshes, it will not be a lost dynasty coming home—it will be a war of conquest wearing a legitimacy costume, with a compliant claimant somewhere back in the baggage train. The Ducal Accord shatters either way, forcing the five independent Dukes and the greedy Council of Five to decide whether they hate each other more than they fear a King handed down to them by someone else.
