@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/aa_Master rules/Hardware__Equipment_.md",
+                "file": "300 Iron & Marrow Master rules/aa_Master rules/Iron_Core__Core_rules_.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware__Equipment_"
+              "title": "Iron_Core__Core_rules_"
             }
           }
         ]
@@ -203,8 +203,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5240cd8982df25b9",
+  "active": "bf9b17df2cdfe0a9",
   "lastOpenFiles": [
+    "300 Iron & Marrow Master rules/aa_Master rules/Hardware__Equipment_.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Embracing_the_Abyss__Magic_Mechanics_.md",
     "000 Atlas/001 Regions & Continents/The_Five_Duchies_of_the_Whispering_Coast_1.md",
     "000 Atlas/002 Cities & Settlements/Castle Iron-Spire.md",
@@ -230,7 +231,6 @@
     "200 Cast/204 Middle Class/High Captain Marco.md",
     "100 Society/104 Cosmology/Cosmology - The Celestial Graveyard and The war of Creation.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Beasts__Monsters__Mutants__Bestiary_.md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Hardware__Equipment_.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Character_sheet.odt",
     "200 Cast/204 Middle Class",
     "400 Meta/drafts",

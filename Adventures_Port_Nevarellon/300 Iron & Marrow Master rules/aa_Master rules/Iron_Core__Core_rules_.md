@@ -9,7 +9,7 @@
 #  The Golden Rules:
 - Bonuses to Wound Threshold from magical sources (Spells, Auras, Enchanted Equipment) do not stack. A character only benefits from the highest single bonus. This does not apply to Shield Value.
 - Bane effects (a flat reduction to a target's Wound Threshold against one specific Creature Type — see the Bestiary's Creature Types list) do not stack with each other against the same target; only the single highest Bane reduction applies. Bane reduces Wound Threshold before Impact is compared against it — this is a separate step from the Massive trait's Impact-halving, and the two apply independently rather than cancelling out.
-- Locked Stress committed to a Sustained spell/Miracle, or to an item's Attunement (see Hardware: Enchantments), cannot be targeted by Grounding, the Reprieve, or Religious Pursuit. It only releases when the effect is voluntarily ended, the Miracle drops, or the item is deliberately unattuned.
+- Locked Stress paid for a Miracle that is currently **Flowing**, or committed to an item's Attunement (see Hardware: Enchantments), cannot be targeted by the Reprieve or Religious Pursuit. It releases only when the Miracle ends or the item is deliberately unattuned. Locked Stress from a Miracle that has already resolved is clearable by the normal routes. Arcane **Sustain** commits no Locked Stress at all and is never subject to this rule.
 - Situational Modifiers are applied at GM’s discretion, +2, -2, -4.
 - Advantage and Disadvantage do not stack. If you have multiple sources of Disadvantage, you still only roll 1 extra die and drop the highest. If you have both Advantage and Disadvantage, they cancel each other out entirely.
 - Wounds Threshold Bypassing effects cannot target creatures of Scale +3 or higher without a weapon carrying Heavy or Siege.
@@ -171,7 +171,9 @@ Stress is strictly divided into two types, which affect the character's capabili
 
 - **Dissonant Stress:** This represents immediate panic, physical pain, fumbles, or sudden exhaustion. It simulates a character losing their edge as they are battered and terrified. It can be cleared relatively quickly by spending Momentum, taking a The Breather, or using consumable items.
     
-- **Locked Stress:** This represents sustained mental and physiological burdens, such as the mathematical heat of casting spells, suffering through specific negative conditions, or enduring harsh environmental hazards. Crucially, Locked Stress ***does not*** apply the negative -1 penalty to your dice rolls. However, it fills up your Stress Limit and is much harder to clear, requiring specific actions like an Arcanist's Grounding maneuver, a full night's rest, or specific Downtime Endeavours.
+- **Locked Stress:** This represents sustained mental and physiological burdens: the cost a Priest pays to borrow authority, the weight of an Attuned item, an Arcanist's deliberate Overcharge, suffering through specific negative conditions, or enduring harsh environmental hazards. Crucially, Locked Stress ***does not*** apply the negative -1 penalty to your dice rolls. However, it fills up your Stress Limit and is much harder to clear, requiring a specific action like the Reprieve, a full night's rest, or specific Downtime Endeavours.
+
+	*Note the division of currencies: an Arcanist's ordinary casting bleeds **Dissonant** Stress — botched manifestations, Messy margins, failed Sustain checks. Locked Stress is the Priest's bill, and reaches an Arcanist only through Overcharge, Attunement, conditions, and the environment.*
     
 
 ### The Death Spiral (Dissonant Stress)
@@ -186,7 +188,7 @@ Think of the character's Stress Limit as a track. Dissonant Stress fills the tra
     
     - _The 50% Tier (Winded):_ If a character's **Dissonant Stress** reaches half of their total Stress Limit, they suffer a flat `-1 penalty` to all rolls.
         
-- **Locked Stress (The Capacity Drain):** This represents sustained exhaustion or the lingering heat of Arcana. It does not trigger the `-1 penalty`, but it "blacks out" available slots on the track, drastically reducing the character's buffer before they hit the absolute limit.
+- **Locked Stress (The Capacity Drain):** This represents sustained exhaustion, a debt owed, or a burden carried — most often a Priest's Tithe, but also Attunement, Overcharge, conditions, and exposure. It does not trigger the `-1 penalty`, but it "blacks out" available slots on the track, drastically reducing the character's buffer before they hit the absolute limit.
     
 - **Total Capacity (The Breaking Point):**
     
