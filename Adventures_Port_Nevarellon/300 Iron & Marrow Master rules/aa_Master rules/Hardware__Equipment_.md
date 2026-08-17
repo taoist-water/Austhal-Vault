@@ -142,7 +142,7 @@ Quality (above) describes how good an item was when it was forged. Condition des
 Wearing or carrying an Enchanted or Relic item permanently isn't free — a sliver of the magic occupies a corner of the wielder's mind.
 
 - **Trinkets and Charmed items never require Attunement.** Wear or carry as many as you like.
-- **Enchanted and Relic items cost 1 Locked Stress each to Attune.** This Stress is locked for as long as the item is bonded to its wielder, exactly like a Sustained spell, and falls under the same Golden Rule: it cannot be cleared by Grounding, the Reprieve, or Religious Pursuit — only by physically unattuning.
+- **Enchanted and Relic items cost 1 Locked Stress each to Attune.** This Stress is locked for as long as the item is bonded to its wielder, exactly like the Locked Stress under a Flowing Miracle, and falls under the same Golden Rule: it cannot be cleared by the Reprieve or Religious Pursuit — only by physically unattuning.
 - **Unattuning takes 10 minutes of uninterrupted handling** — safe to do during a Breather or downtime, impossible mid-combat.
 - **Attunement Slots = Will score (minimum 1).** A character cannot be Attuned to more Enchanted/Relic items at once than this.
 - Losing an Attuned item mid-combat (disarmed, stolen, Sundered) does not instantly refund the Stress — it releases at the start of the wielder's next Activation, the same beat as any other Sustain dropping.
@@ -200,7 +200,7 @@ Requires a harvested Dragon tooth, claw, or scale shard, and a weapon to set it 
 **Grounding Chain** (weapon add-on) — 40 sp | Rare
 Requires a weapon. A fine copper-and-iron chain wound through the grip or haft, humming faintly when the air itself starts to feel wrong.
 - **Effect:** Bane (Elemental) — see Bestiary: Creature Types. The wielder treats an Elemental target's Wound Threshold as 1 point lower.
-- *Named for the same underlying idea as the Arcanist's Grounding action and the Mage Staff's Grounding Rod tag — venting raw, ungoverned energy safely to earth, just applied outward through a strike instead of inward through a caster's own mind.*
+- *Named for the same underlying idea as the Mage Staff's Grounding Rod tag — venting raw, ungoverned energy safely to earth, just applied outward through a strike instead of inward through a caster's own working.*
 
 **Rust-Bitten Edge** (weapon add-on) — 35 sp | Rare
 Requires a weapon. Treated in a slow-acting alchemical bath related to the same formula behind Vitriol Solvent — a controlled, permanent version of the same corrosion, bonded into the metal rather than splashed on fresh each fight.
@@ -256,7 +256,7 @@ Requires a Light armor base (Padded or Leather).
 **The Widow's Needle** (unique dagger) — Not for sale. GM-authored, campaign-specific.
 A slim, black dagger that is always slightly warmer than the air around it.
 - **Effect:** Functions as a permanent, always-on Vital Strike (ignores Armor value in the Wound Threshold calculation) with no -4 penalty required to use it.
-- **The Cost:** Every kill made with the Needle locks 1 additional point of Stress on the wielder that **cannot** be cleared by Grounding, Momentum spend, or a Breather — only a full Religious Pursuit or a Long Rest will do. The blade is hungry, and it remembers who fed it.
+- **The Cost:** Every kill made with the Needle locks 1 additional point of Stress on the wielder that **cannot** be cleared by the Reprieve, Momentum spend, or a Breather — only a full Religious Pursuit or a Long Rest will do. The blade is hungry, and it remembers who fed it.
 
 ___________________________________________________________________
 
@@ -364,8 +364,8 @@ _______________________________________________________________________
 
 |Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
 |---|---|---|---|---|---|---|
-|Grimoire|—|1H|—|Repository: Holds your spells. If casting while open, you may spend 1 Momentum to cast a Novice spell without Locking a Stress slot for the first round (Reading it straight off the page).|15 sp|Scarce|
-|Mage Staff|—|2H|—|Reach, Bound, grounding rod.|45 sp|Rare|
+|Grimoire|—|1H|—|Repository: holds every spell you know. Must be wielded in one hand, with your other hand free, to cast without penalty — see The Casting Requirements (Embracing the Abyss).|15 sp|Scarce|
+|Mage Staff|—|2H|—|Reach, Bound, Conduit, Grounding Rod.|45 sp|Rare|
 |Wand|—|1H|—|Conduit, Focus, Sidearm.|35 sp|Rare|
 
 ## Weapon Tags
@@ -380,7 +380,7 @@ _______________________________________________________________________
 - **Devastating:** A mark of exceptional make — masterwork craft, ancient forging, or magic worked directly into the item — assigned to a specific weapon rather than a weapon category. Enables the weapon to inflict Wounds directly on Scale +3 (Gargantuan) creatures (without it, Strikes against Gargantuan creatures only ever inflict Stress, per the Scale rules in Metal meet Flesh). When targeting a Scale +3 or higher creature, this weapon also ignores that creature's Scale-based Wound Threshold bonus when calculating whether a Strike inflicts a Wound — otherwise a weapon capping out at Power 5 could almost never generate enough Impact to matter against a Gargantuan-scale Wound Threshold. Carries no inherent size, Power, or hands requirement, and grants no bonus against fortifications — a Devastating dagger and a Devastating greatmaul are equally valid. The tag describes what the weapon *is*, not how big it is.
 - **Finesse:** When making or defending a Clash with this weapon, you may reroll one die that landed on a natural 1. The new result stands, even if it is another 1. If *both* dice landed on 1, that is Snake Eyes and cannot be rerolled — no amount of technique saves a catastrophe. A rerolled 6 triggers Desperate Edge normally.
 - **Focus:** Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the item, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
-- **Grounding Rod:** grants Advantage on the Grounding (Arcana) check to unlock stress slots.
+- **Grounding Rod:** grants Advantage on Arcane **Sustain** checks. The staff carries the working's excess charge so the caster's mind doesn't have to.
 - **Heavy Hitter:** When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7.
 - **Inertia:** If you win the Clash roll by a High Margin (5+), add +2 Power to the Final Impact.
 - **non-Lethal:** strikes with this weapon can only cause Stress regardless of the Impact result, will never spill over into wounds.
@@ -588,7 +588,7 @@ Alchemical supplies are highly volatile, unstable, and often act as a mechanical
 | Vitriol Solvent      | 25 sp | Rare    | 1/3   | Armor Melt: Applied to a bladed or Armour-piercing weapon as a Full Action. For the next 3 combat rounds, the weapon gains the Sunder tag. If a strike hits a target with the Plated trait, that trait is suppressed for the rest of the encounter.                                                     |
 | Naphtha Fire-Flask   | 30 sp | Rare1/3 |       | Zone Control: Can be thrown (Ranged, Max 30ft). Shatters upon a square/zone. Anyone occupying or entering the zone during the next 3 rounds must pass a Dodge check vs TN 8 or take a flat 2 Impact damage and 1 Dissonant Stress from chemical burns.                                         |
 | Arcane Salts         | 8sp   | common  | 1/3   | A violently harsh alchemical stimulant. Using it as a Move Action instantly unlocks 1 Locked Stress slot, but immediately inflicts 1 normal Dissonant Stress on the user from the chemical shock..                                                                                                      |
-| Philter of Focus     | 20sp  | scarce  | 1/3   | Grants **Advantage** on the next Grounding check performed in the scene.                                                                                                                                                                                                                                |
+| Philter of Focus     | 20sp  | scarce  | 1/3   | The next Arcane **Sustain** check the drinker makes this scene automatically passes as a Clean result, no roll required.                                                                                                                                                                                                                                |
 | Corpse-Weed Resin    | 6 sp  | Common  | 1/3   | Lethargy: For the first combat encounter after the Breather, the user cannot generate Momentum, as their nervous system is too dulled. Clears 1 Locked Stress. Can be smoked during a 30-minute Breather.                                                                                               |
 | Marrow-Glass Ampoule | 40 sp | Rare    | 1/3   | The Crash: At the end of the combat encounter, the user immediately suffers 1 Minor physical Wound from the violent chemical shock to their heart. Instant Override: Can be injected mid-combat as a Free Reaction. Converts all currently Locked Stress back into standard Dissonant Stress.           |
 | Surgical Spirits     | 10 sp | Common  | 1/3   | Tremors: The user permanently suffers Disadvantage on any Brawn or Arcana rolls requiring fine motor skills until they return to a town(long rest/pursuit) to fully detox. Taken during a Breather. Numbness allows the user to clear 2 Locked Stress.                                                |
