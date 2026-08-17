@@ -19,6 +19,26 @@ This does not apply to Arcane Clash spells or any other opposed roll — both si
 
 Arcana is the act of forcefully rewriting reality. It is highly complex, mathematically devastating, and inherently unstable. It relies entirely on Margin mechanics.
 
+**The Casting Requirements (The Book and the Hand)**
+
+An Arcanist does not carry their spells in their head. They carry them in a book, and the working itself is a physical act. Casting an Arcane spell requires two things:
+
+1. **The Grimoire wielded**, occupying one hand exactly as a 1H weapon does.
+2. **The other hand free**, to trace the somatic geometry of the working.
+
+Casting with either requirement unmet is **Blind Casting**: the check is made at **Disadvantage**, and the caster takes **1 Dissonant Stress per unmet requirement** — so 1 if the book is stowed *or* the hand is full, 2 if both. (Disadvantage does not stack per Iron Core, so the Stress is what makes losing both worse than losing one.)
+
+If the Grimoire is not on the Arcanist's person at all — lost, stolen, Sundered, or left behind — they cannot cast at all, with the sole exception of spells committed permanently to memory (see the *Ingrained Arcana* feat).
+
+Both requirements have hardware answers, and an Arcanist's loadout is a real build decision (see Hardware: Arcane Focuses):
+
+| Loadout | Grimoire req. | Free hand | Result |
+|---|---|---|---|
+| Grimoire + empty hand | Met | Met | Clean. No weapon, no shield. |
+| Grimoire + Wand (**Conduit**) | Met | Met | Clean, plus the Wand's **Focus** benefit. No shield. |
+| Mage Staff (**Bound**, **Conduit**), book stowed | Met | Met | Clean, plus Reach and Sustain support. Both hands committed. |
+| Book stowed, weapon and shield in hand | Unmet | Unmet | Disadvantage, 2 Dissonant Stress per cast. |
+
 **The Arcane Clash (Combat Spells)**
 
 When an Arcanist casts an offensive spell that deals Impact, calculate it the same way a weapon does:
@@ -27,6 +47,17 @@ When an Arcanist casts an offensive spell that deals Impact, calculate it the sa
 >
 > Each spell's entry lists a flat **Spell Power** rating, exactly like a weapon's Power. The Margin Scaler doesn't define the Impact number directly — it defines the *special effect* that comes with each tier (a condition, a debuff, a status). 
 > 
+> **Spell Power by Level.** Spell Power is set by the spell's tier and sits on the same rungs as weapon Power (0 / 2 / 3 / 5), so a spell and a blade are always priced against each other:
+>
+> | Level | Spell Power |
+> |---|---|
+> | Cantrip | 0 |
+> | Novice | 2 |
+> | Adept | 3 |
+> | Master | 5 |
+>
+> **Reduce Spell Power by 1** if the spell applies its Impact to a zone, to multiple targets, or persists across rounds — breadth and duration are paid for out of the same budget as raw force. A spell that deals no Impact at all lists no Spell Power. Deviations from this table are permitted but should be justified in the spell's own entry, not left silent.
+
 **Overcharge:** Once per casting, before resolving the Clash, an Arcanist may Lock 1 Stress to add +2 to that spell's Spell Power for this casting only. 
 
 >**Cost:** A Margin 1–2 result costs the caster 1 Dissonant Stress — this is the Clash-spell equivalent of the Margin of Manifestation's Messy Success, and it's the tier Paradigm Mastery upgrades to Margin 3+ (Clean) for in-Paradigm casters, paying no cost. Margin 3+ (Clean) costs nothing. Losing the Clash outright (the target's roll is higher) costs nothing beyond the lost action — same as whiffing a mundane Strike, you only pay to land a rough hit, not to miss. The Snake Eyes Backfire (natural double-1s: 1 Wound + 1 Dissonant Stress + a battlefield hazard) applies to any Arcana casting roll, Clash or unopposed, exactly as it already does for the Margin of Manifestation.
@@ -72,13 +103,22 @@ To make "Cast Spell" a valid Reactor Action, you need a specific category of spe
     
     
 
-**The Channelling Rule** Certain powerful, ongoing spells (like _Wildfire Proliferation_ or _Litany of Nails_) possess the **Sustain** tag. A caster can only sustain one spell at a time.
+**The Channelling Rule** Certain powerful, ongoing spells and Miracles (like _Wildfire Proliferation_ or _Litany of Nails_) carry an ongoing duration. Arcane spells call this **Sustain**; Faith Miracles call it **Flowing**. A caster can only maintain one such effect at a time, regardless of which system it comes from.
 
+**Neither Sustain nor Flowing costs Locked Stress.** An Arcanist pays for concentration in Dissonant Stress, rolled for turn by turn; a Priest has already paid their Locked Stress at the moment of casting and owes nothing further. Locked Stress is not the currency of holding a spell open in either system.
 
-- **The Arcane Cost (Volatility):** To keep an Arcane spell active, the Arcanist must dedicate their concentration. At the start of their Activation, before they move or act, they must successfully pass a `Arcana vs. the spell's own TN` check. If they succeed, the spell persists. If they fail, the spell drops, and they take 1 Dissonant Stress from the magical backfire. (This makes _Fevered Channelling_ highly valuable).
+- **The Arcane Cost (Volatility) — Sustain:** To keep an Arcane spell active, the Arcanist must dedicate their concentration. They roll `2d6 + Arcana vs. the spell's own TN` at two moments: **at the start of their Activation**, before they move or act, and **immediately upon taking a Wound**. The check resolves on the standard Margin of Manifestation ladder:
+
+	- **Fail (below the spell's TN):** The spell drops, and the Arcanist takes 1 Dissonant Stress from the magical backfire.
+	- **Messy (Margin 0–2):** The spell holds, but the strain shows — the Arcanist takes 1 Dissonant Stress.
+	- **Clean or Exceptional (Margin 3+):** The spell holds at no cost.
+
+	Because this is a Margin of Manifestation roll, **Paradigm Mastery applies**: an in-Paradigm spell treats a Messy sustain as Clean, and the specialist channels almost indefinitely for free. An off-Paradigm or Common spell bleeds the caster a little every round. (This also makes _Fevered Channelling_ highly valuable.)
+
+	Being knocked Prone does **not** force a Sustain check. Arcane channelling is an act of mental concentration — pain interrupts it, posture does not.
     
     
-- **The Faith Cost (Sacrifice):** The divine connection requires absolute physical devotion. If the Priest takes a Wound or is knocked Prone, the sustained Miracle instantly drops.
+- **The Faith Cost (Sacrifice) — Flowing:** The divine connection requires absolute physical devotion. If the Priest takes a Wound or is knocked Prone, the Flowing Miracle instantly drops, no roll permitted. The Priest also rolls the Tithe of Will each Activation to maintain their grip — see **Flowing (Maintaining a Miracle)**, below.
         
 ___________________________________________________________________
 # Faith (The Somatic Sacrifice)
@@ -101,7 +141,7 @@ Faith magic is not a gamble against failure — it is a negotiation with the pri
 
 Stress isn't the only thing a Fail costs a Priest — it also costs them a little more of the entity's attention. Track this on a personal counter from 0 to 3, separate from any Stress track.
 
-- Whenever a Priest Fails a Tithe of Will — on a fresh cast or a Sustain check — they gain 1 point of Encroachment, in addition to paying the normal Locked Stress cost.
+- Whenever a Priest Fails a Tithe of Will — on a fresh cast or a Flowing check — they gain 1 point of Encroachment, in addition to paying the normal Locked Stress cost.
 - Encroachment never modifies a dice roll. It sits on the sheet as a silent tally, exactly the way Locked Stress does — it costs nothing until it runs out of room.
 - The moment Encroachment reaches 3, it immediately clears to 0, and the Priest suffers **1 direct Wound** (bypassing Wound Threshold, per the Direct Wounds rule), as the entity collects on the tab all at once.
 - Encroachment does not clear on its own, and a Breather cannot touch it, per the Breather's existing limitation that it cannot clear Locked Stress — Encroachment is treated the same way. It only clears via the cap-trigger above, a Snake Eyes result (see Toll in Flesh), or a successful Religious Pursuit (see Downtime).
@@ -118,17 +158,19 @@ A Priest can perfectly heal the party and strip the armor off bosses, but every 
 
 ________________________________________________________________________
 
-### Sustaining a Miracle
+### Flowing (Maintaining a Miracle)
 
-The Channelling rule states Faith requires no roll to sustain because the Locked Stress is paid upfront. The act of sustaining a Miracle turn after turn is its own ongoing negotiation.
+A Miracle with an ongoing duration is said to be **Flowing** — the authority is still running through the Priest, and has not yet been set down. Holding it open turn after turn is its own ongoing negotiation.
 
-- **The Faith Cost :** Because the Priest already paid the Locked Stress upfront at the moment of casting, sustaining the Miracle requires no *additional* Stress payment. However, at the start of each of their Activations while sustaining, the Priest must roll **2d6 + Faith vs. the Miracle's own TN** to maintain their grip on the borrowed authority.
+- **The Faith Cost:** Because the Priest already paid the Locked Stress upfront at the moment of casting, keeping a Miracle Flowing requires no *additional* Stress payment of any kind. However, at the start of each of their Activations while it Flows, the Priest must roll **2d6 + Faith vs. the Miracle's own TN** to maintain their grip on the borrowed authority.
 
-- **Pass:** The Miracle persists. No further cost.
-- **Fail:** The Miracle persists anyway (Faith does not simply drop the way a failed Arcane Sustain check does) — but the Priest gains 1 point of Encroachment, exactly as with a fresh cast. The longer a Priest white-knuckles a Sustain through failed rolls, the closer they creep toward paying for it in flesh.
-- **Snake Eyes:** The Miracle persists, but the Priest takes 1 direct Wound as their body pays a toll for staying tethered to something that doesn't want to let go, and their Encroachment resets to 0 as that toll is paid in full.
+- **Pass:** The Miracle keeps Flowing. No further cost.
+- **Fail:** The Miracle keeps Flowing anyway (Faith does not simply drop the way a failed Arcane Sustain check does) — but the Priest gains 1 point of Encroachment, exactly as with a fresh cast. The longer a Priest white-knuckles a Flowing Miracle through failed rolls, the closer they creep toward paying for it in flesh.
+- **Snake Eyes:** The Miracle keeps Flowing, but the Priest takes 1 direct Wound as their body pays a toll for staying tethered to something that doesn't want to let go, and their Encroachment resets to 0 as that toll is paid in full.
 
-- **The Physical Anchor:** Regardless of the roll, if the Priest takes a Wound or is knocked Prone, the sustained Miracle still instantly drops. Divine connection still requires absolute physical devotion — the dice govern the cost of staying tethered, not whether the tether can be physically severed.
+- **The Physical Anchor:** Regardless of the roll, if the Priest takes a Wound or is knocked Prone, the Flowing Miracle still instantly drops. Divine connection still requires absolute physical devotion — the dice govern the cost of staying tethered, not whether the tether can be physically severed.
+
+> **Sustain and Flowing, side by side.** Both cost no Locked Stress and both are limited to one at a time. An Arcanist rolls to find out *whether they keep the spell*; a Priest rolls to find out *what holding on costs them*. A failed Arcane Sustain ends the spell. A failed Flowing check never does — but it writes another line on the tab. Conversely, a Wound only *tests* an Arcanist's concentration, while a Wound or a fall severs a Priest's connection outright, no roll offered.
     
    
 
@@ -213,4 +255,3 @@ The Priest traces a sacred rune in the air over a doorway, archway, or narrow pa
     
 - The Attrition Loop: The ward holds for the duration of the encounter, or until a Dread/Boss entity spends 1 Threat point to violently shatter the barrier. If a Boss shatters the ward, the feedback instantly inflicts 1 Dissonant Stress on the Priest.
     
-
