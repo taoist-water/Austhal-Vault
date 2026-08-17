@@ -9,7 +9,7 @@ The air around the target thickens into a dull, shimmering haze, dampening the r
 - **Resolution:** Unopposed Arcana vs. TN 8
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation (to raise) / Reactor (to use)
-- **Duration:** Sustain — Lock 1 Stress to maintain
+- **Duration:** Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound)
 
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The ward holds, but the caster takes 1 Dissonant Stress from the backlash.
@@ -102,7 +102,7 @@ Energy lashes out from the caster's skin, punishing any who approach or strike t
 - **Resolution:** Unopposed Arcana vs. TN 10
 - **Target/Range:** Self, 5ft radius
 - **Action Type:** Activation
-- **Duration:** Sustain — Lock 1 Stress to maintain
+- **Duration:** Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound)
 
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The field holds; any character ending their turn adjacent to the caster, or hitting them in melee, suffers 1 Impact. The caster also takes 1 Dissonant Stress from the initial surge.
@@ -439,7 +439,7 @@ Invisible currents of air or shifting shadows cause incoming attacks to veer off
 - **Resolution:** Unopposed Arcana vs. TN 8 to raise
 - **Target/Range:** Self or one ally, Short Range
 - **Action Type:** Activation / Reactor
-- **Duration:** Sustain — Lock 1 Stress to maintain
+- **Duration:** Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound)
 
 **The Margin Scaler:**
 - Margin 0–2 (Messy): Attacks targeting the protected character suffer a -2 penalty to their Clash; caster takes 1 Dissonant Stress raising it.
@@ -653,7 +653,7 @@ The caster reaches into a body's fundamental rhythm, quickening it or grinding i
 - **Resolution:** Arcane Clash, Arcana vs. Target's Resolve (if unwilling) — unopposed vs. TN 8 if willing
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor (unwilling) or Activation (willing)
-- **Duration:** Sustain — Lock 1 Stress to maintain
+- **Duration:** Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound)
 
 **The Margin Scaler:**
 - Margin 1–2 / 0–2 (Messy): Target gains a +1 (Boost) or -1 (Lower) modifier to one chosen Attribute. The caster also takes 1 Dissonant Stress from the strain.
@@ -1151,10 +1151,10 @@ A short, pragmatic prayer settles over an ally, steadying their hand.
 The Priest plants their symbol and speaks a ward; for a moment, harm forgets the way in.
 
 - **Level:** Adept
-- **Cost:** 2 Locked Stress, paid once at cast — sustaining costs no additional Locked Stress
+- **Cost:** 2 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation / Reactor
-- **Duration:** Sustain — the Priest rolls Tithe of Will vs. TN 10 at the start of each of their Activations to maintain it (per the Faith Cost sustain rule in Embracing the Abyss). The ward instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
+- **Duration:** Flowing — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 10 at the start of each of their Activations to maintain it (per the Flowing rule in Embracing the Abyss). The ward instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
 
 **The Tithe Ladder:**
 - Pass: The warded character gains SV 3 against the next hostile Strike or spell that targets them.
@@ -1664,14 +1664,12 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 - **Cost:** 3 Locked Stress
 - **Target/Range:** 20ft radius, centered on self
 - **Action Type:** Activation
-- **Duration:** Sustain — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 12 at the start of each of their Activations to maintain it (per the Faith Cost sustain rule in Embracing the Abyss). The zone instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
+- **Duration:** Flowing — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 12 at the start of each of their Activations to maintain it (per the Flowing rule in Embracing the Abyss). The zone instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
 
 **The Tithe Ladder:**
 - Pass: Every enemy that starts its turn in the zone must pass a Resolve check (TN 12) or gain Fear, fixed on the Priest. Allies inside the zone gain Peaceful Repose's Panic Reflex immunity for as long as they remain there.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The zone still forms.
-
-*(Dev note: this Miracle's Duration is built on the Faith Cost sustain rule in Embracing the Abyss — a Priest rolls Tithe of Will every Activation to maintain a sustained Miracle. Sanctuary previously contradicted this with a "Faith doesn't roll to sustain" note of its own; that's been reconciled — Sanctuary now uses the same Sustain treatment. This dev note can be pulled once you've spot-checked the fix.)*
 
 ## 5. The Domain of Winter & Wilds (The Cult of the Rime-Fang)
 - **The Paragon:** *Kaelen the Survivor*
@@ -2017,13 +2015,12 @@ The storm doesn't rage because Thalass is angry. It rages because the ocean has 
 - **Cost:** 3 Locked Stress
 - **Target/Range:** 25ft radius, centered on self
 - **Action Type:** Activation
-- **Duration:** Sustain — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 12 at the start of each of their Activations to maintain it (per the Faith Cost sustain rule in Embracing the Abyss). The zone instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
+- **Duration:** Flowing — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 12 at the start of each of their Activations to maintain it (per the Flowing rule in Embracing the Abyss). The zone instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
 
 **The Tithe Ladder:**
 - Pass: The zone becomes Heavily Obscured and Mire for enemies only (per the Environmental rules); every enemy that ends its turn inside suffers 1 Dissonant Stress. Allies are unaffected.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The zone still forms.
-
 
 
 
