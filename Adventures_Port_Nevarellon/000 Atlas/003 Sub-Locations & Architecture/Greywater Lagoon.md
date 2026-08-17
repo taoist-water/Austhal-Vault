@@ -5,7 +5,7 @@
 
 ## 📊 Quick Reference
 - **Type of Establishment:** Hidden Deep-Water Anchorage & Pirate Haven
-- **District / Region:** [[draft_Silted Marshes|The Silted Marshes]] (Directly adjacent to [[Divtown|Divtown]])
+- **District / Region:** [[Silted Marshes|The Silted Marshes]] (Directly adjacent to [[Divtown|Divtown]])
 - **Owner / Proprietor:** Officially unclaimed; practically governed by a tense truce between the local pirate captains and [[Lord Kelf Thorne|Lord Kelf Thorne]].
 - **Affiliation / Protection:** The Grey Water Pirates (An informal coalition of independent smugglers and privateers).
 
@@ -27,7 +27,7 @@
 ## ⚔️ Security & Defense
 - **The Navigational Shield:** The lagoon's primary defense is the impossibility of finding it. A warship attempting to navigate the mud-choked channels without a guide like [[Morgran the Abomination|Morgran]] will rip its hull open on submerged roots miles before reaching the basin.
 - **The Iron Boom:** A massive, rusted iron chain lies submerged across the only navigable entry channel. It is attached to two massive manual winches hidden in the trees. If a Golden Company cutter is spotted, the chain is cranked taut, instantly shearing the bow off the intruding ship.
-- **Canopy Snipers:** The upper branches of the Iron-Burl trees are fitted with camouflaged sniper nests. Hardened Chalced slave-escapees armed with heavy crossbows keep overwatch on the decks below to ensure the pirate crews don't start slaughtering each other.
+- **Canopy Snipers:** The upper branches of the Iron-Burl trees are fitted with camouflaged sniper nests. Hardened Twelgorn slave-escapees armed with heavy crossbows keep overwatch on the decks below to ensure the pirate crews don't start slaughtering each other.
 
 ## 👥 Notable NPCs Present
 - [[200 Cast/Captain Vesper Locke|Captain Vesper "Red-Wake" Locke]] — *Captain of the 'Carrion Crow'. The unofficial speaker for the pirate crews, currently negotiating repair costs.*
