@@ -441,13 +441,17 @@ ________________________________________________________________________
 |---|---|---|---|---|---|
 |Padded / Gambeson|+0 Armor|Light|Cushioned|5 sp|Common|
 |Leather|+1 Armour|Light|—|12 sp|Common|
-|Chain Shirt|+2 Armor|Light|—|70 sp|Scarce|
+|Chain Shirt|+2 Armor|Light|—|50 sp|Scarce|
 |Chainmail / Scale|+2 Armor|Medium|Bulky|45 sp|Scarce|
 |Breastplate|+3 Armor|Medium|Bulky|120 sp|Rare|
 |Plate Armor|+4 Armor|Heavy|Restricted|200 sp (10 gs)|Rare|
 |Buckler|2 SV|Shield|Nimble|8 sp|Common|
 |Kite / Round Shield|4 SV|Shield|Cover|18 sp|Common|
 |Tower Shield|5 SV|Shield|Bulwark, Obstructive|40 sp|Scarce|
+
+> **Availability at character creation.** A starting character outfits from a Town — Scarce tier or lower (see *The Starting Purse*, The Marrow, and Settlement Tiers, Soothing the Soul). Breastplate and Plate Armor are Rare, sourced from a City or better, and are not available at Green at any price. They are acquired in play.
+
+> *Dev note — tier/price consistency sweep, pending.* The Acquisition table in Soothing the Soul sets Scarce at a 15–50 sp band and Rare at 50–200+. Two entries in this document sit outside their declared band and should be reconciled in a single pass rather than piecemeal: the **Wand** (35 sp, marked Rare) and the **Hand Crossbow** (40 sp, marked Rare) are both priced inside the Scarce band while gated to Cities. Several cheap oddities are marked Scarce below the 15 sp floor — Sai, Shuriken, Whip, Nunchaku, Bolas — which is defensible as "the world rarely stocks it, but it's cheap when you find it," and may be intentional. The Wand and Hand Crossbow are the two that read as errors.
 
 ## Armour and Shield Tags
 
