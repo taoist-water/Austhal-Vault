@@ -16,6 +16,6 @@
 - **Neighboring Locations:** Directly borders the [[000 Atlas/Grey Water Lagoon|Grey Water Lagoon]], a deep-water blind spot hidden from the Golden Company where pirate galleons drop anchor.
 
 ## ⚖️ Society & The Syndicate Economy
-- **The Demographics:** The town is populated almost entirely by people too impoverished to survive Port Nevarellon's rigid, debt-based class system, alongside a large population of hardened, escaped slaves who fled north from the southern [[100 Society/The Chalced Kingdom|Chalced Kingdom]]. 
+- **The Demographics:** The town is populated almost entirely by people too impoverished to survive Port Nevarellon's rigid, debt-based class system, alongside a large population of hardened, escaped slaves who fled north from the southern [[000 Atlas/The Twelgorn Kingdom|Twelgorn Kingdom]]. 
 - **The Syndicate Economy:** The town operates as a massive fencing operation. Pirates from the Grey Water Lagoon unload stolen goods here. Because Kelf Thorne still technically holds a noble seal, he signs off on the stolen goods as "legitimate marsh salvage" and sells it to the inner sea markets at a premium. 
 - **The Timber Trade:** The legitimate front of Divtown is the harvesting of a rare, dense marsh timber that is completely immune to sea-rot and barnacles. Shipwrights across the Whispering Coast are forced to tolerate Divtown's criminality because they desperately need this wood.
