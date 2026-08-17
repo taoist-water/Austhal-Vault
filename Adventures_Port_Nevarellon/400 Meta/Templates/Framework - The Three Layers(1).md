@@ -113,7 +113,7 @@ Confirmed inhabitants:
 
 - **[[Lord Kelf Thorne|Lord Kelf Thorne]]**, self-styled Baron of the Silted Marshes — a Layer 2 title in a place Layer 1 does not reach at all. Chokepoint: a noble seal that launders pirate cargo as marsh salvage, plus rot-proof Iron-Burl timber that every shipwright on the coast needs.
 - **[[Telorna Belaar|Telorna Belaar]]** — actual control of the marsh through the logging crews, with no title whatsoever. The clean demonstration of why this framework sorts by holding, not by rank.
-- **The Chalced "Retrievers"** — armed slave-hunters projecting a foreign power's authority into the southern marsh fringes.
+- **The Twelgorn "Retrievers"** — armed slave-hunters projecting a foreign power's authority into the southern marsh fringes.
 
 Known vacancies, in priority order:
 
