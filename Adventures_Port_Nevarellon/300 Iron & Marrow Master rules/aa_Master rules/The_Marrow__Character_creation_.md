@@ -247,7 +247,7 @@ ______________________________________________________________________
     
 - **Prerequisite:** Arcana 1, Wits 1.
 
-- **Mechanic:** You have forced your mind to perceive the volatile geometries of the world. **Choose one Paradigm.** You gain a Grimoire containing 3 Novice Arcana spells, drawn from the Common list and/or your chosen Paradigm's list. As long as you have a free hand and your Grimoire equipped, you may manifest these spells using the Arcane Margin mechanics. Spells from your chosen Paradigm benefit from **Paradigm Mastery**: a Messy Success (Margin 0–2) resolves as a Clean Success instead. Common spells and spells outside your Paradigm never benefit from Mastery. _(Additional spells — in- or off-Paradigm — are learned later through Advancement; off-Paradigm spells cost double DP and never gain Mastery, but they're never feat-gated or forbidden.)_
+- **Mechanic:** You have forced your mind to perceive the volatile geometries of the world. **Choose one Paradigm.** You gain a Grimoire containing 3 Novice Arcana spells, drawn from the Common list and/or your chosen Paradigm's list. You may manifest these spells using the Arcane Margin mechanics whenever you meet The Casting Requirements — Grimoire wielded in one hand, other hand free (see Embracing the Abyss). Casting without them is Blind Casting. Spells from your chosen Paradigm benefit from **Paradigm Mastery**: a Messy Success (Margin 0–2) resolves as a Clean Success instead. Common spells and spells outside your Paradigm never benefit from Mastery. _(Additional spells — in- or off-Paradigm — are learned later through Advancement; off-Paradigm spells cost double DP and never gain Mastery, but they're never feat-gated or forbidden.)_
         
 **Divine Conduit (Tier 1 Feat)**
     
@@ -366,7 +366,7 @@ ______________________________________________________________________
     
 - The mind must be a fortress against the meat-grinder.
     
-- Mechanic: You increase your maximum Stress Limit by +2. Additionally, when you take the Grounding action or spend a Momentum on The Rally, you clear 1 extra point of Locked or Dissonant Stress.
+- Mechanic: You increase your maximum Stress Limit by +2. Additionally, when you take the Reprieve action, or spend Momentum on Adrenaline Flush, you clear 1 extra point of the relevant Stress type.
 
 **Tactical Mind**
 
@@ -416,7 +416,7 @@ ______________________________________________________________________
     
 - You are used to the chaos of the battlefield.
     
-- Mechanic: When you are forced to perform Blind Casting (casting without your Grimoire), you still cast with Disadvantage. However, you may reroll any natural 1s that appear in your dice pool. You must keep the second result.
+- Mechanic: When you are forced into Blind Casting (casting with your Grimoire stowed, your hands full, or both — see The Casting Requirements, Embracing the Abyss), you still cast with Disadvantage and still pay the Dissonant Stress. However, you may reroll any natural 1s that appear in your dice pool. You must keep the second result.
 
 **Fevered Channelling**
 
@@ -424,7 +424,7 @@ ______________________________________________________________________
     
 - The magic wants out. Let it burn through you.
     
-- Mechanic: If you roll a Desperate Edge on a spell manifestation, you generate 1 Momentum. Furthermore, if you roll a Fumble while sustaining a spell, you take the 1 Dissonant Stress but the spell does not instantly drop.
+- Mechanic: If you roll a Desperate Edge on a spell manifestation, you generate 1 Momentum. Furthermore, if you Fail a Sustain check, you take the 1 Dissonant Stress but the spell does not drop — you keep hold of it for one more Activation. This does not apply on Snake Eyes.
 
 **Giant Feller**
 
@@ -577,7 +577,7 @@ ______________________________________________________________________
     
 - The holy spirit renders your flesh numb.
     
-- Mechanic: When the holy spirit fills you, you feel no pain. While you are successfully Sustaining a Level 1 Faith spell, you may spend 1 Momentum. For as long as that spell remains active, you completely ignore the negative dice penalties caused by your current Dissonant Stress when making Melee attacks.
+- Mechanic: When the holy spirit fills you, you feel no pain. While you are successfully keeping a Novice Miracle Flowing, you may spend 1 Momentum. For as long as that spell remains active, you completely ignore the negative dice penalties caused by your current Dissonant Stress when making Melee attacks.
 
 ## Tier 3 The Void
 
@@ -643,7 +643,7 @@ ______________________________________________________________________
     
 - You have burned the formula into your very marrow.
     
-- Mechanic: Choose one Novice or Adept Arcana spell from your Grimoire. You can cast this spell purely from memory—ignoring the Blind Casting Disadvantage and the automatic 1 Dissonant Stress penalty. Furthermore, its Stress cost is permanently reduced by 1 (to a minimum of 0).
+- Mechanic: Choose one Novice or Adept Arcana spell from your Grimoire. You can cast this spell purely from memory — it needs no Grimoire and no free hand, ignoring the Blind Casting Disadvantage and its Dissonant Stress penalty entirely. You can still cast it when the book itself is lost, stolen, or destroyed. Furthermore, this spell never resolves as Messy: treat a Margin 0–2 result as Clean, even if it is a Common or off-Paradigm spell.
 
 **Macabre Genius**
 
@@ -743,7 +743,7 @@ ______________________________________________________________________
     
 >Destruction is just energy seeking its natural resting state.
     
-- Mechanic: Whenever you successfully vent the magical heat in your mind via the Grounding action, you may instantly channel that raw, expelled energy into a Cantrip as a Free Action. This allows you to aggressively cycle your Stress into continuous offensive output.
+- Mechanic: **[SUSPENDED — DO NOT SELECT.]** This feat was built on the Grounding action, which has been retired, and on a Cantrip list that currently contains a single non-combat spell. It is non-functional as written and is held pending the Cantrip pass. Do not offer it at character creation or Advancement until it is rewritten.
 
 **The Berserker (Barbarian Archetype)**
 
@@ -920,7 +920,7 @@ Focused on weaponized suffering, cynical devotion, and using the self as a condu
     
 - Your scripture is a weapon of blunt force.
     
-- Mechanic: When you successfully maintain a sustaining spell by passing your Will + Faith check at the start of your turn, you may instantly inflict 1 Dissonant Stress on any one engaged enemy who can hear you speak the profane words.
+- Mechanic: When you keep a Miracle Flowing by passing your Tithe of Will (2d6 + Faith) at the start of your turn, you may instantly inflict 1 Dissonant Stress on any one engaged enemy who can hear you speak the profane words.
     
  **Martyr’s Furnace (Tier 3)**    
 
@@ -1039,4 +1039,3 @@ Two characters can both be "advanced" and be nowhere near equivalent — one mig
 *\*"Skill points" is the sum of every Skill rank on the sheet. Attributes are excluded on purpose. They no longer contribute to a roll, and at 5 DP each against a Skill rank's 1–3 they are not the same currency — summing the two would add unlike things and flatter a character who bought breadth of ceiling over actual competence. This is the same number the Bestiary's enemy budgets are measured in (see "Enemy Budget by Party Standing" in Beasts, Monsters, Mutants), so a GM can compare the two sides directly.*
 
 *Green's 8 is a hard number: the creation budget is 8 Skill DP and ranks 1–4 cost 1 DP each, so a character who buys no rank past +4 lands on exactly 8 ranks. The only way to land lower is to buy the expensive top of the ladder — a specialist reaching +5 spends 6 DP for 5 ranks and ends on 7. Three independently-built creation characters (Perpetua, Morwenna, Faelan) all sit on exactly 8.*
-
