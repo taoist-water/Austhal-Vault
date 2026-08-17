@@ -24,11 +24,11 @@
 - **The Tactical Mind:** Haren is completely devoid of romantic pirate notions; she is a cold, calculating strategist. She treats her crews with fairness but enforces absolute, lethal discipline. She refuses to engage in unnecessary cruelty or slaughter, viewing mindless violence as a tactical waste of manpower and ammunition that invites unwanted escalation from the coastal powers.
 
 ## 📜 Backstory & Current Role
-Haren began her career as a conscripted navigator within the rigid naval forces of the [[100 Society/The Chalced Kingdom|Chalced Kingdom]]. After orchestrating a bloody mutiny against a tyrannical aristocratic captain, she sailed her stolen vessel north into the unmapped networks of the Silted Marshes. Over the last fifteen years, she systematically united the fractured, independent raiders of the lagoon into a single, cohesive military threat. 
+Haren began her career as a conscripted navigator within the rigid naval forces of the [[000 Atlas/The Twelgorn Kingdom|Twelgorn Kingdom]]. After orchestrating a bloody mutiny against a tyrannical aristocratic captain, she sailed her stolen vessel north into the unmapped networks of the Silted Marshes. Over the last fifteen years, she systematically united the fractured, independent raiders of the lagoon into a single, cohesive military threat. 
 
 Her presence in the Grey Water Lagoon keeps the southern borders of the Whispering Coast in a state of permanent tension. While the Council of Five officially classifies her as a menace to commerce, individual merchant houses quietly pay her protection fees to ensure their ships are granted safe passage through the outer channels of the sea lanes.
 
 ## 🔗 Connected Notes
 - **Fencing Partner:** [[200 Cast/Lord Kelf Thorne|Lord Kelf Thorne]] (She tolerates his noble vanity because his legal seals are flawless).
 - **Logistical Liaison:** [[200 Cast/Telorna Belaar|Telorna Belaar]] (Haren coordinates directly with Telorna to secure timber for hull repairs).
-- **The Southern Enemy:** [[100 Society/The Chalced Kingdom|The Chalced Kingdom Navy]] (Her primary target and bitterest rivals).
+- **The Southern Enemy:** [[000 Atlas/The Twelgorn Kingdom|The Twelgorn Kingdom Navy]] (Her primary target and bitterest rivals).

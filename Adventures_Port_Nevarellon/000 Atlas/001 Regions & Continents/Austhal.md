@@ -3,7 +3,7 @@
 
 ## 🗺️ Geography & Scope
 -**The Main Known Continent**
- - **regions within:** [[400 Meta/drafts/draft2_The Five Duchies of the Whispering Coast]] ,[[Whispering Coast]], [[draft_Silted Marshes]], [[000 Atlas/Chalced| The Kingdom of Chalced]], [[Wastelands| The Wastelands]], [[The Inner Sea| Inner sea]],
+ - **regions within:** [[The Five Duchies of the Whispering Coast]] ,[[Whispering Coast]], [[Silted Marshes]], [[000 Atlas/The Twelgorn Kingdom| The Kingdom of Twelgorn]], [[Wastelands| The Wastelands]], [[The Inner Sea| Inner sea]],
 - **Bordering Areas:** [[Link Region/City A]], [[Link Region B]]
 - **Terrain Type:** (e.g., Jagged cliffs, salt marshes, dense pine valleys)
 - **Climate & Weather Patterns:** (e.g., Heavy seasonal monsoons, constant maritime fog)
