@@ -59,7 +59,7 @@ _____________________________________________________________________
 Passive Notice
 Not every threat announces itself with a die roll. When a character isn't actively searching — walking down a corridor, mid-conversation, sprinting through a firefight — the world still needs a number to test their awareness against, without pausing the game for a check nobody declared.
 
-The Formula: Passive Notice = 7 + Wits + Notice, modified by any applicable Situational Modifier (+2/-2/-4, per Tools for the Nameless).
+The Formula: Passive Notice = 7 + Notice, modified by any applicable Situational Modifier (+2/-2/-4, per Tools for the Nameless).
 
 The baseline of 7 (rather than a flat TN8) anchors Passive Notice to the statistical average of 2d6, keeping it consistent with the actual odds of an active roll. An unmodified character's Passive Notice sits just below TN8 — matching the fact that they'd fail an active TN8 check more often than not. Passive Notice should never make an untrained bystander more perceptive than a trained character actively rolling to look.
 

@@ -167,7 +167,7 @@ Mass dictates how easily a creature absorbs trauma. We adjust the Wound Threshol
     
 - Scale +2 (Huge): +4 to Wound Threshold, and they gain 1 additional Wound Slot (meaning it takes 5 Wounds to incapacitate them instead of 4).
     
-- Scale +3 (Gargantuan): +6 to Wound Threshold, and they gain 2 additional Wound Slots. Furthermore, weapons without the Heavy or Siege tag cannot inflict Wounds on them at all, only Stress.
+- Scale +3 (Gargantuan): +6 to Wound Threshold, and they gain 2 additional Wound Slots. Furthermore, weapons without the Devastating or Siege tag cannot inflict Wounds on them at all, only Stress.
     
 
 #### Momentum and Impact
