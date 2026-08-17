@@ -89,8 +89,6 @@ During a Characters activation it may move up to its base movement value [MV] an
     
 - Charge: ** only if within move distance. Gain +2  to the The Clash roll and breaks ties(the equivalent of winning by 1).  suffer a -2 to reactor actions until next activation.
     
-- Grounding: An Arcanist can attempt to vent the magical heat in their mind. Roll Wits + Arcana (TN 8). Success: Unlock [Wits] amount of Stress (Min 1). Massive Success (5+): Clear all Locked Stress. Fumble: The energy 'leaks'—all Locked Stress becomes Dissonant. 
-    
 - Skill based Actions: based on skill
     
 - The Regroup Action:
@@ -102,9 +100,9 @@ During a Characters activation it may move up to its base movement value [MV] an
     
 	- **Clear a Severe Condition:** Spending the precious seconds required to pat out the flames of the **Ablaze** condition, untangle themselves from a dropped net, or blindly wash acid from their visor.
 
-- **The Reprieve (Faith Caster Action):** An Arcanist vents magical heat; a Priest lays a burden down for a moment, mid-battle, and asks whatever's listening to ease up.
+- **The Reprieve (Faith Caster Action):** A Priest lays a burden down for a moment, mid-battle, and asks whatever's listening to ease up. This is the only in-combat route to clearing Locked Stress, and it consumes the Priest's Activation. It cannot touch Locked Stress paid for a Miracle that is currently **Flowing**, or committed to an Attuned item (per the Golden Rules, Iron Core).
 
-	Roll **Faith vs. TN 8**.
+	Roll **2d6 + Faith vs. TN 8**.
 
 	- **Success:** Unlock [Will] Locked Stress (minimum 1).
 	- **Massive Success (5+):** Clear all Locked Stress.
