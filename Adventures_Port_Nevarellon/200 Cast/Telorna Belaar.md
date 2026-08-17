@@ -11,12 +11,12 @@
 
 ## ⚖️ Realism & Physicality
 - **Age & Vitality:** 34 years old. Lean, heavily muscled, and completely acclimatized to the brutal heat and humidity of the marshes.
-- **Physical Flaws / Limitations:** Her back and shoulders are covered in the faded, brutal brand-scars of the [[100 Society/The Chalced Kingdom|Chalced Kingdom]]. She is missing the ring finger on her left hand from a logging accident.
+- **Physical Flaws / Limitations:** Her back and shoulders are covered in the faded, brutal brand-scars of the [[000 Atlas/The Twelgorn Kingdom|Twelgorn Kingdom]]. She is missing the ring finger on her left hand from a logging accident.
 - **Equipment & Upkeep:** Wears practical, tight-woven reeds and heavy canvas. She carries a long, brutal timber-hook—a heavy polearm used for both rolling logs in the mud and pulling mutinous pirates off their feet.
 
 ## 🧠 Psychology & Drive
 - **Immediate Goal:** Ensure the current shipment of rot-resistant timber reaches the inner sea safely to secure enough winter rations for the town's refugees.
-- **The Core Fear:** The Chalced Kingdom sending "Retrievers" (bounty hunters) north into the marshes to reclaim their lost property. 
+- **The Core Fear:** The Twelgorn Kingdom sending "Retrievers" (bounty hunters) north into the marshes to reclaim their lost property. 
 - **Moral Compromises:** She despises Lord Kelf's aristocratic pretensions, but she actively keeps him in power. She knows that without his "legitimate" noble seal, Port Nevarellon would classify Divtown as a hostile rogue state and wipe them out.
 
 ## 📜 Backstory & Current Role
