@@ -19,7 +19,7 @@
 ## 🧠 Psychology & Drive
 - **Immediate Goal:** Keep the Golden Company and the [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]] from realizing exactly how much untaxed wealth he is pulling out of the Grey Water Lagoon.
 - **The Core Fear:** Being dragged back to [[The High Quarter|The High Quarter]] to face trial for his past debts and crimes, which would strip him of his remaining illusion of nobility.
-- **Moral Compromises:** Kelf presents himself as a savior to the escaped Chalced slaves and outcasts, but in reality, he is running a feudal crime syndicate. He exploits their labor in the dangerous timber swamps, knowing they have nowhere else to go.
+- **Moral Compromises:** Kelf presents himself as a savior to the escaped Twelgorn slaves and outcasts, but in reality, he is running a feudal crime syndicate. He exploits their labor in the dangerous timber swamps, knowing they have nowhere else to go.
 
 ## 🔗 Connected Notes
 - **Right Hand / Enforcer:** [[200 Cast/Telorna Belaar|Telorna Belaar]] 
