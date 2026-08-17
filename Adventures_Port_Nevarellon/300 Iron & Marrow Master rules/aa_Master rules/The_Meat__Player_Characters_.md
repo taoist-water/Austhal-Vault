@@ -26,8 +26,10 @@
     
 - Equipment:
     
-    - Twin Daggers (1H/1H, Sidearm, Concealable, Close-Quarters, Precise, Thrown) — qualifies for Twin-Blade Stance (Off-Hand Parry, Twin Strike). Main-hand fitted with Cold Iron Weapon (Charmed, no Attunement): Bane (Fey, Daemon).
-    - Leather Armor (+1 Armor, Light), fitted with Whisper-Kissed Leathers (Enchanted, 1 Locked Stress Attunement) — see below.
+    - Twin Daggers (1H/1H, Sidearm, Concealable, Close-Quarters, Precise, Thrown) — qualifies for Twin-Blade Stance (Off-Hand Parry, Twin Strike).
+    - Leather Armor (+1 Armor, Light).
+    - **Starting Purse: 80 sp** — Twin Daggers 10 + Leather 12 = **22 sp spent, 58 sp remaining** at creation. Lockpicks, a grapple and line, chalk, and a working float she has been careful not to spend down.
+    - **Acquired in play (Milestone 1):** main-hand dagger fitted with **Cold Iron Weapon** (Charmed, 25 sp, no Attunement): Bane (Fey, Daemon). Leather fitted with **Whisper-Kissed Leathers** (Enchanted, 1 Locked Stress Attunement) — see below. *Neither could have been bought at creation: enchanted gear of any tier is barred at Green (see The Starting Purse, The Marrow). Both came off the job that earned her first Milestone, which is the only way onto the sheet and a better story besides.*
 - Spell list: N/A (non-caster). Wound Slots: [ ][ ][ ] (3) Stress Track (Limit 4): [/][ ][ ][ ] — 1 box permanently Locked to Attunement. Momentum (max 7): [ ] Inventory Slots = 8 (8 + Brawn 0)
 
 - Combat Math Quick-Ref: Dagger Strike 2d6+1 | Dodge 2d6+2 | Stealth 2d6+3 | Thievery 2d6+2 | Activation Order 12
@@ -65,8 +67,8 @@ ___________________________________________________________________
 ### Equipment
 - **Armor:** Chainmail/Scale (+2 Armor, Medium, **Bulky** — -1 Athletics/Stealth/Arcana; doesn't touch Faith, so this costs her nothing she was using)
 - **Weapons/Shield (two 1H items):** Mace (Power 2, Bash) + Kite/Round Shield (4 SV, **Cover** — Advantage on defense vs. ranged)
-- **Holy Symbol** (granted by Divine Conduit)
-- **Starting Money: 25 sp** — 2 sp on a bedroll, 3 sp on a hooded lamp (Dwarven habit — always carry your own light underground), 20 sp in reserve.
+- **Holy Symbol** (granted by Divine Conduit — outside the purse)
+- **Starting Purse: 80 sp** — Chainmail/Scale 45 + Mace 8 + Kite Shield 18 = **71 sp spent, 9 sp remaining.** 2 sp on a bedroll, 3 sp on a hooded lamp (Dwarven habit — always carry your own light underground), 4 sp in her pocket. She took the Bulky armour over the Chain Shirt deliberately: 5 sp cheaper, and the -1 it costs lands on Athletics, Stealth, and Arcana, none of which she uses. Her Faith is untouched.
 
 ### Miracles (Tithe of Will = 2d6 + Faith = **2d6+3**, vs. TN 8 Novice)
 - **The Architect's Decree** — 1 Locked Stress, Free Reaction (an enemy tries to Move or leave your Threat Zone). Pass: target instantly Anchored, speed drops to 0 for the round — bypasses saves entirely. Fail: as Pass + 1 Encroachment.
@@ -110,8 +112,8 @@ Tithe of Will 2d6+3 | Strike (Mace) 2d6+1, Impact = Margin+2 | Block 2d6+1 (mode
 
 ### Equipment
 - **Armor:** Leather (+1 Armor, Light — no Arcana penalty)
-- **Weapons (two 1H items):** Grimoire (Repository) + Dagger (Finesse — reroll a natural 1 in a Clash; with Melee 0 he is rerolling into a +0 either way, but it is free)
-- **Starting Money: 25 sp** — 5 sp on a signet ring (a different name and seal in every city, which is rather the point), 2 sp on ink/paper/sealing wax, 18 sp in reserve.
+- **Weapons (two 1H items):** Grimoire (Repository — granted by Arcane Awakening, outside the purse) + Dagger (Finesse — reroll a natural 1 in a Clash; with Melee 0 he is rerolling into a +0 either way, but it is free)
+- **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining.** 5 sp on a signet ring (a different name and seal in every city, which is rather the point), 2 sp on ink/paper/sealing wax, 56 sp banked. The lightest kit on the roster buys the deepest pockets — which for a confidence man is not a consolation prize.
 
 ### Grimoire (Arcana = **2d6+3**)
 - **Deflection** *(Paradigm, Mastery-eligible)* — Unopposed vs. TN 8 to raise, Sustain (no Locked Stress; re-roll vs. TN 8 each Activation and on taking a Wound), Activation/Reactor. Margin 0–2: -2 penalty to enemy Clash rolls targeting the warded character; caster takes 1 Dissonant Stress. Margin 3–4: as above, no cost. Margin 5+: penalty becomes full Disadvantage.
@@ -152,7 +154,7 @@ Arcane Clash/Manifestation 2d6+3 | Dagger Strike 2d6+0 *(Melee 0; Finesse lets h
 ### Equipment
 - **Armor:** Leather (+1 Armor, Light — keeps Stealth/Acrobatics clean)
 - **Weapon (one 2H item):** Shortbow (Power 2, **Volley** — requires both hands, no Shield or Grimoire while wielding it)
-- **Starting Money: 25 sp** — 4 sp on a bag of Caltrops (scatter them behind her while kiting), 2 sp on hemp rope, 19 sp in reserve.
+- **Starting Purse: 80 sp** — Leather 12 + Shortbow 15 = **27 sp spent, 53 sp remaining.** 4 sp on a bag of Caltrops (scatter them behind her while kiting), 2 sp on hemp rope, arrows and a spare bowstring, 45 sp in reserve. Light armour and a cheap weapon is the archer's bargain: she is buying range instead of Wound Threshold, and the purse lets her buy a great deal of everything else with the difference.
 
 ### Combat Math Quick-Ref
 Ranged Strike 2d6+3, Impact = Margin+2 (Shortbow) | Dodge 2d6+1 | Stealth 2d6+2 | Activation Order 12 (Quick)
@@ -189,8 +191,8 @@ Ranged Strike 2d6+3, Impact = Margin+2 (Shortbow) | Dodge 2d6+1 | Stealth 2d6+2 
 
 ### Equipment
 - **Armor:** Chain Shirt (+2 Armor, Light — chosen over the heavier Chainmail/Scale specifically so nothing taxes his Athletics), fitted with **Armor Spikes** (15 sp, bought during Downtime after Milestone 4) — anyone who loses a Grab/Shove Clash against him takes 1 Impact.
+- **Starting Purse: 80 sp** — Chain Shirt 50 + Battleaxe 12 + Kite Shield 18 = **80 sp spent, 0 sp remaining.** Ox is the roster's demonstration of what the purse is for: he walked out of character creation with the best armour a Town will sell him, a shield, an axe, and not one silver piece left over. Everything else on this sheet — both sets of spikes — was bought later, out of money earned in play.
 - **Weapons/Shield (two 1H items):** Battleaxe (Power 2, **Inertia** — +2 Power on a Margin 5+ win) + Kite Shield (4 SV, **Cover**), the shield fitted with **Shield Spikes** (8 sp, same Downtime trip) — a won Shove with the shield deals +1 Impact.
-- **Starting Money: 25 sp** — 2 sp on a whetstone; the rest folded into the Armor/Shield Spikes purchase alongside session earnings.
 
 ### Combat Math Quick-Ref
 Melee Strike (Battleaxe) 2d6+4, Impact = Margin+2 (+2 more on Margin 5+, Inertia) | Block 2d6+2 (Kite Shield's 4 SV eats Impact before it hits WT 9 on a loss) | Grab/Shove/Brace 2d6+1 (Prowess — this is what Giant Feller actually rides on) | Dodge 2d6+0 (he blocks, he doesn't dance) | Resolve 2d6+3 | Influence (intimidation) 2d6+1, Advantage vs. smaller/weaker | Activation Order 6
@@ -245,8 +247,8 @@ Every prerequisite above is checked against what he actually had *at the moment 
 
 ### Equipment
 - **Armor:** Leather (+1 Armor, Light — no Arcana penalty)
-- **Weapons (two 1H items):** Grimoire (Repository) + Dagger (Finesse — the natural-1 reroll applies, though with Melee 0 it is rescuing a +0; Sidearm/Concealable/Thrown are why she carries it)
-- **Starting Money: 25 sp** — 5 sp on a surgeon's tool roll (feeds Medicine), 3 sp on grave-wax candles and ritual chalk, 17 sp in reserve.
+- **Weapons (two 1H items):** Grimoire (Repository — granted by Arcane Awakening, outside the purse) + Dagger (Finesse — the natural-1 reroll applies, though with Melee 0 it is rescuing a +0; Sidearm/Concealable/Thrown are why she carries it)
+- **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining** at creation. 5 sp on a surgeon's tool roll (feeds Medicine), 3 sp on grave-wax candles and ritual chalk, 55 sp in reserve. The Cloak below was bought much later, out of earnings.
 - **Loot acquired in play:** **Cloak of Still Water** (35 sp, Rare — bought during Downtime after Milestone 5) — Advantage on Stealth checks while moving at half Move or slower. Bought for exactly the reason you'd expect: robbing graves quietly takes patience, not speed.
 
 ### Grimoire (Arcana = **2d6+4**)
@@ -310,8 +312,8 @@ Arcane Manifestation/Clash 2d6+4 | Dagger Strike 2d6+0 | Dodge 2d6+0 (she has no
 ### Equipment
 - **Armor:** Chain Shirt (+2 Armor, Light)
 - **Weapon (one 1H item):** Mace (Power 2, Bash) — the off-hand stays free for her Holy Symbol and battlefield triage rather than a shield; see Table Notes.
-- **Holy Symbol** (granted by Divine Conduit)
-- **Starting Money: 25 sp** — 6 sp on bandages and a suture kit, 2 sp on clean spirits for wound-cleaning, 17 sp in reserve.
+- **Holy Symbol** (granted by Divine Conduit — outside the purse)
+- **Starting Purse: 80 sp** — Chain Shirt 50 + Mace 8 = **58 sp spent, 22 sp remaining.** 6 sp on bandages and a suture kit, 2 sp on clean spirits for wound-cleaning, 14 sp in reserve. Skipping the shield to keep her off-hand free is what paid for the better armour — a medic who cannot reach the patient is no medic, so she bought the survivability instead of the shield.
 
 ### Miracles (Tithe of Will = Faith = **2d6+4**, vs. tiered TN)
 - **Healing/Stabilize** *(Common, Novice — Creation)* — Tithe vs. TN 8, 2 Locked Stress. Pass: clears 1 Wound Slot; if the target is Incapacitated, also Stabilizes them. A character can't benefit from a second Healing-type Miracle in the same Scene.
@@ -377,8 +379,8 @@ Tithe of Will 2d6+4 *(2d6+3 at creation — see Advancement Ledger)* | Mace Stri
 
 ### Equipment
 - **Armor:** Leather (+1 Armor, Light) — Gambeson at creation, upgraded during Downtime after Milestone 1.
+- **Starting Purse: 80 sp** — Gambeson 5 + Shortsword 10 + Dagger 5 = **20 sp spent, 60 sp remaining.** The cheapest kit on the roster by some distance, and entirely on purpose: a duelist's Wound Threshold comes from not being hit. He spent the difference on a wardrobe good enough to get him invited to the sort of rooms where the work is, and kept the rest liquid. The Leather upgrade at Milestone 1 cost him 12 sp of that float.
 - **Weapons (two 1H items):** Shortsword (Power 2, **Sidearm**, **Finesse**) + Dagger (Power 0, **Sidearm**, **Finesse**, Concealable, Close-Quarters, Thrown) — qualifies for **Twin-Blade Stance**.
-- **Starting Money: 25 sp** — Shortsword 10 sp, Dagger 5 sp, Gambeson 5 sp, 5 sp reserve. The Leather came out of session earnings.
 
 ### Combat Math Quick-Ref
 Strike (Shortsword) 2d6+4, Impact = Margin+2 | Parry 2d6+4 | Dodge 2d6+3 | **Finesse on both** — reroll a natural 1 in any Clash with either blade, attacking or defending | **Off-Hand Parry:** the Dagger reduces incoming Impact by 1, stacking with the Shortsword | **Twin Strike:** 1 Momentum on a won Clash for an off-hand follow-up | Prowess 2d6+1 | Notice 2d6+1 | **Resolve 2d6+0** | Activation Order 11
