@@ -60,7 +60,7 @@ ___________________________________________________________________
 
 ### Feats
 - **Divine Conduit — The Covenant, Domain of Law.** Grants a Holy Symbol, the **Smite Corruption** Domain Tag (targeting Undead/Daemons/Mutants treats their Wound Threshold as 1 lower), and the 3 Novice Miracles below.
-- **Stoic Resolve** *(Will +2, Resolve +1)*: +2 Stress Limit (already applied above). When taking the Grounding action, or spending Momentum on The Rally, clear 1 extra point of Locked or Dissonant Stress.
+- **Stoic Resolve** *(Will +2, Resolve +1)*: +2 Stress Limit (already applied above). When taking the Reprieve action, or spending Momentum on Adrenaline Flush, clear 1 extra point of the relevant Stress type.
 
 ### Equipment
 - **Armor:** Chainmail/Scale (+2 Armor, Medium, **Bulky** — -1 Athletics/Stealth/Arcana; doesn't touch Faith, so this costs her nothing she was using)
@@ -114,7 +114,7 @@ Tithe of Will 2d6+3 | Strike (Mace) 2d6+1, Impact = Margin+2 | Block 2d6+1 (mode
 - **Starting Money: 25 sp** — 5 sp on a signet ring (a different name and seal in every city, which is rather the point), 2 sp on ink/paper/sealing wax, 18 sp in reserve.
 
 ### Grimoire (Arcana = **2d6+3**)
-- **Deflection** *(Paradigm, Mastery-eligible)* — Unopposed vs. TN 8 to raise, Sustain (Lock 1 Stress), Activation/Reactor. Margin 0–2: -2 penalty to enemy Clash rolls targeting the warded character; caster takes 1 Dissonant Stress. Margin 3–4: as above, no cost. Margin 5+: penalty becomes full Disadvantage.
+- **Deflection** *(Paradigm, Mastery-eligible)* — Unopposed vs. TN 8 to raise, Sustain (no Locked Stress; re-roll vs. TN 8 each Activation and on taking a Wound), Activation/Reactor. Margin 0–2: -2 penalty to enemy Clash rolls targeting the warded character; caster takes 1 Dissonant Stress. Margin 3–4: as above, no cost. Margin 5+: penalty becomes full Disadvantage.
 
 - **Stitch the Silhouette** *(Paradigm, Clash-resolution, Mastery-eligible)* — Arcane Clash vs. Prowess, Short Range, Aggressor. Margin 1–2: target Anchored until they tear free (1 Impact to themselves doing so); costs Faelan 1 Dissonant Stress. Margin 3+ (Clean, or Mastery-upgraded from 1–2): as above, and target also loses Dodge as an option until free — no cost.
 
@@ -184,7 +184,7 @@ Ranged Strike 2d6+3, Impact = Margin+2 (Shortbow) | Dodge 2d6+1 | Stealth 2d6+2 
 ### Feats
 - **Juggernaut** *(Brawn 2 — Creation)*: Spend 1 Momentum to add 2 to Wound Threshold against one incoming attack. Stacks with Brace.
 - **Giant Feller** *(Brawn 2 — Creation)*: May Grab/Shove creatures up to two Scale steps larger. Ignores the automatic 1 Stress penalty when Blocking a larger enemy's attack.
-- **Stoic Resolve** *(Will +2, Resolve +1 — Milestone 3)*: +2 Stress Limit (already applied above). Grounding and The Rally clear 1 extra point of Locked or Dissonant Stress.
+- **Stoic Resolve** *(Will +2, Resolve +1 — Milestone 3)*: +2 Stress Limit (already applied above). The Reprieve and Adrenaline Flush clear 1 extra point of the relevant Stress type.
 - **Iron Conviction** *(Will 2, Resolve 2 — Milestone 6)*: The Blood Price (Momentum's 1-cost Wound→2 Dissonant Stress conversion) costs no Momentum. Once per Scene.
 
 ### Equipment
@@ -252,7 +252,7 @@ Every prerequisite above is checked against what he actually had *at the moment 
 ### Grimoire (Arcana = **2d6+4**)
 - **Marrow Siphon** *(Necromancy, Novice, Sustain/Attrition — Creation)* — Unopposed vs. TN 8, targets a corpse or an enemy with 2+ Wounds. Fail (<8): 1 Dissonant Stress to her. Margin 0–2: clears 2 Dissonant Stress, but 1 Minor Wound from the physiological backlash. Margin 3–4 (Clean, or Mastery-upgraded from 0–2): clears 2 Dissonant Stress cleanly, corpse reduced to ash. Margin 5+: clears all Dissonant Stress and generates 1 Momentum.
 - **Rigor Mortis** *(Necromancy, Novice, Clash-resolution — Creation)* — Arcane Clash vs. Target's Resolve, Short Range, Aggressor. Margin 1–2: target's speed halved, no Dodge next turn; she takes 1 Dissonant Stress. Margin 3+ (Clean, or Mastery-upgraded): target fully Anchored, −2 to their next Aggressor Strike.
-- **Arcane Protection** *(Common, Novice, Sustain — Creation)* — Not Mastery-eligible (Common list). Unopposed vs. TN 8 to raise, Sustain (Lock 1 Stress). Margin 0–2: holds, 1 Dissonant Stress. Margin 3–4: holds, hostile spells vs. the warded target suffer Disadvantage. Margin 5+: as Clean, ward gains SV 2 against the next hostile spell.
+- **Arcane Protection** *(Common, Novice, Sustain — Creation)* — Not Mastery-eligible (Common list). Unopposed vs. TN 8 to raise, Sustain (no Locked Stress; re-roll vs. TN 8 each Activation and on taking a Wound). Margin 0–2: holds, 1 Dissonant Stress. Margin 3–4: holds, hostile spells vs. the warded target suffer Disadvantage. Margin 5+: as Clean, ward gains SV 2 against the next hostile spell.
 - **Corpse Bloom** *(Necromancy, Adept — Milestone 3)* — Unopposed vs. TN 10, one corpse in sight, 10ft radius, Spell Power 3. Everyone in the radius (friend or foe) takes Impact = Margin + 3. Margin 0–2 (Mastery-upgraded to Clean): detonation is delayed/unpredictable rather than instant.
 - **Zombie** *(Necromancy, Master — Milestone 5)* — Unopposed vs. TN 12, touch, requires a corpse within reach. Margin 0–2 (Mastery-upgraded to Clean): corpse rises as an NPC Undead under her control for the Scene (Wound Threshold 6, no Stress Limit). Margin 3–4: as above, no cost. Margin 5+: she may Lock 5 Stress to make the servant permanent instead of letting it end with the Scene.
 
