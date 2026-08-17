@@ -6,7 +6,7 @@
 ---
 
 ## 🗺️ Geography & Scope
-- **Bordering Areas:** [[Port Nevarellon|Port Nevarellon]] (West), [[400 Meta/drafts/draft2_The Five Duchies of the Whispering Coast|The Whispering Coast]] (West), The Broken Ocean (East, beyond the barrier islands).
+- **Bordering Areas:** [[Port Nevarellon|Port Nevarellon]] (West), [[The Five Duchies of the Whispering Coast|The Whispering Coast]] (West), The Broken Ocean (East, beyond the barrier islands).
 - **Terrain Type:** A vast, shallow-water inner sea. The far eastern boundary is defined by **The Shield Atolls**—a long, protective crescent string of volcanic islands, low-lying coral atolls, and shallow sandbars that completely shelter the inner basin from the cataclysmic open ocean storms of the Void.
 - **Climate & Weather Patterns:** The inner basin remains remarkably calm and glassy for most of the year, enabling easy trade up and down the coast. However, during the deep **Winter Moons**, freezing winds sweep down from [[The Jagged Spine|The Jagged Spine]], bringing heavy, blinding maritime sleet and sudden, violent chop to the northern waters.
 
@@ -29,8 +29,8 @@
 - **Natural Resources:** Blubber oil (used for heating and machinery across Austhal), ambergris (a highly prized alchemical fixative for street lanterns), salted cod, sea-salt, and pristine black volcanic glass (obsidian) harvested from the southern atolls.
 - **Settlements/Points of Interest:**
   - [[000 Atlas/Oakhaven Cove|Oakhaven Cove]] — *The Great Northern Township.* Located on the largest, northernmost shield island, built inside a high-walled, sheltered volcanic crater. It serves as the master port for the heavy, deep-sea monster-hunting fleets.
-  - [[000 Atlas/The Shield Atolls|The Shield Atolls]] — *Sparsely populated micro-communities.* Dozens of tiny, isolated fishing villages made up of mixed mortal races (Humans, Halflings, and coastal Elves) living in stilt-houses built over the warm reefs.
-  - [[000 Atlas/The Broken Spires|The Broken Spires]] — *Point of Interest.* A submerged ridge of petrified stone spires that match the architecture of the collapsed [[400 Meta/drafts/draft2_The Five Duchies of the Whispering Coast#5. The Scarred Land: Duchy of Corvus (The Fallen Crown)|Corvus Spire]], hinting that the ancient demonic incursion tore straight out into the sea.
+  - [[000 Atlas/The Shield Atolls|The Shield Atolls]] — *Sparsely populated micro-communities.* Dozens of tiny, isolated fishing villages made up of mixed mortal races (Humans, Halflings, and coastal Elves) living in stilt-houses built over the warm reefs. The atolls are not a chance arrangement of islands: they are the surviving high points of the same ridge that surfaces inland as [[The Jagged Spine|The Jagged Spine]], running northeast and dipping beneath the water. The barrier that shelters the whole basin is a drowned mountain range with its peaks still showing.
+  - [[000 Atlas/The Broken Spires|The Broken Spires]] — *Point of Interest.* A drowned ridge of petrified stone spires in the northern waters — mountain, not masonry, and not to be confused with **Corvus Spire**, the buried ducal seat inland. Divers who have gone down on them report the same glassy, heat-scarred fracturing found along the collapsed peaks of the [[The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|Corvus Scar]] fifty years ago. The implication is not that anything came through out here. It is that the seam which opened at Corvus does not end at Corvus — it runs northeast beneath the Inner Sea, and nobody has ever mapped how far.
 
 ---
 

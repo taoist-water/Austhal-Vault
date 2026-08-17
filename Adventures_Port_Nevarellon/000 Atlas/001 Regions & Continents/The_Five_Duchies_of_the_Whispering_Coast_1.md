@@ -8,6 +8,8 @@
 ## 🏛️ Regional Overview
 Under the **Ducal Accord**, the five sovereign duchies represent the ancestral human bloodlines that originally tamed the land between [[The Jagged Spine|The Jagged Spine]] and the [[The Inner Sea| Inner Sea]]. While they surrendered control of the free city-state of [[Port Nevarellon|Port Nevarellon]], they rule their own territories as absolute monarchs.
 
+**A note on the seat names.** Three of the five seats carry the word *Spire*, and this is a convention rather than a coincidence. The founding families did not build *beside* the rock — they cut into it, because stone already standing was cheaper than stone quarried and hauled, and because a keep grown out of a mountain cannot be undermined. A "spire" in coastal usage is the natural formation, not the building; the seat simply takes the formation's name. Hence **Castle Iron-Spire** cut into the De Vonce foothills, **Granite Spire** cut into the Stonereach passes, and **Corvus Spire**, which was named for the peak that eventually fell on it.
+
 ---
 
 ## 🛣️ The Ducal Concord Road
@@ -42,7 +44,7 @@ Following the Ducal Accord, the Council of Five and the four legitimate Duchies 
 ---
 
 ## 5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)
-- **Terrain & Seat:** Once a rich valley of black soil, dense pine, and ancient stone spires. Today, it is a blackened, ash-choked wasteland known as **The Corvus Scar**. The ancestral seat, **[[The Inner Sea#🪓 Resource & Industry|Corvus Spire]]**, was buried in the mountain collapse fifty years ago and has never been excavated or resettled — see The Broken Spires, the submerged ruins matching its architecture found off the coast.
+- **Terrain & Seat:** Once a rich valley of black soil, dense pine, and ancient stone spires. Today, it is a blackened, ash-choked wasteland known as **The Corvus Scar**. The ancestral seat, **Corvus Spire**, was buried in the mountain collapse fifty years ago and has never been excavated or resettled. It should not be confused with [[The Inner Sea#🪓 Resource & Industry|The Broken Spires]] out in the Inner Sea — those are drowned peaks, not masonry, and what they share with Corvus is not architecture but the same heat-scarred fracturing along the same seam.
 - **Travel Time to Port Nevarellon:** Not meaningfully defined. No lawful road runs into the Ash-Blight, and there is no seated authority left to travel to. The only hard figure on record is tactical, not diplomatic: De Vonce's standing border levy along the Jagged Spine could reach the Scar's edge in roughly 1–2 days if the low frequencies stirred again.
 
 ### 💥 The Cataclysm (50 Years Ago)
