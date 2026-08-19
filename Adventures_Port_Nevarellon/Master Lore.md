@@ -8,9 +8,9 @@
 
 ![[The Kald Mountain  Territory]]
 
-![[The_Five_Duchies_of_the_Whispering_Coast]]
+![[The Five Duchies of the Whispering Coast]]
 
-![[The_Inner_Sea]]
+![[The Inner Sea]]
 
 ![[Ubaraz Kingdom]]
 
@@ -44,5 +44,5 @@
 
 ![[The Trade Plazas]]
 
-![[The_Great_Anchor_Basin]]
+![[The Great Anchor Basin]]
 

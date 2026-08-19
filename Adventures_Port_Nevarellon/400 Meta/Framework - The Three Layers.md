@@ -15,7 +15,7 @@ A structure for building and auditing the *civilisation* layer of the Whispering
 
 Use it two ways. **Forward:** when adding any new NPC, faction, or institution, place it in a Layer and fill the five fields below before writing prose. **Backward:** when auditing an existing document, run the five fields against it and see which come back empty — an empty field is usually where a contradiction is hiding.
 
-This is a narrative framework. It carries no mechanical crunch yet. When the rules system stabilises, the Layer assignment and the Chokepoint field are the intended hanging points for faction-scale mechanics — see [[iron-and-marrow-canon-tracker|the canon tracker]]'s currently-empty *Power level (rules ref)* column.
+This is a narrative framework. It carries no mechanical crunch yet. When the rules system stabilises, the Layer assignment and the Chokepoint field are the intended hanging points for faction-scale mechanics — see [[iron and marrow canon tracker|the canon tracker]]'s currently-empty *Power level (rules ref)* column.
 
 ---
 
@@ -189,4 +189,4 @@ These four files need updating to carry the addition. Flagging rather than editi
 - [[History - The Broken Crown of Austhal|The Ducal Accord]] — the constitutional settlement this framework describes
 - [[Economy - the Price of Survival|Economy: The Price of Survival]] — the cost side of Layer 1
 - [[Law - The Council's Edicts|Law: The Council's Edicts]] — Layer 1's enforcement instrument
-- [[iron-and-marrow-canon-tracker|Canon Tracker]] — continuity reference; Layer assignments belong here once stable
+- [[iron and marrow canon tracker|Canon Tracker]] — continuity reference; Layer assignments belong here once stable

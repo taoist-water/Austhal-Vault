@@ -335,4 +335,4 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 - [[Framework - The Three Layers|Framework: The Three Layers]] — anything drawn from Table 2 needs a Layer placement and five fields
 - [[History - The Broken Crown of Austhal|The Ducal Accord]] — source of the King-Ban naming rule
 - [[Religion - The pagan Pantheon and the Faith Domains|Religion: The Pagan Pantheon]] — parent of Table 3's cult rites
-- [[iron-and-marrow-canon-tracker|Canon Tracker]] — log entries here only once actually used
+- [[iron and marrow canon tracker|Canon Tracker]] — log entries here only once actually used
