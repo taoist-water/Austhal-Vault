@@ -8,7 +8,7 @@
 ## 🗺️ District Overview
 If [[The Muddy Docks]] represent the chaotic, rotting underbelly of Port Nevarellon's maritime trade, **The Great Anchor Basin** is its cold, clinical, heavily fortified heart. This massive, deep-water harbor was engineered during the early days of the old kingdom to accommodate deep-draft, ocean-going carracks and heavy military galleons from far-off continental empires. 
 
-Unlike the sinking wooden boardwalks of the slums, the Basin is lined with massive, interlocking granite seawalls engineered with assistance from [[Ubaraz Kingdom]]. It commands the strategic gateway to the open ocean trade routes across [[000 Atlas/001 Regions & Continents/The Great Expanse|The Great Expanse]].
+Unlike the sinking wooden boardwalks of the slums, the Basin is lined with massive, interlocking granite seawalls engineered with assistance from [[Ubaraz Kingdom]]. It commands the strategic gateway out of [[The Great Expanse|The Great Expanse]] — the sheltered inner sea lying between Austhal's mainland and the Shield Atolls — and onward through the Atoll Shallows to the open-ocean trade routes of **The Broken Ocean** beyond.
 
 ---
 
