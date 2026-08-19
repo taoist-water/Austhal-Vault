@@ -1,10 +1,20 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "300 Iron & Marrow Master rules/Iron and Marrow core/Index.md",
+  "selectedDraftVaultPath": "longform novel/lore/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
+    {
+      "start": "2026-08-19T10:13:14.041Z",
+      "total": 0,
+      "drafts": {
+        "longform novel/lore/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
     {
       "start": "2026-06-18T10:13:13.136Z",
       "total": 0,
