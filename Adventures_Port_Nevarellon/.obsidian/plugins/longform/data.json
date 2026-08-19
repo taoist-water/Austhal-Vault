@@ -1,7 +1,7 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "longform novel/lore/Index.md",
+  "selectedDraftVaultPath": "Longform Lore collator/Lore/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
@@ -10,6 +10,10 @@
       "total": 0,
       "drafts": {
         "longform novel/lore/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Longform Lore collator/Lore/Index.md": {
           "total": 0,
           "scenes": {}
         }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Lore.md",
+                "file": "Longform Lore collator/Lore/Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Lore"
+              "title": "Index"
             }
           }
         ]
@@ -205,8 +205,11 @@
   },
   "active": "5240cd8982df25b9",
   "lastOpenFiles": [
-    "000Atlas.md",
     "Master Lore.md",
+    "Longform Lore collator/Lore/Index.md",
+    "Longform Lore collator/Lore",
+    "Longform Lore collator",
+    "000Atlas.md",
     "_Home.md",
     "longform novel/lore/Index.md",
     "longform novel/lore",
@@ -233,14 +236,11 @@
     "100 Society/105 Magic & Religion/Religion_-_The_pagan_Pantheon_and_the_Faith_Domains.md",
     "100 Society/101 Factions & Guilds/The Cobalt Feather Syndicate.md",
     "000 Atlas/003 Sub-Locations & Architecture/The_Great_Anchor_Basin.md",
-    "000 Atlas/001 Regions & Continents/The_Five_Duchies_of_the_Whispering_Coast.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Character_sheet.odt",
     "200 Cast/204 Middle Class",
     "400 Meta/drafts",
     "300 Iron & Marrow Master rules/Dev notes/16 complete edits/bestiary entry - lycanthrope_done",
     "300 Iron & Marrow Master rules/Dev notes/16 complete edits",
-    "300 Iron & Marrow Master rules/Dev notes/Untitled Folder",
-    "300 Iron & Marrow Master rules/Dev notes/bestiary entry - lycanthrope_done",
     "Untitled.canvas"
   ]
 }
