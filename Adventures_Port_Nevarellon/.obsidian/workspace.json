@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Lore.md",
-                "mode": "preview",
+                "file": "200 Cast/204 Middle Class/Jeerdan_Darcy.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Lore"
+              "title": "Jeerdan_Darcy"
             }
           }
         ]
@@ -203,15 +203,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf9b17df2cdfe0a9",
+  "active": "7d9c799c9743b5d4",
   "lastOpenFiles": [
+    "Master Lore.md",
     "400 Meta/iron-and-marrow-canon-tracker.md",
     "000 Atlas/003 Sub-Locations & Architecture/The_Great_Anchor_Basin.md",
     "400 Meta/Framework - The Coastal Reckoning.md",
     "400 Meta/Reference - Name Tables.md",
     "400 Meta/Reference - The Wondrous Markets.md",
     "Longform Lore collator/Lore/manuscript.md",
-    "Master Lore.md",
     "000 Atlas/001 Regions & Continents/Austhal.md",
     "Longform Lore collator/Lore/Index.md",
     "Longform Lore collator/Lore",
