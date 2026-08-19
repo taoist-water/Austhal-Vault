@@ -22,4 +22,4 @@ Unlike the sinking wooden boardwalks of the slums, the Basin is lined with massi
 ## ⚔️ The Underworld Friction
 Because the Basin handles the highest-value cargo in the city (fine silks, spices, refined iron from De Vonce, and luxury alchemical reagents), it is an incredibly dangerous place to conduct illicit business. 
 
-While [[The Iron-Anchor Syndicate]] dominates the low-end, blunt criminality of the Muddy Docks (protection rackets, extortion, timber smuggling), they find it incredibly difficult to operate within the Basin's high-security perimeter. This logistical vacuum has allowed a different kind of criminal entity to take root in the shadows of the granite seawalls: **[[The Cobalt Syndicate]]**.
+While [[The Iron-Anchor Syndicate]] dominates the low-end, blunt criminality of the Muddy Docks (protection rackets, extortion, timber smuggling), they find it incredibly difficult to operate within the Basin's high-security perimeter. This logistical vacuum has allowed a different kind of criminal entity to take root in the shadows of the granite seawalls: **[[The Cobalt Feather Syndicate]]**.

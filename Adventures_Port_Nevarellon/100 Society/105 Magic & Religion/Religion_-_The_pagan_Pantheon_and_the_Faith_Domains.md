@@ -1,7 +1,7 @@
 # Religion: The Pagan Pantheon & Faith Domains
 #mechanics/magic #lore/religion #status/solid
 
-> "The cosmos doesn't listen to us. So we pray to the dead men and women who figured out how to force the cosmos to bend." — Master Scribe Vaelen
+> "The cosmos doesn't listen to us. So we pray to the dead men and women who figured out how to force the cosmos to bend." — Master Cartographer Vaelen
 
 ## 🏛️ The Nature of Faith in Austhal
 Religion across the Whispering Coast is deeply paganistic. There are no living gods answering prayers. Instead, the Cults worship **Domains** (which are actually specific currents of shattered god-essence, drawn from all through the Tideways rather than sorted neatly into the High Reach or the Undertow).
@@ -17,8 +17,8 @@ Religion across the Whispering Coast is deeply paganistic. There are no living g
 
 
 ## 2. The Domain of Trickery (The Cult of the Crooked Coin)
-- **The Paragon:** *Corvo's Folly (The Grinning Prophet)*
-- **The Lore:** Corvo wasn't a holy man; he was a legendary cynic and smuggler who realized the ancient bureaucratic laws of the old empire were a joke, and successfully counterfeited the royal treasury into bankruptcy. The Syndicate reveres him as the patron of outsmarting rigged systems.
+- **The Paragon:** *Rook's Folly (The Grinning Prophet)*
+- **The Lore:** Rook wasn't a holy man; he was a legendary cynic and smuggler who realized the ancient bureaucratic laws of the old empire were a joke, and successfully counterfeited the royal treasury into bankruptcy. The Syndicate reveres him as the patron of outsmarting rigged systems.
 - **Flavor/Trappings:** Loaded dice amulets, mismatched clothes. Prayers are murmured riddles, jokes about authority, and localized distortions of luck.
 
 
