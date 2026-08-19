@@ -14,7 +14,7 @@
 ## 🪓 Resource & Industry
 - **Natural Resources:** (What makes this land worth controlling? Timber, iron ore, game, rare flora)
 - **Settlements/Points of Interest:**
-  - [[ Port Nevarellon]]- Free City Metropolis
+  - [[Port Nevarellon]]- Free City Metropolis
   - [[400 Meta/drafts/draft2_The Five Duchies of the Whispering Coast]]
   - 
 
