@@ -49,7 +49,7 @@ The practical consequences are enormous and mostly ugly:
 
 ## 📜 The Register (Where the Teeth Actually Are)
 
-A pagan cult cannot excommunicate. There is no universal faith on the coast — defy the Zenith and go pray to the [[The Cobalt Syndicate|Crooked Coin]] instead. So the Zenith's enforcement is not spiritual at all.
+A pagan cult cannot excommunicate. There is no universal faith on the coast — defy the Zenith and go pray to the [[Religion - The pagan Pantheon and the Faith Domains#2. The Domain of Trickery (The Cult of the Crooked Coin)|Crooked Coin]] instead. So the Zenith's enforcement is not spiritual at all.
 
 **The Zenith are the notaries.** Under the [[Law - The Council's Edicts|Council's Edicts]], a citizen is Landed only if they hold a Council-stamped deed, a guild charter, or the papers on a deep-water keel. The Council *issues* those instruments. **The Zenith keeps the authoritative counter-copy**, and has done since the merchant houses first needed somewhere neutral to lodge contracts during the Civil War.
 
@@ -57,7 +57,38 @@ When a document's authenticity is questioned — in the High Courts, in a duchy,
 
 Which means: **defy a Zenith ruling and your paperwork stops being authenticable.** Not seized. Not burned. Simply unverifiable, in a polity where legal personhood *is* paper. A Landed man whose deed cannot be confirmed is not a criminal; he is a squatter with an interesting story, and the Golden Company will remove him from his own warehouse without malice.
 
-This makes the Zenith and the **[[The Cobalt Syndicate|Cobalt Feather Syndicate]]** direct existential rivals, and neither is a mere criminal matter to the other. The Cobalt Feather manufactures legitimacy; the Zenith authenticates it. A forged deed does not steal property — it **manufactures a citizen**, and it does so by defeating the Register. Corvo's Folly against Aurelius the Architect, fought entirely in wax and ink, and the Zenith is not obviously winning.
+This makes the Zenith and the **[[The Cobalt Feather Syndicate|Cobalt Feather Syndicate]]** direct existential rivals, and neither is a mere criminal matter to the other. The Cobalt Feather manufactures legitimacy; the Zenith authenticates it. A forged deed does not steal property — it **manufactures a citizen**, and it does so by defeating the Register. Rook's Folly against Aurelius the Architect, fought entirely in wax and ink, and the Zenith is not obviously winning.
+
+---
+
+## 🌍 The Register of Markets (The Count of Three)
+
+Port Nevarellon is known internationally as one of the **3 Wondrous Markets**. There are four cities. The fourth was struck, is still standing, and still trades.
+
+**The Zenith never listed anything.** There is no roll of Wondrous Markets in the vault, because compiling one would be an act of confirmation and the Court of Nullity forbids it absolutely. What exists is what always exists here: **lodged instruments.** Merchant houses have been counter-copying charters, bottomry bonds and letters of credit that name their city a Wondrous Market since before the Accord, and the Keepers counter-copied them the way they counter-copy everything.
+
+> **"Three Wondrous Markets" is not an entry in the Register. It is a count of how many the Keepers will still verify.**
+
+Four cities had instruments nobody had voided. Then somebody moved to strike, an Arbiter found the Fourth's claim void on grounds of calamity, and the Keepers stopped verifying anything that named it. Nothing was ever granted to anyone. The number simply went down by one, and the coast has repeated it ever since without once asking to see the paper.
+
+### How a market is struck
+
+- **The mechanism is refusal, as always.** A struck city is not sanctioned, blockaded or condemned. Instruments naming it as a Wondrous Market cannot be authenticated at the Plumb Court, so letters of credit, bottomry bonds and cargo insurance written against it stop working. The city does not burn. Its paperwork does.
+- **The fee is the first barrier.** Arbitration fees scale to the value in dispute and are paid in full, by both parties, before a hearing opens. A motion against a Wondrous Market is a dispute valued at a city's entire trade. Only a house that can front that sum and forfeit it can bring one, which is exactly the connection barrier that governs everything else in this building.
+- **Distance is the weapon.** The Zenith cannot compel attendance. The Fourth lies across the Broken Ocean; a summons and a reply is the better part of a year. The motion was heard, the respondent did not appear, and the Arbiter found for the only party in the room. Whether the Fourth ever learned a hearing had been convened is not recorded, because recording it was nobody's duty.
+- **It cannot be undone.** There is no restoration, because restoration would be validation. The Fourth's standing is not suspended. It is void, permanently, by a doctrine no Arbiter can bend.
+
+### What this actually means
+
+**The calamity was real and the striking was business, and neither cancels the other.** A competitor was removed while the removing was easy. Nobody has ever needed to establish which came first, and the Register — which keeps everything — does not keep motives.
+
+**Port Nevarellon's place on the count is geography, not merit.** Every market is vulnerable to the same tactic, and only one of them can always send someone to the hearing, because the Plumb Court is a twenty-minute walk from [[The Trade Plazas]]. The two remaining foreign markets are exactly as defensible as the Fourth was.
+
+**The count is parochial and the coast has not noticed.** The Register binds coastal paper. A city on another continent has no reason to recognise a Whispering Coast cult, and may well still be counted a Wondrous Market everywhere that isn't here. *"One of the three"* is a claim made in Port Nevarellon, verifiable in Port Nevarellon, and repeated by men who have never considered that the world might be counting differently.
+
+**And the striking handed a city to the enemy.** Commerce does not require verification — only *insured* commerce does. The Fourth's trade is now uninsurable, catastrophically risky, correspondingly profitable, and conducted almost entirely by parties who never had access to the Register in the first place. In cutting a city out of the paper economy, an Arbiter delivered it intact to the [[The Cobalt Feather Syndicate|Cobalt Feather]] and the Crooked Coin. Rook's Folly acquired a capital, and Aurelius signed the deed.
+
+⚠️ **A Keeper can do this without a hearing.** Keepers may verify or decline to verify. A Keeper who quietly slow-walks verification on instruments naming one of the remaining three achieves the same result as a ruling, with no motion, no fee, and no record of a decision — see *Arbiters vs. Keepers* below. [[Keeper Merrit Dray|Merrit Dray]] holds the only key that matters and has quietly used it once.
 
 ---
 
@@ -70,6 +101,8 @@ The coast now has three bodies that hear disputes, and the boundaries between th
 | **The High Courts** (Council of Five) | Commercial and criminal matters inside Port Nevarellon | Landed only; the Un-Landed must be sponsored by a Landed patron | Golden Company enforcement |
 | **The Cult of the Zenith** | Inter-jurisdictional only: duchy v. duchy, duchy v. Council, oath disputes, succession where no overlord exists | Any party to the dispute | The Register |
 | **The Envoy Corps** ([[The Golden Company|Golden Company]]) | Private, negotiated settlements under a Writ of Voice | Whoever is paying | None. Works because both parties want it to |
+
+The **Register of Markets** sits inside the Zenith's jurisdiction by elimination rather than by claim: the High Courts hear commercial matters *inside Port Nevarellon*, and a dispute over a city on the far side of the Broken Ocean is not one. There is no other forum. There was never meant to be a forum at all.
 
 The Zenith will not hear a matter the High Courts could hear. It is not a court of appeal, and it says so at length — partly from doctrine, mostly because taking Council business would force the Council to ask by what right it does anything at all.
 
@@ -94,9 +127,9 @@ The Zenith will not hear a matter the High Courts could hear. It is not a court 
 ---
 
 ## ⚡ Internal Friction & Conflict
-- **Arbiters vs. Keepers.** The Arbiters hear cases; the Keepers hold the Register. Doctrinally the Keepers are subordinate. In practice the Register is the only real power in the building, and a Keeper who slow-walks a verification can strangle a ruling without ever disobeying one. Neither branch will say this aloud.
+- **Arbiters vs. Keepers.** The Arbiters hear cases; the Keepers hold the Register. Doctrinally the Keepers are subordinate. In practice the Register is the only real power in the building, and a Keeper who slow-walks a verification can strangle a ruling without ever disobeying one. Neither branch will say this aloud — and there is now a precedent neither branch will name, because [[Keeper Merrit Dray|Dray]] has done it, [[High Arbiter Sevrin Kalder|Kalder]] knows he has done it, and neither man has ever raised it with the other.
 - **The Drift Question.** A rigorist minority holds that the cult has no business arbitrating at all — that hearing ducal disputes was never granted, is not in the *Meditations*, and has made a court out of a congregation. They are not wrong, and everyone senior knows they are not wrong.
-- **External Rivals:** [[The Cobalt Syndicate|The Cobalt Feather Syndicate]] (existential); the [[Council of Five|Council of Five]]'s High Courts (jurisdictional, cold); the [[Faction - The Civic Constabulary (The Coppers)|Civic Constabulary]], who resent being told which of their seizures were unlawful.
+- **External Rivals:** [[The Cobalt Feather Syndicate|The Cobalt Feather Syndicate]] (existential); the [[Council of Five|Council of Five]]'s High Courts (jurisdictional, cold); the [[Faction - The Civic Constabulary (The Coppers)|Civic Constabulary]], who resent being told which of their seizures were unlawful.
 - **Public Perception:** Trusted by the Landed to the point of reverence. Regarded by the Un-Landed as a machine that exists to confirm that they own nothing — which is precisely what it does. In the duchies, a Zenith Arbiter arriving in a village is a sign that something has gone badly wrong for somebody wealthy.
 
 ---
@@ -128,14 +161,15 @@ And the bias is not total. Every few years an Arbiter reads Aurelius the way he 
 ---
 
 ## 👥 Notable Members
-- [[High Arbiter Sevrin Kalder|High Arbiter Sevrin Kalder]] — *The High Arbiter. High Quarter-born; genuinely believes order is mercy; the institution's public face and its most sincere apologist.*
-- [[Keeper Merrit Dray|Keeper Merrit Dray]] — *Keeper of the Register. Low-born, promoted for competence, holds the only key that matters and has quietly used it once.*
+- [[High Arbiter Sevrin Kalder|High Arbiter Sevrin Kalder]] — *The High Arbiter. Human, 63. High Quarter-born to a name that bought in two generations ago. Genuinely believes order is mercy, signs the removals of the Arbiters who rule correctly, and is drafting a founding clause his own doctrine forbids him to lodge. His voice is going.*
+- [[Keeper Merrit Dray|Keeper Merrit Dray]] — *Keeper of the Register. Dwarf, 118. A Stonereach hauler's son promoted for never once being wrong. Holds the only key that matters, used it once for eleven weeks, and is slowly being driven out of his own vault by the air in it.*
 
 ## 🔗 Connected Notes
 - **Doctrinal source:** [[Religion - The pagan Pantheon and the Faith Domains|Religion: The Pagan Pantheon & Faith Domains]]
 - **The legal order it operates inside:** [[Law - The Council's Edicts|Law: The Council's Edicts]]
 - **The vacuum it fills:** [[History - The Broken Crown of Austhal|History: The Broken Crown of Austhal]]
-- **Existential rival:** [[The Cobalt Syndicate|The Cobalt Feather Syndicate]]
+- **Existential rival:** [[The Cobalt Feather Syndicate|The Cobalt Feather Syndicate]]
 - **Jurisdictional neighbours:** [[Council of Five|The Council of Five]], [[The Golden Company|The Golden Company]]
 - **The unresolvable case:** [[The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|The Corvus Scar]]
 - **A commission the Register cannot verify:** [[Jeerdan Darcy|Jeerdan Darcy]]
+- **A city the Register will not verify:** [[Reference - The Wondrous Markets|The Wondrous Markets]]

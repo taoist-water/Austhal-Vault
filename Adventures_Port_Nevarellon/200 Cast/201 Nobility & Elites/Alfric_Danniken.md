@@ -1,7 +1,7 @@
 # Character: Alfric Danniken
 #cast/active #status/solid
 
-> "He wears a silk doublet and calls himself a lord, but if you look closely at his ledger, the ink smells like marsh-water and stolen spice." — Master Scribe Vaelen
+> "He wears a silk doublet and calls himself a lord, but if you look closely at his ledger, the ink smells like marsh-water and stolen spice." — Master Cartographer Vaelen
 
 ## 📊 Vital Statistics
 - **Full Name / Aliases:** Lord Alfric Danniken / "The Falconer"
