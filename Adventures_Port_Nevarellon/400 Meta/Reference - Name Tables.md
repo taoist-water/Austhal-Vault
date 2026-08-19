@@ -115,60 +115,86 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 
 # Table 2 — Settlements, Holds & Forts (50)
 
-Every entry is placed. **Region** states the parent — no floating villages. Types: *hamlet* (<100), *village* (100–500), *town* (500–3,000), *fort/waystation* (garrison only), *ruin*.
+Every entry is placed. **Region** states the parent — no floating villages. **Tier** is the mechanical variable.
 
-| # | Name | Type | Region / parent | Note |
-|---|---|---|---|---|
-| 1 | Hollowforge | Town | De Vonce | Iron-smelting; feeds the Port Nevarellon shipyards |
-| 2 | Ashcopse | Hamlet | De Vonce | Charcoal-burners supplying Hollowforge |
-| 3 | Bittern's Ford | Village | De Vonce | Last clean water before the Corvus border |
-| 4 | Adder's Gate | Fort | De Vonce | Border watch-tower facing the Scar → *canon: Concord Road terminates here* |
-| 5 | Longbarrow | Village | De Vonce | Ploughs up petrified war-bone every spring; sells it as fertiliser |
-| 6 | Marrowmill | Hamlet | De Vonce | Grinds that bone. Locals do not eat the bread made from those fields |
-| 7 | Coldhelve | Town | De Vonce | Arms-making; High-Steel monopoly enforcement point |
-| 8 | Wardstone Watch | Fort | De Vonce | Second Corvus-facing tower; undermanned, everyone knows it |
-| 9 | Grimscree | Hamlet | Stonereach | Scree-slope granite quarry, appalling attrition |
-| 10 | Kettlehold | Town | Stonereach | Sits in a pass bowl; controls the northeast road |
-| 11 | Thrawgate | Fort | Stonereach | Guards Thraw's Pass; ducal levy garrison |
-| 12 | Pilgrim's Notch | Waystation | Stonereach | Rime-Fang shrine; free shelter, no questions — *mote of hope* |
-| 13 | Sleetfall | Village | Stonereach | Snowed in four months a year, self-governing by necessity |
-| 14 | Deepgraft | Village | Stonereach | Deep-shaft mine; dwarven contract crews, ducal ownership |
-| 15 | Barleywick | Village | Aerthos | Grain tenancy, chronic debt to Millhaven factors |
-| 16 | Sheafcross | Town | Aerthos | Regional grain market; Concord Road spur terminus |
-| 17 | Toll-on-Aer | Town | Aerthos | River-toll station; the duchy's real income |
-| 18 | Quernstone | Hamlet | Aerthos | Millstone quarry |
-| 19 | Wether Bridge | Village | Aerthos | Only stone bridge on the lower Aer; strategically enormous |
-| 20 | Grainlock | Fort | Aerthos | Fortified granary; siege-relevant, politically sensitive |
-| 21 | Brinewick | Town | Valerius | Salt-pans and cured fish |
-| 22 | Coldspar | Village | Valerius | Cliff village, wrecking accusations never proven |
-| 23 | Gullstand | Hamlet | Valerius | Egg-harvesting from cliff colonies |
-| 24 | Netherquay | Village | Valerius | Small port; Coastal Meridian resupply stop |
-| 25 | Palefast | Fort | Valerius | Guards the coastal road where it narrows |
-| 26 | Widow's Reach | Hamlet | Valerius | Named for its drowning rate. Nobody has renamed it |
-| 27 | Ashenford | Hamlet | Corvus Scar | Abandoned in the collapse, re-occupied ~nine years ago. The ford still works, which is the whole reason |
-| 28 | Corvus Low | Ruin | Corvus Scar | Was the duchy's second town. Ash-blighted, silent |
-| 29 | Blackrun | Ruin | Corvus Scar | Mill village on an acidic stream; the wheel still turns |
-| 30 | Cinderhollow | Ruin | Corvus Scar | Blight-scavenger camp; rotates crews, nobody overwinters twice |
-| 31 | The Quiet Steading | Hamlet | Corvus Scar | **Occupied.** One family, four years in, farming a clean pocket. The most successful Scar-Holding on record → *canon: The Scar-Holders* — *mote of hope* |
-| 32 | Stiltrow | Hamlet | Silted Marshes | Nine families, rebuilt twice a decade |
-| 33 | Fenmouth | Village | Silted Marshes | Where marsh-guides are legally hired; Council toll post |
-| 34 | Mudgate | Fort | Silted Marshes | Council's northern estuary claim, made physical. Barely |
-| 35 | Rushbed | Hamlet | Silted Marshes | Reed-cutters; supplies Divtown thatch |
-| 36 | Kettle Bottom | Hamlet | Silted Marshes | Actively sinking. Population declining by choice |
-| 37 | Nine Poles | Hamlet | Silted Marshes | Nine stilt platforms, no land at all |
-| 38 | Reefhollow | Village | Shield Atolls | Stilt-houses over warm reef; mixed-race, unbothered by it |
-| 39 | Two Cages | Village | Shield Atolls | Two great fish-traps; halfling-majority |
-| 40 | Saltlight | Hamlet | Shield Atolls | Harvests the algae for the Brine-Glow Lanterns → *canon tie* |
-| 41 | Coldmoor Cove | Village | Shield Atolls | Northernmost atoll; whaling fleet victualler |
-| 42 | Bone Shoal | Hamlet | Shield Atolls | Built on the petrified ribs of a war-beast → *canon tie* |
-| 43 | Concord's Third Stone | Waystation | Ducal Concord Road | Milestone-named; Golden Company and ducal levy share it badly |
-| 44 | Darcy's Rest | Waystation | Ducal Concord Road | Named *for* [[Jeerdan Darcy]], not *by* him. He hates it — *mote of hope* → **extension** |
-| 45 | Toll-Gallows | Fort | Ducal Concord Road | Both functions in the name. Nobody found that funny at the time |
-| 46 | Scrapewell | Village | Ducal Concord Road | Was *Kingswell*. The chisel marks are still visible on the well-head |
-| 47 | Marten's Cross | Village | Ducal Concord Road | **Folk-scraped.** See lore note below |
-| 48 | Spine-Head | Village | Jagged Spine foothills | Aqueduct source settlement → *canon: Spine Aqueduct* |
-| 49 | Cistern Camp | Hamlet | Jagged Spine foothills | Aqueduct maintenance crews; De Vonce's quiet leverage on the Council |
-| 50 | Fallowatch | Ruin | Jagged Spine foothills | Pre-Accord royal fort, abandoned as politically radioactive |
+### The Tier Variable
+
+| Tier | Label | What's there |
+|---|---|---|
+| **T0** | Hamlet | A handful of families, maybe a shrine, no real market |
+| **T1** | Town | A proper market square, a working forge, a temple or chapter house |
+| **T2** | City | A genuine trade hub. Guild halls, multiple forges, a cathedral |
+| **T3** | Capital / Metropolis | The seat of power. Anything that exists, exists here |
+| **T—** | *(no tier)* | Ruins and abandonments. Nothing is available and nothing is for sale |
+
+**Tier measures services, not headcount.** A four-hundred-soul fishing village with no market and no smith is **T0**. A hundred-and-fifty-soul crossroads with a market day, a forge and a chapel is **T1**. This keeps the tag mechanically useful — it answers *what can be bought, repaired, healed, hired or heard here* — instead of restating a population figure the rules will never consult. Population stays in the prose where it belongs.
+
+**Forts and waystations are tiered by what a traveller can actually obtain.** A ducal garrison with an armourer and a chaplain is **T1** regardless of whether civilians live there; an undermanned watchtower is **T0**.
+
+### Canon Anchors
+
+| Place | Tier | Note |
+|---|---|---|
+| **[[Port Nevarellon]]** | **T3** | The *only* Tier 3 on the Whispering Coast |
+| Castle Iron-Spire · Granite Spire · Millhaven · Saltmere | T2 | The four surviving ducal seats |
+| **Corvus Spire** | **T—** | Buried in 8 A.A. The Scar has nothing above T0 |
+| [[Divtown]] | T1 | Market of a sort, forge of a sort, no temple anyone would admit to |
+| Oakhaven Cove | T1 | |
+
+⚠️ **The Accord produced a one-city region, and that is the Council's real leverage.** Tier 3 means *anything that exists, exists here*. The Dukes surrendered Port Nevarellon and retreated to ancestral lands, so the Whispering Coast has exactly one T3 and four T2 seats — which means a Duke who wants anything his own duchy does not make must go to the Council for it. Ubaraz has a T3. Tuwal Ghorun has a T3. The coast has one, it belongs to merchants, and every duchy on the map is a customer.
+
+| # | Name | Tier | Type | Region / parent | Note |
+|---|---|---|---|---|---|
+| 1 | Hollowforge | **T2** | Town | De Vonce | Iron-smelting; feeds the Port Nevarellon shipyards |
+| 2 | Ashcopse | **T0** | Hamlet | De Vonce | Charcoal-burners supplying Hollowforge |
+| 3 | Bittern's Ford | **T1** | Village | De Vonce | Last clean water before the Corvus border |
+| 4 | Adder's Gate | **T1** | Fort | De Vonce | Border watch-tower facing the Scar → *canon: Concord Road terminates here* |
+| 5 | Longbarrow | **T1** | Village | De Vonce | Ploughs up petrified war-bone every spring; sells it as fertiliser |
+| 6 | Marrowmill | **T0** | Hamlet | De Vonce | Grinds that bone. Locals do not eat the bread made from those fields |
+| 7 | Coldhelve | **T1** | Town | De Vonce | Arms-making; High-Steel monopoly enforcement point |
+| 8 | Wardstone Watch | **T0** | Fort | De Vonce | Second Corvus-facing tower; undermanned, everyone knows it |
+| 9 | Grimscree | **T0** | Hamlet | Stonereach | Scree-slope granite quarry, appalling attrition |
+| 10 | Kettlehold | **T2** | Town | Stonereach | Sits in a pass bowl; controls the northeast road |
+| 11 | Thrawgate | **T1** | Fort | Stonereach | Guards Thraw's Pass; ducal levy garrison |
+| 12 | Pilgrim's Notch | **T0** | Waystation | Stonereach | Rime-Fang shrine; free shelter, no questions — *mote of hope* |
+| 13 | Sleetfall | **T1** | Village | Stonereach | Snowed in four months a year, self-governing by necessity |
+| 14 | Deepgraft | **T1** | Village | Stonereach | Deep-shaft mine; dwarven contract crews, ducal ownership |
+| 15 | Barleywick | **T0** | Village | Aerthos | Grain tenancy, chronic debt to Millhaven factors |
+| 16 | Sheafcross | **T2** | Town | Aerthos | Regional grain market; Concord Road spur terminus |
+| 17 | Toll-on-Aer | **T1** | Town | Aerthos | River-toll station; the duchy's real income |
+| 18 | Quernstone | **T0** | Hamlet | Aerthos | Millstone quarry |
+| 19 | Wether Bridge | **T1** | Village | Aerthos | Only stone bridge on the lower Aer; strategically enormous |
+| 20 | Grainlock | **T1** | Fort | Aerthos | Fortified granary; siege-relevant, politically sensitive |
+| 21 | Brinewick | **T2** | Town | Valerius | Salt-pans and cured fish |
+| 22 | Coldspar | **T1** | Village | Valerius | Cliff village, wrecking accusations never proven |
+| 23 | Gullstand | **T0** | Hamlet | Valerius | Egg-harvesting from cliff colonies |
+| 24 | Netherquay | **T1** | Village | Valerius | Small port; Coastal Meridian resupply stop |
+| 25 | Palefast | **T1** | Fort | Valerius | Guards the coastal road where it narrows |
+| 26 | Widow's Reach | **T0** | Hamlet | Valerius | Named for its drowning rate. Nobody has renamed it |
+| 27 | Ashenford | **T0** | Hamlet | Corvus Scar | Abandoned in the collapse, re-occupied ~nine years ago. The ford still works, which is the whole reason |
+| 28 | Corvus Low | **T—** | Ruin | Corvus Scar | Was the duchy's second town. Ash-blighted, silent |
+| 29 | Blackrun | **T—** | Ruin | Corvus Scar | Mill village on an acidic stream; the wheel still turns |
+| 30 | Cinderhollow | **T—** | Ruin | Corvus Scar | Blight-scavenger camp; rotates crews, nobody overwinters twice |
+| 31 | The Quiet Steading | **T0** | Hamlet | Corvus Scar | **Occupied.** One family, four years in, farming a clean pocket. The most successful Scar-Holding on record → *canon: The Scar-Holders* — *mote of hope* |
+| 32 | Stiltrow | **T0** | Hamlet | Silted Marshes | Nine families, rebuilt twice a decade |
+| 33 | Fenmouth | **T1** | Village | Silted Marshes | Where marsh-guides are legally hired; Council toll post |
+| 34 | Mudgate | **T0** | Fort | Silted Marshes | Council's northern estuary claim, made physical. Barely |
+| 35 | Rushbed | **T0** | Hamlet | Silted Marshes | Reed-cutters; supplies Divtown thatch |
+| 36 | Kettle Bottom | **T0** | Hamlet | Silted Marshes | Actively sinking. Population declining by choice |
+| 37 | Nine Poles | **T0** | Hamlet | Silted Marshes | Nine stilt platforms, no land at all |
+| 38 | Reefhollow | **T1** | Village | Shield Atolls | Stilt-houses over warm reef; mixed-race, unbothered by it |
+| 39 | Two Cages | **T1** | Village | Shield Atolls | Two great fish-traps; halfling-majority |
+| 40 | Saltlight | **T0** | Hamlet | Shield Atolls | Harvests the algae for the Brine-Glow Lanterns → *canon tie* |
+| 41 | Coldmoor Cove | **T1** | Village | Shield Atolls | Northernmost atoll; whaling fleet victualler |
+| 42 | Bone Shoal | **T0** | Hamlet | Shield Atolls | Built on the petrified ribs of a war-beast → *canon tie* |
+| 43 | Concord's Third Stone | **T0** | Waystation | Ducal Concord Road | Milestone-named; Golden Company and ducal levy share it badly |
+| 44 | Darcy's Rest | **T0** | Waystation | Ducal Concord Road | Named *for* [[Jeerdan Darcy]], not *by* him. He hates it — *mote of hope* → **extension** |
+| 45 | Toll-Gallows | **T1** | Fort | Ducal Concord Road | Both functions in the name. Nobody found that funny at the time |
+| 46 | Scrapewell | **T0** | Village | Ducal Concord Road | Was *Kingswell*. The chisel marks are still visible on the well-head |
+| 47 | Marten's Cross | **T1** | Village | Ducal Concord Road | **Folk-scraped.** See lore note below |
+| 48 | Spine-Head | **T1** | Village | Jagged Spine foothills | Aqueduct source settlement → *canon: Spine Aqueduct* |
+| 49 | Cistern Camp | **T0** | Hamlet | Jagged Spine foothills | Aqueduct maintenance crews; De Vonce's quiet leverage on the Council |
+| 50 | Fallowatch | **T—** | Ruin | Jagged Spine foothills | Pre-Accord royal fort, abandoned as politically radioactive |
 
 
 ### 📌 Lore Note — Marten's Cross *(Table 2, #47)*

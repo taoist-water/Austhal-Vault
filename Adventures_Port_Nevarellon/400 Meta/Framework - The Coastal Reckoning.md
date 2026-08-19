@@ -10,11 +10,57 @@
 The calendar of the Whispering Coast. It exists because [[Religion - The pagan Pantheon and the Faith Domains|the cults]] needed a year to hang their rites on, and because a setting where debts, tolls, writs, and contracts are the primary instruments of oppression cannot function without an agreed answer to *when is it due*.
 
 It is built from three things already in canon and invents no new cosmology:
-- The moons are the corpses of secondary creator-entities — dead flesh reflecting a dying sun *(`Cosmology - The Celestial Graveyard`)*
+- The moons are the corpses of secondary creator-entities, each carrying its own soft luminous glow *(`Cosmology - The Celestial Graveyard`)*
 - **The Low Moons** are a recurring, trackable alignment, not an omen *(same)*
 - **The Winter Moons** are a season, named for moons rather than for weather *(`The Inner Sea`)*
 
 Canon had already decided the coast counts time by moons. This document does the arithmetic.
+
+---
+
+## ☀️ The Sky — What Actually Happens Up There
+
+**The sun does not move. It stops existing, and then it exists again.**
+
+It has no orbit, no arc, and no track. It fades out of material presence and fades back in, and **it does not return to the place it left.** Mortals do not know the mechanism — no living tradition on Austhal has the concept — and they do not need to, because what they observe is sufficient and unarguable: the light comes back somewhere else.
+
+Its **duration is regular**. Its **position is not**. That single asymmetry is what makes coastal civilisation possible and coastal navigation lethal.
+
+### What this costs
+
+| Lost | Because | Consequence |
+|---|---|---|
+| **East, west, and every solar bearing** | The sun rises nowhere in particular | Cardinal direction is **stellar**, never solar |
+| **Sundials, solar noon, shadow-reckoning** | Shadows point somewhere different every day | Hours are kept by bell, water-clock, and candle — all of them owned by someone |
+| **Oriented architecture** | No fixed sun-side to build toward | Streets follow water and terrain. Port Nevarellon has no grid and never could |
+| **South-facing land** | Light arrives from everywhere across a season | No sun-facing vineyards, no favoured slopes. Terracing is about drainage alone |
+
+### What remains
+
+**The moons rise and set.** Each dips below the horizon and climbs back over it on its own reliable schedule, each with its own soft glow. They are the only large moving objects in the sky that behave.
+
+**The scattered lights hold station.** When the sun has faded, the dark sky carries a scatter of small steady lights, called a dozen different things depending on who raised you. What they are is not known and not currently recorded. What matters is that **they do not move relative to one another**, and they are consistent enough to steer by. *(Naming deferred — see Open Questions.)*
+
+So: **the moons give you time, and the lights give you direction.** The sun gives you neither. It gives you warmth and the ability to see your hands, and it gives them back on no schedule anyone can defend.
+
+### Why this makes the coast dangerous
+
+Direction on Austhal requires a clear sky. Overcast means **lost** — not delayed, lost. On a storm-lashed coast fringed by marsh fog, that is not an edge case; it is the ordinary condition of half the year.
+
+This is the structural reason that:
+- **Marsh-guides are a profession** rather than a convenience, and why hiring one at Fenmouth is legally mandated rather than merely sensible
+- **The [[Silted Marshes]] kill people who are not incompetent.** A shifting channel network with no directional reference under cloud is a maze that rearranges itself
+- **[[Captain Haren Twarde]] began as a conscripted navigator** and that was an elite technical post, not a menial one. Reading the fixed lights through broken cloud is a rare and valuable skill, and it is why she could take a ship
+- **Master Cartographer Vaelen's** work is genuinely hard. He is mapping a world with no solar reference, in which every bearing on every chart traces back to lights nobody can explain
+- **The Tidespoken tide-tables** are trusted over the Council's civil roll by every harbour pilot in the city. The clergy read the moons. The clerks read a calendar
+
+### The theological weight
+
+The sun does not rise. **It comes back.**
+
+To every faith on the coast, and to a great many people with no faith at all, this is the plain daily fact of existence: the light went out, and it was under no obligation to return, and it did. Nobody has ever been owed a morning. Fifty-eight years of Accord, a hundred generations of settlement, and an entire dead pantheon rotting in the sky — and the reprieve has arrived every single time so far.
+
+That is the setting's whole thesis, written into its physics. It is also why the **Low Moons** frighten people at a level below argument. For nine to twelve nights, the only things in the sky that have ever kept their promises are visibly behaving wrong.
 
 ---
 
