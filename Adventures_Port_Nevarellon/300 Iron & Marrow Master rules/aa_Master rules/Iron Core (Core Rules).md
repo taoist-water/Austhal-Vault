@@ -12,7 +12,7 @@
 - Locked Stress paid for a Miracle that is currently **Flowing**, or committed to an item's Attunement (see Hardware: Enchantments), cannot be targeted by the Reprieve or Religious Pursuit. It releases only when the Miracle ends or the item is deliberately unattuned. Locked Stress from a Miracle that has already resolved is clearable by the normal routes. Arcane **Sustain** commits no Locked Stress at all and is never subject to this rule.
 - Situational Modifiers are applied at GM’s discretion, +2, -2, -4.
 - Advantage and Disadvantage do not stack. If you have multiple sources of Disadvantage, you still only roll 1 extra die and drop the highest. If you have both Advantage and Disadvantage, they cancel each other out entirely.
-- Wounds Threshold Bypassing effects cannot target creatures of Scale +3 or higher without a weapon carrying Heavy or Siege.
+- Wounds Threshold Bypassing effects cannot target creatures of Scale +3 or higher without a weapon carrying Devastating or Siege.
 
 # Dice Mechanics
 
