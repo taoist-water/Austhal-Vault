@@ -142,12 +142,12 @@ Because modifiers are bounded, monsters are categorized by how they interact wit
 - **Elite:** Almost equivalent to the characters capabilities, very challenging. Built to be a few advances ahead of the characters at all times.
 	-  2 - 3 Traits. 1 - 2 Threat Abilities. vessel limit 2 - 3.  3 - 4 wounds. stress as core rule defined +1.
     
-    - _Example (Cultist Assassin — currently under the new budget floor, flagged for a rebuild in the Bestiary):_ Reflex +3, Wits +1 | Melee +2, Dodge +1, Stealth +1. _(Strikes at +2, Dodges at +4, Stealths at +4. Brawn/Prowess is +0)._
+    - _Example (Cultist Assassin):_ Melee +2, Dodge +4, Stealth +4, Notice +1. _(Strikes at +2, Dodges at +4, Stealths at +4. Prowess is +0)._
         
 - **Dread Entities / Bosses (The Behemoths):** These are terrifying, almost mechanical monstrosities or apex predators. Built to rival a highly optimized player. Attributes can exceed +3.
 	- 2 - 4 Traits. 3+ Threat Abilities. vessel limit 2 - 4. 4+ wounds. stress as core rule defined + 2
     
-    - _Example (Arch-Devil Malaphar):_ Brawn +4, Will +3, Wits +2 | Melee +4, Arcana +3, Resolve +3. _(Strikes at +8, casts at +5, resists mental magic at +6. Still has a +0 in Reflex).
+    - _Example (Arch-Devil Malaphar):_ Melee +7, Arcana +4, Resolve +4. _(Strikes at +7, casts at +4, resists mental magic at +4. Still has a +0 in Reflex).
 
 **Point budgets for all four tiers now live in one place only: the Bestiary's "Enemy Budget by Party Standing" table (Core Integration Rules).** They scale by the party's current Standing rather than being a flat number, so a copy here would just be another place for the two documents to drift out of sync the next time the numbers get retuned — exactly the propagation problem flagged repeatedly on this project. Look the numbers up there; this doc keeps the role descriptions and worked examples since those don't change with Standing.
 

@@ -14,7 +14,7 @@
 - Derived stats:
     
     - Wound Threshold: 4 (4 + Brawn 0 + Armor 1 + Scale −1)
-    - Stress Limit: 4 (4 + Will 0 + Wits 1 + Scale −1)
+    - Stress Limit: 5 (4 + Will 0 + Wits 1 — Halflings are exempt from the Scale Stress penalty)
     - Momentum Bank: 7 (4 + Reflex 3)
     - Activation Order: 12 (6 + Reflex 3, +3 Quick)
 - Feats:
@@ -22,7 +22,7 @@
     - Quick — +3 to your Activation Order.
     - Shadow-Weaver — Ignores the Rushed Stealth penalty for moving quickly while hidden.
     - Parasitic Momentum (Cutthroat, Tier 2) — When an enemy within 30 ft rolls a Fumble, instantly bank 1 Momentum.
-- Species Details: Underfoot (Advantage on Stealth with cover/obscurement/moving through larger creatures' space); Halfling Luck (once/session, ignore a Fumble's Stress penalty); Small Stature (cannot wield Heavy weapons — irrelevant here).
+- Species Details: Underfoot (Advantage on Stealth with cover/obscurement/moving through larger creatures' space); Halfling Luck (once/session, ignore a Fumble's Stress penalty); Small Stature (cannot wield weapons carrying the Cumbersome tag — irrelevant here; also exempt from the Scale −1 Stress Limit penalty, see The Marrow).
     
 - Equipment:
     
@@ -30,7 +30,7 @@
     - Leather Armor (+1 Armor, Light).
     - **Starting Purse: 80 sp** — Twin Daggers 10 + Leather 12 = **22 sp spent, 58 sp remaining** at creation. Lockpicks, a grapple and line, chalk, and a working float she has been careful not to spend down.
     - **Acquired in play (Milestone 1):** main-hand dagger fitted with **Cold Iron Weapon** (Charmed, 25 sp, no Attunement): Bane (Fey, Daemon). Leather fitted with **Whisper-Kissed Leathers** (Enchanted, 1 Locked Stress Attunement) — see below. *Neither could have been bought at creation: enchanted gear of any tier is barred at Green (see The Starting Purse, The Marrow). Both came off the job that earned her first Milestone, which is the only way onto the sheet and a better story besides.*
-- Spell list: N/A (non-caster). Wound Slots: [ ][ ][ ] (3) Stress Track (Limit 4): [/][ ][ ][ ] — 1 box permanently Locked to Attunement. Momentum (max 7): [ ] Inventory Slots = 8 (8 + Brawn 0)
+- Spell list: N/A (non-caster). Wound Slots: [ ][ ][ ] (3) Stress Track (Limit 5): [/][ ][ ][ ][ ] — 1 box permanently Locked to Attunement. Momentum (max 7): [ ] Inventory Slots = 8 (8 + Brawn 0)
 
 - Combat Math Quick-Ref: Dagger Strike 2d6+1 | Dodge 2d6+2 | Stealth 2d6+3 | Thievery 2d6+2 | Activation Order 12
     
@@ -138,14 +138,14 @@ Arcane Clash/Manifestation 2d6+3 | Dagger Strike 2d6+0 *(Melee 0; Finesse lets h
 - **Attributes:** Brawn 0 | Reflex 3 | Wits 1 | Will 0 *(Spike array)*
 - **Skills:** Ranged 3 | Stealth 2 | Acrobatics 1 | Notice 1 | Thievery 1 *(8 ranks, 8 DP. Ceilings: Ranged/Stealth/Acrobatics/Thievery 6 (Reflex 3); Notice 4 (Wits 1))*
 - **Wound Threshold:** 4 *(4 base + 0 Brawn + 1 Leather - 1 Scale)*
-- **Stress Limit:** 4 *(4 base + 1 Wits + 0 Will - 1 Scale)*
+- **Stress Limit:** 5 *(4 base + 1 Wits + 0 Will — Halflings are exempt from the Scale Stress penalty)*
 - **Wound Slots:** 3 | **Momentum Bank:** 7 *(4 + Reflex 3)* | **Activation Order:** 12 *(6 + Reflex 3, +3 Quick)*
 - **Inventory Slots:** 8 *(8 + 0 Brawn)*
 
 ### Species Traits (Halfling)
 - **Underfoot:** Advantage on Stealth with cover, obscurement, or moving through a larger creature's space.
 - **Halfling Luck:** Once per session, ignore a Fumble's Stress penalty entirely (the action still fails).
-- **Small Stature (Drawback):** Cannot wield Heavy weapons. (Shortbow carries no Heavy tag, so this is legal.)
+- **Small Stature (Drawback):** Cannot wield weapons carrying the Cumbersome tag. (Shortbow isn't Cumbersome, so this is legal.) Also exempt from the Scale −1 Stress Limit penalty, see The Marrow.
 
 ### Feats
 - **Quick** *(Reflex 1)*: +3 to your Activation Order — shoot and reposition before melee closes the gap.
@@ -409,8 +409,8 @@ Both Milestones went to Feats, so his Skill total never moved off its creation-d
 |---|---|---|---|
 | Helga (Green, Spike) | Tithe of Will 2d6+3 | Faith 6 | WT 8 / Stress 9 / Momentum 4 |
 | Faelan (Green, Spike) | Arcana 2d6+3 | Arcana 6 | WT 4 / Stress 7 / Momentum 5 |
-| Pillit (Green, Spike) | Ranged 2d6+3 | Ranged 6 | WT 4 / Stress 4 / Momentum 7 |
-| Wren (Blooded, Spike) | Stealth 2d6+3 | Stealth 6 | WT 4 / Stress 4 / Momentum 7 |
+| Pillit (Green, Spike) | Ranged 2d6+3 | Ranged 6 | WT 4 / Stress 5 / Momentum 7 |
+| Wren (Blooded, Spike) | Stealth 2d6+3 | Stealth 6 | WT 4 / Stress 5 / Momentum 7 |
 | Ox (Hardened, Spike) | Melee 2d6+4 | Melee 6 | WT 9 / Stress 9 / Momentum 4 |
 | Morwenna (Hardened, Spike) | Arcana 2d6+4 | Arcana 6 | WT 4 / Stress 9 / Momentum 4 |
 | Perpetua (Hardened, Spike) | Tithe of Will 2d6+4 | Faith 6 | WT 7 / Stress 9 / Momentum 3 |

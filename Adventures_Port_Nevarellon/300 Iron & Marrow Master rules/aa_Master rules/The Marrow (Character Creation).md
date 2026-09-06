@@ -85,7 +85,7 @@ _Possessing the ambition of humans and the grace of elves, Half-Elves are charis
     
 -  Halfling Luck: Once per session, a Halfling may completely ignore the mechanical effects of a Fumble (Snake Eyes). They still fail the action, but they do not take the Stress penalty.
     
--  Small Stature (Drawback): They physically cannot wield Heavy Weapons.
+-  Small Stature (Drawback): They physically cannot wield weapons carrying the Cumbersome tag. Unlike other Small-Scale creatures, this does not extend to the standard Scale −1 penalty to Stress Limit (Metal meet Flesh) — a Halfling's nerve holds up regardless of size.
     
 -  Playstyle: Stealthy opportunists who excel at avoiding the brutal consequences of the system's lethal dice spikes.
 
