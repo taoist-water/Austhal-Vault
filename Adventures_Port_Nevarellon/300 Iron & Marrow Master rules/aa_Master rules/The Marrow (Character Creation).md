@@ -52,9 +52,9 @@ _Possessing the ambition of humans and the grace of elves, Half-Elves are charis
 
 - **Size:** Standard
 - **Move Value:** 30 ft/6 squares
-- **Silver-Tongued:** Half-Elves have a supernatural knack for reading a room. They gain Advantage on Will + Influence checks when trying to persuade, de-escalate a fight, negotiate, or gather information.
+- **Silver-Tongued:** Half-Elves have a supernatural knack for reading a room. They gain Advantage on Influence checks when trying to persuade, de-escalate a fight, negotiate, or gather information.
 - **Split Heritage:** They may choose either the Human's Adaptable trait (1 extra Skill Point) or the Elf's Fey Reflexes trait (Advantage to dodge hazards) — and inherit that race's paired drawback along with it. Choosing Adaptable also imposes **Steady, Not Sharp** (Momentum Bank cap - 1); choosing Fey Reflexes also imposes **Hollow-Boned** (-1 Wound Threshold). You cannot take the trait without its cost — that cost is what the source race actually paid for it.
-- **Between Worlds (Drawback):** Half-Elves suffer Disadvantage on Wits + Influence checks when dealing with an insular or homogeneous community that has had little contact with outsiders — an isolated Elven enclave, a xenophobic frontier hamlet, a closed guild.
+- **Between Worlds (Drawback):** Half-Elves suffer Disadvantage on Influence checks when dealing with an insular or homogeneous community that has had little contact with outsiders — an isolated Elven enclave, a xenophobic frontier hamlet, a closed guild.
 - **Playstyle:** The ultimate face characters and versatile support pieces — everywhere except the one room that's never trusted an outsider.
 
 **Half-Orc (The Relentless Brutes)**
@@ -67,7 +67,7 @@ _Possessing the ambition of humans and the grace of elves, Half-Elves are charis
     
 - Blood Frenzy: When a Half-Orc suffers a Wound, the adrenaline spikes. They immediately clear 1 Dissonant Stress. (This creates a terrifying dynamic where injuring them clears their panic and focuses their rage).
     
--  Menacing: Half-Orcs gain Advantage on Will + Influence checks, when attempting to intimidate anyone smaller or weaker than them.
+-  Menacing: Half-Orcs gain Advantage on Influence checks, when attempting to intimidate anyone smaller or weaker than them.
     
 - Outcast (Drawback): They face deep-seated prejudice. They suffer Disadvantage on Social/Persuasion checks when dealing with civilized strangers who don't know them.
     
@@ -81,7 +81,7 @@ _Possessing the ambition of humans and the grace of elves, Half-Elves are charis
     
 - Move Value : 30 ft/6 squares
     
--  Underfoot: Because of their size, Halflings gain Advantage on Reflex + Stealth checks as long as they have cover, obscured, or are moving through the space of larger creatures.
+-  Underfoot: Because of their size, Halflings gain Advantage on Stealth checks as long as they have cover, obscured, or are moving through the space of larger creatures.
     
 -  Halfling Luck: Once per session, a Halfling may completely ignore the mechanical effects of a Fumble (Snake Eyes). They still fail the action, but they do not take the Stress penalty.
     
@@ -110,7 +110,7 @@ _Elves are attuned to magic and the natural world. They are blindingly fast and 
     
 - Stone-Bones: Dwarves are incredibly dense. Their base Wound Threshold is increased by +1. (This is huge in this system, effectively granting them the hardiness of a higher Brawn score without breaking the Attribute cap).
     
-- Subterranean Senses: Dwarves gain Advantage on Wits + Notice checks while underground, or when examining stonework/engineering.
+- Subterranean Senses: Dwarves gain Advantage on Notice checks while underground, or when examining stonework/engineering.
     
 - Stumpy (Drawback): Their short legs make open-ground sprints difficult. They suffer Disadvantage on Athletics checks during chases or when trying to sprint across open battlefields.
     
@@ -206,7 +206,7 @@ something you start at. A creation character who spends 6 of 8 points
 reaching Rank 5 is a genuine prodigy with almost nothing else to their name.
 
 The nine Skills under Brawn and Reflex are collectively the Physical Skills.
-Rules that reference Physical Skills (Perfect Sequence, Sunder) mean these.
+Rules that reference Physical Skills (Sunder) mean these.
 #### Brawn Skills
 
 - Melee: Close-quarters combat, from greatswords to brawling.
@@ -414,7 +414,7 @@ ______________________________________________________________________
     
 - The best secrets are the ones people think they are keeping.
     
-- Mechanic: You excel at gathering intel from the shadows. As long as you remain successfully hidden, you gain Advantage on Wits + Notice checks to eavesdrop, read lips, or observe minor details without breaking your cover.
+- Mechanic: You excel at gathering intel from the shadows. As long as you remain successfully hidden, you gain Advantage on Notice checks to eavesdrop, read lips, or observe minor details without breaking your cover.
 
 ## Tier 2 Tactical Momentum
 
@@ -472,7 +472,7 @@ ______________________________________________________________________
     
 - Spiral out and over-analyze the chaos of the battlefield.
     
-- Mechanic: When you perform the Tactical Assessment action (2d6 + Wits + Skill), a successful check allows you to bank 2 Momentum instead of 1. However, the mental friction of processing that much combat data instantly inflicts 1 Dissonant Stress.
+- Mechanic: When you perform the Tactical Assessment action (2d6 + Skill), a successful check allows you to bank 2 Momentum instead of 1. However, the mental friction of processing that much combat data instantly inflicts 1 Dissonant Stress.
 
 **Midnight Oil**
 

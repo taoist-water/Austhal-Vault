@@ -34,11 +34,6 @@
 - **Snake Eyes (natural 2):** Automatic failure. The character immediately suffers 1 Stress, and additional contextual penalties.
 - **Desperate Edge (a single natural 6):** When exactly one of the two dice in a 2d6 check shows a 6, the roller may treat that die as exploding: roll one additional d6 and add it to the total. Unlike Fates' Bounty (which triggers on *both* dice showing 6 and immediately grants an extra full die with no further conditions), Desperate Edge triggers on rolling a single 6 **only while the character is in a qualifying desperate state** — at half or more of their Stress Limit in Dissonant Stress, at their final Wound Slot, or under a specific feat/spell that explicitly lowers the threshold (such as *Embrace the Void*, which extends this to natural 5s as well). Outside a qualifying desperate state, a lone natural 6 is just a 6 — solid, unremarkable, no explosion.
 
-- [dev note] Perfect Sequence (Universal Combat Rule): If a Melee, Ranged,
-Athletics, Acrobatics, Block, Prowess, Stealth, Thievery or Ride check
-results specifically in a 3 and a 4 (creating a natural 7), the character
-achieves "Perfect Form"... [/dev note]
-
 ## The Margin-Focused Resolution (Unopposed Checks)
 
 Instead of artificially inflating the Target Number to combat high modifiers, we accept that highly skilled characters will succeed at standard tasks. The dice roll dictates the collateral damage, the speed, or the Momentum generated.

@@ -412,7 +412,7 @@ These variations add specific situational tactical tools to the baseline weapon 
 - Cost: 45 sp | Availability: Scarce
 - Stats: Power 2 | 1H | 5 ft Threat
 - Tags: Precise, Armor-Piercing
-- 2d6 Special Rule: Designed specifically to pass between armor plates. If the Attack roll is a Perfect Form (rolling a natural 3 and 4 on the Clash check), this weapon completely ignores all physical Armor values and structural damage reduction, applying its full Impact raw to the Wound Threshold.
+- 2d6 Special Rule: Designed specifically to pass between armor plates. When a natural 3 and 4 are rolled on the Attack roll, this weapon completely ignores all physical Armor values and structural damage reduction, applying its full Impact raw to the Wound Threshold.
 
 #### The Barbed Spear
 
