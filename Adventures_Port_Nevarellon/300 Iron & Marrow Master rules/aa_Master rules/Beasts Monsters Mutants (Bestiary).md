@@ -55,11 +55,11 @@ The logic behind each column:
 | Frost-Cave Troll | Elite | 10 | 9–12 | in band |
 | Cultist Assassin | Elite | 11 | 9–12 | in band |
 | Rotting Fen-Goliath | Elite | 11 | 9–12 | in band |
-| The Barrow-Fang | Dread | 8 | 13–17 | **under floor** |
+| The Barrow-Fang | Elite | 9 | 9–12 | in band |
 | Arch-Devil Malaphar | Boss | 15 | 13–17 | in band |
 
 - **Cultist Assassin** was previously flagged as needing a rebuild for falling under the Elite floor. It no longer does. The flag was an artefact of the old metric double-counting a shared Attribute: its Reflex +3 was propping up both Dodge and Stealth but only counted once. At 11 Skill points it sits comfortably mid-band, and its Traits and Threat Abilities were correctly tuned all along. **No rebuild required — flag withdrawn.**
-- **The Barrow-Fang** is the roster's real outlier at 8 Skill points against a Dread floor of 13. It was never checked against the old table either, so this is a pre-existing gap the recalibration surfaced rather than caused. Its phase structure and Threat suite carry more of its threat than its raw numbers do, so this may be a deliberate design that the budget simply doesn't capture — but a Dread that rolls worse than three of the four Elites is worth a deliberate decision rather than an accident. Flagged for its own pass.
+- **The Barrow-Fang** was mislabeled Dread in this table — its own statblock reads Tier: Elite, and its build (3 Traits, 2 Threat Abilities, Vessel Limit 2) matches Elite's spec, not Dread/Boss's 3+ Threat Ability minimum. Measured against the correct Elite floor it was short by 1 Skill point (8 vs. 9); Notice raised from +1 to +2 closes that gap. No rebuild needed once the tier label itself is fixed.
 - **Arch-Devil Malaphar** carries an internal contradiction predating this conversion: an earlier worked example in this section cited Melee +4 / Resolve +3 (old Attribute+Skill notation), and an earlier statblock revision had Melee +3 / Resolve +1. Both are superseded — the current statblock reads Melee +7 / Arcana +4 / Resolve +4, which is what a GM actually runs. At 15 Skill points he sits at the top of the Green Dread band and inside every later row through Veteran. Against a Hardened or Storied party he is under-budgeted and would need a pass.
 
 - **Fodder:** 1 - 2 Traits. 1 Threat Abilities. 
@@ -327,7 +327,7 @@ __________________________________________________________________
 - **Type:** Lycanthrope, Humanoid
 - **Size:** Large (Scale +1)
 - **Attributes (derived only):** Brawn 2, Reflex 2 → Wound Threshold 8, Activation Order 8 _(Wits and Will are zero — whatever reasoned it out died the first time it changed.)_
-- **Skills:** Melee +4, Dodge +3, Notice +1 _(Assumed Zero: everything else.)_
+- **Skills:** Melee +4, Dodge +3, Notice +2 _(Assumed Zero: everything else.)_
 - **Derived stats:**
     - Wound Threshold: **8** _(4 + Brawn 2 + Scale +2)_
     - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite)_

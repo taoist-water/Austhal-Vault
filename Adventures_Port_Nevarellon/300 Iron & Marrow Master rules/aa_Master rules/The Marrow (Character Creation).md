@@ -1022,15 +1022,15 @@ Every 2 to 3 sessions, the GM awards the party a Milestone Reward of 3 Developme
 	- Horizontal development: costs 3 DP  to gain a new feat, as long as the prerequisites are met.
 
 5. Learn New Faith Spells
-	- Cannot learn Prayers from outside your Chosen Cult/Domain.
+	- Cannot learn Prayers from outside your Chosen Cult/Domain. *(Deliberate: the ability to enact miracles comes from rigorous devotion to a single ideology. The Common Miracle list lets any Priest mix in some breadth without breaking that theme; a character who wants full cross-Domain access takes the Heretic's Path over the Covenant at Divine Conduit instead — every Domain's list, paid for with permanent Disadvantage on the Tithe of Will.)*
 	- Novice Miracle = 2 DP
-	- Adept = 3 DP
-	- Master = 4–5 DP
+	- Adept = 3 DP (requires Faith 2+)
+	- Master = 4–5 DP (requires Faith 3+)
 	
 6. Learn New Arcane Spells
 	-  Novice Miracle = 2 DP
-	- Adept = 3 DP
-	- Master = 4–5 DP
+	- Adept = 3 DP (requires Arcana 2+)
+	- Master = 4–5 DP (requires Arcana 3+)
 	- Spells from outside your chosen Paradigm cost double.
 
 _____________________________________________________________________
