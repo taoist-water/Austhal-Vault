@@ -24,7 +24,7 @@ A Playtest Log checklist is at the end — fill it in as things happen, not from
 
 ## Scene 1 (Cold Open): The Ledger House
 
-The party stakes out and infiltrates the warehouse. Run this as standard Stealth/Thievery play — Passive Notice (7 + Wits + Notice) vs. the party's Stealth (2d6 + Reflex + Stealth) for any watchmen or hired hands on site, opposed Notice/Stealth for the guards inside.
+The party stakes out and infiltrates the warehouse. Run this as standard Stealth/Thievery play — Passive Notice (7 + Notice) vs. the party's Stealth (2d6 + Stealth) for any watchmen or hired hands on site, opposed Notice/Stealth for the guards inside.
 
 In the back office or under a false floor, the party finds the real prize: a sealed strongroom built into the family's private crypt, guarded by a construct.
 
@@ -39,7 +39,7 @@ In the back office or under a false floor, the party finds the real prize: a sea
 - **Skills:** Melee +2 *(Strikes at +2; Brawn assumed zero)*
 - **Derived Stats:** Wound Threshold **4** (4 base + Brawn 0) | Wound Slots: 2 | Stress Limit: 4 (4 + Will 0 + Wits 0)
 - **Equipment:** Ancient bone blade (Power 2)
-- **Traits (1):** **Fear Inducing** *(existing trait — anyone engaging it or activating within line of sight rolls Will + Resolve vs. TN 8 or gains the Fear condition)*
+- **Traits (1):** **Fear Inducing** *(existing trait — anyone engaging it or activating within line of sight rolls Resolve vs. TN 8 or gains the Fear condition)*
 - **Vessel Limit:** 1
 - **Threat Abilities (1):**
   - **Cost 1 Threat — Grinding Assault:** *Trigger:* Declared on a successful Melee Clash. *Effect:* This Strike gains the **Cleave** tag (per Hardware), catching an adjacent ally in the same roll.
@@ -65,14 +65,14 @@ Whichever comes first — a loud Grave-Warden fight, a failed Stealth roll, or a
 Built entirely from existing tools — no new subsystem. The Watch's job is to be evaded or outrun, not fought to the death; a stand-and-fight is possible but should carry a cost the players feel later (reputation, bounty, more Watch), not just XP.
 
 ### Stage 0 — Unaware
-Standard opposed check: Passive Notice (7 + Wits + Notice) or an active Notice roll vs. the party's Stealth (2d6 + Reflex + Stealth).
+Standard opposed check: Passive Notice (7 + Notice) or an active Notice roll vs. the party's Stealth (2d6 + Stealth).
 
 ### Stage 1 — Alerted
 Triggered by a failed Stealth check, a loud fight, or Catastrophic Exposure. A whistle or bell sounds. No stat block appears yet. **Mechanical effect:** every further Stealth attempt this scene takes the existing **Difficult (-2) Situational Modifier** — patrols are now actively listening, not idly patrolling.
 
 ### Stage 2 — Pursuit
 The Sergeant and 2 Patrolmen physically close in.
-- Each round the party is fleeing, call for **Brawn + Athletics** or **Reflex + Acrobatics** (TN 8) to gain ground.
+- Each round the party is fleeing, call for **Athletics** or **Acrobatics** (TN 8) to gain ground.
 - If the Watch has crossbows loosed to suppress rather than kill, a failed check applies the existing **Suppressed** condition (Disadvantage on anything but Attack/Block/Brace/Regroup, +1 Dissonant Stress) instead of a Wound.
 - If the party turns to fight, resolve normally with the stat blocks below — it should be short.
 
@@ -104,7 +104,7 @@ The party's escape route — the smugglers' sewer route one PC knows — runs di
 - **Unaware or failed-Notice targets:** standard **Hazard Roll** (2d6 + Hazard Power 3), compared directly against the target's Wound Threshold like a Strike, per the existing Trap Resolution rules. Anyone caught unaware cannot add Shield Value or Parry.
 - **Anyone swept under** (whether they took a Wound from the initial surge or not) immediately gains the **Drowned** condition:
   - Disadvantage on all rolls; 1 Dissonant Stress at the start of each turn.
-  - Clears via Brawn + Athletics (TN 8) — self or an adjacent ally spending an Action — or by being physically pulled out of the water.
+  - Clears via Athletics (TN 8) — self or an adjacent ally spending an Action — or by being physically pulled out of the water.
 
 ### The Complication
 

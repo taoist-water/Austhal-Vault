@@ -368,7 +368,7 @@ _______________________________
     
     - **Cost 1 Threat - Furnace Rebuke:** _Trigger:_ Declared when Malaphar wins a Clash as the Reactor (Defense). _Effect:_ The Sovereign deflects the player's blow with such friction that the player's weapon or hands burst into flames. The player instantly gains the Ablaze condition.
         
-    - **Cost 2 Threat - The Devil's Mandate:** _Trigger:_ Declared as a Free Action on Malaphar's turn. _Effect:_ Malaphar speaks a word of absolute authority, targeting one player. That player must pass a TN8 will + resolve check at -2, OR drop to their knees in submission (gaining the Prone and Anchored conditions).
+    - **Cost 2 Threat - The Devil's Mandate:** _Trigger:_ Declared as a Free Action on Malaphar's turn. _Effect:_ Malaphar speaks a word of absolute authority, targeting one player. That player must pass a TN 8 Resolve check at -2, OR drop to their knees in submission (gaining the Prone and Anchored conditions).
         
     - **Cost 3 Threat - Lair Action (Gehenna's Grip):** _Trigger:_ Declared at the absolute start of a combat round. _Effect:_ The veil tears, and chains of molten iron erupt. Every player must make an immediate, unopposed Melee or Dodge check against TN 8. Failure means they are violently dragged 10 feet toward Malaphar.
         

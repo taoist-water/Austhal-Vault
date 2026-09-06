@@ -302,7 +302,7 @@ ______________________________________________________________________
     
 - You know who breaks first.
     
-- Mechanic: When you first enter a tense social situation, you may use a Free Action to roll Wits + Insight against a baseline TN 8. On a success, the GM reveals which NPC in the room has the lowest Resolve score, and you gain Advantage (roll 3d6, keep the highest two) on your first Influence check against them.
+- Mechanic: When you first enter a tense social situation, you may use a Free Action to roll Insight against a baseline TN 8. On a success, the GM reveals which NPC in the room has the lowest Resolve score, and you gain Advantage (roll 3d6, keep the highest two) on your first Influence check against them.
 
 **Dung-Healer's Salve**
 
@@ -585,7 +585,7 @@ ______________________________________________________________________
     
 - You can reach out and unravel the magic of others.
     
-- Mechanic: When an enemy within 30 feet attempts to cast an Arcana or Faith spell (even if you are not the target), you may spend 1 Momentum to unweave it. You roll an opposed Wits + Arcana check against their casting roll, and if you win, the spell is entirely shattered before it takes effect. If you win by a Margin of 5 or more, you also absorb the ambient magic, instantly restoring 1 Stress to yourself.
+- Mechanic: When an enemy within 30 feet attempts to cast an Arcana or Faith spell (even if you are not the target), you may spend 1 Momentum to unweave it. You roll an opposed Arcana check against their casting roll, and if you win, the spell is entirely shattered before it takes effect. If you win by a Margin of 5 or more, you also absorb the ambient magic, instantly restoring 1 Stress to yourself.
 
 **Zeal**    
 
@@ -627,7 +627,7 @@ ______________________________________________________________________
     
 - You refuse to die quietly on their terms.
     
-- Mechanic: You do not go down quietly. If you take a Wound that would cause you to become incapacitated, you may immediately spend 1 Momentum to make a final Will + Resolve check. On a success, you remain conscious and standing for exactly one more turn, allowing you to make a final, heroic action before you collapse.
+- Mechanic: You do not go down quietly. If you take a Wound that would cause you to become incapacitated, you may immediately spend 1 Momentum to make a final Resolve check. On a success, you remain conscious and standing for exactly one more turn, allowing you to make a final, heroic action before you collapse.
 
 **Embrace the Void**
 
@@ -861,7 +861,7 @@ Focused on psychological warfare, weaponizing the Momentum of a crowd, and manip
     
 - You narrate their inevitable doom until their mind simply accepts it.
     
-- Mechanic: You may spend 2 Momentum to target one enemy within 30 feet who can hear and understand you. Instead of an Aggressor action, you roll an opposed Will + Influence check against their Will + Resolve. On a Massive Success (a Margin of 5+), you completely shatter their psychological fortitude to absorb kinetic trauma. Their Wound Threshold is permanently reduced by 2 for the remainder of the encounter.
+- Mechanic: You may spend 2 Momentum to target one enemy within 30 feet who can hear and understand you. Instead of an Aggressor action, you roll an opposed Influence check against their Resolve. On a Massive Success (a Margin of 5+), you completely shatter their psychological fortitude to absorb kinetic trauma. Their Wound Threshold is permanently reduced by 2 for the remainder of the encounter.
 
 
 **The Inquisitor (Paladin Archetype)**
@@ -874,7 +874,7 @@ Focused on weaponized dogma, absolute punishment, and crushing the enemy under t
     
 - Your judgment is a physical anchor dragging them down.
     
-- Mechanic: When you win a Clash against an enemy who has inflicted a Wound on an ally during the current scene, you may immediately spend 1 Momentum. The target must pass an opposed Will + Resolve check against your Will + Faith. If they fail, their nervous system locks up in terror, instantly inflicting the Anchored condition until they can break free on their next activation.
+- Mechanic: When you win a Clash against an enemy who has inflicted a Wound on an ally during the current scene, you may immediately spend 1 Momentum. The target must pass an opposed Resolve check against your Faith. If they fail, their nervous system locks up in terror, instantly inflicting the Anchored condition until they can break free on their next activation.
     
 
 **Penance Engine (Tier 3)**    

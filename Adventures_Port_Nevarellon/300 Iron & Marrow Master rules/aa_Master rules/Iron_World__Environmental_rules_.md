@@ -60,7 +60,7 @@ ________________________________________________________________________
 
 High Fantasy heroes journey across brutal landscapes. In this system, the environment attacks your Stress track before it attacks your Wounds.
 
-- *The Mechanic:* When facing severe conditions (a blizzard, a scorching desert, freezing water), the GM calls for a Hazard Check—usually 2d6 + Wits + Survival to navigate it safely, or Brawn + Athletics to physically endure it against TN 8.
+- *The Mechanic:* When facing severe conditions (a blizzard, a scorching desert, freezing water), the GM calls for a Hazard Check—usually 2d6 + Survival to navigate it safely, or 2d6 + Athletics to physically endure it, against TN 8.
     
 - *The Cost of Failure:* Failing a Hazard check inflicts 1d6 Locked Stress (or more, depending on severity).
     
@@ -136,7 +136,7 @@ NPCs have four basic social stances, forming a single ladder: **Hostile → Unfr
 - **Neutral:** No strong opinion either way. The default starting state for anyone the party hasn't meaningfully interacted with.
 - **Friendly:** Genuinely won over. Will help, vouch, take modest risks on the party's behalf.
 
-**The Mechanic:** To change an NPC's stance or convince them to do something risky, roll an opposed check: **2d6 + Will + Influence vs. 2d6 + Will + Resolve.**
+**The Mechanic:** To change an NPC's stance or convince them to do something risky, roll an opposed check: **2d6 + Influence vs. 2d6 + Resolve.**
 
 - **Standard Success (Margin 0–4):** Shift the NPC's stance **one step** toward the direction you were pushing (e.g., Hostile → Unfriendly, or Neutral → Friendly). Alternatively, if not attempting a stance shift, they agree to a request that doesn't put them in immediate danger.
     

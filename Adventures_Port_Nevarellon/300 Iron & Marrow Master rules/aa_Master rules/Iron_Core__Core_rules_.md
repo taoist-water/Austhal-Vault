@@ -69,7 +69,7 @@ The Winded Penalty: Passive Notice stands in for a roll, not an exemption from o
 
 Resolution Modes:
 
-Opposed (detecting a person): Compare Passive Notice directly against the sneaking creature's Stealth roll (2d6 + Reflex + Stealth), or against a fixed Concealment Rating. This mirrors the existing Illusion/Disguise pattern of comparing a static value against a banked roll or Margin.
+Opposed (detecting a person): Compare Passive Notice directly against the sneaking creature's Stealth roll (2d6 + Stealth), or against a fixed Concealment Rating. This mirrors the existing Illusion/Disguise pattern of comparing a static value against a banked roll or Margin.
 Unopposed (detecting a hazard or feature): Passive Notice + Situational Modifier vs. TN8 flat.
 This mechanic resolves the Aware/Unaware fork in Iron World's Hazard Roll, the Bestiary's Ambusher trait, and the Cultist Assassin's Vanish ability — see those entries for specific application.
 
@@ -299,9 +299,9 @@ ________________________________________________________________________
     
 - *Fatigued:* Gain 1 Locked Stress. If a circumstance causes an additional instance of this condition, gain another locked Stress. If at the stress limit, no more locked stress can be assigned. This condition can only be cleared by a full night's rest or magical Restoration.
     
-- *Terrified:* Your mind is clouded by panic. 1 stress is locked. You cannot spend Momentum for any reason. You must spend your turn running away from the object/being causing the Terror, fleeing until you can hide, or break the complete line of sight. When out of sight or hidden from the object/entity you can take a  Will + Resolve check to shake the condition.
+- *Terrified:* Your mind is clouded by panic. 1 stress is locked. You cannot spend Momentum for any reason. You must spend your turn running away from the object/being causing the Terror, fleeing until you can hide, or break the complete line of sight. When out of sight or hidden from the object/entity you can take a Resolve check to shake the condition.
     
-- *Fear:* 1 stress is locked, until fear condition is lost. Has disadvantage against the object/being causing the Fear condition. must Pass a Will + Resolve check to make Attack actions or interact with the object/being causing the fear. cleared by taking the regroup action when out of sight or has cover from the object/enemy causing fear.
+- *Fear:* 1 stress is locked, until fear condition is lost. Has disadvantage against the object/being causing the Fear condition. must Pass a Resolve check to make Attack actions or interact with the object/being causing the fear. cleared by taking the regroup action when out of sight or has cover from the object/enemy causing fear.
     
 - *Distracted:* suffer a - 1 to rolls until next activation, then lose the condition.
     
@@ -354,7 +354,7 @@ _The lungs burn, the light above the surface gets smaller, and the pressure keep
     
 - **The Engine Interaction:** Slower and quieter than Ablaze's clock, but just as inescapable if ignored — it doesn't force a specific reset action, it just keeps draining until the character gets clear of the water or breaks whatever's holding them under.
     
-- **Clearance:** The character (or an adjacent ally spending an Action) may attempt a **Brawn + Athletics check (TN 8)** to reach the surface and clear the condition. Automatically cleared if the character is physically removed from the water.
+- **Clearance:** The character (or an adjacent ally spending an Action) may attempt an **Athletics check (TN 8)** to reach the surface and clear the condition. Automatically cleared if the character is physically removed from the water.
     
 
 ### 5. Suppressed (The Discipline Tax)

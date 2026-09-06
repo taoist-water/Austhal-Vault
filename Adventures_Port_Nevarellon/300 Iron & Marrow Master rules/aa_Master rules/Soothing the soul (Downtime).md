@@ -242,7 +242,7 @@ This Pursuit does not exist independently — it is unlocked by a specific feat 
 *How a Priest clears Locked Stress.*
 
 - **Time Cost:** A minimum of 1 full day, dedicated entirely to the practice (fasting, prayer, ritual confession, a pilgrimage to a shrine) — no other Downtime Pursuit may be performed simultaneously.
-- **The Check:** Will + Faith vs. TN 8.
+- **The Check:** The Tithe of Will (2d6 + Faith) vs. TN 8.
 -  **Standard Success:** Clears Locked Stress equal to the character's Will score (minimum 1), and clears 1 point of Encroachment (see Embracing the Abyss).
 - **Massive Success:** Clears all of the Priest's Locked Stress and all of their Encroachment, and banks 1 Progress Momentum — a moment of genuine, total absolution.
 - **Failure:** No Stress is cleared, and the day is lost. Unlike a failed Hammer & Forge or Tend to the Flesh, a failed Religious Pursuit is worth narrating: the Priest reached for their faith and found only silence. This is a good spot for the GM to foreshadow consequences of past Borrowed Authority Fails — a Priest carrying Encroachment from failed Tithes brings that same silence into this roll, at GM discretion.
@@ -294,7 +294,7 @@ ________________________________________________________________________
 | Commission                     | 1 week | None (paid) | Upgrades item to Masterwork |
 | Tend to the Flesh              | 3 days/Wound (base rate) | Medicine vs TN 8 to improve | Heals 1 Wound Slot |
 | Field Medic                    | 10 minutes | Feat-gated, spends Progress Momentum | Heals 1 Wound Slot at a Stress cost |
-| Religious Pursuit             | 1 day | Will + Faith vs TN 8 | Clears Locked Stress |
+| Religious Pursuit             | 1 day | Tithe of Will (2d6 + Faith) vs TN 8 | Clears Locked Stress |
 | Acquisition (Restock/Purchase) | Half a day | Influence or Survival vs TN 8 | Restocks a kit, or completes a new purchase — subject to a Slot Check |
 | Finance Bank (different-branch withdrawal) | Half a day | Influence vs TN 8 (auto if same-branch or depositing) | Full withdrawal; 20% short on Failure |
 | Carousing                       | 1 night | None — roll d66 directly | Varies (see Carousing Table) |

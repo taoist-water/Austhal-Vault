@@ -51,14 +51,14 @@ During a Characters activation it may move up to its base movement value [MV] an
 
 **Attack Actions:**
 
-- Strike: 2D6 + Brawn + Melee. The standard attack. 
-- Power Strike: 2D6 + Brawn + Melee + weapon power. Apply the weapon power to the strike roll, instead of the impact calculation. however, it reduces your Wounds threshold by 2 until the beginning of your next activation.
+- Strike: 2d6 + Melee. The standard attack. 
+- Power Strike: 2d6 + Melee + weapon power. Apply the weapon power to the strike roll, instead of the impact calculation. however, it reduces your Wounds threshold by 2 until the beginning of your next activation.
 
-- Grab: 2D6 + Brawn + Prowess. Attempt to Hold the Target in a grapple or hold onto an enemy. Win, you and the opponent gain the In-Fighting and Grappled conditions.
+- Grab: 2d6 + Prowess. Attempt to Hold the Target in a grapple or hold onto an enemy. Win, you and the opponent gain the In-Fighting and Grappled conditions.
     
-- Shove: 2D6 + Brawn + Prowess. The physical Push, you bash the target to create space or break a grapple. If you win, the target takes 1 Stress and is pushed back 5 feet out of your threat Zone.
+- Shove: 2d6 + Prowess. The physical Push, you bash the target to create space or break a grapple. If you win, the target takes 1 Stress and is pushed back 5 feet out of your threat Zone.
     
-- Shoot: 2D6 + Reflex + Ranged. The standard Ranged attack. If you win, work out Impact.
+- Shoot: 2d6 + Ranged. The standard Ranged attack. If you win, work out Impact.
     
 - Cast Spell: See spell description.
     
@@ -67,13 +67,13 @@ During a Characters activation it may move up to its base movement value [MV] an
 
 *When targeted by a ranged attack outside of movement distance and without a ranged weapon, the target of an activation is automatically the Reactor.*
 
-- Block: 2D6 + Brawn + Block. If you lose the Clash, subtract your Shield's Value from the Impact before comparing it to your Wound Threshold (minimum 0).
+- Block: 2d6 + Block. If you lose the Clash, subtract your Shield's Value from the Impact before comparing it to your Wound Threshold (minimum 0).
     
-- Dodge: 2D6 + Reflex + Acrobatics. Avoid damage and instantly shift 5ft.
+- Dodge: 2d6 + Acrobatics. Avoid damage and instantly shift 5ft.
     
-- Brace: Brace: 2d6 + Brawn + Prowess. If you win, you take no impact. If you lose, you gain a +2 bonus to your Wound Threshold [T] when calculating Impact. 
+- Brace: 2d6 + Prowess. If you win, you take no impact. If you lose, you gain a +2 bonus to your Wound Threshold [T] when calculating Impact. 
     
-- Parry: 2D6 + Reflex + Melee.
+- Parry: 2d6 + Melee.
     
 - Shoot:**ranged option**, fire ranged weapon as target closes in. Win calculate Impact.
     
