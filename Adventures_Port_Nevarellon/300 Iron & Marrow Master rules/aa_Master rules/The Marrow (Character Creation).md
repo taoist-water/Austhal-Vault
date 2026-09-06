@@ -206,7 +206,7 @@ something you start at. A creation character who spends 6 of 8 points
 reaching Rank 5 is a genuine prodigy with almost nothing else to their name.
 
 The nine Skills under Brawn and Reflex are collectively the Physical Skills.
-Rules that reference Physical Skills (Sunder) mean these.
+Rules that reference "Physical Skills" as a category mean these — no rule currently in the corpus does; the term is defined here ahead of that need.
 #### Brawn Skills
 
 - Melee: Close-quarters combat, from greatswords to brawling.
@@ -684,13 +684,13 @@ ______________________________________________________________________
 >You rip the fabric of the world apart, taking yourself with it.
     
 - Mechanic: You take a -4 penalty to the casting roll. If successful, the spell automatically gains a Margin of Success of 5 (Massive Impact), devastating the battlefield. However, you instantly take 1 physical Wound from the magical blowback.
-### (dev note)Perfect Nullification TO BE REVIEWED
+**Perfect Nullification**
 
 - Prerequisites: Reflex +3, Acrobatics +3
     
 - Be exactly where the blade isn't.
     
-- Mechanic: When acting as the Reactor and using the Dodge action, if you roll a natural 12, you don't just dodge the attack. You instantly steal the initiative, becoming the Aggressor, and may resolve a free Shoot or Strike action against your attacker before the Engagement ends.(/dev note)
+- Mechanic: When acting as the Reactor and using the Dodge action, if you roll a natural 12, you don't just dodge the attack. You instantly steal the initiative, becoming the Aggressor, and may resolve a free Shoot or Strike action against your attacker before the Engagement ends.
 
 **Reaper’s Engine**
 
@@ -759,7 +759,7 @@ ______________________________________________________________________
     
 >Destruction is just energy seeking its natural resting state.
     
-- Mechanic: **[SUSPENDED — DO NOT SELECT.]** This feat was built on the Grounding action, which has been retired, and on a Cantrip list that currently contains a single non-combat spell. It is non-functional as written and is held pending the Cantrip pass. Do not offer it at character creation or Advancement until it is rewritten.
+- Mechanic: When you suffer the Snake Eyes Backfire on an Arcana roll, resolve its Wound and Dissonant Stress as normal — then discharge everything: your full current Dissonant Stress total becomes the "lethal hazard" the Backfire produces, converting to an outward blast that deals Impact equal to the amount discharged (ignoring Armor) to everyone within Short Range, allies included. Your Dissonant Stress clears to 0.
 
 **The Berserker (Barbarian Archetype)**
 
