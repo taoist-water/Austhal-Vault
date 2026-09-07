@@ -254,7 +254,7 @@ This Pursuit does not exist independently — it is unlocked by a specific feat 
 | ------------ | ------------------------- | ---------- | --------------------------------------------------- |
 | Common       | Hamlet+                   | 1–25 sp    | Village smith/herbalist, ordinary materials         |
 | Scarce       | Town+                     | 15–50 sp   | Needs a proper forge, market, or trained specialist |
-| Rare         | City+                     | 50–200+ sp | Guild-level craftsmanship, exotic materials         |
+| Rare         | City+                     | 35–200+ sp | Guild-level craftsmanship, exotic materials         |
 | Legendary    | Capital, Commission-gated | GM-set     | One-of-a-kind, not a market good                    |
 Bands deliberately overlap — Availability tracks *how often the world stocks it*, price tracks *how good it is*. Same orthogonal relationship Quality tags (Shoddy/Balanced/Masterwork) already use.
 

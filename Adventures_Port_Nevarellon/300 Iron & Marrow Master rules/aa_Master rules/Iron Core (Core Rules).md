@@ -288,9 +288,9 @@ ________________________________________________________________________
     
 - *Blinded:* (Dirt in the eyes, magical darkness). You cannot take attack actions against targets beyond 5 feet. All Reactor Clashes are made with Disadvantage.
     
-- *Poisoned:* At the start of your turn, make a Brawn check. On a failure, you instantly take 1 Dissonant Stress. (If you max out your Stress while Poisoned, the toxin causes a Wound).
+- *Poisoned:* At the start of your turn, make an Athletics check. On a failure, you instantly take 1 Dissonant Stress. (If you max out your Stress while Poisoned, the toxin causes a Wound).
     
--  *Bleeding:* At the beginning of each of your activations can spend a Momentum to “stem the wound”, or make a Brawn check. Succeed Lose the Bleeding condition. Fail, lose a wound.
+-  *Bleeding:* At the beginning of each of your activations can spend a Momentum to “stem the wound”, or make an Athletics check. Succeed Lose the Bleeding condition. Fail, lose a wound.
     
 - *Fatigued:* Gain 1 Locked Stress. If a circumstance causes an additional instance of this condition, gain another locked Stress. If at the stress limit, no more locked stress can be assigned. This condition can only be cleared by a full night's rest or magical Restoration.
     

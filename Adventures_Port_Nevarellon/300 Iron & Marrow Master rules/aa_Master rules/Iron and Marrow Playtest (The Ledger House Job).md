@@ -113,7 +113,7 @@ The party's escape route — the smugglers' sewer route one PC knows — runs di
 - **Stats:** Brawn +1 *(Strikes and grabs at +1, everything else at +0)*
 - **Wound Threshold:** 5 (4 + 1) | Wound Slots: 1 | Stress Limit: 0
 - **Equipment:** Waterlogged claws (Power 1) — Strike: `2d6+1`
-- **Traits (1):** **Vicious** *(existing trait — inflicted damage forces a Brawn check or Bleeding)*
+- **Traits (1):** **Vicious** *(existing trait — inflicted damage forces a Prowess check or Bleeding)*
 - **Vessel Limit:** 1
 
 Field 3–4 of these, surging out of the flooded muck while some PCs are still fighting off Drowned. Individually harmless — the point is testing whether Drowned's slow bleed actually feels oppressive layered under combat pressure, not as a standalone puzzle.

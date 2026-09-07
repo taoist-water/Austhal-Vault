@@ -95,7 +95,7 @@ _Elves are attuned to magic and the natural world. They are blindingly fast and 
 
 - **Size:** Standard.
 - **Move Value:** 30 ft/6 squares
-- **Fey Reflexes:** Elves gain Advantage (roll 3d6, keep the highest two) on Reflex checks to avoid environmental hazards, traps, or area-of-effect abilities.
+- **Fey Reflexes:** Elves gain Advantage (roll 3d6, keep the highest two) on Acrobatics checks to avoid environmental hazards, traps, or area-of-effect abilities.
 - **Trance:** Elves do not sleep deeply. They only require 4 hours of meditation to gain the benefits of a full night's rest (clearing Stress and Stabilizing wounds), making them excellent watchmen.
 - **Hollow-Boned (Drawback):** Their lithe frames are susceptible to trauma. Their base Wound Threshold is reduced by 1. _(This drawback travels with Fey Reflexes if a Half-Elf takes it via Split Heritage — see Half-Elf.)_
 - **Playstyle:** Agile skirmishers or perceptive scouts. They avoid getting hit because if they do get hit, they go down faster.
@@ -791,7 +791,7 @@ ______________________________________________________________________
     
 - Nature reclaims everything, starting with their bloodstream.
     
-- Mechanic: When you successfully inflict a Minor or Major Wound on a living creature, you may spend 1 Momentum to plant a parasitic, alchemically-altered spore deep in the tissue. At the start of each of their subsequent turns, they must pass a Brawn check or take 1 Dissonant Stress. If they fail, the blooming spore also grants you a flat +1 bonus on your next Clash roll against them.
+- Mechanic: When you successfully inflict a Minor or Major Wound on a living creature, you may spend 1 Momentum to plant a parasitic, alchemically-altered spore deep in the tissue. At the start of each of their subsequent turns, they must pass an Athletics check or take 1 Dissonant Stress. If they fail, the blooming spore also grants you a flat +1 bonus on your next Clash roll against them.
     
 **Apex Chimera (Tier 3)**    
 

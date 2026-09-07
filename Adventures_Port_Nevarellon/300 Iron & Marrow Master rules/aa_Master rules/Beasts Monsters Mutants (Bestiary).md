@@ -185,7 +185,7 @@ _Scrawny, twitchy, and desperate. They prefer to strike from the shadows and ret
     - _Swarm:_ The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
         
 - **Threat Abilities (1):**
-	- **Cost 1 — Sabotage:** Instead of a regular attack action, the scrappy, opportunistic goblins try to swipe supplies from the target. Target must pass a TN 8 Reflex check or the Community Supply Die is reduced by 1 step.
+	- **Cost 1 — Sabotage:** Instead of a regular attack action, the scrappy, opportunistic goblins try to swipe supplies from the target. Target must pass a TN 8 Acrobatics check or the Community Supply Die is reduced by 1 step.
     
 - **Vessel Limit:** 1
 ___________________________________________________________________________________________________________________________________________________________________________________
@@ -199,7 +199,7 @@ _A writhing, starving mass that exists purely to drain Momentum and Wounds befor
     
 - **Traits (1):**
     
-    - _Amorphous:_ Single-target weapons (daggers, spears, arrows) cannot inflict a Wound. Only Area of Effect (AOE) attacks or weapons with the _Heavy_ or _Siege_ tag can kill them.
+    - _Amorphous:_ Single-target weapons (daggers, spears, arrows) cannot inflict a Wound. Only Area of Effect (AOE) attacks or weapons with the _Devastating_ or _Siege_ tag can kill them.
     -  Swarm:  The Swarm gains a +1 bonus to their Clash roll for every additional swarm ally currently engaged with the same target.
         
      
@@ -211,7 +211,7 @@ _A writhing, starving mass that exists purely to drain Momentum and Wounds befor
   ________________________________________________________________________________________________________________________________________________________________________________________________________________
 ### Orc Line-Breaker (Grunt)
 
-- **Budget Used:** 4 points.
+- **Budget Used:** 6 points.
     
 - **Skills:** Melee +4, Block +2. **Attributes (derived only):** Brawn 2 → Wound Threshold. _(Assumed Zero: Dodge, Notice, Resolve, Arcana. They hit hard and block well, but are terrible at dodging or resisting mind-altering Arcana).
 - **Wound Threshold:** 6 | **Wound Slots:** 2 | **Stress Limit:** 4

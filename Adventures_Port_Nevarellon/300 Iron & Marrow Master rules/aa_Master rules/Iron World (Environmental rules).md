@@ -10,7 +10,7 @@
 
 - Rushed Stealth: Moving faster than half your Movement value whilst using Stealth imposes a disadvantage to your Stealth rolls.
     
-- Difficult Terrain: Moving through difficult terrain (deep mire, heavy snow, shifting rubble) halves your Movement value and imposes disadvantage on all checks requiring mobility (such as Brawn or Reflex checks) made within it.
+- Difficult Terrain: Moving through difficult terrain (deep mire, heavy snow, shifting rubble) halves your Movement value and imposes disadvantage on all checks requiring mobility (such as Athletics or Acrobatics checks) made within it.
     
 - Drawing a weapon is an free action. 
 ________________________________________________________________________
