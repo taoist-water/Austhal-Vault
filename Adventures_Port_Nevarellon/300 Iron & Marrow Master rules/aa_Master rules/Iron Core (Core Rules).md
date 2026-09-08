@@ -83,6 +83,8 @@ When this happens on an unopposed check, the GM immediately applies one of the f
     
 - Catastrophic Exposure: If the roll was related to Stealth or Scouting, the failure is loud and undeniable. The character is completely exposed, and all enemies in the upcoming encounter gain Advantage on their opening Activation order rolls.
 
+**In an opposed Clash**, a Snake Eyes is an automatic loss of the Clash regardless of the actual total rolled, and the roller also suffers the Panic Reflex consequence (1 Dissonant Stress) on top of losing. This overrides any reroll effect that would normally apply to the roll (such as Finesse's natural-1 reroll) — a Snake Eyes can never be rerolled, by any means.
+
 ________________________________________________________________________
 # The Momentum Economy
 
@@ -216,7 +218,7 @@ To take a Wound, an enemy's attack must overcome your physical durability, repre
     
 - **Major Wound:** If the Impact equals or exceeds _twice_ your Threshold, you suffer massive trauma, taking 1 Major Wound (filling 2 slots).
     
-- **Instant Incapacitation:** If the Impact equals or exceeds _three times_ your Threshold, you are instantly Incapacitated, risking a potential long-term injury or immediate death.
+- **Overwhelming Trauma (Instant Incapacitation):** If the Impact equals or exceeds _three times_ your Threshold, the attack bypasses your Wound Slots entirely — it does not fill one, no matter how many you have available (including bonus slots from spells, feats, or magic items; nothing makes a character immune to a single catastrophic blow). Instead, you immediately gain the **Incapacitated** condition exactly as if you'd taken a Wound with no slot to fill it: fall Prone, drop what you're holding, and begin Bleed-Out checks per *At Death's Door*. Also inflicts 2 Dissonant Stress.
     
 
 ### The Death Spiral (Stress Conversion)
@@ -296,7 +298,7 @@ ________________________________________________________________________
     
 - *Terrified:* Your mind is clouded by panic. 1 stress is locked. You cannot spend Momentum for any reason. You must spend your turn running away from the object/being causing the Terror, fleeing until you can hide, or break the complete line of sight. When out of sight or hidden from the object/entity you can take a Resolve check to shake the condition.
     
-- *Fear:* 1 stress is locked, until fear condition is lost. Has disadvantage against the object/being causing the Fear condition. must Pass a Resolve check to make Attack actions or interact with the object/being causing the fear. cleared by taking the regroup action when out of sight or has cover from the object/enemy causing fear.
+- *Fear:* 1 stress is locked, until fear condition is lost. Has disadvantage against the object/being causing the Fear condition. must Pass a Resolve check to make Attack actions or interact with the object/being causing the fear. Cleared by taking the regroup action when out of sight or has cover from the object/enemy causing fear, or immediately and automatically if the source of the Fear is destroyed or removed from the scene.
     
 - *Distracted:* suffer a - 1 to rolls until next activation, then lose the condition.
     
