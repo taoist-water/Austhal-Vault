@@ -304,6 +304,14 @@ ______________________________________________________________________
     
 - Mechanic: When you first enter a tense social situation, you may use a Free Action to roll Insight against a baseline TN 8. On a success, the GM reveals which NPC in the room has the lowest Resolve score, and you gain Advantage (roll 3d6, keep the highest two) on your first Influence check against them.
 
+**Desperate Edge**
+
+- Prerequisites: Resolve +1
+
+- You fight hardest with your back against the wall.
+
+- Mechanic: When exactly one of the two dice in a 2d6 check shows a 6, and you are in a qualifying desperate state — at half or more of your Stress Limit in Dissonant Stress, or at your final Wound Slot — you may treat that die as exploding: roll one additional d6 and add it to the total. Outside a qualifying desperate state, or without this feat, a lone natural 6 is just a 6.
+
 **Dung-Healer's Salve**
 
 - Prerequisites: Medicine +1 or Crafting +1
@@ -436,7 +444,7 @@ ______________________________________________________________________
 
 **Fevered Channelling**
 
-- Prerequisites: Will +2, Arcana +2 or Faith +2
+- Prerequisites: Desperate Edge (feat), Will +2, Arcana +2 or Faith +2
     
 - The magic wants out. Let it burn through you.
     
@@ -484,7 +492,7 @@ ______________________________________________________________________
 
 **Path of Least Resistance**
 
-- Prerequisites: Wits +2, Survival +2
+- Prerequisites: Desperate Edge (feat), Wits +2, Survival +2
     
 - You see the safe steps where others only see the hazard.
     
@@ -631,7 +639,7 @@ ______________________________________________________________________
 
 **Embrace the Void**
 
-- Prerequisites: Will +3, Brawn +2 or Reflex +2
+- Prerequisites: Desperate Edge (feat), Will +3, Brawn +2 or Reflex +2
     
 > Birth, suffering, and a rusty blade.
     
@@ -726,7 +734,7 @@ ______________________________________________________________________
 
 **Transgressive Asymmetry**
 
-- Prerequisites: Wits +3 or Reflex +3
+- Prerequisites: Desperate Edge (feat), Wits +3 or Reflex +3
     
 - Cynicism applied to giant monsters.
     

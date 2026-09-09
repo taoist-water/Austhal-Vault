@@ -2,45 +2,9 @@
 
 ---
 
-## Wren Ashcombe "I've never once needed to win a fight I could just... not have." Vital Statistics
+# Green
 
-- Species: Halfling — Size: Small (Scale -1)
-- Standing: Blooded (Milestone 1 — 3 DP earned, 0 banked; Parasitic Momentum is Tier 2, which chargen can't grant — the only way onto her sheet is 1 Milestone spent entirely on "Purchase a Feat." *Correction from the previous pass, which mistagged her Green.* **Second correction, this pass:** her Skills totalled 10 ranks against a creation budget of 8 — an overspend that predates the Attribute restructure and never validated under the old Link Rule either (Melee 1 at Brawn 0 cost 4 DP under Blind Learning, plus 9 DP for three Reflex skills at rank 3, against a budget of 8). Thievery and Acrobatics each trimmed by 1 to bring her to a legal 8. Both are 1 DP to buy back at her next Milestone.)
-    
-- Attributes: Brawn 0 | Reflex 3 | Wits 1 | Will 0 *(Spike array)*
-    
-- Skills: Melee +1 | Stealth +3 | Thievery +2 | Acrobatics +2 *(Ceilings: Melee 3 (Brawn 0); Stealth/Thievery/Acrobatics 6 (Reflex 3))*
-    
-- Derived stats:
-    
-    - Wound Threshold: 4 (4 + Brawn 0 + Armor 1 + Scale −1)
-    - Stress Limit: 5 (4 + Will 0 + Wits 1 — Halflings are exempt from the Scale Stress penalty)
-    - Momentum Bank: 7 (4 + Reflex 3)
-    - Activation Order: 12 (6 + Reflex 3, +3 Quick)
-- Feats:
-    
-    - Quick — +3 to your Activation Order.
-    - Shadow-Weaver — Ignores the Rushed Stealth penalty for moving quickly while hidden.
-    - Parasitic Momentum (Cutthroat, Tier 2) — When an enemy within 30 ft rolls a Fumble, instantly bank 1 Momentum.
-- Species Details: Underfoot (Advantage on Stealth with cover/obscurement/moving through larger creatures' space); Halfling Luck (once/session, ignore a Fumble's Stress penalty); Small Stature (cannot wield weapons carrying the Cumbersome tag — irrelevant here; also exempt from the Scale −1 Stress Limit penalty, see The Marrow).
-    
-- Equipment:
-    
-    - Twin Daggers (1H/1H, Sidearm, Concealable, Close-Quarters, Precise, Thrown) — qualifies for Twin-Blade Stance (Off-Hand Parry, Twin Strike).
-    - Leather Armor (+1 Armor, Light).
-    - **Starting Purse: 80 sp** — Twin Daggers 10 + Leather 12 = **22 sp spent, 58 sp remaining** at creation. Lockpicks, a grapple and line, chalk, and a working float she has been careful not to spend down.
-    - **Acquired in play (Milestone 1):** main-hand dagger fitted with **Cold Iron Weapon** (Charmed, 25 sp, no Attunement): Bane (Fey, Daemon). Leather fitted with **Whisper-Kissed Leathers** (Enchanted, 1 Locked Stress Attunement) — see below. *Neither could have been bought at creation: enchanted gear of any tier is barred at Green (see The Starting Purse, The Marrow). Both came off the job that earned her first Milestone, which is the only way onto the sheet and a better story besides.*
-- Spell list: N/A (non-caster). Wound Slots: [ ][ ][ ] (3) Stress Track (Limit 5): [/][ ][ ][ ][ ] — 1 box permanently Locked to Attunement. Momentum (max 7): [ ] Inventory Slots = 8 (8 + Brawn 0)
-
-- Combat Math Quick-Ref: Dagger Strike 2d6+1 | Dodge 2d6+2 | Stealth 2d6+3 | Thievery 2d6+2 | Activation Order 12
-    
-- Belt (3 max): Twin Daggers (2 slots) — 1 slot free.
-    
-- Pack: 6 slots free.
-    
-___________________________________________________________________
-
-# Helga Stonewright — Dwarf Female, Faith Caster (Law Domain)
+## Helga Stonewright — Dwarf Female, Faith Caster (Law Domain)
 
 *"The law doesn't need your permission to apply to you."*
 
@@ -162,6 +126,104 @@ Ranged Strike 2d6+3, Impact = Margin+2 (Shortbow) | Dodge 2d6+1 | Stealth 2d6+2 
 **Table note:** Firing a Ranged weapon while an enemy occupies her own 5ft Threat Zone imposes Disadvantage on the shot — she wants to be the one dictating range. Quick and Shadow-Weaver both exist specifically to keep her out of that situation.
 
 ---
+
+# Blooded
+
+## Wren Ashcombe "I've never once needed to win a fight I could just... not have." Vital Statistics
+
+- Species: Halfling — Size: Small (Scale -1)
+- Standing: Blooded (Milestone 1 — 3 DP earned, 0 banked; Parasitic Momentum is Tier 2, which chargen can't grant — the only way onto her sheet is 1 Milestone spent entirely on "Purchase a Feat." *Correction from the previous pass, which mistagged her Green.* **Second correction, this pass:** her Skills totalled 10 ranks against a creation budget of 8 — an overspend that predates the Attribute restructure and never validated under the old Link Rule either (Melee 1 at Brawn 0 cost 4 DP under Blind Learning, plus 9 DP for three Reflex skills at rank 3, against a budget of 8). Thievery and Acrobatics each trimmed by 1 to bring her to a legal 8. Both are 1 DP to buy back at her next Milestone.)
+    
+- Attributes: Brawn 0 | Reflex 3 | Wits 1 | Will 0 *(Spike array)*
+    
+- Skills: Melee +1 | Stealth +3 | Thievery +2 | Acrobatics +2 *(Ceilings: Melee 3 (Brawn 0); Stealth/Thievery/Acrobatics 6 (Reflex 3))*
+    
+- Derived stats:
+    
+    - Wound Threshold: 4 (4 + Brawn 0 + Armor 1 + Scale −1)
+    - Stress Limit: 5 (4 + Will 0 + Wits 1 — Halflings are exempt from the Scale Stress penalty)
+    - Momentum Bank: 7 (4 + Reflex 3)
+    - Activation Order: 12 (6 + Reflex 3, +3 Quick)
+- Feats:
+    
+    - Quick — +3 to your Activation Order.
+    - Shadow-Weaver — Ignores the Rushed Stealth penalty for moving quickly while hidden.
+    - Parasitic Momentum (Cutthroat, Tier 2) — When an enemy within 30 ft rolls a Fumble, instantly bank 1 Momentum.
+- Species Details: Underfoot (Advantage on Stealth with cover/obscurement/moving through larger creatures' space); Halfling Luck (once/session, ignore a Fumble's Stress penalty); Small Stature (cannot wield weapons carrying the Cumbersome tag — irrelevant here; also exempt from the Scale −1 Stress Limit penalty, see The Marrow).
+    
+- Equipment:
+    
+    - Twin Daggers (1H/1H, Sidearm, Concealable, Close-Quarters, Precise, Thrown) — qualifies for Twin-Blade Stance (Off-Hand Parry, Twin Strike).
+    - Leather Armor (+1 Armor, Light).
+    - **Starting Purse: 80 sp** — Twin Daggers 10 + Leather 12 = **22 sp spent, 58 sp remaining** at creation. Lockpicks, a grapple and line, chalk, and a working float she has been careful not to spend down.
+    - **Acquired in play (Milestone 1):** main-hand dagger fitted with **Cold Iron Weapon** (Charmed, 25 sp, no Attunement): Bane (Fey, Daemon). Leather fitted with **Whisper-Kissed Leathers** (Enchanted, 1 Locked Stress Attunement) — see below. *Neither could have been bought at creation: enchanted gear of any tier is barred at Green (see The Starting Purse, The Marrow). Both came off the job that earned her first Milestone, which is the only way onto the sheet and a better story besides.*
+- Spell list: N/A (non-caster). Wound Slots: [ ][ ][ ] (3) Stress Track (Limit 5): [/][ ][ ][ ][ ] — 1 box permanently Locked to Attunement. Momentum (max 7): [ ] Inventory Slots = 8 (8 + Brawn 0)
+
+- Combat Math Quick-Ref: Dagger Strike 2d6+1 | Dodge 2d6+2 | Stealth 2d6+3 | Thievery 2d6+2 | Activation Order 12
+    
+- Belt (3 max): Twin Daggers (2 slots) — 1 slot free.
+    
+- Pack: 6 slots free.
+
+---
+
+## Corvin Ashgrave — Human Male, Bravo (Duelist)
+
+*"You are not losing to me. You are losing to the fact that you brought one weapon."*
+
+### Vital Statistics
+- **Species:** Human
+- **Standing:** Blooded (Milestone 2 — 6 DP earned, 0 banked)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 2 | Reflex 2 | Wits 0 | Will 0 *(**Twin** array — the roster's first non-Spike build)*
+- **Skills:** Melee 4 | Acrobatics 3 | Prowess 1 | Notice 1 *(9 ranks, 9 DP with Adaptable. Ceilings: Melee/Prowess/Block/Athletics 5 (Brawn 2); Acrobatics/Stealth/Ranged 5 (Reflex 2); everything under Wits or Will 3)*
+- **Wound Threshold:** 7 *(4 base + 2 Brawn + 1 Leather)*
+- **Stress Limit:** 5 *(4 base + 0 Wits + 0 Will + 1 Indomitable Spirit)*
+- **Wound Slots:** 3 | **Momentum Bank:** 5 *(4 + Reflex 2, −1 Steady Not Sharp)* | **Activation Order:** 11 *(6 + Reflex 2, +3 Quick)*
+- **Inventory Slots:** 10 *(8 + 2 Brawn)*
+
+### Species Traits (Human)
+- **Adaptable:** +1 Skill Point at creation (already applied — 9 DP spent instead of 8).
+- **Indomitable Spirit:** +1 Stress Limit (already applied above).
+- **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap.
+
+### Feats
+- **Iron Grip** *(Melee +1 — Creation)*: when a Clash ties and the weapons bind, automatically bank 1 Momentum. His Momentum engine — a Twin-array duelist has a small bank and needs to fill it without spending actions.
+- **Quick** *(Reflex 1 — Creation)*: +3 to your Activation Order.
+- **Riposte** *(Melee 2 — Milestone 2)*: winning a Parry inflicts Impact on the attacker outright.
+- **The Insulting Deflection** *(Bravo, Tier 2; Reflex +2, Melee +2 — Milestone 2)*: on a Parry won by Margin 5+, spend 1 Momentum to inflict Surprised on the Aggressor.
+
+### Equipment
+- **Armor:** Leather (+1 Armor, Light) — Gambeson at creation, upgraded during Downtime after Milestone 1.
+- **Starting Purse: 80 sp** — Gambeson 5 + Shortsword 10 + Dagger 5 = **20 sp spent, 60 sp remaining.** The cheapest kit on the roster by some distance, and entirely on purpose: a duelist's Wound Threshold comes from not being hit. He spent the difference on a wardrobe good enough to get him invited to the sort of rooms where the work is, and kept the rest liquid. The Leather upgrade at Milestone 1 cost him 12 sp of that float.
+- **Weapons (two 1H items):** Shortsword (Power 2, **Sidearm**, **Finesse**) + Dagger (Power 0, **Sidearm**, **Finesse**, Concealable, Close-Quarters, Thrown) — qualifies for **Twin-Blade Stance**.
+
+### Combat Math Quick-Ref
+Strike (Shortsword) 2d6+4, Impact = Margin+2 | Parry 2d6+4 | Dodge 2d6+3 | **Finesse on both** — reroll a natural 1 in any Clash with either blade, attacking or defending | **Off-Hand Parry:** the Dagger reduces incoming Impact by 1, stacking with the Shortsword | **Twin Strike:** 1 Momentum on a won Clash for an off-hand follow-up | Prowess 2d6+1 | Notice 2d6+1 | **Resolve 2d6+0** | Activation Order 11
+
+### Advancement Ledger — Milestone 0 → Milestone 2 (6 DP)
+
+| Milestone | DP earned | Banked before | Spent this Milestone | Bank after |
+|---|---|---|---|---|
+| 1 | 3 | 0 | — (saving) | 3 |
+| 2 | 3 | 3 | **3 DP** — Feat: Riposte *(Melee 2 ✓)*, **3 DP** — Feat: The Insulting Deflection *(Reflex 2 ✓, Melee 2 ✓)* | 0 |
+
+Both Milestones went to Feats, so his Skill total never moved off its creation-day 9 — exactly the Blooded typical in The Marrow's Standing table, and the same pattern as Wren, whose one Milestone also bought a Feat. Riposte and Insulting Deflection both trigger off a won Parry, which is deliberate: he is built to be attacked.
+
+### Table Notes
+- **What the Twin array actually bought, and what it cost.** Built as Spike (Brawn 3 / Reflex 1) with the identical 9 skill ranks, his rolls would be *identical* — Strike 2d6+4, Dodge 2d6+3. The arrays diverge only in ceilings and derived stats: Spike would give him Melee ceiling 6 and Wound Threshold 8, Twin gives him Acrobatics ceiling 5, Momentum 5 and Activation Order 11. **At Green and Blooded, array choice is invisible on the dice.** Twin's payoff is entirely deferred to the point where he has DP spare to climb a second ceiling — realistically Veteran. Worth stating plainly in The Marrow's array table, or Twin reads as strictly worse at exactly the moment a player is choosing it.
+- **Two dump Attributes is a real price, and it is all in one place.** Wits 0 and Will 0 give him Stress Limit 5 and Resolve 2d6+0, with a Resolve ceiling of 3 he can never exceed. He folds to Fear, to Terrified, and to any Faith caster's resistance test. Ox at Will 3 has Stress Limit 9 and Resolve 2d6+3; Corvin has neither and cannot buy his way out. That is the Twin array's bill, and it comes due in the mental attrition track rather than the physical one.
+- **Finesse on both hands is why this build works.** Both blades carry the tag, so every Clash he makes — Strike, Parry, Off-Hand Parry — can reroll a natural 1. Against a defensive build whose two best Feats key off winning Parries, that reroll is worth more than the +0.82 average suggests: it is specifically insurance against the low rolls that would otherwise lose the Parry outright and deny both Feats.
+
+---
+
+# Veteran
+
+*No characters currently at this Standing.*
+
+---
+
+# Hardened
 
 ## Uzgar "Ox" Bellows — Half-Orc Male, Frontline Anchor
 
@@ -351,53 +413,9 @@ Tithe of Will 2d6+4 *(2d6+3 at creation — see Advancement Ledger)* | Mace Stri
 
 ---
 
-## Corvin Ashgrave — Human Male, Bravo (Duelist)
+# Storied
 
-*"You are not losing to me. You are losing to the fact that you brought one weapon."*
-
-### Vital Statistics
-- **Species:** Human
-- **Standing:** Blooded (Milestone 2 — 6 DP earned, 0 banked)
-- **Size:** Standard | **Move:** 30 ft / 6 squares
-- **Attributes:** Brawn 2 | Reflex 2 | Wits 0 | Will 0 *(**Twin** array — the roster's first non-Spike build)*
-- **Skills:** Melee 4 | Acrobatics 3 | Prowess 1 | Notice 1 *(9 ranks, 9 DP with Adaptable. Ceilings: Melee/Prowess/Block/Athletics 5 (Brawn 2); Acrobatics/Stealth/Ranged 5 (Reflex 2); everything under Wits or Will 3)*
-- **Wound Threshold:** 7 *(4 base + 2 Brawn + 1 Leather)*
-- **Stress Limit:** 5 *(4 base + 0 Wits + 0 Will + 1 Indomitable Spirit)*
-- **Wound Slots:** 3 | **Momentum Bank:** 5 *(4 + Reflex 2, −1 Steady Not Sharp)* | **Activation Order:** 11 *(6 + Reflex 2, +3 Quick)*
-- **Inventory Slots:** 10 *(8 + 2 Brawn)*
-
-### Species Traits (Human)
-- **Adaptable:** +1 Skill Point at creation (already applied — 9 DP spent instead of 8).
-- **Indomitable Spirit:** +1 Stress Limit (already applied above).
-- **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap.
-
-### Feats
-- **Iron Grip** *(Melee +1 — Creation)*: when a Clash ties and the weapons bind, automatically bank 1 Momentum. His Momentum engine — a Twin-array duelist has a small bank and needs to fill it without spending actions.
-- **Quick** *(Reflex 1 — Creation)*: +3 to your Activation Order.
-- **Riposte** *(Melee 2 — Milestone 2)*: winning a Parry inflicts Impact on the attacker outright.
-- **The Insulting Deflection** *(Bravo, Tier 2; Reflex +2, Melee +2 — Milestone 2)*: on a Parry won by Margin 5+, spend 1 Momentum to inflict Surprised on the Aggressor.
-
-### Equipment
-- **Armor:** Leather (+1 Armor, Light) — Gambeson at creation, upgraded during Downtime after Milestone 1.
-- **Starting Purse: 80 sp** — Gambeson 5 + Shortsword 10 + Dagger 5 = **20 sp spent, 60 sp remaining.** The cheapest kit on the roster by some distance, and entirely on purpose: a duelist's Wound Threshold comes from not being hit. He spent the difference on a wardrobe good enough to get him invited to the sort of rooms where the work is, and kept the rest liquid. The Leather upgrade at Milestone 1 cost him 12 sp of that float.
-- **Weapons (two 1H items):** Shortsword (Power 2, **Sidearm**, **Finesse**) + Dagger (Power 0, **Sidearm**, **Finesse**, Concealable, Close-Quarters, Thrown) — qualifies for **Twin-Blade Stance**.
-
-### Combat Math Quick-Ref
-Strike (Shortsword) 2d6+4, Impact = Margin+2 | Parry 2d6+4 | Dodge 2d6+3 | **Finesse on both** — reroll a natural 1 in any Clash with either blade, attacking or defending | **Off-Hand Parry:** the Dagger reduces incoming Impact by 1, stacking with the Shortsword | **Twin Strike:** 1 Momentum on a won Clash for an off-hand follow-up | Prowess 2d6+1 | Notice 2d6+1 | **Resolve 2d6+0** | Activation Order 11
-
-### Advancement Ledger — Milestone 0 → Milestone 2 (6 DP)
-
-| Milestone | DP earned | Banked before | Spent this Milestone | Bank after |
-|---|---|---|---|---|
-| 1 | 3 | 0 | — (saving) | 3 |
-| 2 | 3 | 3 | **3 DP** — Feat: Riposte *(Melee 2 ✓)*, **3 DP** — Feat: The Insulting Deflection *(Reflex 2 ✓, Melee 2 ✓)* | 0 |
-
-Both Milestones went to Feats, so his Skill total never moved off its creation-day 9 — exactly the Blooded typical in The Marrow's Standing table, and the same pattern as Wren, whose one Milestone also bought a Feat. Riposte and Insulting Deflection both trigger off a won Parry, which is deliberate: he is built to be attacked.
-
-### Table Notes
-- **What the Twin array actually bought, and what it cost.** Built as Spike (Brawn 3 / Reflex 1) with the identical 9 skill ranks, his rolls would be *identical* — Strike 2d6+4, Dodge 2d6+3. The arrays diverge only in ceilings and derived stats: Spike would give him Melee ceiling 6 and Wound Threshold 8, Twin gives him Acrobatics ceiling 5, Momentum 5 and Activation Order 11. **At Green and Blooded, array choice is invisible on the dice.** Twin's payoff is entirely deferred to the point where he has DP spare to climb a second ceiling — realistically Veteran. Worth stating plainly in The Marrow's array table, or Twin reads as strictly worse at exactly the moment a player is choosing it.
-- **Two dump Attributes is a real price, and it is all in one place.** Wits 0 and Will 0 give him Stress Limit 5 and Resolve 2d6+0, with a Resolve ceiling of 3 he can never exceed. He folds to Fear, to Terrified, and to any Faith caster's resistance test. Ox at Will 3 has Stress Limit 9 and Resolve 2d6+3; Corvin has neither and cannot buy his way out. That is the Twin array's bill, and it comes due in the mental attrition track rather than the physical one.
-- **Finesse on both hands is why this build works.** Both blades carry the tag, so every Clash he makes — Strike, Parry, Off-Hand Parry — can reroll a natural 1. Against a defensive build whose two best Feats key off winning Parries, that reroll is worth more than the +0.82 average suggests: it is specifically insurance against the low rolls that would otherwise lose the Parry outright and deny both Feats.
+*No characters currently at this Standing.*
 
 ---
 
