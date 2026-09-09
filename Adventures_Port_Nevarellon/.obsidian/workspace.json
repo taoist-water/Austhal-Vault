@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fd145b7c73ba11bc",
+        "id": "bfc96fb89702d6c7",
         "type": "tabs",
         "children": [
           {
-            "id": "7d9c799c9743b5d4",
+            "id": "4c3d5af8172a2078",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Manipulating The Void (Spells)"
+              "title": "New tab"
             }
           }
         ]
@@ -203,21 +199,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d9c799c9743b5d4",
+  "active": "4c3d5af8172a2078",
   "lastOpenFiles": [
-    "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core Rules).md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Metal meet Flesh (Combat Mechanics).md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Iron World (Environmental rules).md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core Rules).md",
     "300 Iron & Marrow Master rules/aa_Master rules/The Meat (Player Characters).md",
     "300 Iron & Marrow Master rules/aa_Master rules/The Marrow (Character Creation).md",
     "300 Iron & Marrow Master rules/aa_Master rules/claude - ledger house sim.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Hardware (Equipment).md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Iron and Marrow Playtest (The Ledger House Job).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Beasts Monsters Mutants (Bestiary).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Embracing the Abyss (Magic Mechanics).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Tools for the Nameless (GM Tools).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Template - Enemies.md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Iron World (Environmental rules).md",
     "iron and marrow canon tracker.md",
     "400 Meta/Framework - The Coastal Reckoning.md",
     "400 Meta/Framework - The Three Layers.md",

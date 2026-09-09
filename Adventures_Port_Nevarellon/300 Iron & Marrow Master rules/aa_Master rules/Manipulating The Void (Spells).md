@@ -676,7 +676,19 @@ The Shaman inhales the ashes or bone dust of a long-dead warrior, allowing a fer
 
 ### Master
 
-*No Master-tier spell yet.*
+**Apex Form** (Combat / Predator Transformation)
+The escalation of Bone Claws: instead of just claws, the caster's whole body commits to the change — fangs lengthen, pupils blow wide to drink in the dark, muscle and sinew reshape around a predator's instincts.
+
+- Level: Master
+- Target/Range: Self
+- Action Type: Activation
+- Duration: Scene
+- Resolution: Unopposed Arcana vs. TN 12.
+- The Effect: The caster gains a natural claw-and-fang weapon (Power 3) usable for Aggressor Strikes and Parry, plus heightened predator senses — Advantage on any Notice or Perception check for the duration. If the caster already has claws extended from Bone Claws, Apex Form layers over them rather than requiring the claws to reform.
+- The Margin Scaler:
+  - Margin 0–2 (Messy): The change takes hold, but instinct overrides higher reasoning — the caster suffers Disadvantage on any Faith or social-based check for the scene, and takes 1 Dissonant Stress from the transformation's violence.
+  - Margin 3–4 (Clean): The transformation settles fully under the caster's control. No cost, no penalty.
+  - Margin 5+ (Exceptional): Weapon Power increases to 4, and the caster is immune to Fear or Intimidation effects for the scene — an apex predator doesn't flinch.
 
 _______________________________________________________________
 
