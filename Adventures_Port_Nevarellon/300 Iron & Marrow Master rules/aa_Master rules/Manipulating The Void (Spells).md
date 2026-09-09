@@ -312,47 +312,11 @@ The caster either ignites a beacon of radiance or conjures a void that swallows 
 **___________________________________________________________________**
 # Arcane Magic Paradigms
 In-Paradigm casters get the standard DP cost and Paradigm Mastery (a Messy Success resolves as Clean). Off-Paradigm casters can still learn these at double DP cost, with neither benefit.
-## Necromancy 
-### Drain Stress
-The caster reaches into a mind, unraveling focus and siphoning spiritual reserve — Marrow Siphon's thesis turned outward onto an enemy.
+## Necromancy
 
-- **Level:** Master
-- **Resolution:** Arcane Clash, Arcana vs. Target's Resolve
-- **Target/Range:** One character, Short Range
-- **Action Type:** Aggressor
+### Novice
 
-**The Margin Scaler:**
-- Margin 1–2: Target gains 2 Dissonant Stress. The caster also takes 1 Dissonant Stress from the strain.
-- Margin 3+ (Clean): Target gains 3 Dissonant Stress, and the caster clears 1 of their own Dissonant Stress as the siphoned focus settles.
-
-### Zombie
-Dark energy reanimates the dead, forcing cold flesh to serve the living.
-
-- **Level:** Master
-- **Resolution:** Unopposed Arcana vs. TN 12 (requires a corpse within reach)
-- **Target/Range:** One corpse, touch
-- **Action Type:** Activation
-- **Duration:** Scene
-
-**The Margin Scaler:**
-- Margin 0–2 (Messy): The corpse rises as an NPC Undead under the caster's control for the scene (Wound Threshold 6, no Stress Limit); the working costs the caster 1 Dissonant Stress.
-- Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): The caster may Lock 5 Stress instead of letting the spell end — doing so makes the servant permanent until destroyed or released.
-*Last Rites - Denies the effect of this spell.*
-### Puppet
-The caster seizes control of the target's motor functions, turning a foe into a marionette.
-
-- **Level:** Master
-- **Resolution:** Arcane Clash, Arcana vs. Target's Resolve
-- **Target/Range:** One character, Short Range
-- **Action Type:** Aggressor
-
-**The Margin Scaler:**
-- Margin 1–2: Caster controls the target's next Activation. The target cannot be forced to directly kill themselves, but can be forced to attack allies or drop their guard. The caster also takes 1 Dissonant Stress from the strain.
-- Margin 3+ (Clean): As above, and control extends for 1 additional round.
-
-### 1. Marrow Siphon (Sustain / Attrition)
-
+**Marrow Siphon** (Sustain / Attrition)
 The Necromancer targets a fresh corpse or a severely wounded enemy, inhaling their fading vitality to physically forcefully reset their own nervous system.
 
 - Level: Novice
@@ -373,8 +337,7 @@ The Necromancer targets a fresh corpse or a severely wounded enemy, inhaling the
 - Margin 5+ (Exceptional): The surge of vitality is overwhelming. The caster clears all Dissonant Stress and generates 1 Momentum.
     
 
-### 2. Rigor Mortis (Combat Control)
-
+**Rigor Mortis** (Combat Control)
 The caster forces the blood in a living target's extremities to instantly coagulate and their joints to temporarily calcify.
 
 - Level: Novice
@@ -392,25 +355,7 @@ The caster forces the blood in a living target's extremities to instantly coagul
 - Margin 3+ (Clean): The target is completely Anchored (cannot move) and suffers a -2 penalty to their next Aggressor Strike roll because they cannot articulate their joints.
     
 
-### 3. Corpse Bloom (Environmental / Damage)
-
-The Necromancer uses a dead body on the battlefield as a bomb, rapidly accelerating its decay until the buildup of necrotic gases violently ruptures the flesh.
-
-- Level: Adept
-- Target/Range: One corpse, Short Range, 10ft radius
-- Action Type: Activation
-- Duration: Instantaneous
-- Resolution: Unopposed Arcana vs. TN 10. (Requires a corpse within sight).
-- **Spell Power: 3**
-- The Effect: The targeted corpse explodes, spraying razor-sharp bone shrapnel and toxic bile in a 10-foot radius. Every creature (friend or foe) in the radius suffers Impact equal to the casting Margin + Spell Power.
-- The Margin Scaler:
-  - Margin 0–2 (Messy): The explosion is delayed or unpredictable. The GM shifts the center of the blast 5 feet in a random direction before calculating who is hit.
-  - Margin 3–4 (Clean): The corpse detonates perfectly as planned.
-  - Margin 5+ (Exceptional): The blast area becomes Mire (difficult terrain) for the remainder of the Scene.
-    
-
-### 4. Calcify Armor (Utility / Buff)
-
+**Calcify Armor** (Utility / Buff)
 The caster forces their own bones, or the bones of an ally, to painfully extrude through the skin, creating a temporary, jagged exoskeleton.
 
 - Level: Novice
@@ -430,9 +375,72 @@ The caster forces their own bones, or the bones of an ally, to painfully extrude
     
 - Margin 5+ (Exceptional): The bone spikes are violently sharp. Any enemy who attacks the target and fails the Clash via a Block or Parry immediately suffers 1 Impact from striking the jagged bone.
 
+### Adept
+
+**Corpse Bloom** (Environmental / Damage)
+The Necromancer uses a dead body on the battlefield as a bomb, rapidly accelerating its decay until the buildup of necrotic gases violently ruptures the flesh.
+
+- Level: Adept
+- Target/Range: One corpse, Short Range, 10ft radius
+- Action Type: Activation
+- Duration: Instantaneous
+- Resolution: Unopposed Arcana vs. TN 10. (Requires a corpse within sight).
+- **Spell Power: 3**
+- The Effect: The targeted corpse explodes, spraying razor-sharp bone shrapnel and toxic bile in a 10-foot radius. Every creature (friend or foe) in the radius suffers Impact equal to the casting Margin + Spell Power.
+- The Margin Scaler:
+  - Margin 0–2 (Messy): The explosion is delayed or unpredictable. The GM shifts the center of the blast 5 feet in a random direction before calculating who is hit.
+  - Margin 3–4 (Clean): The corpse detonates perfectly as planned.
+  - Margin 5+ (Exceptional): The blast area becomes Mire (difficult terrain) for the remainder of the Scene.
+    
+
+### Master
+
+**Drain Stress**
+The caster reaches into a mind, unraveling focus and siphoning spiritual reserve — Marrow Siphon's thesis turned outward onto an enemy.
+
+- **Level:** Master
+- **Resolution:** Arcane Clash, Arcana vs. Target's Resolve
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Target gains 2 Dissonant Stress. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 3+ (Clean): Target gains 3 Dissonant Stress, and the caster clears 1 of their own Dissonant Stress as the siphoned focus settles.
+
+**Zombie**
+Dark energy reanimates the dead, forcing cold flesh to serve the living.
+
+- **Level:** Master
+- **Resolution:** Unopposed Arcana vs. TN 12 (requires a corpse within reach)
+- **Target/Range:** One corpse, touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The corpse rises as an NPC Undead under the caster's control for the scene (Wound Threshold 6, no Stress Limit); the working costs the caster 1 Dissonant Stress.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): The caster may Lock 5 Stress instead of letting the spell end — doing so makes the servant permanent until destroyed or released.
+*Last Rites - Denies the effect of this spell.*
+
+**Puppet**
+The caster seizes control of the target's motor functions, turning a foe into a marionette.
+
+- **Level:** Master
+- **Resolution:** Arcane Clash, Arcana vs. Target's Resolve
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Caster controls the target's next Activation. The target cannot be forced to directly kill themselves, but can be forced to attack allies or drop their guard. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 3+ (Clean): As above, and control extends for 1 additional round.
+
 __________________________________________________________________
+
 ## Shadow Sorcery
-### Deflection
+
+### Novice
+
+**Deflection**
 Invisible currents of air or shifting shadows cause incoming attacks to veer off course.
 
 - **Level:** Novice
@@ -448,7 +456,47 @@ Invisible currents of air or shifting shadows cause incoming attacks to veer off
 
 **Special Interactions:** While this ward is actively sustained, the protected character may, as a Reactor action against an incoming Strike, substitute a `2d6 + Arcana` roll for their normal Reactor roll (win: no Impact; lose: full Impact, no mitigation) — in addition to the passive Clash penalty above, which still applies to the attacker's roll. This substitution requires the ward to already be sustained; it cannot be cast fresh as a reaction to an unforeseen Strike. The Reactor-substitution option is only available if the ward was raised at Clean or Exceptional quality — a Messy-tier ward grants the passive penalty only.
 
-### Disguise
+**Stitch the Silhouette** (Targeted Control)
+The sorcerer drives an iron nail or a blade into the target’s cast shadow on the floor, magically pinning their physical body in place.
+
+- Level: Novice
+- Target/Range: One character, Short Range
+- Action Type: Aggressor
+- Duration: Until the target breaks free
+- Resolution: Arcane Clash (Arcana vs. Prowess + Athletics).
+    
+- The Effect: If the caster wins, the target’s shadow is nailed to the environment. The target becomes Anchored (Movement is reduced to 0).
+    
+- The Margin Scaler (Based on Clash Margin):
+    
+- Margin 1–2: The target is Anchored until they spend their entire next Aggressor action physically tearing their shadow free, which causes them to suffer 1 Impact from the metaphysical tearing. The caster also takes 1 Dissonant Stress from the strain.
+    
+- Margin 3+ (Clean): The target is Anchored, and because their silhouette is pulled taut, they completely lose the ability to use the Dodge action until they break free. They must rely on Block or Parry.
+    
+
+**Flicker-Step** (Utility / Repositioning)
+The caster dissolves into a nearby shadow, losing physical cohesion, and instantly reforms in another patch of darkness across the battlefield.
+
+- Level: Novice
+- Target/Range: Self, 30ft
+- Action Type: Activation
+- Duration: Instantaneous
+- Resolution: Unopposed Arcana vs. TN 8.
+    
+- The Effect: The caster instantly teleports to any other shadow within 30 feet. This movement completely ignores the Threat Zones of enemies and does not trigger any attacks of opportunity. It is the ultimate escape button for a trapped Arcanist.
+    
+- The Margin Scaler:
+    
+
+- Margin 0–2 (Messy): The void violently rejects the caster. They teleport successfully, but arrive gasping for air, immediately suffering 1 Dissonant Stress.
+    
+- Margin 3–4 (Clean): The teleport is flawless and silent.
+    
+- Margin 5+ (Exceptional): The caster steps out of the shadow in perfect ambush position. They instantly generate 1 Momentum, or they gain Advantage on their next Strike roll against an adjacent enemy.
+
+### Adept
+
+**Disguise**
 Magical energy warps the caster's features and voice to match another.
 
 - **Level:** Adept
@@ -462,7 +510,7 @@ Magical energy warps the caster's features and voice to match another.
 - Margin 3–4 (Clean): As above, no cost.
 - Margin 5+ (Exceptional): The veil extends to up to three allies within Short Range.
 
-### Invisibility
+**Invisibility**
 The target fades from view, replaced by the colors and textures of whatever lies behind them.
 
 - **Level:** Adept
@@ -475,8 +523,8 @@ The target fades from view, replaced by the colors and textures of whatever lies
 - Margin 0–2 (Messy): Target is invisible; attackers suffer Disadvantage targeting them, and they gain Advantage on Stealth. The spell drops the instant they attack or cast a spell. Caster takes 1 Dissonant Stress from the unraveling effort.
 - Margin 3–4 (Clean): As above, no cost.
 - Margin 5+ (Exceptional): The target remains invisible even after attacking — attacking only reveals their general position, removing Disadvantage from attackers for 1 round rather than dropping the spell outright.
-### 1. Creeping Dusk (Environmental Control)
 
+**Creeping Dusk** (Environmental Control)
 The sorcerer exhales a cloud of unnatural, pitch-black soot that instantly smothers ambient light and chokes the room in magical darkness.
 
 - Level: Adept
@@ -496,8 +544,7 @@ The sorcerer exhales a cloud of unnatural, pitch-black soot that instantly smoth
 - Margin 5+ (Exceptional): The shadows become actively hostile. Any enemy that starts its turn inside the zone must pass a TN 8 Resolve check or immediately suffer 1 Dissonant Stress from hallucinatory whispers.
     
 
-### 2. Blade of Paranoia (Combat / Psychological)
-
+**Blade of Paranoia** (Combat / Psychological)
 The caster pulls a blade of condensed absence-of-light from the shadows. It passes completely through physical armor to strike the enemy’s psyche.
 
 - Level: Adept
@@ -516,48 +563,17 @@ The caster pulls a blade of condensed absence-of-light from the shadows. It pass
 - Margin 3+ (Clean): The target suffers 2 Dissonant Stress, rapidly pushing Elites and Bosses toward their Break Point. Furthermore, the sheer terror of the blow saps their momentum—the GM must immediately discard 1 Threat point from the NPC's pool (if they have one).
     
 
-### 3. Stitch the Silhouette (Targeted Control)
+### Master
 
-The sorcerer drives an iron nail or a blade into the target’s cast shadow on the floor, magically pinning their physical body in place.
+*No Master-tier spell yet.*
 
-- Level: Novice
-- Target/Range: One character, Short Range
-- Action Type: Aggressor
-- Duration: Until the target breaks free
-- Resolution: Arcane Clash (Arcana vs. Prowess + Athletics).
-    
-- The Effect: If the caster wins, the target’s shadow is nailed to the environment. The target becomes Anchored (Movement is reduced to 0).
-    
-- The Margin Scaler (Based on Clash Margin):
-    
-- Margin 1–2: The target is Anchored until they spend their entire next Aggressor action physically tearing their shadow free, which causes them to suffer 1 Impact from the metaphysical tearing. The caster also takes 1 Dissonant Stress from the strain.
-    
-- Margin 3+ (Clean): The target is Anchored, and because their silhouette is pulled taut, they completely lose the ability to use the Dodge action until they break free. They must rely on Block or Parry.
-    
-
-### 4. Flicker-Step (Utility / Repositioning)
-
-The caster dissolves into a nearby shadow, losing physical cohesion, and instantly reforms in another patch of darkness across the battlefield.
-
-- Level: Novice
-- Target/Range: Self, 30ft
-- Action Type: Activation
-- Duration: Instantaneous
-- Resolution: Unopposed Arcana vs. TN 8.
-    
-- The Effect: The caster instantly teleports to any other shadow within 30 feet. This movement completely ignores the Threat Zones of enemies and does not trigger any attacks of opportunity. It is the ultimate escape button for a trapped Arcanist.
-    
-- The Margin Scaler:
-    
-
-- Margin 0–2 (Messy): The void violently rejects the caster. They teleport successfully, but arrive gasping for air, immediately suffering 1 Dissonant Stress.
-    
-- Margin 3–4 (Clean): The teleport is flawless and silent.
-    
-- Margin 5+ (Exceptional): The caster steps out of the shadow in perfect ambush position. They instantly generate 1 Momentum, or they gain Advantage on their next Strike roll against an adjacent enemy.
 _________________________________________________________________
+
 ## Shamanism
-### Beast Friend
+
+### Novice
+
+**Beast Friend**
 The caster's spirit resonates with the natural world, commanding the loyalty of beasts.
 
 - **Level:** Novice
@@ -569,8 +585,41 @@ The caster's spirit resonates with the natural world, commanding the loyalty of 
 **The Margin Scaler:**
 - Margin 1–2: The beast becomes an ally for the scene. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, and the caster can communicate telepathically with it and see through its eyes for the scene.
-### 1. Fulminating Strike (Combat / Anti-Armor)
 
+**Wind-Shear** (Crowd Control / Geometry)
+The caster sweeps their arms outward, creating a localized, concussive blast of cyclonic air meant to violently physically separate combatants.
+
+- Level: Novice
+- Target/Range: 10ft cone
+- Action Type: Aggressor
+- Duration: Instantaneous
+- Resolution: Arcane Clash (Arcana vs. Targets' Prowess or Acrobatics). Note: This targets all enemies within a 10-foot cone.
+    
+- The Effect: This spell does not deal Impact. Instead, it alters the battlefield geometry to save swarmed allies. The Shaman rolls once, and every enemy in the cone rolls to defend.
+    
+- The Margin Scaler (Based on Clash Margin):
+    
+- Margin 1–2: The enemy is violently shoved 10 feet backward, breaking any engagements and removing them from the party's Threat Zones. The caster also takes 1 Dissonant Stress from the strain.
+    
+- Margin 3+ (Clean): The enemy is shoved 10 feet backward, slammed to the ground (gaining the Prone condition), and suffers 1 Dissonant Stress from the concussive force.
+
+**Bone Claws** (Combat / Natural Weapon)
+The caster's own finger bones tear free of the flesh, reforming into three curved, ivory-white claws on each hand — the oldest weapon a body can grow back.
+
+- Level: Novice
+- Target/Range: Self, touch
+- Action Type: Activation
+- Duration: Until the end of the encounter
+- Resolution: Unopposed Arcana vs. TN 8.
+- The Effect: Three retractable bone claws erupt from the knuckles of each hand. The caster may extend or retract them as a Free Action — sheathed, they're indistinguishable from ordinary hands. While extended, the claws function as a Power 2 melee weapon for the caster's Aggressor Strikes and Parry actions, and their grip is sharp enough to bite into stone or bark.
+- The Margin Scaler:
+  - Margin 0–2 (Messy): The bones tear through fast and jagged. The claws form, but the caster takes 1 Dissonant Stress from the shock of it.
+  - Margin 3–4 (Clean): The claws emerge clean and painless.
+  - Margin 5+ (Exceptional): The grip is perfect. For the rest of the encounter, the caster has Advantage on any Climb or Grapple check made with the claws extended.
+
+### Adept
+
+**Fulminating Strike** (Combat / Anti-Armor)
 The Shaman draws ambient static from the air, concentrating it into a deafening, blinding arc of jagged lightning that seeks out grounded metal.
 
 - Level: Adept
@@ -584,8 +633,7 @@ The Shaman draws ambient static from the air, concentrating it into a deafening,
   - Margin 3+ (Clean): As above, and the electrical surge cooks the target inside their armor — they instantly suffer 1 Dissonant Stress in addition to the physical Wound damage.
     
 
-### 2. Blood-Wood Totem (Environmental / Aura)
-
+**Blood-Wood Totem** (Environmental / Aura)
 The caster drives a carved, bone-and-wood fetish into the earth, bleeding onto it to awaken a localized, territorial nature spirit.
 
 - Level: Adept
@@ -606,8 +654,7 @@ The caster drives a carved, bone-and-wood fetish into the earth, bleeding onto i
 - Margin 5+ (Exceptional): The spirit is completely subjugated. Enemies entering the radius must treat it as Mire (difficult terrain), while allies move through it freely.
     
 
-### 3. Ancestral Mantle (Utility / Buff)
-
+**Ancestral Mantle** (Utility / Buff)
 The Shaman inhales the ashes or bone dust of a long-dead warrior, allowing a feral, blood-starved spirit to temporarily possess an ally's nervous system.
 
 - Level: Adept
@@ -627,26 +674,17 @@ The Shaman inhales the ashes or bone dust of a long-dead warrior, allowing a fer
 - Margin 5+ (Exceptional): The spirit is bloodthirsty. The target immediately generates 1 Momentum the moment the spell is cast.
     
 
-### 4. Wind-Shear (Crowd Control / Geometry)
+### Master
 
-The caster sweeps their arms outward, creating a localized, concussive blast of cyclonic air meant to violently physically separate combatants.
+*No Master-tier spell yet.*
 
-- Level: Novice
-- Target/Range: 10ft cone
-- Action Type: Aggressor
-- Duration: Instantaneous
-- Resolution: Arcane Clash (Arcana vs. Targets' Prowess or Acrobatics). Note: This targets all enemies within a 10-foot cone.
-    
-- The Effect: This spell does not deal Impact. Instead, it alters the battlefield geometry to save swarmed allies. The Shaman rolls once, and every enemy in the cone rolls to defend.
-    
-- The Margin Scaler (Based on Clash Margin):
-    
-- Margin 1–2: The enemy is violently shoved 10 feet backward, breaking any engagements and removing them from the party's Threat Zones. The caster also takes 1 Dissonant Stress from the strain.
-    
-- Margin 3+ (Clean): The enemy is shoved 10 feet backward, slammed to the ground (gaining the Prone condition), and suffers 1 Dissonant Stress from the concussive force.
 _______________________________________________________________
+
 ## Alchemy and Transmutation
-### Boost/Lower Trait
+
+### Novice
+
+**Boost/Lower Trait**
 The caster reaches into a body's fundamental rhythm, quickening it or grinding it to a crawl.
 
 - **Level:** Novice
@@ -662,21 +700,7 @@ The caster reaches into a body's fundamental rhythm, quickening it or grinding i
 
 **Special Interactions:** A character can only have one Boost or Lower effect active at a time; a second casting replaces the first.
 
-### Growth/Shrink
-The target's physical dimensions warp, swelling to monstrous proportions or collapsing into a diminutive one.
-
-- **Level:** Adept
-- **Resolution:** Arcane Clash, Arcana vs. Target's Resolve (if unwilling) — unopposed vs. TN 10 if willing
-- **Target/Range:** One character, Short Range
-- **Action Type:** Aggressor or Activation
-- **Duration:** Scene
-
-**The Margin Scaler:**
-- Margin 1–2 / 0–2 (Messy): Target's Scale shifts by 1 step (per the existing Scale rules — Growth: +2 WT, Advantage on Prowess shoving/grappling, Disadvantage on Stealth; Shrink: -1 WT, Advantage on Stealth, Disadvantage on Prowess). The caster also takes 1 Dissonant Stress from the strain.
-- Margin 3+ / 3–4 (Clean): As above, no complication.
-- Margin 5+ (Exceptional, unopposed only): The shift is extreme — Scale +/-2 instead of 1.
-
-### Burrow
+**Burrow**
 The caster or a chosen ally melts into the earth, moving through soil and stone like water.
 
 - **Level:** Novice
@@ -690,8 +714,23 @@ The caster or a chosen ally melts into the earth, moving through soil and stone 
 - Margin 3–4 (Clean): As above, no cost.
 - Margin 5+ (Exceptional): Emerging to attack grants Advantage on the first Strike roll of that turn.
 
-### 1. Caustic Deluge (Combat / Gear Degradation)
+### Adept
 
+**Growth/Shrink**
+The target's physical dimensions warp, swelling to monstrous proportions or collapsing into a diminutive one.
+
+- **Level:** Adept
+- **Resolution:** Arcane Clash, Arcana vs. Target's Resolve (if unwilling) — unopposed vs. TN 10 if willing
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor or Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 1–2 / 0–2 (Messy): Target's Scale shifts by 1 step (per the existing Scale rules — Growth: +2 WT, Advantage on Prowess shoving/grappling, Disadvantage on Stealth; Shrink: -1 WT, Advantage on Stealth, Disadvantage on Prowess). The caster also takes 1 Dissonant Stress from the strain.
+- Margin 3+ / 3–4 (Clean): As above, no complication.
+- Margin 5+ (Exceptional, unopposed only): The shift is extreme — Scale +/-2 instead of 1.
+
+**Caustic Deluge** (Combat / Gear Degradation)
 The caster’s hands violently sweat a highly reactive, boiling solvent, which they hurl in a concentrated arc that eagerly eats through manufactured materials.
 
 - Level: Adept
@@ -707,8 +746,7 @@ The caster’s hands violently sweat a highly reactive, boiling solvent, which t
 
     
 
-### 2. Mutagenic Surge (Utility / Flesh-Warping Buff)
-
+**Mutagenic Surge** (Utility / Flesh-Warping Buff)
 The caster forces a localized, agonizing biological reaction—either in themselves or an ally—causing muscles to instantly hypertrophy and adrenaline to flood the nervous system.
 
 - Level: Adept
@@ -729,8 +767,7 @@ The caster forces a localized, agonizing biological reaction—either in themsel
 - Margin 5+ (Exceptional): The target's metabolism goes into overdrive. They immediately heal 1 Wound Slot (Triage effect) as their cells rapidly multiply, in addition to receiving the buff.
     
 
-### 3. Solder Joints (Crowd Control / Transmutation)
-
+**Solder Joints** (Crowd Control / Transmutation)
 The caster snaps their fingers, drastically superheating the ambient air around a specific metallic object, causing an enemy's gear to instantly melt and fuse together.
 
 - Level: Adept
@@ -749,8 +786,7 @@ The caster snaps their fingers, drastically superheating the ambient air around 
 - Margin 3+ (Clean): You fuse the target's weapon to their gauntlet or weld their visor shut. The target is Anchored and permanently suffers Disadvantage on all Strike rolls until the end of the fight.
     
 
-### 4. Vitrify (Environmental / Breach)
-
+**Vitrify** (Environmental / Breach)
 The caster places their palm against a solid surface—stone, wood, or bone—and transmutates the molecular structure into brittle, highly pressurized glass.
 
 - Level: Adept
@@ -769,9 +805,18 @@ The caster places their palm against a solid surface—stone, wood, or bone—an
 - Margin 3–4 (Clean): The surface turns to glass, waiting to be shattered safely.
     
 - Margin 5+ (Exceptional): The caster controls the tension of the glass. When it shatters, it leaves behind a floor of razor-sharp caltrops, turning that 10x10 zone into a hazard that deals 1 Impact to any enemy that moves through it.
+
+### Master
+
+*No Master-tier spell yet.*
+
 ________________________________________________________________
+
 ## Demonology and Void Magic
-### Fear
+
+### Novice
+
+**Fear**
 The caster whispers a truth from the outer dark, projecting pure existential dread.
 
 - **Level:** Novice
@@ -782,8 +827,26 @@ The caster whispers a truth from the outer dark, projecting pure existential dre
 **The Margin Scaler:**
 - Margin 1–2: Target suffers 2 Dissonant Stress and must spend their next Activation moving away from the caster at maximum speed. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, and if it's a Fodder-tier enemy, they immediately Rout (per the NPC Stress rules) rather than just fleeing.
-### 1. Flay the Veil (Combat / Unmitigated Annihilation)
 
+### Adept
+
+**Euclidean Fracture** (Crowd Control / Geometry)
+The caster violently twists the spatial dimensions around an enemy, causing distances to become infinitely long or impossibly short.
+
+- Level: Adept
+- Target/Range: One Elite or Boss enemy, Short Range
+- Action Type: Aggressor
+- Duration: Until the paradox resolves (see Margin Scaler)
+- Resolution: Arcane Clash (Arcana vs. Target's Resolve).
+- **Spell Power: 3**
+- The Effect: You target one Elite or Boss. If you win the Clash, you lock them in a spatial paradox.
+- The Margin Scaler (Based on Clash Margin):
+  - Margin 1–2: The target is Anchored (0 movement). Any melee attack they attempt against an adjacent player automatically suffers a -2 penalty, as their weapon swings through warped space. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): The target is trapped. If they attempt to move or use an Aggressor action, they instantly suffer Impact equal to the original casting Margin + 3 (Spell Power) as the twisted geometry physically tears their muscles, and must spend their entire turn taking the Regroup action just to let the space stabilize.
+
+### Master
+
+**Flay the Veil** (Combat / Unmitigated Annihilation)
 The caster rips a jagged, temporary tear in the air itself, exposing the target to the crushing pressure and absolute zero of the void outside reality.
 
 - Level: Master
@@ -797,8 +860,7 @@ The caster rips a jagged, temporary tear in the air itself, exposing the target 
   - Margin 1–2: Impact = Margin + 5 (Spell Power). The target is chilled to the bone, suffering Disadvantage on their next physical Strike roll. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the target loses a piece of their physical form to the void. If it is an Elite or Boss, they permanently lose one of their Rule-Breaking Tags (e.g., Pack Tactics or Ablative Armor) as it is sucked into the tear.
 
-### 2. Zone of Apathy (Environmental / Meta-Disruption)
-
+**Zone of Apathy** (Environmental / Meta-Disruption)
 The caster whispers a truth from the outer dark, creating a localized field where ambition, adrenaline, and survival instincts simply cease to exist.
 
 - Level: Master
@@ -818,8 +880,7 @@ The caster whispers a truth from the outer dark, creating a localized field wher
 - Margin 5+ (Exceptional): The despair is weaponized. Any enemy possessing the Fodder tier that begins its turn in the zone instantly surrenders or collapses, their Stress track functionally broken.
     
 
-### 3. The Marrow Bargain (Utility / Sacrificial Engine)
-
+**The Marrow Bargain** (Utility / Sacrificial Engine)
 The caster offers their own physical substance to the entities in the void in exchange for a sudden, violent distortion of probability.
 
 - Level: Master
@@ -839,23 +900,13 @@ The caster offers their own physical substance to the entities in the void in ex
 - Margin 5+ (Exceptional): The void is satiated by the blood. The caster suffers the Wound, but the entire party immediately clears all Dissonant Stress.
     
 
-### 4. Euclidean Fracture (Crowd Control / Geometry)
-
-The caster violently twists the spatial dimensions around an enemy, causing distances to become infinitely long or impossibly short.
-
-- Level: Adept
-- Target/Range: One Elite or Boss enemy, Short Range
-- Action Type: Aggressor
-- Duration: Until the paradox resolves (see Margin Scaler)
-- Resolution: Arcane Clash (Arcana vs. Target's Resolve).
-- **Spell Power: 3**
-- The Effect: You target one Elite or Boss. If you win the Clash, you lock them in a spatial paradox.
-- The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: The target is Anchored (0 movement). Any melee attack they attempt against an adjacent player automatically suffers a -2 penalty, as their weapon swings through warped space. The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): The target is trapped. If they attempt to move or use an Aggressor action, they instantly suffer Impact equal to the original casting Margin + 3 (Spell Power) as the twisted geometry physically tears their muscles, and must spend their entire turn taking the Regroup action just to let the space stabilize.
 _____________________________________________________________
+
 ## Witch Magic and Hedge Craft
-### Confusion
+
+### Novice
+
+**Confusion**
 Whispers of madness scramble the target's thoughts.
 
 - **Level:** Novice
@@ -866,8 +917,8 @@ Whispers of madness scramble the target's thoughts.
 **The Margin Scaler:**
 - Margin 1–2: Target suffers Disadvantage on their next Activation Order roll. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, and the target also suffers 1 Dissonant Stress as the curse roots.
-### 1. The Evil Eye (Combat / Debuff)
 
+**The Evil Eye** (Combat / Debuff)
 The Witch locks eyes with the target and whispers a localized, highly specific curse, snapping a small chicken bone or twig to seal the hex.
 
 - Level: Novice
@@ -885,8 +936,9 @@ The Witch locks eyes with the target and whispers a localized, highly specific c
 - Margin 3+ (Clean): The curse roots deep. The target suffers Disadvantage on their next roll, and if they fail that roll, the supernatural backlash instantly inflicts 1 Dissonant Stress on them. This forces enemies to either stop attacking or rapidly accelerate toward their breaking point.
     
 
-### 2. Sympathetic Effigy (Utility / Damage Mitigation)
+### Adept
 
+**Sympathetic Effigy** (Utility / Damage Mitigation)
 The Witch rapidly binds a handful of straw, twine, and a drop of an ally's blood into a crude poppet, creating a metaphysical lightning rod for physical trauma.
 
 - Level: Adept
@@ -907,8 +959,7 @@ The Witch rapidly binds a handful of straw, twine, and a drop of an ally's blood
 - Margin 5+ (Exceptional): The curse reflects the harm. The poppet absorbs the Wound, and the enemy who delivered the blow instantly suffers 1 Impact as their own flesh mysteriously tears open.
     
 
-### 3. Choking Bramble (Environmental / Retaliation)
-
+**Choking Bramble** (Environmental / Retaliation)
 The caster scatters a handful of dead seeds that instantly erupt into a writhing, ankle-high patch of thorny, iron-hard briars that bleed a numbing sap.
 
 - Level: Adept
@@ -929,8 +980,7 @@ The caster scatters a handful of dead seeds that instantly erupt into a writhing
 - Margin 5+ (Exceptional): The thorns are venomous. In addition to the 1 Impact, any Fodder-tier enemy taking damage from the briars instantly loses their flanking Bonus for the remainder of the round as the pain breaks their coordination.
     
 
-### 4. The Creeping Ague (Crowd Control / Biological)
-
+**The Creeping Ague** (Crowd Control / Biological)
 The Witch blows a handful of pale, grave-dust spores into the face of a target, instantly inducing a supernatural, bone-rattling fever.
 
 - Level: Adept
@@ -948,22 +998,58 @@ The Witch blows a handful of pale, grave-dust spores into the face of a target, 
     
 - Margin 3+ (Clean): The sickness is overwhelming. The target must forfeit their entire next turn, violently retching and coughing black bile. They automatically take the Regroup action, doing nothing else. If it is an Elite or Boss, the GM is denied the ability to spend Threat on this creature until it recovers.
 
+### Master
+
+*No Master-tier spell yet.*
+
 ## Astromancy
-### Fly
-Gravity loses its grip as the target begins to drift, then soar. The escalation of Weightless Step's gravity-defiance.
 
-- **Level:** Master
-- **Resolution:** Unopposed Arcana vs. TN 12
-- **Target/Range:** Self or one ally, touch
-- **Action Type:** Activation
-- **Duration:** Scene
+### Novice
 
-**The Margin Scaler:**
-- Margin 0–2 (Messy): Target gains a Flying Move equal to their land Move and can hover; the working leaves them nauseated for 1 Dissonant Stress.
-- Margin 3–4 (Clean): As above, no cost. While airborne, they also gain Advantage on Acrobatics checks to dodge ground-based or non-flying melee attacks.
-- Margin 5+ (Exceptional): Flying Move doubles for the scene.
-### 1. Crushing Singularity (Environmental / Gravity Control)
+**Gravity Dart** (Combat / Kinetic Strike)
+The Astromancer compresses a knot of localized space to bullet density and flings it downrange — the closest thing the discipline has to a simple bolt.
 
+- Level: Novice
+- Target/Range: One character, Medium Range
+- Action Type: Aggressor
+- Duration: Instantaneous
+- Resolution: Arcane Clash (Arcana vs. Target's Defense action).
+- Spell Power: 2
+- The Effect: A marble-sized mass, dense enough to punch through armor, strikes the target at speed.
+- The Margin Scaler (Based on Clash Margin):
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, and the compression shockwave scrambles the target's inner ear — they suffer Disadvantage on their next Reactor roll (Dodge, Parry, or Block).
+
+**Gravity Well** (Utility / Short-Range Retrieval)
+The caster inverts the pull between themselves and a target for an instant, hauling it bodily through the air.
+
+- Level: Novice
+- Target/Range: One willing ally or unattended object, Medium Range
+- Action Type: Activation
+- Duration: Instantaneous
+- Resolution: Unopposed Arcana vs. TN 8. (Cannot target unwilling creatures, or anything beyond what one person could carry — dragging a Construct or an enemy takes a heavier working.)
+- The Effect: The target is yanked through the air to an empty space adjacent to the caster.
+- The Margin Scaler:
+  - Margin 0–2 (Messy): The pull works, but the transit is rough. The caster takes 1 Dissonant Stress from the recoil.
+  - Margin 3–4 (Clean): The pull is smooth and controlled, no cost.
+  - Margin 5+ (Exceptional): The target arrives with enough momentum to immediately make a free Aggressor Strike if they land adjacent to an enemy.
+
+**Leaden Grasp** (Crowd Control / Weight Manipulation)
+The caster doubles the local gravity around a single target, turning their own weight into a trap.
+
+- Level: Novice
+- Target/Range: One character, Medium Range
+- Action Type: Aggressor
+- Duration: Until the end of the target's next turn
+- Resolution: Arcane Clash (Arcana vs. Target's Resolve).
+- The Effect: This is not designed to deal Impact (damage), but to cripple mobility. If the Astromancer wins the Clash, the target is afflicted with crushing weight.
+- The Margin Scaler (Based on Clash Margin):
+  - Margin 1–2: The target's Move is halved for their next turn. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): The target's Move is reduced to 0 (Anchored) for their next turn, and they suffer a -2 penalty on any Aggressor Strike they attempt while anchored, unable to get their weight behind the swing.
+
+### Adept
+
+**Crushing Singularity** (Environmental / Gravity Control)
 The caster compresses a sphere of localized space into a marble-sized singularity, generating a crushing gravitational pull that distorts the battlefield.
 
 - Level: Adept
@@ -983,8 +1069,7 @@ The caster compresses a sphere of localized space into a marble-sized singularit
 - Margin 5+ (Exceptional): The pressure is absolute. Any Elite or Construct caught in the exact center of the zone instantly has their armor violently warped, immediately gaining the Damaged tag to their gear.
     
 
-### 2. Astral Piercer (Combat / Vertical Bypassing)
-
+**Astral Piercer** (Combat / Vertical Bypassing)
 The Astromancer calls down a pinpoint, blinding shaft of condensed starlight that strikes from the atmosphere directly onto the target’s skull.
 
 - Level: Adept
@@ -999,8 +1084,7 @@ The Astromancer calls down a pinpoint, blinding shaft of condensed starlight tha
   - Margin 3+ (Clean): As above, and the sheer kinetic force instantly knocks the target Prone.
     
 
-### 3. Tidal Lock (Crowd Control / Relational Geometry)
-
+**Tidal Lock** (Crowd Control / Relational Geometry)
 The caster mathematically binds an enemy’s gravitational pull to an ally, forcing them into a locked, inescapable orbit.
 
 - Level: Adept
@@ -1018,8 +1102,7 @@ The caster mathematically binds an enemy’s gravitational pull to an ally, forc
 - Margin 3+ (Clean): The target is perfectly locked. If the tethered ally moves on their turn, the enemy is violently dragged across the battlefield with them, maintaining the exact geometric distance, completely ignoring the enemy's weight or Construct tags.
     
 
-### 4. Weightless Step (Utility / Physics Alteration)
-
+**Weightless Step** (Utility / Physics Alteration)
 The Astromancer temporarily severs an ally’s connection to gravity, completely removing their physical mass.
 
 - Level: Adept
@@ -1039,69 +1122,43 @@ The Astromancer temporarily severs an ally’s connection to gravity, completely
     
 - Margin 5+ (Exceptional): The target perfectly manipulates their orbital momentum. The first time the target drops from a height or leaps to perform a melee Strike, their weapon's Power is permanently increased by +1 for that single swing due to terminal velocity.
 
-### 5. Gravity Dart (Combat / Kinetic Strike)
+### Master
 
-The Astromancer compresses a knot of localized space to bullet density and flings it downrange — the closest thing the discipline has to a simple bolt.
+**Fly**
+Gravity loses its grip as the target begins to drift, then soar. The escalation of Weightless Step's gravity-defiance.
 
-- Level: Novice
-- Target/Range: One character, Medium Range
-- Action Type: Aggressor
-- Duration: Instantaneous
-- Resolution: Arcane Clash (Arcana vs. Target's Defense action).
-- Spell Power: 2
-- The Effect: A marble-sized mass, dense enough to punch through armor, strikes the target at speed.
-- The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 2 (Spell Power). The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): As above, and the compression shockwave scrambles the target's inner ear — they suffer Disadvantage on their next Reactor roll (Dodge, Parry, or Block).
+- **Level:** Master
+- **Resolution:** Unopposed Arcana vs. TN 12
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation
+- **Duration:** Scene
 
-### 6. Gravity Well (Utility / Short-Range Retrieval)
-
-The caster inverts the pull between themselves and a target for an instant, hauling it bodily through the air.
-
-- Level: Novice
-- Target/Range: One willing ally or unattended object, Medium Range
-- Action Type: Activation
-- Duration: Instantaneous
-- Resolution: Unopposed Arcana vs. TN 8. (Cannot target unwilling creatures, or anything beyond what one person could carry — dragging a Construct or an enemy takes a heavier working.)
-- The Effect: The target is yanked through the air to an empty space adjacent to the caster.
-- The Margin Scaler:
-  - Margin 0–2 (Messy): The pull works, but the transit is rough. The caster takes 1 Dissonant Stress from the recoil.
-  - Margin 3–4 (Clean): The pull is smooth and controlled, no cost.
-  - Margin 5+ (Exceptional): The target arrives with enough momentum to immediately make a free Aggressor Strike if they land adjacent to an enemy.
-
-### 7. Leaden Grasp (Crowd Control / Weight Manipulation)
-
-The caster doubles the local gravity around a single target, turning their own weight into a trap.
-
-- Level: Novice
-- Target/Range: One character, Medium Range
-- Action Type: Aggressor
-- Duration: Until the end of the target's next turn
-- Resolution: Arcane Clash (Arcana vs. Target's Resolve).
-- The Effect: This is not designed to deal Impact (damage), but to cripple mobility. If the Astromancer wins the Clash, the target is afflicted with crushing weight.
-- The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: The target's Move is halved for their next turn. The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): The target's Move is reduced to 0 (Anchored) for their next turn, and they suffer a -2 penalty on any Aggressor Strike they attempt while anchored, unable to get their weight behind the swing.
+**The Margin Scaler:**
+- Margin 0–2 (Messy): Target gains a Flying Move equal to their land Move and can hover; the working leaves them nauseated for 1 Dissonant Stress.
+- Margin 3–4 (Clean): As above, no cost. While airborne, they also gain Advantage on Acrobatics checks to dodge ground-based or non-flying melee attacks.
+- Margin 5+ (Exceptional): Flying Move doubles for the scene.
 
 ## Pyromancy
-### 1. The Furnace Lance (Combat / Anti-Parry)
 
-The caster exhales a concentrated, blinding beam of white-hot plasma that superheats the air and violently expands upon impact.
+### Novice
 
-- Level: Master
-- Target/Range: One character, Medium Range
+**Thermal Detonation** (Crowd Control / Proximity Defense)
+The caster hyper-pressurizes the air directly around their own body, before releasing it in a deafening, spherical concussive blast.
+
+- Level: Novice
+- Target/Range: 5ft radius, self
 - Action Type: Aggressor
 - Duration: Instantaneous
-- Resolution: Arcane Clash (Arcana vs. Target's Defense action).
-- **Spell Power: 5**
-- The Effect: You cannot cross blades with a blowtorch. The target completely loses the ability to use the Parry action against this Strike. They must rely on a thick shield (Block) or attempt to Dodge.
+- Resolution: Arcane Clash (Arcana vs. Targets' Defense action). Note: This targets every enemy currently engaged in the caster's Threat Zone.
+- **Spell Power: 2**
+- The Effect: This is the Pyromancer's panic button when swarmed. The caster rolls once, and every enemy within 5 feet must roll to defend.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 5 (Spell Power). The raw heat causes the target to panic, forcing them to drop any wooden weapon or shield they are holding. The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): As above, and the target is Ablaze — until they waste a full Aggressor action to put themselves out (the Regroup action), they suffer 1 Impact at the start of every turn.
-    
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, and the enemy is thrown 10 feet backward, knocked Prone, and suffers 1 Dissonant Stress from the ruptured eardrums.
 
-### 2. Wildfire Proliferation (Environmental / Escalation)
+### Adept
 
+**Wildfire Proliferation** (Environmental / Escalation)
 The caster hurls a fistful of white-hot embers that aggressively seek out oxygen and combustible material, turning the environment into a hazard.
 
 - Level: Adept
@@ -1117,8 +1174,7 @@ The caster hurls a fistful of white-hot embers that aggressively seek out oxygen
   - Margin 5+ (Exceptional): At the start of the next combat round, the GM must expand the fire zone by 5 feet in every direction.
     
 
-### 3. Cauterize (Utility / Brutal Triage)
-
+**Cauterize** (Utility / Brutal Triage)
 The Pyromancer presses a glowing, superheated hand directly against an ally’s bleeding, open Wound to violently flash-fry the tissue closed.
 
 - Level: Adept
@@ -1139,21 +1195,22 @@ The Pyromancer presses a glowing, superheated hand directly against an ally’s 
 - Margin 5+ (Exceptional): The sudden rush of adrenaline overrides the pain completely. The Wound is sealed, neither party takes Dissonant Stress, and the target immediately generates 1 Momentum from the sheer shock to their system.
     
 
-### 4. Thermal Detonation (Crowd Control / Proximity Defense)
+### Master
 
-The caster hyper-pressurizes the air directly around their own body, before releasing it in a deafening, spherical concussive blast.
+**The Furnace Lance** (Combat / Anti-Parry)
+The caster exhales a concentrated, blinding beam of white-hot plasma that superheats the air and violently expands upon impact.
 
-- Level: Novice
-- Target/Range: 5ft radius, self
+- Level: Master
+- Target/Range: One character, Medium Range
 - Action Type: Aggressor
 - Duration: Instantaneous
-- Resolution: Arcane Clash (Arcana vs. Targets' Defense action). Note: This targets every enemy currently engaged in the caster's Threat Zone.
-- **Spell Power: 2**
-- The Effect: This is the Pyromancer's panic button when swarmed. The caster rolls once, and every enemy within 5 feet must roll to defend.
+- Resolution: Arcane Clash (Arcana vs. Target's Defense action).
+- **Spell Power: 5**
+- The Effect: You cannot cross blades with a blowtorch. The target completely loses the ability to use the Parry action against this Strike. They must rely on a thick shield (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 2 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus. The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): As above, and the enemy is thrown 10 feet backward, knocked Prone, and suffers 1 Dissonant Stress from the ruptured eardrums.
-
+  - Margin 1–2: Impact = Margin + 5 (Spell Power). The raw heat causes the target to panic, forcing them to drop any wooden weapon or shield they are holding. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, and the target is Ablaze — until they waste a full Aggressor action to put themselves out (the Regroup action), they suffer 1 Impact at the start of every turn.
+    
 
 # The Word on Domains;
 Faith domains represent direct divine intervention powered by rigid devotion. Their domains give them an aura and a specific prayer manifestation.
