@@ -1039,6 +1039,50 @@ The Astromancer temporarily severs an ally’s connection to gravity, completely
     
 - Margin 5+ (Exceptional): The target perfectly manipulates their orbital momentum. The first time the target drops from a height or leaps to perform a melee Strike, their weapon's Power is permanently increased by +1 for that single swing due to terminal velocity.
 
+### 5. Gravity Dart (Combat / Kinetic Strike)
+
+The Astromancer compresses a knot of localized space to bullet density and flings it downrange — the closest thing the discipline has to a simple bolt.
+
+- Level: Novice
+- Target/Range: One character, Medium Range
+- Action Type: Aggressor
+- Duration: Instantaneous
+- Resolution: Arcane Clash (Arcana vs. Target's Defense action).
+- Spell Power: 2
+- The Effect: A marble-sized mass, dense enough to punch through armor, strikes the target at speed.
+- The Margin Scaler (Based on Clash Margin):
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, and the compression shockwave scrambles the target's inner ear — they suffer Disadvantage on their next Reactor roll (Dodge, Parry, or Block).
+
+### 6. Gravity Well (Utility / Short-Range Retrieval)
+
+The caster inverts the pull between themselves and a target for an instant, hauling it bodily through the air.
+
+- Level: Novice
+- Target/Range: One willing ally or unattended object, Medium Range
+- Action Type: Activation
+- Duration: Instantaneous
+- Resolution: Unopposed Arcana vs. TN 8. (Cannot target unwilling creatures, or anything beyond what one person could carry — dragging a Construct or an enemy takes a heavier working.)
+- The Effect: The target is yanked through the air to an empty space adjacent to the caster.
+- The Margin Scaler:
+  - Margin 0–2 (Messy): The pull works, but the transit is rough. The caster takes 1 Dissonant Stress from the recoil.
+  - Margin 3–4 (Clean): The pull is smooth and controlled, no cost.
+  - Margin 5+ (Exceptional): The target arrives with enough momentum to immediately make a free Aggressor Strike if they land adjacent to an enemy.
+
+### 7. Leaden Grasp (Crowd Control / Weight Manipulation)
+
+The caster doubles the local gravity around a single target, turning their own weight into a trap.
+
+- Level: Novice
+- Target/Range: One character, Medium Range
+- Action Type: Aggressor
+- Duration: Until the end of the target's next turn
+- Resolution: Arcane Clash (Arcana vs. Target's Resolve).
+- The Effect: This is not designed to deal Impact (damage), but to cripple mobility. If the Astromancer wins the Clash, the target is afflicted with crushing weight.
+- The Margin Scaler (Based on Clash Margin):
+  - Margin 1–2: The target's Move is halved for their next turn. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): The target's Move is reduced to 0 (Anchored) for their next turn, and they suffer a -2 penalty on any Aggressor Strike they attempt while anchored, unable to get their weight behind the swing.
+
 ## Pyromancy
 ### 1. The Furnace Lance (Combat / Anti-Parry)
 
