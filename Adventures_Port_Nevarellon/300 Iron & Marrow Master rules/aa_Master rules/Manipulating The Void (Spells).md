@@ -1334,8 +1334,9 @@ The house always wins — except for the one hand Corvo decides it doesn't.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The Advantage applies, but convert the cost into a direct Wound.
 
-**The Crooked Coin** (Novice Miracle)
+**The Crooked Coin**
 
+- **Level:** Novice Miracle
 - **Cost:** 1 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Target/Range:** Self or one ally, Short Range
@@ -1346,8 +1347,9 @@ The house always wins — except for the one hand Corvo decides it doesn't.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, reset the Priest's Encroachment to 0.
 
-**Fool's Errand** (Novice Miracle)
+**Fool's Errand**
 
+- **Level:** Novice Miracle
 - **Cost:** 1 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Target/Range:** Medium Range
@@ -1375,8 +1377,9 @@ A favor planted now, called in later, when it does the most damage.
 - Fail: As Pass, and gain 1 encroachment.
 - Snake Eyes: The mark is set, but convert the cost into a direct Wound on the Priest immediately.
 
-**Corvo's Step** (Adept Miracle)
+**Corvo's Step**
 
+- **Level:** Adept Miracle
 - **Cost:** 2 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Target/Range:** Self and one willing ally or unattended object of similar size, Medium Range
@@ -1403,8 +1406,9 @@ Corvo didn't fight the empire's laws — he forged better ones. The Priest forge
 
 ### Master Miracles
 
-**The House Always Wins** (Master Miracle)
+**The House Always Wins**
 
+- **Level:** Master Miracle
 - **Cost:** 4 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Target/Range:** One enemy, line of sight
@@ -1438,8 +1442,9 @@ The house always wins. Sometimes it just likes to remind the table why.
 
 ### Novice Miracles
 
-**The Architect's Decree** (Novice Miracle)
+**The Architect's Decree**
 
+- **Level:** Novice Miracle
 - **Cost:** 1 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Target/Range:** One enemy, Short Range
@@ -1452,8 +1457,9 @@ The house always wins. Sometimes it just likes to remind the table why.
 
 **Designer Note:** This is elite battlefield control. It bypasses saving throws entirely — the target stops moving regardless of the roll. What the roll now determines is whether that certainty came cheap (Pass) or whether the Priest is quietly running up a tab with something that isn't them (Fail/Snake Eyes).
 
-**Sanctuary of the Zenith** (Novice Miracle)
+**Sanctuary of the Zenith**
 
+- **Level:** Novice Miracle
 - **Cost:** 1 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Target/Range:** A 3x3 square zone, centered on self or within Short Range
@@ -1467,9 +1473,10 @@ The house always wins. Sometimes it just likes to remind the table why.
 
 **Designer Note:** This forces the core 2d6 + Attribute + Skill math to be played completely flat. If a Boss relies on stacked passive Advantages, or a pack of wolves relies on Flanking, the Priest shuts down their mechanical engine — the Tithe roll never touches whether that shutdown happens, only what it costs the Priest personally.
 
-**Writ of Protection** (Novice Miracle)
+**Writ of Protection**
 Aurelius wrote the law before the sword was drawn. The sword simply hasn't caught up yet.
 
+- **Level:** Novice Miracle
 - **Cost:** 1 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Target/Range:** One ally, Short Range
@@ -1484,8 +1491,9 @@ Aurelius wrote the law before the sword was drawn. The sword simply hasn't caugh
 
 ### Adept Miracles
 
-**Chains of Mandate** (Adept Miracle)
+**Chains of Mandate**
 
+- **Level:** Adept Miracle
 - **Cost:** 2 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Target/Range:** One enemy, Medium Range
@@ -1499,9 +1507,10 @@ Aurelius wrote the law before the sword was drawn. The sword simply hasn't caugh
 
 **Designer Note:** This directly hooks into the Dynamic Trait Manifest — Bosses and Elites derive their threat from these Traits. Paying 2 Locked Stress to turn off "Resilient" right before the Fighter lands a Greatsword blow is a deeply satisfying tactical loop, and it's now backed by the same cost-not-outcome uncertainty every other Miracle carries.
 
-**Aurelius's Judgment** (Adept Miracle)
+**Aurelius's Judgment**
 The verdict is entered. The body may keep fighting; the law has already decided it will not be saved.
 
+- **Level:** Adept Miracle
 - **Cost:** 2 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Target/Range:** One enemy, Short Range
@@ -1517,8 +1526,9 @@ The verdict is entered. The body may keep fighting; the law has already decided 
 
 ### Master Miracles
 
-**The Scales of Aurelius** (Master Miracle)
+**The Scales of Aurelius**
 
+- **Level:** Master Miracle
 - **Cost:** 4 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Target/Range:** The triggering roll, Cannot target the Tithe of Will roll of the Miracle being cast to trigger it.
@@ -1535,6 +1545,7 @@ The verdict is entered. The body may keep fighting; the law has already decided 
 **Banish** (Domain of Law — exclusive)
 Unchanged — already conformant. Included here for completeness since it's Law's other Master Miracle:
 
+- **Level:** Master Miracle
 - **Cost:** 3 Locked Stress
 - **Resolution:** Tithe of Will, opposed by the target's Resolve
 - **Target/Range:** One supernatural entity, Short Range
@@ -1680,6 +1691,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Rime-Fang's Bite**
 
+- **Level:** Novice Miracle
 - **Cost:** 2 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Target/Range:** One target, Short Range
@@ -1692,6 +1704,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Wolf's Ward**
 
+- **Level:** Novice Miracle
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Touch
 - **Action Type:** Activation
@@ -1704,6 +1717,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Howl of the Rime-Fang**
 
+- **Level:** Novice Miracle
 - **Cost:** 2 Locked Stress
 - **Target/Range:** 15ft radius, Short Range
 - **Action Type:** Aggressor
@@ -1715,6 +1729,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Frostbitten Ground**
 
+- **Level:** Novice Miracle
 - **Cost:** 1 Locked Stress
 - **Target/Range:** 10x10ft area, Short Range
 - **Action Type:** Activation
@@ -1727,6 +1742,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Kaelen's Eye**
 
+- **Level:** Novice Miracle
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Self
 - **Action Type:** Activation
@@ -1741,6 +1757,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Winter's Endurance**
 
+- **Level:** Adept Miracle
 - **Cost:** 2 Locked Stress
 - **Target/Range:** Touch
 - **Action Type:** Activation
@@ -1753,6 +1770,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Rime-Fang's Vigil**
 
+- **Level:** Adept Miracle
 - **Cost:** 2 Locked Stress
 - **Resolution:** No roll — paid directly in Locked Stress (Faith Reaction)
 - **Target/Range:** Self or one ally, Short Range
@@ -1761,6 +1779,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Call of the Rime-Fang**
 
+- **Level:** Adept Miracle
 - **Cost:** 2 Locked Stress
 - **Target/Range:** Self, 10ft
 - **Action Type:** Activation
@@ -1775,6 +1794,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **The Hunter's Reckoning**
 
+- **Level:** Master Miracle
 - **Cost:** 4 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Target/Range:** Self
@@ -1787,6 +1807,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **The Long Winter**
 
+- **Level:** Master Miracle
 - **Cost:** 3 Locked Stress
 - **Target/Range:** 30ft radius, centered on self
 - **Action Type:** Activation
