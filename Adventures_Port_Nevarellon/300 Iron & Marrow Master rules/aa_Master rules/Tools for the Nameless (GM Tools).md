@@ -8,8 +8,8 @@ Scenes are a method of pacing and is the action between Breathers. So, when ther
 **Within a Scene**
 Players take turns Activating their character and taking actions. 
 Outside of combat, such as exploring the world or socially engaging actions are either played out as a discussion amongst the players and the GM.  The GM facilitaing the exchanges and narrating the scenes, like a traditional RPG. Dice are rolled only when the narrative/GM requires it. Activation order and the rolls to determine them generally aren't needed during these moments.
-Activation order and rolls to determine it are mainly used to provide order to the chaos of combat.  This ensures the resolution can handled in an organised fashion.
-When an action that requires some dice rolling it is usually against a [[TN]], the result determines the outcome of the action.  Sometimes these actions will be Opposed by an opponent, meaning dice are rolled, appropriate modifiers are added and compared to the roll of the opponent.  Whoever rolls highest wins.  Depending on the action taken could also determine how well or how poorly a character has performed in this opposed roll.
+Activation order is mainly used to provide order to the chaos of combat.  This ensures the resolution can be handled in an organised fashion.
+When  there is an action that requires some dice rolling it is usually against a [[TN]], the result determines the outcome of the action.  Sometimes these actions will be Opposed by an opponent, meaning dice are rolled, appropriate modifiers are added and compared to the roll of the opponent.  Whoever rolls highest wins.  Depending on the action taken could also determine how well or how poorly a character has performed in this opposed roll.
 ___________________________________________________________________
 **Setting Difficulty: The Static TN and Situational Modifiers** In _Iron and Marrow_, the Target Number for unopposed checks is **always 8**. Do not change this number. A static TN reduces cognitive load for players—they always know exactly what they need to roll.
 

@@ -394,6 +394,19 @@ The Necromancer uses a dead body on the battlefield as a bomb, rapidly accelerat
   - Margin 5+ (Exceptional): The blast area becomes Mire (difficult terrain) for the remainder of the Scene.
     
 
+**Puppet Strings** (Combat / Partial Puppetry)
+Not the whole marionette yet — just one string, pulled hard enough to matter.
+
+- Level: Adept
+- Target/Range: One character, Short Range
+- Action Type: Aggressor
+- Duration: Instantaneous
+- Resolution: Arcane Clash (Arcana vs. Target's Resolve).
+- The Effect: The caster seizes control of one limb or reflex — not the target's whole turn, just a single involuntary twitch of the strings.
+- The Margin Scaler (Based on Clash Margin):
+  - Margin 1–2: The target's weapon hand spasms — they immediately drop whatever they're holding (weapon or shield). Caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, and the caster may instead force the target to make one immediate, involuntary Aggressor Strike against the nearest character (ally or enemy) using the target's own stats — a single reflexive attack, not control of their turn.
+
 ### Master
 
 **Drain Stress**
@@ -890,7 +903,44 @@ The caster whispers a truth from the outer dark, projecting pure existential dre
 - Margin 1–2: Target suffers 2 Dissonant Stress and must spend their next Activation moving away from the caster at maximum speed. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, and if it's a Fodder-tier enemy, they immediately Rout (per the NPC Stress rules) rather than just fleeing.
 
+**Void Rend** (Combat / Reality Thinning)
+A sliver of the void, no wider than a blade, opens against the target — reality doesn't quite reconnect where it touches.
+
+- Level: Novice
+- Target/Range: One character, Medium Range
+- Action Type: Aggressor
+- Duration: Instantaneous
+- Resolution: Arcane Clash (Arcana vs. Target's Defense action).
+- Spell Power: 2
+- The Margin Scaler:
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). This Impact ignores 1 point of the target's Shield Value or Armor — the wound doesn't close right. Caster takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, no complication.
+
+**Flicker Out** (Utility / Defensive Void)
+For a fraction of a second, the target isn't fully present in reality — the attack passes through where they used to be.
+
+- Level: Novice
+- Target/Range: Self or one ally, Short Range
+- Action Type: Reactor
+- Duration: Instantaneous
+- Resolution: Arcane Clash — Arcana vs. the attacker's Strike roll, substituting entirely for the target's normal Reactor action (Dodge, Parry, or Block) against this one Strike. If the caster loses the Clash, the target snaps back too late and takes full Impact with no mitigation.
+- The Margin Scaler (if the caster wins):
+  - Margin 1–2: The target avoids the attack entirely. Caster takes 1 Dissonant Stress from tearing the gap.
+  - Margin 3+ (Clean): As above, no cost, and the target may shift up to 10 feet to an unoccupied space they can see as they reappear.
+
 ### Adept
+
+**The Devouring Silence** (Crowd Control / Rule Suspension)
+The void doesn't erase the target's nature, just silences it for a moment — unlike Euclidean Fracture, this works on any target, not just Elites and Bosses.
+
+- Level: Adept
+- Target/Range: One character, Short Range
+- Action Type: Aggressor
+- Duration: Until the end of the target's next turn
+- Resolution: Arcane Clash (Arcana vs. Target's Resolve).
+- The Margin Scaler:
+  - Margin 1–2: One of the target's passive Bestiary tags or special rules (GM's call if they have several) simply doesn't function until the end of their next turn. Caster takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, and the target also loses access to any Momentum-fueled or Threat-fueled special action for that same duration.
 
 **Euclidean Fracture** (Crowd Control / Geometry)
 The caster violently twists the spatial dimensions around an enemy, causing distances to become infinitely long or impossibly short.
