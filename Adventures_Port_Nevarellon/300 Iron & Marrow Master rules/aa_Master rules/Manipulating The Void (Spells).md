@@ -737,6 +737,19 @@ The caster or a chosen ally melts into the earth, moving through soil and stone 
 - Margin 3–4 (Clean): As above, no cost.
 - Margin 5+ (Exceptional): Emerging to attack grants Advantage on the first Strike roll of that turn.
 
+**Reactive Bulwark** (Utility / Environmental Transmutation)
+The caster doesn't conjure a wall from nothing — they reach into the nearest slab of earth or stone and wrench a piece of it upward, sideways, or loose, just fast enough to catch a blow.
+
+- Level: Novice
+- Target/Range: Self or one ally, Short Range (requires a nearby surface of raw material — earth, stone, wood, or similar — within touch range of the target to draw from)
+- Action Type: Reactor
+- Duration: The defensive Clash is instantaneous; the resulting terrain persists until destroyed or the end of the scene
+- Resolution: Arcane Clash — Arcana vs. the attacker's Strike roll, substituting entirely for the target's normal Reactor action (Dodge, Parry, or Block) against this one Strike. If the caster loses the Clash, the material shatters before it fully forms and the target takes full Impact with no mitigation.
+- The Effect: A spar of raised earth, a shard peeled from a nearby pillar, or a jutting slab of floor interposes itself between the target and the attack. Unlike a personal ward, this is a real physical object — if it survives forming, it remains standing on the battlefield afterward, and any character (not just the caster) can use it as Partial Cover until it's destroyed or the scene ends.
+- The Margin Scaler (Based on Clash Margin, if the caster wins):
+  - Margin 1–2: The cover holds, but only just. The target takes no Impact, and the caster suffers 1 Dissonant Stress from transmuting on pure reflex. The slab itself is cracked and unstable — it counts as Mire (difficult terrain) rather than usable cover.
+  - Margin 3+ (Clean): The cover holds cleanly, no cost, and the slab remains standing and stable — usable as Partial Cover by anyone for the rest of the scene.
+
 ### Adept
 
 **Growth/Shrink**
@@ -1048,7 +1061,18 @@ The Witch blows a handful of pale, grave-dust spores into the face of a target, 
 
 ### Master
 
-*No Master-tier spell yet.*
+**Malefic Reflection** (Combat / Curse)
+The ultimate expression of the paradigm's whole logic: where Sympathetic Effigy reflects one blow back onto whoever delivered it, this curse binds the target's own violence to themselves for good — every hit they land, they land on themselves too.
+
+- Level: Master
+- Target/Range: One character, Short Range
+- Action Type: Aggressor
+- Duration: Scene, or until the target is Incapacitated
+- Resolution: Arcane Clash (Arcana vs. Target's Resolve).
+- The Effect: The Witch binds the cursed target's fate to their own capacity for harm. For the duration, any time the target deals Impact to another character, the curse turns that same violence back on them.
+- The Margin Scaler (Based on Clash Margin):
+  - Margin 1–2: Whenever the target deals Impact to anyone, they simultaneously suffer Impact equal to half that amount (round down, minimum 1). The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, but the rebounded Impact equals the full amount dealt — every blow they land, they take in equal measure.
 
 ## Astromancy
 
