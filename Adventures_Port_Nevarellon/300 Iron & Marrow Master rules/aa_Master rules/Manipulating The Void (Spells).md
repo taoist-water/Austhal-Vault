@@ -565,7 +565,18 @@ The caster pulls a blade of condensed absence-of-light from the shadows. It pass
 
 ### Master
 
-*No Master-tier spell yet.*
+**Umbral Execution** (Combat / Psychological Finisher)
+The direct capstone of Blade of Paranoia, honed to a killing edge — but only for a target who cannot see it coming.
+
+- Level: Master
+- Target/Range: One character, Short Range
+- Action Type: Aggressor
+- Duration: Instantaneous
+- Resolution: Arcane Clash (Arcana vs. Target's Wits or Resolve). Requires the target to currently be unable to see the caster — invisible, in darkness (magical or mundane), attacking from total concealment, or successfully Stealthed.
+- The Effect: Like Blade of Paranoia, this attacks the mind directly rather than the body, dealing zero physical Impact and bypassing Shield Value or armor entirely.
+- The Margin Scaler (Based on Clash Margin):
+  - Margin 1–2: The target suffers 3 Dissonant Stress. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): The target suffers 4 Dissonant Stress. If this brings them to or past Breaking (100% of their Stress Limit), the shock is total — they are immediately Incapacitated instead of suffering the normal Breaking effects.
 
 _________________________________________________________________
 
@@ -706,7 +717,7 @@ The caster reaches into a body's fundamental rhythm, quickening it or grinding i
 - **Duration:** Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound)
 
 **The Margin Scaler:**
-- Margin 1–2 / 0–2 (Messy): Target gains a +1 (Boost) or -1 (Lower) modifier to one chosen Attribute. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 1–2 / 0–2 (Messy): Target gains a +1 (Boost) or -1 (Lower) modifier to one chosen Skill. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ / 3–4 (Clean): As above, with no complication.
 - Margin 5+ (Exceptional, unopposed only): Magnitude increases to +/-2.
 
@@ -820,7 +831,32 @@ The caster places their palm against a solid surface—stone, wood, or bone—an
 
 ### Master
 
-*No Master-tier spell yet.*
+**Apotheosis of Flesh** (Utility / Peak Biological Transmutation)
+The caster does not merely enhance the body, but reshapes it to whatever configuration performs best, in every direction at once.
+
+- Level: Master
+- Target/Range: Self or one ally, touch
+- Action Type: Activation
+- Duration: Scene
+- Resolution: Unopposed Arcana vs. TN 12.
+- The Effect: The target's body is remade for pure physical optimization: +2 to one Skill of the caster's choice (this replaces, rather than stacks with, any active Boost/Lower Trait effect), Scale increases by one step per the Growth/Shrink rules, and unarmed strikes deal Impact equal to a Power 3 weapon for the duration.
+- The Margin Scaler:
+  - Margin 0–2 (Messy): The transformation holds, but the body wasn't built to sustain this configuration — the target takes 1 Dissonant Stress now, and again when the spell ends as their body violently reverts.
+  - Margin 3–4 (Clean): Stable for the duration; the reversion at scene's end is merely uncomfortable, no further cost.
+  - Margin 5+ (Exceptional): The new configuration is so well-optimized that reverting is instant and painless — no Dissonant Stress at all, even on ending.
+
+**The Long Rust** (Combat / Total Gear Failure)
+Where Caustic Deluge hits one piece of gear and Solder Joints fuses one weapon, this hits everything the target is wearing or wielding at once.
+
+- Level: Master
+- Target/Range: One character, Short Range
+- Action Type: Aggressor
+- Duration: Instantaneous (effects are permanent)
+- Resolution: Arcane Clash (Arcana vs. Target's Resolve).
+- The Effect: Every piece of equipped gear the target carries — weapon, shield, armor — decays at once: metal rusts to flaking ruin, leather cracks to dust, wood crumbles. Like Solder Joints, this deals zero Impact; it destroys equipment instead. Only affects a target actually wearing or wielding separate physical gear — a Beast or bare-handed Construct has nothing for this to grip onto.
+- The Margin Scaler (Based on Clash Margin):
+  - Margin 1–2: Every equipped weapon and shield permanently loses 2 SV or Power (repairable only through extensive Downtime, if at all); armor gains the Damaged tag. Caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, and one piece of the target's gear (their choice, or GM's call) is destroyed outright — gone for the rest of the campaign.
 
 ________________________________________________________________
 

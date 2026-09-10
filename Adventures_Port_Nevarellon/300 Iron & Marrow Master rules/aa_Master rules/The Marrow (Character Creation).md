@@ -1036,7 +1036,7 @@ Every 2 to 3 sessions, the GM awards the party a Milestone Reward of 3 Developme
 	- Master = 4–5 DP (requires Faith 3+)
 	
 6. Learn New Arcane Spells
-	-  Novice Miracle = 2 DP
+	-  Novice = 2 DP
 	- Adept = 3 DP (requires Arcana 2+)
 	- Master = 4–5 DP (requires Arcana 3+)
 	- Spells from outside your chosen Paradigm cost double.
