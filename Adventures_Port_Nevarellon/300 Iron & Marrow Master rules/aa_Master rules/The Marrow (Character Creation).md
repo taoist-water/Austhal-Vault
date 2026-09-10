@@ -263,7 +263,7 @@ ______________________________________________________________________
     
 - **Prerequisite:** Arcana 1, Wits 1.
 
-- **Mechanic:** You have forced your mind to perceive the volatile geometries of the world. **Choose one Paradigm.** You gain a Grimoire containing 3 Novice Arcana spells, drawn from the Common list and/or your chosen Paradigm's list. You may manifest these spells using the Arcane Margin mechanics whenever you meet The Casting Requirements — Grimoire wielded in one hand, other hand free (see Embracing the Abyss). Casting without them is Blind Casting. Spells from your chosen Paradigm benefit from **Paradigm Mastery**: a Messy Success (Margin 0–2) resolves as a Clean Success instead. Common spells and spells outside your Paradigm never benefit from Mastery. _(Additional spells — in- or off-Paradigm — are learned later through Advancement; off-Paradigm spells cost double DP and never gain Mastery, but they're never feat-gated or forbidden.)_
+- **Mechanic:** You have forced your mind to perceive the volatile geometries of the world. **Choose one Paradigm.** You gain a Grimoire containing 3 Novice Arcana spells, drawn from the Common list and/or your chosen Paradigm's list. You may manifest these spells using the Arcane Margin mechanics whenever you meet The Casting Requirements — Grimoire wielded in one hand, other hand free (see Embracing the Abyss). Casting without them is Blind Casting. Spells from your chosen Paradigm benefit from **Paradigm Mastery**: a Messy Success (Margin 0–2) resolves as a Clean Success instead. Common spells and spells outside your Paradigm never benefit from Mastery. _(Additional spells — in- or off-Paradigm — are learned later through Advancement; off-Paradigm spells cost a +1 DP surcharge and never gain Mastery, but they're never feat-gated or forbidden.)_
         
 **Divine Conduit (Tier 1 Feat)**
     
@@ -1039,7 +1039,7 @@ Every 2 to 3 sessions, the GM awards the party a Milestone Reward of 3 Developme
 	-  Novice = 2 DP
 	- Adept = 3 DP (requires Arcana 2+)
 	- Master = 4–5 DP (requires Arcana 3+)
-	- Spells from outside your chosen Paradigm cost double.
+	- Spells from outside your chosen Paradigm cost a +1 DP surcharge.
 
 _____________________________________________________________________
 # Milestone Standing — Tracking Advancement

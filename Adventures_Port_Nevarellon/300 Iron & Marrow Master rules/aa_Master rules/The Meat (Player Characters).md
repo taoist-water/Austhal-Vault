@@ -127,6 +127,50 @@ Ranged Strike 2d6+3, Impact = Margin+2 (Shortbow) | Dodge 2d6+1 | Stealth 2d6+2 
 
 ---
 
+## Vrenna Ashfist — Half-Orc Female, Arcana Caster (Pyromancy)
+
+*"Fire doesn't ask permission to burn. Neither do I."*
+
+### Vital Statistics
+- **Species:** Half-Orc
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 1 | Reflex 0 | Wits 3 | Will 0 *(Spike array)*
+- **Skills:** Arcana 3 | Melee 1 | Athletics 1 | Notice 1 | Insight 1 | Resolve 1 *(8 ranks, 8 DP. Ceilings: Arcana/Notice/Insight 6 (Wits 3); Melee/Athletics 4 (Brawn 1); Resolve 3 (Will 0))*
+- **Wound Threshold:** 7 *(4 base + 1 Brawn + 2 Chain Shirt + 0 Species)*
+- **Stress Limit:** 7 *(4 base + 3 Wits + 0 Will — Half-Orcs carry no Stress bonus of their own)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 0)* | **Activation Order:** 6 *(6 + Reflex 0)*
+- **Inventory Slots:** 9 *(8 + 1 Brawn)*
+
+### Species Traits (Half-Orc)
+- **Blood Frenzy:** Suffering a Wound instantly clears 1 Dissonant Stress.
+- **Menacing:** Advantage on Influence checks to intimidate anyone smaller or weaker.
+- **Outcast (Drawback):** Disadvantage on social checks with civilized strangers who don't know her.
+
+### Feats
+- **Arcane Awakening** *(Paradigm: Pyromancy).* Grimoire below — all three picks are in-Paradigm, no Common filler needed.
+- **Lethal Strikes** *(Melee 1)*: Her unarmed strikes can deal Lethal Impact and cause physical Wounds — the mechanical half of the "own knuckles" line in Wreath of Embers below; without it, her fists are just fists.
+
+### Equipment
+- **Armor:** Chain Shirt (+2 Armor, Light — no Arcana penalty)
+- **Weapons:** None carried by choice. Grimoire (Repository — granted by Arcane Awakening, outside the purse) sits in one hand; the other stays free to strike unarmed, which is exactly the hand the Casting Requirement was already demanding she keep open.
+- **Starting Purse: 80 sp** — Chain Shirt 50 = **50 sp spent, 30 sp remaining.** 3 sp on a tinderbox and oil flask she doesn't strictly need, 2 sp on bandages, 25 sp banked. Skipping a weapon entirely bought her the roster's best-armoured caster for the price — Faelan and Morwenna both sit at Wound Threshold 4; she's at 7 without spending a single silver on steel.
+
+### Grimoire (Arcana = **2d6+3**)
+- **Thermal Detonation** *(Pyromancy, Novice, Crowd Control — Creation)* — Arcane Clash (Arcana vs. every engaged enemy's Defense), 5ft radius centered on self, Spell Power 2. Margin 1–2: Impact = Margin+2, enemy thrown 5ft back out of her Threat Zone, she takes 1 Dissonant Stress. Margin 3+ (Clean): as above, enemy thrown 10ft and knocked Prone, plus 1 Dissonant Stress from the ruptured eardrums (to her).
+- **Ember Lance** *(Pyromancy, Novice, Direct Strike — Creation)* — Arcane Clash (Arcana vs. Target's Defense), Medium Range, Spell Power 2. Margin 1–2: Impact = Margin+2, she takes 1 Dissonant Stress. Margin 3+ (Clean): as above, target also suffers Disadvantage on their next Aggressor Strike.
+- **Wreath of Embers** *(Pyromancy, Novice, Weapon Ignition — Creation)* — Unopposed Arcana vs. TN 8, Activation, Scene duration, self or one weapon (she targets her own knuckles). Margin 0–2 (Messy): +1 Impact as fire for the scene, she takes 1 Dissonant Stress. Margin 3–4 (Clean): as above, no cost. Margin 5+ (Exceptional): the first enemy she strikes each round must also resist Ablaze or take 1 Impact next turn.
+
+### Combat Math Quick-Ref
+Arcane Clash/Manifestation 2d6+3 | Unarmed Strike 2d6+1 *(Melee; Lethal Strikes makes it count)* — Impact = Margin, or Margin+1 while Wreath of Embers is active | Dodge 2d6+0 | Notice 2d6+1 | Insight 2d6+1 | Resolve 2d6+1 | Activation Order 6
+
+### Table Notes
+- **Blood Frenzy finally meets a spellcaster.** Every Pyromancy Novice spell she owns pushes 1 Dissonant Stress on its non-Exceptional result — Thermal Detonation, Ember Lance, and Wreath of Embers all do it. Ox is the roster's only other Half-Orc, and he uses Blood Frenzy purely as a tank mechanic (see his Table Notes on the Blood Frenzy/Blood Price exclusivity). Vrenna is the first character where taking a Wound to clear Dissonant Stress is a caster's decision, not a brute's — she can choose to eat a hit specifically to keep casting past what her Stress Limit of 7 would otherwise allow.
+- **Pyromancy's Novice tier now matches Shadow Sorcery's shape.** Three in-Paradigm Novice spells means Arcane Awakening needed zero Common-list filler — the same position Faelan's Shadow Sorcery was in, and a real contrast with Morwenna's Necromancy, which still only has two Novice spells and forces every Necromancer's third pick onto the Common list (flagged on her sheet already).
+- **Unarmed strikes confirmed Power 0.** Impact = Margin (or Margin+1 while Wreath of Embers is active) — no Spell Power or weapon Power modifier stacks onto her punches beyond what the spell itself grants.
+
+---
+
 # Blooded
 
 ## Wren Ashcombe "I've never once needed to win a fight I could just... not have." Vital Statistics

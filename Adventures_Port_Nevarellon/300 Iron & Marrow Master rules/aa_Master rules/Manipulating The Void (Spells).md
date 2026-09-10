@@ -312,7 +312,7 @@ The caster enters a trance, seeking answers from the echoes of the world.
 
 **___________________________________________________________________**
 # Arcane Magic Paradigms
-In-Paradigm casters get the standard DP cost and Paradigm Mastery (a Messy Success resolves as Clean). Off-Paradigm casters can still learn these at double DP cost, with neither benefit.
+In-Paradigm casters get the standard DP cost and Paradigm Mastery (a Messy Success resolves as Clean). Off-Paradigm casters can still learn these at a +1 DP surcharge, with neither benefit.
 ## Necromancy
 
 ### Novice
@@ -946,12 +946,12 @@ The void doesn't erase the target's nature, just silences it for a moment — un
 The caster violently twists the spatial dimensions around an enemy, causing distances to become infinitely long or impossibly short.
 
 - Level: Adept
-- Target/Range: One Elite or Boss enemy, Short Range
+- Target/Range: One character, Short Range
 - Action Type: Aggressor
 - Duration: Until the paradox resolves (see Margin Scaler)
 - Resolution: Arcane Clash (Arcana vs. Target's Resolve).
 - **Spell Power: 3**
-- The Effect: You target one Elite or Boss. If you win the Clash, you lock them in a spatial paradox.
+- The Effect: You target one character. If you win the Clash, you lock them in a spatial paradox.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: The target is Anchored (0 movement). Any melee attack they attempt against an adjacent player automatically suffers a -2 penalty, as their weapon swings through warped space. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): The target is trapped. If they attempt to move or use an Aggressor action, they instantly suffer Impact equal to the original casting Margin + 3 (Spell Power) as the twisted geometry physically tears their muscles, and must spend their entire turn taking the Regroup action just to let the space stabilize.
@@ -1047,6 +1047,20 @@ The Witch locks eyes with the target and whispers a localized, highly specific c
     
 - Margin 3+ (Clean): The curse roots deep. The target suffers Disadvantage on their next roll, and if they fail that roll, the supernatural backlash instantly inflicts 1 Dissonant Stress on them. This forces enemies to either stop attacking or rapidly accelerate toward their breaking point.
     
+
+**Warding Knot** (Utility / Protective Curse)
+The Witch ties a knot of twine, hair, and a sliver of bone into a bracelet or amulet, binding a small ill fate to anyone who dares strike its wearer.
+
+- Level: Novice
+- Target/Range: Self or one ally, touch
+- Action Type: Activation
+- Duration: Until triggered, or the end of the scene
+- Resolution: Unopposed Arcana vs. TN 8.
+- The Effect: The target is warded. The next time an enemy successfully lands a Strike against them, the curse bites back — the attacker suffers Disadvantage on their next roll as ill luck catches up with them. The knot then unravels, its magic spent.
+- The Margin Scaler:
+  - Margin 0–2 (Messy): The ward binds, but loosely — it still triggers correctly, but the caster suffers 1 Dissonant Stress tying the curse.
+  - Margin 3–4 (Clean): The knot ties cleanly, no cost.
+  - Margin 5+ (Exceptional): The knot is bound deep enough to survive one triggering — it can curse an attacker this way twice before finally unraveling.
 
 ### Adept
 
@@ -1278,6 +1292,33 @@ The caster hyper-pressurizes the air directly around their own body, before rele
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 2 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the enemy is thrown 10 feet backward, knocked Prone, and suffers 1 Dissonant Stress from the ruptured eardrums.
+
+**Ember Lance** (Combat / Direct Strike)
+Furnace Lance's disciplined little cousin — controlled instead of overwhelming.
+
+- Level: Novice
+- Target/Range: One character, Medium Range
+- Action Type: Aggressor
+- Duration: Instantaneous
+- Resolution: Arcane Clash (Arcana vs. Target's Defense action).
+- Spell Power: 2
+- The Margin Scaler:
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). Caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, and the burn stings enough that the target suffers Disadvantage on their next Aggressor Strike roll as they favor the wound.
+
+**Wreath of Embers** (Combat / Weapon Ignition)
+The caster wraps their weapon — or their own knuckles — in a controlled, clinging flame that answers only to them.
+
+- Level: Novice
+- Target/Range: Self or one weapon, touch
+- Action Type: Activation
+- Duration: Scene
+- Resolution: Unopposed Arcana vs. TN 8.
+- The Effect: The wielder's Strikes carry the flame — unlike Wildfire Proliferation's raging blaze, this fire is disciplined and only burns what the wielder intends.
+- The Margin Scaler:
+  - Margin 0–2 (Messy): The weapon ignites and deals +1 Impact as fire for the scene, but the heat licks back — the wielder takes 1 Dissonant Stress.
+  - Margin 3–4 (Clean): As above, no cost.
+  - Margin 5+ (Exceptional): The flame burns hot enough to catch — the first enemy struck each round must also resist being set Ablaze (per Furnace Lance's condition) or suffer 1 Impact at the start of their next turn.
 
 ### Adept
 
