@@ -2,7 +2,23 @@
 **Universal Spell list**
 *Available to any Arcanist regardless of chosen Paradigm. Standard DP cost. Never benefits from Paradigm Mastery.*
 
-### Arcane Protection (Common)
+## Cantrip
+
+**Elemental Manipulation** (Common)
+Minor feats of elemental control — lighting a candle, cooling a drink, kicking up dust.
+
+- **Level:** Cantrip
+- **Resolution:** Unopposed Arcana vs. TN 6
+- **Target/Range:** 10ft radius, Short Range
+- **Action Type:** Activation
+
+**The Margin Scaler:**
+- Margin 0–4: A single harmless elemental effect occurs, granting Advantage on one relevant skill check this scene.
+- Margin 5+ (Exceptional): The effect sustains itself for the rest of the scene without further concentration.
+
+## Novice
+
+**Arcane Protection** (Common)
 The air around the target thickens into a dull, shimmering haze, dampening the resonance of hostile sorcery.
 
 - **Level:** Novice
@@ -20,7 +36,7 @@ The air around the target thickens into a dull, shimmering haze, dampening the r
 
 ---
 
-### Bolt (Common)
+**Bolt** (Common)
 A concentrated bolt of raw energy streaks from the caster's hand toward a single foe. This is the floor every Arcanist stands on — Pyromancy and Shamanism both build sharper, paradigm-exclusive versions of this same idea.
 
 - **Level:** Novice
@@ -35,38 +51,7 @@ A concentrated bolt of raw energy streaks from the caster's hand toward a single
 
 ---
 
-### Blast (Common)
-The caster hurls a ball of energy that explodes on impact, catching multiple foes in its radius.
-
-- **Level:** Adept
-- **Resolution:** Arcane Clash, Arcana vs. each target's Defense (caster rolls once; every target in the radius defends)
-- **Spell Power:** 3
-- **Target/Range:** A point within Medium Range, 10ft radius
-- **Action Type:** Aggressor
-
-**The Margin Scaler:**
-- Margin 1–2: Impact = Margin + 3 (Spell Power) to every target who loses. The caster also takes 1 Dissonant Stress from the strain.
-- Margin 3+ (Clean): As above, and the blast ignores the first point of Armor on anyone caught at the radius's center.
-
----
-
-### Barrier (Common)
-The caster conjures a physical or energetic wall to block passage and protect allies.
-
-- **Level:** Adept
-- **Resolution:** Unopposed Arcana vs. TN 10
-- **Target/Range:** A 10ft line within Short Range
-- **Action Type:** Activation
-- **Duration:** Until destroyed
-
-**The Margin Scaler:**
-- Margin 0–2 (Messy): The barrier forms (Full Cover, Wound Threshold 8, 3 Wound Slots before it collapses), but the caster takes 1 Dissonant Stress from the strain.
-- Margin 3–4 (Clean): The barrier forms exactly as described.
-- Margin 5+ (Exceptional): The barrier's Wound Threshold increases to 10.
-
----
-
-### Blind (Common)
+**Blind** (Common)
 A flash of light, a cloud of soot, or a veil of shadow robs the target of sight.
 
 - **Level:** Novice
@@ -80,7 +65,7 @@ A flash of light, a cloud of soot, or a veil of shadow robs the target of sight.
 
 ---
 
-### Burst (Common)
+**Burst** (Common)
 A cone of raw elemental energy erupts from the caster's hands.
 
 - **Level:** Novice
@@ -95,23 +80,7 @@ A cone of raw elemental energy erupts from the caster's hands.
 
 ---
 
-### Damage Field (Common)
-Energy lashes out from the caster's skin, punishing any who approach or strike them.
-
-- **Level:** Adept
-- **Resolution:** Unopposed Arcana vs. TN 10
-- **Target/Range:** Self, 5ft radius
-- **Action Type:** Activation
-- **Duration:** Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound)
-
-**The Margin Scaler:**
-- Margin 0–2 (Messy): The field holds; any character ending their turn adjacent to the caster, or hitting them in melee, suffers 1 Impact. The caster also takes 1 Dissonant Stress from the initial surge.
-- Margin 3–4 (Clean): As above, no self-cost.
-- Margin 5+ (Exceptional): Impact increases to 2.
-
----
-
-### Darksight (Common)
+**Darksight** (Common)
 The caster's eyes take on a predatory sheen, piercing the deepest gloom.
 
 - **Level:** Novice
@@ -127,37 +96,7 @@ The caster's eyes take on a predatory sheen, piercing the deepest gloom.
 
 ---
 
-### Dispel (Common)
-With a sharp gesture and a word of negation, the caster severs the threads of a nearby enchantment.
-
-- **Level:** Adept
-- **Resolution:** Opposed Arcana vs. the original caster's recorded casting roll
-- **Target/Range:** One active spell effect, Short Range
-- **Action Type:** Activation or Reactor
-
-**The Margin Scaler:**
-- Margin 1–2: The targeted spell is suppressed for 1 round. The caster also takes 1 Dissonant Stress from the strain.
-- Margin 3+ (Clean): The targeted spell ends immediately.
-
----
-
-### Divination (Common)
-The caster enters a trance, seeking answers from the echoes of the world.
-
-- **Level:** Master
-- **Resolution:** Unopposed Arcana vs. TN 12 (requires 1 minute of concentration)
-- **Target/Range:** Self
-- **Action Type:** Activation
-- **Duration:** Instantaneous
-
-**The Margin Scaler:**
-- Margin 0–2 (Messy): The GM provides a cryptic but useful vision; the caster takes 1 Dissonant Stress from the mental strain.
-- Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): The vision is lucid. The caster gains Advantage on the next Notice or Investigation check related to it, for the rest of the scene.
-
----
-
-### Entangle (Common)
+**Entangle** (Common)
 The ground erupts with grasping vines, shadow-tendrils, or chains.
 
 - **Level:** Novice
@@ -169,26 +108,9 @@ The ground erupts with grasping vines, shadow-tendrils, or chains.
 - Margin 1–2: Target is Anchored. They lose the Dodge action until they break free (a full Aggressor action, or 1 Momentum). The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ (Clean): As above, and the bindings are thorned — the target suffers 1 Dissonant Stress at the start of each turn they remain Anchored.
 
-
 ---
 
-### Farsight (Common)
-The caster's vision stretches across the horizon with impossible clarity.
-
-- **Level:** Adept
-- **Resolution:** Unopposed Arcana vs. TN 10
-- **Target/Range:** Self or one ally, touch
-- **Action Type:** Activation
-- **Duration:** Scene
-
-**The Margin Scaler:**
-- Margin 0–2 (Messy): Recipient ignores Range penalties on ranged attacks and gains Advantage on sight-based Notice checks, but takes 1 Dissonant Stress from the strain of the working.
-- Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): The recipient can also see through up to 5 feet of solid, non-magical material.
-
----
-
-### Environmental Shield (Common)
+**Environmental Shield** (Common)
 A thin membrane of energy stabilizes the air and temperature around the recipient.
 
 - **Level:** Novice
@@ -204,7 +126,7 @@ A thin membrane of energy stabilizes the air and temperature around the recipien
 
 ---
 
-### Havoc (Common)
+**Havoc** (Common)
 A concussive wave of force throws enemies into disarray.
 
 - **Level:** Novice
@@ -218,7 +140,7 @@ A concussive wave of force throws enemies into disarray.
 
 ---
 
-### Illusion (Common)
+**Illusion** (Common)
 Light and sound are woven into a convincing facade.
 
 - **Level:** Novice
@@ -234,21 +156,7 @@ Light and sound are woven into a convincing facade.
 
 ---
 
-### Elemental Manipulation (Common)
-Minor feats of elemental control — lighting a candle, cooling a drink, kicking up dust.
-
-- **Level:** Cantrip
-- **Resolution:** Unopposed Arcana vs. TN 6
-- **Target/Range:** 10ft radius, Short Range
-- **Action Type:** Activation
-
-**The Margin Scaler:**
-- Margin 0–4: A single harmless elemental effect occurs, granting Advantage on one relevant skill check this scene.
-- Margin 5+ (Exceptional): The effect sustains itself for the rest of the scene without further concentration.
-
----
-
-### Mind Link (Common)
+**Mind Link** (Common)
 A telepathic bridge forms between the caster and their allies.
 
 - **Level:** Novice
@@ -263,7 +171,7 @@ A telepathic bridge forms between the caster and their allies.
 
 ---
 
-### Smite (Common)
+**Smite** (Common)
 The caster imbues a weapon with crackling energy or holy light.
 
 - **Level:** Novice
@@ -279,7 +187,100 @@ The caster imbues a weapon with crackling energy or holy light.
 
 ---
 
-### Warrior's Gift (Common)
+**Light/Darkness** (Common)
+The caster either ignites a beacon of radiance or conjures a void that swallows sight.
+
+- **Level:** Novice
+- **Resolution:** Unopposed Arcana vs. TN 8
+- **Target/Range:** 10ft radius or one object, Short Range
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The chosen effect (Light or Darkness) manifests at half radius.
+- Margin 3–4 (Clean): Full 10ft radius. If Darkness, creatures inside suffer Disadvantage on Notice and Attack rolls unless they have Darksight.
+- Margin 5+ (Exceptional): Radius doubles to 20ft.
+
+## Adept
+
+**Blast** (Common)
+The caster hurls a ball of energy that explodes on impact, catching multiple foes in its radius.
+
+- **Level:** Adept
+- **Resolution:** Arcane Clash, Arcana vs. each target's Defense (caster rolls once; every target in the radius defends)
+- **Spell Power:** 3
+- **Target/Range:** A point within Medium Range, 10ft radius
+- **Action Type:** Aggressor
+
+**The Margin Scaler:**
+- Margin 1–2: Impact = Margin + 3 (Spell Power) to every target who loses. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 3+ (Clean): As above, and the blast ignores the first point of Armor on anyone caught at the radius's center.
+
+---
+
+**Barrier** (Common)
+The caster conjures a physical or energetic wall to block passage and protect allies.
+
+- **Level:** Adept
+- **Resolution:** Unopposed Arcana vs. TN 10
+- **Target/Range:** A 10ft line within Short Range
+- **Action Type:** Activation
+- **Duration:** Until destroyed
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The barrier forms (Full Cover, Wound Threshold 8, 3 Wound Slots before it collapses), but the caster takes 1 Dissonant Stress from the strain.
+- Margin 3–4 (Clean): The barrier forms exactly as described.
+- Margin 5+ (Exceptional): The barrier's Wound Threshold increases to 10.
+
+---
+
+**Damage Field** (Common)
+Energy lashes out from the caster's skin, punishing any who approach or strike them.
+
+- **Level:** Adept
+- **Resolution:** Unopposed Arcana vs. TN 10
+- **Target/Range:** Self, 5ft radius
+- **Action Type:** Activation
+- **Duration:** Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound)
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): The field holds; any character ending their turn adjacent to the caster, or hitting them in melee, suffers 1 Impact. The caster also takes 1 Dissonant Stress from the initial surge.
+- Margin 3–4 (Clean): As above, no self-cost.
+- Margin 5+ (Exceptional): Impact increases to 2.
+
+---
+
+**Dispel** (Common)
+With a sharp gesture and a word of negation, the caster severs the threads of a nearby enchantment.
+
+- **Level:** Adept
+- **Resolution:** Opposed Arcana vs. the original caster's recorded casting roll
+- **Target/Range:** One active spell effect, Short Range
+- **Action Type:** Activation or Reactor
+
+**The Margin Scaler:**
+- Margin 1–2: The targeted spell is suppressed for 1 round. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 3+ (Clean): The targeted spell ends immediately.
+
+---
+
+**Farsight** (Common)
+The caster's vision stretches across the horizon with impossible clarity.
+
+- **Level:** Adept
+- **Resolution:** Unopposed Arcana vs. TN 10
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Margin Scaler:**
+- Margin 0–2 (Messy): Recipient ignores Range penalties on ranged attacks and gains Advantage on sight-based Notice checks, but takes 1 Dissonant Stress from the strain of the working.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): The recipient can also see through up to 5 feet of solid, non-magical material.
+
+---
+
+**Warrior's Gift** (Common)
 Echoes of ancient battles flow into the recipient, granting mastery they have not earned.
 
 - **Level:** Adept
@@ -293,21 +294,21 @@ Echoes of ancient battles flow into the recipient, granting mastery they have no
 - Margin 3–4 (Clean): As above, no cost.
 - Margin 5+ (Exceptional): Recipient gains two tags instead of one.
 
----
+## Master
 
-### Light/Darkness (Common)
-The caster either ignites a beacon of radiance or conjures a void that swallows sight.
+**Divination** (Common)
+The caster enters a trance, seeking answers from the echoes of the world.
 
-- **Level:** Novice
-- **Resolution:** Unopposed Arcana vs. TN 8
-- **Target/Range:** 10ft radius or one object, Short Range
+- **Level:** Master
+- **Resolution:** Unopposed Arcana vs. TN 12 (requires 1 minute of concentration)
+- **Target/Range:** Self
 - **Action Type:** Activation
-- **Duration:** Scene
+- **Duration:** Instantaneous
 
 **The Margin Scaler:**
-- Margin 0–2 (Messy): The chosen effect (Light or Darkness) manifests at half radius.
-- Margin 3–4 (Clean): Full 10ft radius. If Darkness, creatures inside suffer Disadvantage on Notice and Attack rolls unless they have Darksight.
-- Margin 5+ (Exceptional): Radius doubles to 20ft.
+- Margin 0–2 (Messy): The GM provides a cryptic but useful vision; the caster takes 1 Dissonant Stress from the mental strain.
+- Margin 3–4 (Clean): As above, no cost.
+- Margin 5+ (Exceptional): The vision is lucid. The caster gains Advantage on the next Notice or Investigation check related to it, for the rest of the scene.
 
 **___________________________________________________________________**
 # Arcane Magic Paradigms
