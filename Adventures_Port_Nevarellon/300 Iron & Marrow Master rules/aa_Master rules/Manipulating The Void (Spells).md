@@ -805,7 +805,7 @@ The caster forces a localized, agonizing biological reaction—either in themsel
 - Duration: Until the end of the encounter
 - Resolution: Unopposed Arcana vs. TN 10.
     
-- The Effect: The target undergoes a grotesque physical enhancement. For the remainder of the encounter, the target gains a +2 modifier to Prowess (up to the absolute mortal cap of +5) and their unarmed strikes deal Impact equal to a Power 2 weapon.
+- The Effect: The target undergoes a grotesque physical enhancement. For the remainder of the encounter, the target gains a +2 modifier to Prowess, ignoring the normal Attribute + 3 Skill Ceiling, up to the absolute mortal maximum of +6, and their unarmed strikes deal Impact equal to a Power 2 weapon.
     
 - The Margin Scaler:
     
