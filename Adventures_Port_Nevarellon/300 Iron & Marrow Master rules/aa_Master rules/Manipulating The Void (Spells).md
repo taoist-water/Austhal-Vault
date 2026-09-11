@@ -1386,7 +1386,7 @@ Faith domains represent direct divine intervention powered by rigid devotion. Th
 **Healing / Stabilize** (Common Miracle)
 A litany murmured over torn flesh, asking permission to undo what was done. Available to every Priest regardless of Domain — this is the spell several Domain Tags already assumed existed.
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 2 Locked Stress
 - **Target/Range:** Touch
@@ -1502,7 +1502,7 @@ There is no room for fear in the formation. Senecus didn't have room for it eith
 **Pinning Volley**
 Senecus never told his soldiers to charge into the open. He told them where to make the enemy afraid to.
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** One enemy, Medium Range
@@ -1533,7 +1533,7 @@ The Priest reads the battlefield the way Senecus read the pass — not what the 
 **Marked for the Line**
 Senecus didn't win battles with heroes. He won them by making sure everyone hit the same spot at the same time.
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** One enemy, Medium Range
@@ -1566,7 +1566,7 @@ The formation does not break. It was never going to break. Senecus is very clear
 **Senecus's Wall**
 There was no clever maneuver. Senecus just told them to stand, and the wall of shields did the rest.
 
-- **Level:** Master Miracle
+- **Level:** Master
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Cost:** 3 Locked Stress
 - **Target/Range:** 20ft radius, Short Range
@@ -1601,7 +1601,7 @@ The house always wins — except for the one hand Corvo decides it doesn't.
 
 **The Crooked Coin**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Cost:** 1 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Target/Range:** Self or one ally, Short Range
@@ -1614,7 +1614,7 @@ The house always wins — except for the one hand Corvo decides it doesn't.
 
 **Fool's Errand**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Cost:** 1 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Target/Range:** Medium Range
@@ -1644,7 +1644,7 @@ A favor planted now, called in later, when it does the most damage.
 
 **Corvo's Step**
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Cost:** 2 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Target/Range:** Self and one willing ally or unattended object of similar size, Medium Range
@@ -1673,7 +1673,7 @@ Corvo didn't fight the empire's laws — he forged better ones. The Priest forge
 
 **The House Always Wins**
 
-- **Level:** Master Miracle
+- **Level:** Master
 - **Cost:** 4 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Target/Range:** One enemy, line of sight
@@ -1687,7 +1687,7 @@ Corvo didn't fight the empire's laws — he forged better ones. The Priest forge
 **Loaded Dice**
 The house always wins. Sometimes it just likes to remind the table why.
 
-- **Level:** Master Miracle
+- **Level:** Master
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Cost:** 4 Locked Stress
 - **Target/Range:** One enemy's triggering roll
@@ -1709,7 +1709,7 @@ The house always wins. Sometimes it just likes to remind the table why.
 
 **The Architect's Decree**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Cost:** 1 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Target/Range:** One enemy, Short Range
@@ -1724,7 +1724,7 @@ The house always wins. Sometimes it just likes to remind the table why.
 
 **Sanctuary of the Zenith**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Cost:** 1 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Target/Range:** A 3x3 square zone, centered on self or within Short Range
@@ -1741,7 +1741,7 @@ The house always wins. Sometimes it just likes to remind the table why.
 **Writ of Protection**
 Aurelius wrote the law before the sword was drawn. The sword simply hasn't caught up yet.
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Cost:** 1 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Target/Range:** One ally, Short Range
@@ -1758,7 +1758,7 @@ Aurelius wrote the law before the sword was drawn. The sword simply hasn't caugh
 
 **Chains of Mandate**
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Cost:** 2 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Target/Range:** One enemy, Medium Range
@@ -1775,7 +1775,7 @@ Aurelius wrote the law before the sword was drawn. The sword simply hasn't caugh
 **Aurelius's Judgment**
 The verdict is entered. The body may keep fighting; the law has already decided it will not be saved.
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Cost:** 2 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Target/Range:** One enemy, Short Range
@@ -1793,7 +1793,7 @@ The verdict is entered. The body may keep fighting; the law has already decided 
 
 **The Scales of Aurelius**
 
-- **Level:** Master Miracle
+- **Level:** Master
 - **Cost:** 4 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Target/Range:** The triggering roll, Cannot target the Tithe of Will roll of the Miracle being cast to trigger it.
@@ -1810,7 +1810,7 @@ The verdict is entered. The body may keep fighting; the law has already decided 
 **Banish** (Domain of Law — exclusive)
 Unchanged — already conformant. Included here for completeness since it's Law's other Master Miracle:
 
-- **Level:** Master Miracle
+- **Level:** Master
 - **Cost:** 3 Locked Stress
 - **Resolution:** Tithe of Will, opposed by the target's Resolve
 - **Target/Range:** One supernatural entity, Short Range
@@ -1833,7 +1833,7 @@ Unchanged — already conformant. Included here for completeness since it's Law'
 **Peaceful Repose**
 Vael doesn't guard you from dying. He guards you from being afraid of it.
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Self or one ally, touch
@@ -1850,7 +1850,7 @@ Vael doesn't guard you from dying. He guards you from being afraid of it.
 **The Quiet Truth**
 The Priest doesn't summon a vision. They just let the target see, for one second, exactly how small and mortal they are.
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** One character, Short Range
@@ -1864,7 +1864,7 @@ The Priest doesn't summon a vision. They just let the target see, for one second
 **The Last Bell**
 Somewhere close, a bell only Vael's faithful can hear has begun to toll.
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Self, 60ft radius
@@ -1883,7 +1883,7 @@ Somewhere close, a bell only Vael's faithful can hear has begun to toll.
 **Last Rites**
 Vael's answer to a Necromancer isn't a duel. It's getting there first.
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** One corpse, touch
@@ -1900,7 +1900,7 @@ Vael's answer to a Necromancer isn't a duel. It's getting there first.
 **Shepherd the Dying**
 Vael doesn't fight death. He negotiates with it, on your behalf, before you can.
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** One ally, Short Range
@@ -1918,7 +1918,7 @@ Vael doesn't fight death. He negotiates with it, on your behalf, before you can.
 **Vael's Mercy**
 There's no violence in it. A hand on the brow, a held breath, and it's over. Turned toward a target who still has the strength to resist, the same mercy becomes a verdict.
 
-- **Level:** Master Miracle
+- **Level:** Master
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Cost:** 3 Locked Stress
 - **Target/Range:** One character, Short Range
@@ -1935,7 +1935,7 @@ There's no violence in it. A hand on the brow, a held breath, and it's over. Tur
 **The Long Silence**
 Every sound dies at the edge of the zone. Everyone inside feels, all at once, exactly how alone they are.
 
-- **Level:** Master Miracle
+- **Level:** Master
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Cost:** 3 Locked Stress
 - **Target/Range:** 20ft radius, centered on self
@@ -1956,7 +1956,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Rime-Fang's Bite**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Cost:** 2 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Target/Range:** One target, Short Range
@@ -1969,7 +1969,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Wolf's Ward**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Touch
 - **Action Type:** Activation
@@ -1982,7 +1982,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Howl of the Rime-Fang**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Cost:** 2 Locked Stress
 - **Target/Range:** 15ft radius, Short Range
 - **Action Type:** Aggressor
@@ -1994,7 +1994,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Frostbitten Ground**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Cost:** 1 Locked Stress
 - **Target/Range:** 10x10ft area, Short Range
 - **Action Type:** Activation
@@ -2007,7 +2007,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Kaelen's Eye**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Self
 - **Action Type:** Activation
@@ -2022,7 +2022,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Winter's Endurance**
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Cost:** 2 Locked Stress
 - **Target/Range:** Touch
 - **Action Type:** Activation
@@ -2035,7 +2035,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Rime-Fang's Vigil**
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Cost:** 2 Locked Stress
 - **Resolution:** No roll — paid directly in Locked Stress (Faith Reaction)
 - **Target/Range:** Self or one ally, Short Range
@@ -2044,7 +2044,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Call of the Rime-Fang**
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Cost:** 2 Locked Stress
 - **Target/Range:** Self, 10ft
 - **Action Type:** Activation
@@ -2059,7 +2059,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **The Hunter's Reckoning**
 
-- **Level:** Master Miracle
+- **Level:** Master
 - **Cost:** 4 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Target/Range:** Self
@@ -2072,11 +2072,12 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **The Long Winter**
 
-- **Level:** Master Miracle
-- **Cost:** 3 Locked Stress
+- **Level:** Master
+- **Resolution:** Tithe of Will — Faith vs. TN 12
+- **Cost:** 3 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
 - **Target/Range:** 30ft radius, centered on self
 - **Action Type:** Activation
-- **Duration:** Scene, or until the Priest is Incapacitated or leaves the zone
+- **Duration:** Flowing — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 12 at the start of each of their Activations to maintain it (per the Flowing rule in Embracing the Abyss). The zone instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
 
 **The Tithe Ladder:**
 - Pass: Kaelen's endless winter descends. The zone becomes Heavily Obscured (per the Environmental rules), and every enemy that ends its turn inside suffers 1 Dissonant Stress from the bone-deep cold. Allies are unaffected by the cold.
@@ -2093,7 +2094,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Bolster the Faithful**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** touch.
@@ -2108,11 +2109,11 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 
 **Wrathful Light**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 2 Locked Stress
-- **Target/Range:** one Target/short
-- **Action Type:** Attack
+- **Target/Range:** One character, Short Range
+- **Action Type:** Aggressor
 
 **The Tithe Ladder:**
 - Pass: Target must pass a **Resolve check (TN 8)** or suffer 2 Dissonant Stress as holy light burns through them; if the target is Undead/Daemon/Mutant, they also gain Fear.
@@ -2124,7 +2125,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 **Elara's Comfort**
 A hand on the shoulder, and for one moment, the weight isn't yours alone.
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** One ally, touch
@@ -2140,7 +2141,7 @@ A hand on the shoulder, and for one moment, the weight isn't yours alone.
 **Elara's Burden**
 Mother Elara didn't cure the plague. She simply asked it to move house.
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** One ally, touch
@@ -2154,7 +2155,7 @@ Mother Elara didn't cure the plague. She simply asked it to move house.
 **The Weeping Communion**
 She walked into the quarantine zones so no one else would have to walk in alone.
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** Self and all allies within 15ft
@@ -2170,7 +2171,7 @@ She walked into the quarantine zones so no one else would have to walk in alone.
 
 **Resurrection**
 
-- **Level:** Master Miracle
+- **Level:** Master
 - **Resolution:** Tithe of Will — Faith vs. TN 12 (requires a full hour of ritual; target must have died within 24 hours)
 - **Cost:** 8 Locked Stress
 - **Target/Range:** Touch
@@ -2186,7 +2187,7 @@ She walked into the quarantine zones so no one else would have to walk in alone.
 **Miraculous Intervention**
 The gods reach down and aggressively deny reality. *(Converted from a Faith-3 feat previously in The Marrow — removed from that document, as it's now Domain-locked here instead of open to any Faith-3 build.)*
 
-- **Level:** Master Miracle
+- **Level:** Master
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Cost:** 4 Locked Stress
 - **Target/Range:** One ally, line of sight
@@ -2209,7 +2210,7 @@ The gods reach down and aggressively deny reality. *(Converted from a Faith-3 fe
 **Riptide**
 The ground itself decides it would rather be underwater.
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** One character, Short Range
@@ -2222,7 +2223,7 @@ The ground itself decides it would rather be underwater.
 
 **Storm's Breath**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Touch
@@ -2236,7 +2237,7 @@ The ground itself decides it would rather be underwater.
 
 **Crushing Surf**
 
-- **Level:** Novice Miracle
+- **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 2 Locked Stress
 - **Target/Range:** One character, Short Range
@@ -2251,7 +2252,7 @@ The ground itself decides it would rather be underwater.
 
 **The Undertow's Grip**
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** 15ft radius, Short Range
@@ -2264,7 +2265,7 @@ The ground itself decides it would rather be underwater.
 
 **Rogue Wave**
 
-- **Level:** Adept Miracle
+- **Level:** Adept
 - **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** 15ft radius, Short Range
@@ -2282,7 +2283,7 @@ The ground itself decides it would rather be underwater.
 **The Drowning Depths**
 Thalass doesn't drown you all at once. She simply doesn't let you back up for air.
 
-- **Level:** Master Miracle
+- **Level:** Master
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Cost:** 3 Locked Stress
 - **Target/Range:** One character, Short Range
@@ -2296,7 +2297,7 @@ Thalass doesn't drown you all at once. She simply doesn't let you back up for ai
 **The Sovereign Tide**
 The storm doesn't rage because Thalass is angry. It rages because the ocean has never once needed permission.
 
-- **Level:** Master Miracle
+- **Level:** Master
 - **Resolution:** Tithe of Will — Faith vs. TN 12
 - **Cost:** 3 Locked Stress
 - **Target/Range:** 25ft radius, centered on self
