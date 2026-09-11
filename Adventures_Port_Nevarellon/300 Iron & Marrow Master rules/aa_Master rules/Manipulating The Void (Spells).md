@@ -391,7 +391,7 @@ The Necromancer uses a dead body on the battlefield as a bomb, rapidly accelerat
 - The Margin Scaler:
   - Margin 0–2 (Messy): The explosion is delayed or unpredictable. The GM shifts the center of the blast 5 feet in a random direction before calculating who is hit.
   - Margin 3–4 (Clean): The corpse detonates perfectly as planned.
-  - Margin 5+ (Exceptional): The blast area becomes Mire (difficult terrain) for the remainder of the Scene.
+  - Margin 5+ (Exceptional): The blast area becomes difficult terrain for the remainder of the Scene.
     
 
 **Puppet Strings** (Combat / Partial Puppetry)
@@ -676,7 +676,7 @@ The caster drives a carved, bone-and-wood fetish into the earth, bleeding onto i
     
 - Margin 3–4 (Clean): The totem takes root perfectly. It remains active until destroyed (it has 1 Wound Slot).
     
-- Margin 5+ (Exceptional): The spirit is completely subjugated. Enemies entering the radius must treat it as Mire (difficult terrain), while allies move through it freely.
+- Margin 5+ (Exceptional): The spirit is completely subjugated. Enemies entering the radius must treat it as difficult terrain, while allies move through it freely.
     
 
 **Ancestral Mantle** (Utility / Buff)
@@ -761,7 +761,7 @@ The caster doesn't conjure a wall from nothing — they reach into the nearest s
 - **Resolution:** Arcane Clash — Arcana vs. the attacker's Strike roll, substituting entirely for the target's normal Reactor action (Dodge, Parry, or Block) against this one Strike. If the caster loses the Clash, the material shatters before it fully forms and the target takes full Impact with no mitigation.
 - The Effect: A spar of raised earth, a shard peeled from a nearby pillar, or a jutting slab of floor interposes itself between the target and the attack. Unlike a personal ward, this is a real physical object — if it survives forming, it remains standing on the battlefield afterward, and any character (not just the caster) can use it as Partial Cover until it's destroyed or the scene ends.
 - The Margin Scaler (Based on Clash Margin, if the caster wins):
-  - Margin 1–2: The cover holds, but only just. The target takes no Impact, and the caster suffers 1 Dissonant Stress from transmuting on pure reflex. The slab itself is cracked and unstable — it counts as Mire (difficult terrain) rather than usable cover.
+  - Margin 1–2: The cover holds, but only just. The target takes no Impact, and the caster suffers 1 Dissonant Stress from transmuting on pure reflex. The slab itself is cracked and unstable — it counts as difficult terrain rather than usable cover.
   - Margin 3+ (Clean): The cover holds cleanly, no cost, and the slab remains standing and stable — usable as Partial Cover by anyone for the rest of the scene.
 
 ### Adept
@@ -824,9 +824,9 @@ The caster snaps their fingers, drastically superheating the ambient air around 
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
 - **Duration:** Until the target breaks free, or (Margin 3+) until the end of the fight
-- **Resolution:** Arcane Clash(treat like a target number) (Arcana vs. Target's wound threshold).
+- **Resolution:** Unopposed Arcana vs. TN equal to the target's Wound Threshold.
     
-- The Effect: You target an enemy wearing metal armor or wielding a mechanical/metal weapon. If you win the Clash, you don't deal Impact; instead, you fuse their gear.
+- The Effect: You target an enemy wearing metal armor or wielding a mechanical/metal weapon. If you succeed, you don't deal Impact; instead, you fuse their gear.
     
 - The Margin Scaler (Based on Clash Margin):
     
@@ -1099,7 +1099,7 @@ The caster scatters a handful of dead seeds that instantly erupt into a writhing
 - The Margin Scaler:
     
 
-- Margin 0–2 (Messy): The briars sprout wildly. They deal 1 Impact to any enemy that attacks from within them, but the Witch's allies also treat the zone as Mire (difficult terrain).
+- Margin 0–2 (Messy): The briars sprout wildly. They deal 1 Impact to any enemy that attacks from within them, but the Witch's allies also treat the zone as difficult terrain.
     
 - Margin 3–4 (Clean): The briars recognize the caster’s allies. Allies move freely, but enemies who declare a Strike from within the zone automatically suffer 1 Impact before their attack resolves.
     
@@ -1195,7 +1195,7 @@ The caster compresses a sphere of localized space into a marble-sized singularit
 - **Duration:** Scene
 - **Resolution:** Unopposed Arcana vs. TN 10.
     
-- The Effect: Creates a 15-foot radius zone of hyper-gravity. Any creature starting its turn inside the zone, or attempting to move through it, treats the area as Mire (difficult terrain). Furthermore, moving away from the center of the singularity requires the creature to forfeit its Aggressor action for the turn as it fights the gravitational drag.
+- The Effect: Creates a 15-foot radius zone of hyper-gravity. Any creature starting its turn inside the zone, or attempting to move through it, treats the area as difficult terrain. Furthermore, moving away from the center of the singularity requires the creature to forfeit its Aggressor action for the turn as it fights the gravitational drag.
     
 - The Margin Scaler:
     
@@ -1824,7 +1824,7 @@ A favor planted now, called in later, when it does the most damage.
 
 **The Tithe Ladder:**
 - Pass: Mark one enemy. The next time that enemy fails a Clash this scene, they suffer 2 additional Impact as the planted ill luck calls itself in.
-- Fail: As Pass, and gain 1 encroachment.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The mark is set, but convert the cost into a direct Wound on the Priest immediately.
 
 **Corvo's Step**
@@ -1851,7 +1851,7 @@ Corvo didn't fight the empire's laws — he forged better ones. The Priest forge
 
 **The Tithe Ladder:**
 - Pass: The Priest's face, voice, and bearing convincingly become someone else's. Anyone suspicious rolls Notice against the Priest's original casting roll to see through it.
-- Fail: As Pass, and gain 1 encroachment.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The disguise holds, but convert the cost into a direct Wound.
 
 **The Long Game**
@@ -2106,7 +2106,7 @@ Vael doesn't guard you from dying. He guards you from being afraid of it.
 - **Duration:** Scene
 
 **The Tithe Ladder:**
-- Pass: The target's mind settles into the quiet Vael taught. For the duration, they're immune to the Fear and Terrified conditions, and cannot suffer the Panic Reflex.
+- Pass: The target's mind settles into the quiet Vael taught. For the duration, they're immune to the Fear and Terrified conditions.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
@@ -2271,7 +2271,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 - **Duration:** Flowing — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 12 at the start of each of their Activations to maintain it (per the Flowing rule in Embracing the Abyss). The zone instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
 
 **The Tithe Ladder:**
-- Pass: Every enemy that starts its turn in the zone must pass a Resolve check (TN 12) or gain Fear, fixed on the Priest. Allies inside the zone gain Peaceful Repose's Panic Reflex immunity for as long as they remain there.
+- Pass: Every enemy that starts its turn in the zone must pass a Resolve check (TN 12) or gain Fear, fixed on the Priest. Allies inside the zone gain Peaceful Repose's Fear and Terrified immunity for as long as they remain there.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The zone still forms.
 
@@ -2332,7 +2332,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 - **Duration:** Until the encounter ends or the ice is magically cleared
 
 **The Tithe Ladder:**
-- Pass: The ground glazes with black ice. The area becomes Mire (difficult terrain, per the Iron World Environmental rules).
+- Pass: The ground glazes with black ice. The area becomes difficult terrain (per the Iron World Environmental rules).
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, reset Encroachment to 0.
 
@@ -2459,15 +2459,13 @@ Kaelen never got lost. She said the land only looks confusing to someone who has
 - **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
-- **Target/Range:** touch.
+- **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
 
 **The Tithe Ladder:**
 - Pass: Target gains the Blessed condition.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
-
-**Special Interactions:** none.
 
 **Wrathful Light**
 
@@ -2481,8 +2479,6 @@ Kaelen never got lost. She said the land only looks confusing to someone who has
 - Pass: Target must pass a **Resolve check (TN 8)** or suffer 2 Dissonant Stress as holy light burns through them; if the target is Undead/Daemon/Mutant, they also gain Fear.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
-
-**Special Interactions:** none.
 
 **Elara's Comfort**
 A hand on the shoulder, and for one moment, the weight isn't yours alone.
@@ -2789,7 +2785,7 @@ The storm doesn't rage because Thalass is angry. It rages because the ocean has 
 - **Duration:** Flowing — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 12 at the start of each of their Activations to maintain it (per the Flowing rule in Embracing the Abyss). The zone instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
 
 **The Tithe Ladder:**
-- Pass: The zone becomes Heavily Obscured and Mire for enemies only (per the Environmental rules); every enemy that ends its turn inside suffers 1 Dissonant Stress. Allies are unaffected.
+- Pass: The zone becomes Heavily Obscured and difficult terrain for enemies only (per the Environmental rules); every enemy that ends its turn inside suffers 1 Dissonant Stress. Allies are unaffected.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The zone still forms.
 

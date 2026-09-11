@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"apprentice\"",
+                "query": "panic reflex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c3d5af8172a2078",
+  "active": "2c9b83574a8b2381",
   "lastOpenFiles": [
     "300 Iron & Marrow Master rules/aa_Master rules/Metal meet Flesh (Combat Mechanics).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Iron World (Environmental rules).md",
