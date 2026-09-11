@@ -1403,6 +1403,7 @@ A litany murmured over torn flesh, asking permission to undo what was done. Avai
 A short, pragmatic prayer settles over an ally, steadying their hand.
 
 - **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** One ally, touch
 - **Action Type:** Activation
@@ -1416,6 +1417,7 @@ A short, pragmatic prayer settles over an ally, steadying their hand.
 The Priest plants their symbol and speaks a ward; for a moment, harm forgets the way in.
 
 - **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation / Reactor
@@ -1430,6 +1432,7 @@ The Priest plants their symbol and speaks a ward; for a moment, harm forgets the
 The Priest closes their eyes and asks a single question of whatever is listening.
 
 - **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** Self
 - **Action Type:** Activation (requires 1 minute)
@@ -1443,6 +1446,7 @@ The Priest closes their eyes and asks a single question of whatever is listening
 A point of warm, steady light kindles at the Priest's word — never flickers, never gutters.
 
 - **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Self or one object, touch
 - **Action Type:** Activation
@@ -1457,6 +1461,7 @@ A point of warm, steady light kindles at the Priest's word — never flickers, n
 The Priest lays a hand on corrupted flesh and speaks a single word of refusal.
 
 - **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** One character, touch
 - **Action Type:** Activation
@@ -1577,6 +1582,7 @@ Purify answers the rot after it takes hold. This is the older, quieter prayer �
 A maxim recited under pressure — the line holds because the line was told to hold.
 
 - **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
@@ -1590,6 +1596,7 @@ A maxim recited under pressure — the line holds because the line was told to h
 There is no room for fear in the formation. Senecus didn't have room for it either.
 
 - **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation / Free Action
@@ -1636,6 +1643,7 @@ Senecus never fought a battle his army hadn't already survived getting to.
 The Priest reads the battlefield the way Senecus read the pass — not what the enemy is doing, but what they intend to.
 
 - **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** One Elite or Boss, Short Range
 - **Action Type:** Activation
@@ -2191,6 +2199,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 **Wolf's Ward**
 
 - **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Touch
 - **Action Type:** Activation
@@ -2204,6 +2213,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 **Howl of the Rime-Fang**
 
 - **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 2 Locked Stress
 - **Target/Range:** 15ft radius, Short Range
 - **Action Type:** Aggressor
@@ -2216,6 +2226,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 **Frostbitten Ground**
 
 - **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** 10x10ft area, Short Range
 - **Action Type:** Activation
@@ -2229,6 +2240,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 **Kaelen's Eye**
 
 - **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 1 Locked Stress
 - **Target/Range:** Self
 - **Action Type:** Activation
@@ -2258,6 +2270,7 @@ Kaelen never wasted a kill. The winter punished anyone who did.
 **Winter's Endurance**
 
 - **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress
 - **Target/Range:** Touch
 - **Action Type:** Activation
