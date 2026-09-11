@@ -1466,6 +1466,106 @@ The Priest lays a hand on corrupted flesh and speaks a single word of refusal.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The affliction clears, but convert the cost into a direct Wound on the Priest, and reset the Priest's Encroachment to 0.
 
+**Steady Breath**
+The Priest turns the prayer inward. Not every burden needs another set of hands.
+
+- **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** Self
+- **Action Type:** Free Action
+
+**The Tithe Ladder:**
+- Pass: Clears 1 point of Dissonant Stress.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The Stress still clears, but convert the Locked Stress cost into a direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
+
+**Special Interactions:** Deliberately self-only and half of Elara's Comfort's yield — Mercy & Healing's Domain Tag is built entirely around extending relief to *others* at cost to yourself; this is the version any Priest can manage without that specialization.
+
+**Ease the Mind**
+No maxim, no cold philosophy — just a hand on the shoulder and a reminder that they're still standing.
+
+- **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** One ally, touch
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+- Pass: Immediately clears the Fear or Terrified condition on the target. Does not grant immunity to reacquiring it.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The condition still clears, but convert the Locked Stress cost into a direct Wound, and reset the Priest's Encroachment to 0.
+
+**Special Interactions:** The clear-only baseline version of Strategy's Iron Discipline and Death's Peaceful Repose, both of which add scene-long immunity on top of the clear — that immunity stays a Domain-committed benefit, not a Common one.
+
+**The Unclouded Eye**
+The Priest doesn't need a vision or a verdict. A lie just sounds different once you've spent a life listening for the truth.
+
+- **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Cost:** 2 Locked Stress
+- **Target/Range:** One character, Short Range
+- **Action Type:** Activation
+- **Duration:** Scene
+
+**The Tithe Ladder:**
+- Pass: For the duration, the Priest instantly knows whenever the target states something they themselves believe to be false. This reveals a lie was told, not the truth behind it.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The insight still holds, but convert the Locked Stress cost into a direct Wound, and reset the Priest's Encroachment to 0.
+
+**Special Interactions:** New ground, not a smaller version of anything — no Domain currently detects deception (Trickery's Counterfeit Soul *creates* a false front, it doesn't see through one).
+
+**The Faithful's Shield**
+Every god's devotee has one moment like this in them — the prayer that isn't for themselves.
+
+- **Level:** Master
+- **Resolution:** Tithe of Will — Faith vs. TN 12
+- **Cost:** 3 Locked Stress
+- **Target/Range:** Self and all allies within 15ft
+- **Action Type:** Activation
+- **Duration:** Until triggered, or end of Scene
+
+**The Tithe Ladder:**
+- Pass: Every ally in range (including the Priest) gains SV 3 against the next hit they individually take this scene — a one-time burst, not a sustained ward, and it doesn't stack or refresh.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The shield still forms for everyone, but convert the Locked Stress cost into direct Wounds, capped at 3 per Toll in Flesh, and reset the Priest's Encroachment to 0.
+
+**Special Interactions:** Shaped as a one-shot burst specifically so it doesn't compete with Sanctuary (single-target, sustained, Flowing) or the three Domain zone-Miracles (sustained AoE conditions) — this is the only Master Miracle in the corpus that's party-wide and single-use rather than either single-target or ongoing.
+
+**The First Ward**
+Before Sanctuary, there is this: the first prayer any acolyte learns to keep a blade from landing clean.
+
+- **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Cost:** 1 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
+- **Target/Range:** Self
+- **Action Type:** Activation / Reactor
+- **Duration:** Flowing — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 8 at the start of each of their Activations to maintain it (per the Flowing rule in Embracing the Abyss). The ward instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
+
+**The Tithe Ladder:**
+- Pass: The Priest gains SV 1 against the next hostile Strike or spell that targets them.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The ward still grants its SV, but convert the cost into a direct Wound on the Priest, and reset the Priest's Encroachment to 0.
+
+**Special Interactions:** Right now Flowing only exists at Adept and Master — this is the Novice rung of the same ladder. Self-only and a third of Sanctuary's SV, so Sanctuary stays the clear upgrade once a Priest can afford it, not a sidegrade.
+
+**The Unbroken Vow**
+Purify answers the rot after it takes hold. This is the older, quieter prayer — the one that keeps it from ever finding purchase.
+
+- **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Cost:** 2 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
+- **Target/Range:** Self or one ally, touch
+- **Action Type:** Activation
+- **Duration:** Flowing — no additional Locked Stress cost; the Priest rolls Tithe of Will vs. TN 10 at the start of each of their Activations to maintain it (per the Flowing rule in Embracing the Abyss). The ward instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
+
+**The Tithe Ladder:**
+- Pass: For as long as maintained, the warded character cannot acquire a new disease, poison, or curse-based condition.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The ward still holds, but convert the Locked Stress cost into a direct Wound, and reset the Priest's Encroachment to 0.
+
+**Special Interactions:** Same relationship to Purify that Shepherd the Dying has to Stabilize — same problem, opposite timing (prevent vs. cure), not a strictly-better version of either.
+
 ## 1. The Domain of Strategy (The Cult of the Iron Horizon)
 - **The Paragon:** *Saint Senecus the Unyielding*
 - **The Lore:** Senecus was an ancient military philosopher who held a doomed mountain pass against a horde of aberrant monstrous races. He taught that true victory isn't survival, but the stoic adherence to tactical duty regardless of the odds. 
@@ -1515,6 +1615,21 @@ Senecus never told his soldiers to charge into the open. He told them where to m
 
 **Designer Note:** New condition, Suppressed — see Iron Core. Doesn't lock movement like Anchored or halve it like Rigor; instead it taxes anything that isn't holding the line and fighting back, which is Strategy's whole identity turned outward on the enemy.
 
+**The Marching Order**
+Senecus never fought a battle his army hadn't already survived getting to.
+
+- **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** Self and the party, Short Range
+- **Action Type:** Activation
+- **Duration:** The remainder of the day's travel
+
+**The Tithe Ladder:**
+- Pass: The party organizes under tactical march discipline — ignore Stress and penalties from forced-march fatigue or difficult travel terrain for the remainder of the day's travel (per the Iron World Hazard Check rules).
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The discipline still holds, but convert the Locked Stress cost into a direct Wound, and reset the Priest's Encroachment to 0.
+
 ### Adept Miracles
 
 **Tactical Reading**
@@ -1546,6 +1661,21 @@ Senecus didn't win battles with heroes. He won them by making sure everyone hit 
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, and reset the Priest's Encroachment to 0. The mark still applies.
 
 **Designer Note:** Ties directly into the Domain Tag (Tactical Horizon), which already deals in Momentum — this gives Strategy a second, distinct hook into that resource instead of a one-off.
+
+**The Unbroken Watch**
+Senecus never slept on watch. He didn't trust the enemy to be honest about when they'd attack.
+
+- **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Cost:** 2 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
+- **Target/Range:** Self and the camp, Short Range
+- **Action Type:** Activation
+- **Duration:** Flowing — no additional Locked Stress cost; outside combat, the Priest rolls Tithe of Will vs. TN 10 once per hour of rest to maintain it, rather than per Activation (the Flowing rule as written assumes a combat cadence — see Embracing the Abyss; every non-combat Flowing Miracle below uses this same hourly/per-scene-beat substitution). The ward instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
+
+**The Tithe Ladder:**
+- Pass: The camp cannot be Surprised while the ward holds — anyone or anything approaching triggers a silent, instant alert to the Priest regardless of its Stealth.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The watch still holds, but convert the Locked Stress cost into a direct Wound, and reset the Priest's Encroachment to 0.
 
 ### Master Miracles
 
@@ -1626,6 +1756,20 @@ The house always wins — except for the one hand Corvo decides it doesn't.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, reset the Priest's Encroachment to 0.
 
+**A Word in Passing**
+Corvo's oldest trick: never lie. Just let people finish the story themselves.
+
+- **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** One NPC, Short Range
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+- Pass: Plants one false but entirely plausible impression or rumor in the target's mind — they genuinely believe they arrived at it themselves.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The impression still takes, but convert the Locked Stress cost into a direct Wound, and reset the Priest's Encroachment to 0.
+
 ### Adept Miracles
 
 **The Long Con**
@@ -1668,6 +1812,21 @@ Corvo didn't fight the empire's laws — he forged better ones. The Priest forge
 - Pass: The Priest's face, voice, and bearing convincingly become someone else's. Anyone suspicious rolls Notice against the Priest's original casting roll to see through it.
 - Fail: As Pass, and gain 1 encroachment.
 - Snake Eyes: The disguise holds, but convert the cost into a direct Wound.
+
+**The Long Game**
+The house always wins because the house never stops playing, even between hands.
+
+- **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Cost:** 2 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
+- **Target/Range:** Self
+- **Action Type:** Activation
+- **Duration:** Flowing — no additional Locked Stress cost; re-rolled once per scene-beat outside combat rather than per Activation (see The Unbroken Watch, Domain of Strategy). Drops instantly if the Priest is caught in a directly-contradicted lie, takes a Wound, or is knocked Prone (per the Physical Anchor rule).
+
+**The Tithe Ladder:**
+- Pass: Advantage on Influence checks made to deceive, for as long as maintained.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The advantage still applies, but convert the Locked Stress cost into a direct Wound, and reset the Priest's Encroachment to 0.
 
 ### Master Miracles
 
@@ -1754,6 +1913,20 @@ Aurelius wrote the law before the sword was drawn. The sword simply hasn't caugh
 
 **Designer Note:** Fills a gap Law otherwise leaves open — a single-target protection Miracle. Not making an ally harder to hit, but making them briefly illegal to target at all.
 
+**The Binding Oath**
+Aurelius wrote that a promise is a contract whether or not it's written down. He simply made sure the universe agreed with him.
+
+- **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** One willing character, touch
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+- Pass: The target's spoken promise is bound. If they knowingly break its letter, they immediately suffer 2 Dissonant Stress.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The oath still binds, but convert the Locked Stress cost into a direct Wound, and reset the Priest's Encroachment to 0.
+
 ### Adept Miracles
 
 **Chains of Mandate**
@@ -1788,6 +1961,23 @@ The verdict is entered. The body may keep fighting; the law has already decided 
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, and reset the Priest's Encroachment to 0.
 
 **Designer Note:** Reuses the existing Cursed condition rather than inventing a new debuff — turns Law into the Domain that shuts down an enemy healer's whole job on a priority target.
+
+**Writ of Testimony**
+Aurelius never needed to threaten anyone. The truth simply stopped having anywhere else to hide.
+
+- **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Cost:** 2 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
+- **Target/Range:** One character under active questioning, Short Range
+- **Action Type:** Activation
+- **Duration:** Flowing — no additional Locked Stress cost; re-rolled once per scene-beat outside combat rather than per Activation (see The Unbroken Watch, Domain of Strategy). Drops on a Wound or Prone (per the Physical Anchor rule).
+
+**The Tithe Ladder:**
+- Pass: The Priest knows with certainty whether each sworn statement the target makes is true, for as long as maintained.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The certainty still holds, but convert the Locked Stress cost into a direct Wound, and reset the Priest's Encroachment to 0.
+
+**Special Interactions:** Pairs naturally with The Binding Oath — a target already bound by it has a real incentive not to test this.
 
 ### Master Miracles
 
@@ -1878,6 +2068,22 @@ Somewhere close, a bell only Vael's faithful can hear has begun to toll.
 
 **Special Interactions:** Pairs directly with Shepherd the Dying and Vael's Mercy — it's the spell that tells the Priest where to point the other two.
 
+**Vael's Confession**
+Vael's answer to a Necromancer isn't always a duel. Sometimes it's just a better question, asked first.
+
+- **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** One corpse dead within the last hour, touch
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+- Pass: The Priest may ask the remains one final yes/no or short-answer question, answered honestly.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The dead still answer, but convert the Locked Stress cost into a direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
+
+**Special Interactions:** The information-gathering half of Last Rites, unbundled and made accessible at Novice tier — Last Rites' permanent anti-reanimation protection stays its own Adept-exclusive niche.
+
 ### Adept Miracles
 
 **Last Rites**
@@ -1912,6 +2118,21 @@ Vael doesn't fight death. He negotiates with it, on your behalf, before you can.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target is still Stabilized.
 
 **Special Interactions:** Doesn't replace Triage or the Common Miracle Stabilize — differentiated by timing (Reactor, free of the action economy) rather than by being strictly stronger.
+
+**The Patient Dead**
+Vael's whole philosophy in one ward: the dead have earned their rest, and the Priest intends to see they get it.
+
+- **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Cost:** 2 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
+- **Target/Range:** A grave site or the recently fallen, Short Range
+- **Action Type:** Activation
+- **Duration:** Flowing — no additional Locked Stress cost; re-rolled once per hour outside combat rather than per Activation (see The Unbroken Watch, Domain of Strategy). Drops on a Wound or Prone (per the Physical Anchor rule).
+
+**The Tithe Ladder:**
+- Pass: The dead within the zone go undisturbed — minor undead, vermin, and grave-robbers alike are turned away from the site while the ward holds.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The ward still holds, but convert the Locked Stress cost into a direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
 ### Master Miracles
 
@@ -2018,6 +2239,20 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, reset Encroachment to 0.
 
+**Kaelen's Larder**
+Kaelen never wasted a kill. The winter punished anyone who did.
+
+- **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** Touch, requires foraged or hunted material on hand
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+- Pass: Preserves the material against spoilage indefinitely — immediately steps the Community Supply Die up one tier, the same benefit as Scavenge and Cannibalize.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The preservation still takes, but convert the Locked Stress cost into a direct Wound, reset Encroachment to 0.
+
 ### Adept Miracles
 
 **Winter's Endurance**
@@ -2054,6 +2289,21 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 - Pass: A translucent, frost-limned wolf spirit erupts from the Priest's shadow and fights at their side. Treat it as an NPC ally (Wound Threshold 5, 1 Wound Slot, Prowess +1 | Melee +1, no Stress Limit — as a spirit, it cannot Break or flee) acting on the Priest's Activation.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, reset Encroachment to 0. If summoned, the spirit-wolf instantly dissipates.
+
+**The Unbroken Trail**
+Kaelen never got lost. She said the land only looks confusing to someone who hasn't decided to listen to it yet.
+
+- **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Cost:** 2 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
+- **Target/Range:** Self
+- **Action Type:** Activation
+- **Duration:** Flowing — no additional Locked Stress cost; re-rolled once per hour of travel outside combat rather than per Activation (see The Unbroken Watch, Domain of Strategy). Drops on a Wound or Prone (per the Physical Anchor rule).
+
+**The Tithe Ladder:**
+- Pass: The party cannot lose the trail the Priest is following — Advantage on Survival or Navigation checks to stay the course, even through difficult conditions.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The trail still holds, but convert the Locked Stress cost into a direct Wound, reset Encroachment to 0.
 
 ### Master Miracles
 
@@ -2136,6 +2386,20 @@ A hand on the shoulder, and for one moment, the weight isn't yours alone.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0. The Stress still clears.
 
+**Elara's Vigil**
+Elara never rushed a healing. She said the body forgives slowly, and it deserves the time.
+
+- **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** Touch, requires uninterrupted downtime (a Short or Long Rest)
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+- Pass: Tending the target this way halves the time their next natural Wound-Slot recovery takes, or auto-succeeds a downtime Medicine check made on their behalf.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The care still takes, but convert the Locked Stress cost into a direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
+
 ### Adept Miracles
 
 **Elara's Burden**
@@ -2166,6 +2430,21 @@ She walked into the quarantine zones so no one else would have to walk in alone.
 - Pass: Every ally in range gains the Blessed condition for the scene.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The Blessing still applies.
+
+**The Martyr's Watch**
+Elara walked into the quarantine zones and didn't leave until the last patient did. This is the same promise, made smaller.
+
+- **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Cost:** 2 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
+- **Target/Range:** One dying or gravely ill character outside combat, touch
+- **Action Type:** Activation
+- **Duration:** Flowing — no additional Locked Stress cost; re-rolled once per hour of vigil outside combat rather than per Activation (see The Unbroken Watch, Domain of Strategy). Drops if the Priest takes a Wound or is knocked Prone — someone has to protect the vigil for it to hold.
+
+**The Tithe Ladder:**
+- Pass: The patient's condition cannot worsen while the Priest keeps watch over them.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The vigil still holds, but convert the Locked Stress cost into a direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
 ### Master Miracles
 
@@ -2248,6 +2527,20 @@ The ground itself decides it would rather be underwater.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
 
+**Thalass's Favor**
+The sea doesn't grant favors. It simply, occasionally, declines to drown you.
+
+- **Level:** Novice
+- **Resolution:** Tithe of Will — Faith vs. TN 8
+- **Cost:** 1 Locked Stress
+- **Target/Range:** One vessel, touch
+- **Action Type:** Activation
+
+**The Tithe Ladder:**
+- Pass: Calms local waters and draws a favorable wind, granting the vessel a full day of safe, expedited passage.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The passage still holds, but convert the Locked Stress cost into a direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
+
 ### Adept Miracles
 
 **The Undertow's Grip**
@@ -2277,6 +2570,21 @@ The ground itself decides it would rather be underwater.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
 **Special Interactions:** Deliberately indiscriminate, mirroring Corpse Bloom — the sea doesn't negotiate.
+
+**Read the Deep**
+Thalass doesn't warn you before it drowns you. This is the Priest borrowing that warning early, on someone else's behalf.
+
+- **Level:** Adept
+- **Resolution:** Tithe of Will — Faith vs. TN 10
+- **Cost:** 2 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
+- **Target/Range:** Self, aboard a vessel or navigating open water
+- **Action Type:** Activation
+- **Duration:** Flowing — no additional Locked Stress cost; re-rolled once per hour underway outside combat rather than per Activation (see The Unbroken Watch, Domain of Strategy). Drops on a Wound or Prone (per the Physical Anchor rule).
+
+**The Tithe Ladder:**
+- Pass: The Priest senses an approaching storm, reef, or dangerous current before it's a threat — Advantage on checks made to avoid maritime hazards.
+- Fail: As Pass, and the Priest gains 1 Encroachment.
+- Snake Eyes: The warning still comes, but convert the Locked Stress cost into a direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
 ### Master Miracles
 
