@@ -25,7 +25,7 @@
 - **Stumpy (Drawback):** Disadvantage on Athletics checks during chases or open-ground sprints.
 
 ### Feats
-- **Divine Conduit — The Covenant, Domain of Law.** Grants a Holy Symbol, the **Smite Corruption** Domain Tag (targeting Undead/Daemons/Mutants treats their Wound Threshold as 1 lower), and the 3 Novice Miracles below.
+- **Divine Conduit — The Covenant, Domain of Law.** Grants a Holy Symbol, the **Smite Corruption** Domain Tag (targeting Undead/Daemons/Mutants treats their Wound Threshold as 1 lower), and the 4 Novice Miracles below.
 - **Stoic Resolve** *(Will +2, Resolve +1)*: +2 Stress Limit (already applied above). When taking the Reprieve action, or spending Momentum on Adrenaline Flush, clear 1 extra point of the relevant Stress type.
 
 ### Equipment
@@ -40,6 +40,8 @@
 - **Sanctuary of the Zenith** — 1 Locked Stress, Activation, 3x3 zone, Scene duration. Pass: no character inside can gain Advantage or Disadvantage on any roll — Flanking, Obscurement, Prone penalties all suppressed. Fail: as Pass + 1 Encroachment.
 
 - **Writ of Protection** — 1 Locked Stress, Free Reaction (an enemy declares an attack on a warded ally). Pass: the attack is forbidden from targeting them — redirects or is wasted. Fail: as Pass + 1 Encroachment.
+
+- **The Binding Oath** — 1 Locked Stress, Activation, touch, one willing character. Pass: the target's spoken promise is bound — knowingly breaking its letter costs them 2 Dissonant Stress. Fail: as Pass + 1 Encroachment.
 
 ### Table Note
 The auto-pass ceiling previously flagged here is gone. Under the restructure the Tithe of Will is 2d6 + Faith, and Faith 6 costs 9 DP against a creation budget of 8 — unreachable at Green by arithmetic. At Faith 3 she passes a Novice Miracle (TN 8) 83% of the time, and the dice are live at every tier. Will 3 has not stopped mattering: it sets her Faith ceiling at 6 and feeds her Stress Limit of 9, which is what lets her absorb the Locked Stress her Domain runs on. The old ceiling now returns only at Faith 6, a Storied purchase.
@@ -71,7 +73,7 @@ Tithe of Will 2d6+3 | Strike (Mace) 2d6+1, Impact = Margin+2 | Block 2d6+1 (mode
 - **Hollow-Boned (Drawback, comes with Fey Reflexes):** -1 Wound Threshold (already applied above).
 
 ### Feats
-- **Arcane Awakening** *(Paradigm: Shadow Sorcery)*. Grimoire below — all three picks are in-Paradigm, no Common filler needed.
+- **Arcane Awakening** *(Paradigm: Shadow Sorcery)*. Grimoire below — three picks in-Paradigm, the fourth drawn from the Common list (every Paradigm sits at exactly 3 Novice spells, so this is now true of every Arcane Awakening character, not a gap specific to him).
 - **Whispers in the Dark** *(Stealth +1, Notice +1)*: While successfully hidden, Advantage on Notice checks to eavesdrop, read lips, or observe details without breaking cover.
 
 ### Equipment
@@ -85,6 +87,8 @@ Tithe of Will 2d6+3 | Strike (Mace) 2d6+1, Impact = Margin+2 | Block 2d6+1 (mode
 - **Stitch the Silhouette** *(Paradigm, Clash-resolution, Mastery-eligible)* — Arcane Clash vs. Prowess, Short Range, Aggressor. Margin 1–2: target Anchored until they tear free (1 Impact to themselves doing so); costs Faelan 1 Dissonant Stress. Margin 3+ (Clean, or Mastery-upgraded from 1–2): as above, and target also loses Dodge as an option until free — no cost.
 
 - **Flicker-Step** *(Paradigm, Mastery-eligible)* — Unopposed vs. TN 8, Self, 30ft teleport, ignores Threat Zones entirely. Margin 0–2: teleports, but arrives gasping — 1 Dissonant Stress. Margin 3–4: silent and flawless. Margin 5+: also generates 1 Momentum or grants Advantage on his next Strike.
+
+- **Illusion** *(Common, not Mastery-eligible)* — Unopposed vs. TN 8, 10ft area, Short Range, Activation, Scene. Anyone inspecting it rolls Notice vs. his casting Margin to see through it. Margin 0–2: forms, 1 Dissonant Stress. Margin 3–4: no cost. Margin 5+: "True" — includes scent, resists touch, can't be seen through except by physically disrupting it.
 
 ### Combat Math Quick-Ref
 Arcane Clash/Manifestation 2d6+3 | Dagger Strike 2d6+0 *(Melee 0; Finesse lets him reroll a natural 1)* | Dodge 2d6+1 | Notice 2d6+1 | Activation Order 7
@@ -148,7 +152,7 @@ Ranged Strike 2d6+3, Impact = Margin+2 (Shortbow) | Dodge 2d6+1 | Stealth 2d6+2 
 - **Outcast (Drawback):** Disadvantage on social checks with civilized strangers who don't know her.
 
 ### Feats
-- **Arcane Awakening** *(Paradigm: Pyromancy).* Grimoire below — all three picks are in-Paradigm, no Common filler needed.
+- **Arcane Awakening** *(Paradigm: Pyromancy).* Grimoire below — three picks in-Paradigm, the fourth drawn from the Common list (every Paradigm sits at exactly 3 Novice spells, so this is now true of every Arcane Awakening character, not a gap specific to her).
 - **Lethal Strikes** *(Melee 1)*: Her unarmed strikes can deal Lethal Impact and cause physical Wounds — the mechanical half of the "own knuckles" line in Wreath of Embers below; without it, her fists are just fists.
 
 ### Equipment
@@ -160,13 +164,14 @@ Ranged Strike 2d6+3, Impact = Margin+2 (Shortbow) | Dodge 2d6+1 | Stealth 2d6+2 
 - **Thermal Detonation** *(Pyromancy, Novice, Crowd Control — Creation)* — Arcane Clash (Arcana vs. every engaged enemy's Defense), 5ft radius centered on self, Spell Power 2. Margin 1–2: Impact = Margin+2, enemy thrown 5ft back out of her Threat Zone, she takes 1 Dissonant Stress. Margin 3+ (Clean): as above, enemy thrown 10ft and knocked Prone, plus 1 Dissonant Stress from the ruptured eardrums (to her).
 - **Ember Lance** *(Pyromancy, Novice, Direct Strike — Creation)* — Arcane Clash (Arcana vs. Target's Defense), Medium Range, Spell Power 2. Margin 1–2: Impact = Margin+2, she takes 1 Dissonant Stress. Margin 3+ (Clean): as above, target also suffers Disadvantage on their next Aggressor Strike.
 - **Wreath of Embers** *(Pyromancy, Novice, Weapon Ignition — Creation)* — Unopposed Arcana vs. TN 8, Activation, Scene duration, self or one weapon (she targets her own knuckles). Margin 0–2 (Messy): +1 Impact as fire for the scene, she takes 1 Dissonant Stress. Margin 3–4 (Clean): as above, no cost. Margin 5+ (Exceptional): the first enemy she strikes each round must also resist Ablaze or take 1 Impact next turn.
+- **Havoc** *(Common, not Mastery-eligible)* — Arcane Clash vs. each target's Prowess + Athletics/Acrobatics, 10ft radius, Short Range, Aggressor. Margin 1–2: target pushed 5ft and takes 1 Dissonant Stress; she also takes 1 Dissonant Stress from the strain. Margin 3+ (Clean): target pushed 10ft, knocked Prone, and takes 1 Dissonant Stress.
 
 ### Combat Math Quick-Ref
 Arcane Clash/Manifestation 2d6+3 | Unarmed Strike 2d6+1 *(Melee; Lethal Strikes makes it count)* — Impact = Margin, or Margin+1 while Wreath of Embers is active | Dodge 2d6+0 | Notice 2d6+1 | Insight 2d6+1 | Resolve 2d6+1 | Activation Order 6
 
 ### Table Notes
 - **Blood Frenzy finally meets a spellcaster.** Every Pyromancy Novice spell she owns pushes 1 Dissonant Stress on its non-Exceptional result — Thermal Detonation, Ember Lance, and Wreath of Embers all do it. Ox is the roster's only other Half-Orc, and he uses Blood Frenzy purely as a tank mechanic (see his Table Notes on the Blood Frenzy/Blood Price exclusivity). Vrenna is the first character where taking a Wound to clear Dissonant Stress is a caster's decision, not a brute's — she can choose to eat a hit specifically to keep casting past what her Stress Limit of 7 would otherwise allow.
-- **Pyromancy's Novice tier now matches Shadow Sorcery's shape.** Three in-Paradigm Novice spells means Arcane Awakening needed zero Common-list filler — the same position Faelan's Shadow Sorcery was in, and a real contrast with Morwenna's Necromancy, which still only has two Novice spells and forces every Necromancer's third pick onto the Common list (flagged on her sheet already).
+- **Pyromancy's Novice tier matches Shadow Sorcery's and Necromancy's shape — all three sit at exactly 3 Novice spells.** Under the current 4-spell Arcane Awakening (see The Marrow), that means every Arcane Paradigm forces exactly one Common-list pick at creation, Vrenna's Havoc included — this is now universal, not a gap specific to any one Paradigm the way Necromancy's old 2-spell Novice tier used to read.
 - **Unarmed strikes confirmed Power 0.** Impact = Margin (or Margin+1 while Wreath of Embers is active) — no Spell Power or weapon Power modifier stacks onto her punches beyond what the spell itself grants.
 
 ---
@@ -360,6 +365,7 @@ Every prerequisite above is checked against what he actually had *at the moment 
 ### Grimoire (Arcana = **2d6+4**)
 - **Marrow Siphon** *(Necromancy, Novice, Sustain/Attrition — Creation)* — Unopposed vs. TN 8, targets a corpse or an enemy with 2+ Wounds. Fail (<8): 1 Dissonant Stress to her. Margin 0–2: clears 2 Dissonant Stress, but 1 Minor Wound from the physiological backlash. Margin 3–4 (Clean, or Mastery-upgraded from 0–2): clears 2 Dissonant Stress cleanly, corpse reduced to ash. Margin 5+: clears all Dissonant Stress and generates 1 Momentum.
 - **Rigor Mortis** *(Necromancy, Novice, Clash-resolution — Creation)* — Arcane Clash vs. Target's Resolve, Short Range, Aggressor. Margin 1–2: target's speed halved, no Dodge next turn; she takes 1 Dissonant Stress. Margin 3+ (Clean, or Mastery-upgraded): target fully Anchored, −2 to their next Aggressor Strike.
+- **Calcify Armor** *(Necromancy, Novice, Utility/Buff — Creation)* — Unopposed vs. TN 8, self or one ally, touch, until the end of the encounter. Margin 0–2: target gains +1 SV, but takes 1 Dissonant Stress from the agonizing process. Margin 3–4 (Clean, or Mastery-upgraded): forms flawlessly, +1 SV, no cost. Margin 5+: enemies who fail a Block/Parry against the target suffer 1 Impact from the jagged bone.
 - **Arcane Protection** *(Common, Novice, Sustain — Creation)* — Not Mastery-eligible (Common list). Unopposed vs. TN 8 to raise, Sustain (no Locked Stress; re-roll vs. TN 8 each Activation and on taking a Wound). Margin 0–2: holds, 1 Dissonant Stress. Margin 3–4: holds, hostile spells vs. the warded target suffer Disadvantage. Margin 5+: as Clean, ward gains SV 2 against the next hostile spell.
 - **Corpse Bloom** *(Necromancy, Adept — Milestone 3)* — Unopposed vs. TN 10, one corpse in sight, 10ft radius, Spell Power 3. Everyone in the radius (friend or foe) takes Impact = Margin + 3. Margin 0–2 (Mastery-upgraded to Clean): detonation is delayed/unpredictable rather than instant.
 - **Zombie** *(Necromancy, Master — Milestone 5)* — Unopposed vs. TN 12, touch, requires a corpse within reach. Margin 0–2 (Mastery-upgraded to Clean): corpse rises as an NPC Undead under her control for the Scene (Wound Threshold 6, no Stress Limit). Margin 3–4: as above, no cost. Margin 5+: she may Lock 5 Stress to make the servant permanent instead of letting it end with the Scene.
@@ -383,7 +389,7 @@ Arcane Manifestation/Clash 2d6+4 | Dagger Strike 2d6+0 | Dodge 2d6+0 (she has no
 20 of 21 DP spent, 1 banked. Every Arcana spell purchase above used the in-Paradigm rate (Necromancy is her chosen Paradigm) — an off-Paradigm Adept or Master pick would have cost 6 or 8–10 DP instead, per the double-cost rule.
 
 ### Table Notes
-- **Necromancy's Novice tier is thin.** Only two Necromancy spells exist at Novice (Marrow Siphon, Rigor Mortis) — compare Faelan's Shadow Sorcery, which had enough Novice-tier picks to fill all three Arcane Awakening slots in-Paradigm. Every Necromancer's third starting spell is *forced* onto the Common list (here, Arcane Protection) whether the player wants a defensive spell or not. Worth knowing this is structural, not a choice, if more Necromancers get built.
+- **Necromancy's Novice tier is no longer thin — a third spell (Calcify Armor) exists now, matching every other Paradigm at exactly 3.** Under the current 4-spell Arcane Awakening (see The Marrow), Morwenna's four starting picks are all three in-Paradigm Necromancy spells (Marrow Siphon, Rigor Mortis, Calcify Armor) plus Arcane Protection from Common — the same shape every Arcane Awakening character now has, not a Necromancer-specific gap the way it used to read.
 - **Spell-learning now requires a Skill floor** (Arcana 2+ for Adept, 3+ for Master; see The Marrow's Advancement rules) — closing the gap where "Learn New Arcane Spells" used to gate on nothing but DP, unlike every Feat in the corpus. Morwenna's own purchases already clear it: Arcana was 3 at both Milestone 3 (Corpse Bloom, Adept) and Milestone 5 (Zombie, Master), so nothing about her build needs to change retroactively.
 - **Zombie priced at 5, not 4, of the Master range's 4–5 DP** — a judgment call, not a rule the text spells out. Justification: its Margin 5+ clause converts a Scene-duration effect into a *permanent* one for 5 Locked Stress, which is a categorically bigger payoff than Drain Stress or Puppet get at the same Level. If a cleaner rule for splitting the 4–5 range is wanted, "does the Margin 5+ result grant permanence or a repeatable effect" is a reasonable line to draw it on.
 - **Glass cannon, deliberately.** Her Wound Threshold is 4 today — identical to her creation-day value. All 19 spent DP went into offense, utility, and Stress Limit; none of it touched Brawn, Armor, or anything that would raise WT. Same Focus vs. Spread pattern flagged below for Helga/Faelan/Pip, just carried all the way through a full Advancement arc instead of stopping at character creation — and a useful contrast against Ox, who spent his entire arc buying durability instead.
@@ -411,7 +417,7 @@ Arcane Manifestation/Clash 2d6+4 | Dagger Strike 2d6+0 | Dodge 2d6+0 (she has no
 - **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap.
 
 ### Feats
-- **Divine Conduit** *(The Covenant, Domain of Mercy & Healing — Creation)*. Grants a Holy Symbol, the **Pure Martyrdom** Domain Tag (casting Healing/Stabilize: take 1 Locked Stress herself to clear an additional Wound Slot on the target), and the 3 Novice Miracles below.
+- **Divine Conduit** *(The Covenant, Domain of Mercy & Healing — Creation)*. Grants a Holy Symbol, the **Pure Martyrdom** Domain Tag (casting Healing/Stabilize: take 1 Locked Stress herself to clear an additional Wound Slot on the target), and the 4 Novice Miracles below.
 - **Dung-Healer's Salve** *(Medicine +1 — Creation)*: During downtime Medicine checks to heal Wounds, mundane foraged supplies work — the patient takes 1 Locked Stress from the crude treatment, but the Wound Slot clears.
 - **Gallows Humour** *(Influence +1 or Resolve +1 — Milestone 6)*: Recounting a harrowing story during a Breather clears 1 additional point of Dissonant Stress for everyone participating.
 
@@ -425,6 +431,7 @@ Arcane Manifestation/Clash 2d6+4 | Dagger Strike 2d6+0 | Dodge 2d6+0 (she has no
 - **Healing/Stabilize** *(Common, Novice — Creation)* — Tithe vs. TN 8, 2 Locked Stress. Pass: clears 1 Wound Slot; if the target is Incapacitated, also Stabilizes them. A character can't benefit from a second Healing-type Miracle in the same Scene.
 - **Elara's Comfort** *(Domain, Novice — Creation)* — Tithe vs. TN 8, 1 Locked Stress. Pass: target clears 2 Dissonant Stress.
 - **Bolster the Faithful** *(Domain, Novice — Creation)* — Tithe vs. TN 8, 1 Locked Stress. Pass: target gains Blessed.
+- **Elara's Vigil** *(Domain, Novice — Creation)* — Tithe vs. TN 8, 1 Locked Stress, touch, requires uninterrupted downtime. Pass: halves the target's next natural Wound-Slot recovery time, or auto-succeeds a downtime Medicine check made on her behalf.
 - **Wrathful Light** *(Domain, Novice — Milestone 4)* — Tithe vs. TN 8, 2 Locked Stress. Pass: target must pass Resolve (TN 8) or take 2 Dissonant Stress; Undead/Daemon/Mutant targets also gain Fear. Her one offensive option.
 - **Elara's Burden** *(Domain, Adept — Milestone 3)* — Tithe vs. TN 10, 2 Locked Stress. Pass: transfers 1 Wound from an ally directly onto her.
 - **The Weeping Communion** *(Domain, Adept — Milestone 5)* — Tithe vs. TN 10, 2 Locked Stress. Pass: every ally within 15ft gains Blessed for the Scene.
