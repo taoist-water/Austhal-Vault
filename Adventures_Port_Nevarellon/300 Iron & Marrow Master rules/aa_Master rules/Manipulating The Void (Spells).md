@@ -1390,7 +1390,7 @@ A litany murmured over torn flesh, asking permission to undo what was done. Avai
 - **Resolution:** Tithe of Will — Faith vs. TN 8
 - **Cost:** 2 Locked Stress
 - **Target/Range:** Touch
-- **Action Type:** Aggressor
+- **Action Type:** Activation
 
 **The Tithe Ladder:**
 - Pass: Clears 1 Wound Slot. If the target is Incapacitated, also Stabilizes them and prevents further death checks.
@@ -2279,7 +2279,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 - **The Paragon:** *Kaelen the Survivor*
 - **The Lore:** A tribal matriarch from the deepest winters of the north who supposedly hunted a primordial winter-drake with nothing but an iron spear and her bare teeth. She embodies the raw, animalistic grit required to survive when civilization fails.
 - **Flavor:** Heavy white wolf pelts, frosted breath. Prayers manifest as freezing howling wind and ice.
-- **Domain Tag (Chilling Frost):** Cast offensive prayer -> Target is numbed. They cannot Move next turn unless they take 1 physical Stress to snap their frozen muscles free.
+- **Domain Tag (Chilling Frost):** Cast offensive prayer -> Target is numbed. They cannot Move next turn unless they take 1 Dissonant Stress to snap their frozen muscles free.
 ### Novice Miracles
 
 **Rime-Fang's Bite**
@@ -2369,8 +2369,8 @@ Kaelen never wasted a kill. The winter punished anyone who did.
 **Winter's Endurance**
 
 - **Level:** Adept
-- **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress
+- **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Target/Range:** Touch
 - **Action Type:** Activation
 - **Duration:** Scene
@@ -2393,6 +2393,7 @@ Kaelen never wasted a kill. The winter punished anyone who did.
 
 - **Level:** Adept
 - **Cost:** 2 Locked Stress
+- **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Target/Range:** Self, 10ft
 - **Action Type:** Activation
 - **Duration:** Scene, or until the spirit-wolf is slain
@@ -2406,8 +2407,8 @@ Kaelen never wasted a kill. The winter punished anyone who did.
 Kaelen never got lost. She said the land only looks confusing to someone who hasn't decided to listen to it yet.
 
 - **Level:** Adept
-- **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Cost:** 2 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
+- **Resolution:** Tithe of Will — Faith vs. TN 10
 - **Target/Range:** Self
 - **Action Type:** Activation
 - **Duration:** Flowing — no additional Locked Stress cost; re-rolled once per hour of travel outside combat rather than per Activation (see The Unbroken Watch, Domain of Strategy). Drops on a Wound or Prone (per the Physical Anchor rule).
