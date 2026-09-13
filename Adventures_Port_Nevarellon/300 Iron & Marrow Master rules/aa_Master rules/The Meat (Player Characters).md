@@ -176,6 +176,169 @@ Arcane Clash/Manifestation 2d6+3 | Unarmed Strike 2d6+1 *(Melee; Lethal Strikes 
 
 ---
 
+## Bram Ashcroft — Human Male, Sword-and-Board Fighter
+
+*"Let them break their teeth on my shield."*
+
+### Vital Statistics
+- **Species:** Human
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 3 | Reflex 1 | Wits 0 | Will 0 *(Spike array)*
+- **Skills:** Melee 3 | Block 3 | Prowess 1 | Resolve 1 | Notice 1 *(9 ranks, 9 DP with Adaptable. Ceilings: Melee/Block/Prowess/Athletics 6 (Brawn 3); Resolve 3 (Will 0); Notice 3 (Wits 0))*
+- **Wound Threshold:** 9 *(4 base + 3 Brawn + 2 Chainmail/Scale + 0 Species)*
+- **Stress Limit:** 5 *(4 base + 0 Wits + 0 Will + 1 Indomitable Spirit)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 1, −1 Steady Not Sharp)* | **Activation Order:** 7 *(6 + Reflex 1)*
+- **Inventory Slots:** 11 *(8 + 3 Brawn)*
+
+### Species Traits (Human)
+- **Adaptable:** +1 Skill Point at creation (already applied — 9 DP spent instead of 8).
+- **Indomitable Spirit:** +1 Stress Limit (already applied above).
+- **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap (already applied above).
+
+### Feats
+- **Iron Grip** *(Melee +1 — Creation)*: ties on a Clash where the weapons bind auto-bank him 1 Momentum — his engine for a character with no other Momentum generator.
+- **Trench Fighter** *(Brawn +1 — Creation)*: ignores Difficult Terrain's Disadvantage entirely, and drawing a weapon while engaged doesn't take the usual penalty.
+
+### Equipment
+- **Armor:** Chainmail/Scale (+2 Armor, Medium, Bulky — the Bulky penalty hits Athletics/Stealth/Arcana, and he has zero ranks in any of the three, so it costs him nothing)
+- **Weapon:** Shortsword (Power 2, Sidearm, Finesse)
+- **Shield:** Kite/Round Shield (4 SV, Cover)
+- **Starting Purse: 80 sp** — Chainmail/Scale 45 + Shortsword 10 + Kite Shield 18 = **73 sp spent, 7 sp remaining.** Sunrod (5 sp) for light, 2 sp banked.
+
+### Combat Math Quick-Ref
+Melee Clash 2d6+3 | Block 2d6+3 (if lost, Kite Shield's SV 4 subtracts from Impact before comparing to WT 9) | Prowess 2d6+1 | Resolve 2d6+1 | Notice 2d6+1 | Activation Order 7
+
+### Table Notes
+- **The armor swap that pays for a light source.** His original loadout (Chain Shirt 50 + Shortsword 10 + Kite Shield 18 = 78 of 80 sp) left nothing for consumables. Chainmail/Scale is strictly better silver-for-silver here: same +2 Armor as Chain Shirt for 5 sp less, and Bulky is free when nothing you own touches Athletics/Stealth/Arcana. Worth remembering any time a melee-only build is short on purse.
+- **First character built to actually spend DP on Block.** Every other melee build in the roster (Ox, Corvin) leaves Block at 0 and works through Melee/Acrobatics instead. Bram's Block 3 is the first real test of the skill at full investment: per Metal meet Flesh, Block is 2d6+Block as a Reactor roll, and on a loss his Kite Shield's SV 4 subtracts from Impact before it's compared to his WT 9 (same mechanic Helga's sheet already uses). The Marrow's own skill-list line for Block ("Using the haft of your spear, effective with a shield") is just flavor text describing what the skill represents, not a rules citation — the actual mechanic lives in Metal meet Flesh, not there.
+
+---
+
+## Aeric Thorne — Half-Elf Male, Berserker
+
+*"You don't win a fight. You make sure you're the last thing standing in it."*
+
+### Vital Statistics
+- **Species:** Half-Elf (Split Heritage: took Fey Reflexes, and its paired Hollow-Boned drawback)
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 2 | Reflex 2 | Wits 0 | Will 0 *(Twin array)*
+- **Skills:** Melee 3 | Athletics 2 | Prowess 2 | Resolve 1 *(8 ranks, 8 DP. Ceilings: Melee/Athletics/Prowess/Block 5 (Brawn 2); Resolve 3 (Will 0))*
+- **Wound Threshold:** 6 *(4 base + 2 Brawn + 1 Leather − 1 Hollow-Boned)*
+- **Stress Limit:** 4 *(4 base + 0 Wits + 0 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 6 *(4 + Reflex 2)* | **Activation Order:** 7 *(6 + Reflex 2, −1 Cumbersome)*
+- **Inventory Slots:** 10 *(8 + 2 Brawn)*
+
+### Species Traits (Half-Elf, Split Heritage)
+- **Fey Reflexes** *(chosen Split Heritage trait)*: Advantage on Acrobatics checks vs. hazards, traps, AoE.
+- **Between Worlds (Drawback):** Disadvantage on Influence in insular/xenophobic communities.
+- **Hollow-Boned (Drawback, comes with Fey Reflexes):** −1 Wound Threshold (already applied above).
+
+### Feats
+- **Desperate Edge** *(Resolve +1 — Creation)*: when a lone die in a 2d6 check shows a 6 while at half-or-more Stress Limit in Dissonant Stress, or on his final Wound Slot, it explodes — roll an extra d6 and add it.
+- **Trench Fighter** *(Brawn +1 — Creation)*: ignores Difficult Terrain's Disadvantage, and drawing a weapon while engaged doesn't take the usual penalty.
+
+### Equipment
+- **Armor:** Leather (+1 Armor, Light)
+- **Weapon:** Greataxe (Power 5, 2H, Inertia, Cumbersome, Scarce)
+- **Starting Purse: 80 sp** — Leather 12 + Greataxe 40 = **52 sp spent, 28 sp remaining.** Grave-Dust Poultice (8 sp) + Witch-Spur Salve (12 sp) = 20 sp, **8 sp banked.**
+
+### Combat Math Quick-Ref
+Melee Clash 2d6+3 *(Power 5, +2 more on a Margin 5+ win via Inertia)* | Athletics 2d6+2 | Prowess 2d6+2 | Resolve 2d6+1 | Activation Order 7
+
+### Table Notes
+- **Zero defense investment, by design.** No Block, no shield, Acrobatics untouched, and a Cumbersome weapon that costs him Activation Order on top. Combined with WT 6 — second-lowest in this batch — a single Grunt-tier hit (Skill 4–6 per the Bestiary's budget table) can plausibly put him down before he closes distance. That's the berserker fantasy working as intended, but a GM should know it, not discover it.
+- **Desperate Edge triggers earlier for him than for anyone else built so far.** Stress Limit 4 means "half or more of Stress Limit" is reached at just 2 Dissonant Stress — the lowest threshold in the roster. Stack that against the Greataxe's Inertia (+2 Power on Margin 5+): he's built for one enormous swing, not a war of attrition.
+- **Witch-Spur Salve is a real trade for him, not a free buff.** Its Terrifying/panic immunity fits a character who's supposed to be the scary one — but the 1 Locked Dissonant Stress it costs eats directly into the same Stress pool that drives his Desperate Edge triggers.
+
+---
+
+## Elowen Vex — Elf Female, Thief
+
+*"You never saw me. That's the whole point."*
+
+### Vital Statistics
+- **Species:** Elf
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 3 | Wits 1 | Will 0 *(Spike array)*
+- **Skills:** Thievery 3 | Stealth 3 | Acrobatics 1 | Notice 1 *(8 ranks, 8 DP. Ceilings: Thievery/Stealth/Acrobatics 6 (Reflex 3); Notice 4 (Wits 1))*
+- **Wound Threshold:** 4 *(4 base + 0 Brawn + 1 Leather − 1 Hollow-Boned)*
+- **Stress Limit:** 5 *(4 base + 1 Wits + 0 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 7 *(4 + Reflex 3)* | **Activation Order:** 9 *(6 + Reflex 3)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)*
+
+### Species Traits (Elf)
+- **Fey Reflexes:** Advantage on Acrobatics checks to avoid environmental hazards, traps, or AoE.
+- **Trance:** Only needs 4 hours of meditation instead of a full night's rest to clear Stress and stabilize Wounds.
+- **Hollow-Boned (Drawback):** −1 Wound Threshold (already applied above).
+
+### Feats
+- **Shadow-Weaver** *(Stealth 1 — Creation)*: ignores the standard penalty for moving quickly while trying to stay hidden.
+- **Scavenger's Eye** *(Wits +1, Stealth +1 — Creation)*: a Massive Success (Margin 5+) on an exploration or scouting check banks 2 Momentum instead of 1.
+
+### Equipment
+- **Armor:** Leather (+1 Armor, Light)
+- **Weapons:** Twin Daggers — 2× Dagger/Knife (5 sp each, Concealable, Close-Quarters, Finesse, Thrown, Sidearm), wielded in the **Twin-Blade Stance** (Off-Hand Parry; the Twin Strike maneuver for 1 Momentum)
+- **Starting Purse: 80 sp** — Leather 12 + 2× Dagger 10 = **22 sp spent, 58 sp remaining.** Smokestick (15 sp) + Tanglefoot Bag (20 sp) = 35 sp, **23 sp banked.**
+
+### Combat Math Quick-Ref
+Melee Clash (Daggers) 2d6+3 | Thievery 2d6+3 | Stealth 2d6+3 | Acrobatics 2d6+1 | Notice 2d6+1 | Activation Order 9
+
+### Table Notes
+- **Correction: Hollow-Boned is a baseline Elf trait, not something exclusive to Half-Elves who inherit it via Split Heritage.** Her Wound Threshold is 4, the same floor as Faelan and Morwenna — the roster's other two characters built around avoiding hits rather than absorbing them.
+- **Twin Daggers uses the actual Twin-Blade Stance rule** (Metal meet Flesh), not a re-skin: two Sidearm-tagged one-handers grant Off-Hand Parry and the Twin Strike maneuver. Momentum Bank 7 — the highest in the roster — means she can afford to fire off Twin Strike more freely than anyone else built so far.
+- Smokestick and Tanglefoot Bag are both control/escape tools, not damage — fitting a thief who wants to dictate when a fight starts and ends rather than win it toe-to-toe.
+
+---
+
+## Brynja Frostvow — Dwarf Female, Faith/Ranged Hybrid (Winter & Wilds Domain)
+
+*"The wolf doesn't need faith. It just needs a clean shot."*
+
+### Vital Statistics
+- **Species:** Dwarf
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 1 | Reflex 1 | Wits 1 | Will 1 *(Flat array)*
+- **Skills:** Faith 3 | Ranged 3 | Survival 1 | Notice 1 *(8 ranks, 8 DP. Ceilings: Faith/Resolve/Influence 4 (Will 1); Ranged/Stealth/Thievery/Acrobatics 4 (Reflex 1); Notice/Insight/Medicine/Crafting/Lore/Arcana 4 (Wits 1); Melee/Athletics/Block/Prowess 4 (Brawn 1) — every ceiling in her sheet is the same number, the one thing only Flat can do)*
+- **Wound Threshold:** 7 *(4 base + 1 Brawn + 1 Leather + 1 Stone-Bones)*
+- **Stress Limit:** 6 *(4 base + 1 Wits + 1 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 5 *(4 + Reflex 1)* | **Activation Order:** 7 *(6 + Reflex 1)*
+- **Inventory Slots:** 9 *(8 + 1 Brawn)*
+
+### Species Traits (Dwarf)
+- **Stone-Bones:** +1 Wound Threshold (already applied above).
+- **Subterranean Senses:** Advantage on Notice checks underground or examining stonework/engineering.
+- **Stumpy (Drawback):** Disadvantage on Athletics checks during chases or open-ground sprints.
+
+### Feats
+- **Divine Conduit** *(The Covenant, Domain of Winter & Wilds — Creation)*. Grants a Holy Symbol, the **Chilling Frost** Domain Tag (an offensive prayer numbs its target — they can't Move next turn unless they take 1 physical Stress to snap free), and the 4 Novice Miracles below.
+- **Scavenger's Eye** *(Wits +1, Survival +1 — Creation)*: a Massive Success (Margin 5+) on an exploration or scouting check banks 2 Momentum instead of 1 — pairs directly with Kaelen's Eye below.
+
+### Equipment
+- **Armor:** Leather (+1 Armor, Light — doesn't touch Faith or Ranged)
+- **Weapon (one 2H item):** Shortbow (Power 2, **Volley** — requires both hands, no Shield or Grimoire while wielding it; Holy Symbol still works one-handed and isn't a Grimoire)
+- **Holy Symbol** (granted by Divine Conduit — outside the purse)
+- **Starting Purse: 80 sp** — Leather 12 + Shortbow 15 = **27 sp spent, 53 sp remaining.** Antitoxin (20 sp) + Sunrod (5 sp) = 25 sp, **28 sp banked** for arrows, a spare bowstring, and rope.
+
+### Miracles (Tithe of Will = 2d6 + Faith = **2d6+3**, vs. TN 8 Novice)
+- **Rime-Fang's Bite** *(2 Locked Stress, Aggressor, Short Range)* — Pass: target fails a Prowess+Athletics check (TN 8) or takes 2 Dissonant Stress and gains Rigor as the cold seizes its joints. Fail: as Pass + 1 Encroachment. Snake Eyes: convert the 2 Locked Stress into 2 direct Wounds, reset Encroachment.
+- **Howl of the Rime-Fang** *(2 Locked Stress, Aggressor, 15ft radius, Short Range)* — Pass: every enemy in range fails a Resolve check (TN 8) or gains Fear. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 2 direct Wounds, reset Encroachment.
+- **Wolf's Ward** *(1 Locked Stress, Activation, touch, Scene)* — Pass: target ignores Stress and penalties from extreme environmental hazards (per Iron World's Hazard Check rules) for the scene. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 1 direct Wound, reset Encroachment.
+- **Kaelen's Eye** *(1 Locked Stress, Activation, self, Scene)* — Pass: reads the wild like Kaelen did — Advantage on Survival or Notice checks to track a specific creature or navigate harsh terrain. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 1 direct Wound, reset Encroachment.
+
+### Combat Math Quick-Ref
+Tithe of Will 2d6+3 | Ranged Strike (Shortbow) 2d6+3, Impact = Margin+2 | Survival 2d6+1 | Notice 2d6+1 | Dodge 2d6+1 | Activation Order 7
+
+### Table Notes
+- **Same species, same role, opposite array — a direct comparison to Helga.** Both are Dwarf Faith casters at Green. Helga (Spike: Will 3) sits at Faith 6 ceiling, WT 8, Stress 9, Momentum 4, and has almost nothing outside Faith/Resolve/Influence. Brynja (Flat: 1/1/1/1) caps every ceiling at 4, and spends her 8 DP across two live skills — Faith 3 *and* Ranged 3 — rather than one deep one. That's Flat's thesis working exactly as described in the Design Notes below: no weakness, no peak.
+- **The real cost of "hybrid" is the Action economy, not the DP.** Per Metal meet Flesh's Move-and-Action rule, an Activation grants one Action plus a Free Action — not two Actions. Tithe of Will is an Activation or Aggressor action; Shoot is also an Aggressor action. Brynja can never Tithe of Will and fire her Shortbow in the same turn — every round she picks one toolkit, not both. Worth being explicit about this at the table: "hybrid" here means alternating between two full kits round to round, not doubling her output.
+- **Chilling Frost pairs naturally with the Shortbow's range.** Rime-Fang's Bite or Howl of the Rime-Fang can lock a target in place at Short Range on one turn, and a Shortbow shot (Long Range) is safe from retaliation the next — but per the note above, that's two separate turns, not a combo in one.
+
+---
+
 # Blooded
 
 ## Wren Ashcombe "I've never once needed to win a fight I could just... not have." Vital Statistics
@@ -479,14 +642,20 @@ Tithe of Will 2d6+4 *(2d6+3 at creation — see Advancement Ledger)* | Mace Stri
 | Helga (Green, Spike) | Tithe of Will 2d6+3 | Faith 6 | WT 8 / Stress 9 / Momentum 4 |
 | Faelan (Green, Spike) | Arcana 2d6+3 | Arcana 6 | WT 4 / Stress 7 / Momentum 5 |
 | Pillit (Green, Spike) | Ranged 2d6+3 | Ranged 6 | WT 4 / Stress 5 / Momentum 7 |
+| Bram (Green, Spike) | Melee 2d6+3 | Melee 6 | WT 9 / Stress 5 / Momentum 4 |
+| Elowen (Green, Spike) | Thievery 2d6+3 | Thievery 6 | WT 4 / Stress 5 / Momentum 7 |
 | Wren (Blooded, Spike) | Stealth 2d6+3 | Stealth 6 | WT 4 / Stress 5 / Momentum 7 |
 | Ox (Hardened, Spike) | Melee 2d6+4 | Melee 6 | WT 9 / Stress 9 / Momentum 4 |
 | Morwenna (Hardened, Spike) | Arcana 2d6+4 | Arcana 6 | WT 4 / Stress 9 / Momentum 4 |
 | Perpetua (Hardened, Spike) | Tithe of Will 2d6+4 | Faith 6 | WT 7 / Stress 9 / Momentum 3 |
 
 | Corvin (Blooded, **Twin**) | Melee 2d6+4 | Melee 5 / Acrobatics 5 | WT 7 / Stress 5 / Momentum 5 |
+| Aeric (Green, **Twin**) | Melee 2d6+3 | Melee 5 / Athletics 5 | WT 6 / Stress 4 / Momentum 6 |
+| Brynja (Green, **Flat**) | Tithe of Will 2d6+3 / Ranged 2d6+3 | Faith 4 / Ranged 4 | WT 7 / Stress 6 / Momentum 5 |
 
-**Seven of eight characters use the Spike array.** All seven predate the restructure, and that is the strongest available evidence that the old Link Rule made 3/1/0/0 the only real choice — seven independent builds, seven identical shapes. Corvin is the first deliberate Twin build, and what he demonstrates is that **the arrays are indistinguishable on the dice at Green and Blooded.** Built as Spike with the same 9 skill ranks his rolls would be identical; the arrays differ only in ceilings and derived stats. Twin trades 1 Wound Threshold for 1 Momentum, 1 Activation Order, and a second Skill ceiling at 5 instead of 4 — none of which shows up until a character has DP spare to climb toward a ceiling. Broad and Flat remain undemonstrated, and both push further in the same direction: more ceilings, later payoff, thinner derived stats in any one place.
+**Nine of eleven characters use the Spike array — and that's no longer just legacy inertia.** The original seven all predate the restructure, which was the strongest evidence available that the old Link Rule made 3/1/0/0 the only real choice. Bram and Elowen were built after the restructure, with Twin/Broad/Flat fully on the table, and both still landed on Spike — worth flagging honestly rather than treating as more confirmation: it may mean Spike really is the more legible default for a new Green build even with no mechanical push toward it, or it may just mean I'm defaulting to it out of habit when drafting sample sheets. Either way, it's a bias worth someone else's eyes on, not a conclusion.
+
+Aeric is the second deliberate Twin build, and the first at **Green** rather than Blooded — a genuinely new data point, not a repeat of Corvin. At Green, Twin's cost reads heavier in absolute terms: Aeric's WT 6 sits a full 3 points under Bram's WT 9, the same Standing, both built around Brawn as their tank stat. At Blooded, Corvin's WT 7 is only 2 under Ox's eventual WT 9 — but Ox is Hardened, six Milestones further along, so that's not actually a fair same-Standing comparison either. The claim that **the arrays are indistinguishable on the dice at Green and Blooded** still holds — Aeric's Melee 2d6+3 matches Bram's exactly — but "indistinguishable on the dice, felt hardest on Wound Threshold at low Standing" is the more accurate summary now that there are two Green melee builds to compare directly. Broad remains undemonstrated. Flat is now demonstrated once, by Brynja: every ceiling on her sheet sits at 4, and the "no weaknesses, no peak" description holds up literally rather than just in the abstract — she's the first character in the roster with two simultaneously live skills instead of one dominant one, at the direct cost of not being able to use both in the same turn (see her Table Notes).
 
 **5. Milestone Standing — first character built past Green.** Helga, Faelan, and Pillit are Milestone 0 (Green) — clean creation builds, useful for comparing chargen tradeoffs, but none of them show what the game looks like after actual play. Wren, on closer inspection, isn't actually Green either — her Parasitic Momentum is Tier 2, which chargen cannot grant, so she's Milestone 1 (Blooded); the previous pass mistagged her and it's corrected above now. Ox is Milestone 6 (Hardened), and his ledger is deliberately shown in full rather than just stating his final numbers, so the Standing terminology (full definition in The Marrow, Character Creation) has a worked example to point at instead of just an abstract table. Two things worth watching as more Hardened/Storied characters get built: whether the Blooded/Veteran/Hardened/Storied band boundaries actually track how a character *feels* at the table, and whether "Milestone count" or "Standing" ends up being the one people actually say out loud — my guess is Standing wins for casual reference and Milestone count only gets used when something's being checked precisely (prerequisites, GM encounter math), but that's a guess until it's been through a few sessions.
 
