@@ -339,6 +339,47 @@ Tithe of Will 2d6+3 | Ranged Strike (Shortbow) 2d6+3, Impact = Margin+2 | Surviv
 
 ---
 
+## Maren Solvei — Half-Elf Female, Envoy (Social/Support)
+
+*"A blade wins the fight. A word wins everything after it."*
+
+### Vital Statistics
+- **Species:** Half-Elf (Split Heritage: took Adaptable, and its paired Steady, Not Sharp drawback)
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 1 | Wits 1 | Will 2 *(Broad array)*
+- **Skills:** Influence 3 | Medicine 2 | Insight 2 | Notice 1 | Resolve 1 *(9 ranks, 9 DP with Adaptable. Ceilings: Influence/Faith/Survival/Resolve 5 (Will 2); Medicine/Insight/Notice/Crafting/Lore/Arcana 4 (Wits 1); Ranged/Stealth/Thievery/Acrobatics/Ride 4 (Reflex 1); Melee/Athletics/Block/Prowess 3 (Brawn 0))*
+- **Wound Threshold:** 5 *(4 base + 0 Brawn + 1 Leather)*
+- **Stress Limit:** 7 *(4 base + 1 Wits + 2 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 1, −1 Steady Not Sharp)* | **Activation Order:** 7 *(6 + Reflex 1)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)*
+
+### Species Traits (Half-Elf, Split Heritage)
+- **Silver-Tongued:** Advantage on Influence checks to persuade, de-escalate, negotiate, or gather information.
+- **Adaptable** *(chosen Split Heritage trait)*: +1 Skill Point at creation (already applied — 9 DP spent instead of 8).
+- **Steady, Not Sharp (Drawback, comes with Adaptable):** −1 to your Momentum Bank cap (already applied above).
+- **Between Worlds (Drawback):** Disadvantage on Influence checks with an insular or homogeneous community that's had little outside contact.
+
+### Feats
+- **Cold Reader** *(Insight +1, Notice +1 — Creation)*: on entering a tense social situation, a Free Action Insight check (TN 8) reveals which NPC present has the lowest Resolve — Advantage on her first Influence check against them.
+- **Battlefield Orator** *(Influence +2 — Creation)*: spend an Action in combat to shout orders or hurl insults. Choose one: an ally immediately clears 1d6 Dissonant Stress, or an engaged enemy suffers a -2 penalty to their next Defense roll.
+
+### Equipment
+- **Armor:** Leather (+1 Armor, Light)
+- **Weapon:** Dagger (Concealable, Close-Quarters, Finesse, Thrown, Sidearm)
+- **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining.** Grave-Dust Poultice (8 sp) + a merchant's scale (3 sp, Advantage on Insight/Notice to catch a rigged deal or counterfeit coin) = 11 sp, **52 sp banked** — she carries coin, not gear, and spends it on people rather than steel.
+
+### Combat Math Quick-Ref
+Influence 2d6+3 | Medicine 2d6+2 | Insight 2d6+2 | Notice 2d6+1 | Resolve 2d6+1 | Melee (Dagger) 2d6+0, Impact = Margin | Dodge 2d6+1 | Activation Order 7
+
+### Table Notes
+- **Broad array demonstrated — the fourth and last one.** Her ceilings (5/4/4/3) match the Design Notes table exactly: one strength (Influence, off Will 2) with real competence under it. Unlike a Spike build, four other skills — Medicine, Insight, Notice, Resolve — all sit at a genuinely usable rank rather than 0, which is "wide competence beneath it" holding up literally, the same way Brynja's Flat build made its own description literal.
+- **Third Half-Elf in the roster, and for a specific reason, not variety for its own sake.** Silver-Tongued is the only species trait in the corpus that touches Influence directly, which makes Half-Elf the mechanically obvious pick for any dedicated social build — the same way Dwarf is the obvious pick for anyone chasing Wound Threshold. Worth naming as a real best-in-slot pattern.
+- **Cold Reader and Battlefield Orator split her usefulness across the whole session, not just combat.** Cold Reader front-loads value the moment a tense conversation starts; Battlefield Orator pays off once initiative is rolled. Unlike a pure Face who goes quiet the second a fight starts, she has a job in both halves.
+- **Battlefield Orator's Stress type is now specified.** It clears 1d6 Dissonant Stress, which the corpus previously left unstated (fixed directly in The Marrow). Worth knowing at the table: that's stronger on average (3.5) than the native Adrenaline Flush reaction (1 Dissonant Stress for 2 Momentum), but it costs a full Action instead of a Free Reaction, and only she can do it.
+
+---
+
 # Blooded
 
 ## Wren Ashcombe "I've never once needed to win a fight I could just... not have." Vital Statistics
@@ -652,10 +693,11 @@ Tithe of Will 2d6+4 *(2d6+3 at creation — see Advancement Ledger)* | Mace Stri
 | Corvin (Blooded, **Twin**) | Melee 2d6+4 | Melee 5 / Acrobatics 5 | WT 7 / Stress 5 / Momentum 5 |
 | Aeric (Green, **Twin**) | Melee 2d6+3 | Melee 5 / Athletics 5 | WT 6 / Stress 4 / Momentum 6 |
 | Brynja (Green, **Flat**) | Tithe of Will 2d6+3 / Ranged 2d6+3 | Faith 4 / Ranged 4 | WT 7 / Stress 6 / Momentum 5 |
+| Maren (Green, **Broad**) | Influence 2d6+3 | Influence 5 | WT 5 / Stress 7 / Momentum 4 |
 
 **Nine of eleven characters use the Spike array — and that's no longer just legacy inertia.** The original seven all predate the restructure, which was the strongest evidence available that the old Link Rule made 3/1/0/0 the only real choice. Bram and Elowen were built after the restructure, with Twin/Broad/Flat fully on the table, and both still landed on Spike — worth flagging honestly rather than treating as more confirmation: it may mean Spike really is the more legible default for a new Green build even with no mechanical push toward it, or it may just mean I'm defaulting to it out of habit when drafting sample sheets. Either way, it's a bias worth someone else's eyes on, not a conclusion.
 
-Aeric is the second deliberate Twin build, and the first at **Green** rather than Blooded — a genuinely new data point, not a repeat of Corvin. At Green, Twin's cost reads heavier in absolute terms: Aeric's WT 6 sits a full 3 points under Bram's WT 9, the same Standing, both built around Brawn as their tank stat. At Blooded, Corvin's WT 7 is only 2 under Ox's eventual WT 9 — but Ox is Hardened, six Milestones further along, so that's not actually a fair same-Standing comparison either. The claim that **the arrays are indistinguishable on the dice at Green and Blooded** still holds — Aeric's Melee 2d6+3 matches Bram's exactly — but "indistinguishable on the dice, felt hardest on Wound Threshold at low Standing" is the more accurate summary now that there are two Green melee builds to compare directly. Broad remains undemonstrated. Flat is now demonstrated once, by Brynja: every ceiling on her sheet sits at 4, and the "no weaknesses, no peak" description holds up literally rather than just in the abstract — she's the first character in the roster with two simultaneously live skills instead of one dominant one, at the direct cost of not being able to use both in the same turn (see her Table Notes).
+Aeric is the second deliberate Twin build, and the first at **Green** rather than Blooded — a genuinely new data point, not a repeat of Corvin. At Green, Twin's cost reads heavier in absolute terms: Aeric's WT 6 sits a full 3 points under Bram's WT 9, the same Standing, both built around Brawn as their tank stat. At Blooded, Corvin's WT 7 is only 2 under Ox's eventual WT 9 — but Ox is Hardened, six Milestones further along, so that's not actually a fair same-Standing comparison either. The claim that **the arrays are indistinguishable on the dice at Green and Blooded** still holds — Aeric's Melee 2d6+3 matches Bram's exactly — but "indistinguishable on the dice, felt hardest on Wound Threshold at low Standing" is the more accurate summary now that there are two Green melee builds to compare directly. Broad is now demonstrated too, by Maren — the last of the four arrays to get a real build. Her ceilings (5/4/4/3) are the middle ground the array table promises: one strength that can climb further than Twin's pillars, spread wider than Flat's floor. Flat is demonstrated once, by Brynja: every ceiling on her sheet sits at 4, and the "no weaknesses, no peak" description holds up literally rather than just in the abstract — she's the first character in the roster with two simultaneously live skills instead of one dominant one, at the direct cost of not being able to use both in the same turn (see her Table Notes). All four arrays are now built at least once; the next useful test isn't a fifth example of any of them, it's the same array shown at a higher Standing, the way Corvin and Aeric let Twin be compared at Blooded and Green side by side.
 
 **5. Milestone Standing — first character built past Green.** Helga, Faelan, and Pillit are Milestone 0 (Green) — clean creation builds, useful for comparing chargen tradeoffs, but none of them show what the game looks like after actual play. Wren, on closer inspection, isn't actually Green either — her Parasitic Momentum is Tier 2, which chargen cannot grant, so she's Milestone 1 (Blooded); the previous pass mistagged her and it's corrected above now. Ox is Milestone 6 (Hardened), and his ledger is deliberately shown in full rather than just stating his final numbers, so the Standing terminology (full definition in The Marrow, Character Creation) has a worked example to point at instead of just an abstract table. Two things worth watching as more Hardened/Storied characters get built: whether the Blooded/Veteran/Hardened/Storied band boundaries actually track how a character *feels* at the table, and whether "Milestone count" or "Standing" ends up being the one people actually say out loud — my guess is Standing wins for casual reference and Milestone count only gets used when something's being checked precisely (prerequisites, GM encounter math), but that's a guess until it's been through a few sessions.
 

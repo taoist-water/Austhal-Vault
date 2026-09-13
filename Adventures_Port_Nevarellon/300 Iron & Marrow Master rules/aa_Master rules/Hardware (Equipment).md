@@ -459,7 +459,7 @@ ________________________________________________________________________
 - *Bulwark:* The shield's mass lets you root yourself in place. While readied, you cannot be Shoved, knocked Prone, or forced out of your Threat Zone as a result of losing a Clash. Once per Scene, when you lose a Block Clash, you may spend 1 Momentum to reduce that Impact to 0 instead of applying your Shield Value.
 - *Cover:* Provides excellent physical obstruction from missiles. Grants Advantage (3d6 Keep 2) to your defense rolls against ranged attacks.
 - *Cushioned:* Thick layers of cloth absorb minor impacts. Negates the first point of Dissonant Stress you would take from a Glancing Hit each combat round.
-- *Nimble:* Light enough to be actively punched out or used to deflect. Allows the user to roll Reflex instead of Brawn when performing a Block action.
+- *Nimble:* Light enough to be actively punched out or used to deflect. When performing a Block action with this shield equipped, roll 2d6 + Melee instead of 2d6 + Block.
 - *Obstructive:* The sheer size of this shield gets in the way of evasive footwork. Imposes a -2 penalty to all Dodge actions.
 - *Restricted:* The heavy plates and limited visibility slow your reaction time. Your Activation Order is reduced by 3, and you can never act first in a round regardless of your total. Impossible to recreate the intricate movements required in Arcane spell casting, cannot cast Arcane spells whilst wearing. Reduces movement speed by 10ft.
 
