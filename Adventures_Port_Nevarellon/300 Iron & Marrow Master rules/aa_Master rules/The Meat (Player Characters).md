@@ -79,7 +79,7 @@ Tithe of Will 2d6+3 | Strike (Mace) 2d6+1, Impact = Margin+2 | Block 2d6+1 (mode
 ### Equipment
 - **Armor:** Leather (+1 Armor, Light — no Arcana penalty)
 - **Weapons (two 1H items):** Grimoire (Repository — granted by Arcane Awakening, outside the purse) + Dagger (Finesse — reroll a natural 1 in a Clash; with Melee 0 he is rerolling into a +0 either way, but it is free)
-- **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining.** 5 sp on a signet ring (a different name and seal in every city, which is rather the point), 2 sp on ink/paper/sealing wax, 56 sp banked. The lightest kit on the roster buys the deepest pockets — which for a confidence man is not a consolation prize.
+- **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining.** 5 sp on a signet ring (a different name and seal in every city, which is rather the point), 2 sp on ink/paper/sealing wax, 16 sp on 2 Grave-Dust Poultices (Field Medicine — Full Action, instantly clears 1 filled Wound Slot; Athletics TN 8 or 1 Dissonant Stress), 40 sp banked. The lightest kit on the roster buys the deepest pockets — which for a confidence man is not a consolation prize, and now buys him a little insurance too.
 
 ### Grimoire (Arcana = **2d6+3**)
 - **Deflection** *(Paradigm, Mastery-eligible)* — Unopposed vs. TN 8 to raise, Sustain (no Locked Stress; re-roll vs. TN 8 each Activation and on taking a Wound), Activation/Reactor. Margin 0–2: -2 penalty to enemy Clash rolls targeting the warded character; caster takes 1 Dissonant Stress. Margin 3–4: as above, no cost. Margin 5+: penalty becomes full Disadvantage.
