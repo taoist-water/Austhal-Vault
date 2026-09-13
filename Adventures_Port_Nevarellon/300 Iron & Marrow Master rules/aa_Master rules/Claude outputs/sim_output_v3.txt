@@ -1,0 +1,686 @@
+=== SIM START (true RNG, no manufactured outcomes) ===
+PRECOMMITTED BREATHER RULE (decided before any dice are rolled, so the outcome can't bias it):
+  After each scene, the party takes a Breather if ANY PC has taken at least 1 Wound Slot,
+  OR the party's average Stress has reached 60%+ of their Stress Limit. Otherwise they push on.
+  This is a fixed, mechanical read of party condition — not adjusted after seeing results.
+Faelan carries 2 Grave-Dust Poultices (Full Action, clears 1 filled Wound Slot on an Incapacitated ally).
+
+======================================================================
+SCENE 1 (COLD OPEN): THE THRESHOLD WARDS
+======================================================================
+Difficult Terrain (black ice) at the threshold. Party of three: Bram, Helga, Faelan.
+
+-- Pre-fight Hazard Check (2d6 + Athletics/Survival vs TN 8; none of the three have either ranked) --
+   [Revised rule: failure now costs 1d3 Locked Stress, down from 1d6 — Iron World house-rule update]
+  Bram rolls 7 vs TN8 — FAILS. Takes 1 Locked Stress from the killing frost.
+  Helga rolls 4 vs TN8 — FAILS. Takes 3 Locked Stress from the killing frost.
+  Faelan rolls 7 vs TN8 — FAILS. Takes 2 Locked Stress from the killing frost.
+
+Start Threat: 2
+
+-- Fear check (Grave-Warden, Fear Inducing) --
+    Bram resists Fear (10 vs TN8).
+    Helga fails the Fear check (5 vs TN8) vs Grave-Warden — gains Fear, +1 Dissonant Stress from the dread.
+    Faelan fails the Fear check (5 vs TN8) vs Grave-Warden — gains Fear, +1 Dissonant Stress from the dread.
+
+-- Round 1 --
+  Faelan casts Stitch the Silhouette (13) vs Grave-Warden (7)
+    Margin 6: Grave-Warden Anchored (0 movement) — it was already engaged with Bram so this mostly denies it repositioning onto Faelan/Helga.
+  Bram Melee Strike (Shortsword) (12) vs Grave-Wretch 1 brace (10)
+    Braced and lost: Wound Threshold treated as 7 for this Impact.
+    !! Grave-Wretch 1's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    >> Grave-Wretch 1 is INCAPACITATED — falls Prone, drops what they're holding.
+    Glancing Hit: Impact 4 < Threshold 7 -> 1 Dissonant Stress.
+  Helga Melee Strike (Mace) (8) vs Grave-Wretch 2 brace (10)
+    Grave-Wretch 2's brace succeeds — Strike deflected/avoided, no Impact.
+  Grave-Warden Melee Strike (bone blade) (13) vs Bram block (10)
+    Shield (SV 4) reduces Impact 5 -> 1.
+    Glancing Hit: Impact 1 < Threshold 9 -> 1 Dissonant Stress.
+    Grinding Assault (1 Threat spent, 1 left): +1 Dissonant Stress to Bram.
+  Grave-Wretch 2 Claw Strike (10) vs Bram block (10)
+    Tie — weapons bind, no Impact.
+  Grave-Wretch 3 Claw Strike (7) vs Helga block (11)
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 0/3 | Stress 3/5 (D2/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 4/7 (D2/L2) | Momentum 0/5
+    Grave-Warden: Wounds 0/2 | Stress 0/4 (D0/L0) | Momentum 0/0
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 0/1 | Stress 0/0 (D0/L0) | Momentum 0/0
+    Grave-Wretch 3: Wounds 0/1 | Stress 0/0 (D0/L0) | Momentum 0/0
+
+-- Round 2 --
+  Faelan casts Havoc (6) vs Grave-Wretch 2 Prowess-defense (9)
+    Lost the Clash — no effect.
+  Bram Melee Strike (Shortsword) (9) vs Grave-Wretch 2 brace (12)
+    Grave-Wretch 2's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (5) vs Grave-Wretch 2 brace (8)
+    Grave-Wretch 2's brace succeeds — Strike deflected/avoided, no Impact.
+  Grave-Warden Melee Strike (bone blade) (12) vs Bram block (8)
+    Shield (SV 4) reduces Impact 6 -> 2.
+    Glancing Hit: Impact 2 < Threshold 9 -> 1 Dissonant Stress.
+    Grinding Assault (1 Threat spent, 0 left): +1 Dissonant Stress to Bram.
+  Grave-Wretch 2 Claw Strike (10) vs Bram block (12)
+    Bram's block succeeds — Strike deflected/avoided, no Impact.
+  Grave-Wretch 3 Claw Strike (6) vs Helga block (6)
+    Tie — weapons bind, no Impact.
+  -- Status --
+    Bram: Wounds 0/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 4/7 (D2/L2) | Momentum 0/5
+    Grave-Warden: Wounds 0/2 | Stress 0/4 (D0/L0) | Momentum 0/0
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 0/1 | Stress 0/0 (D0/L0) | Momentum 0/0
+    Grave-Wretch 3: Wounds 0/1 | Stress 0/0 (D0/L0) | Momentum 0/0
+
+-- Round 3 --
+  Faelan casts Havoc (8) vs Grave-Wretch 2 Prowess-defense (3)
+    Grave-Wretch 2 Snake Eyes — caught flat-footed.
+    Faelan generates 1 Momentum (0->1).
+    !! Grave-Wretch 2's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    >> Grave-Wretch 2 is INCAPACITATED — falls Prone, drops what they're holding.
+    Margin 5 (Clean): Grave-Wretch 2 pushed 10ft, knocked Prone, 1 Dissonant Stress. (Clean hit — per RAW, Faelan takes no self-stress on this tier.)
+  Bram Melee Strike (Shortsword) (12) vs Grave-Wretch 3 brace (9)
+    Braced and lost: Wound Threshold treated as 7 for this Impact.
+    !! Grave-Wretch 3's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    >> Grave-Wretch 3 is INCAPACITATED — falls Prone, drops what they're holding.
+    Glancing Hit: Impact 5 < Threshold 7 -> 1 Dissonant Stress.
+  Helga Melee Strike (Mace) (8) vs Grave-Warden implicit (11)
+    Grave-Warden's implicit succeeds — Strike deflected/avoided, no Impact.
+  Grave-Warden Melee Strike (bone blade) (15) vs Bram block (12)
+    Shield (SV 4) reduces Impact 5 -> 1.
+    !! Bram's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Glancing Hit: Impact 1 < Threshold 9 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 1/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 4/7 (D2/L2) | Momentum 1/5
+    Grave-Warden: Wounds 0/2 | Stress 0/4 (D0/L0) | Momentum 0/0
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 3: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+
+-- Round 4 --
+  Faelan casts Havoc (10) vs Grave-Warden Prowess-defense (8)
+    Margin 2: Grave-Warden pushed 5ft, 1 Dissonant Stress. Faelan takes 1 Dissonant Stress from the strain.
+  Bram Melee Strike (Shortsword) (9) vs Grave-Warden implicit (11)
+    Grave-Warden's implicit succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (9) vs Grave-Warden implicit (13)
+    Grave-Warden's implicit succeeds — Strike deflected/avoided, no Impact.
+  Grave-Warden Melee Strike (bone blade) (11) vs Bram block (13)
+    Bram's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 1/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 5/7 (D3/L2) | Momentum 1/5
+    Grave-Warden: Wounds 0/2 | Stress 1/4 (D1/L0) | Momentum 0/0
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 3: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+
+-- Round 5 --
+  Faelan casts Havoc (15) vs Grave-Warden Prowess-defense (9)
+    Faelan generates 3 Momentum (1->4).
+    Margin 6 (Clean): Grave-Warden pushed 10ft, knocked Prone, 1 Dissonant Stress. (Clean hit — per RAW, Faelan takes no self-stress on this tier.)
+  Bram Melee Strike (Shortsword) (7) vs Grave-Warden implicit (13)
+    Grave-Warden generates 1 Momentum (0->0).
+    Grave-Warden's implicit succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (7) vs Grave-Warden implicit (9)
+    Grave-Warden's implicit succeeds — Strike deflected/avoided, no Impact.
+  Grave-Warden Melee Strike (bone blade) (8) vs Bram block (10)
+    Bram's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 1/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 5/7 (D3/L2) | Momentum 4/5
+    Grave-Warden: Wounds 0/2 | Stress 2/4 (D2/L0) | Momentum 0/0
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 3: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+
+-- Round 6 --
+  Faelan casts Havoc (12) vs Grave-Warden Prowess-defense (9)
+    Margin 3 (Clean): Grave-Warden pushed 10ft, knocked Prone, 1 Dissonant Stress. (Clean hit — per RAW, Faelan takes no self-stress on this tier.)
+  Bram Melee Strike (Shortsword) (9) vs Grave-Warden implicit (12)
+    Grave-Warden's implicit succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (10) vs Grave-Warden implicit (7)
+    Minor Wound: Impact 5 >= Threshold 4 -> 1 Wound Slot.
+  Grave-Warden Melee Strike (bone blade) (7) vs Bram block (11)
+    Bram's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 1/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 5/7 (D3/L2) | Momentum 4/5
+    Grave-Warden: Wounds 1/2 | Stress 3/4 (D3/L0) | Momentum 0/0
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 3: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+
+-- Round 7 --
+  Faelan casts Havoc (12) vs Grave-Warden Prowess-defense (8)
+    Margin 4 (Clean): Grave-Warden pushed 10ft, knocked Prone, 1 Dissonant Stress. (Clean hit — per RAW, Faelan takes no self-stress on this tier.)
+  Bram Melee Strike (Shortsword) (10) vs Grave-Warden implicit (9)
+    !! Grave-Warden's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    >> Grave-Warden is INCAPACITATED — falls Prone, drops what they're holding.
+    Glancing Hit: Impact 3 < Threshold 4 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 1/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 5/7 (D3/L2) | Momentum 4/5
+    Grave-Warden: Wounds 2/2 | Stress 4/4 (D4/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 3: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+
+-- Scene 1 resolved --
+  -- Status --
+    Bram: Wounds 1/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 5/7 (D3/L2) | Momentum 4/5
+    Grave-Warden: Wounds 2/2 | Stress 4/4 (D4/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 3: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+
+######################################################################
+BREATHER 1 DECISION: TAKE IT — a PC is Wounded or party Stress is elevated
+
+--- BREATHER (30 min) ---
+  Bram: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Helga: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Faelan: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Attrition Tax: GM banks +2 Threat for the next encounter.
+  Community Supply Die (d10): rolled 5.
+  -> holds.
+######################################################################
+
+======================================================================
+SCENE 2 (ELITE): THE FROST-CAVE TROLL
+======================================================================
+Heavily Obscured (ice-fog) + Difficult Terrain. Attacker Disadvantage / Defender +2, both ways.
+Start Threat: 5 (4-5 trio band, top end) + 2 carried over from Scene 1 = 3 (uncapped tally; GM will treat 5 as practical ceiling for spends)
+
+-- Lore check: does anyone know the Frost-Cave Troll's weakness? (2d6 + Lore vs TN 8; none of the three have Lore ranked, so best of three at +0) --
+  Bram rolls 7.
+  Helga rolls 5.
+  Faelan rolls 5.
+  Nobody clears TN8 — the party goes in without knowing about the fire weakness.
+
+-- Round 1 --
+  Faelan casts Deflection on himself (raise, 7 vs TN8)
+    Failed to raise the ward.
+  Bram Melee Strike (Shortsword) (5) vs Frost-Cave Troll brace (14) [Obscured]
+    Bram Snake Eyes — auto-loss, +1 Dissonant Stress to self.
+  Helga casts Sanctuary of the Zenith (8 vs TN8, 1 Locked Stress)
+    PASS: inside the 3x3 zone, nobody can gain Advantage or Disadvantage — Obscurement is suppressed for the rest of this encounter.
+  Frost-Cave Troll Claw Strike (8) vs Bram block (6)
+    Shield (SV 4) reduces Impact 3 -> 0.
+    Glancing Hit: Impact 0 < Threshold 9 -> 1 Dissonant Stress.
+    Vicious Frenzy (1 Threat spent, 2 left): immediate second claw strike.
+  Frost-Cave Troll Claw Strike (Frenzy) (6) vs Bram block (5)
+    Bram Snake Eyes — auto-loss, +1 Dissonant Stress to self.
+    Shield (SV 4) reduces Impact 2 -> 0.
+    Glancing Hit: Impact 0 < Threshold 9 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 1/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 4/9 (D0/L4) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 2/7 (D0/L2) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 0/4 (D0/L0) | Momentum 0/0
+
+-- Round 2 --
+  Faelan casts Havoc (7) vs Frost-Cave Troll Prowess-defense (7)
+    Lost the Clash — no effect.
+  Bram Melee Strike (Shortsword) (11) vs Frost-Cave Troll brace (9)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Glancing Hit: Impact 4 < Threshold 11 -> 1 Dissonant Stress.
+  Helga Melee Strike (Mace) (7) vs Frost-Cave Troll brace (8)
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Troll spends 2 Threat: SWEEPING UPROOT (Tree Trunk, Power 3, Cleave, Reach) — frontal arc hits Helga and Faelan (0 Threat left).
+  Frost-Cave Troll Tree Trunk Sweep (9) vs Helga block (7)
+    Shield (SV 4) reduces Impact 5 -> 1.
+    Glancing Hit: Impact 1 < Threshold 8 -> 1 Dissonant Stress.
+    Helga is knocked Prone by the sweep (Cleave).
+  Frost-Cave Troll Tree Trunk Sweep (13) vs Faelan dodge (6)
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    MAJOR WOUND: Impact 10 >= 2x Threshold (8) -> 2 Wound Slots + 1 Dissonant Stress.
+    Faelan is knocked Prone by the sweep (Cleave).
+  -- Status --
+    Bram: Wounds 1/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 5/9 (D1/L4) | Momentum 0/4
+    Faelan: Wounds 2/3 | Stress 3/7 (D1/L2) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 1/4 (D1/L0) | Momentum 0/0
+
+-- Round 3 --
+  Faelan casts Havoc (9) vs Frost-Cave Troll Prowess-defense (9)
+    Lost the Clash — no effect.
+  Bram Melee Strike (Shortsword) (12) vs Frost-Cave Troll brace (11)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Glancing Hit: Impact 3 < Threshold 11 -> 1 Dissonant Stress.
+  Helga Melee Strike (Mace) (3) vs Frost-Cave Troll brace (10)
+    Helga Snake Eyes — auto-loss, +1 Dissonant Stress to self.
+  Frost-Cave Troll Claw Strike (13) vs Bram block (6)
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Shield (SV 4) reduces Impact 8 -> 4.
+    !! Bram's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Glancing Hit: Impact 4 < Threshold 9 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 2/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 6/9 (D2/L4) | Momentum 0/4
+    Faelan: Wounds 2/3 | Stress 3/7 (D1/L2) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 2/4 (D2/L0) | Momentum 0/0
+
+-- Round 4 --
+  Faelan casts Havoc (7) vs Frost-Cave Troll Prowess-defense (7)
+    Lost the Clash — no effect.
+  Bram Melee Strike (Shortsword) (10) vs Frost-Cave Troll brace (10)
+    Tie — weapons bind, no Impact.
+  Helga Melee Strike (Mace) (12) vs Frost-Cave Troll brace (8)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Glancing Hit: Impact 6 < Threshold 11 -> 1 Dissonant Stress.
+  Frost-Cave Troll Claw Strike (7) vs Bram block (11)
+    Bram's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 2/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 6/9 (D2/L4) | Momentum 0/4
+    Faelan: Wounds 2/3 | Stress 3/7 (D1/L2) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 3/4 (D3/L0) | Momentum 0/0
+
+-- Round 5 --
+  Faelan casts Havoc (11) vs Frost-Cave Troll Prowess-defense (11)
+    Lost the Clash — no effect.
+  Bram Melee Strike (Shortsword) (11) vs Frost-Cave Troll brace (10)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Glancing Hit: Impact 3 < Threshold 11 -> 1 Dissonant Stress.
+  Helga Melee Strike (Mace) (13) vs Frost-Cave Troll brace (10)
+    Helga generates 2 Momentum (0->2).
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    !! Frost-Cave Troll's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Glancing Hit: Impact 5 < Threshold 11 -> 1 Dissonant Stress.
+  Frost-Cave Troll Claw Strike (13) vs Bram block (14)
+    Bram's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 2/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 6/9 (D2/L4) | Momentum 2/4
+    Faelan: Wounds 2/3 | Stress 3/7 (D1/L2) | Momentum 0/5
+    Frost-Cave Troll: Wounds 1/3 | Stress 4/4 (D4/L0) | Momentum 0/0
+
+-- Round 6 --
+  Troll-Blood Regeneration: heals 1 Wound Slot, clears 1 Stress. (Frost-Cave Troll: Wounds 0/3 | Stress 3/4 (D3/L0) | Momentum 0/0)
+  Faelan casts Havoc (10) vs Frost-Cave Troll Prowess-defense (12)
+    Lost the Clash — no effect.
+  Bram Melee Strike (Shortsword) (10) vs Frost-Cave Troll brace (6)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Glancing Hit: Impact 6 < Threshold 11 -> 1 Dissonant Stress.
+  Helga Melee Strike (Mace) (8) vs Frost-Cave Troll brace (6)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    !! Frost-Cave Troll's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Glancing Hit: Impact 4 < Threshold 11 -> 1 Dissonant Stress.
+  Frost-Cave Troll Claw Strike (9) vs Bram block (9)
+    Tie — weapons bind, no Impact.
+  -- Status --
+    Bram: Wounds 2/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 6/9 (D2/L4) | Momentum 2/4
+    Faelan: Wounds 2/3 | Stress 3/7 (D1/L2) | Momentum 0/5
+    Frost-Cave Troll: Wounds 1/3 | Stress 4/4 (D4/L0) | Momentum 0/0
+
+-- Round 7 --
+  Troll-Blood Regeneration: heals 1 Wound Slot, clears 1 Stress. (Frost-Cave Troll: Wounds 0/3 | Stress 3/4 (D3/L0) | Momentum 0/0)
+  Faelan casts Havoc (8) vs Frost-Cave Troll Prowess-defense (7)
+    Margin 1: Frost-Cave Troll pushed 5ft, 1 Dissonant Stress. Faelan takes 1 Dissonant Stress from the strain.
+  Bram Melee Strike (Shortsword) (9) vs Frost-Cave Troll brace (11)
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (10) vs Frost-Cave Troll brace (12)
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (11) vs Bram block (10)
+    Shield (SV 4) reduces Impact 2 -> 0.
+    !! Bram's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    >> Bram is INCAPACITATED — falls Prone, drops what they're holding.
+    Glancing Hit: Impact 0 < Threshold 9 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 6/9 (D2/L4) | Momentum 2/4
+    Faelan: Wounds 2/3 | Stress 4/7 (D2/L2) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 4/4 (D4/L0) | Momentum 0/0
+
+-- Round 8 --
+  Faelan spends a Full Action administering a Grave-Dust Poultice to Bram (1 left).
+    Bram's Athletics check (9 vs TN8) passes — no ill effect.
+    Wound Slot cleared (2/3) — Bram is back on their feet.
+  Bram Melee Strike (Shortsword) (9) vs Frost-Cave Troll brace (13)
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (7) vs Frost-Cave Troll brace (12)
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (7) vs Bram block (9)
+    Bram's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 2/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 6/9 (D2/L4) | Momentum 2/4
+    Faelan: Wounds 2/3 | Stress 4/7 (D2/L2) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 4/4 (D4/L0) | Momentum 0/0
+
+-- Round 9 --
+  Faelan casts Havoc (10) vs Frost-Cave Troll Prowess-defense (8)
+    !! Frost-Cave Troll's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Margin 2: Frost-Cave Troll pushed 5ft, 1 Dissonant Stress. Faelan takes 1 Dissonant Stress from the strain.
+  Bram Melee Strike (Shortsword) (10) vs Frost-Cave Troll brace (6)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    !! Frost-Cave Troll's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Glancing Hit: Impact 6 < Threshold 11 -> 1 Dissonant Stress.
+  Helga Melee Strike (Mace) (11) vs Frost-Cave Troll brace (8)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    !! Frost-Cave Troll's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    >> Frost-Cave Troll is INCAPACITATED — falls Prone, drops what they're holding.
+    Glancing Hit: Impact 5 < Threshold 11 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 2/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 6/9 (D2/L4) | Momentum 2/4
+    Faelan: Wounds 2/3 | Stress 5/7 (D3/L2) | Momentum 0/5
+    Frost-Cave Troll: Wounds 3/3 | Stress 4/4 (D4/L0) | Momentum 0/0 [INCAPACITATED]
+
+Forced test coverage — Helga Blocked a hit: True | Faelan Dodged a hit: True
+-- Scene 2 resolved --
+  -- Status --
+    Bram: Wounds 2/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 6/9 (D2/L4) | Momentum 2/4
+    Faelan: Wounds 2/3 | Stress 5/7 (D3/L2) | Momentum 0/5
+    Frost-Cave Troll: Wounds 3/3 | Stress 4/4 (D4/L0) | Momentum 0/0 [INCAPACITATED]
+
+######################################################################
+BREATHER 2 DECISION: TAKE IT — a PC is Wounded or party Stress is elevated
+
+--- BREATHER (30 min) ---
+  Bram: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Helga: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Faelan: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Attrition Tax: GM banks +2 Threat for the next encounter.
+  Community Supply Die (d10): rolled 8.
+  -> holds.
+Community Supply Die entering the finale: d10
+######################################################################
+
+======================================================================
+SCENE 3 (BOSS): HALGRIM THE UNBURIED
+======================================================================
+Heavily Obscured chamber (both ways). Sovereign's Malice is now live: every PC Momentum spend feeds Halgrim +1 Threat.
+Start Threat: 5 (Kill-Zone cap; the +2 Attrition Tax from Breather 2 had no numerical room to matter here — pool was already capped).
+
+-- Fear check (Halgrim, Fear Inducing) --
+    Bram fails the Fear check (6 vs TN8) vs Halgrim — gains Fear, +1 Dissonant Stress from the dread.
+    Helga fails the Fear check (7 vs TN8) vs Halgrim — gains Fear, +1 Dissonant Stress from the dread.
+    Faelan fails the Fear check (6 vs TN8) vs Halgrim — gains Fear, +1 Dissonant Stress from the dread.
+
+-- Round 1 -- (Halgrim Threat pool: 2)
+  Faelan casts Havoc (5) vs Halgrim Prowess-defense (12) [Obscured]
+    Snake Eyes — the spell fizzles.
+  Bram Melee Strike (Shortsword) (11) vs Halgrim brace (13) [Obscured]
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga casts Sanctuary of the Zenith (12 vs TN8, 1 Locked Stress)
+    PASS: inside the 3x3 zone, nobody can gain Advantage or Disadvantage — Obscurement is suppressed for the rest of this encounter.
+  Halgrim spends 1 Threat: GRIP OF THE BARROW opens the fight, aimed at Faelan (the most mobile target). (1 left)
+  Helga reacts with Writ of Protection on Faelan (14 vs TN8, 1 Locked Stress, Free Reaction)
+    PASS: the attack is forbidden from targeting Faelan — wasted entirely.
+    The Maul never reaches him — Halgrim's opening blow is wasted.
+  -- Status --
+    Bram: Wounds 2/3 | Stress 2/5 (D1/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 7/9 (D1/L6) | Momentum 0/4
+    Faelan: Wounds 2/3 | Stress 4/7 (D2/L2) | Momentum 0/5
+    Halgrim: Wounds 0/4 | Stress 0/8 (D0/L0) | Momentum 0/0
+
+-- Round 2 -- (Halgrim Threat pool: 1)
+  Faelan casts Havoc (10) vs Halgrim Prowess-defense (13)
+    Lost the Clash — no effect.
+  Bram Melee Strike (Shortsword) (11) vs Halgrim brace (10)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Glancing Hit: Impact 3 < Threshold 11 -> 1 Dissonant Stress.
+  Helga Melee Strike (Mace) (9) vs Halgrim brace (8)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Glancing Hit: Impact 3 < Threshold 11 -> 1 Dissonant Stress.
+  Halgrim Melee Strike (Frost-Bitten Maul) (13) vs Bram block (11)
+    Shield (SV 4) reduces Impact 6 -> 2.
+    Glancing Hit: Impact 2 < Threshold 9 -> 1 Dissonant Stress.
+    GRIP OF THE BARROW (1 Threat spent, 0 left): Bram Anchored.
+  -- Status --
+    Bram: Wounds 2/3 | Stress 3/5 (D2/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 7/9 (D1/L6) | Momentum 0/4
+    Faelan: Wounds 2/3 | Stress 4/7 (D2/L2) | Momentum 0/5
+    Halgrim: Wounds 0/4 | Stress 2/8 (D2/L0) | Momentum 0/0
+
+-- Round 3 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (8) vs Halgrim Prowess-defense (12)
+    Lost the Clash — no effect.
+  Bram Melee Strike (Shortsword) (9) vs Halgrim brace (10)
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (13) vs Halgrim brace (9)
+    Helga generates 2 Momentum (0->2).
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Glancing Hit: Impact 6 < Threshold 11 -> 1 Dissonant Stress.
+  Halgrim Melee Strike (Frost-Bitten Maul) (13) vs Bram block (10)
+    Shield (SV 4) reduces Impact 7 -> 3.
+    Glancing Hit: Impact 3 < Threshold 9 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 2/3 | Stress 4/5 (D3/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 7/9 (D1/L6) | Momentum 2/4
+    Faelan: Wounds 2/3 | Stress 4/7 (D2/L2) | Momentum 0/5
+    Halgrim: Wounds 0/4 | Stress 3/8 (D3/L0) | Momentum 0/0
+
+-- Round 4 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (13) vs Halgrim Prowess-defense (8)
+    Faelan generates 1 Momentum (0->1).
+    Margin 5 (Clean): Halgrim pushed 10ft, knocked Prone, 1 Dissonant Stress. (Clean hit — per RAW, Faelan takes no self-stress on this tier.)
+  Bram Melee Strike (Shortsword) (13) vs Halgrim brace (9)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Glancing Hit: Impact 6 < Threshold 11 -> 1 Dissonant Stress.
+  Helga Melee Strike (Mace) (4) vs Halgrim brace (12)
+    Halgrim generates 1 Momentum (0->0).
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Halgrim Melee Strike (Frost-Bitten Maul) (9) vs Bram block (7)
+    Shield (SV 4) reduces Impact 6 -> 2.
+    Glancing Hit: Impact 2 < Threshold 9 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 2/3 | Stress 5/5 (D4/L1) | Momentum 0/4
+    Helga: Wounds 0/3 | Stress 7/9 (D1/L6) | Momentum 2/4
+    Faelan: Wounds 2/3 | Stress 4/7 (D2/L2) | Momentum 1/5
+    Halgrim: Wounds 0/4 | Stress 5/8 (D5/L0) | Momentum 0/0
+
+-- Round 5 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (11) vs Halgrim Prowess-defense (12)
+    Lost the Clash — no effect.
+  Bram Melee Strike (Shortsword) (12) vs Halgrim brace (11)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Glancing Hit: Impact 3 < Threshold 11 -> 1 Dissonant Stress.
+  Helga Melee Strike (Mace) (8) vs Halgrim brace (13)
+    Halgrim generates 1 Momentum (0->0).
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Halgrim Melee Strike (Frost-Bitten Maul) (15) vs Bram block (6)
+    Halgrim generates 1 Momentum (0->0).
+    Shield (SV 4) reduces Impact 13 -> 9.
+    Minor Wound: Impact 9 >= Threshold 9 -> 1 Wound Slot.
+    >> Bram is INCAPACITATED — falls Prone, drops what they're holding.
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 7/9 (D1/L6) | Momentum 2/4
+    Faelan: Wounds 2/3 | Stress 4/7 (D2/L2) | Momentum 1/5
+    Halgrim: Wounds 0/4 | Stress 6/8 (D6/L0) | Momentum 0/0
+
+-- Round 6 -- (Halgrim Threat pool: 0)
+  Faelan spends a Full Action administering a Grave-Dust Poultice to Bram (0 left).
+    !! Bram's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Bram's Athletics check (3 vs TN8) fails — 1 Dissonant Stress from spreading infection.
+    Wound Slot cleared (3/3), but still at cap — remains Incapacitated.
+    Bram Bleed-Out check: Success (roll 9) — 1 Stabilization Mark (1).
+  Helga Melee Strike (Mace) (11) vs Halgrim brace (13)
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Halgrim Melee Strike (Frost-Bitten Maul) (9) vs Faelan dodge (10)
+    Faelan's dodge succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 7/9 (D1/L6) | Momentum 2/4
+    Faelan: Wounds 2/3 | Stress 4/7 (D2/L2) | Momentum 1/5
+    Halgrim: Wounds 0/4 | Stress 6/8 (D6/L0) | Momentum 0/0
+
+-- Round 7 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (13) vs Halgrim Prowess-defense (14)
+    Lost the Clash — no effect.
+    Bram Bleed-Out check: Success (roll 12) — 1 Stabilization Mark (2).
+  Helga Melee Strike (Mace) (6) vs Halgrim brace (11)
+    Halgrim generates 1 Momentum (0->0).
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Halgrim Melee Strike (Frost-Bitten Maul) (11) vs Faelan dodge (7)
+    Faelan spends 1 Momentum on Blood Price — converts physical trauma into 2 Dissonant Stress instead of a Wound.
+    Sovereign's Malice: Halgrim gains 1 Threat off that Momentum spend (his pool now +1 banked from this source).
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 7/9 (D1/L6) | Momentum 2/4
+    Faelan: Wounds 2/3 | Stress 6/7 (D4/L2) | Momentum 0/5
+    Halgrim: Wounds 0/4 | Stress 6/8 (D6/L0) | Momentum 0/0
+
+-- Round 8 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (10) vs Halgrim Prowess-defense (7)
+    Margin 3 (Clean): Halgrim pushed 10ft, knocked Prone, 1 Dissonant Stress. (Clean hit — per RAW, Faelan takes no self-stress on this tier.)
+    Bram Bleed-Out check: Snake Eyes — DIES on the spot.
+  Helga Melee Strike (Mace) (11) vs Halgrim brace (14)
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Halgrim Melee Strike (Frost-Bitten Maul) (12) vs Faelan dodge (7)
+    Halgrim generates 1 Momentum (0->0).
+    MAJOR WOUND: Impact 9 >= 2x Threshold (8) -> 2 Wound Slots + 1 Dissonant Stress.
+    >> Faelan is INCAPACITATED — falls Prone, drops what they're holding.
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 7/9 (D1/L6) | Momentum 2/4
+    Faelan: Wounds 4/3 | Stress 7/7 (D5/L2) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 0/4 | Stress 7/8 (D7/L0) | Momentum 0/0
+
+-- Round 9 -- (Halgrim Threat pool: 0)
+    Faelan Bleed-Out check: Failure (roll 7) — 1 Death Mark (1).
+  Helga Melee Strike (Mace) (10) vs Halgrim brace (7)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Glancing Hit: Impact 5 < Threshold 11 -> 1 Dissonant Stress.
+  Halgrim Melee Strike (Frost-Bitten Maul) (17) vs Helga block (6)
+    Halgrim generates 3 Momentum (0->0).
+    Shield (SV 4) reduces Impact 15 -> 11.
+    Minor Wound: Impact 11 >= Threshold 8 -> 1 Wound Slot.
+
+  *** PHASE CHANGE: Halgrim's Stress Track maxes out. The frost binding him cracks audibly. ***
+  He loses Fear Inducing but gains Advantage on all Melee Strikes; Vessel Limit rises to 3.
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 1/3 | Stress 7/9 (D1/L6) | Momentum 2/4
+    Faelan: Wounds 4/3 | Stress 7/7 (D5/L2) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 0/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 10 -- (Halgrim Threat pool: 0)
+    Faelan Bleed-Out check: Failure (roll 4) — 1 Death Mark (2).
+  Helga Melee Strike (Mace) (13) vs Halgrim brace (5)
+    Helga generates 3 Momentum (2->4).
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Helga spends 3 Momentum on DECISIVE BLOW — forces exactly 1 Wound Slot through, bypassing the Threshold check.
+    Sovereign's Malice: Halgrim gains 1 Threat off that Momentum spend (his pool now +2 banked from this source).
+  (Halgrim is Broken — rolling with Advantage on this Strike, but no Prowess bonus on his own Brace.)
+  Halgrim Melee Strike (Frost-Bitten Maul) (16) vs Helga block (7)
+    Halgrim generates 1 Momentum (0->0).
+    Shield (SV 4) reduces Impact 13 -> 9.
+    Helga spends 1 Momentum on Blood Price — converts physical trauma into 2 Dissonant Stress instead of a Wound.
+    Sovereign's Malice: Halgrim gains 1 Threat off that Momentum spend (his pool now +3 banked from this source).
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 1/3 | Stress 9/9 (D3/L6) | Momentum 0/4
+    Faelan: Wounds 4/3 | Stress 7/7 (D5/L2) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 1/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 11 -- (Halgrim Threat pool: 0)
+    Faelan Bleed-Out check: Success (roll 12) — 1 Stabilization Mark (1).
+  Helga Melee Strike (Mace) (9) vs Halgrim brace (11)
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  (Halgrim is Broken — rolling with Advantage on this Strike, but no Prowess bonus on his own Brace.)
+  Halgrim Melee Strike (Frost-Bitten Maul) (14) vs Helga block (11)
+    Shield (SV 4) reduces Impact 7 -> 3.
+    !! Helga's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Glancing Hit: Impact 3 < Threshold 8 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 2/3 | Stress 9/9 (D3/L6) | Momentum 0/4
+    Faelan: Wounds 4/3 | Stress 7/7 (D5/L2) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 1/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 12 -- (Halgrim Threat pool: 0)
+    Faelan Bleed-Out check: Success (roll 9) — 1 Stabilization Mark (2).
+  Helga Melee Strike (Mace) (10) vs Halgrim brace (5)
+    Helga generates 1 Momentum (0->1).
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    !! Halgrim's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Glancing Hit: Impact 7 < Threshold 11 -> 1 Dissonant Stress.
+  (Halgrim is Broken — rolling with Advantage on this Strike, but no Prowess bonus on his own Brace.)
+  Halgrim Melee Strike (Frost-Bitten Maul) (16) vs Helga block (6)
+    Halgrim generates 1 Momentum (0->0).
+    Shield (SV 4) reduces Impact 14 -> 10.
+    Helga spends 1 Momentum on Blood Price — converts physical trauma into 2 Dissonant Stress instead of a Wound.
+    Sovereign's Malice: Halgrim gains 1 Threat off that Momentum spend (his pool now +4 banked from this source).
+    !! Helga's Stress overflows the limit — 2 pt(s) convert to Wounds (Death Spiral).
+    >> Helga is INCAPACITATED — falls Prone, drops what they're holding.
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 4/3 | Stress 9/9 (D3/L6) | Momentum 0/4 [INCAPACITATED]
+    Faelan: Wounds 4/3 | Stress 7/7 (D5/L2) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 2/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 13 -- (Halgrim Threat pool: 0)
+    Faelan Bleed-Out check: Success (roll 10) — 1 Stabilization Mark (3).
+    Faelan is STABILIZED — no more Bleed-Out checks this scene.
+    Helga Bleed-Out check: Failure (roll 7) — 1 Death Mark (1).
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 4/3 | Stress 9/9 (D3/L6) | Momentum 0/4 [INCAPACITATED]
+    Faelan: Wounds 4/3 | Stress 7/7 (D5/L2) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 2/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 14 -- (Halgrim Threat pool: 0)
+    Faelan Bleed-Out check: Success (roll 11) — 1 Stabilization Mark (4).
+    Faelan is STABILIZED — no more Bleed-Out checks this scene.
+    Helga Bleed-Out check: Failure (roll 5) — 1 Death Mark (2).
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 4/3 | Stress 9/9 (D3/L6) | Momentum 0/4 [INCAPACITATED]
+    Faelan: Wounds 4/3 | Stress 7/7 (D5/L2) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 2/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 15 -- (Halgrim Threat pool: 0)
+    Faelan Bleed-Out check: Failure (roll 7) — 1 Death Mark (3).
+    Faelan is STABILIZED — no more Bleed-Out checks this scene.
+    Faelan has died from their wounds.
+    Helga Bleed-Out check: Success (roll 9) — 1 Stabilization Mark (1).
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 4/3 | Stress 9/9 (D3/L6) | Momentum 0/4 [INCAPACITATED]
+    Faelan: Wounds 4/3 | Stress 7/7 (D5/L2) | Momentum 0/5 [INCAPACITATED] [DEAD]
+    Halgrim: Wounds 2/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 16 -- (Halgrim Threat pool: 0)
+    Helga Bleed-Out check: Failure (roll 7) — 1 Death Mark (3).
+    Helga has died from their wounds.
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 4/3 | Stress 9/9 (D3/L6) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Faelan: Wounds 4/3 | Stress 7/7 (D5/L2) | Momentum 0/5 [INCAPACITATED] [DEAD]
+    Halgrim: Wounds 2/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+Total Threat Sovereign's Malice generated off PC Momentum spends: 4
+-- Scene 3 resolved --
+  -- Status --
+    Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 4/3 | Stress 9/9 (D3/L6) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Faelan: Wounds 4/3 | Stress 7/7 (D5/L2) | Momentum 0/5 [INCAPACITATED] [DEAD]
+    Halgrim: Wounds 2/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+======================================================================
+FINAL OUTCOME
+======================================================================
+THE PARTY IS DOWN. Halgrim stands over the wreckage.
+  Bram: Wounds 3/3 | Stress 5/5 (D4/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+  Helga: Wounds 4/3 | Stress 9/9 (D3/L6) | Momentum 0/4 [INCAPACITATED] [DEAD]
+  Faelan: Wounds 4/3 | Stress 7/7 (D5/L2) | Momentum 0/5 [INCAPACITATED] [DEAD]
+  Halgrim: Wounds 2/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+Breathers taken: 2 / 2 possible.
+Community Supply Die final state: d10

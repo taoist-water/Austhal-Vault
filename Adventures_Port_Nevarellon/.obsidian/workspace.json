@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e09d73873211c37b",
+        "id": "6265c748eab56d76",
         "type": "tabs",
         "children": [
           {
-            "id": "ca18c9a99bff7daf",
+            "id": "427ce5193c9402fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 Iron & Marrow Master rules/aa_Master rules/The Meat (Player Characters).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Meat (Player Characters)"
+              "title": "New tab"
             }
           }
         ]
@@ -203,15 +199,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca18c9a99bff7daf",
+  "active": "bf9b17df2cdfe0a9",
   "lastOpenFiles": [
+    "300 Iron & Marrow Master rules/aa_Master rules/The Meat (Player Characters).md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/sim_output_v5.txt",
+    "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/sim_output_v4.txt",
+    "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/sim_output_v3.txt",
+    "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs",
     "300 Iron & Marrow Master rules/aa_Master rules/Metal meet Flesh (Combat Mechanics).md",
     "300 Iron & Marrow Master rules/Dev notes/01 Core Mechanics/At Deaths Door.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core Rules).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Hardware (Equipment).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Embracing the Abyss (Magic Mechanics).md",
-    "300 Iron & Marrow Master rules/aa_Master rules/The Meat (Player Characters).md",
     "300 Iron & Marrow Master rules/aa_Master rules/The Marrow (Character Creation).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Iron and Marrow Playtest (The Ledger House Job).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Beasts Monsters Mutants (Bestiary).md",
@@ -230,17 +230,12 @@
     "100 Society/101 Factions & Guilds/Council of Five.md",
     "000 Atlas/003 Sub-Locations & Architecture/The Great Anchor Basin.md",
     "000 Atlas/001 Regions & Continents/The Inner Sea.md",
-    "000 Atlas/001 Regions & Continents/The Five Duchies of the Whispering Coast.md",
     "Longform Lore collator/Lore",
     "Longform Lore collator",
     "longform novel/lore",
     "longform novel",
     "drafts",
     "300 Iron & Marrow Master rules/aa_Master rules/Character_sheet.odt",
-    "200 Cast/204 Middle Class",
-    "400 Meta/drafts",
-    "300 Iron & Marrow Master rules/Dev notes/16 complete edits/bestiary entry - lycanthrope_done",
-    "300 Iron & Marrow Master rules/Dev notes/16 complete edits",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,825 @@
+=== SIM START (true RNG, no manufactured outcomes) ===
+PRECOMMITTED BREATHER RULE (decided before any dice are rolled, so the outcome can't bias it):
+  After each scene, the party takes a Breather if ANY PC has taken at least 1 Wound Slot,
+  OR the party's average Stress has reached 60%+ of their Stress Limit. Otherwise they push on.
+  This is a fixed, mechanical read of party condition — not adjusted after seeing results.
+Faelan carries 2 Grave-Dust Poultices (Full Action, clears 1 filled Wound Slot on an Incapacitated ally).
+QUARTET RUN: Brynja Frostvow (Faith/Ranged hybrid) added as a 4th party member for tonight's test.
+
+======================================================================
+SCENE 1 (COLD OPEN): THE THRESHOLD WARDS
+======================================================================
+Difficult Terrain (black ice) at the threshold. Party of four: Bram, Helga, Faelan, Brynja.
+
+-- Brynja opens with Wolf's Ward on Faelan, warding him against the crossing's cold before the Hazard Check --
+  Brynja casts Wolf's Ward on Faelan (15 vs TN8, 1 Locked Stress)
+    PASS: Faelan ignores Stress and penalties from extreme environmental hazards for the scene. (Miracle text says Fail also grants this, at 1 Encroachment — Encroachment isn't tracked in this sim, so a Pass/Fail split doesn't change the mechanical outcome here.)
+
+-- Pre-fight Hazard Check (2d6 + Athletics/Survival vs TN 8; only Brynja has Survival ranked, at +1) --
+   [Revised rule: failure now costs 1d3 Locked Stress, down from 1d6 — Iron World house-rule update]
+  Bram rolls 7 vs TN8 — FAILS. Takes 1 Locked Stress from the killing frost.
+  Helga rolls 10 vs TN8 — passes, shrugs off the worst of the cold.
+  Faelan is warded by Wolf's Ward — ignores Stress and penalties from the hazard entirely.
+  Brynja rolls 6 vs TN8 — FAILS. Takes 3 Locked Stress from the killing frost.
+
+Start Threat: 2
+
+-- Fear check (Grave-Warden, Fear Inducing) --
+    Bram fails the Fear check (5 vs TN8) vs Grave-Warden — gains Fear, +1 Dissonant Stress from the dread.
+    Helga fails the Fear check (5 vs TN8) vs Grave-Warden — gains Fear, +1 Dissonant Stress from the dread.
+    Faelan fails the Fear check (7 vs TN8) vs Grave-Warden — gains Fear, +1 Dissonant Stress from the dread.
+    Brynja resists Fear (11 vs TN8).
+
+-- Round 1 --
+  Faelan casts Stitch the Silhouette (8) vs Grave-Warden (7)
+    Margin 1: Grave-Warden Anchored (0 movement) — it was already engaged with Bram so this mostly denies it repositioning onto Faelan/Helga.
+  Brynja Ranged Strike (Shortbow) (8) vs Grave-Wretch 1 brace (11)
+    Grave-Wretch 1's brace succeeds — Strike deflected/avoided, no Impact.
+  Bram Melee Strike (Shortsword) (14) vs Grave-Wretch 1 brace (6)
+    Bram generates 1 Momentum (0->1).
+    Braced and lost: Wound Threshold treated as 7 for this Impact.
+    Minor Wound: Impact 10 >= Threshold 7 -> 1 Wound Slot.
+    >> Grave-Wretch 1 is INCAPACITATED — falls Prone, drops what they're holding.
+  Helga Melee Strike (Mace) (10) vs Grave-Wretch 2 brace (5)
+    Helga generates 1 Momentum (0->1).
+    Braced and lost: Wound Threshold treated as 7 for this Impact.
+    Minor Wound: Impact 7 >= Threshold 7 -> 1 Wound Slot.
+    >> Grave-Wretch 2 is INCAPACITATED — falls Prone, drops what they're holding.
+  Grave-Warden Melee Strike (bone blade) (11) vs Bram block (8)
+    Shield (SV 4) reduces Impact 5 -> 1.
+    Glancing Hit: Impact 1 < Threshold 9 -> 1 Dissonant Stress.
+    Grinding Assault (1 Threat spent, 1 left): +1 Dissonant Stress to Bram.
+  Grave-Wretch 3 Claw Strike (11) vs Bram block (5)
+    Bram Snake Eyes — auto-loss, +1 Dissonant Stress to self.
+    Grave-Wretch 3 generates 1 Momentum (0->0).
+    Shield (SV 4) reduces Impact 7 -> 3.
+    !! Bram's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Glancing Hit: Impact 3 < Threshold 9 -> 1 Dissonant Stress.
+    Vicious: Bram must resist Bleeding — applying 1 extra Dissonant Stress.
+    !! Bram's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+  Grave-Wretch 4 Claw Strike (11) vs Helga block (6)
+    Grave-Wretch 4 generates 1 Momentum (0->0).
+    Shield (SV 4) reduces Impact 6 -> 2.
+    Glancing Hit: Impact 2 < Threshold 8 -> 1 Dissonant Stress.
+    Vicious: Helga must resist Bleeding — applying 1 extra Dissonant Stress.
+  -- Status --
+    Bram: Wounds 2/3 | Stress 5/5 (D4/L1) | Momentum 1/4
+    Helga: Wounds 0/3 | Stress 3/9 (D3/L0) | Momentum 1/4
+    Faelan: Wounds 0/3 | Stress 2/7 (D2/L0) | Momentum 0/5
+    Brynja: Wounds 0/3 | Stress 4/6 (D0/L4) | Momentum 0/5
+    Grave-Warden: Wounds 0/2 | Stress 0/4 (D0/L0) | Momentum 0/0
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 3: Wounds 0/1 | Stress 0/0 (D0/L0) | Momentum 0/0
+    Grave-Wretch 4: Wounds 0/1 | Stress 0/0 (D0/L0) | Momentum 0/0
+
+-- Round 2 --
+  Faelan casts Havoc (9) vs Grave-Wretch 3 Prowess-defense (5)
+    !! Grave-Wretch 3's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    >> Grave-Wretch 3 is INCAPACITATED — falls Prone, drops what they're holding.
+    Margin 4 (Clean): Grave-Wretch 3 pushed 10ft, knocked Prone, 1 Dissonant Stress. (Clean hit — per RAW, Faelan takes no self-stress on this tier.)
+  Brynja Ranged Strike (Shortbow) (10) vs Grave-Wretch 4 brace (4)
+    Brynja generates 1 Momentum (0->1).
+    Braced and lost: Wound Threshold treated as 7 for this Impact.
+    Minor Wound: Impact 8 >= Threshold 7 -> 1 Wound Slot.
+    >> Grave-Wretch 4 is INCAPACITATED — falls Prone, drops what they're holding.
+  Bram Melee Strike (Shortsword) (7) vs Grave-Warden implicit (14)
+    Grave-Warden generates 1 Momentum (0->0).
+    Grave-Warden's implicit succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (11) vs Grave-Warden implicit (10)
+    Glancing Hit: Impact 3 < Threshold 4 -> 1 Dissonant Stress.
+  Grave-Warden Melee Strike (bone blade) (14) vs Bram block (6)
+    Grave-Warden generates 1 Momentum (0->0).
+    Shield (SV 4) reduces Impact 10 -> 6.
+    !! Bram's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    >> Bram is INCAPACITATED — falls Prone, drops what they're holding.
+    Glancing Hit: Impact 6 < Threshold 9 -> 1 Dissonant Stress.
+    !! Bram's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Grinding Assault (1 Threat spent, 0 left): +1 Dissonant Stress to Bram.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 5/5 (D4/L1) | Momentum 1/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 3/9 (D3/L0) | Momentum 1/4
+    Faelan: Wounds 0/3 | Stress 2/7 (D2/L0) | Momentum 0/5
+    Brynja: Wounds 0/3 | Stress 4/6 (D0/L4) | Momentum 1/5
+    Grave-Warden: Wounds 0/2 | Stress 1/4 (D1/L0) | Momentum 0/0
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 3: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 4: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+
+-- Round 3 --
+  Faelan spends a Full Action administering a Grave-Dust Poultice to Bram (1 left).
+    !! Bram's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Bram's Athletics check (6 vs TN8) fails — 1 Dissonant Stress from spreading infection.
+    Wound Slot cleared (4/3), but still at cap — remains Incapacitated.
+  Brynja spends a Full Action administering a Grave-Dust Poultice to Bram (0 left).
+    !! Bram's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Bram's Athletics check (6 vs TN8) fails — 1 Dissonant Stress from spreading infection.
+    Wound Slot cleared (4/3), but still at cap — remains Incapacitated.
+    Bram Bleed-Out check: Success (roll 8) — 1 Stabilization Mark (1).
+  Helga Melee Strike (Mace) (4) vs Grave-Warden implicit (13)
+    Grave-Warden generates 1 Momentum (0->0).
+    Grave-Warden's implicit succeeds — Strike deflected/avoided, no Impact.
+  Grave-Warden Melee Strike (bone blade) (12) vs Helga block (9)
+    Shield (SV 4) reduces Impact 5 -> 1.
+    Glancing Hit: Impact 1 < Threshold 8 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 5/5 (D4/L1) | Momentum 1/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 4/9 (D4/L0) | Momentum 1/4
+    Faelan: Wounds 0/3 | Stress 2/7 (D2/L0) | Momentum 0/5
+    Brynja: Wounds 0/3 | Stress 4/6 (D0/L4) | Momentum 1/5
+    Grave-Warden: Wounds 0/2 | Stress 1/4 (D1/L0) | Momentum 0/0
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 3: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 4: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+
+-- Round 4 --
+  Faelan casts Havoc (11) vs Grave-Warden Prowess-defense (11)
+    Lost the Clash — no effect.
+  Brynja Ranged Strike (Shortbow) (12) vs Grave-Warden implicit (7)
+    Brynja generates 1 Momentum (1->2).
+    Minor Wound: Impact 7 >= Threshold 4 -> 1 Wound Slot.
+    Bram Bleed-Out check: Success (roll 8) — 1 Stabilization Mark (2).
+  Helga Melee Strike (Mace) (9) vs Grave-Warden implicit (11)
+    Grave-Warden's implicit succeeds — Strike deflected/avoided, no Impact.
+  Grave-Warden Melee Strike (bone blade) (9) vs Helga block (13)
+    Helga generates 2 Momentum (1->3).
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 5/5 (D4/L1) | Momentum 1/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 4/9 (D4/L0) | Momentum 3/4
+    Faelan: Wounds 0/3 | Stress 2/7 (D2/L0) | Momentum 0/5
+    Brynja: Wounds 0/3 | Stress 4/6 (D0/L4) | Momentum 2/5
+    Grave-Warden: Wounds 1/2 | Stress 1/4 (D1/L0) | Momentum 0/0
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 3: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 4: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+
+-- Round 5 --
+  Faelan casts Havoc (9) vs Grave-Warden Prowess-defense (7)
+    Margin 2: Grave-Warden pushed 5ft, 1 Dissonant Stress. Faelan takes 1 Dissonant Stress from the strain.
+  Brynja Ranged Strike (Shortbow) (14) vs Grave-Warden implicit (12)
+    Minor Wound: Impact 4 >= Threshold 4 -> 1 Wound Slot.
+    >> Grave-Warden is INCAPACITATED — falls Prone, drops what they're holding.
+    Bram Bleed-Out check: Success (roll 9) — 1 Stabilization Mark (3).
+    Bram is STABILIZED — no more Bleed-Out checks this scene.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 5/5 (D4/L1) | Momentum 1/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 4/9 (D4/L0) | Momentum 3/4
+    Faelan: Wounds 0/3 | Stress 3/7 (D3/L0) | Momentum 0/5
+    Brynja: Wounds 0/3 | Stress 4/6 (D0/L4) | Momentum 2/5
+    Grave-Warden: Wounds 2/2 | Stress 2/4 (D2/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 3: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 4: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+
+-- Scene 1 resolved --
+  -- Status --
+    Bram: Wounds 4/3 | Stress 5/5 (D4/L1) | Momentum 1/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 4/9 (D4/L0) | Momentum 3/4
+    Faelan: Wounds 0/3 | Stress 3/7 (D3/L0) | Momentum 0/5
+    Brynja: Wounds 0/3 | Stress 4/6 (D0/L4) | Momentum 2/5
+    Grave-Warden: Wounds 2/2 | Stress 2/4 (D2/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 1: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 2: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 3: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+    Grave-Wretch 4: Wounds 1/1 | Stress 0/0 (D0/L0) | Momentum 0/0 [INCAPACITATED]
+
+######################################################################
+BREATHER 1 DECISION: TAKE IT — a PC is Wounded or party Stress is elevated
+
+--- BREATHER (30 min) ---
+  Bram: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Helga: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Faelan: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Brynja: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Attrition Tax: GM banks +2 Threat for the next encounter.
+  Community Supply Die (d10): rolled 2.
+  -> steps down to d8.
+######################################################################
+
+======================================================================
+SCENE 2 (ELITE): THE FROST-CAVE TROLL
+======================================================================
+Heavily Obscured (ice-fog) + Difficult Terrain. Attacker Disadvantage / Defender +2, both ways.
+Start Threat: 5 (4-5 trio band, top end) +1 Quartet extrapolation + 2 carried over from Scene 1 = 4 (uncapped tally; GM will treat 6 as practical ceiling for spends)
+
+-- Lore check: does anyone know the Frost-Cave Troll's weakness? (2d6 + Lore vs TN 8; none of the three have Lore ranked, so best of three at +0) --
+  Bram rolls 5.
+  Helga rolls 2.
+  Faelan rolls 7.
+  Brynja rolls 6.
+  Nobody clears TN8 — the party goes in without knowing about the fire weakness.
+
+-- Round 1 --
+  Faelan casts Deflection on himself (raise, 11 vs TN8)
+    Clean: -2 to attacks vs Faelan, no cost.
+  Brynja Ranged Strike (Shortbow) (10) vs Frost-Cave Troll brace (17) [Obscured]
+    Frost-Cave Troll generates 3 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+    Bram Bleed-Out check: Success (roll 10) — 1 Stabilization Mark (4).
+    Bram is STABILIZED — no more Bleed-Out checks this scene.
+  Helga casts Sanctuary of the Zenith (6 vs TN8, 1 Locked Stress)
+    Failed to raise it this time.
+  Frost-Cave Troll Claw Strike (8) vs Helga block (11) [Obscured]
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 1/9 (D0/L1) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 0/7 (D0/L0) | Momentum 0/5
+    Brynja: Wounds 0/3 | Stress 4/6 (D0/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 0/4 (D0/L0) | Momentum 0/0
+
+-- Round 2 --
+  Faelan casts Havoc (12) vs Frost-Cave Troll Prowess-defense (16) [Obscured]
+    Lost the Clash — no effect.
+  Brynja Ranged Strike (Shortbow) (5) vs Frost-Cave Troll brace (12) [Obscured]
+    Brynja Snake Eyes — auto-loss, +1 Dissonant Stress to self.
+    Bram Bleed-Out check: Failure (roll 7) — 1 Death Mark (1).
+    Bram is STABILIZED — no more Bleed-Out checks this scene.
+  Helga Melee Strike (Mace) (5) vs Frost-Cave Troll brace (12) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Troll spends 2 Threat: SWEEPING UPROOT (Tree Trunk, Power 3, Cleave, Reach) — frontal arc hits Helga and Faelan (2 Threat left).
+  Frost-Cave Troll Tree Trunk Sweep (10) vs Helga block (7) [Obscured]
+    Shield (SV 4) reduces Impact 6 -> 2.
+    Glancing Hit: Impact 2 < Threshold 8 -> 1 Dissonant Stress.
+    Helga is knocked Prone by the sweep (Cleave).
+  Frost-Cave Troll Tree Trunk Sweep (7) [-2 Deflection] vs Faelan dodge (12) [Obscured]
+    Faelan generates 1 Momentum (0->1).
+    Faelan's dodge succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 2/9 (D1/L1) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 0/7 (D0/L0) | Momentum 1/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 0/4 (D0/L0) | Momentum 0/0
+
+-- Round 3 --
+  Faelan casts Havoc (9) vs Frost-Cave Troll Prowess-defense (10) [Obscured]
+    Lost the Clash — no effect.
+  Brynja Ranged Strike (Shortbow) (9) vs Frost-Cave Troll brace (9) [Obscured]
+    Tie — weapons bind, no Impact.
+    Bram Bleed-Out check: Success (roll 9) — 1 Stabilization Mark (5).
+    Bram is STABILIZED — no more Bleed-Out checks this scene.
+  Helga Melee Strike (Mace) (7) vs Frost-Cave Troll brace (15) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (10) vs Helga block (10) [Obscured]
+    Tie — weapons bind, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 2/9 (D1/L1) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 0/7 (D0/L0) | Momentum 1/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 0/4 (D0/L0) | Momentum 0/0
+
+-- Round 4 --
+  Faelan casts Havoc (9) vs Frost-Cave Troll Prowess-defense (14) [Obscured]
+    Lost the Clash — no effect.
+    Frost-Cave Troll generates 1 Momentum (0->0).
+  Brynja Ranged Strike (Shortbow) (10) vs Frost-Cave Troll brace (11) [Obscured]
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+    Bram Bleed-Out check: Failure (roll 5) — 1 Death Mark (2).
+    Bram is STABILIZED — no more Bleed-Out checks this scene.
+  Helga Melee Strike (Mace) (6) vs Frost-Cave Troll brace (16) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (6) vs Helga block (12) [Obscured]
+    Helga generates 1 Momentum (0->1).
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED]
+    Helga: Wounds 0/3 | Stress 2/9 (D1/L1) | Momentum 1/4
+    Faelan: Wounds 0/3 | Stress 0/7 (D0/L0) | Momentum 1/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 0/4 (D0/L0) | Momentum 0/0
+
+-- Round 5 --
+  Faelan casts Havoc (7) vs Frost-Cave Troll Prowess-defense (14) [Obscured]
+    Lost the Clash — no effect.
+    Frost-Cave Troll generates 1 Momentum (0->0).
+  Brynja Ranged Strike (Shortbow) (9) vs Frost-Cave Troll brace (10) [Obscured]
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+    Bram Bleed-Out check: Failure (roll 5) — 1 Death Mark (3).
+    Bram is STABILIZED — no more Bleed-Out checks this scene.
+    Bram has died from their wounds.
+  Helga Melee Strike (Mace) (7) vs Frost-Cave Troll brace (9) [Obscured]
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (8) vs Helga block (14) [Obscured]
+    Helga generates 1 Momentum (1->2).
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 2/9 (D1/L1) | Momentum 2/4
+    Faelan: Wounds 0/3 | Stress 0/7 (D0/L0) | Momentum 1/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 0/4 (D0/L0) | Momentum 0/0
+
+-- Round 6 --
+  Faelan casts Havoc (9) vs Frost-Cave Troll Prowess-defense (9) [Obscured]
+    Lost the Clash — no effect.
+  Brynja Ranged Strike (Shortbow) (7) vs Frost-Cave Troll brace (15) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (6) vs Frost-Cave Troll brace (12) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (10) vs Helga block (13) [Obscured]
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 2/9 (D1/L1) | Momentum 2/4
+    Faelan: Wounds 0/3 | Stress 0/7 (D0/L0) | Momentum 1/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 0/4 (D0/L0) | Momentum 0/0
+
+-- Round 7 --
+  Faelan casts Havoc (9) vs Frost-Cave Troll Prowess-defense (12) [Obscured]
+    Lost the Clash — no effect.
+  Brynja Ranged Strike (Shortbow) (8) vs Frost-Cave Troll brace (14) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (5) vs Frost-Cave Troll brace (16) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (10) vs Helga block (7) [Obscured]
+    Shield (SV 4) reduces Impact 4 -> 0.
+    Glancing Hit: Impact 0 < Threshold 8 -> 1 Dissonant Stress.
+    Vicious Frenzy (1 Threat spent, 1 left): immediate second claw strike.
+  Frost-Cave Troll Claw Strike (Frenzy) (6) vs Helga block (8) [Obscured]
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 3/9 (D2/L1) | Momentum 2/4
+    Faelan: Wounds 0/3 | Stress 0/7 (D0/L0) | Momentum 1/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 0/4 (D0/L0) | Momentum 0/0
+
+-- Round 8 --
+  Faelan casts Havoc (9) vs Frost-Cave Troll Prowess-defense (14) [Obscured]
+    Lost the Clash — no effect.
+    Frost-Cave Troll generates 1 Momentum (0->0).
+  Brynja Ranged Strike (Shortbow) (11) vs Frost-Cave Troll brace (13) [Obscured]
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (10) vs Frost-Cave Troll brace (13) [Obscured]
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (9) vs Helga block (15) [Obscured]
+    Helga generates 3 Momentum (2->4).
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 3/9 (D2/L1) | Momentum 4/4
+    Faelan: Wounds 0/3 | Stress 0/7 (D0/L0) | Momentum 1/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 0/4 (D0/L0) | Momentum 0/0
+
+-- Round 9 --
+  Faelan casts Havoc (9) vs Frost-Cave Troll Prowess-defense (13) [Obscured]
+    Lost the Clash — no effect.
+  Brynja Ranged Strike (Shortbow) (10) vs Frost-Cave Troll brace (14) [Obscured]
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (5) vs Frost-Cave Troll brace (12) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (6) vs Helga block (7) [Obscured]
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 3/9 (D2/L1) | Momentum 4/4
+    Faelan: Wounds 0/3 | Stress 0/7 (D0/L0) | Momentum 1/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 0/4 (D0/L0) | Momentum 0/0
+
+-- Round 10 --
+  Faelan casts Havoc (8) vs Frost-Cave Troll Prowess-defense (13) [Obscured]
+    Lost the Clash — no effect.
+    Frost-Cave Troll generates 1 Momentum (0->0).
+  Brynja Ranged Strike (Shortbow) (8) vs Frost-Cave Troll brace (12) [Obscured]
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (8) vs Frost-Cave Troll brace (13) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (8) vs Helga block (10) [Obscured]
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 3/9 (D2/L1) | Momentum 4/4
+    Faelan: Wounds 0/3 | Stress 0/7 (D0/L0) | Momentum 1/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 0/4 (D0/L0) | Momentum 0/0
+
+-- Round 11 --
+  Faelan casts Havoc (10) vs Frost-Cave Troll Prowess-defense (10) [Obscured]
+    Lost the Clash — no effect.
+  Brynja Ranged Strike (Shortbow) (8) vs Frost-Cave Troll brace (11) [Obscured]
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (3) vs Frost-Cave Troll brace (10) [Obscured]
+    Helga Snake Eyes — auto-loss, +1 Dissonant Stress to self.
+  Frost-Cave Troll Claw Strike (7) vs Helga block (11) [Obscured]
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 4/9 (D3/L1) | Momentum 4/4
+    Faelan: Wounds 0/3 | Stress 0/7 (D0/L0) | Momentum 1/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 0/4 (D0/L0) | Momentum 0/0
+
+-- Round 12 --
+  Faelan casts Havoc (14) vs Frost-Cave Troll Prowess-defense (9) [Obscured]
+    Faelan generates 1 Momentum (1->2).
+    Margin 5 (Clean): Frost-Cave Troll pushed 10ft, knocked Prone, 1 Dissonant Stress. (Clean hit — per RAW, Faelan takes no self-stress on this tier.)
+  Brynja Ranged Strike (Shortbow) (7) vs Frost-Cave Troll brace (10) [Obscured]
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (5) vs Frost-Cave Troll brace (9) [Obscured]
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (6) vs Helga block (8) [Obscured]
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 4/9 (D3/L1) | Momentum 4/4
+    Faelan: Wounds 0/3 | Stress 0/7 (D0/L0) | Momentum 2/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 1/4 (D1/L0) | Momentum 0/0
+
+-- Round 13 --
+  Faelan casts Havoc (5) vs Frost-Cave Troll Prowess-defense (14) [Obscured]
+    Snake Eyes — the spell fizzles.
+  Brynja Ranged Strike (Shortbow) (8) vs Frost-Cave Troll brace (16) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (6) vs Frost-Cave Troll brace (13) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (7) vs Helga block (8) [Obscured]
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 4/9 (D3/L1) | Momentum 4/4
+    Faelan: Wounds 0/3 | Stress 1/7 (D1/L0) | Momentum 2/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 0/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 1/4 (D1/L0) | Momentum 0/0
+
+-- Round 14 --
+  Faelan casts Havoc (8) vs Frost-Cave Troll Prowess-defense (9) [Obscured]
+    Lost the Clash — no effect.
+  Brynja Ranged Strike (Shortbow) (12) vs Frost-Cave Troll brace (7) [Obscured]
+    Frost-Cave Troll Snake Eyes — auto-loss, +1 Dissonant Stress to self.
+    Brynja generates 1 Momentum (0->1).
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Glancing Hit: Impact 7 < Threshold 11 -> 1 Dissonant Stress.
+  Helga Melee Strike (Mace) (7) vs Frost-Cave Troll brace (9) [Obscured]
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (11) vs Helga block (10) [Obscured]
+    Shield (SV 4) reduces Impact 2 -> 0.
+    Glancing Hit: Impact 0 < Threshold 8 -> 1 Dissonant Stress.
+    Vicious Frenzy (1 Threat spent, 0 left): immediate second claw strike.
+  Frost-Cave Troll Claw Strike (Frenzy) (6) vs Helga block (11) [Obscured]
+    Helga generates 1 Momentum (4->4).
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 5/9 (D4/L1) | Momentum 4/4
+    Faelan: Wounds 0/3 | Stress 1/7 (D1/L0) | Momentum 2/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 1/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 3/4 (D3/L0) | Momentum 0/0
+
+-- Round 15 --
+  Faelan casts Havoc (10) vs Frost-Cave Troll Prowess-defense (12) [Obscured]
+    Lost the Clash — no effect.
+  Brynja Ranged Strike (Shortbow) (7) vs Frost-Cave Troll brace (12) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (4) vs Frost-Cave Troll brace (16) [Obscured]
+    Frost-Cave Troll generates 1 Momentum (0->0).
+    Frost-Cave Troll's brace succeeds — Strike deflected/avoided, no Impact.
+  Frost-Cave Troll Claw Strike (6) vs Helga block (11) [Obscured]
+    Helga generates 1 Momentum (4->4).
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 5/9 (D4/L1) | Momentum 4/4
+    Faelan: Wounds 0/3 | Stress 1/7 (D1/L0) | Momentum 2/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 1/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 3/4 (D3/L0) | Momentum 0/0
+
+Forced test coverage — Helga Blocked a hit: True | Faelan Dodged a hit: True
+-- Scene 2 resolved --
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 5/9 (D4/L1) | Momentum 4/4
+    Faelan: Wounds 0/3 | Stress 1/7 (D1/L0) | Momentum 2/5
+    Brynja: Wounds 0/3 | Stress 5/6 (D1/L4) | Momentum 1/5
+    Frost-Cave Troll: Wounds 0/3 | Stress 3/4 (D3/L0) | Momentum 0/0
+
+######################################################################
+BREATHER 2 DECISION: TAKE IT — a PC is Wounded or party Stress is elevated
+
+--- BREATHER (30 min) ---
+  Helga: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Faelan: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Brynja: Momentum -> 0, Dissonant Stress cleared. Locked Stress & Wounds untouched.
+  Attrition Tax: GM banks +2 Threat for the next encounter.
+  Community Supply Die (d8): rolled 8.
+  -> holds.
+Community Supply Die entering the finale: d8
+######################################################################
+
+======================================================================
+SCENE 3 (BOSS): HALGRIM THE UNBURIED
+======================================================================
+Heavily Obscured chamber (both ways). Sovereign's Malice is now live: every PC Momentum spend feeds Halgrim +1 Threat.
+Start Threat: 5 (Kill-Zone cap; the +2 Attrition Tax from Breather 2 had no numerical room to matter here — pool was already capped).
+
+-- Fear check (Halgrim, Fear Inducing) --
+    Bram fails the Fear check (3 vs TN8) vs Halgrim — gains Fear, +1 Dissonant Stress from the dread.
+    Helga fails the Fear check (7 vs TN8) vs Halgrim — gains Fear, +1 Dissonant Stress from the dread.
+    Faelan fails the Fear check (4 vs TN8) vs Halgrim — gains Fear, +1 Dissonant Stress from the dread.
+    Brynja fails the Fear check (4 vs TN8) vs Halgrim — gains Fear, +1 Dissonant Stress from the dread.
+
+-- Round 1 -- (Halgrim Threat pool: 2)
+  Faelan casts Havoc (6) vs Halgrim Prowess-defense (7) [Obscured]
+    Halgrim Snake Eyes — caught flat-footed.
+    Margin 1: Halgrim pushed 5ft, 1 Dissonant Stress. Faelan takes 1 Dissonant Stress from the strain.
+    !! Brynja's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+  Brynja casts Rime-Fang's Bite on Halgrim (Aggressor, 2 Locked Stress, 8 vs TN8)
+    Even a Fail applies the Miracle per its text (Fail: as Pass + Encroachment, not tracked here) — Halgrim takes 2 Dissonant Stress and gains Rigor.
+  Helga casts Sanctuary of the Zenith (8 vs TN8, 1 Locked Stress)
+    PASS: inside the 3x3 zone, nobody can gain Advantage or Disadvantage — Obscurement is suppressed for the rest of this encounter.
+  Halgrim spends 1 Threat: GRIP OF THE BARROW opens the fight, aimed at Faelan (the most mobile target). (1 left)
+  Helga reacts with Writ of Protection on Faelan (10 vs TN8, 1 Locked Stress, Free Reaction)
+    PASS: the attack is forbidden from targeting Faelan — wasted entirely.
+    The Maul never reaches him — Halgrim's opening blow is wasted.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 2/7 (D2/L0) | Momentum 0/5
+    Brynja: Wounds 1/3 | Stress 6/6 (D1/L5) | Momentum 0/5
+    Halgrim: Wounds 0/4 | Stress 3/8 (D3/L0) | Momentum 0/0
+
+-- Round 2 -- (Halgrim Threat pool: 1)
+  Faelan casts Havoc (9) vs Halgrim Prowess-defense (8)
+    Margin 1: Halgrim pushed 5ft, 1 Dissonant Stress. Faelan takes 1 Dissonant Stress from the strain.
+  Brynja Ranged Strike (Shortbow) (7) vs Halgrim brace (8)
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Helga Melee Strike (Mace) (5) vs Halgrim brace (11)
+    Halgrim generates 1 Momentum (0->0).
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  (Halgrim is afflicted with Rigor from Rime-Fang's Bite — this Strike suffers Disadvantage, overriding any Advantage.)
+  Halgrim Melee Strike (Frost-Bitten Maul) (12) vs Brynja dodge (9)
+    Minor Wound: Impact 7 >= Threshold 7 -> 1 Wound Slot.
+    Rigor clears after this activation.
+    GRIP OF THE BARROW (1 Threat spent, 0 left): Brynja Anchored.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 3/7 (D3/L0) | Momentum 0/5
+    Brynja: Wounds 2/3 | Stress 6/6 (D1/L5) | Momentum 0/5
+    Halgrim: Wounds 0/4 | Stress 4/8 (D4/L0) | Momentum 0/0
+
+-- Round 3 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (12) vs Halgrim Prowess-defense (11)
+    Margin 1: Halgrim pushed 5ft, 1 Dissonant Stress. Faelan takes 1 Dissonant Stress from the strain.
+  Brynja Ranged Strike (Shortbow) (7) vs Halgrim brace (7)
+    Tie — weapons bind, no Impact.
+  Helga Melee Strike (Mace) (7) vs Halgrim brace (9)
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Halgrim Melee Strike (Frost-Bitten Maul) (17) vs Brynja dodge (4)
+    Halgrim generates 3 Momentum (0->0).
+    MAJOR WOUND: Impact 17 >= 2x Threshold (14) -> 2 Wound Slots + 1 Dissonant Stress.
+    >> Brynja is INCAPACITATED — falls Prone, drops what they're holding.
+    !! Brynja's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 4/7 (D4/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 0/4 | Stress 5/8 (D5/L0) | Momentum 0/0
+
+-- Round 4 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (7) vs Halgrim Prowess-defense (12)
+    Lost the Clash — no effect.
+    Halgrim generates 1 Momentum (0->0).
+    Brynja Bleed-Out check: Success (roll 11) — 1 Stabilization Mark (1).
+  Helga Melee Strike (Mace) (11) vs Halgrim brace (12)
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Halgrim Melee Strike (Frost-Bitten Maul) (7) vs Helga block (6)
+    Halgrim Snake Eyes — auto-loss, +1 Dissonant Stress to self.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 4/7 (D4/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 0/4 | Stress 6/8 (D6/L0) | Momentum 0/0
+
+-- Round 5 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (6) vs Halgrim Prowess-defense (9)
+    Lost the Clash — no effect.
+    Brynja Bleed-Out check: Success (roll 8) — 1 Stabilization Mark (2).
+  Helga Melee Strike (Mace) (6) vs Halgrim brace (8)
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Halgrim Melee Strike (Frost-Bitten Maul) (10) vs Helga block (11)
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 4/9 (D1/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 4/7 (D4/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 0/4 | Stress 6/8 (D6/L0) | Momentum 0/0
+
+-- Round 6 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (12) vs Halgrim Prowess-defense (9)
+    Margin 3 (Clean): Halgrim pushed 10ft, knocked Prone, 1 Dissonant Stress. (Clean hit — per RAW, Faelan takes no self-stress on this tier.)
+    Brynja Bleed-Out check: Failure (roll 7) — 1 Death Mark (1).
+  Helga Melee Strike (Mace) (8) vs Halgrim brace (8)
+    Tie — weapons bind, no Impact.
+  Halgrim Melee Strike (Frost-Bitten Maul) (8) vs Helga block (6)
+    Shield (SV 4) reduces Impact 6 -> 2.
+    Glancing Hit: Impact 2 < Threshold 8 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 5/9 (D2/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 4/7 (D4/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 0/4 | Stress 7/8 (D7/L0) | Momentum 0/0
+
+-- Round 7 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (8) vs Halgrim Prowess-defense (13)
+    Lost the Clash — no effect.
+    Halgrim generates 1 Momentum (0->0).
+    Brynja Bleed-Out check: Success (roll 9) — 1 Stabilization Mark (3).
+    Brynja is STABILIZED — no more Bleed-Out checks this scene.
+  Helga Melee Strike (Mace) (7) vs Halgrim brace (14)
+    Halgrim generates 1 Momentum (0->0).
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Halgrim Melee Strike (Frost-Bitten Maul) (13) vs Helga block (7)
+    Halgrim generates 1 Momentum (0->0).
+    Shield (SV 4) reduces Impact 10 -> 6.
+    Glancing Hit: Impact 6 < Threshold 8 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 6/9 (D3/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 4/7 (D4/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 0/4 | Stress 7/8 (D7/L0) | Momentum 0/0
+
+-- Round 8 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (10) vs Halgrim Prowess-defense (9)
+    Margin 1: Halgrim pushed 5ft, 1 Dissonant Stress. Faelan takes 1 Dissonant Stress from the strain.
+    Brynja Bleed-Out check: Failure (roll 6) — 1 Death Mark (2).
+    Brynja is STABILIZED — no more Bleed-Out checks this scene.
+  Helga Melee Strike (Mace) (9) vs Halgrim brace (10)
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  Halgrim Melee Strike (Frost-Bitten Maul) (10) vs Helga block (3)
+    Helga Snake Eyes — auto-loss, +1 Dissonant Stress to self.
+    Halgrim generates 1 Momentum (0->0).
+    Shield (SV 4) reduces Impact 11 -> 7.
+    Glancing Hit: Impact 7 < Threshold 8 -> 1 Dissonant Stress.
+
+  *** PHASE CHANGE: Halgrim's Stress Track maxes out. The frost binding him cracks audibly. ***
+  He loses Fear Inducing but gains Advantage on all Melee Strikes; Vessel Limit rises to 3.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 0/3 | Stress 8/9 (D5/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 5/7 (D5/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED]
+    Halgrim: Wounds 0/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 9 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (8) vs Halgrim Prowess-defense (9)
+    Lost the Clash — no effect.
+    Brynja Bleed-Out check: Failure (roll 6) — 1 Death Mark (3).
+    Brynja is STABILIZED — no more Bleed-Out checks this scene.
+    Brynja has died from their wounds.
+  Helga Melee Strike (Mace) (6) vs Halgrim brace (6)
+    Tie — weapons bind, no Impact.
+  (Halgrim is Broken — rolling with Advantage on this Strike, but no Prowess bonus on his own Brace.)
+  Halgrim Melee Strike (Frost-Bitten Maul) (14) vs Helga block (4)
+    Halgrim generates 1 Momentum (0->0).
+    Shield (SV 4) reduces Impact 14 -> 10.
+    Minor Wound: Impact 10 >= Threshold 8 -> 1 Wound Slot.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 1/3 | Stress 8/9 (D5/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 5/7 (D5/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED] [DEAD]
+    Halgrim: Wounds 0/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 10 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (8) vs Halgrim Prowess-defense (13)
+    Lost the Clash — no effect.
+    Halgrim generates 1 Momentum (0->0).
+  Helga Melee Strike (Mace) (13) vs Halgrim brace (7)
+    Helga generates 3 Momentum (0->3).
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    Helga spends 3 Momentum on DECISIVE BLOW — forces exactly 1 Wound Slot through, bypassing the Threshold check.
+    Sovereign's Malice: Halgrim gains 1 Threat off that Momentum spend (his pool now +1 banked from this source).
+  (Halgrim is Broken — rolling with Advantage on this Strike, but no Prowess bonus on his own Brace.)
+  Halgrim Melee Strike (Frost-Bitten Maul) (11) vs Helga block (13)
+    Helga generates 2 Momentum (0->2).
+    Helga's block succeeds — Strike deflected/avoided, no Impact.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 1/3 | Stress 8/9 (D5/L3) | Momentum 2/4
+    Faelan: Wounds 0/3 | Stress 5/7 (D5/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED] [DEAD]
+    Halgrim: Wounds 1/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 11 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (8) vs Halgrim Prowess-defense (13)
+    Lost the Clash — no effect.
+    Halgrim generates 1 Momentum (0->0).
+  Helga Melee Strike (Mace) (9) vs Halgrim brace (8)
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    !! Halgrim's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Glancing Hit: Impact 3 < Threshold 11 -> 1 Dissonant Stress.
+    Helga spends 2 Momentum on Adrenaline Flush -> clears 1 Dissonant Stress (4 left).
+    Sovereign's Malice: Halgrim gains 1 Threat off that Momentum spend (his pool now +2 banked from this source).
+  (Halgrim is Broken — rolling with Advantage on this Strike, but no Prowess bonus on his own Brace.)
+  Halgrim Melee Strike (Frost-Bitten Maul) (9) vs Helga block (8)
+    Shield (SV 4) reduces Impact 5 -> 1.
+    Glancing Hit: Impact 1 < Threshold 8 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 1/3 | Stress 8/9 (D5/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 5/7 (D5/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED] [DEAD]
+    Halgrim: Wounds 2/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 12 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (7) vs Halgrim Prowess-defense (8)
+    Lost the Clash — no effect.
+  Helga Melee Strike (Mace) (6) vs Halgrim brace (8)
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  (Halgrim is Broken — rolling with Advantage on this Strike, but no Prowess bonus on his own Brace.)
+  Halgrim Melee Strike (Frost-Bitten Maul) (12) vs Helga block (6)
+    Halgrim generates 1 Momentum (0->0).
+    Shield (SV 4) reduces Impact 10 -> 6.
+    Glancing Hit: Impact 6 < Threshold 8 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 1/3 | Stress 9/9 (D6/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 5/7 (D5/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED] [DEAD]
+    Halgrim: Wounds 2/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 13 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (11) vs Halgrim Prowess-defense (10)
+    !! Halgrim's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Margin 1: Halgrim pushed 5ft, 1 Dissonant Stress. Faelan takes 1 Dissonant Stress from the strain.
+  Helga Melee Strike (Mace) (6) vs Halgrim brace (9)
+    Halgrim's brace succeeds — Strike deflected/avoided, no Impact.
+  (Halgrim is Broken — rolling with Advantage on this Strike, but no Prowess bonus on his own Brace.)
+  Halgrim Melee Strike (Frost-Bitten Maul) (14) vs Helga block (8)
+    Halgrim generates 1 Momentum (0->0).
+    Shield (SV 4) reduces Impact 10 -> 6.
+    !! Helga's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    Glancing Hit: Impact 6 < Threshold 8 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 2/3 | Stress 9/9 (D6/L3) | Momentum 0/4
+    Faelan: Wounds 0/3 | Stress 6/7 (D6/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED] [DEAD]
+    Halgrim: Wounds 3/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [BROKEN]
+
+-- Round 14 -- (Halgrim Threat pool: 0)
+  Faelan casts Havoc (15) vs Halgrim Prowess-defense (15)
+    Lost the Clash — no effect.
+    Halgrim generates 2 Momentum (0->0).
+  Helga Melee Strike (Mace) (9) vs Halgrim brace (3)
+    Helga generates 1 Momentum (0->1).
+    Braced and lost: Wound Threshold treated as 11 for this Impact.
+    !! Halgrim's Stress overflows the limit — 1 pt(s) convert to Wounds (Death Spiral).
+    >> Halgrim is INCAPACITATED — falls Prone, drops what they're holding.
+    Glancing Hit: Impact 8 < Threshold 11 -> 1 Dissonant Stress.
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 2/3 | Stress 9/9 (D6/L3) | Momentum 1/4
+    Faelan: Wounds 0/3 | Stress 6/7 (D6/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED] [DEAD]
+    Halgrim: Wounds 4/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [INCAPACITATED] [BROKEN]
+
+Total Threat Sovereign's Malice generated off PC Momentum spends: 2
+-- Scene 3 resolved --
+  -- Status --
+    Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+    Helga: Wounds 2/3 | Stress 9/9 (D6/L3) | Momentum 1/4
+    Faelan: Wounds 0/3 | Stress 6/7 (D6/L0) | Momentum 0/5
+    Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED] [DEAD]
+    Halgrim: Wounds 4/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [INCAPACITATED] [BROKEN]
+
+======================================================================
+FINAL OUTCOME
+======================================================================
+HALGRIM IS DEFEATED.
+  Bram: Wounds 4/3 | Stress 1/5 (D0/L1) | Momentum 0/4 [INCAPACITATED] [DEAD]
+  Helga: Wounds 2/3 | Stress 9/9 (D6/L3) | Momentum 1/4
+  Faelan: Wounds 0/3 | Stress 6/7 (D6/L0) | Momentum 0/5
+  Brynja: Wounds 5/3 | Stress 6/6 (D1/L5) | Momentum 0/5 [INCAPACITATED] [DEAD]
+  Halgrim: Wounds 4/4 | Stress 8/8 (D8/L0) | Momentum 0/0 [INCAPACITATED] [BROKEN]
+
+Breathers taken: 2 / 2 possible.
+Community Supply Die final state: d8
