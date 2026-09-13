@@ -47,6 +47,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 **Free Actions:**
 - at any time during their activation a Character may take a Free Action in addition to their Action. Free actions are drinking a potion, pulling a lever, passing an item to a nearby ally, etc. actions that are quick and require little to no effort.
 - When taken whilst engaged in an enemy threat zone, gain disadvantage on combat actions until next activation.
+- **Retrieve a Dropped Weapon or Shield:** A Free Action — but it halves the character's movement for that activation. Stooping to grab it costs mobility, not the whole turn.
     
 
 **Attack Actions:**

@@ -365,9 +365,6 @@ _The relentless, disciplined pressure of coordinated fire makes anything but hun
 - **Clearance:** Fades automatically at the start of the Suppressed character's next turn if they're no longer in line of sight of the source. Otherwise cleared via the Regroup action.
     
 
-
-        
-- **The Tactical Cost:** It costs the player their offensive output for the round, forcing the party to cover them while they recover.
 ## Positive Conditions:
 
 - *Blessed:* (Granted by Faith magic or holy sites). You feel the weight of the divine. You ignore the first point of Stress you would take in a scene.
