@@ -1,3 +1,22 @@
+### 6. Regroup (The Universal Reset Action)
+
+_Regroup is not a condition; it is a universal **Action** available to all characters and enemies._
+
+- **The Mechanic:** Instead of using their turn to declare a Strike, cast a spell, or reposition aggressively, the character spends their entire turn resetting their physical and mental state.
+    
+- **The Engine Interaction:** Taking the Regroup action allows a character to:
+    
+    1. Automatically clear physical conditions like _Ablaze_ or _Anchored_.
+        
+    2. Pick up a dropped weapon or shield.
+        
+    3. Spend Momentum mid-combat to clear a small amount of Dissonant Stress before they break (acting as a mini-Breather).
+
+
+
+
+
+
 # \[cm-01\]At Deaths Door
 
 When a character takes a Wound that fills their final Wound Slot (typically the 4th), they immediately fall Prone, drop their weapons, and gain the **Incapacitated** condition.

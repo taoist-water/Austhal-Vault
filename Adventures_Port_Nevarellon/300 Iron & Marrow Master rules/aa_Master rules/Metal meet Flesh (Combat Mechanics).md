@@ -99,6 +99,8 @@ During a Characters activation it may move up to its base movement value [MV] an
 	- **Rummage the Pack:** Digging past armor and straps to retrieve a stowed item (such as a potion, a specialized tool, or a backup weapon) from **The Pack** inventory slots. Items in The Pack cannot be accessed mid-combat without taking this action.
     
 	- **Clear a Severe Condition:** Spending the precious seconds required to pat out the flames of the **Ablaze** condition, untangle themselves from a dropped net, or blindly wash acid from their visor.
+	
+	- **Catch Breath:** Flatly clear 2 Dissonant Stress. No check, no attribute tied to the amount — the whole turn already paid for it.
 
 - **The Reprieve (Faith Caster Action):** A Priest lays a burden down for a moment, mid-battle, and asks whatever's listening to ease up. This is the only in-combat route to clearing Locked Stress, and it consumes the Priest's Activation. It cannot touch Locked Stress paid for a Miracle that is currently **Flowing**, or committed to an Attuned item (per the Golden Rules, Iron Core).
 
