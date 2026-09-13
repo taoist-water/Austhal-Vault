@@ -62,7 +62,7 @@ High Fantasy heroes journey across brutal landscapes. In this system, the enviro
 
 - *The Mechanic:* When facing severe conditions (a blizzard, a scorching desert, freezing water), the GM calls for a Hazard Check—usually 2d6 + Survival to navigate it safely, or 2d6 + Athletics to physically endure it, against TN 8.
     
-- *The Cost of Failure:* Failing a Hazard check inflicts 1d6 Locked Stress (or more, depending on severity).
+- *The Cost of Failure:* Failing a Hazard check inflicts 1d3 Locked Stress (or more, depending on severity).
     
 - *The Death Spiral:* if a character's Stress limit is maxed out by a Hazard, any further Stress instantly converts into Wounds. This means a character can literally freeze to death or die of exhaustion without ever taking a sword swing.
 _______________________________________________________________________

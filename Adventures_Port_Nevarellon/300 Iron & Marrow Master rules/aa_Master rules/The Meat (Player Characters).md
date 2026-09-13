@@ -88,10 +88,10 @@ Tithe of Will 2d6+3 | Strike (Mace) 2d6+1, Impact = Margin+2 | Block 2d6+1 (mode
 
 - **Flicker-Step** *(Paradigm, Mastery-eligible)* — Unopposed vs. TN 8, Self, 30ft teleport, ignores Threat Zones entirely. Margin 0–2: teleports, but arrives gasping — 1 Dissonant Stress. Margin 3–4: silent and flawless. Margin 5+: also generates 1 Momentum or grants Advantage on his next Strike.
 
-- **Illusion** *(Common, not Mastery-eligible)* — Unopposed vs. TN 8, 10ft area, Short Range, Activation, Scene. Anyone inspecting it rolls Notice vs. his casting Margin to see through it. Margin 0–2: forms, 1 Dissonant Stress. Margin 3–4: no cost. Margin 5+: "True" — includes scent, resists touch, can't be seen through except by physically disrupting it.
+- **Havoc** *(Common, not Mastery-eligible)* — Arcane Clash vs. each target's Prowess + Athletics/Acrobatics, 10ft radius, Short Range, Aggressor. Margin 1–2: target pushed 5ft and takes 1 Dissonant Stress; he also takes 1 Dissonant Stress from the strain. Margin 3+ (Clean): target pushed 10ft, knocked Prone, and takes 1 Dissonant Stress.
 
 ### Combat Math Quick-Ref
-Arcane Clash/Manifestation 2d6+3 | Dagger Strike 2d6+0 *(Melee 0; Finesse lets him reroll a natural 1)* | Dodge 2d6+1 | Notice 2d6+1 | Activation Order 7
+Arcane Clash/Manifestation 2d6+3 (incl. Havoc) | Dagger Strike 2d6+0 *(Melee 0; Finesse lets him reroll a natural 1)* | Dodge 2d6+1 | Notice 2d6+1 | Activation Order 7
 
 ---
 
