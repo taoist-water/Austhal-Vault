@@ -498,14 +498,14 @@ ______________________________________________________________________
     
 - Mechanic: When you roll a Desperate Edge on an environmental Hazard Check, you generate 1 Momentum. You may immediately spend this Momentum to allow an adjacent ally who failed their check to retroactively pass, saving them from the Locked Stress penalty.
 
-**Psychological Fracture**
+**Psychological Fracture** 
 
 - Prerequisites: Will +2, Influence +2
     
-- You don't just win an argument; you dismantle their confidence. You may spen one momentum to do one of the following:
+- You don't just win an argument; you dismantle their confidence. You may spend one momentum to do one of the following:
 	- Isolate a Flaw: Exert psychological weight, forcing the NPC to take 2 Stress or immediately shift their social stance to one extreme.(e.g., To Hostile out of sheer panic, or Friendly out of awe) .
     
-	- Control the Room: Give an ally Advantage ($3d6$ Keep the highest 2) on a subsequent follow-up check (e.g., the face of the party terrifies the merchant, generating Momentum, which the thief immediately spends to get Advantage on picking the merchant's strongbox while he's distracted).
+	- Control the Room: Give an ally Advantage ($3d6$ Keep the highest 2) on a subsequent follow-up check (e.g., the face of the party terrifies the merchant, which the thief immediately gets Advantage on picking the merchant's strongbox while he's distracted).
 
 **Relentless Momentum**    
 
@@ -515,7 +515,7 @@ ______________________________________________________________________
     
 - Mechanic: You thrive on forward progression. Whenever you successfully inflict a Minor or Major Wound on an enemy, you instantly gain 1 Momentum.
 
-**Riposte**
+**Riposte** (dev note) maybe needs a word on weapon power in the riposte impact calc? (/dev note)
 
 - Prerequisites: Melee 2
     
@@ -537,7 +537,7 @@ ______________________________________________________________________
     
 - They only find what you want them to find.
     
-- Mechanic: Any NPC attempting an opposed Notice check to search your person for concealed weapons, lockpicks, or contraband automatically suffers Disadvantage. Furthermore, drawing these hidden items is a Free Action that does not provoke an engagement penalty.
+- Mechanic: Any NPC attempting an opposed Notice check to search your person for concealed weapons, lockpicks, or contraband automatically suffers Disadvantage. Furthermore, drawing these hidden items is a Free Action that does not provoke an engagement penalty. grants an additonal belt slot.
 
 **Surgical Cruelty**
 
@@ -547,7 +547,7 @@ ______________________________________________________________________
     
 - Mechanic: When calculating Impact after a successful Clash, if your Impact exactly equals the target's Wound Threshold (hitting the < Threshold or =< Threshold bracket with no overage), you inflict 2 Dissonant Stress to the target in addition to any physical Wounds.
 
-**Sweep**    
+**Sweep**    (dev note) this implies there is a standard method to apply impact to a single adjacent target. (/dev note)
 
 - Prerequisites: Brawn 1, Reflex 1, Melee 1
     
@@ -555,7 +555,7 @@ ______________________________________________________________________
     
 - Mechanic: When you win an Strike action with a Melee weapon against a group of enemies, you can spend 1 Momentum to apply your total Impact to two adjacent targets instead of just one.
 
-**The Chain**
+**The Chain** (dev note) does this over lap with the basic momentum spend to make an additional strike?(/dev note)
 
 - Prerequisites: Reflex +2, Melee +2 or Ranged +2
     
