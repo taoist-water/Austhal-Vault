@@ -50,7 +50,7 @@ _Hardware_ abstracts the party's shared consumables into the Community Die so no
 - **Ammunition** — arrows, bolts, sling stones, thrown weapons you don't bother retrieving.
 - **Light & Fuel** — torch stubs, lantern oil, flint-and-steel strikes, tindertwigs.
 - **Field Rations & Water** — trail rations, waterskin refills.
-- **Field Medicine** — the bandages and clean linen that make a Breather actually work. This is why a Depleted die specifically blocks Breathers from clearing Dissonant Stress — there's nothing left to bind the wounds with.
+- **Field Medicine** — the bandages and clean linen that make a Breather or a Long Rest actually work (see Iron Core). This is why a Depleted die specifically blocks a Breather or a Long Rest from clearing Stress — there's nothing left to bind the wounds with.
 
 **The dividing line:** if it's _used up in the doing_ — an arrow loosed, oil burnt, a ration eaten, a bandage wound around a cut — it's the Die's problem. If it _still exists and still works_ after you use it — a bow, a lantern, a crowbar, a coil of rope — it's a normal Slotted item, tracked individually.
 
@@ -78,6 +78,8 @@ Instead of tracking every torch, bandage, and arrow, the entire party relies on 
 1. The Breather: the party must roll the Supply Die at the exact end of a 30-minute Breather. This represents the bandages used, the rations eaten, and the torch fuel burned while resting.
     
 2. The Catastrophic Failure: If a player rolls a Natural 2 (Double 1s) while firing a ranged weapon or navigating a physical hazard, the GM can force a Supply Die roll as arrows shatter, bowstrings snap, or a pack falls into the mud.
+
+3. The Long Rest: the party rolls the Supply Die once at the conclusion of a Long Rest (see Iron Core) — the same single roll as a Breather, not scaled up for the extra length.
 
 ________________________________________________________________________
 # Quality

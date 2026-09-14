@@ -8,7 +8,7 @@ Tracking exact calendar days across a party with different ongoing Pursuits gets
 
 | Pursuit                                 | PP Cost |
 | ---------------------------------------- | ------- |
-| Acquisition (Restock/Purchase)           | 1 PP    |
+| Acquisition (Restock/Purchase/Sell, per transaction) | 1 PP    |
 | Tend to the Flesh (per Wound Slot cycle) | 1 PP    |
 | Hammer & Forge (per item)                | 1 PP    |
 | Religious Pursuit                       | 1 PP    |
@@ -24,6 +24,8 @@ Tracking exact calendar days across a party with different ongoing Pursuits gets
 - **A Season of Downtime (10+ PP):** Used sparingly — between story arcs, over a winter, during travel to a new region. The GM should treat this as an explicit pacing tool, not a default, since it lets characters stack multiple Commissions or fully clear Locked Stress and gear damage across the whole party.
 
 **The Rule:** Each character tracks their own PP budget independently — one character spending their whole budget on a Commission doesn't prevent another from running three small Pursuits in the same gap. This keeps downtime parallel rather than turn-based, matching how real "everyone goes off and does their own thing in town" play actually happens at the table.
+
+**Nightly Long Rests:** A Downtime period is, definitionally, a stretch of nights spent somewhere safe — so every night it covers includes a Long Rest (Iron Core), resolved automatically alongside whatever Pursuits that night's characters are running, with one exception: a night spent on Carousing doesn't include that night's Long Rest, since you can't sleep off Stress the same night you're spending it back up at the tavern — the Carousing table's own Stress results are its trade-off for skipping guaranteed recovery. Unlike a Long Rest taken mid-adventure, a Downtime night doesn't roll the Community Supply Die — that abstraction exists for dungeon and wilderness attrition, and Downtime's own Acquisition rules already cover ordinary town living. Over the length of a full visit this is what actually delivers the Locked-Stress clearing the Season-of-Downtime entry above already promises: a Single Night is one Long Rest (1 Locked Stress), a Full Week is up to seven, and a Season is enough nights to fully clear anyone's pool without needing a single Religious Pursuit roll — Religious Pursuit still wins on speed (Will score in one day instead of one point a night) and is the only thing that touches Encroachment at all, so it keeps its purpose even once nightly Long Rests are accounted for.
 
 **PP tracks attention, not the clock.** PP and the Time Cost listed under each Named Pursuit answer two different questions, and they are never reconciled against each other. **PP** measures how many discrete undertakings a character can commit real attention and dice to during a given Downtime period — an action-economy currency, exactly like Momentum is for combat. **Time Cost** is narrative flavor: it tells the table how a Pursuit is described unfolding in the fiction (a day hunched over a forge, three days of convalescence, a week waiting on a hired artisan), and it matters for *exclusivity* — some Pursuits explicitly lock out other activity while they run, the way Religious Pursuit already states no other Pursuit may be performed alongside it — not for calculating whether a Pursuit numerically "fits" inside a PP budget measured in days.
 
@@ -61,15 +63,16 @@ Not every Pursuit is available everywhere. A fishing hamlet has no master blacks
 ________________________________________________________________________
 
 ## 3.Settlement Reputation (The Demeanor Layer)
-(dev note) stance modifiers need to be applied to other pursuits that make sense, not just acquisition. such as modifiying the carousing roll(/dev note)
-This directly mirrors the existing NPC Stance system, scaled up from a single person to an entire settlement's general disposition toward the party. It exists specifically so Influence-based skills and feats have somewhere to matter outside of combat and individual NPC negotiation 
+This directly mirrors the existing NPC Stance system, scaled up from a single person to an entire settlement's general disposition toward the party. It exists specifically so Influence-based skills and feats have somewhere to matter outside of combat and individual NPC negotiation.
+
+Most Pursuits carry a rolled check, so Settlement Stance modifies them the same way it modifies Acquisition (see below). Carousing is the exception — it has no check to modify — so Stance instead shifts which d66 band its result falls in; see the Carousing entry for the exact mechanic.
 
 **The Four Settlement Stances:** Hostile, Unfriendly, Neutral, Friendly — identical states and identical shift rules to the NPC Stance System (Standard Success shifts one step, High Success shifts two steps, never jumping straight to the opposite pole), applied collectively to a settlement's general disposition.
 
-- **Hostile:** The party has actively wronged this settlement — botched a job, insulted the local lord, left a debt unpaid, or committed a crime that's become common knowledge. Acquisition checks suffer **-4**, Commission requests are refused outright regardless of payment, and most other Pursuits (Religious Pursuit at a shrine whose faction the party has angered) may be denied entirely at GM discretion. This is the settlement actively working against the party, not just distrusting them.
-- **Unfriendly:** The settlement is wary or has a poor opinion of the party — minor past friction, an unresolved rumor, simple distrust of outsiders — but isn't yet acting against them. Acquisition checks suffer **-2**. Most Pursuits remain available, just at worse terms; merchants quote higher prices, artisans are slower to commit to a Commission (requiring more PP to commission).
+- **Hostile:** The party has actively wronged this settlement — botched a job, insulted the local lord, left a debt unpaid, or committed a crime that's become common knowledge. Acquisition checks suffer **-4**, Commission requests are refused outright regardless of payment, and most other Pursuits (Religious Pursuit at a shrine whose faction the party has angered) may be denied entirely at GM discretion. This is the settlement actively working against the party, not just distrusting them. Carousing isn't denied outright — even a Hostile settlement usually still has a tavern — but its d66 result shifts two bands worse.
+- **Unfriendly:** The settlement is wary or has a poor opinion of the party — minor past friction, an unresolved rumor, simple distrust of outsiders — but isn't yet acting against them. Acquisition checks suffer **-2**. Most Pursuits remain available, just at worse terms; merchants quote higher prices, artisans are slower to commit to a Commission (+1 PP to commission — 4 PP total instead of 3). Carousing's d66 result shifts one band worse.
 - **Neutral:** The default starting state for any settlement the party hasn't meaningfully interacted with yet. No modifier — this is the baseline the Settlement Tier modifiers above are written against.
-- **Friendly:** The party has earned genuine goodwill — cleared a local threat, donated generously, performed a public service. Acquisition checks gain **+2** (stacking with Tier modifiers — a Friendly City offers a generous **+4** total), and Massive Successes become more frequent in practice simply because the combined modifier pushes more rolls past the Margin 5 threshold.
+- **Friendly:** The party has earned genuine goodwill — cleared a local threat, donated generously, performed a public service. Acquisition checks gain **+2** (stacking with Tier modifiers — a Friendly City offers a generous **+4** total), and Massive Successes become more frequent in practice simply because the combined modifier pushes more rolls past the Margin 5 threshold. Carousing's d66 result shifts one band better for the same reason.
 
 **Changing a Settlement's Stance:** Unlike an individual NPC, a settlement's stance shouldn't flip on a single Influence roll — it represents the aggregated opinion of dozens or hundreds of people, and should move the way reputation actually moves: slowly, and mostly through action rather than conversation.
 
@@ -95,7 +98,7 @@ ___________________________________________________________________
 
 Downtime uses the same Margin-driven logic as everything else in the system, scaled to a slower clock. Rather than resolving in seconds, a Downtime Pursuit resolves across hours, days, or weeks — but the dice still tell you how well it went.
 
-- **The Mechanic:** When a character undertakes a named Downtime Pursuit , they make the check listed for that Pursuit (almost always an unopposed roll against TN 8, exactly like the Margin of Manifestation used elsewhere in the system).
+- **The Mechanic:** When a character undertakes a named Downtime Pursuit , they make the check listed for that Pursuit (almost always an unopposed roll against TN 8, using the same 2d6-vs-TN math as the Margin of Manifestation used elsewhere in the system — collapsed here to two outcome bands instead of combat's four, since a Pursuit measured in days doesn't need Messy Success's mid-margin complication texture).
     
 - **Failure (<8):** The Pursuit does not complete this cycle. Time is lost — the character must spend the full duration again before attempting it a second time (this is what makes failure costly even without inflicting Stress or harm: it's a tempo loss, not a damage source).
     
@@ -104,23 +107,25 @@ Downtime uses the same Margin-driven logic as everything else in the system, sca
 - **Massive Success (Margin 5+):** The Pursuit completes, and the character generates **1 Progress Momentum.**
     
 
-**Progress Momentum** is a downtime-specific currency, mechanically separate from combat Momentum (it cannot be spent on Aggressor/Reactor maneuvers, and combat Momentum cannot be spent on downtime). It exists specifically to fuel Field Medic and the general spend options below, and represents banked competence: a particularly good week in town that can be cashed in to skip a roll or accelerate a later Pursuit. Unless a feat says otherwise, Progress Momentum does not expire at the end of a Downtime period, but most GMs will want to cap how much a party can stockpile between dungeon crawls (a soft cap of 3–5, mirroring the combat Momentum bank, is a reasonable default).
+**Progress Momentum** is a downtime-specific currency, mechanically separate from combat Momentum (it cannot be spent on Aggressor/Reactor maneuvers, and combat Momentum cannot be spent on downtime). It exists specifically to fuel Field Medic and the general spend options below, and represents a hot streak within this visit: a run of good luck or skill that can be cashed in immediately to skip a roll or accelerate another Pursuit before the party moves on. Unless a feat says otherwise, unspent Progress Momentum is lost at the end of the Downtime period — it does not carry over to the next visit or the next adventure.
 
 **Spending Progress Momentum:** Like its combat counterpart, Progress Momentum is never spent to add a flat bonus to a roll — it's spent to break one of the three rules this document just spent Section 1 establishing: PP cost, Time Cost, and the Failure tempo-loss penalty above. Same three-tier shape as the combat Momentum spend list, translated to downtime's own rules instead of combat's.
 
 *Cost 1 — Quick Fixes*
 - **No Wasted Motion:** Immediately after a Pursuit fails, spend 1 Progress Momentum to retry it this same visit without paying its Time Cost a second time. The PP already spent on the failed attempt isn't refunded — this only removes the tempo tax described above.
 - **Second Round:** Spend 1 Progress Momentum to reroll a just-rolled Carousing result, taking the new roll instead. Once triggered, the second result stands even if it's worse — a gamble, not a guaranteed upgrade.
+- **Guaranteed Transfer:** Immediately after failing a different-branch Finance Bank withdrawal, spend 1 Progress Momentum to upgrade the result to a Standard Success — the courier route or partner bank still took a hit somewhere, but the character's own standing with this specific broker absorbs it instead of their coin, and the full amount arrives after all.
 
 *Cost 2 — Breaking the Ledger*
 - **Field Medic** (see below) already spends Progress Momentum at this tier — it's the existing example this tier is built around.
 - **Called In a Favor:** Spend 2 Progress Momentum to bypass a Settlement Reputation penalty for one Pursuit attempt this visit — a Hostile settlement's outright refusal, or an Unfriendly settlement's -2, doesn't apply to this one check. The settlement's actual stance (Section 3) doesn't move; some existing contact or leverage just made this one specific ask land anyway.
+- **Word Gets Around:** Spend 2 Progress Momentum to let one Acquisition check this visit ignore the settlement's Tier-based Availability ceiling (Section 2) — a Hamlet's hard gate on Scarce+, or a Town's cap below Rare, doesn't apply to this one purchase. Someone here knows someone who has what you need, regardless of what the settlement normally stocks. This doesn't touch Selling's Liquidity Cap — a small settlement still can't physically pay out more than its own ceiling for something you're selling, no matter who's asking.
 
 *Cost 3 — The Ultimatums*
-- **Rush Job:** Spend 3 Progress Momentum to compress a Commission's week-long Time Cost down to done-by-tomorrow. The 3 PP cost and Masterwork output don't change — only the fictional clock does, the same way Section 1 already established Time Cost as narrative framing rather than a hard budget constraint.
+- **Rush Job:** Spend 3 Progress Momentum on a Commission to reduce its PP cost by 2, to a minimum of 1 PP — the extra coin buys the artisan's own apprentices and contacts, sparing the party the legwork a Commission normally costs. (This replaces an earlier version that compressed the week-long Time Cost instead; per Section 1, Time Cost never gated anything to begin with, so that reward was cosmetic.)
 
 ________________________________________________________________________
-(dev note) going to have to put a line in here regarding stress gain and clearing. maybe a sequence structure. so that any gained stress, regardless of type, is carried over into the next adventure if its not cleared before spending all pursuit points. gaining things like dissonant stress during down time need to mean something. (/dev note)
+**Stress gained during Downtime** (a Rough Night on the Carousing table, an ambient hazard, a failed Religious Pursuit's silence) sits on the same track as everything else — it's not a separate ledger. Nightly Long Rests (above) clear it the same way they clear anything carried in from the last adventure: Dissonant fully, Locked by 1 per night. Whatever's left when the party's PP runs out, or when the visit ends, simply travels into the next adventure at whatever value it's at — Downtime was never a guaranteed full wipe, just a much better rate of recovery than the field offers.
 ## The Named Pursuits
 
 Each entry below formalizes a Pursuit already referenced elsewhere in the rules. Where a feat or item already specifies a detail (a time cost, a bonus, an output), that detail is preserved exactly — this section is filling the gaps around existing text, not overwriting it.
@@ -133,6 +138,7 @@ Each entry below formalizes a Pursuit already referenced elsewhere in the rules.
 - **Time Cost:** 1 night.
 - **The Check:** None. Carousing doesn't ask you to be good at anything — pay the 1 PP and roll d66 (roll two distinct d6s; the first is the tens digit, the second is the ones digit) directly against the table below.
 - **Output:** Whatever the table says. No Standard/Massive/Failure split — the d66 result *is* the resolution, all 36 outcomes equally likely.
+- **Settlement Stance:** Applies to which band the result falls in, not to the roll itself. Shift the tens digit by the settlement's Stance (Section 3) — Hostile: −2 bands, Unfriendly: −1, Friendly: +1 — then keep the ones digit as rolled; clamp at 1x (worst) or 6x (best), never wrapping. Example: a 23 rolled in a Hostile settlement resolves as 13; a 34 rolled in a Friendly settlement resolves as 44.
 
 **The Carousing Table (d66):**
 
@@ -188,7 +194,7 @@ Each entry below formalizes a Pursuit already referenced elsewhere in the rules.
 
 **What it solves:** Per Hardware's Slot rules, loose coin becomes a real carrying cost once it stacks up (100 coins = 1 Slot). Finance Bank exists so a party doesn't have to choose between a pack full of silver and converting every last coin into gear the moment they earn it.
 
-**Scope:** Finance Bank holds currency (cp/sp/gs) only — it is not a general storage locker for physical loot. An item has to be sold for coin before it can be deposited. (Note: that sale itself isn't a defined mechanic yet — Acquisition currently covers buying and restocking, not selling. Separate gap, flagged for later, not solved here.)
+**Scope:** Finance Bank holds currency (cp/sp/gs) only — it is not a general storage locker for physical loot. An item has to be sold for coin before it can be deposited, via the Selling procedure now defined under Acquisition below.
 
 **Deposit, or Withdrawal at the same branch it was deposited to:**
 - **Time Cost:** Half a day.
@@ -230,7 +236,7 @@ Each entry below formalizes a Pursuit already referenced elsewhere in the rules.
 - **The Base Rule:** A character heals 1 Wound Slot for every 3 days of dedicated rest and care, regardless of whether a Tend to the Flesh check is made. This is the passive floor — healing happens eventually even with no one rolling dice.
 - **The Check (to accelerate or improve the outcome):** Medicine vs. TN 8. A character providing care to themselves or an ally may roll once per 3-day cycle.
 - **Standard Success:** No change to the timeline, but the patient does not suffer the minor Stress tick from a poorly-tended wound (GM's call whether this applies in your table's fiction — e.g., infection risk, festering).
-- **Massive Success:** The 3-day healing cycle is reduced to 2 days for that Wound Slot, and the caregiver banks 1 Progress Momentum.
+- **Massive Success:** The character (or caregiver, if treating an ally) may immediately make one additional Tend to the Flesh check against a different Wound Slot this visit, at no further PP cost — the same steady hand that handled the first injury cleanly moves straight to the next. This bonus check cannot itself trigger a further bonus check.
 - **Equipment Interaction:** A Field Surgeon's Kit grants a flat +2 to this check, as already specified in Hardware. It holds 6 uses before requiring restocking (see Acquisition, a separate gap worth addressing later).
 
 ### Field Medic
@@ -247,8 +253,8 @@ This Pursuit does not exist independently — it is unlocked by a specific feat 
 - **Massive Success:** Clears all of the Priest's Locked Stress and all of their Encroachment, and banks 1 Progress Momentum — a moment of genuine, total absolution.
 - **Failure:** No Stress is cleared, and the day is lost. Unlike a failed Hammer & Forge or Tend to the Flesh, a failed Religious Pursuit is worth narrating: the Priest reached for their faith and found only silence. This is a good spot for the GM to foreshadow consequences of past Borrowed Authority Fails — a Priest carrying Encroachment from failed Tithes brings that same silence into this roll, at GM discretion.
 
-### Acquisition (Restocking and Purchasing)
-*Replenishing limited-use kits and consumables, like the Field Surgeon's Kit's 6 uses — and the same procedure governing any new gear bought outright in town.*
+### Acquisition (Restocking, Purchasing, and Selling)
+*Replenishing limited-use kits and consumables, like the Field Surgeon's Kit's 6 uses — the same procedure governing any new gear bought outright in town — and now its mirror: turning loot into coin.*
 
 | Availability | Sourced from              | Price band | Logic                                               |
 | ------------ | ------------------------- | ---------- | --------------------------------------------------- |
@@ -258,11 +264,22 @@ This Pursuit does not exist independently — it is unlocked by a specific feat 
 | Legendary    | Capital, Commission-gated | GM-set     | One-of-a-kind, not a market good                    |
 Bands deliberately overlap — Availability tracks *how often the world stocks it*, price tracks *how good it is*. Same orthogonal relationship Quality tags (Shoddy/Balanced/Masterwork) already use.
 
+- **Scope:** One check resolves one transaction with a single merchant for a single kind of item — restocking one kit, buying any quantity of one item (a dozen torches, three doses of a poultice), or selling any quantity of one item you're carrying (all three of those Balanced daggers go in one check, one payout). A different item — a second kit, a different weapon, a separate sale — needs its own 1 PP check. This still matches Hammer & Forge and Tend to the Flesh's per-unit pricing where it actually applies (a broken sword and a cracked shield are still two separate repairs), it just doesn't punish a single restocking trip or a single sale of duplicate loot the way strict per-item pricing would.
 - **Time Cost:** Half a day, assuming the party is in a settlement of at least modest size.
 - **The Check:** Influence vs. TN 8 (haggling, calling in favors, knowing the right back-alley supplier) or Survival vs. TN 8 if restocking from the wild rather than a market (foraging replacement herbs, harvesting more thread from a hunted beast).
 - **Standard Success:** The item or kit is restocked, or the new item is purchased, at standard listed price.
 - **Massive Success:** Restocked or purchased at a 25% discount, and the character banks 1 Progress Momentum.
 - **Failure:** The settlement simply doesn't have what's needed this visit — no harm done, but the party must look elsewhere or wait.
+
+**Selling**
+*Turning loot into coin — the other half of this procedure.*
+
+- **The Check:** Influence vs. TN 8, using the same Settlement Tier and Reputation modifiers as buying (Section 2 and Section 3) — a deep market gives leverage shopping a sale around, same as it gives leverage shopping a purchase around.
+- **Base Payout:** 50% of the item's full price, calculated after any Quality tag (Shoddy/Balanced/Masterwork) and Enchantment cost modifiers — the item sells for what it actually is, not its base-tier price.
+- **Standard Success:** The item sells at the 50% base rate.
+- **Massive Success:** The item sells at 65% instead of 50%, and the character banks 1 Progress Momentum.
+- **Failure:** No buyer at an acceptable price this visit — the same tempo loss as any other failed Acquisition, not a Stress or harm source.
+- **The Liquidity Cap:** A settlement cannot pay out more per sale than the top of its own Tier's price band in the Availability table above (Hamlet: 25 sp, Town: 50 sp, City: 200 sp, Capital: GM-set), regardless of the roll. A village blacksmith doesn't have 200 sp sitting in a drawer for a Rare blade no matter how the haggling goes — sell for the local ceiling, or carry it to a bigger settlement.
 
 **Replenishing the Community Die:**
 
@@ -291,6 +308,6 @@ ________________________________________________________________________
 | Tend to the Flesh              | 3 days/Wound (base rate) | Medicine vs TN 8 to improve | Heals 1 Wound Slot |
 | Field Medic                    | 10 minutes | Feat-gated, spends Progress Momentum | Heals 1 Wound Slot at a Stress cost |
 | Religious Pursuit             | 1 day | Tithe of Will (2d6 + Faith) vs TN 8 | Clears Locked Stress |
-| Acquisition (Restock/Purchase) | Half a day | Influence or Survival vs TN 8 | Restocks a kit, or completes a new purchase — subject to a Slot Check |
+| Acquisition (Restock/Purchase/Sell, per transaction) | Half a day | Influence or Survival vs TN 8 (Influence only when selling) | Restocks/purchases at listed price, or sells at 50% (65% Massive Success) — Slot Check when buying, Liquidity Cap when selling |
 | Finance Bank (different-branch withdrawal) | Half a day | Influence vs TN 8 (auto if same-branch or depositing) | Full withdrawal; 20% short on Failure |
 | Carousing                       | 1 night | None — roll d66 directly | Varies (see Carousing Table) |

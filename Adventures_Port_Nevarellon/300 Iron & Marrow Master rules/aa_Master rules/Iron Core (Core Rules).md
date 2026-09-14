@@ -168,7 +168,7 @@ Stress is strictly divided into two types, which affect the character's capabili
 
 - **Dissonant Stress:** This represents immediate panic, physical pain, fumbles, or sudden exhaustion. It simulates a character losing their edge as they are battered and terrified. It can be cleared relatively quickly by spending Momentum, taking a The Breather, or using consumable items.
     
-- **Locked Stress:** This represents sustained mental and physiological burdens: the cost a Priest pays to borrow authority, the weight of an Attuned item, an Arcanist's deliberate Overcharge, suffering through specific negative conditions, or enduring harsh environmental hazards. Crucially, Locked Stress ***does not*** apply the negative -1 penalty to your dice rolls. However, it fills up your Stress Limit and is much harder to clear, requiring a specific action like the Reprieve, a full night's rest, or specific Downtime Endeavours.
+- **Locked Stress:** This represents sustained mental and physiological burdens: the cost a Priest pays to borrow authority, the weight of an Attuned item, an Arcanist's deliberate Overcharge, suffering through specific negative conditions, or enduring harsh environmental hazards. Crucially, Locked Stress ***does not*** apply the negative -1 penalty to your dice rolls. However, it fills up your Stress Limit and is much harder to clear, requiring a specific action like the Reprieve, a Long Rest, or specific Downtime Endeavours.
 
 	*Note the division of currencies: an Arcanist's ordinary casting bleeds **Dissonant** Stress — botched manifestations, Messy margins, failed Sustain checks. Locked Stress is the Priest's bill, and reaches an Arcanist only through Overcharge, Attunement, conditions, and the environment.*
     
@@ -274,9 +274,13 @@ _______________________________________________________________________
 - The Limitation: A Breather cannot heal physical Wounds, and it cannot clear Locked Stress.
 - At The conclusion of a Breather the party rolls their Community Supply Die (if they have one), if a 1 or 2 is rolled, the die reduces one category. on a 3+ all is ok. 
 
-# Long Rest:
+# Long Rest
 
-a period of downtime, lasting at least typically 8 hours, during which a character does nothing more strenuous than eating, drinking, uninterrupted sleeping. Depending on the Narrative the GM can allow 1 contextually relevant Pursuit.
+A period of secure, undisturbed rest — a night at an inn, a fortified wilderness campsite, anywhere the GM narrates as safe — lasting at least 8 hours, during which a character does nothing more strenuous than eating, drinking, and uninterrupted sleeping. A Long Rest is separate from a Downtime period (see *Soothing the Soul*, Section 1): it needs no PP Budget or Settlement Tier, and can happen mid-adventure between combats, not just in town.
+
+- **Effect:** Clears all accumulated Dissonant Stress, and 1 point of Locked Stress. No check is required.
+- **Limitation:** This is the only non-Faith route to clearing any Locked Stress at all — it's deliberately modest (Religious Pursuit's own guaranteed floor is Will score, minimum 1, and scales upward), so a Long Rest never outperforms a successful Tithe of Will, only guarantees a small amount to everyone regardless of Faith.
+- **Supplies:** At the conclusion of a Long Rest, the party rolls their Community Supply Die exactly once (per Hardware) — the same single roll as a Breather, covering the whole night's consumption rather than scaling with its extra length. If the Die is Depleted, this Long Rest's Stress-clearing effect doesn't happen at all: no clean bandages, no hot food, no real rest either.
 
 ________________________________________________________________________
 # The Conditions System
@@ -294,7 +298,7 @@ ________________________________________________________________________
     
 -  *Bleeding:* At the beginning of each of your activations can spend a Momentum to “stem the wound”, or make an Athletics check. Succeed Lose the Bleeding condition. Fail, lose a wound.
     
-- *Fatigued:* Gain 1 Locked Stress. If a circumstance causes an additional instance of this condition, gain another locked Stress. If at the stress limit, no more locked stress can be assigned. This condition can only be cleared by a full night's rest or magical Restoration.
+- *Fatigued:* Gain 1 Locked Stress. If a circumstance causes an additional instance of this condition, gain another locked Stress. If at the stress limit, no more locked stress can be assigned. This condition can only be cleared by a Long Rest or magical Restoration.
     
 - *Terrified:* Your mind is clouded by panic. 1 stress is locked. You cannot spend Momentum for any reason. You must spend your turn running away from the object/being causing the Terror, fleeing until you can hide, or break the complete line of sight. When out of sight or hidden from the object/entity you can take a Resolve check to shake the condition.
     
