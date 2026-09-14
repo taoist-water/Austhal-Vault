@@ -103,7 +103,7 @@ To make "Cast Spell" a valid Reactor Action, you need a specific category of spe
     
     
 
-**The Channelling Rule** Certain powerful, ongoing spells and Miracles (like _Wildfire Proliferation_ or _Litany of Nails_) carry an ongoing duration. Arcane spells call this **Sustain**; Faith Miracles call it **Flowing**. A caster can only maintain one such effect at a time, regardless of which system it comes from.
+**The Channelling Rule** Certain powerful, ongoing spells and Miracles (like _Wildfire Proliferation_ or _Sanctuary_) carry an ongoing duration. Arcane spells call this **Sustain**; Faith Miracles call it **Flowing**. A caster can only maintain one such effect at a time, regardless of which system it comes from. *(Correction: this previously cited "Litany of Nails" as the Flowing example — that's the Zealot's Tier 2 Archetype Feat name from The Marrow, not a Miracle, and it isn't listed in any Domain.)*
 
 **Neither Sustain nor Flowing costs Locked Stress.** An Arcanist pays for concentration in Dissonant Stress, rolled for turn by turn; a Priest has already paid their Locked Stress at the moment of casting and owes nothing further. Locked Stress is not the currency of holding a spell open in either system.
 

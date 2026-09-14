@@ -61,7 +61,7 @@ Not every Pursuit is available everywhere. A fishing hamlet has no master blacks
 ________________________________________________________________________
 
 ## 3.Settlement Reputation (The Demeanor Layer)
-
+(dev note) stance modifiers need to be applied to other pursuits that make sense, not just acquisition. such as modifiying the carousing roll(/dev note)
 This directly mirrors the existing NPC Stance system, scaled up from a single person to an entire settlement's general disposition toward the party. It exists specifically so Influence-based skills and feats have somewhere to matter outside of combat and individual NPC negotiation 
 
 **The Four Settlement Stances:** Hostile, Unfriendly, Neutral, Friendly — identical states and identical shift rules to the NPC Stance System (Standard Success shifts one step, High Success shifts two steps, never jumping straight to the opposite pole), applied collectively to a settlement's general disposition.
@@ -279,10 +279,6 @@ Resolved as a single Half-day Acquisition action (Influence or Survival vs. TN 8
 **The Slot Check (New):** A successful Acquisition only completes the purchase — it does not grant a character extra room to carry the result. The moment an item changes hands, the buyer must immediately have an open Slot to receive it (per Hardware's Visual Slot System), exactly as if they'd looted it from a dungeon. If they don't, the purchase still happens (their coin is spent, the item is theirs), but the item is left with the merchant, a hired porter, or back at the inn until the character frees up the room to carry it — buying it doesn't conjure pack space out of nowhere. This is the same logic already governing battlefield looting; town shopping shouldn't get a quieter exemption from the rule just because it's peaceful.
 
 **Why this matters in town specifically:** Dungeon looting is naturally self-limiting — a character drowning in treasure usually also has fresh Wounds eating their Slots (per the Attrition Tax), so the system already polices itself in the field. A trip to town has no such friction: nothing stops a fully-healed character from trying to walk out with a Tower Shield, a Longbow, and six potions in a single shopping spree. The Slot Check above exists specifically to close that loophole — town shopping should still cost something other than coin.
-
-________________________________________________________________________
-
-(dev note) seems light on where to SPEND progress momentum(/dev note)
 
 ________________________________________________________________________
 
