@@ -621,7 +621,7 @@ ______________________________________________________________________
     
 - Mechanic: You have spent thousands of hours perfecting edge alignment and footwork. Choose a weapon class e.g. Blades, Bludgeons, axes, etc. You gain permanent Advantage on Clash rolls when wielding weapons of this class.
 
-**Break Morale**(dev note) this needs some reworking(/dev note)
+**Break Morale**(dev note) this needs some reworking. no modifier to the roll. Maybe after a successfully killing a Grunt tier and above enemy, causes terror checks in grunt tier and below, fear for elites?(/dev note)
 
 - Prerequisites: Influence +3
     
@@ -643,7 +643,7 @@ ______________________________________________________________________
     
 > Birth, suffering, and a rusty blade.
     
-- Mechanic: When your Wounds slots are full, but before you take anymore wounds, you enter a state of lethal, detached focus. Your Desperate Edge triggers on natural 5s as well as 6s for all Clash rolls. However, rolling a Fumble in this state results in immediate death rather than 1 Stress.
+- Mechanic: When your Wounds slots are full, but before you take anymore wounds, you enter a state of lethal, detached focus. Your Desperate Edge triggers on natural 5s as well as 6s for all Clash rolls. However, rolling a Fumble in this state results in immediate incapacitation rather than 1 Stress.
 
 **Flesh Weaver**
 
