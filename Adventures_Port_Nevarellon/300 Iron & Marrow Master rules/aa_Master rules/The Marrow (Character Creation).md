@@ -577,7 +577,7 @@ ______________________________________________________________________
     
 - You don't fight fair; you throw sand, strike groins, and exploit blind spots.
     
-- Mechanic: When you win a Clash with a Light Weapon or Unarmed strike, you may spend 1 Momentum to forego calculating Impact. Instead, the target takes 1 dissonant Stress and is permanently at Disadvantage on their next roll as they stumble or wipe blood from their eyes.
+- Mechanic: When you win a Clash with a concealable or Unarmed strike, you may spend 1 Momentum to forego calculating Impact. Instead, the target takes 1 dissonant Stress and is permanently at Disadvantage on their next roll as they stumble or wipe blood from their eyes.
 
 **The Vanguard / Shield Brother**    
 
@@ -593,7 +593,7 @@ ______________________________________________________________________
     
 - You can reach out and unravel the magic of others.
     
-- Mechanic: When an enemy within 30 feet attempts to cast an Arcana or Faith spell (even if you are not the target), you may spend 1 Momentum to unweave it. You roll an opposed Arcana check against their casting roll, and if you win, the spell is entirely shattered before it takes effect. If you win by a Margin of 5 or more, you also absorb the ambient magic, instantly restoring 1 Stress to yourself.
+- Mechanic: When an enemy within 30 feet attempts to cast an Arcana or Faith spell (even if you are not the target), you may spend 1 Momentum to unweave it. You roll an opposed Arcana check against their casting roll, and if you win, the spell is entirely shattered before it takes effect. If you win by a Margin of 5 or more, you also absorb the ambient magic, instantly restoring 1 dissonant Stress to yourself.
 
 **Zeal**    
 
