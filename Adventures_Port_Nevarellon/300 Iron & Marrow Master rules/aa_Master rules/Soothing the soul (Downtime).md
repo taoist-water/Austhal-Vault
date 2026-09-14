@@ -120,7 +120,7 @@ Downtime uses the same Margin-driven logic as everything else in the system, sca
 - **Rush Job:** Spend 3 Progress Momentum to compress a Commission's week-long Time Cost down to done-by-tomorrow. The 3 PP cost and Masterwork output don't change — only the fictional clock does, the same way Section 1 already established Time Cost as narrative framing rather than a hard budget constraint.
 
 ________________________________________________________________________
-
+(dev note) going to have to put a line in here regarding stress gain and clearing. maybe a sequence structure. so that any gained stress, regardless of type, is carried over into the next adventure if its not cleared before spending all pursuit points. gaining things like dissonant stress during down time need to mean something. (/dev note)
 ## The Named Pursuits
 
 Each entry below formalizes a Pursuit already referenced elsewhere in the rules. Where a feat or item already specifies a detail (a time cost, a bonus, an output), that detail is preserved exactly — this section is filling the gaps around existing text, not overwriting it.

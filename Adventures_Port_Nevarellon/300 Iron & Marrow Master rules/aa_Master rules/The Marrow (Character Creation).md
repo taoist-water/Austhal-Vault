@@ -318,9 +318,9 @@ ______________________________________________________________________
     
 - It smells awful, it burns terribly, but it stops the bleeding.
     
-- Mechanic: When performing a Medicine check to heal Wounds during a Short Rest, you can forage mundane mud, moss, and strong alcohol to substitute for proper medical supplies. Healing a Wound this way inflicts 1 Locked Stress on the patient due to the sheer agony, but restores the Wound Slot.
+- Mechanic: When performing a Medicine check to heal Wounds during a Breather, you can forage mundane mud, moss, and strong alcohol to substitute for proper medical supplies. Healing a Wound this way inflicts 1 Locked Stress on the patient due to the sheer agony, but restores the Wound Slot.
 
-**Gallows Humour**
+**Gallows Humour** (Dev note) this needs revision, current rules for The Breather state all dissonant stress is cleared. This functionally does nothing. see Iron core for breather rules (/dev note)
 
 - Prerequisites: Influence +1 or Resolve +1
     
@@ -368,7 +368,7 @@ ______________________________________________________________________
     
 - Mechanic: When you achieve a Massive Success (winning by 5+) on an exploration or scouting check. You gain 2 points of Momentum instead of the standard 1.
 
-**Scholarly Resonance**
+**Scholarly Resonance ** (dev note) this needs revision, written when arcane spell casters were using locked stresss as a part of spell casting.  this is an old rule and no longer the case. could still be used this way but the locked stress is coming from other sources that aren't directly spell casting, such as environmental hazards, attuned magic weapons, enemy effects, etc (/dev note)
 
 - Prerequisites: Arcana 2
     
@@ -434,7 +434,7 @@ ______________________________________________________________________
     
 - Mechanic: When examining a lock, mechanical trap, or structural weak point, you can spend 1 Momentum. If you do, you instantly deduce its precise mechanism, allowing you to automatically pass the Thievery check to bypass or disable it without rolling—completely eliminating the risk of a Fumble.
 
-**Combat Scholar**    
+**Combat Scholar**    (dev note) check the line here regarding blind casting, ensure it aligns with the blind casting rules (/dev note)
 
 - Prerequisites: Reflex +1, Arcana +2
     
@@ -442,7 +442,7 @@ ______________________________________________________________________
     
 - Mechanic: When you are forced into Blind Casting (casting with your Grimoire stowed, your hands full, or both — see The Casting Requirements, Embracing the Abyss), you still cast with Disadvantage and still pay the Dissonant Stress. However, you may reroll any natural 1s that appear in your dice pool. You must keep the second result.
 
-**Fevered Channelling**
+**Fevered Channelling** (dev note) check how this now interacts with faith channelling/flowing. the intent of this feat was to be able to apply this to both spell caster types. it doesn't seem to function that way, seems to favour arcane casters over faith now (/dev note)
 
 - Prerequisites: Desperate Edge (feat), Will +2, Arcana +2 or Faith +2
     
@@ -456,9 +456,9 @@ ______________________________________________________________________
     
 - Physics and leverage apply to monsters, too.
     
-- Mechanic: You may attempt to Grab or Shove creatures up to two sizes larger than you (e.g., Standard Scale vs. Huge Scale). Furthermore, you ignore the automatic 1 Stress penalty when attempting to Block an Attack from an enemy who is larger than you.
+- Mechanic: You may attempt to Grab or Shove creatures up to two sizes larger than you (e.g., Standard Scale vs. Huge Scale). Furthermore, you ignore the automatic 1 Stress penalty when attempting to defend an Attack from an enemy who is larger than you.
 
-**Iron Conviction** 
+**Iron Conviction**  (dev note) thinking of removing the "once per scene" line. a free take 2 stress instead of a wound is powerful, but i think it limits itself once the stress starts stacking up. additionally, I want to avoid arbitrary "can only do X once per time period" type effects. (/dev note)
 
 - Prerequisites: Will 2, Resolve 2
     
