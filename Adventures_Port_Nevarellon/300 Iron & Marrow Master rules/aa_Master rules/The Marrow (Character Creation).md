@@ -645,7 +645,7 @@ ______________________________________________________________________
     
 - Mechanic: When your Wounds slots are full, but before you take anymore wounds, you enter a state of lethal, detached focus. Your Desperate Edge triggers on natural 5s as well as 6s for all Clash rolls. However, rolling a Fumble in this state results in immediate incapacitation rather than 1 Stress.
 
-**Flesh Weaver**
+**Flesh Weaver ** (dev note) might need re doing as I am looking to tweak healing wounds during downtime. something like a tiered system where its 3 days without any intervention. stages of intervention reduce the time and volume of wounds recovered. (/dev note)
 
 - Prerequisites: Wits +3, Medicine +3
     
@@ -685,14 +685,15 @@ ______________________________________________________________________
     
 - Mechanic: You gain a 4th Wound slot, meaning you are only Incapacitated upon taking your 5th Wound. However, your body is so heavily damaged that any healing (whether magical or through mundane downtime activities) takes twice as long and requires double the normal resources.
 
-**Overchannel**    
+**Overchannel**    (dev note) I want to avoid these "-4 penalty" rules.  I am sure there is a better way to grant the effect without the clunk of a -4 to a roll. (/dev note)
 
 - Prerequisites: Arcana 3
     
 >You rip the fabric of the world apart, taking yourself with it.
     
 - Mechanic: You take a -4 penalty to the casting roll. If successful, the spell automatically gains a Margin of Success of 5 (Massive Impact), devastating the battlefield. However, you instantly take 1 physical Wound from the magical blowback.
-**Perfect Nullification**
+
+**Perfect Nullification** (dev note) this feels like a riposte?(/dev note)
 
 - Prerequisites: Reflex +3, Acrobatics +3
     
@@ -708,7 +709,7 @@ ______________________________________________________________________
     
 - Mechanic: When you inflict an Incapacitating Wound on a living, non- fodder enemy, the surge of adrenaline violently clears your system. You instantly recover 1 Wound Slot and reset your Stress to 0.
 
-**Sabotage**
+**Sabotage** (dev note) again I have the -4 to a roll in here, would it be so bad to remove that and maybe use momentum instead. as well as forgo the attack roll to do the ability? (/dev note)
 
 - Prerequisites: Thievery +3
     
@@ -724,7 +725,7 @@ ______________________________________________________________________
     
 - Mechanic: If you win an opposed Influence vs. Resolve check against a standard NPC (Fodder or Grunt level) by a Margin of 3+, their mind fractures. Instead of gaining Momentum, you permanently break them. They will act as an indentured servant, informant, or terrified zealot for your cause until they die, requiring no further Influence checks to command.
 
-**The Oracle’s Burden**
+**The Oracle’s Burden** (dev note) I like this. its something that doesn't revolve around combat and is engaging with the narrative. I want to sprinkle more of these kinds of interactions throughout the rule set. options that engage the narrative of a story rather than immediate mechanical interactions (/dev note)
 
 - Prerequisites: Wits +3, Insight +3
     
@@ -740,7 +741,7 @@ ______________________________________________________________________
     
 - Mechanic: When fighting creatures of a larger Scale, your precision bypasses their natural resilience. If your Clash roll includes a natural 6 (triggering a Desperate Edge) against a larger creature, their Wound Threshold scale bonus (+2 for Large, +4 for Huge, etc.) is completely ignored during the Impact calculation of that specific attack.
 
-**Vital Strike**    
+**Vital Strike**    (dev note)in contradiction to other dev notes, maybe its worth leaving this dice roll penalty. the reward seems incredibly powerful (/dev note)
 
 - Prerequisites:  Melee 3
     
@@ -778,7 +779,7 @@ ______________________________________________________________________
 - Prerequisites: Brawn +2, Resolve +2
     
 - Pain is just a targeting mechanism.
-    
+    (dev note) it might be worthwhile making a solid rule regarding how often momentum can be spent in a turn (/dev note)
 - Mechanic: If you suffer a Minor or Major Wound from a melee attack, your nervous system rejects the shock. You may immediately spend 1 Momentum to perform a brutal, retaliatory Strike action against them. This occurs instantly before the Engagement ends and before you suffer any associated Stress penalties.
     
 **Apex Butcher (Tier 3)**    
@@ -807,7 +808,7 @@ ______________________________________________________________________
     
 - You forcefully rewrite your own anatomy to survive.
     
-- Mechanic: During combat, you may inflict 1 Dissonant Stress upon yourself as a Free Action to violently warp your bones and musculature. You gain one Monster Entity Tag (such as Regeneration, Corrosive Form, or shifting your Scale up by +1) until the end of the scene. However, if you roll a Fumble while in this state, the transformation destabilizes, resulting in a permanent, gruesome physiological penalty (GM's discretion).
+- Mechanic: During combat, you may inflict 1 Dissonant Stress upon yourself as a Free Action to violently warp your bones and musculature. You gain one Monster Entity Tag (such as Regeneration, Corrosive Form, or shifting your Scale up by +1) until the end of the scene. However, if you roll a Fumble while in this state, the transformation destabilizes, resulting in a permanent, gruesome physiological penalty (GM's discretion). (dev note) I need to develop things like permanent injuries/mutations/diseases (/dev note)
 
 **The Bravo (Duelist Archetype)**
 
@@ -819,7 +820,7 @@ Focused on surgical precision, arrogant mobility, and completely dismantling an 
     
 - Their greatest strike is just an opening for your blade.
     
-- Mechanic: When you act as the Reactor and successfully Parry an attack by a High margin (5+), you do not just calculate Impact. You may immediately spend 1 Momentum to inflict the Surprised condition on the Aggressor.
+- Mechanic: When you act as the Reactor and successfully Parry an attack by a High margin (5+). You may immediately spend 1 Momentum to inflict the Surprised condition on the Aggressor.
     
 
 **Death of a Thousand Cuts (Tier 3)**    
@@ -869,7 +870,7 @@ Focused on psychological warfare, weaponizing the Momentum of a crowd, and manip
     
 - You narrate their inevitable doom until their mind simply accepts it.
     
-- Mechanic: You may spend 2 Momentum to target one enemy within 30 feet who can hear and understand you. Instead of an Aggressor action, you roll an opposed Influence check against their Resolve. On a Massive Success (a Margin of 5+), you completely shatter their psychological fortitude to absorb kinetic trauma. Their Wound Threshold is permanently reduced by 2 for the remainder of the encounter.
+- Mechanic: You may spend 2 Momentum to target one enemy within 30 feet who can hear and understand you. Instead of an Aggressor action, you roll an opposed Influence check against their Resolve. On a Massive Success (a Margin of 5+), you completely shatter their psychological fortitude to absorb kinetic trauma. Their Wound Threshold is permanently reduced by 2 for the remainder of the scene.
 
 
 **The Inquisitor (Paladin Archetype)**
@@ -932,7 +933,7 @@ Focused on isolation, predatory tracking, and ruling the fringes of the battlefi
     
 >You are the apex organism of the wasteland.
     
-- Mechanic: When an enemy attempts to leave your Threat Zone and provokes a Free Attack action from you, your strike is devastatingly precise. You automatically roll the Clash with Advantage, and if you hit, the attack ignores 2 points of the target’s Wound Threshold.
+- Mechanic: When an enemy attempts to leave your Threat Zone and provokes a Free Attack action from you, your strike is devastatingly precise. You roll the Clash with Advantage, and if you hit, the attack ignores 2 points of the target’s Wound Threshold.
 
 **The Zealot (Priest/Cleric Archetype)**
 
@@ -968,7 +969,7 @@ ________________________________________________________________________
 
 - Mechanic: You gain access to the following Momentum spends:
 
-  - **The Patch Job:** Your armor or weapon just gained the Damaged tag, rendering it mechanically weak. Spend 1 Momentum to hurriedly bind it with leather straps, sap, or wire. You completely ignore the Damaged tag for the duration of the next scene. Once the fight ends, the gear breaks again.
+  - **The Patch Job:** Your armor or weapon just gained the Damaged tag, rendering it mechanically weak. Spend 1 Momentum to hurriedly bind it with leather straps, sap, or wire. You completely ignore the Damaged tag for the duration of the next scene. Once the scene ends, the gear breaks again.
 
   - **Shivs and Shrapnel:** Spend 1 Momentum to instantly fashion a crude, single-use Power 1 weapon (a glass shiv, a heavy bone club) or a rudimentary tool (a makeshift lockpick, a wedge for a door) from the immediate environment, without needing to roll for success.
 
@@ -980,11 +981,11 @@ ________________________________________________________________________
 
 - Mechanic: You gain access to the following Momentum spends:
 
-  - **Dungeon Chemistry:** You don't have a lab, but you have monster viscera, dungeon flora, and desperation. Spend 2 Momentum to quickly mash together a single-use tactical item — like a blinding powder, a highly localized acid vial to melt an iron lock, or a crude smoke bomb. When used, it perfectly mimics the effect of a Tier 1 environmental spell (like *Choking Vapor* or *Caustic Deluge*), allowing non-magic users to temporarily alter the battlefield.
+  - **Dungeon Chemistry:** You don't have a lab, but you have monster viscera, dungeon flora, and desperation. Spend 2 Momentum to quickly mash together a single-use tactical item — like a blinding powder, a highly localized acid vial to melt an iron lock, or a crude smoke bomb. When used, it perfectly mimics the effect of a Tier 1 environmental spell (like *Choking Vapor* or *Caustic Deluge*), allowing non-magic users to temporarily alter the battlefield. (dev note) these are arcane spell effects. will need to clarify/identify suitable effects to refer to (/dev note)
 
-  - **Savage Reinforcement:** Spend 2 Momentum to drive spikes, nails, or shattered glass into your shield or gauntlets. The next time you successfully Parry or Block an enemy's Strike, the enemy automatically suffers 1 Impact from striking the jagged metal. The reinforcement then breaks off.
+  - **Savage Reinforcement:** Spend 2 Momentum to drive spikes, nails, or shattered glass into your shield or gauntlets. The next time you successfully Parry or Block an enemy's Strike, the enemy automatically suffers 1 dissonant stress from striking the jagged metal. The reinforcement then breaks off.
 
-  - **Scavenge and Cannibalize:** Spend 2 Momentum after clearing a room to harvest meat from a beast, boil stagnant water, or pull unbroken arrows from corpses (using the Spit and Twine or Dungeon Chemistry logic above). This immediately steps the Community Supply Die back up by one tier (e.g., from a d4 back to a d6).
+  - **Scavenge and Cannibalize:** Spend 2 Momentum after clearing a room to harvest meat from a beast, boil stagnant water, or pull unbroken arrows from corpses (using the Spit and Twine or Dungeon Chemistry logic above). This immediately steps the Community Supply Die back up by one tier (e.g., from a d4 back to a d6). (dev note) maybe confirm this only functions during a breather. spendable before the "empty momentum banks" step (/dev note)
 
 **Tactical Engineering (Tier 3)**
 
@@ -996,7 +997,7 @@ ________________________________________________________________________
 
   - **The Kill-Box Barricade:** You only have minutes before the swarm arrives. Spend 3 Momentum to cannibalize the environment (pews, iron gates, rubble) to create a  booby-trapped choke point. The first enemy that attempts to cross the threshold automatically suffers a massive kinetic hit (e.g., 7 Impact) and gains the Anchored condition, without you ever having to roll a Strike.
 
-  - **Cannibalize Gear:** Instead of a temporary patch, you permanently repair a critical piece of gear. Spend 3 Momentum and destroy one piece of metal equipment (an enemy's dropped sword, a heavy iron pot) to permanently strip the Damaged tag from your primary weapon or armor mid-dungeon.
+  - **Cannibalize Gear:** Instead of a temporary patch, you permanently repair a critical piece of gear. Spend 3 Momentum and destroy one piece of equipment (an enemy's dropped sword, a heavy iron pot) to permanently strip the Damaged tag from your primary weapon or armor mid-dungeon.
 
 ________________________________________________________________________
 # Advancement

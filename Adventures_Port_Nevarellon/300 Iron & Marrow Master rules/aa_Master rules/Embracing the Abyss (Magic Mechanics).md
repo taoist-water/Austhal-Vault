@@ -176,7 +176,7 @@ A Miracle with an ongoing duration is said to be **Flowing** — the authority i
 
 
 ________________________________________________________________________
-# Example Spells
+# Example Spells (dev note) these examples are not folded into the arcane spell lists (/dev note)
 
 Here are four traditional environmental spells designed to integrate seamlessly into the Iron & Marrow chassis.
 
