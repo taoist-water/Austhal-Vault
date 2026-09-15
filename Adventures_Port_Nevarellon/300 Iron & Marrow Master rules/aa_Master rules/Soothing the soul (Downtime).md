@@ -144,8 +144,8 @@ Each entry below formalizes a Pursuit already referenced elsewhere in the rules.
 
 *1x — Rough Night*
 - **11:** Robbed blind in your sleep. Lose 1d6 sp from your purse, on top of anything you spent tonight.
-- **12:** A fight finds you whether you started it or not. Gain 1 Dissonant Stress, and word travels — Acquisition checks in this settlement suffer **-2** for the remainder of this visit.
-- **13:** You wake with a gap in your memory and a mark you don't recognize. Gain 1 Dissonant Stress. GM's call whether it becomes a hook later.
+- **12:** A fight finds you whether you started it or not. Gain 1 Locked Stress, and word travels — Acquisition checks in this settlement suffer **-2** for the remainder of this visit.
+- **13:** You wake with a gap in your memory and a mark you don't recognize. Gain 1 Locked Stress. GM's call whether it becomes a hook later.
 - **14:** You publicly insulted someone who mattered. If this settlement has a clear single authority figure, the GM may rule this a *failed* Single Roll Exception (Section 3), shifting the settlement's stance one step worse.
 - **15:** Wake up several sp lighter with no memory of why. Lose 2d6 sp.
 - **16:** Arrested for disturbing the peace. Spend 1 additional PP to buy your way out before dawn, or lose your next Pursuit this visit to a night in the cells — GM's call which fits the story better.
@@ -153,8 +153,8 @@ Each entry below formalizes a Pursuit already referenced elsewhere in the rules.
 *2x — Minor Trouble*
 - **21:** Lose a bet you don't remember making. Lose 1d6 sp.
 - **22:** Something you said is already being repeated around town. No mechanical effect — a pure GM hook, for better or worse.
-- **23:** Overserved, plain and simple. Gain 1 Dissonant Stress.
-- **24:** Picked a fight with the wrong local, and lost. Gain 1 Dissonant Stress; the taproom remembers your face.
+- **23:** Overserved, plain and simple. Gain 1 Locked Stress.
+- **24:** Picked a fight with the wrong local, and lost. Gain 1 Locked Stress; the taproom remembers your face.
 - **25:** Bought rounds for the whole room and meant it. Lose 1d4 sp, but you're a known face here now (flavor only — not a mechanical Reputation shift).
 - **26:** A scuffle broke something. Pay 1d4 sp to cover it, or skip the bill and let the GM apply the Unfriendly settlement's **-2** Acquisition modifier for this visit.
 
@@ -167,28 +167,28 @@ Each entry below formalizes a Pursuit already referenced elsewhere in the rules.
 - **36:** Split the night between two taverns without much to show for either. No effect.
 
 *4x — Solid Night*
-- **41:** Clear 1 Dissonant Stress.
+- **41:** Clear 1 Locked Stress.
 - **42:** Won back more than you spent. Gain 1d4 sp.
 - **43:** Made a useful new acquaintance — a narrative hook for a future Contact, GM's call.
-- **44:** Clear 1 Dissonant Stress, and pick up a piece of gossip worth following up on.
+- **44:** Clear 1 Locked Stress, and pick up a piece of gossip worth following up on.
 - **45:** A friendly local vouches for you in front of the room. If a clear single authority figure witnessed it, the GM may rule this a Single Roll Exception (Section 3) in the party's favor.
-- **46:** Clear 1 Dissonant Stress, and gain 1d4 sp back from a friendly wager.
+- **46:** Clear 1 Locked Stress, and gain 1d4 sp back from a friendly wager.
 
 *5x — Great Night*
-- **51:** Clear 2 Dissonant Stress.
+- **51:** Clear 2 Locked Stress.
 - **52:** A grateful local presses 1d6 sp into your hand on the way out.
 - **53:** You made a real friend in this settlement — GM's call whether this becomes a usable Contact later.
-- **54:** Clear 1 Dissonant Stress, and hear a lead on Rare-tier goods this settlement wouldn't normally stock (Section 2) — a narrative bypass on availability, not on price.
-- **55:** Clear 2 Dissonant Stress, and the room genuinely likes you. If a clear single authority figure was present, the GM may rule this a Single Roll Exception (Section 3), shifting the settlement's stance one step better.
+- **54:** Clear 1 Locked Stress, and hear a lead on Rare-tier goods this settlement wouldn't normally stock (Section 2) — a narrative bypass on availability, not on price.
+- **55:** Clear 2 Locked Stress, and the room genuinely likes you. If a clear single authority figure was present, the GM may rule this a Single Roll Exception (Section 3), shifting the settlement's stance one step better.
 - **56:** An old friend, rival, or contact recognizes you across the room — a strong narrative hook, GM's call on the shape it takes.
 
 *6x — Legendary Night*
-- **61:** Clear 2 Dissonant Stress, and walk off with 1d6 sp from an unclaimed pot at the gaming table.
-- **62:** You're the toast of the tavern tonight. Clear 2 Dissonant Stress and bank 1 Progress Momentum.
+- **61:** Clear 2 Locked Stress, and walk off with 1d6 sp from an unclaimed pot at the gaming table.
+- **62:** You're the toast of the tavern tonight. Clear 2 Locked Stress and bank 1 Progress Momentum.
 - **63:** A very good story is now attached to your name here. If witnessed by this settlement's authority figure, the GM may rule this a Single Roll Exception (Section 3) in the party's favor.
-- **64:** Clear 2 Dissonant Stress, and gain 1d6 sp from a game you probably shouldn't have won.
+- **64:** Clear 2 Locked Stress, and gain 1d6 sp from a game you probably shouldn't have won.
 - **65:** Someone with real influence in this settlement owes you a favor after tonight — a genuine narrative asset, GM's call how it pays off.
-- **66:** The best night the party's had in ages. Clear 3 Dissonant Stress, bank 1 Progress Momentum, and gain 1d6 sp from an admirer who wants the story to keep going.
+- **66:** The best night the party's had in ages. Clear 3 Locked Stress, bank 1 Progress Momentum, and gain 1d6 sp from an admirer who wants the story to keep going.
 ### Finance Bank
 *Store coin between adventures instead of hauling it, and draw on it again in any other settlement with a branch.*
 
