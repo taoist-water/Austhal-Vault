@@ -174,42 +174,60 @@ ___________________________________________________________________
 
 ## Fodder
 
-### The Goblin Scrapper (Fodder)
+### The Goblin Scrapper
 
-_Scrawny, twitchy, and desperate. They prefer to strike from the shadows and retreat the moment the tide of battle turns against them._
+> _Scrawny, twitchy, and desperate. They prefer to strike from the shadows and retreat the moment the tide of battle turns against them._
 
-- **Wound Threshold:** 5 _(Base 4 + 1 Leather)_ | **Wound Slots:** 1 | **Stress Limit:** 4
-    
-- **Skills:** Melee +0, Dodge +2. **Attributes (derived only):** Reflex 2 → Activation Order 8. _(Assumed Zero: Everything else. They are incredibly difficult to hit, but if they get caught, they fold immediately)._
-    
+#### Vital Statistics
+
+- **Tier:** Fodder
+- **Type:** Humanoid
+- **Attributes (derived only):** Reflex 2 → Activation Order 8 _(Assumed Zero: everything else — incredibly difficult to hit, but folds the moment it's caught.)_
+- **Skills:** Dodge +2.
+- **Derived stats:**
+    - Wound Threshold: **5** _(Base 4 + 1 Leather)_
+    - Wound Slots: **1**
+    - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Fodder)_
+- **Equipment:** Leather armor (+1 to Wound Threshold). Rusty Shortsword — Power 2, Sidearm, Finesse; Shoddy Quality (becomes Damaged on a failed or fumbled roll, Ruined if already Damaged). Strike Roll: 2d6.
 - **Traits (1):**
-    
-    - _Swarm:_ The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
-        
-- **Threat Abilities (1):**
-	- **Cost 1 — Sabotage:** Instead of a regular attack action, the scrappy, opportunistic goblins try to swipe supplies from the target. Target must pass a TN 8 Acrobatics check or the Community Supply Die is reduced by 1 step.
-    
+    - **Swarm:** The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
 - **Vessel Limit:** 1
+- **Threat Abilities (1):**
+    - **Cost 1 — Sabotage:** Instead of a regular attack action, the scrappy, opportunistic goblins try to swipe supplies from the target. Target must pass a TN 8 Acrobatics check or the Community Supply Die is reduced by 1 step.
+
+#### Phases
+
+- **Behaviour when unbroken:** Strikes from the shadows and leans on Swarm's stacking bonus rather than trading blows head-on — more likely to open with Sabotage than commit to a straight Clash.
+- **Behaviour when Broken:** Per the GM Tools NPC Stress rules, resolves as **The Rout** (Fodder & Standard Enemies) — the moment its Stress Limit maxes out, it drops what it's carrying and flees the fight outright.
+- **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
 ___________________________________________________________________________________________________________________________________________________________________________________
-### The Corpse-Trench Rat Brood (Fodder)
+### The Corpse-Trench Rat Brood
 
-_A writhing, starving mass that exists purely to drain Momentum and Wounds before the real threat arrives._
+> _A writhing, starving mass that exists purely to drain Momentum and Wounds before the real threat arrives._
 
-- **Wound Threshold:** 4 | **Wound Slots:** 1 | **Stress Limit:** 4
-    
-- **Skills:** Melee +1, Dodge +1. **Attributes (derived only):** Reflex 1 → Activation Order 7. _(Assumed Zero: Everything else. They are quick, but nothing props up a grapple or a mental defence — both resolve at +0)._
-    
-- **Traits (1):**
-    
-    - _Amorphous:_ Single-target weapons (daggers, spears, arrows) cannot inflict a Wound. Only Area of Effect (AOE) attacks or weapons with the _Devastating_ or _Siege_ tag can kill them.
-    -  Swarm:  The Swarm gains a +1 bonus to their Clash roll for every additional swarm ally currently engaged with the same target.
-        
-     
-- **Threat Abilities (1):**
-    
-    - **Passive - Hive Mind (no Threat cost):** If three or more swarms are engaged with a single target, they automatically inflict 1 Dissonant Stress on the target, representing the rats crawling over armor and finding gaps.
-        
+#### Vital Statistics
+
+- **Tier:** Fodder
+- **Type:** Beast
+- **Attributes (derived only):** Reflex 1 → Activation Order 7 _(Assumed Zero: everything else — quick, but nothing props up a grapple or a mental defence; both resolve at +0.)_
+- **Skills:** Melee +1, Dodge +1.
+- **Derived stats:**
+    - Wound Threshold: **4** _(Base 4 + Brawn 0)_
+    - Wound Slots: **1**
+    - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Fodder)_
+- **Equipment:** None — natural bite/claw swarm attacks only. Strike Roll: 2d6+1 (Melee +1).
+- **Traits (2):**
+    - **Amorphous:** Single-target weapons (daggers, spears, arrows) cannot inflict a Wound. Only Area of Effect (AOE) attacks or weapons with the _Devastating_ or _Siege_ tag can kill them.
+    - **Swarm:** The Swarm gains a +1 bonus to their Clash roll for every additional swarm ally currently engaged with the same target.
 - **Vessel Limit:** 1
+- **Threat Abilities (1):**
+    - **Passive — Hive Mind (no Threat cost):** If three or more swarms are engaged with a single target, they automatically inflict 1 Dissonant Stress on the target, representing the rats crawling over armor and finding gaps.
+
+#### Phases
+
+- **Behaviour when unbroken:** Presses forward as a mass, relying on Amorphous to shrug off single-target weapons and Hive Mind to punish anyone who lets three or more of the brood pile onto them.
+- **Behaviour when Broken:** Per the GM Tools NPC Stress rules, resolves as **The Rout** — the brood scatters and flees rather than fighting to the last rat.
+- **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
   ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Grunt

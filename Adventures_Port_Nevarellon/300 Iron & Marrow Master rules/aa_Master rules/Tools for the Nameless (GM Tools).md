@@ -123,7 +123,7 @@ If you want to generate Threat during a fight without the GM doing any math, tie
 
 - **The Vanguard Escalation:** At the start of **every round**, the GM gains 1 Threat. This is non-negotiable.
     
-(dev note)- **The Attrition Tax:** If a player spends 30 minutes in a **Breather**, they don't just lose Momentum; they lose their "preparedness." The GM gains **2 Threat** immediately, representing the monsters closing in while the party is distracted and bandaging wounds. might make this/use this in situations when the enemies are aware the 
+(dev note)- **The Attrition Tax:** If a player spends 30 minutes in a **Breather**, they don't just lose Momentum; they lose their "preparedness." The GM gains **2 Threat** immediately, representing the monsters closing in while the party is distracted and bandaging wounds. might make this/use this in situations when the enemies are aware the PCs are around. like an alarm has been set off.
     
 - **The "Targeting the Bank" Rule:** If an Elite hits a player and that player has **any** Momentum in their bank, the GM can spend **2 Threat** to "Drain the Adrenaline." The player loses 2 Momentum, and the GM instantly heals 1 Stress on the Elite.(/dev note)
 ________________________________________________________________________
@@ -134,8 +134,8 @@ Because modifiers are bounded, monsters are categorized by how they interact wit
 ### The Tiers of Attrition
 
 **Fodder:** They exist to drain player Momentum and force tactical positioning.
-	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. Fodder cannot spend Threat unless led by a leader or a tag allows them too. 1 wound. stress as core rule defined.
-	- Example (Zombie):_ Brawn +1. _(Strikes and grabs at +1, everything else is +0). Undead
+	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1.  usually 1 wound. stress as core rule defined.
+	- Example (Zombie):_ Brawn 1, melee +1. _(Strikes and grabs at +1, everything else is +0). Undead
 
 - **Grunt:** These are the core adversaries. Armored mercenaries, mutated alchemical horrors, and seasoned killers. They force the players to spend Momentum .
 	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. 2 wounds. stress as core rule defined.
@@ -153,11 +153,6 @@ Because modifiers are bounded, monsters are categorized by how they interact wit
     - _Example (Arch-Devil Malaphar):_ Melee +7, Arcana +4, Resolve +4. _(Strikes at +7, casts at +4, resists mental magic at +4. Still has a +0 in Reflex).
 
 **Point budgets for all four tiers now live in one place only: the Bestiary's "Enemy Budget by Party Standing" table (Core Integration Rules).** They scale by the party's current Standing rather than being a flat number, so a copy here would just be another place for the two documents to drift out of sync the next time the numbers get retuned — exactly the propagation problem flagged repeatedly on this project. Look the numbers up there; this doc keeps the role descriptions and worked examples since those don't change with Standing.
-
-
-
-
-    
 
 
 
@@ -184,7 +179,7 @@ Depending on the Bestiary Tag, "Breaking" means different things:
     
 - The Surrender (Humanoid Elites): A heavily armored mercenary realizes they are outmatched. They throw down their shield, drop to their knees, and yield. Now the players have a narrative choice: take a prisoner, interrogate them, or execute them.
     
-- The Frenzy (Beasts & Monsters): An unintelligent monster (like a Dire Bear) maxes out its Stress. Instead of fleeing, it breaks mentally into a pure, blind rage. It drops its defense completely (losing its Block/Dodge abilities) but gains Advantage on all Strike rolls until it dies.
+- The Frenzy (Beasts & Monsters): An unintelligent monster (like a Dire Bear) maxes out its Stress. Instead of fleeing, it breaks mentally into a pure, blind rage. It drops its defense completely (losing its Block/Dodge/brace abilities/modifiers) but gains Advantage on all Strike rolls until it dies.
     
 - The Phase Change (Bosses): A Boss maxes out its Stress track. It doesn't die, but its behavior violently shifts. A heavily armored warlord realizes they are losing, so they scream, tear off their heavy, restrictive armor (losing their Armor tags), and pull out two jagged daggers to fight recklessly in a new "Phase 2."
 ________________________________________________________________________
