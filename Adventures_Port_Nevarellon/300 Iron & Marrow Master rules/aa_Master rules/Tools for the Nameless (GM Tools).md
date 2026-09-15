@@ -123,7 +123,7 @@ If you want to generate Threat during a fight without the GM doing any math, tie
 
 - **The Vanguard Escalation:** At the start of **every round**, the GM gains 1 Threat. This is non-negotiable.
     
-(dev note)- **The Attrition Tax:** If a player spends 30 minutes in a **Breather**, they don't just lose Momentum; they lose their "preparedness." The GM gains **2 Threat** immediately, representing the monsters closing in while the party is distracted and bandaging wounds.
+(dev note)- **The Attrition Tax:** If a player spends 30 minutes in a **Breather**, they don't just lose Momentum; they lose their "preparedness." The GM gains **2 Threat** immediately, representing the monsters closing in while the party is distracted and bandaging wounds. might make this/use this in situations when the enemies are aware the 
     
 - **The "Targeting the Bank" Rule:** If an Elite hits a player and that player has **any** Momentum in their bank, the GM can spend **2 Threat** to "Drain the Adrenaline." The player loses 2 Momentum, and the GM instantly heals 1 Stress on the Elite.(/dev note)
 ________________________________________________________________________
