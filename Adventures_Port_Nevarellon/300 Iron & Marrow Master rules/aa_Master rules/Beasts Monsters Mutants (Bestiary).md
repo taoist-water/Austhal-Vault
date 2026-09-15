@@ -172,6 +172,8 @@ _**Fanatical:** Immune to being Intimidated.
 ___________________________________________________________________
 # Example enemies
 
+## Fodder
+
 ### The Goblin Scrapper (Fodder)
 
 _Scrawny, twitchy, and desperate. They prefer to strike from the shadows and retreat the moment the tide of battle turns against them._
@@ -209,6 +211,9 @@ _A writhing, starving mass that exists purely to drain Momentum and Wounds befor
         
 - **Vessel Limit:** 1
   ________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Grunt
+
 ### Orc Line-Breaker (Grunt)
 
 - **Budget Used:** 6 points.
@@ -224,6 +229,9 @@ _A writhing, starving mass that exists purely to drain Momentum and Wounds befor
     
 - **Vessel Limit:** 1
     ___________________________
+
+## Elite
+
 ### Cultist Assassin (Elite)
 
 - **Budget Used:** 11 points.
@@ -317,7 +325,7 @@ _A towering, decapitated mass of waterlogged flesh, rusted iron chains, and tang
         
 - **Vessel Limit:** 2
 __________________________________________________________________
-## The Barrow-Fang
+### The Barrow-Fang
 
 > _"The howls stopped an hour before it found us. That's when Corvis said we should've kept moving."_
 
@@ -351,6 +359,9 @@ __________________________________________________________________
 
 
 _______________________________
+
+## Dread / Boss
+
 ### Boss: Arch-Devil Malaphar
 
 - **Budget Used:** 15 points.
