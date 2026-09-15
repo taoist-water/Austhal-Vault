@@ -173,13 +173,13 @@ When an NPC suffers Dissonant Stress (from a terrifying spell, a brutal critical
 
 The moment that final Stress box is checked, the binary switch flips from "Functional" to "Broken." The NPC does not get weaker; they are immediately removed from the tactical equation or their behavior radically alters.
 
-Depending on the Bestiary Tag, "Breaking" means different things:
+"Breaking" means different things:
 
-- The Rout (Fodder & Standard Enemies): The moment a Goblin or Bandit maxes out their Stress, they drop their weapons and flee. The players have successfully defeated them without having to chew through their physical Wound slots. It rewards players for using fear and magic as crowd control.
+- The Rout : they drop their weapons and flee. The players have successfully defeated them without having to chew through their physical Wound slots. It rewards players for using fear and magic as crowd control.
     
-- The Surrender (Humanoid Elites): A heavily armored mercenary realizes they are outmatched. They throw down their shield, drop to their knees, and yield. Now the players have a narrative choice: take a prisoner, interrogate them, or execute them.
+- The Surrender: They throw down their shield, drop to their knees, and yield. Now the players have a narrative choice: take a prisoner, interrogate them, or execute them.
     
-- The Frenzy (Beasts & Monsters): An unintelligent monster (like a Dire Bear) maxes out its Stress. Instead of fleeing, it breaks mentally into a pure, blind rage. It drops its defense completely (losing its Block/Dodge/brace abilities/modifiers) but gains Advantage on all Strike rolls until it dies.
+- The Frenzy: Instead of fleeing, the NPC breaks mentally into a pure, blind rage. It drops its defense completely (losing its Block/Dodge/brace abilities/modifiers) but gains Advantage on all Strike rolls until it dies.
     
 - The Phase Change (Bosses): A Boss maxes out its Stress track. It doesn't die, but its behavior violently shifts. A heavily armored warlord realizes they are losing, so they scream, tear off their heavy, restrictive armor (losing their Armor tags), and pull out two jagged daggers to fight recklessly in a new "Phase 2."
 ________________________________________________________________________

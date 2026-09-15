@@ -74,7 +74,7 @@ The logic behind each column:
 	- 2 wounds. 
 	- stress as core rule defined.
     
-    - _Example (Orc Line-Breaker):_ Melee +4, Block +2. _(Strikes at +4, blocks at +2. Activation Order 6. Magic defense is +0)._
+    - _Example (Orc Line-Breaker):_ Melee +4, Block +2. _(Strikes at +4, blocks at +2. Activation Order 5 — reduced from the base 6 by its Greataxe's Cumbersome tag. Magic defense is +0)._
     
 - **Elite:** 2 - 3 Traits. 
 	- 1 - 2 Threat Abilities. 
@@ -232,20 +232,32 @@ ________________________________________________________________________________
 
 ## Grunt
 
-### Orc Line-Breaker (Grunt)
+### Orc Line-Breaker
 
-- **Budget Used:** 6 points.
-    
-- **Skills:** Melee +4, Block +2. **Attributes (derived only):** Brawn 2 → Wound Threshold. _(Assumed Zero: Dodge, Notice, Resolve, Arcana. They hit hard and block well, but are terrible at dodging or resisting mind-altering Arcana).
-- **Wound Threshold:** 6 | **Wound Slots:** 2 | **Stress Limit:** 4
-    
+> _A wall of scarred green muscle and notched iron, swinging a two-handed axe built to open gaps in a shield wall — where the Line-Breaker plants its feet, formations stop holding._
+
+#### Vital Statistics
+
+- **Tier:** Grunt
+- **Type:** Humanoid
+- **Attributes (derived only):** Brawn 2 → Wound Threshold; Reflex 0 → Activation Order 6, reduced to **5** by the Greataxe's Cumbersome tag _(Assumed Zero: Dodge, Notice, Resolve, Arcana — hits hard and blocks well, but is terrible at dodging or resisting mind-altering Arcana.)_
+- **Skills:** Melee +4, Block +2.
+- **Derived stats:**
+    - Wound Threshold: **6** _(Base 4 + Brawn 2)_
+    - Wound Slots: **2**
+    - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Grunt)_
+- **Equipment:** Greataxe (Power 5, 2H, Inertia, Cumbersome). No shield — Block is fought bare-handed here: it still contests the Clash at +2, but with no Shield Value to subtract from the Impact on a loss. Strike Roll: 2d6+4 (Melee +4).
 - **Traits (1):**
-    
-    - _Plated_ : Reduces all incoming standard Impact damage by a flat -1. 
-        
-- **Threat (1) - Unstoppable Mass (Cost 1):** _Trigger:_ Declared on a successful Melee clash. _Effect:_ Taxes player Momentum or violently shoves them out of position.
-    
+    - **Plated:** Reduces all incoming standard Impact damage by a flat -1.
 - **Vessel Limit:** 1
+- **Threat Abilities (1):**
+    - **Cost 1 — Unstoppable Mass:** _Trigger:_ Declared on a successful Melee clash. _Effect:_ Taxes player Momentum or violently shoves them out of position.
+
+#### Phases
+
+- **Behaviour when unbroken:** Holds the line with wide, two-handed axe swings, leaning on Plated to shrug off incoming Impact and spending Threat on Unstoppable Mass whenever a clash lands to tax Momentum or shove a PC out of formation.
+- **Behaviour when Broken:** Per the GM Tools NPC Stress rules, resolves as **Frenzy** (Beasts & Monsters) rather than The Rout — a deliberate call, the same exception the Barrow-Fang entry makes for itself: it loses Block entirely but gains Advantage on all Strike rolls until it dies.
+- **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
     ___________________________
 
 ## Elite
