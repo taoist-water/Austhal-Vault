@@ -17,7 +17,7 @@ gold statue on pedastal is the macguffin pcs are after. trapped, sets of a templ
 > - **Spot:** Passive Notice check (TN 8) to become Aware before approaching it.
 > - **Crossing it (Aware):** This trap specifically calls for a TN 8 Athletics check to leap the gap, instead of the usual Dodge-vs-Hazard-Roll Clash — Iron World allows a trap to dictate its own required reaction, and "make the jump" fits this pit better than an opposed roll.
 >   - **Success:** Clears the pit entirely, generates 1 Momentum (per the standard "win the Clash" reward).
->   - **Failure:** Falls in. Resolved as an Unaware Hazard Roll against the pit's +4 — having already committed to the leap and missed, there's no further Defense to offer.
+>   - **Failure:** Falls in. Resolved as Unaware against the pit's +4 — a disadvantaged, flailing Dodge, not the clean Athletics check they already missed.
 > - **Situational Modifier — ambush mid-leap:** If the Skink ambush springs while a PC is mid-jump, apply GM Tools' **Difficult (-2)** modifier to that Athletics check.
 > - **Unaware:** A PC who never spots the pit at all resolves it as a standard Unaware Hazard Roll.
 > - **The Small-Scale Bypass:** A PC who passes a TN 10 Notice check spots the Skinks' own narrow ledge along the pit's edge — safe for a Small-Scale creature, no Athletics check needed. Anyone else attempting it triggers the pit immediately, no roll offered.

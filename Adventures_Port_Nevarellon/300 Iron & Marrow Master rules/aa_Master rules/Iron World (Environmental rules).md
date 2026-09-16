@@ -80,11 +80,9 @@ How the trap resolves depends entirely on the player's awareness.
 
 The player fails to spot the tripwire, or opens the chest without checking for a poison needle.
 
-- The Resolution: The player is caught completely flat-footed and cannot declare a Defense reaction. The trap's Hazard Roll total immediately becomes the Impact.
-    
-- The Armor Check: The GM compares this Impact directly against the player's static Wound Threshold.
-    
-- The Vulnerability: Because the player could not brace for the hit, they cannot use the Block action, nor can they use weapons to Parry. Their survival relies entirely on the raw metal of their worn armor. If the Impact meets or exceeds the Threshold, they suffer a physical Wound. If it is lower, the armor catches the blow, but the kinetic shock or panic inflicts 1 Dissonant Stress.
+- The Resolution: The player is caught flat-footed, but not helpless — they may still act as the Reactor in a Clash against the trap's Hazard Roll, at Disadvantage, using Dodge only. A body that never saw the threat coming can still flinch away from it; it can't raise a shield or intercept a blade it never registered, so Block and Parry stay off the table regardless of what a given trap allows an Aware target.
+- The Math: As with an Aware target, the Margin between the trap's Hazard Roll and the player's (Disadvantaged) Dodge determines the final Impact. A Margin 3+ win still avoids the hazard entirely and generates 1 Momentum — a lucky flinch is still a lucky flinch.
+- The Armor Check: On a loss, compare the resulting Impact against the player's Wound Threshold as normal — meeting or exceeding it inflicts a Wound, falling short inflicts 1 Dissonant Stress.
     
 
 #### 2. The Aware Target (The Desperate Reaction)
