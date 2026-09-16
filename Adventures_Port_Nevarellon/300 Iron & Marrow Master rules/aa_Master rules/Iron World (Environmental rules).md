@@ -123,6 +123,20 @@ The player spots the pressure plate but is forced to leap across it, or they del
     
 - Aware Requirement: Must Dodge to roll under it. Attempting to Block or Parry such massive weight automatically fails, resulting in the player becoming Anchored beneath the iron.
 
+### Falling (Height as a Hazard)
+
+A fall is resolved as a Hazard Roll like any other trap — the ground doesn't care whether the drop came from a trap, a shove, or a bad jump.
+
+| Fall Height | Hazard Power |
+|---|---|
+| Short (10–20 ft) | +2 |
+| Medium (20–40 ft) | +4 |
+| Long (40 ft+) | +6 |
+
+- **Aware (a controlled fall):** A character who chooses to fall, or sees it coming with enough time to react, resolves it as an Aware target: Dodge only — you can't Block or Parry a landing. Winning the Clash means a hard but controlled landing; the Margin sets the final Impact per the standard Aware rules.
+- **Unaware (a genuine surprise):** Shoved from behind, a trapdoor sprung with no warning, or falling unconscious — resolved as Unaware per the normal rules: the Hazard Roll total becomes Impact directly against Wound Threshold, no Defense allowed.
+- **Landing on something worse than ground:** If the fall ends on spikes, rubble, or another hazard, add that hazard's own Hazard Power to the fall's rather than rolling twice.
+
 
 ________________________________________________________________________
 # THE SOCIAL ENGINE (Influence & Resolve)
