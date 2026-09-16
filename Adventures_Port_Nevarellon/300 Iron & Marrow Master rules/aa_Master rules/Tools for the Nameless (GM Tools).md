@@ -134,25 +134,25 @@ Because modifiers are bounded, monsters are categorized by how they interact wit
 ### The Tiers of Attrition
 
 **Fodder:** They exist to drain player Momentum and force tactical positioning.
-	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1.  usually 1 wound. stress as core rule defined.
+	- 1 - 2 Traits. 1 Special Action (self-gated — no Threat cost, no Vessel Limit; see the Bestiary's Gate Test). usually 1 wound. stress as core rule defined.
 	- Example (Zombie):_ Brawn 1, melee +1. _(Strikes and grabs at +1, everything else is +0). Undead
 
 - **Grunt:** These are the core adversaries. Armored mercenaries, mutated alchemical horrors, and seasoned killers. They force the players to spend Momentum .
-	- 1 - 2 Traits. 1 Threat Abilities. vessel limit 1. 2 wounds. stress as core rule defined.
+	- 1 - 2 Traits. 1 Special Action, same self-gating rule as Fodder. 2 wounds. stress as core rule defined.
     
     - _Example (Orc Line-Breaker):_ Brawn +2, Melee +2. _(Strikes at +4. Activation/Reflex is +0. Magic defense is +0)._
         
 - **Elite:** Almost equivalent to the characters capabilities, very challenging. Built to be a few advances ahead of the characters at all times.
-	-  2 - 3 Traits. 1 - 2 Threat Abilities. vessel limit 2 - 3.  3 - 4 wounds. stress as core rule defined +1.
+	-  2 - 3 Traits. 1 - 2 Special Actions — reach for a Margin 3+ threshold before reaching for Threat when the ability is a bonus on top of an already-resolved action. 3 - 4 wounds. stress as core rule defined +1.
     
     - _Example (Cultist Assassin):_ Melee +2, Dodge +4, Stealth +4, Notice +1. _(Strikes at +2, Dodges at +4, Stealths at +4. Prowess is +0)._
         
 - **Dread Entities / Bosses (The Behemoths):** These are terrifying, almost mechanical monstrosities or apex predators. Built to rival a highly optimized player. Attributes can exceed +3.
-	- 2 - 4 Traits. 3+ Threat Abilities. vessel limit 2 - 4. 4+ wounds. stress as core rule defined + 2
+	- 2 - 4 Traits. 3+ Special Actions/Threat Abilities — this is the tier where a real Threat-gated ability (a Free Action stacked on a full turn, or a Lair Action outside the turn order) actually belongs. vessel limit 2 - 4 (only meaningful for the entries that still cost Threat). 4+ wounds. stress as core rule defined + 2
     
     - _Example (Arch-Devil Malaphar):_ Melee +7, Arcana +4, Resolve +4. _(Strikes at +7, casts at +4, resists mental magic at +4. Still has a +0 in Reflex).
 
-**Point budgets for all four tiers now live in one place only: the Bestiary's "Enemy Budget by Party Standing" table (Core Integration Rules).** They scale by the party's current Standing rather than being a flat number, so a copy here would just be another place for the two documents to drift out of sync the next time the numbers get retuned — exactly the propagation problem flagged repeatedly on this project. Look the numbers up there; this doc keeps the role descriptions and worked examples since those don't change with Standing.
+**Point budgets for all four tiers, and the full Special-Actions-vs-Threat-Abilities Gate Test, now live in one place only: the Bestiary's "Core Integration Rules" section.** They get retuned as the roster grows, so a second copy here would just be another place for the two documents to drift out of sync — exactly what happened to this section before this pass. Look the specifics up there; this doc keeps the role descriptions and worked examples since those don't change with Standing or with the Gate Test.
 
 
 
