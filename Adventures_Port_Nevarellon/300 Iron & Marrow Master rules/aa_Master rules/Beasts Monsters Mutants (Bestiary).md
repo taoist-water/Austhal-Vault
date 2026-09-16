@@ -63,27 +63,31 @@ The logic behind each column:
 | The Barrow-Fang | Elite | 9 | 9–12 | in band |
 | Arch-Devil Malaphar | Boss | 15 | 13–17 | in band |
 
-- **Cultist Assassin** was previously flagged as needing a rebuild for falling under the Elite floor. It no longer does. The flag was an artefact of the old metric double-counting a shared Attribute: its Reflex +3 was propping up both Dodge and Stealth but only counted once. At 11 Skill points it sits comfortably mid-band, and its Traits and Threat Abilities were correctly tuned all along. **No rebuild required — flag withdrawn.**
-- **The Barrow-Fang** was mislabeled Dread in this table — its own statblock reads Tier: Elite, and its build (3 Traits, 2 Threat Abilities, Vessel Limit 2) matches Elite's spec, not Dread/Boss's 3+ Threat Ability minimum. Measured against the correct Elite floor it was short by 1 Skill point (8 vs. 9); Notice raised from +1 to +2 closes that gap. No rebuild needed once the tier label itself is fixed.
+- **Cultist Assassin** was previously flagged as needing a rebuild for falling under the Elite floor. It no longer does. The flag was an artefact of the old metric double-counting a shared Attribute: its Reflex +3 was propping up both Dodge and Stealth but only counted once. At 11 Skill points it sits comfortably mid-band, and its Traits and Special Actions were correctly tuned all along. **No rebuild required — flag withdrawn.**
+- **The Barrow-Fang** was mislabeled Dread in this table — its own statblock reads Tier: Elite, and its build (3 Traits, 2 Special Actions) matches Elite's spec, not Dread/Boss's 3+ Threat Ability minimum. Measured against the correct Elite floor it was short by 1 Skill point (8 vs. 9); Notice raised from +1 to +2 closes that gap. No rebuild needed once the tier label itself is fixed.
 - **Arch-Devil Malaphar** carries an internal contradiction predating this conversion: an earlier worked example in this section cited Melee +4 / Resolve +3 (old Attribute+Skill notation), and an earlier statblock revision had Melee +3 / Resolve +1. Both are superseded — the current statblock reads Melee +7 / Arcana +4 / Resolve +4, which is what a GM actually runs. At 15 Skill points he sits at the top of the Green Dread band and inside every later row through Veteran. Against a Hardened or Storied party he is under-budgeted and would need a pass.
 
-- **Fodder:** 1 - 2 Traits. 1 Threat Abilities. 
-	- vessel limit 1. 
+**The Gate Test (Special Actions vs. Threat Abilities)**
+
+Not every special ability needs to cost Threat. Before writing one, ask what already limits it:
+- If it replaces a creature's regular action for the turn (an alternate Strike, an alternate Activation), or its trigger is already rare enough to be self-limiting (a reaction to taking a Wound, say), it's a **Special Action** — free, no Threat cost, no Vessel Limit needed.
+- If it's a bonus layered on top of an action the creature already gets to take (extra Impact or a control effect on a clash it already won), gate it with a **Margin threshold** (3+ / Clean or better) instead of Threat — the same math already governing every other Clash in this system.
+- Only when an ability is genuinely free-standing — a true Free Action that stacks on top of a full normal turn, or a Lair Action that happens outside any creature's turn at all — does it actually need Threat as its gate. This is rare, and should mostly be reserved for Dread Entities/Bosses.
+
+- **Fodder:** 1 - 2 Traits. 1 Special Action (self-gated per the test above — no Threat cost, no Vessel Limit). 
 	- 1 wound. 
 	- stress as core rule defined.    
     - _Example (Zombie):_ Melee +1, Prowess +1. _(Strikes and grabs at +1, everything else is +0). Undead_
     
 - **Grunt:** 1 - 2 Traits. 
-	- 1 Threat Abilities. 
-	- vessel limit 1. 
+	- 1 Special Action, same self-gating rule as Fodder. 
 	- 2 wounds. 
 	- stress as core rule defined.
     
     - _Example (Orc Line-Breaker):_ Melee +4, Block +2. _(Strikes at +4, blocks at +2. Activation Order 5 — reduced from the base 6 by its Greataxe's Cumbersome tag. Magic defense is +0)._
     
 - **Elite:** 2 - 3 Traits. 
-	- 1 - 2 Threat Abilities. 
-	- vessel limit 2 - 3.  
+	- 1 - 2 Special Actions — reach for a Margin 3+ threshold before reaching for Threat when the ability is a bonus on top of an already-resolved action. 
 	- 3 - 4 wounds. 
 	- stress as core rule defined +1.
     
@@ -91,8 +95,8 @@ The logic behind each column:
     
 - **Dread Entities / Bosses (The Behemoths):** Skills can exceed the +6 mortal ceiling.
 	- 2 - 4 Traits. 
-	- 3+ Threat Abilities. 
-	- vessel limit 2 - 4. 
+	- 3+ Special Actions/Threat Abilities — this is the tier where a real Threat-gated ability (a Free Action stacked on a full turn, or a Lair Action outside the turn order) actually belongs. 
+	- vessel limit 2 - 4 (only meaningful for the entries that still cost Threat). 
 	- 4+ wounds. 
 	- stress as core rule defined + 2
     
@@ -204,9 +208,8 @@ ___________________________________________________________________
 - **Equipment:** Leather armor (+1 to Wound Threshold). Rusty Shortsword — Power 2, Sidearm, Finesse; Shoddy Quality (becomes Damaged on a failed or fumbled roll, Ruined if already Damaged). Strike Roll: 2d6.
 - **Traits (1):**
     - **Swarm:** The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
-- **Vessel Limit:** 1
-- **Threat Abilities (1):**
-    - **Cost 1 — Sabotage:** Instead of a regular attack action, the scrappy, opportunistic goblins try to swipe supplies from the target. Target must pass a TN 8 Acrobatics check or the Community Supply Die is reduced by 1 step.
+- **Special Actions (1):**
+    - **Sabotage:** Instead of a regular attack action, the scrappy, opportunistic goblins try to swipe supplies from the target. Target must pass a TN 8 Acrobatics check or the Community Supply Die is reduced by 1 step.
 
 #### Phases
 
@@ -233,9 +236,8 @@ ________________________________________________________________________________
 - **Traits (2):**
     - **Amorphous:** Single-target weapons (daggers, spears, arrows) cannot inflict a Wound. Only Area of Effect (AOE) attacks or weapons with the _Devastating_ or _Siege_ tag can kill them.
     - **Swarm:** The Swarm gains a +1 bonus to their Clash roll for every additional swarm ally currently engaged with the same target.
-- **Vessel Limit:** 1
-- **Threat Abilities (1):**
-    - **Passive — Hive Mind (no Threat cost):** If three or more swarms are engaged with a single target, they automatically inflict 1 Dissonant Stress on the target, representing the rats crawling over armor and finding gaps.
+- **Special Actions (1):**
+    - **Passive — Hive Mind:** If three or more swarms are engaged with a single target, they automatically inflict 1 Dissonant Stress on the target, representing the rats crawling over armor and finding gaps.
 
 #### Phases
 
@@ -263,9 +265,8 @@ ________________________________________________________________________________
 - **Traits (2):**
     - **Flying:** Bat-wings grant a Fly Move (see above). While airborne, ignores ground-level Difficult Terrain and obstacles.
     - **Skittering:** Unnatural speed, shifting limbs, or erratic reflexes make them slippery targets. This creature may move out of a Threat Zone without requiring a test, or causing a free strike.
-- **Vessel Limit:** 1
-- **Threat Abilities (1):**
-    - **Cost 1 — Hellfire Needle:** _Trigger:_ Instead of a regular attack, declared against a target within 30 ft. _Effect:_ The Imp spits a mote of hellfire. Target must pass a TN 8 Prowess check or suffer 1 Dissonant Stress and gain the Ablaze condition.
+- **Special Actions (1):**
+    - **Hellfire Needle:** _Trigger:_ Instead of a regular attack, declared against a target within 30 ft. _Effect:_ The Imp spits a mote of hellfire. Target must pass a TN 8 Prowess check or suffer 1 Dissonant Stress and gain the Ablaze condition.
 
 #### Phases
 
@@ -350,13 +351,12 @@ ________________________________________________________________________________
 - **Equipment:** Greataxe (Power 5, 2H, Inertia, Cumbersome). No shield — Block is fought bare-handed here: it still contests the Clash at +2, but with no Shield Value to subtract from the Impact on a loss. Strike Roll: 2d6+4 (Melee +4).
 - **Traits (1):**
     - **Plated:** Reduces all incoming standard Impact damage by a flat -1.
-- **Vessel Limit:** 1
-- **Threat Abilities (1):**
-    - **Cost 1 — Unstoppable Mass:** _Trigger:_ Declared on a successful Melee clash. _Effect:_ Taxes player Momentum or violently shoves them out of position.
+- **Special Actions (1):**
+    - **Unstoppable Mass:** _Trigger:_ Declared on a successful Melee clash with a Margin of 3+ (Clean or better). _Effect:_ Taxes player Momentum or violently shoves them out of position.
 
 #### Phases
 
-- **Behaviour when unbroken:** Holds the line with wide, two-handed axe swings, leaning on Plated to shrug off incoming Impact and spending Threat on Unstoppable Mass whenever a clash lands to tax Momentum or shove a PC out of formation.
+- **Behaviour when unbroken:** Holds the line with wide, two-handed axe swings, leaning on Plated to shrug off incoming Impact and triggering Unstoppable Mass on a clean clash win to tax Momentum or shove a PC out of formation.
 - **Behaviour when Broken:** Per the GM Tools NPC Stress rules, resolves as **Frenzy** rather than The Rout — it loses Block entirely but gains Advantage on all Strike rolls until it dies.
 - **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
     ___________________________
@@ -437,10 +437,9 @@ ________________________________________________________________________________
 - **Traits (2):**
     - **Fanatical:** Immune to being Intimidated.
     - **Ambusher:** Gains Advantage on the Clash roll if attacking an unaware target from Stealth.
-- **Vessel Limit:** 2
-- **Threat Abilities (2):**
-    - **Cost 1 Threat — Vanish:** _Trigger:_ When obscured. _Effect:_ The Assassin blends into the shadows, becoming effectively totally obscured — finding them again requires a successful Notice check.
-    - **Cost 2 Threat — Throat Slit:** _Trigger:_ On a successful Melee clash with a Margin of 3+. _Effect:_ The target immediately suffers a Minor Wound, bypassing their normal Impact Threshold.
+- **Special Actions (2):**
+    - **Vanish:** _Trigger:_ Instead of a regular action, when obscured. _Effect:_ The Assassin blends into the shadows, becoming effectively totally obscured — finding them again requires a successful Notice check.
+    - **Throat Slit:** _Trigger:_ On a successful Melee clash with a Margin of 3+. _Effect:_ The target immediately suffers a Minor Wound, bypassing their normal Impact Threshold.
 
 #### Phases
 
@@ -468,10 +467,9 @@ _______________________________
 - **Traits (2):**
     - **Cunning Leader:** A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision. At the beginning of the Round, this creature can pass its own position in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
     - **Brute:** Heavy, sweeping strikes designed to shatter shields and break bones. When this creature wins an attack action, it inflicts +1 Impact and forces the target back 1 square/5ft. If the target hits a wall or solid obstacle, they immediately take 1 Dissonant Stress from the concussive force.
-- **Vessel Limit:** 2
-- **Threat Abilities (2):**
-    - **Cost 1 Threat — Call for Reinforcements:** _Trigger:_ Declared on the Captain's activation. _Effect:_ The Captain shouts for backup. One additional Fodder (Bandit) arrives at the edge of the battlefield next round, OR — if reinforcements aren't narratively available — all currently engaged Fodder immediately gain the benefit of the Flanking Bonus as if one more ally were present (representing the Captain directing the formation).
-    - **Cost 1 Threat — Hook and Drag:** _Trigger:_ Declared after a successful Melee clash with his Halberd. _Effect:_ Instead of dealing normal Impact, the Captain hooks the player's legs. The target is immediately knocked Prone and dragged 5 feet directly into an adjacent Fodder's Threat Zone.
+- **Special Actions (2):**
+    - **Call for Reinforcements:** _Trigger:_ Instead of a regular action, declared on the Captain's activation. _Effect:_ The Captain shouts for backup. One additional Fodder (Bandit) arrives at the edge of the battlefield next round, OR — if reinforcements aren't narratively available — all currently engaged Fodder immediately gain the benefit of the Flanking Bonus as if one more ally were present (representing the Captain directing the formation).
+    - **Hook and Drag:** _Trigger:_ Declared after a successful Melee clash with his Halberd with a Margin of 3+ (Clean or better). _Effect:_ Instead of dealing normal Impact, the Captain hooks the player's legs. The target is immediately knocked Prone and dragged 5 feet directly into an adjacent Fodder's Threat Zone.
 
 #### Phases
 
@@ -501,10 +499,9 @@ _______________________________
 - **Equipment:** None — natural weapon only. Tree Trunk (Power 3, Reach, Brutal). Strike Roll: 2d6+6 (Melee +6).
 - **Traits (1):**
     - **Troll-Blood Regeneration:** At the start of the Troll's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ If the Troll takes any Impact damage from a Fire source (such as a _Naphtha Fire-Flask_ or Pyromancy), this trait is entirely suppressed until the end of the next round.
-- **Vessel Limit:** 2
-- **Threat Abilities (2):**
-    - **Cost 1 Threat — Vicious Frenzy:** _Trigger:_ Declared immediately after the Troll completes a Strike. _Effect:_ The Troll follows up its lumbering tree trunk attack with a sudden, tearing claw swipe. It makes an immediate, secondary Strike at an adjacent target (Treat the claws as Power 1, Vicious).
-    - **Cost 2 Threat — Sweeping Uproot:** _Trigger:_ Declared before the Troll makes a Strike with its Tree Trunk. _Effect:_ The Troll drags its tree trunk through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
+- **Special Actions (2):**
+    - **Vicious Frenzy:** _Trigger:_ Declared immediately after the Troll wins a Strike's Clash with a Margin of 3+ (Clean or better). _Effect:_ The Troll follows up its lumbering tree trunk attack with a sudden, tearing claw swipe. It makes an immediate, secondary Strike at an adjacent target (Treat the claws as Power 1, Vicious).
+    - **Sweeping Uproot:** _Trigger:_ Instead of a standard single-target Strike, declared before the Troll attacks with its Tree Trunk. _Effect:_ The Troll drags its tree trunk through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
 
 #### Phases
 
@@ -532,14 +529,14 @@ ___________________________________________________________________
 - **Traits (2):**
     - **Sinking Gravity:** The ground immediately within the Goliath's Threat Zone is perpetually treated as Mire (Difficult Terrain), halving movement and imposing disadvantage to all mobility checks due to the supernatural rot and water bleeding from its body.
     - **Resilient:** Increases the creature's Stress Limit by +2 (already folded into the total above). Can spend Threat to Mitigate damage, reducing incoming Impact by 2 per point spent (up to its Vessel limit).
-- **Vessel Limit:** 2
-- **Threat Abilities (2):**
-    - **Cost 1 Threat — Corpse-Gas Rupture:** _Trigger:_ Declared immediately when the Goliath takes a physical Wound. _Effect:_ The wound forcefully expels highly toxic swamp gas. The player who delivered the Wound instantly suffers the _Rigor_ condition as their lungs violently seize up, completely denying them the ability to Parry or Dodge on the Goliath's next turn.
-    - **Cost 2 Threat — Sweeping Uproot:** _Trigger:_ Declared before the Goliath makes a Strike. _Effect:_ The Goliath drags its mass of chains and roots through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
+- **Vessel Limit:** 2 _(kept solely to support the Resilient Trait's Threat-spend mitigation, above — neither Special Action below costs Threat.)_
+- **Special Actions (2):**
+    - **Corpse-Gas Rupture:** _Trigger:_ Declared immediately when the Goliath takes a physical Wound. _Effect:_ The wound forcefully expels highly toxic swamp gas. The player who delivered the Wound instantly suffers the _Rigor_ condition as their lungs violently seize up, completely denying them the ability to Parry or Dodge on the Goliath's next turn.
+    - **Sweeping Uproot:** _Trigger:_ Instead of a standard single-target Strike, declared before the Goliath attacks. _Effect:_ The Goliath drags its mass of chains and roots through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
 
 #### Phases
 
-- **Behaviour when unbroken:** Plants itself in one spot, using Sinking Gravity to keep PCs mired in its Threat Zone and spending Threat on Corpse-Gas Rupture or Sweeping Uproot to punish anyone who closes in or lines up in its front arc.
+- **Behaviour when unbroken:** Plants itself in one spot, using Sinking Gravity to keep PCs mired in its Threat Zone and triggering Corpse-Gas Rupture or Sweeping Uproot to punish anyone who closes in or lines up in its front arc.
 - **Behaviour when Broken:** Resolves as **Frenzy** — it doesn't feel pain and has nothing to surrender or flee toward; once its Stress maxes out it thrashes with pure Advantage-fueled violence until it's destroyed.
 - **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
 __________________________________________________________________
@@ -563,10 +560,9 @@ __________________________________________________________________
     - **Cursed Regeneration:** At the start of the Barrow-Fang's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ any Wound inflicted by a weapon carrying a Lycanthrope Bane effect (Silvered Edge, per Hardware) permanently suppresses this trait for the rest of the encounter — the same shape as the Frost-Cave Troll's fire weakness, with silver standing in for flame.
     - **Vicious:** If the Barrow-Fang inflicts damage on a PC, the target must immediately pass a Prowess check (TN 8) or gain the Bleeding condition.
     - **Ambusher:** Gains Advantage on the Clash roll if attacking an unaware target from Stealth.
-- **Vessel Limit:** 2
-- **Threat Abilities (2):**
-    - **Cost 1 Threat — Howl of the Hunt:** _Trigger:_ Declared at the start of the Barrow-Fang's activation. _Effect:_ Every player within 30 ft who can hear it must pass a Resolve check vs. TN 8 or gain the Fear condition (targeting the Barrow-Fang) for the rest of the encounter.
-    - **Cost 2 Threat — Rend and Pin:** _Trigger:_ Declared on a successful Melee Clash with a Margin of 3+. _Effect:_ In addition to normal Impact, the target is knocked Prone and pinned — they cannot stand or take a Move Action until they win an opposed Prowess check against the Barrow-Fang (attempted as a Free Action on their own activation).
+- **Special Actions (2):**
+    - **Howl of the Hunt:** _Trigger:_ Instead of a regular action, declared at the start of the Barrow-Fang's activation. _Effect:_ Every player within 30 ft who can hear it must pass a Resolve check vs. TN 8 or gain the Fear condition (targeting the Barrow-Fang) for the rest of the encounter.
+    - **Rend and Pin:** _Trigger:_ Declared on a successful Melee Clash with a Margin of 3+. _Effect:_ In addition to normal Impact, the target is knocked Prone and pinned — they cannot stand or take a Move Action until they win an opposed Prowess check against the Barrow-Fang (attempted as a Free Action on their own activation).
 
 #### Phases
 
@@ -599,11 +595,12 @@ _______________________________
     - **Terrifying:** A harrowing presence — whether an eldritch abomination or a faceless, silent headsman — that cracks the human mind. When a PC engages with this creature or it activates within line of sight, the PC must immediately roll a Resolve check against TN 8. Failure: the PC immediately gains the Terrified condition.
     - **Cunning Leader:** A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision. At the beginning of the Round, this creature can pass its own position in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
     - **Hubris (Passive Threat Engine):** The Arch-Devil feeds on mortal desperation. The GM instantly generates 1 Threat every single time a player spends Momentum from their bank.
+- **Special Actions (1):**
+    - **Furnace Rebuke:** _Trigger:_ Declared when Malaphar wins a Clash as the Reactor (Defense) with a Margin of 3+ (Clean or better). _Effect:_ Malaphar deflects the player's blow with such friction that the player's weapon or hands burst into flames. The player instantly gains the Ablaze condition.
 - **Vessel Limit:** 4
-- **Threat Abilities (3):**
-    - **Cost 1 Threat — Furnace Rebuke:** _Trigger:_ Declared when Malaphar wins a Clash as the Reactor (Defense). _Effect:_ Malaphar deflects the player's blow with such friction that the player's weapon or hands burst into flames. The player instantly gains the Ablaze condition.
-    - **Cost 2 Threat — The Devil's Mandate:** _Trigger:_ Declared as a Free Action on Malaphar's turn. _Effect:_ Malaphar speaks a word of absolute authority, targeting one player. That player must pass a TN 8 Resolve check at -2, or drop to their knees in submission (gaining the Prone and Anchored conditions).
-    - **Cost 3 Threat — Lair Action (Gehenna's Grip):** _Trigger:_ Declared at the absolute start of a combat round. _Effect:_ The veil tears, and chains of molten iron erupt. Every player must make an immediate, unopposed Melee or Dodge check against TN 8. Failure means they are violently dragged 10 feet toward Malaphar.
+- **Threat Abilities (2):** the two genuine exceptions in the retuned roster — both are free-standing bonus effects with no action economy or Margin gate available to lean on instead.
+    - **Cost 2 Threat — The Devil's Mandate:** _Trigger:_ Declared as a Free Action on Malaphar's turn — genuinely stacks on top of his normal Strike, so Threat is the only thing limiting it. _Effect:_ Malaphar speaks a word of absolute authority, targeting one player. That player must pass a TN 8 Resolve check at -2, or drop to their knees in submission (gaining the Prone and Anchored conditions).
+    - **Cost 3 Threat — Lair Action (Gehenna's Grip):** _Trigger:_ Declared at the absolute start of a combat round — outside any creature's turn entirely, so there's no action economy here either. _Effect:_ The veil tears, and chains of molten iron erupt. Every player must make an immediate, unopposed Melee or Dodge check against TN 8. Failure means they are violently dragged 10 feet toward Malaphar.
 
 #### Phases
 
