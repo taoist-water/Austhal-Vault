@@ -20,15 +20,35 @@
 ________________________________________________________________________
 # The Environment:
 
+## Illumination (Light & Sight)
+
+Every square is in one of three light bands. They don't add a new modifier of their own — Dimly Lit and Pitch Black plug directly into Cover's existing Obscured tiers below, so "dim lighting" and "pitch black" in the Cover rules specifically mean these bands.
+
+- **Well Lit:** Full, unobstructed light. No modifier.
+- **Dimly Lit:** Equivalent to **Obscured** (see Cover, below) — Attacker has Disadvantage on the Attack. Also grants Advantage on Stealth checks made within it.
+- **Pitch Black:** Equivalent to **Heavily Obscured** (see Cover, below) — Attacker has Disadvantage, target gains +2 to Defense. Also grants Advantage on Stealth checks made within it, and counts as an Obscured/Heavily Obscured position for anything that keys off one (e.g. the Cultist Assassin's Vanish).
+- **No light source, no ambient light: Pitch Black.**
+
+**Light source radii:**
+
+| Source | Well Lit radius | Dimly Lit radius (beyond Well Lit) |
+|---|---|---|
+| Torch, Candle, Tindertwig (Community Supply Die abstraction), Lamp (common), Everburning Torch | 20 ft | 10 ft |
+| Sunrod | 30 ft | 15 ft |
+| Hooded Bullseye Lantern | 30 ft, forward cone only | None — hooded and directional, no ambient spill |
+
+- **The halving rule:** Unless a source says otherwise, its Dimly Lit ring extends half again as far as its own Well Lit radius (the baseline torch: 20 ft Well Lit, then 10 ft more of Dimly Lit — 30 ft total before Pitch Black).
+- **Overlapping light:** Where two sources' radii overlap, use whichever band is brighter for that square. Light doesn't stack past Well Lit.
+
 ## Cover (The Environmental Shield)
 
 Being Obscured acts as a direct negative modifier to the attacker's roll. 
 
--  **Obscured (Thick underbrush, dim lighting, smoke):** You can track the target, but you are guessing their movements.
+-  **Obscured (Thick underbrush, dim lighting [see Illumination, above], smoke):** You can track the target, but you are guessing their movements.
     
     - **The Mechanic:** Attacker has **Disadvantage** on the Attack.
         
-- **Heavily Obscured (Pitch black, dense fog, swirling magical static):** You are effectively fighting blind. You might know they are in the zone, but you cannot pinpoint them.
+- **Heavily Obscured (Pitch black [see Illumination, above], dense fog, swirling magical static):** You are effectively fighting blind. You might know they are in the zone, but you cannot pinpoint them.
     
     - **The Mechanic:** Attacker suffers **Disadvantage** on the Attack, and the target gains a **+2 bonus to their Defense roll**, representing the attacker’s inability to find a viable opening.
 
