@@ -380,6 +380,48 @@ Influence 2d6+3 | Medicine 2d6+2 | Insight 2d6+2 | Notice 2d6+1 | Resolve 2d6+1 
 
 ---
 
+## Corvin Ashgrave — Human Male, Bravo (Duelist)
+
+*"You are not losing to me. You are losing to the fact that you brought one weapon."*
+
+*Same character as the Blooded build below, reconstructed backward from his own Advancement Ledger — the roster's first Standing pair built in this direction, rather than advanced forward from an existing Green sheet.*
+
+### Vital Statistics
+- **Species:** Human
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 2 | Reflex 2 | Wits 0 | Will 0 *(Twin array)*
+- **Skills:** Melee 4 | Acrobatics 3 | Prowess 1 | Notice 1 *(9 ranks, 9 DP with Adaptable. Ceilings: Melee/Prowess/Block/Athletics 5 (Brawn 2); Acrobatics/Stealth/Ranged 5 (Reflex 2); everything under Wits or Will 3)*
+- **Wound Threshold:** 6 *(4 base + 2 Brawn + 0 Gambeson)*
+- **Stress Limit:** 5 *(4 base + 0 Wits + 0 Will + 1 Indomitable Spirit)*
+- **Wound Slots:** 3 | **Momentum Bank:** 5 *(4 + Reflex 2, −1 Steady Not Sharp)* | **Activation Order:** 11 *(6 + Reflex 2, +3 Quick)*
+- **Inventory Slots:** 10 *(8 + 2 Brawn)*
+
+### Species Traits (Human)
+- **Adaptable:** +1 Skill Point at creation (already applied — 9 DP spent instead of 8).
+- **Indomitable Spirit:** +1 Stress Limit (already applied above).
+- **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap.
+
+### Feats
+- **Iron Grip** *(Melee +1 — Creation)*: when a Clash ties and the weapons bind, automatically bank 1 Momentum. His Momentum engine — a Twin-array duelist has a small bank and needs to fill it without spending actions.
+- **Quick** *(Reflex 1 — Creation)*: +3 to your Activation Order.
+
+### Equipment
+- **Armor:** Gambeson (+0 Armor, Light, Cushioned) — his actual creation-day kit; upgraded to Leather during Downtime after Milestone 1, per his Blooded sheet.
+- **Starting Purse: 80 sp** — Gambeson 5 + Shortsword 10 + Dagger 5 = **20 sp spent, 60 sp remaining.** The same deliberately light kit his Blooded Table Notes already describe — this is where that float started, before 12 sp of it went to the Leather upgrade.
+- **Weapons (two 1H items):** Shortsword (Power 2, **Sidearm**, **Finesse**) + Dagger (Power 0, **Sidearm**, **Finesse**, Concealable, Close-Quarters, Thrown) — qualifies for **Twin-Blade Stance**.
+
+### Combat Math Quick-Ref
+Strike (Shortsword) 2d6+4, Impact = Margin+2 | Parry 2d6+4 | Dodge 2d6+3 | **Finesse on both** — reroll a natural 1 in any Clash with either blade, attacking or defending | **Off-Hand Parry:** the Dagger reduces incoming Impact by 1, stacking with the Shortsword | **Twin Strike:** 1 Momentum on a won Clash for an off-hand follow-up | Prowess 2d6+1 | Notice 2d6+1 | **Resolve 2d6+0** | Activation Order 11
+
+### Table Notes
+- **Identical dice, one real stat difference.** Every roll above matches his Blooded sheet exactly — Twin-Blade Stance, Finesse, Iron Grip's Momentum engine, and Quick's Activation Order 11 are all creation-day purchases, untouched by his two Milestones. The only actual delta is Wound Threshold: 6 here vs. 7 at Blooded, the Gambeson-to-Leather Downtime upgrade after Milestone 1, worth 1 point of durability for 12 sp.
+- **What's missing is entirely reactive, not statted.** Riposte and Insulting Deflection — both bought at Milestone 2 — only fire off a won Parry. At Green he still Parries at 2d6+4 and still benefits from Off-Hand Parry's flat Impact reduction, but a won Parry here is just a won Parry: no bonus Impact, no forcing Surprised on a Margin 5+ win. The "built to be attacked" payoff his Blooded Table Notes describe doesn't exist yet — he's still just hard to hit.
+- **First Standing pair built back-to-front.** Aeric, Faelan, and Brynja were all advanced forward from an existing Green sheet. Corvin is the reverse: his Advancement Ledger already stated exactly what Milestones 1 and 2 bought, so reconstructing Green meant subtracting, not designing — drop both Feats, revert the one Downtime equipment swap the ledger's own prose already flagged, and everything else falls out unchanged. A useful check on the ledger format itself: it held enough information to run backward cleanly.
+- **Second Twin-array character now shown at two Standings, alongside Aeric — four data points total.** Corvin's Strike roll (2d6+4) doesn't move at all between Green and Blooded, matching Aeric's Melee roll staying flat between Green and Veteran (Design Note 8) — Twin stays invisible on the dice well past creation, and only shows up in derived stats once Advancement actually opens a second ceiling, which for Corvin hasn't happened at either Standing shown yet.
+
+---
+
 # Blooded
 
 ## Wren Ashcombe "I've never once needed to win a fight I could just... not have." Vital Statistics
@@ -869,6 +911,7 @@ Every DP in this arc went to the Grimoire, the one Feat that needed no stat deto
 | Perpetua (Hardened, Spike) | Tithe of Will 2d6+4 | Faith 6 | WT 7 / Stress 9 / Momentum 3 |
 | Faelan (Storied, Spike) | Arcana 2d6+6 | Arcana 6 (at ceiling) | WT 4 / Stress 7 / Momentum 6 |
 
+| Corvin (Green, **Twin**) | Melee 2d6+4 | Melee 5 / Acrobatics 5 | WT 6 / Stress 5 / Momentum 5 |
 | Corvin (Blooded, **Twin**) | Melee 2d6+4 | Melee 5 / Acrobatics 5 | WT 7 / Stress 5 / Momentum 5 |
 | Aeric (Green, **Twin**) | Melee 2d6+3 | Melee 5 / Athletics 5 | WT 6 / Stress 4 / Momentum 6 |
 | Aeric (Veteran, **Twin**) | Melee 2d6+3 | Melee 6 / Athletics 6 | WT 7 / Stress 4 / Momentum 6 |
@@ -891,3 +934,5 @@ Aeric is the second deliberate Twin build, and the first at **Green** rather tha
 **9. First Storied character, and the first time Standing's "typical shape" was deliberately not followed.** Faelan joins Aeric as a two-Standings comparison (Green sheet untouched above, Storied version ten Milestones later). Unlike Aeric, whose Milestone 0 build already had its Attribute prerequisites banked for Berserker Tier 2, Faelan's ten-Milestone arc never touched Engine of Ruin (Arcanist Tier 3) even though he could afford its prerequisites from creation day too — the Feat's self-detonating Backfire clause doesn't fit a character whose entire kit is about not being caught, so the DP went into finishing Shadow Sorcery's own Adept/Master list instead. Worth flagging as a real tension the Standing table doesn't capture: "Storied... pushing into Tier 3 Feats" (The Marrow) describes a typical shape, not a mandatory one, and this is the first build to say so explicitly rather than just defaulting to the extreme. Also: this is the third character (after Ox and Morwenna) to show the "commit fully to one signature stat, never broaden" pattern from note 7 — now demonstrated at Green→Veteran/Hardened *and* Green→Storied, not just within a single late-game build.
 
 **10. Brynja's Veteran pickup, a genuine cross-document error it surfaced, and Flat's first departure from lockstep.** Third same-character comparison (Aeric, Faelan, now Brynja), and the first Veteran example of a Feat picked *because* the obvious alternative would have been dead weight: the Zealot's Litany of Nails only triggers while keeping a Miracle Flowing, and every Miracle on Brynja's sheet — confirmed, not assumed — is a designed fixed-duration effect, not a Flowing one. That check surfaced a real error rather than a maybe: Embracing the Abyss's Channelling Rule cited Litany of Nails itself as an example of a Flowing Miracle, when it's actually the Zealot's Tier 2 Archetype Feat name from The Marrow — not a Miracle at all, and not listed in any Domain. Corrected there to cite Sanctuary (Domain of Strategy, Adept) instead, which is an actual Flowing Miracle. Separately: Brynja is also the first Flat-array character to leave lockstep during Advancement (Wits 2 against Brawn/Reflex/Will at 1) — flagged as an open question in her Table Notes rather than resolved, since nothing in The Marrow says whether "Flat" is a creation-day description only or a philosophy meant to survive Advancement.
+
+**11. First character built backward from an existing higher-Standing sheet, rather than forward from Green.** Corvin's Advancement Ledger already recorded exactly what his two Milestones bought (Riposte, The Insulting Deflection, and — in the equipment prose — a Downtime Leather upgrade over his creation-day Gambeson), so his Green sheet was reconstructed by subtraction rather than designed fresh. That the ledger held enough information to run in reverse cleanly is worth treating as a soft requirement for every future ledger, not just documentation style: a character whose Advancement history is prose-only, without an itemized Milestone-by-Milestone table, couldn't be reconstructed this way. This also completes the roster's second Twin-array pair (after Aeric's Green/Veteran) and confirms the same finding from the opposite direction: Twin is dice-invisible well past creation — Corvin's Strike roll is identical at Green and Blooded, just as Aeric's Melee roll was identical at Green and Veteran — and only shows up once Advancement actually opens a second ceiling, which neither Twin character has reached yet at the Standings currently on the sheet.
