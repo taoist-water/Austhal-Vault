@@ -173,6 +173,32 @@ Jewellery that shifts through a slow spectrum of colours when tapped, or a stone
 
 ### Charmed (No Attunement)
 
+#### General Utility (Scarce)
+
+**Sure-Foot Charm** — 20 sp | Scarce | 0 Slots (Micro-Item, worn)
+A knotted cord anklet, warm against the skin even in cold mud.
+- **Effect:** Advantage on Athletics checks made to resist Difficult Terrain's movement penalty (Iron World). Does not remove the Disadvantage on mobility checks made within it — the wearer still fights the mud, just doesn't get stuck in it.
+
+**Farsight Lens** — 20 sp | Scarce | 0 Slots (Micro-Item, carried)
+A single brass-ringed lens, ground thinner at the center than any glazier would call sound practice.
+- **Effect:** Advantage on Notice checks made to spot something at Long Range or beyond.
+
+**Ember Locket** — 15 sp | Scarce | 0 Slots (Micro-Item, worn)
+A small hinged locket that never quite goes cold, holding a coal that was never lit and never goes out.
+- **Effect:** Once per Scene, clear 1 point of Locked Stress gained specifically from a failed cold-weather Hazard Check (Iron World, Environmental Hazards).
+
+**Merchant's Thumb-ring** — 20 sp | Scarce | 0 Slots (Micro-Item, worn)
+A plain band, worn smooth on the inside from a lifetime of counting coin.
+- **Effect:** +2 to a single Acquisition check made when selling (Soothing the Soul) — stacks with existing Settlement Tier and Reputation modifiers. Once per settlement visit.
+
+**Grappler's Ring** — 18 sp | Scarce | 0 Slots (Micro-Item, worn)
+A rope-textured iron ring, cold and slightly abrasive to the touch.
+- **Effect:** Advantage on Athletics checks made to escape the Anchored condition.
+
+**Quiet Step Buckles** — 15 sp | Scarce | 0 Slots (worn, per Clothing/Worn Armor Exemption)
+A pair of boot buckles that make no sound striking stone, no matter how hard the boot comes down.
+- **Effect:** Once per Scene, ignore Rushed Stealth's Disadvantage (Iron World) for a single Move.
+
 _Bane items below deliberately don't cover every Creature Type. Humanoid and Beast have no entry — not an oversight. Bane exists to answer "how do I reliably hurt something ordinary steel struggles against"; regular people and animals don't have that problem, a plain arming sword already does the job._
 
 **Silvered Edge** (weapon add-on) — 40 sp | Rare
@@ -222,11 +248,67 @@ Requires a weapon. A sliver of lead-heavy glass, ground to a precise, unnatural 
 Requires a weapon. A hair-thin vein of quicksilver run along the fuller or edge — an old alchemist's belief that the thing which unmakes flesh can also unmake what remade it.
 - **Effect:** Bane (Mutant) — see Bestiary: Creature Types. The wielder treats a Mutant target's Wound Threshold as 1 point lower.
 
-**Cloak of Still Water** (armor add-on) — 35 sp | Rare
+#### General Utility (Rare, Non-Bane)
+
+**Cloak of Still Water** (armor add-on) — 35 sp | Rare | No additional Slot — occupies the base armor's existing Slot allowance.
 A grey, unremarkable cloak that seems to drink ambient noise.
 - **Effect:** The wearer gains Advantage on Stealth checks while moving at half their Move value or slower — turning the existing Rushed Stealth penalty (Iron World) into a non-issue for anyone patient enough to earn it, rather than granting a new kind of bonus outright.
 
+**Warding Buckler** (shield add-on) — 40 sp | Rare | No additional Slot — requires a one-handed shield already carried; occupies that shield's existing 1 Slot.
+A small round shield boss etched with concentric rings, fitted to an existing shield rather than sold whole.
+- **Effect:** Once per Scene, when the wearer wins a Block Clash with a Margin of 3+ (Clean or better), they generate 1 additional Momentum beyond the standard win — a masterful parry-block earns extra tempo, on top of avoiding the hit.
+
+**Wind-Step Greaves** (armor add-on) — 40 sp | Rare | No additional Slot — occupies the base armor's existing Slot allowance.
+Light shin-guards that never seem to catch on anything underfoot.
+- **Effect:** Once per Scene, when the wearer wins a Dodge Clash with a Margin of 3+ (Clean or better), they may immediately shift 1 square as a Free Action, without triggering a free strike, as part of the same reaction.
+
+**Riposte Guard** (weapon add-on) — 40 sp | Rare | No additional Slot — requires a weapon already carried.
+A steel hand-guard fitted below the crossbar, angled for a return strike rather than a hold.
+- **Effect:** Once per Scene, when the wearer wins a Parry Clash with a Margin of 3+ (Clean or better), the attacker suffers 1 Impact, ignoring Armor, from the wearer's controlled riposte.
+
+**Watcher's Pendant** — 45 sp | Rare | 0 Slots (Micro-Item, worn)
+A dark pendant, cool to the touch, that seems to twitch a moment before anything else in the room does.
+- **Effect:** Once per Scene, when the wearer would otherwise resolve a trap or ambush as an Unaware Target (Iron World), they instead resolve it as an Aware Target — full Dodge/Block/Parry choice, no Disadvantage.
+
+**Steadying Charm** — 35 sp | Rare | 0 Slots (Micro-Item, worn)
+A worn river stone, unremarkable except for how naturally it sits in a closed fist.
+- **Effect:** Once per Scene, reroll a failed Resolve check made specifically against the Fear condition. Keep the second result.
+
+**Glowless Lantern-Ring** — 45 sp | Rare | 0 Slots (Micro-Item, worn)
+A dull iron ring that seems to gather what little light is already there rather than making more of its own.
+- **Effect:** The wearer treats Dimly Lit conditions (Iron World's Illumination rules) as Well Lit for the purposes of their own attack rolls only — a personal edge against gloom, not a light source others can share. Has no effect in Pitch Black.
+
 ### Enchanted (1 Locked Stress Attunement)
+
+Attunement is capped separately from Inventory — a character cannot be Attuned to more Enchanted/Relic items at once than their Will score (minimum 1). This tier now spans two price bands: a Rare tier for a first real magic item, and the original Legendary tier for late-campaign power.
+
+#### Rare Tier
+
+**Band of the Steady Hand** (ring) — 90 sp | Rare | 0 Slots (Micro-Item, worn)
+A plain iron ring, warm to the touch regardless of the weather.
+- **Effect:** Once per Scene, reroll a single failed Ranged attack roll. Keep the second result.
+
+**Ring of the Anchor** — 85 sp | Rare | 0 Slots (Micro-Item, worn)
+A heavy-looking ring that is, in fact, quite light.
+- **Effect:** Once per Scene, when the wearer would be shoved out of position or knocked Prone, negate that effect entirely, as if the check that caused it had been passed.
+
+**Amulet of Even Breath** — 90 sp | Rare | 0 Slots (Micro-Item, worn)
+A small clay bead on a plain cord, said to hold one held breath, kept for later.
+- **Effect:** Once per Scene, immediately clear 1 Dissonant Stress upon taking a Wound. *(The item version of Ox's Blood Frenzy trait — a proven pressure-release valve against Stress-to-Wound conversion, made purchasable rather than species-born.)*
+
+**Boots of the Long Road** — 80 sp | Rare | 0 Slots (worn, per Clothing/Worn Armor Exemption)
+Well-worn leather boots that never seem to blister the feet inside them.
+- **Effect:** The wearer's Move increases by 10 ft. Difficult Terrain (Iron World) halves this improved total rather than the wearer's base Move.
+
+**Boots of the Silent Step** — 85 sp | Rare | 0 Slots (worn, per Clothing/Worn Armor Exemption)
+Soft-soled boots that drink footfalls the way Cloak of Still Water drinks ambient noise.
+- **Effect:** Once per Scene, ignore Rushed Stealth's Disadvantage (Iron World) for the rest of the current Scene, rather than a single Move — the Enchanted-tier step up from Quiet Step Buckles.
+
+**Signet of Sound Mind** — 95 sp | Rare | 0 Slots (Micro-Item, worn)
+A plain signet ring, its seal worn smooth and unreadable.
+- **Effect:** The wearer's Stress Limit is treated as 1 higher solely for the purpose of determining Breaking — a slightly longer fuse before the mind gives out, not a bigger Stress track on paper.
+
+#### Legendary Tier
 
 **Sigil-Etched Blade** — ~150 sp | Legendary, Commission-gated
 A longsword (or similar) inlaid with warding sigils that glow faintly hot to the touch of anything unnatural.
@@ -259,6 +341,16 @@ Requires a Light armor base (Padded or Leather).
 A slim, black dagger that is always slightly warmer than the air around it.
 - **Effect:** Functions as a permanent, always-on Vital Strike (ignores Armor value in the Wound Threshold calculation) with no -4 penalty required to use it.
 - **The Cost:** Every kill made with the Needle locks 1 additional point of Stress on the wielder that **cannot** be cleared by the Reprieve, Momentum spend, or a Breather — only a full Religious Pursuit or a Long Rest will do. The blade is hungry, and it remembers who fed it.
+
+**The Brand of Gehenna's Grip** (unique manacle) — Not for sale. Found only as loot from Arch-Devil Malaphar.
+A blackened iron cuff, still faintly warm no matter how long it's been off the wrist.
+- **Effect:** Once per Scene, the wielder may spend 1 Momentum to force a target within Reach into an unopposed Resolve check vs. TN 8; failure inflicts 2 Dissonant Stress as infernal heat sears inward.
+- **The Cost:** Each activation locks 1 Stress on the wielder that **cannot** be cleared by Momentum spend or a Breather — only a full Religious Pursuit or a Long Rest will do. The Brand remembers whose hand last closed a shackle, and it isn't particular about whose.
+
+**Halgrim's Grave-Crown** (unique circlet) — Not for sale. Found only as loot from Halgrim the Unburied.
+A dull iron circlet, cold to the touch even beside a fire.
+- **Effect:** Once per Scene, the wearer may treat a single failed Resolve check of their own as passed instead — the crown remembers command, even from a skull that no longer needs a body to give orders.
+- **The Cost:** While worn, the wearer personally treats all light one Illumination band darker than it actually is (Iron World) — Well Lit reads as Dimly Lit, Dimly Lit reads as Pitch Black, for that wearer alone. A dead king's court is always dim, and so is anyone who wears his crown.
 
 ___________________________________________________________________
 

@@ -31,6 +31,27 @@ ___________________________________________________________________
 - Currency Standard: The primary day-to-day trade currency is the Silver Piece (sp). Copper Pennies (cp) are used by peasants (10 cp = 1 sp). Gold Sovereigns (gs) are held only by nobility and wealthy cartels (1 gs = 20 sp).
     
 - Item Degradation: Items can be Damaged (reduces effectiveness or adds a flaw) or Ruined (useless until repaired via a Hammer & Forge downtime action).
+
+## Loot & Treasure by Party Standing
+
+Currency scales with the party's current Standing, the same way Enemy Budget does — find the row, use it for whatever Tier just went down. Fodder barely moves, for the same reason its Skill budget barely moves: it's disposable chaff, not an economic lever.
+
+| Party Standing | Fodder (per kill) | Grunt (per kill) | Elite (per kill/find) | Dread/Boss (per kill/find) |
+|---|---|---|---|---|
+| Green | 1–2 sp | 5–10 sp | 15–25 sp | 40–70 sp |
+| Blooded | 1–2 sp | 8–15 sp | 20–35 sp | 60–100 sp |
+| Veteran | 2–3 sp | 10–20 sp | 30–50 sp | 100–160 sp (5–8 gs) |
+| Hardened | 2–3 sp | 15–25 sp | 45–75 sp | 160–260 sp (8–13 gs) |
+| Storied | 3–4 sp | 20–35 sp | 70–120 sp | 260–450 sp (13–22 gs) |
+
+**Item Find (Rare+ gear):** money alone can't buy Rare or Legendary goods — Soothing the Soul is explicit that those are "acquired in play... or the point of a sword." This is where they enter play instead:
+- **Fodder:** None. Their own gear isn't worth looting individually.
+- **Grunt:** Roughly 1-in-6 carries a single Scarce-tier item worth taking.
+- **Elite:** Usually (roughly 1-in-2) carries or guards one Scarce–Rare item — consistent with Hardware's own Bane-item note that a party is "far more likely to loot one... off a dead wyrm than find one for sale."
+- **Dread/Boss:** At least one Rare item guaranteed; a real chance (GM discretion, roughly 1-in-3) of a Legendary item or the scenario's actual macguffin.
+
+**Set-piece treasure:** a named one-off (a hoard, a macguffin like the Temple of the Lost God's golden statue) isn't a kill-loot roll — price it using the Dread/Boss row for the party's current Standing as its raw sale value, then let the fiction decide whether the party ever actually melts it down.
+
 ______________________________________________________________________
 # Targeting the Resources
 
