@@ -422,6 +422,53 @@ Strike (Shortsword) 2d6+4, Impact = Margin+2 | Parry 2d6+4 | Dodge 2d6+3 | **Fin
 
 ---
 
+## Dorin Hollowmark — Dwarf Male, Arcana Caster (Demonology and Void Magic)
+
+*"The mountain has secrets even the Ancestors were wise enough to leave buried. I dug them up anyway."*
+
+### Vital Statistics
+- **Species:** Dwarf
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 0 | Wits 3 | Will 0 *(Spike array)*
+- **Skills:** Arcana 3 | Notice 2 | Insight 2 | Lore 1 *(8 ranks, 8 DP. Ceilings: Arcana/Notice/Insight/Medicine/Crafting/Lore 6 (Wits 3) — every skill on the sheet shares one ceiling)*
+- **Wound Threshold:** 5 *(4 base + 0 Brawn + 0 armor + 1 Stone-Bones)*
+- **Stress Limit:** 7 *(4 base + 3 Wits + 0 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 0)* | **Activation Order:** 6 *(6 + Reflex 0)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)*
+
+### Species Traits (Dwarf)
+- **Stone-Bones:** +1 Wound Threshold (already applied above).
+- **Subterranean Senses:** Advantage on Notice checks underground or examining stonework/engineering.
+- **Stumpy (Drawback):** Disadvantage on Athletics checks during chases or open-ground sprints.
+
+### Feats
+- **Arcane Awakening** *(Paradigm: Demonology and Void Magic — Creation)*. Grimoire below — 2 picks in-Paradigm, 1 from Witch Magic and Hedge Craft, 1 from Common; per the feat's own text every Arcane Awakening character takes at least 1 off-Paradigm spell among their starting 4, since each Paradigm's Novice tier holds exactly 3. Dorin goes one further than the minimum, trading a third Demonology pick for a second off-Paradigm one.
+- **Ledger of the Deep** *(Insight +1, Lore +1 — Creation)*: on a Massive Success (Margin 5+) on an Insight or Lore check made to identify a creature, curse, or occult phenomenon, he immediately banks 1 Momentum. His only Momentum engine — nothing else on the sheet generates it.
+
+### Equipment
+- **Focus:** Mage Staff (2H, **Reach**, **Bound**, **Conduit**, **Grounding Rod**) — 45 sp. Bound lets him cast without the Grimoire physically in hand (as long as it's on his person); Conduit means the hand holding the Staff still counts as free for the somatic component. Together they satisfy both Casting Requirements on the Staff alone — no Blind Casting penalty despite it being 2-Handed. The Grimoire itself stays on his person (Repository, required for the spells to work at all) but isn't actively wielded.
+- **Armor:** None. Skipped entirely to fund the alchemy below — no Arcana penalty either way, but Wound Threshold pays for it.
+- **Starting Purse: 80 sp** — Mage Staff 45 sp. Black-Root Draught (15 sp) + Philter of Focus (20 sp) = 35 sp. **80 sp spent, 0 sp remaining.**
+
+### Grimoire (Arcana = **2d6+3**)
+- **Fear** *(Demonology, Paradigm, Mastery-eligible)* — Arcane Clash, Arcana vs. Target's Resolve, one character or 10ft area, Short Range, Aggressor. Margin 1–2: target suffers 2 Dissonant Stress and must spend their next Activation fleeing at max speed; he takes 1 Dissonant Stress from the strain. Margin 3+ (Clean, or Mastery-upgraded from 1–2): as above, and a Fodder-tier target immediately Routs instead of just fleeing.
+- **Void Rend** *(Demonology, Paradigm, Mastery-eligible)* — Arcane Clash, Arcana vs. Target's Defense, Medium Range, Spell Power 2, Aggressor. Margin 1–2: Impact = Margin+2, ignoring 1 point of the target's Shield Value or Armor; he takes 1 Dissonant Stress. Margin 3+ (Clean, or Mastery-upgraded from 1–2): as above, no cost.
+- **The Evil Eye** *(Witch Magic and Hedge Craft, off-Paradigm — no Mastery)* — Arcane Clash, Arcana vs. Target's Resolve, Short Range, Aggressor. Margin 1–2: target is Hexed — Disadvantage on their next Aggressor Strike or Reactor defense roll; he takes 1 Dissonant Stress. Margin 3+ (Clean): as above, and if the Hexed roll then fails, the target also suffers 1 Dissonant Stress from the backlash.
+- **Arcane Protection** *(Common — no Mastery)* — Unopposed vs. TN 8 to raise, Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound; the Mage Staff's Grounding Rod grants Advantage on this roll), Activation/Reactor. Margin 0–2: ward holds, he takes 1 Dissonant Stress. Margin 3–4: ward holds, hostile spells targeting him suffer Disadvantage on their casting roll. Margin 5+: as Clean, and the ward gains SV 2 against the next hostile spell's Impact. Special: as a Reactor action against an incoming hostile spell, he may Block using Arcana instead of his normal Reactor stat.
+
+### Combat Math Quick-Ref
+Arcane Clash/Manifestation 2d6+3 | Notice 2d6+2 | Insight 2d6+2 | Lore 2d6+1 | Dodge 2d6+0 *(no Acrobatics investment)* | Activation Order 6
+
+### Table Notes
+- **First character to actually equip a Mage Staff.** Every prior Arcana caster in the roster (Faelan, Morwenna, Vrenna) carries the bare Grimoire. The Staff costs 3x a Grimoire (45 sp vs. 15 sp) and is 2-Handed rather than 1, but Bound + Conduit together mean he never pays the Blind Casting tax a Grimoire-and-empty-hand caster risks the moment their free hand fills up. The trade is upfront cost and losing a hand for anything else (no shield, no second weapon), not ongoing risk.
+- **Arcane Protection was picked to make Grounding Rod matter, not for its own sake.** It's the only Sustain-duration spell in the Novice tier across every list in the corpus — Common, every Paradigm, everything. Without it, Grounding Rod's Advantage-on-Sustain-checks would sit unused on his sheet forever. Philter of Focus (20 sp, auto-Clean the first Sustain check of the scene) stacks with it directly: guaranteed Clean on the opening cast, Advantage on every maintenance roll after.
+- **Zero armor, zero Acrobatics — a deliberate glass cannon, not an oversight.** WT 5 is tied for second-lowest in the roster (only Faelan, Elowen, and Morwenna sit at 4), and Dodge 2d6+0 means he's flatly bad at avoiding a hit he doesn't see coming. Every spare silver went to the Staff and the alchemy instead of a Leather jacket that would have cost 12 sp and raised WT to 6. That's the "spend as much as possible on alchemical wares" instruction showing up as an actual stat cost, not just a shopping list.
+- **First 2/1/1 spell split in the roster.** Faelan, Morwenna, and (as far as the roster shows) Vrenna all took the default 3-in-Paradigm-plus-1-Common shape Arcane Awakening's text treats as the baseline. Dorin trades a third Demonology pick for a second off-Paradigm one instead — legal by the feat's own wording ("Common list, your chosen Paradigm's list, and/or any other Paradigm's Novice list"), just not the shape anyone's built yet. Worth watching whether future casters treat 3+1 as the default or whether this becomes a real second pattern.
+- **Ledger of the Deep is a new Tier 1 Feat, added to The Marrow alongside this build.** Built the same way Scavenger's Eye was — a Massive Success on the character's own invested skills banking Momentum — just retargeted at Insight/Lore instead of Wits/Survival, and at 1 Momentum instead of 2 since it isn't paired with an Attribute increase the way Scavenger's Eye is.
+
+---
+
 # Blooded
 
 ## Wren Ashcombe "I've never once needed to win a fight I could just... not have." Vital Statistics
@@ -910,6 +957,7 @@ Every DP in this arc went to the Grimoire, the one Feat that needed no stat deto
 | Morwenna (Hardened, Spike) | Arcana 2d6+4 | Arcana 6 | WT 4 / Stress 9 / Momentum 4 |
 | Perpetua (Hardened, Spike) | Tithe of Will 2d6+4 | Faith 6 | WT 7 / Stress 9 / Momentum 3 |
 | Faelan (Storied, Spike) | Arcana 2d6+6 | Arcana 6 (at ceiling) | WT 4 / Stress 7 / Momentum 6 |
+| Dorin (Green, Spike) | Arcana 2d6+3 | Arcana 6 | WT 5 / Stress 7 / Momentum 4 |
 
 | Corvin (Green, **Twin**) | Melee 2d6+4 | Melee 5 / Acrobatics 5 | WT 6 / Stress 5 / Momentum 5 |
 | Corvin (Blooded, **Twin**) | Melee 2d6+4 | Melee 5 / Acrobatics 5 | WT 7 / Stress 5 / Momentum 5 |
@@ -936,3 +984,5 @@ Aeric is the second deliberate Twin build, and the first at **Green** rather tha
 **10. Brynja's Veteran pickup, a genuine cross-document error it surfaced, and Flat's first departure from lockstep.** Third same-character comparison (Aeric, Faelan, now Brynja), and the first Veteran example of a Feat picked *because* the obvious alternative would have been dead weight: the Zealot's Litany of Nails only triggers while keeping a Miracle Flowing, and every Miracle on Brynja's sheet — confirmed, not assumed — is a designed fixed-duration effect, not a Flowing one. That check surfaced a real error rather than a maybe: Embracing the Abyss's Channelling Rule cited Litany of Nails itself as an example of a Flowing Miracle, when it's actually the Zealot's Tier 2 Archetype Feat name from The Marrow — not a Miracle at all, and not listed in any Domain. Corrected there to cite Sanctuary (Domain of Strategy, Adept) instead, which is an actual Flowing Miracle. Separately: Brynja is also the first Flat-array character to leave lockstep during Advancement (Wits 2 against Brawn/Reflex/Will at 1) — flagged as an open question in her Table Notes rather than resolved, since nothing in The Marrow says whether "Flat" is a creation-day description only or a philosophy meant to survive Advancement.
 
 **11. First character built backward from an existing higher-Standing sheet, rather than forward from Green.** Corvin's Advancement Ledger already recorded exactly what his two Milestones bought (Riposte, The Insulting Deflection, and — in the equipment prose — a Downtime Leather upgrade over his creation-day Gambeson), so his Green sheet was reconstructed by subtraction rather than designed fresh. That the ledger held enough information to run in reverse cleanly is worth treating as a soft requirement for every future ledger, not just documentation style: a character whose Advancement history is prose-only, without an itemized Milestone-by-Milestone table, couldn't be reconstructed this way. This also completes the roster's second Twin-array pair (after Aeric's Green/Veteran) and confirms the same finding from the opposite direction: Twin is dice-invisible well past creation — Corvin's Strike roll is identical at Green and Blooded, just as Aeric's Melee roll was identical at Green and Veteran — and only shows up once Advancement actually opens a second ceiling, which neither Twin character has reached yet at the Standings currently on the sheet.
+
+**12. First Mage Staff in the roster, first 2/1/1 spell split, and a new Tier 1 Feat.** Dorin Hollowmark (Demonology and Void Magic) is the first caster built around the Staff rather than the bare Grimoire — Bound and Conduit together mean the Staff alone clears both Casting Requirements despite being 2-Handed, which no Grimoire-and-empty-hand build can claim once that free hand fills up with anything else. His Grimoire is also the first to deliberately undercut Arcane Awakening's 3-in-Paradigm-plus-1-Common default: 2 Demonology, 1 Witch Magic and Hedge Craft, 1 Common — legal by the feat's own text (every Paradigm's Novice tier is exactly 3 spells, so at least 1 off-Paradigm pick is mandatory; nothing caps it at exactly 1), just not a shape anyone had actually built yet. The Common pick, Arcane Protection, was chosen specifically because it's the only Sustain-duration spell anywhere in the Novice tier — without it, the Staff's Grounding Rod tag (Advantage on Sustain checks) would have nothing to apply to. Separately: he carries no armor and no Acrobatics rank at all, spending the freed silver on alchemy per spec (Black-Root Draught, Philter of Focus) instead of a 12 sp Leather jacket — the roster's clearest example yet of "spend as much as possible" landing as an actual stat cost (WT 5, Dodge 2d6+0) rather than just a shopping choice. Finally, Ledger of the Deep is a new Tier 1 Feat added to The Marrow alongside this build, filling a gap his sheet exposed: every other creation-day caster or skill-monkey in the roster has a Momentum generator tied to their invested skills (Scavenger's Eye, Iron Grip), and without one, a pure Insight/Lore/Arcana build had no way to bank Momentum at all outside the generic Massive Success rule.

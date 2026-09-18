@@ -1,4 +1,4 @@
-scene 1: Jungle Island NPC meet and Greet, the expedition heads out. tropical Environmental hazards. psychological test at the warning totem. finding the entrance, eveidence of humanoid lizards: skinks.
+scene 1: Jungle Island NPC meet and Greet, the expedition heads out. tropical Environmental hazards. psychological test at the warning totem. finding the entrance, evidence of humanoid lizards: skinks.
 
 Scene 2: entrance way first room. wall spike traps. evidence of previous expedition. skill test to determine which room they end up in next, fail - spider nest, pass - pit trap ambush.
   scene 2a fail: stumbling about the labrynthine temple stumbling into a giant spiders nest. passive notice checks to spot the webs. tests to avoid being webbed. fight the giant spiders. find some loot amongst long dead bodies.

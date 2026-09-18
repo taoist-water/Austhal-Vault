@@ -7,7 +7,7 @@ Scenes are a method of pacing and is the action between Breathers. So, when ther
 
 **Within a Scene**
 Players take turns Activating their character and taking actions. 
-Outside of combat, such as exploring the world or socially engaging actions are either played out as a discussion amongst the players and the GM.  The GM facilitaing the exchanges and narrating the scenes, like a traditional RPG. Dice are rolled only when the narrative/GM requires it. Activation order and the rolls to determine them generally aren't needed during these moments.
+Outside of combat, such as exploring the world or socially engaging actions are either played out as a discussion amongst the players and the GM.  The GM facilitaing the exchanges and narrating the scenes, like a traditional RPG. Dice are rolled only when the narrative/GM requires it. Activation order generally isnt't needed during these moments.
 Activation order is mainly used to provide order to the chaos of combat.  This ensures the resolution can be handled in an organised fashion.
 When  there is an action that requires some dice rolling it is usually against a [[TN]], the result determines the outcome of the action.  Sometimes these actions will be Opposed by an opponent, meaning dice are rolled, appropriate modifiers are added and compared to the roll of the opponent.  Whoever rolls highest wins.  Depending on the action taken could also determine how well or how poorly a character has performed in this opposed roll.
 ___________________________________________________________________
@@ -23,7 +23,7 @@ when the context or environment of a task is challenging or difficult, the GM ca
     
 - **Extreme (-4):** The task borders on the impossible. Performing surgery mid-combat, deciphering a Dread entity's true name from a shattered tablet.
 
-For example, tracking a giant boar through a muddy trail is somewhat easy so a TN 8 with a situational modifier of +2.  Where as, that same boar over dry ground during a dust storm could be TN with a situational modifier of -4.
+For example, tracking a giant boar through a muddy trail is somewhat easy so a TN 8 with a situational modifier of +2.  Where as, that same boar over dry ground during a dust storm could be TN 10 with a situational modifier of -4.
 
 ___________________________________________________________________
 # Economic Baselines

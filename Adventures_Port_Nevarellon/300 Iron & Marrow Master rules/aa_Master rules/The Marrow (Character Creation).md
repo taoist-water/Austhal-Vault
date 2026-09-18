@@ -352,6 +352,14 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 * Mechanic: During the Engagement Flow, if you tie on a Clash and the weapons bind (ending the engagement), you automatically bank 1 Momentum as you secure a superior physical footing for the next exchange.
 
+**Ledger of the Deep**
+
+* Prerequisites: Insight 1 or Lore 1
+
+>Every entity has a name, a nature, and a price. Once you know all three, it stops being able to surprise you.
+
+* Mechanic: On a Massive Success (Margin 5+) on an Insight or Lore check made to identify a creature, curse, or occult phenomenon, you immediately bank 1 Momentum — what you've read about the abyss becomes leverage, not just trivia.
+
 **Lethal Strikes**
 
 * Prerequisites: Melee 1
