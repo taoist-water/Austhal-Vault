@@ -430,10 +430,10 @@ Strike (Shortsword) 2d6+4, Impact = Margin+2 | Parry 2d6+4 | Dodge 2d6+3 | **Fin
 - **Species:** Dwarf
 - **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
 - **Size:** Standard | **Move:** 30 ft / 6 squares
-- **Attributes:** Brawn 0 | Reflex 0 | Wits 3 | Will 0 *(Spike array)*
-- **Skills:** Arcana 3 | Notice 2 | Insight 2 | Lore 1 *(8 ranks, 8 DP. Ceilings: Arcana/Notice/Insight/Medicine/Crafting/Lore 6 (Wits 3) — every skill on the sheet shares one ceiling)*
+- **Attributes:** Brawn 0 | Reflex 0 | Wits 3 | Will 1 *(Spike array — 3/1/0/0)*
+- **Skills:** Arcana 3 | Notice 2 | Insight 2 | Lore 1 *(8 ranks, 8 DP. Ceilings: Arcana/Notice/Insight/Medicine/Crafting/Lore 6 (Wits 3); Resolve/Influence/Faith 4 (Will 1); everything under Brawn or Reflex 3)*
 - **Wound Threshold:** 5 *(4 base + 0 Brawn + 0 armor + 1 Stone-Bones)*
-- **Stress Limit:** 7 *(4 base + 3 Wits + 0 Will)*
+- **Stress Limit:** 8 *(4 base + 3 Wits + 1 Will)*
 - **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 0)* | **Activation Order:** 6 *(6 + Reflex 0)*
 - **Inventory Slots:** 8 *(8 + 0 Brawn)*
 
@@ -461,6 +461,7 @@ Strike (Shortsword) 2d6+4, Impact = Margin+2 | Parry 2d6+4 | Dodge 2d6+3 | **Fin
 Arcane Clash/Manifestation 2d6+3 | Notice 2d6+2 | Insight 2d6+2 | Lore 2d6+1 | Dodge 2d6+0 *(no Acrobatics investment)* | Activation Order 6
 
 ### Table Notes
+- **Correction: Spike is 3/1/0/0, not 3/0/0/0 — the array spends all 4 Attribute points, not 3.** The first draft of this sheet left the +1 unspent. It went to Will rather than Brawn or Reflex: every one of his four spells inflicts Dissonant Stress on him on a non-Clean result, so the extra point buys Stress Limit 8 instead of 7 — headroom for the exact tax his own Grimoire charges him — without touching the WT 5 / no-armor fragility that's the deliberate point of the build. Resolve/Influence/Faith ceiling opens to 4 as a side effect; he has no ranks in any of them.
 - **First character to actually equip a Mage Staff.** Every prior Arcana caster in the roster (Faelan, Morwenna, Vrenna) carries the bare Grimoire. The Staff costs 3x a Grimoire (45 sp vs. 15 sp) and is 2-Handed rather than 1, but Bound + Conduit together mean he never pays the Blind Casting tax a Grimoire-and-empty-hand caster risks the moment their free hand fills up. The trade is upfront cost and losing a hand for anything else (no shield, no second weapon), not ongoing risk.
 - **Arcane Protection was picked to make Grounding Rod matter, not for its own sake.** It's the only Sustain-duration spell in the Novice tier across every list in the corpus — Common, every Paradigm, everything. Without it, Grounding Rod's Advantage-on-Sustain-checks would sit unused on his sheet forever. Philter of Focus (20 sp, auto-Clean the first Sustain check of the scene) stacks with it directly: guaranteed Clean on the opening cast, Advantage on every maintenance roll after.
 - **Zero armor, zero Acrobatics — a deliberate glass cannon, not an oversight.** WT 5 is tied for second-lowest in the roster (only Faelan, Elowen, and Morwenna sit at 4), and Dodge 2d6+0 means he's flatly bad at avoiding a hit he doesn't see coming. Every spare silver went to the Staff and the alchemy instead of a Leather jacket that would have cost 12 sp and raised WT to 6. That's the "spend as much as possible on alchemical wares" instruction showing up as an actual stat cost, not just a shopping list.
@@ -957,7 +958,7 @@ Every DP in this arc went to the Grimoire, the one Feat that needed no stat deto
 | Morwenna (Hardened, Spike) | Arcana 2d6+4 | Arcana 6 | WT 4 / Stress 9 / Momentum 4 |
 | Perpetua (Hardened, Spike) | Tithe of Will 2d6+4 | Faith 6 | WT 7 / Stress 9 / Momentum 3 |
 | Faelan (Storied, Spike) | Arcana 2d6+6 | Arcana 6 (at ceiling) | WT 4 / Stress 7 / Momentum 6 |
-| Dorin (Green, Spike) | Arcana 2d6+3 | Arcana 6 | WT 5 / Stress 7 / Momentum 4 |
+| Dorin (Green, Spike) | Arcana 2d6+3 | Arcana 6 | WT 5 / Stress 8 / Momentum 4 |
 
 | Corvin (Green, **Twin**) | Melee 2d6+4 | Melee 5 / Acrobatics 5 | WT 6 / Stress 5 / Momentum 5 |
 | Corvin (Blooded, **Twin**) | Melee 2d6+4 | Melee 5 / Acrobatics 5 | WT 7 / Stress 5 / Momentum 5 |

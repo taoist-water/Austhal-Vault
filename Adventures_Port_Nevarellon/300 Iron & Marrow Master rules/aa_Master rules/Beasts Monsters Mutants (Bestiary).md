@@ -62,6 +62,12 @@ The logic behind each column:
 | Rotting Fen-Goliath | Elite | 11 | 9–12 | in band |
 | The Barrow-Fang | Elite | 9 | 9–12 | in band |
 | Arch-Devil Malaphar | Boss | 15 | 13–17 | in band |
+| Gutter Rat | Fodder | 2 | 1–2 | in band |
+| Back-Alley Brawler | Fodder | 2 | 1–2 | in band |
+| Knuckle-Duster | Grunt | 5 | 4–6 | in band |
+| The Bouncer | Grunt | 5 | 4–6 | in band |
+| The Fixer | Elite | 9 | 9–12 | in band |
+| The Duelist | Elite | 9 | 9–12 | in band |
 
 - **Cultist Assassin** was previously flagged as needing a rebuild for falling under the Elite floor. It no longer does. The flag was an artefact of the old metric double-counting a shared Attribute: its Reflex +3 was propping up both Dodge and Stealth but only counted once. At 11 Skill points it sits comfortably mid-band, and its Traits and Special Actions were correctly tuned all along. **No rebuild required — flag withdrawn.**
 - **The Barrow-Fang** was mislabeled Dread in this table — its own statblock reads Tier: Elite, and its build (3 Traits, 2 Special Actions) matches Elite's spec, not Dread/Boss's 3+ Threat Ability minimum. Measured against the correct Elite floor it was short by 1 Skill point (8 vs. 9); Notice raised from +1 to +2 closes that gap. No rebuild needed once the tier label itself is fixed.
@@ -331,6 +337,64 @@ ________________________________________________________________________________
 - **Behaviour when Broken:** Resolves as **The Rout** — scuttles back up into the webbing and cracks overhead.
 - **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
 
+### Gutter Rat
+
+> _A blur of small hands and someone else's coin purse. You notice the knife after you notice the purse is gone._
+
+#### Vital Statistics
+
+- **Tier:** Fodder
+- **Type:** Humanoid (Halfling)
+- **Size:** Small (Scale -1)
+- **Move:** 30 ft
+- **Attributes (derived only):** _(Assumed Zero: everything. Activation Order 6.)_
+- **Skills:** Stealth +2.
+- **Derived stats:**
+    - Wound Threshold: **3** _(Base 4 - 1 Small + Brawn 0)_
+    - Wound Slots: **1**
+    - Stress Limit: **4** _(4 + 0 Fodder — no Scale penalty: a Halfling's Small Stature explicitly exempts them from the usual Small-Scale Stress reduction, per The Marrow.)_
+- **Equipment:** Punching Dagger (Power 0, 1H, Concealable, Close-Quarters, Inertia). Strike Roll: 2d6 (Melee +0).
+- **Traits (2):**
+    - **Underfoot:** Gains Advantage on Stealth checks as long as it has cover, is Obscured, or is moving through the space of a larger creature.
+    - **Halfling Luck:** Once per session, may completely ignore the mechanical effects of a Fumble (Snake Eyes). The action still fails; the Stress penalty doesn't land.
+- **Special Actions (1):**
+    - **Sucker Stab:** _Trigger:_ Instead of a regular attack, declared against a target within 5 ft. _Effect:_ A short blade driven up under the ribs. The target must pass a TN 8 Prowess check or take 2 Dissonant Stress — enough, from a standing start, to push most Green characters to the Winded threshold on its own.
+
+#### Phases
+
+- **Behaviour when unbroken:** Works the edges — never the first into a fight and never alone, leaning on Underfoot to stay unseen until someone is already occupied, then knifing whoever is distracted.
+- **Behaviour when Broken:** Resolves as **The Rout** — scatters into the crowd, the drain, or the gap between two buildings that nobody larger can follow.
+- **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
+
+### Back-Alley Brawler
+
+> _Rented muscle, paid enough to hurt you and not one copper more. Hitting it does not make it stop; hitting it makes it pay attention._
+
+#### Vital Statistics
+
+- **Tier:** Fodder
+- **Type:** Humanoid (Half-Orc)
+- **Size:** Standard
+- **Move:** 30 ft
+- **Attributes (derived only):** _(Assumed Zero: everything. Activation Order 6.)_
+- **Skills:** Melee +2.
+- **Derived stats:**
+    - Wound Threshold: **4** _(Base 4 + Brawn 0)_
+    - Wound Slots: **1**
+    - Stress Limit: **4** _(4 + 0 Fodder)_
+- **Equipment:** Club (Power 0, 1H, Bash — improvised, always available). Strike Roll: 2d6+2 (Melee +2).
+- **Traits (2):**
+    - **Blood Frenzy:** When this creature suffers a Wound, the adrenaline spikes — it immediately clears 1 Dissonant Stress. Injuring it clears its panic and focuses its rage.
+    - **Menacing:** Gains Advantage on Influence checks when attempting to intimidate anyone smaller or weaker than itself.
+- **Special Actions (1):**
+    - **Haymaker:** _Trigger:_ Instead of a regular attack. _Effect:_ A wild, overcommitted swing — +1 Impact on a hit, but the Brawler suffers Disadvantage on its next Reactor roll.
+
+#### Phases
+
+- **Behaviour when unbroken:** Closes immediately and swings, using Menacing to pick the smallest-looking target in the room and Haymaker whenever it thinks the fight is nearly over.
+- **Behaviour when Broken:** Resolves as **Frenzy** — the dynamic Blood Frenzy already implies. It loses its defensive options entirely but gains Advantage on all Strike rolls until it drops.
+- **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
+
 ## Grunt
 
 ### Orc Line-Breaker
@@ -388,6 +452,62 @@ ________________________________________________________________________________
 - **Behaviour when Broken:** Resolves as **The Rout** — breaks and flees deeper into the temple, straight toward the inner chamber, giving whatever guards it there fair warning.
 - **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
 
+### Knuckle-Duster
+
+> _A working professional. Nothing personal — unless you make it personal, and people who make it personal stop being seen around here._
+
+#### Vital Statistics
+
+- **Tier:** Grunt
+- **Type:** Humanoid (Human)
+- **Move:** 30 ft
+- **Attributes (derived only):** _(Assumed Zero: everything. Activation Order 6.)_
+- **Skills:** Melee +3, Prowess +2.
+- **Derived stats:**
+    - Wound Threshold: **4** _(Base 4 + Brawn 0)_
+    - Wound Slots: **2**
+    - Stress Limit: **5** _(4 + 1 Indomitable Spirit + 0 Grunt)_
+- **Equipment:** Sap (Power 2, 1H, non-Lethal, Concealable). Strike Roll: 2d6+3 (Melee +3).
+- **Traits (2):**
+    - **Indomitable Spirit:** A slightly higher breaking point — base Stress Limit increased by +1 (already folded into the derived stat above).
+    - **Brute:** Heavy, sweeping strikes designed to shatter shields and break bones. When this creature wins an attack action, it inflicts +1 Impact and forces the target back 1 square/5 ft. If the target hits a wall or solid obstacle, they immediately take 1 Dissonant Stress from the concussive force.
+- **Special Actions (1):**
+    - **Debt Collector's Grip:** _Trigger:_ Declared after a successful Melee clash with a Margin of 3+ (Clean or better). _Effect:_ Instead of dealing normal Impact, it takes a fistful of collar and shoves the target against the nearest wall — the target gains the **Anchored** condition. You're not going anywhere until this conversation is finished.
+
+#### Phases
+
+- **Behaviour when unbroken:** Picks one target and stays on them, using Brute to walk them backwards into a wall or an alley mouth and Debt Collector's Grip to pin whoever is trying to leave. The Sap is deliberate — a body is paperwork, a broken hand is a message.
+- **Behaviour when Broken:** Resolves as **The Rout** — a professional, not a martyr. Disappears into streets he knows far better than the party does.
+- **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
+
+### The Bouncer
+
+> _Holds the door like it's the only thing in the world worth holding. For the length of his shift, it is._
+
+#### Vital Statistics
+
+- **Tier:** Grunt
+- **Type:** Humanoid (Dwarf)
+- **Move:** 30 ft
+- **Attributes (derived only):** _(Assumed Zero: everything. Activation Order 6.)_
+- **Skills:** Melee +2, Block +3.
+- **Derived stats:**
+    - Wound Threshold: **5** _(Base 4 + Brawn 0 + 1 Stone-Bones)_
+    - Wound Slots: **2**
+    - Stress Limit: **4** _(4 + 0 Grunt)_
+- **Equipment:** Club (Power 0, 1H, Bash — improvised, always available). No shield — Block is fought bare-handed here, per the Orc Line-Breaker precedent: it still contests the Clash at +3, but with no Shield Value to subtract from the Impact on a loss. Strike Roll: 2d6+2 (Melee +2).
+- **Traits (2):**
+    - **Stone-Bones:** Dense enough to shrug off what would drop a taller man — base Wound Threshold increased by +1 (already folded into the derived stat above).
+    - **Subterranean Senses:** Gains Advantage on Notice checks while underground, or when examining stonework and engineering — cellars, sewer runs, and back rooms are his native ground.
+- **Special Actions (1):**
+    - **Choke the Doorway:** _Trigger:_ Declared when this creature is the sole occupant of a doorway, alley mouth, stairwell, or similarly narrow chokepoint (GM's call) and wins a Block Clash as the Reactor. _Effect:_ Rather than simply absorbing the hit, he puts his shoulder into it — the attacker is shoved back 1 square and cannot re-engage this activation.
+
+#### Phases
+
+- **Behaviour when unbroken:** Never leaves the chokepoint voluntarily. Lets the party come to him, blocks rather than swings, and relies on Choke the Doorway to make a narrow space cost more than it's worth.
+- **Behaviour when Broken:** Resolves as **Surrender** — a working stiff who yields rather than dies for a boss who isn't even in the room. Perfectly willing to discuss where that boss is, for the right consideration.
+- **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
+
 ## Elite
 
 ### Lizardman Shaman
@@ -434,16 +554,17 @@ ________________________________________________________________________________
     - Wound Slots: **3**
     - Stress Limit: **6** _(4 + Will 0 + Wits 1 + 1 Elite)_
 - **Equipment:** Dagger (Power 0, 1H, Concealable, Close-Quarters, Finesse, Thrown, Sidearm) — Strike Roll: 2d6+2 (Melee +2). Shortbow (Power 2, 2H, Volley) for ranged work before closing in — Ranged +0, Strike Roll: 2d6.
-- **Traits (2):**
+- **Traits (3):**
     - **Fanatical:** Immune to being Intimidated.
     - **Ambusher:** Gains Advantage on the Clash roll if attacking an unaware target from Stealth.
+    - **Skittering:** Unnatural speed, shifting limbs, or erratic reflexes make them slippery targets. This creature may move out of a Threat Zone without requiring a test, or causing a free strike.
 - **Special Actions (2):**
-    - **Vanish:** _Trigger:_ Instead of a regular action, when obscured. _Effect:_ The Assassin blends into the shadows, becoming effectively totally obscured — finding them again requires a successful Notice check.
+    - **Vanish:** _Trigger:_ At the end of its movement this activation, if it ends that movement in an Obscured or Heavily Obscured position (per Iron World's Cover rules). _Effect:_ The Assassin blends into the shadows, becoming effectively totally obscured — finding them again requires a successful Notice check.
     - **Throat Slit:** _Trigger:_ On a successful Melee clash with a Margin of 3+. _Effect:_ The target immediately suffers a Minor Wound, bypassing their normal Impact Threshold.
 
 #### Phases
 
-- **Behaviour when unbroken:** Opens with the Shortbow or from Stealth with Ambusher, closing in for the Margin-3 opening that triggers Throat Slit; avoids a straight brawl it doesn't need to have.
+- **Behaviour when unbroken:** Opens with the Shortbow or from Stealth with Ambusher, closing in for the Margin-3 opening that triggers Throat Slit — then uses Skittering to slip out of the Threat Zone it just created, Vanishing if that retreat ends somewhere obscured. Never sticks around for a fair fight it doesn't need to have.
 - **Behaviour when Broken:** Resolves as **The Rout** — Vanish is already its escape valve, so once Stress maxes out it uses that same instinct to disappear from the fight for good rather than keep pressing a lost contract.
 - **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
 _______________________________
@@ -572,6 +693,68 @@ __________________________________________________________________
 
 ---
 
+
+---
+
+### The Fixer
+
+> _She doesn't carry a weapon if she can help it. She rarely needs to — by the time a room turns violent, she has usually already sold it to someone._
+
+#### Vital Statistics
+
+- **Tier:** Elite
+- **Type:** Humanoid (Half-Elf)
+- **Move:** 30 ft
+- **Attributes (derived only):** _(Assumed Zero: everything. Activation Order 6.)_
+- **Skills:** Influence +4, Melee +2, Resolve +2, Notice +1.
+- **Derived stats:**
+    - Wound Threshold: **3** _(Base 4 + Brawn 0 - 1 Hollow-Boned, inherited with Fey Reflexes via Split Heritage)_
+    - Wound Slots: **3**
+    - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite)_
+- **Equipment:** Dagger (Power 0, 1H, Concealable, Finesse, Thrown). Strike Roll: 2d6+2 (Melee +2).
+- **Traits (3):**
+    - **Silver-Tongued:** Gains Advantage on Influence checks when persuading, de-escalating a fight, negotiating, or gathering information.
+    - **Fey Reflexes:** Gains Advantage on Acrobatics checks to avoid environmental hazards, traps, or area-of-effect abilities. Taken via Split Heritage — the Hollow-Boned drawback above travels with it.
+    - **Whisper Network:** At the start of a Scene, as a Free Action, she may name one piece of tactical information the GM would otherwise withhold — an ambush position, a guard rotation's gap, which of the party's contacts already sold them out. Somebody in the room always owes her a favour.
+- **Special Actions (2):**
+    - **Cut a Deal:** _Trigger:_ Instead of a regular action, declared against an Unbroken enemy combatant within earshot. _Effect:_ Opposed Influence vs. that target's Resolve. On a win, shift that specific combatant one step along the Social Engine's stance ladder (Iron World) toward Neutral/Friendly for the rest of the Scene. Hired muscle is only ever as loyal as its last payment.
+    - **Exploit the Opening:** _Trigger:_ Declared after winning a Melee clash with a Margin of 3+ (Clean or better). _Effect:_ She finds the undefended nerve without wasted motion — the target takes 1 Dissonant Stress.
+
+#### Phases
+
+- **Behaviour when unbroken:** Talks first, and keeps talking — Cut a Deal aimed at whichever enemy looks least invested, Whisper Network spent early to make the whole encounter go her way before initiative is even relevant. Fights only when cornered, and badly.
+- **Behaviour when Broken:** Resolves as **Surrender** — she is a broker, not a soldier. Immediately offers whatever she has (names, routes, the location of the money) rather than die for an operation she doesn't own.
+- **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
+
+---
+
+### The Duelist
+
+> _Fast enough that fair fights bore her. She is paid to stand slightly behind someone more important and be the reason nobody reaches them._
+
+#### Vital Statistics
+
+- **Tier:** Elite
+- **Type:** Humanoid (Elf)
+- **Move:** 30 ft
+- **Attributes (derived only):** _(Assumed Zero: everything. Activation Order 6.)_
+- **Skills:** Melee +5, Dodge +3, Notice +1.
+- **Derived stats:**
+    - Wound Threshold: **3** _(Base 4 + Brawn 0 - 1 Hollow-Boned)_
+    - Wound Slots: **3**
+    - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite)_
+- **Equipment:** Shortsword (Power 2, 1H, Finesse, Sidearm) fitted with a **Riposte Guard** (Hardware, Rare Charmed weapon add-on): once per Scene, when she wins a Parry Clash with a Margin of 3+ (Clean or better), the attacker suffers 1 Impact, ignoring Armor. Strike Roll: 2d6+5 (Melee +5).
+- **Traits (2):**
+    - **Fey Reflexes:** Gains Advantage on Acrobatics checks to avoid environmental hazards, traps, or area-of-effect abilities.
+    - **First Blood:** Once per Scene, gains Advantage on the first Melee Strike roll she makes in a fight. The opening exchange is the one she has spent her life preparing for.
+- **Special Actions (1):**
+    - **Blade Dance:** _Trigger:_ Instead of a regular attack, declared when at least two enemies are adjacent to her. _Effect:_ Two separate Melee Clash rolls at -1 each, one against each of two different adjacent targets.
+
+#### Phases
+
+- **Behaviour when unbroken:** Opens with First Blood on whoever looks most dangerous, holds position between the party and whoever she's guarding, and uses Blade Dance when she's flanked rather than trying to escape the pincer. Parries far more than she blocks — the Riposte Guard is the entire point.
+- **Behaviour when Broken:** Resolves as **The Rout** — a professional withdrawal. Her employer's life is a contract, not a cause, and a dead duelist collects nothing.
+- **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
 
 _______________________________
 
