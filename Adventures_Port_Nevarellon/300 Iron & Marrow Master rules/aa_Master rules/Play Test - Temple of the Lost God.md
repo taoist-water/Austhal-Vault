@@ -29,6 +29,13 @@ gold statue on pedastal is the macguffin pcs are after. trapped, sets of a templ
 > - **Situational Modifier — ambush mid-leap:** If the Skink ambush springs while a PC is mid-jump, apply GM Tools' **Difficult (-2)** modifier to that Athletics check.
 > - **Unaware:** A PC who never spots the pit at all resolves it as a standard Unaware Hazard Roll.
 > - **The Small-Scale Bypass:** A PC who passes a TN 10 Notice check spots the Skinks' own narrow ledge along the pit's edge — safe for a Small-Scale creature, no Athletics check needed. Anyone else attempting it triggers the pit immediately, no roll offered.
+### Scene 2b (fail branch): Spiders nest.
+>passive notice to spot the webs, fail and test at disadvantage to avoid anchored.
+>nest of a dozen spiders
+>a swarm of baby spiders using swarm mechanics, potential poision condition, not impact
+>rewards are decaying bodies of skinks,lizardmen, and previous explorers. maybe a minor magic item.
+>success here denies the shaman in the final room access to a spider as a summoned minion.
+
 
 ### Scene 3 (main chamber): Two Openings
 
