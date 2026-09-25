@@ -389,7 +389,7 @@ _______________________________________________________________________
 |---|---|---|---|---|---|---|
 |Sickle|0|1H|5 ft Threat|Trip|6 sp|Common|
 |Hand Axe|2|1H|5 ft Threat / 30 ft Thrown|Brutal, Thrown, Sidearm|8 sp|Common|
-|Battleaxe|2|1H|5 ft Threat|Inertia|12 sp|Common|
+|Battleaxe|2|1H|5 ft Threat|Brutal, Inertia|12 sp|Common|
 |Light Pick|2|1H|5 ft Threat|Inertia, Precise|8 sp|Common|
 |Heavy Pick|3|1H|5 ft Threat|Inertia, Precise|16 sp|Scarce|
 |Greataxe|5|2H|5 ft Threat|Inertia, Cumbersome|40 sp|Scarce|
@@ -466,7 +466,7 @@ _______________________________________________________________________
 
 - **Bound:** enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
 - **Bash:** If your attack results in a Glancing Hit (Impact < Threshold), it deals +1 additional Dissonant Stress due to blunt force trauma.
-- **Brutal:** If the Reactor rolls a Fumble (Natural 2) while defending against this weapon, they take 2 Stress instead of 1.
+- **Brutal:** Each natural 4 showing on the wielder's 2d6 in a Clash adds +1 to the Impact this weapon generates (so double 4s add +2). This applies to any Impact the weapon produces — a Strike, a Shoot, or a Riposte — and therefore only on a Clash it wins, since a loss generates no Impact to add to. *(Brutal also remains one of the three tags that bypass the Massive trait's Impact-halving — see the Bestiary.)*
 - **Close-Quarters:** suffers no penalties when In-Fighting.
 - **Concealable:** Grants Advantage (3d6 keep 2) on rolls made to hide the weapon on your person.
 - **Conduit:** can be used to perform Somatic components. The caster weaves the geometry of the spell using the item itself, meaning their hand does not need to be empty.

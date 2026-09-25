@@ -24,7 +24,7 @@ gold statue on pedastal is the macguffin pcs are after. trapped, sets of a templ
 > - **Specifics:** A hallway-wide pit lined with spikes. Its Hazard Power (+4) already accounts for the fall and the spikes together — don't stack the general Falling table (Iron World) on top of it, that's what this rating already is.
 > - **Spot:** Passive Notice check (TN 8) to become Aware before approaching it.
 > - **Crossing it (Aware):** This trap specifically calls for a TN 8 Athletics check to leap the gap, instead of the usual Dodge-vs-Hazard-Roll Clash — Iron World allows a trap to dictate its own required reaction, and "make the jump" fits this pit better than an opposed roll.
->   - **Success:** Clears the pit entirely, generates 1 Momentum (per the standard "win the Clash" reward).
+>   - **Success:** Clears the pit entirely. A **Margin of 5+** on that check (a total of 13 or better) also generates 1 Momentum — this is an unopposed check, so it uses the unopposed rung of the Momentum ladder (Iron Core), not the Clash one.
 >   - **Failure:** Falls in. Resolved as Unaware against the pit's +4 — a disadvantaged, flailing Dodge, not the clean Athletics check they already missed.
 > - **Situational Modifier — ambush mid-leap:** If the Skink ambush springs while a PC is mid-jump, apply GM Tools' **Difficult (-2)** modifier to that Athletics check.
 > - **Unaware:** A PC who never spots the pit at all resolves it as a standard Unaware Hazard Roll.

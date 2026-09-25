@@ -25,7 +25,7 @@ You begin with **80 silver pieces** and buy your own kit from Hardware. There is
 **Free with the kit — these do not come out of the 80 sp:**
 
 - A standard **Backpack and Belt**, and the mundane clothes you stand up in.
-- **A caster's focus, if a Tier 1 feat granted you one.** *Arcane Awakening* grants a Grimoire; *Divine Conduit* grants a Holy Symbol. These are the instruments of the feat, not equipment purchases, and neither tradition pays for what the other gets free.
+- **A caster's focus, if a Tier 1 feat granted you one.** *Arcane Awakening* and *Arcane Dabbler* grant a Grimoire; *Divine Conduit* and *Ritualist* grant a Holy Symbol. These are the instruments of the feat, not equipment purchases, and neither tradition pays for what the other gets free.
 
 **Everything else comes out of the purse** — armour, weapons, shields, ammunition, tools, consumables, and whatever coin you choose to keep in your pocket rather than spend. Unspent silver stays yours.
 
@@ -267,6 +267,14 @@ ______________________________________________________________________
 
 * Mechanic: **Choose one Paradigm.** You gain a Grimoire containing 4 Novice Arcana spells, drawn from the Common list, your chosen Paradigm's list, and/or any other Paradigm's Novice list. You may manifest these spells using the Arcane Margin mechanics whenever you meet The Casting Requirements — Grimoire wielded in one hand, other hand free (see Embracing the Abyss). Casting without them is Blind Casting. Spells from your chosen Paradigm benefit from **Paradigm Mastery**: a Messy Success (Margin 0–2) resolves as a Clean Success instead. Common spells and spells from other Paradigms never benefit from Mastery. Since every Paradigm's Novice tier holds exactly 3 spells, every Arcane Awakening character takes at least 1 spell from outside their chosen Paradigm — Common or another Paradigm's Novice list — among their starting 4, regardless of which Paradigm they picked. This loosening is Arcane-only: Faith casters remain locked to the Common Miracle list and their chosen Domain, unless they walk the Heretic's Path. _(Additional spells — in- or off-Paradigm — are learned later through Advancement; off-Paradigm spells cost a +1 DP surcharge and never gain Mastery, but they're never feat-gated or forbidden.)_
 
+**Arcane Dabbler**
+
+* Prerequisites: Arcana 1.
+
+>You never opened the deeper books. You learned the two or three things that work and stopped there.
+
+* Mechanic: You gain a Grimoire containing a number of **Novice** Arcane spells equal to your Arcana rank, drawn from the Common list and/or any Paradigm's Novice list. This total is recalculated whenever your Arcana rank changes — raising the skill is how a Dabbler learns. You manifest them using the Arcane Margin mechanics whenever you meet The Casting Requirements (see Embracing the Abyss); casting without them is Blind Casting. **You choose no Paradigm**, and therefore never benefit from Paradigm Mastery — every Messy Success (Margin 0–2) costs you the Dissonant Stress, always. You may purchase further Arcane spells through Advancement at the off-Paradigm +1 DP surcharge, but **never above Novice tier**. Breadth without depth is the whole bargain.
+
 **Divine Conduit**
 
 * Prerequisites: Faith 1, Will 1.
@@ -279,6 +287,14 @@ ______________________________________________________________________
     - **The Heretic's Path:** Bind yourself to no single power. You gain a Holy Symbol and 4 Novice Miracles drawn from the Common Miracle list and/or **any combination** of the seven Domains' lists. You never gain a Domain Tag — no entity has claimed you long enough to bless you — and you roll every Tithe of Will check with **Disadvantage** (3d6, keep the lowest two) for as long as you walk this path. Nothing you channel is trusting you by default; you're convincing it fresh, every time.
 
 As long as you speak the litany and bear your symbol, manifest these Miracles by rolling the Tithe of Will and paying their Locked Stress cost. _(Design note: any future feat or item that grants "additional Miracles from your Domain" should be read as "from any Domain's list" for a character on the Heretic's Path.)_
+
+**Ritualist**
+
+* Prerequisites: Faith 1.
+
+>You know the forms. You say the words correctly. Nothing has ever answered you by name.
+
+* Mechanic: You gain a Holy Symbol and a number of **Novice** Miracles equal to your Faith rank, drawn from the Common Miracle list and/or any Domain's Novice list. This total is recalculated whenever your Faith rank changes — raising the skill is your only route to new Miracles, since you have no Chosen Domain to learn from through Advancement. You manifest them by rolling the Tithe of Will and paying their Locked Stress cost, exactly as any Priest does. **You bind yourself to no Domain**: you gain no Domain Tag, and you can never learn an Adept or Master Miracle by any route. _(This is what separates a Ritualist from the Heretic's Path: the Heretic keeps full access to every tier and pays permanent Disadvantage on the Tithe for it. You pay no penalty, and the ceiling is the price.)_
 
 **Battlefield Orator**
 

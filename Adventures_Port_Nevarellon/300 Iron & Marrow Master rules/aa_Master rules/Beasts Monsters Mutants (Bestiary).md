@@ -97,7 +97,7 @@ Not every special ability needs to cost Threat. Before writing one, ask what alr
 	- 3 - 4 wounds. 
 	- stress as core rule defined +1.
     
-    - _Example (Cultist Assassin — flag resolved, see above):_ Melee +2, Dodge +4, Stealth +4, Notice +1. _(Strikes at +2, Dodges at +4, Stealths at +4. Prowess is +0)._
+    - _Example (Cultist Assassin — flag resolved, see above):_ Melee +2, Acrobatics +4, Stealth +4, Notice +1. _(Strikes at +2, Dodges at +4 — Dodge is Acrobatics — Stealths at +4. Prowess is +0)._
     
 - **Dread Entities / Bosses (The Behemoths):** Skills can exceed the +6 mortal ceiling.
 	- 2 - 4 Traits. 
@@ -108,6 +108,23 @@ Not every special ability needs to cost Threat. Before writing one, ask what alr
     
     - _Example (Arch-Devil Malaphar):_ Melee +7, Arcana +4, Resolve +4. _(Strikes at +7, casts at +4, resists mental magic at +4. Still has Activation Order 6 — he acts last).
     
+
+**Core-Species Humanoids (Built Like a PC, Run Like an NPC)**
+
+A Humanoid of one of the six core species — Human, Half-Elf, Half-Orc, Halfling, Elf, Dwarf — is built with the same rules as a player character (see The Marrow): its species traits, its Feats, and its spells all come from the players' own lists, and its derived stats use the players' own formulas. Monsters and non-core humanoids (goblins, orcs, lizardmen, skinks) keep bespoke Traits and Special Actions as before.
+
+Construction comes from The Marrow. Runtime stays here. Specifically:
+
+- **Attributes** are allocated per tier, not from the Skill budget: **Fodder 1 · Grunt 2 · Elite 4 · Dread/Boss 6+** (a Boss may exceed the +3 mortal cap). Kept deliberately lean so derived stats stay in line with the rest of the roster — Attributes feed Wound Threshold and Stress Limit, and because NPC Stress is binary, a larger Stress Limit is a straight durability gain with no Winded penalty to offset it.
+- **Skills** use the Enemy Budget by Party Standing table above, unchanged.
+- **Feats, spells and Traits share one allowance**, sized by tier: **Fodder 2 · Grunt 2 · Elite 3 · Dread/Boss 4**. Spend it in any mix — a Feat or spell from the players' own lists, or a Trait from the Manifest below, whichever actually serves the creature. Feats and spells come from The Marrow and Manipulating The Void, with a feat tier ceiling of Grunt Tier 1, Elite Tier 1–2, Dread/Boss any; spells must still satisfy their own Arcana/Faith rank prerequisites, and Paradigm Mastery works exactly as it does for a PC — within the chosen Paradigm only. Where a creature's signature mechanic has no equivalent on the players' lists (Skittering, Ambusher, Cunning Leader), spend the allowance on the Trait and don't contort the build to avoid it.
+- **Species traits are free** and sit outside the allowance entirely. Don't restate the species lists here; they live in The Marrow and are read from there, so the two documents can't drift. Species *drawbacks* come along with them — a Human NPC really does have a smaller Momentum Bank, a Dwarf really can't run anyone down, and a Half-Orc really is worse at talking to strangers.
+- **Momentum Bank:** every core-species Humanoid has one, at the normal **4 + Reflex**, earned and spent exactly as a PC's — on its own Feats' Momentum costs and on Iron Core's generic spends (Shake It Off, The Blood Price, Adrenaline Flush, The Surge). This applies at every tier including Fodder: a Fodder has no picks to spend it on today, but the generic spends are still open to it, and future Fodder-appropriate Feats may cost Momentum.
+- **Wound Slots stay on the tier scale** (Fodder 1 · Grunt 2 · Elite 3–4 · Boss 4+), not the PC's flat 3. Wound Slots are what makes Fodder disposable.
+- **Stress stays binary** — Functional/Broken per the GM Tools NPC Stress rules. No Winded, no Breaking penalty, regardless of how the creature was built.
+- **Special Actions** remain per the Gate Test, on top of the picks above.
+
+*A trained caster is not an innate one.* A core-species Arcanist needs the **Arcane Awakening** feat (spending a pick), a Grimoire, and a free hand, and suffers Blind Casting without them. A monster with the **Innate Magic** trait — the Lizardman Shaman — bypasses all of that. That distinction is now mechanical rather than flavour, and it is the cleanest reason to keep the two construction methods separate.
 
 ________________________________________________________________________
 # Traits
@@ -148,6 +165,11 @@ ________________________________________________________________________
 - When this creature wins an attack action, it inflicts +1 Impact and forces the target back 1 square/5ft. If the target hits a wall or solid obstacle, they immediately take 1 Dissonant Stress from the concussive force.
     
 
+**First Blood**
+- A duellist's opening move, practised until it needs no thought.
+
+- Once per Scene, gains Advantage on the first Melee Strike roll it makes in a fight.
+
 **Vicious**
 - Jagged fangs, rusted serrated daggers, or disease-ridden claws that leave lingering wounds.
     
@@ -186,6 +208,11 @@ _**Fanatical:** Immune to being Intimidated.
 - At the beginning of the Round, this creature can pass its own postion in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
     
 
+**Whisper Network**
+- Somebody in the room always owes this creature a favour.
+
+- At the start of a Scene, as a Free Action, it may name one piece of tactical information the GM would otherwise withhold — an ambush position, a gap in a patrol rotation, which of the party's contacts already sold them out.
+
 **Unstable Volatility**
 - A creature bloated with volatile arcane radiation, alchemical compounds, or demonic instability.
     
@@ -206,7 +233,7 @@ ___________________________________________________________________
 - **Type:** Humanoid
 - **Move:** 30 ft
 - **Attributes (derived only):** Reflex 2 → Activation Order 8 _(Assumed Zero: everything else — incredibly difficult to hit, but folds the moment it's caught.)_
-- **Skills:** Dodge +2.
+- **Skills:** Acrobatics +2. _(Its preferred defence is Dodge, at 2d6+2.)_
 - **Derived stats:**
     - Wound Threshold: **5** _(Base 4 + 1 Leather)_
     - Wound Slots: **1**
@@ -233,7 +260,7 @@ ________________________________________________________________________________
 - **Type:** Beast
 - **Move:** 30 ft
 - **Attributes (derived only):** Reflex 1 → Activation Order 7 _(Assumed Zero: everything else — quick, but nothing props up a grapple or a mental defence; both resolve at +0.)_
-- **Skills:** Melee +1, Dodge +1.
+- **Skills:** Melee +1, Acrobatics +1. _(Its preferred defence is Dodge, at 2d6+1.)_
 - **Derived stats:**
     - Wound Threshold: **4** _(Base 4 + Brawn 0)_
     - Wound Slots: **1**
@@ -262,7 +289,7 @@ ________________________________________________________________________________
 - **Type:** Daemon
 - **Move:** Fly 30 ft (no land Move — always airborne)
 - **Attributes (derived only):** Reflex 2 → Activation Order 8 _(Assumed Zero: everything else — quick and erratic, but folds if it's actually caught.)_
-- **Skills:** Melee +1, Dodge +1.
+- **Skills:** Melee +1, Acrobatics +1. _(Its preferred defence is Dodge, at 2d6+1.)_
 - **Derived stats:**
     - Wound Threshold: **4** _(Base 4 + Brawn 0)_
     - Wound Slots: **1**
@@ -347,16 +374,19 @@ ________________________________________________________________________________
 - **Type:** Humanoid (Halfling)
 - **Size:** Small (Scale -1)
 - **Move:** 30 ft
-- **Attributes (derived only):** _(Assumed Zero: everything. Activation Order 6.)_
-- **Skills:** Stealth +2.
+- **Attributes (1 — Fodder allowance):** Reflex 1.
+- **Skills (2):** Stealth +2.
 - **Derived stats:**
     - Wound Threshold: **3** _(Base 4 - 1 Small + Brawn 0)_
     - Wound Slots: **1**
-    - Stress Limit: **4** _(4 + 0 Fodder — no Scale penalty: a Halfling's Small Stature explicitly exempts them from the usual Small-Scale Stress reduction, per The Marrow.)_
+    - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Fodder — no Scale penalty: a Halfling's Small Stature explicitly exempts them from the usual Small-Scale Stress reduction, per The Marrow.)_
+    - Activation Order: **7** _(6 + Reflex 1)_
+    - Momentum Bank: **5** _(4 + Reflex 1)_
 - **Equipment:** Punching Dagger (Power 0, 1H, Concealable, Close-Quarters, Inertia). Strike Roll: 2d6 (Melee +0).
-- **Traits (2):**
+- **Species Traits (free — see The Marrow):**
     - **Underfoot:** Gains Advantage on Stealth checks as long as it has cover, is Obscured, or is moving through the space of a larger creature.
     - **Halfling Luck:** Once per session, may completely ignore the mechanical effects of a Fumble (Snake Eyes). The action still fails; the Stress penalty doesn't land.
+- **Feats / Spells (0 picks — Fodder):** None.
 - **Special Actions (1):**
     - **Sucker Stab:** _Trigger:_ Instead of a regular attack, declared against a target within 5 ft. _Effect:_ A short blade driven up under the ribs. The target must pass a TN 8 Prowess check or take 2 Dissonant Stress — enough, from a standing start, to push most Green characters to the Winded threshold on its own.
 
@@ -376,16 +406,19 @@ ________________________________________________________________________________
 - **Type:** Humanoid (Half-Orc)
 - **Size:** Standard
 - **Move:** 30 ft
-- **Attributes (derived only):** _(Assumed Zero: everything. Activation Order 6.)_
-- **Skills:** Melee +2.
+- **Attributes (1 — Fodder allowance):** Brawn 1.
+- **Skills (2):** Melee +2.
 - **Derived stats:**
-    - Wound Threshold: **4** _(Base 4 + Brawn 0)_
+    - Wound Threshold: **5** _(Base 4 + Brawn 1)_
     - Wound Slots: **1**
-    - Stress Limit: **4** _(4 + 0 Fodder)_
+    - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Fodder)_
+    - Activation Order: **6** _(6 + Reflex 0)_
+    - Momentum Bank: **4** _(4 + Reflex 0)_
 - **Equipment:** Club (Power 0, 1H, Bash — improvised, always available). Strike Roll: 2d6+2 (Melee +2).
-- **Traits (2):**
+- **Species Traits (free — see The Marrow):**
     - **Blood Frenzy:** When this creature suffers a Wound, the adrenaline spikes — it immediately clears 1 Dissonant Stress. Injuring it clears its panic and focuses its rage.
     - **Menacing:** Gains Advantage on Influence checks when attempting to intimidate anyone smaller or weaker than itself.
+- **Feats / Spells (0 picks — Fodder):** None.
 - **Special Actions (1):**
     - **Haymaker:** _Trigger:_ Instead of a regular attack. _Effect:_ A wild, overcommitted swing — +1 Impact on a hit, but the Brawler suffers Disadvantage on its next Reactor roll.
 
@@ -461,15 +494,21 @@ ________________________________________________________________________________
 - **Tier:** Grunt
 - **Type:** Humanoid (Human)
 - **Move:** 30 ft
-- **Attributes (derived only):** _(Assumed Zero: everything. Activation Order 6.)_
-- **Skills:** Melee +3, Prowess +2.
+- **Attributes (2 — Grunt allowance):** Brawn 2.
+- **Skills (5):** Melee +3, Prowess +2.
 - **Derived stats:**
-    - Wound Threshold: **4** _(Base 4 + Brawn 0)_
+    - Wound Threshold: **6** _(Base 4 + Brawn 2)_
     - Wound Slots: **2**
-    - Stress Limit: **5** _(4 + 1 Indomitable Spirit + 0 Grunt)_
+    - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Indomitable Spirit + 0 Grunt)_
+    - Activation Order: **6** _(6 + Reflex 0)_
+    - Momentum Bank: **3** _(4 + Reflex 0, then -1 for Steady, Not Sharp)_
 - **Equipment:** Sap (Power 2, 1H, non-Lethal, Concealable). Strike Roll: 2d6+3 (Melee +3).
-- **Traits (2):**
+- **Species Traits (free — see The Marrow):**
     - **Indomitable Spirit:** A slightly higher breaking point — base Stress Limit increased by +1 (already folded into the derived stat above).
+    - **Steady, Not Sharp (Drawback):** Momentum Bank cap reduced by 1 (already folded in above). He burns slow and steady; he is the last one in the room to reach a 3-Momentum spend.
+- **Feats / Spells (1 pick — Grunt, Tier 1 ceiling):**
+    - **Lethal Strikes** _(Tier 1; prereq Melee 1 ✓)_ — his unarmed strikes deal Lethal Impact and can inflict physical Wounds. The Sap is non-Lethal by design; his hands are not. Which one you get is his decision, made fresh each round.
+- **Traits (1):**
     - **Brute:** Heavy, sweeping strikes designed to shatter shields and break bones. When this creature wins an attack action, it inflicts +1 Impact and forces the target back 1 square/5 ft. If the target hits a wall or solid obstacle, they immediately take 1 Dissonant Stress from the concussive force.
 - **Special Actions (1):**
     - **Debt Collector's Grip:** _Trigger:_ Declared after a successful Melee clash with a Margin of 3+ (Clean or better). _Effect:_ Instead of dealing normal Impact, it takes a fistful of collar and shoves the target against the nearest wall — the target gains the **Anchored** condition. You're not going anywhere until this conversation is finished.
@@ -489,16 +528,21 @@ ________________________________________________________________________________
 - **Tier:** Grunt
 - **Type:** Humanoid (Dwarf)
 - **Move:** 30 ft
-- **Attributes (derived only):** _(Assumed Zero: everything. Activation Order 6.)_
-- **Skills:** Melee +2, Block +3.
+- **Attributes (2 — Grunt allowance):** Brawn 2.
+- **Skills (5):** Melee +2, Block +3.
 - **Derived stats:**
-    - Wound Threshold: **5** _(Base 4 + Brawn 0 + 1 Stone-Bones)_
+    - Wound Threshold: **7** _(Base 4 + Brawn 2 + 1 Stone-Bones)_
     - Wound Slots: **2**
-    - Stress Limit: **4** _(4 + 0 Grunt)_
+    - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Grunt)_
+    - Activation Order: **6** _(6 + Reflex 0)_
+    - Momentum Bank: **4** _(4 + Reflex 0)_
 - **Equipment:** Club (Power 0, 1H, Bash — improvised, always available). No shield — Block is fought bare-handed here, per the Orc Line-Breaker precedent: it still contests the Clash at +3, but with no Shield Value to subtract from the Impact on a loss. Strike Roll: 2d6+2 (Melee +2).
-- **Traits (2):**
+- **Species Traits (free — see The Marrow):**
     - **Stone-Bones:** Dense enough to shrug off what would drop a taller man — base Wound Threshold increased by +1 (already folded into the derived stat above).
     - **Subterranean Senses:** Gains Advantage on Notice checks while underground, or when examining stonework and engineering — cellars, sewer runs, and back rooms are his native ground.
+    - **Stumpy (Drawback):** Disadvantage on Athletics checks during a chase or sprinting across open ground. He does not pursue, and everyone involved knows it.
+- **Feats / Spells (1 pick — Grunt, Tier 1 ceiling):**
+    - **Iron Grip** _(Tier 1; prereq Melee 1 or Prowess 1 ✓)_ — when a Clash ties and the weapons bind, he automatically banks 1 Momentum as he secures the better footing. A doorman whose entire job is jamming people up generates Momentum from doing exactly that.
 - **Special Actions (1):**
     - **Choke the Doorway:** _Trigger:_ Declared when this creature is the sole occupant of a doorway, alley mouth, stairwell, or similarly narrow chokepoint (GM's call) and wins a Block Clash as the Reactor. _Effect:_ Rather than simply absorbing the hit, he puts his shoulder into it — the attacker is shoved back 1 square and cannot re-engage this activation.
 
@@ -545,26 +589,31 @@ ________________________________________________________________________________
 #### Vital Statistics
 
 - **Tier:** Elite
-- **Type:** Humanoid
+- **Type:** Humanoid (Human)
 - **Move:** 30 ft
-- **Attributes (derived only):** Reflex 3 → Activation Order 9; Wits 1 → Stress Limit _(Assumed Zero: Prowess, Resolve — practically untouchable by standard strikes, but rolls 2d6+0 if forced into a Grapple.)_
-- **Skills:** Melee +2, Dodge +4, Stealth +4, Notice +1.
+- **Attributes (4 — Elite allowance):** Reflex 3, Wits 1. _(Assumed Zero: Brawn, Will — practically untouchable by standard strikes, but rolls 2d6+0 if forced into a Grapple.)_
+- **Skills (11):** Melee +2, Acrobatics +4, Stealth +4, Notice +1. _(Dodges at 2d6+4 — Dodge is Acrobatics, per Metal meet Flesh.)_
 - **Derived stats:**
     - Wound Threshold: **4** _(Base 4 + Brawn 0)_
     - Wound Slots: **3**
-    - Stress Limit: **6** _(4 + Will 0 + Wits 1 + 1 Elite)_
+    - Stress Limit: **7** _(4 + Will 0 + Wits 1 + 1 Indomitable Spirit + 1 Elite)_
+    - Activation Order: **9** _(6 + Reflex 3)_
+    - Momentum Bank: **6** _(4 + Reflex 3, then -1 for Steady, Not Sharp)_
 - **Equipment:** Dagger (Power 0, 1H, Concealable, Close-Quarters, Finesse, Thrown, Sidearm) — Strike Roll: 2d6+2 (Melee +2). Shortbow (Power 2, 2H, Volley) for ranged work before closing in — Ranged +0, Strike Roll: 2d6.
-- **Traits (3):**
-    - **Fanatical:** Immune to being Intimidated.
-    - **Ambusher:** Gains Advantage on the Clash roll if attacking an unaware target from Stealth.
-    - **Skittering:** Unnatural speed, shifting limbs, or erratic reflexes make them slippery targets. This creature may move out of a Threat Zone without requiring a test, or causing a free strike.
+- **Species Traits (free — see The Marrow):**
+    - **Indomitable Spirit:** Base Stress Limit increased by +1 (already folded into the derived stat above).
+    - **Steady, Not Sharp (Drawback):** Momentum Bank cap reduced by 1 (already folded in above).
+- **Allowance (3 — Elite): 1 Feat, 2 Traits**
+    - **Shadow-Weaver** _(Feat, Tier 1; prereq Stealth 1 ✓)_ — ignores the standard penalty for moving quickly while trying to remain hidden. It can sprint out of a Threat Zone at full Move and still be hidden enough at the end of it to Vanish; without this, Rushed Stealth was taxing the exact manoeuvre the creature is built around.
+    - **Ambusher** _(Trait)_ — gains Advantage on the Clash roll if attacking an unaware target from Stealth.
+    - **Skittering** _(Trait)_ — unnatural speed, shifting limbs, or erratic reflexes make them slippery targets. This creature may move out of a Threat Zone without requiring a test, or causing a free strike.
 - **Special Actions (2):**
     - **Vanish:** _Trigger:_ At the end of its movement this activation, if it ends that movement in an Obscured or Heavily Obscured position (per Iron World's Cover rules). _Effect:_ The Assassin blends into the shadows, becoming effectively totally obscured — finding them again requires a successful Notice check.
     - **Throat Slit:** _Trigger:_ On a successful Melee clash with a Margin of 3+. _Effect:_ The target immediately suffers a Minor Wound, bypassing their normal Impact Threshold.
 
 #### Phases
 
-- **Behaviour when unbroken:** Opens with the Shortbow or from Stealth with Ambusher, closing in for the Margin-3 opening that triggers Throat Slit — then uses Skittering to slip out of the Threat Zone it just created, Vanishing if that retreat ends somewhere obscured. Never sticks around for a fair fight it doesn't need to have.
+- **Behaviour when unbroken:** Opens with the Shortbow or from Stealth with Ambusher, closing in for the Margin-3 opening that triggers Throat Slit — then uses Skittering to slip out of the Threat Zone it just created and Shadow-Weaver to run at full speed without breaking cover, Vanishing if that retreat ends somewhere obscured. Never sticks around for a fair fight it doesn't need to have.
 - **Behaviour when Broken:** Resolves as **The Rout** — Vanish is already its escape valve, so once Stress maxes out it uses that same instinct to disappear from the fight for good rather than keep pressing a lost contract.
 - **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
 _______________________________
@@ -576,25 +625,32 @@ _______________________________
 #### Vital Statistics
 
 - **Tier:** Elite
-- **Type:** Humanoid
+- **Type:** Humanoid (Half-Orc)
 - **Move:** 30 ft
-- **Attributes (derived only):** Brawn 2, Wits 1, Reflex 1 → Wound Threshold 9, Stress Limit 6, Activation Order 7 _(Assumed Zero: Dodge, Arcana — a hardened commander who braces against hits, but his heavy armor and cumbersome weapon make him terrible at dodging out of the way of AOE attacks or fast projectiles.)_
-- **Skills:** Melee +4, Prowess +3, Notice +1, Resolve +1.
+- **Attributes (4 — Elite allowance):** Brawn 2, Wits 1, Reflex 1. _(Assumed Zero: Will — a hardened commander who braces against hits, but his heavy armour and cumbersome weapon make him terrible at dodging out of the way of AOE attacks or fast projectiles.)_
+- **Skills (9):** Melee +4, Prowess +3, Notice +1, Resolve +1.
 - **Derived stats:**
     - Wound Threshold: **9** _(Base 4 + Brawn 2 + Breastplate 3)_
     - Wound Slots: **3**
     - Stress Limit: **6** _(4 + Will 0 + Wits 1 + 1 Elite)_
+    - Activation Order: **6** _(6 + Reflex 1, reduced by 1 for the Halberd's Cumbersome tag — same treatment as the Orc Line-Breaker's Greataxe)_
+    - Momentum Bank: **5** _(4 + Reflex 1)_
 - **Equipment:** Breastplate (+3 Armour). Masterwork Halberd (Power 3+1 masterwork = 4, Reach, Cumbersome). Strike Roll: 2d6+4 (Melee +4).
-- **Traits (2):**
-    - **Cunning Leader:** A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision. At the beginning of the Round, this creature can pass its own position in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
-    - **Brute:** Heavy, sweeping strikes designed to shatter shields and break bones. When this creature wins an attack action, it inflicts +1 Impact and forces the target back 1 square/5ft. If the target hits a wall or solid obstacle, they immediately take 1 Dissonant Stress from the concussive force.
+- **Species Traits (free — see The Marrow):**
+    - **Blood Frenzy:** When he suffers a Wound, he immediately clears 1 Dissonant Stress. Hurting him steadies him — which matters a great deal on a commander whose Broken state is Surrender.
+    - **Menacing:** Advantage on Influence checks when intimidating anyone smaller or weaker than him.
+    - **Outcast (Drawback):** Disadvantage on Influence checks when dealing with civilised strangers who don't already know him. He recruits from people who have run out of better options; that is not entirely a choice.
+- **Allowance (3 — Elite): 2 Feats, 1 Trait**
+    - **Relentless Momentum** _(Feat, Tier 2; prereq Brawn 2 ✓)_ — whenever he inflicts a Minor or Major Wound, he instantly gains 1 Momentum.
+    - **Sweep** _(Feat, Tier 2; prereqs Brawn 1 ✓, Reflex 1 ✓, Melee 1 ✓)_ — on winning a Strike with a melee weapon, he may spend 1 Momentum to apply his full Impact to every enemy adjacent to the primary target. On a Reach halberd swung from behind his own line, this is the "opens gaps in a shield wall" threat made real, and Relentless Momentum is what pays for it.
+    - **Cunning Leader** _(Trait)_ — a ruthless commander who reads the battlefield with chilling tactical precision. At the beginning of the Round, he can pass his own position in the Activation order to any allied Fodder unit within his line of sight, letting the minions strike with unexpected coordination. Additionally, whenever an ally within his line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
 - **Special Actions (2):**
     - **Call for Reinforcements:** _Trigger:_ Instead of a regular action, declared on the Captain's activation. _Effect:_ The Captain shouts for backup. One additional Fodder (Bandit) arrives at the edge of the battlefield next round, OR — if reinforcements aren't narratively available — all currently engaged Fodder immediately gain the benefit of the Flanking Bonus as if one more ally were present (representing the Captain directing the formation).
     - **Hook and Drag:** _Trigger:_ Declared after a successful Melee clash with his Halberd with a Margin of 3+ (Clean or better). _Effect:_ Instead of dealing normal Impact, the Captain hooks the player's legs. The target is immediately knocked Prone and dragged 5 feet directly into an adjacent Fodder's Threat Zone.
 
 #### Phases
 
-- **Behaviour when unbroken:** Commands from behind his line rather than leading it, using Cunning Leader to hand his activation to a Fodder ally for a coordinated strike, and Call for Reinforcements or Hook and Drag to keep the fight on his terms.
+- **Behaviour when unbroken:** Commands from behind his line rather than leading it, using Cunning Leader to hand his activation to a Fodder ally for a coordinated strike, and Call for Reinforcements or Hook and Drag to keep the fight on his terms. Once the party clusters up to deal with his cutthroats, the halberd comes out: a Wound banks Momentum via Relentless Momentum, and that Momentum buys a **Sweep** across the whole cluster. Punishing the party for bunching is his actual win condition.
 - **Behaviour when Broken:** Resolves as **Surrender** — a serious threat, not a fanatic or a beast; once his Stress maxes out, he reads the battle as lost and yields rather than dies for a cause he doesn't share.
 - **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
   
@@ -672,7 +728,7 @@ __________________________________________________________________
 - **Size:** Large (Scale +1)
 - **Move:** 50 ft
 - **Attributes (derived only):** Brawn 2, Reflex 2 → Wound Threshold 8, Activation Order 8 _(Wits and Will are zero — whatever reasoned it out died the first time it changed.)_
-- **Skills:** Melee +4, Dodge +3, Notice +2 _(Assumed Zero: everything else.)_
+- **Skills:** Melee +4, Acrobatics +3, Notice +2 _(Assumed Zero: everything else. Its preferred defence is Dodge, at 2d6+3.)_
 - **Derived stats:**
     - Wound Threshold: **8** _(4 + Brawn 2 + Scale +2)_
     - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite)_
@@ -705,24 +761,28 @@ __________________________________________________________________
 - **Tier:** Elite
 - **Type:** Humanoid (Half-Elf)
 - **Move:** 30 ft
-- **Attributes (derived only):** _(Assumed Zero: everything. Activation Order 6.)_
-- **Skills:** Influence +4, Melee +2, Resolve +2, Notice +1.
+- **Attributes (4 — Elite allowance):** Wits 2, Reflex 1, Brawn 1.
+- **Skills (9):** Influence +4, Melee +2, Resolve +2, Notice +1.
 - **Derived stats:**
-    - Wound Threshold: **3** _(Base 4 + Brawn 0 - 1 Hollow-Boned, inherited with Fey Reflexes via Split Heritage)_
+    - Wound Threshold: **4** _(Base 4 + Brawn 1 - 1 Hollow-Boned, inherited with Fey Reflexes via Split Heritage)_
     - Wound Slots: **3**
-    - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite)_
+    - Stress Limit: **7** _(4 + Will 0 + Wits 2 + 1 Elite)_
+    - Activation Order: **7** _(6 + Reflex 1)_
+    - Momentum Bank: **5** _(4 + Reflex 1)_
 - **Equipment:** Dagger (Power 0, 1H, Concealable, Finesse, Thrown). Strike Roll: 2d6+2 (Melee +2).
-- **Traits (3):**
+- **Species Traits (free — see The Marrow):**
     - **Silver-Tongued:** Gains Advantage on Influence checks when persuading, de-escalating a fight, negotiating, or gathering information.
     - **Fey Reflexes:** Gains Advantage on Acrobatics checks to avoid environmental hazards, traps, or area-of-effect abilities. Taken via Split Heritage — the Hollow-Boned drawback above travels with it.
-    - **Whisper Network:** At the start of a Scene, as a Free Action, she may name one piece of tactical information the GM would otherwise withhold — an ambush position, a guard rotation's gap, which of the party's contacts already sold them out. Somebody in the room always owes her a favour.
-- **Special Actions (2):**
-    - **Cut a Deal:** _Trigger:_ Instead of a regular action, declared against an Unbroken enemy combatant within earshot. _Effect:_ Opposed Influence vs. that target's Resolve. On a win, shift that specific combatant one step along the Social Engine's stance ladder (Iron World) toward Neutral/Friendly for the rest of the Scene. Hired muscle is only ever as loyal as its last payment.
+    - **Between Worlds (Drawback):** Disadvantage on Influence checks against an insular or homogeneous community with little contact with outsiders. Her whole operation runs on being known; where she isn't, she is worse than a stranger.
+- **Feats / Spells (2 picks — Elite, Tier 1–2 ceiling):**
+    - **Battlefield Orator** _(Tier 1; prereq Influence 2 ✓)_ — spend an Action to shout orders or hurl insults. Either an ally immediately clears 1d6 Dissonant Stress, or an engaged enemy suffers **-2** to their next Defense roll.
+    - **Silver-Tongued Viper** _(Tier 2; prereqs Wits 2 ✓, Influence 2 ✓)_ — on a Massive Success (Margin 5+) on an opposed Influence vs. Resolve check, she bypasses the one-step limit and flips an NPC **three steps** in either direction, bending them to her agenda for the scene. This is what "cutting a deal" actually looks like when she is good at it.
+- **Special Actions (1):**
     - **Exploit the Opening:** _Trigger:_ Declared after winning a Melee clash with a Margin of 3+ (Clean or better). _Effect:_ She finds the undefended nerve without wasted motion — the target takes 1 Dissonant Stress.
 
 #### Phases
 
-- **Behaviour when unbroken:** Talks first, and keeps talking — Cut a Deal aimed at whichever enemy looks least invested, Whisper Network spent early to make the whole encounter go her way before initiative is even relevant. Fights only when cornered, and badly.
+- **Behaviour when unbroken:** Talks first, and keeps talking — Battlefield Orator to strip the defence off whoever is about to be hit, Silver-Tongued Viper aimed at whichever enemy looks least invested in dying for their employer. Fights only when cornered, and badly.
 - **Behaviour when Broken:** Resolves as **Surrender** — she is a broker, not a soldier. Immediately offers whatever she has (names, routes, the location of the money) rather than die for an operation she doesn't own.
 - **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
 
@@ -737,22 +797,27 @@ __________________________________________________________________
 - **Tier:** Elite
 - **Type:** Humanoid (Elf)
 - **Move:** 30 ft
-- **Attributes (derived only):** _(Assumed Zero: everything. Activation Order 6.)_
-- **Skills:** Melee +5, Dodge +3, Notice +1.
+- **Attributes (4 — Elite allowance):** Reflex 2, Brawn 1, Will 1.
+- **Skills (9):** Melee +5, Acrobatics +3, Notice +1.
 - **Derived stats:**
-    - Wound Threshold: **3** _(Base 4 + Brawn 0 - 1 Hollow-Boned)_
+    - Wound Threshold: **4** _(Base 4 + Brawn 1 - 1 Hollow-Boned)_
     - Wound Slots: **3**
-    - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite)_
-- **Equipment:** Shortsword (Power 2, 1H, Finesse, Sidearm) fitted with a **Riposte Guard** (Hardware, Rare Charmed weapon add-on): once per Scene, when she wins a Parry Clash with a Margin of 3+ (Clean or better), the attacker suffers 1 Impact, ignoring Armor. Strike Roll: 2d6+5 (Melee +5).
-- **Traits (2):**
+    - Stress Limit: **6** _(4 + Will 1 + Wits 0 + 1 Elite)_
+    - Activation Order: **11** _(6 + Reflex 2, +3 from Quick)_
+    - Momentum Bank: **6** _(4 + Reflex 2)_
+- **Equipment:** Shortsword (Power 2, 1H, Finesse, Sidearm). Strike Roll: 2d6+5 (Melee +5). Dodges at 2d6+3 (Acrobatics +3), Parries at 2d6+5 (Melee +5).
+- **Species Traits (free — see The Marrow):**
     - **Fey Reflexes:** Gains Advantage on Acrobatics checks to avoid environmental hazards, traps, or area-of-effect abilities.
-    - **First Blood:** Once per Scene, gains Advantage on the first Melee Strike roll she makes in a fight. The opening exchange is the one she has spent her life preparing for.
+    - **Trance:** Needs only 4 hours of meditation for a full night's rest. She takes the watch nobody else wants, every night.
+- **Feats / Spells (2 picks — Elite, Tier 1–2 ceiling):**
+    - **Riposte** _(Tier 2; prereq Melee 2 ✓)_ — if she wins a Parry in a melee Clash, she instantly inflicts Impact on the attacker, calculated exactly as though she had won a Strike (her Margin of victory + weapon Power). Her defence *is* her offence.
+    - **Quick** _(Tier 1; prereq Reflex 1 ✓)_ — +3 to Activation Order, and she breaks ties against anyone without Quick. Already folded into the Activation Order above.
 - **Special Actions (1):**
     - **Blade Dance:** _Trigger:_ Instead of a regular attack, declared when at least two enemies are adjacent to her. _Effect:_ Two separate Melee Clash rolls at -1 each, one against each of two different adjacent targets.
 
 #### Phases
 
-- **Behaviour when unbroken:** Opens with First Blood on whoever looks most dangerous, holds position between the party and whoever she's guarding, and uses Blade Dance when she's flanked rather than trying to escape the pincer. Parries far more than she blocks — the Riposte Guard is the entire point.
+- **Behaviour when unbroken:** Acts first in almost every round (Activation Order 11) and holds position between the party and whoever she's guarding. **Parries rather than dodges, deliberately** — Riposte turns every won Parry into a full Strike, so standing still and inviting the attack is the optimal play, not a failure of nerve. Blade Dance when flanked, rather than trying to escape the pincer.
 - **Behaviour when Broken:** Resolves as **The Rout** — a professional withdrawal. Her employer's life is a contract, not a cause, and a dead duelist collects nothing.
 - **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
 

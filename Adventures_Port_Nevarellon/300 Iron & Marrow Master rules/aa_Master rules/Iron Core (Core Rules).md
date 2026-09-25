@@ -93,7 +93,7 @@ ________________________________________________________________________
 Momentum represents tactical flow, adrenaline, and sudden strokes of genius.
 Each player maintains a personal bank capped at **4 + Reflex**.
 
-- **Generation:** Players earn 1 Momentum by winning an Attack Action, evading a trap, or executing an ambush.
+- **Generation:** Players earn 1 Momentum by winning a Clash — an Attack Action, a Defence, evading a trap, or executing an ambush — **by a Margin of 5+**. A win alone isn't enough; it has to be decisive. See *Gaining Momentum* below for the full ladder, which this line summarises.
     
 - **Spending (The Rule-Breakers):** Momentum is never spent to add a "+1" to a die. It is spent to break the rules. Players can spend Momentum to instantly clear debilitating conditions (like _Anchored_), construct improvised alchemical explosives mid-dungeon, rapidly patch _Damaged_ armor with spit and twine, or bend the narrative via flashbacks.
 

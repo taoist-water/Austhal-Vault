@@ -101,7 +101,7 @@ How the trap resolves depends entirely on the player's awareness.
 The player fails to spot the tripwire, or opens the chest without checking for a poison needle.
 
 - The Resolution: The player is caught flat-footed, but not helpless — they may still act as the Reactor in a Clash against the trap's Hazard Roll, at Disadvantage, using Dodge only. A body that never saw the threat coming can still flinch away from it; it can't raise a shield or intercept a blade it never registered, so Block and Parry stay off the table regardless of what a given trap allows an Aware target.
-- The Math: As with an Aware target, the Margin between the trap's Hazard Roll and the player's (Disadvantaged) Dodge determines the final Impact. A Margin 3+ win still avoids the hazard entirely and generates 1 Momentum — a lucky flinch is still a lucky flinch.
+- The Math: As with an Aware target, the Margin between the trap's Hazard Roll and the player's (Disadvantaged) Dodge determines the final Impact. Any win avoids the hazard entirely; a **Margin 5+** win also generates 1 Momentum, exactly as it would for an Aware target — a lucky flinch is still a lucky flinch.
 - The Armor Check: On a loss, compare the resulting Impact against the player's Wound Threshold as normal — meeting or exceeding it inflicts a Wound, falling short inflicts 1 Dissonant Stress.
     
 
@@ -121,7 +121,7 @@ The player spots the pressure plate but is forced to leap across it, or they del
 - Parry: Using a weapon to jam the gears or bat away a swinging blade.
     
 
-- The Math: Just like in combat, the mathematical Margin between the trap's roll and the player's defense roll determines the final Impact. If the player wins the Clash, they avoid the hazard entirely and generate 1 Momentum for their flawless reflexes.
+- The Math: Just like in combat, the mathematical Margin between the trap's roll and the player's defense roll determines the final Impact. If the player wins the Clash, they avoid the hazard entirely; winning by a **Margin of 5+** also generates 1 Momentum for their flawless reflexes, per the standard Momentum ladder (Iron Core).
     
 
 ### Example Hazards in the Engine
