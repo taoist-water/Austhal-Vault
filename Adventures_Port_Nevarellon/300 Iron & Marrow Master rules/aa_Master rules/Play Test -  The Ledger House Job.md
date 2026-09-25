@@ -122,7 +122,7 @@ Field 3–4 of these, surging out of the flooded muck while some PCs are still f
 
 ---
 
-## Scene 3 (Major): The Frost-Cave
+## Scene 3 (Major): The Frost-Cave (dev note)this scene will be changed from the frost troll. maybe a wolves den? an elite alpha, a grunt and a few fodder? (/dev note)
 
 The tunnel surfaces in a natural cave system at the city's edge — the actual exit — currently denned by a Frost-Cave Troll that has no idea a smugglers' route now runs through its territory.
 
