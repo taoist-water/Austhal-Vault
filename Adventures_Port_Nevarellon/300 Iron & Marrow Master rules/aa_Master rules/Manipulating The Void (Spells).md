@@ -130,7 +130,7 @@ A thin membrane of energy stabilizes the air and temperature around the recipien
 A concussive wave of force throws enemies into disarray.
 
 - **Level:** Novice
-- **Resolution:** Arcane Clash, Arcana vs. each target's Prowess + Athletics or Acrobatics
+- **Resolution:** Arcane Clash, Arcana vs. each target's Athletics or Acrobatics
 - **Target/Range:** 10ft radius, Short Range
 - **Action Type:** Aggressor
 
@@ -477,7 +477,7 @@ The sorcerer drives an iron nail or a blade into the target’s cast shadow on t
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
 - **Duration:** Until the target breaks free
-- **Resolution:** Arcane Clash (Arcana vs. Prowess + Athletics).
+- **Resolution:** Arcane Clash (Arcana vs. Athletics).
     
 - The Effect: If the caster wins, the target’s shadow is nailed to the environment. The target becomes Anchored (Movement is reduced to 0).
     
@@ -565,7 +565,7 @@ The caster pulls a blade of condensed absence-of-light from the shadows. It pass
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
 - **Duration:** Instantaneous
-- **Resolution:** Arcane Clash (Arcana vs. Target's Wits or Resolve).
+- **Resolution:** Arcane Clash (Arcana vs. Target's Resolve).
     
 - The Effect: This spell is explicitly designed to bypass high Shield Values and thick armor tags (like the Construct or Ablative Armor tags). It deals absolutely zero physical Impact. Instead, it attacks the enemy's binary Stress track.
     
@@ -586,7 +586,7 @@ The direct capstone of Blade of Paranoia, honed to a killing edge — but only f
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
 - **Duration:** Instantaneous
-- **Resolution:** Arcane Clash (Arcana vs. Target's Wits or Resolve). Requires the target to currently be unable to see the caster — invisible, in darkness (magical or mundane), attacking from total concealment, or successfully Stealthed.
+- **Resolution:** Arcane Clash (Arcana vs. Target's Resolve). Requires the target to currently be unable to see the caster — invisible, in darkness (magical or mundane), attacking from total concealment, or successfully Stealthed.
 - The Effect: Like Blade of Paranoia, this attacks the mind directly rather than the body, dealing zero physical Impact and bypassing Shield Value or armor entirely.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: The target suffers 3 Dissonant Stress. The caster also takes 1 Dissonant Stress from the strain.
@@ -2291,7 +2291,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- **Pass:** Target must pass a **Prowess + Athletics check (TN 8)** or suffer 2 Dissonant Stress as the cold bites deep, and gains Rigor as it seizes their joints.
+- **Pass:** Target must pass an **Athletics check (TN 8)** or suffer 2 Dissonant Stress as the cold bites deep, and gains Rigor as it seizes their joints.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset Encroachment to 0.
 
@@ -2637,7 +2637,7 @@ The ground itself decides it would rather be underwater.
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: Target must pass Prowess + Athletics (TN 8) or be swept 2 Zones in a direction of the Priest's choosing and knocked Prone.
+- Pass: Target must pass Athletics (TN 8) or be swept 2 Zones in a direction of the Priest's choosing and knocked Prone.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
 
@@ -2664,7 +2664,7 @@ The ground itself decides it would rather be underwater.
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: Target must pass Prowess + Athletics (TN 8) or suffer 2 Dissonant Stress and be knocked Prone.
+- Pass: Target must pass Athletics (TN 8) or suffer 2 Dissonant Stress and be knocked Prone.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
 
@@ -2709,7 +2709,7 @@ The sea doesn't lose things. It just decides, eventually, what to give back.
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: Every enemy in the radius must pass Prowess + Athletics (TN 10) or become Anchored until they break free (repeat the check as a Free Action on their turn).
+- Pass: Every enemy in the radius must pass Athletics (TN 10) or become Anchored until they break free (repeat the check as a Free Action on their turn).
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
@@ -2722,7 +2722,7 @@ The sea doesn't lose things. It just decides, eventually, what to give back.
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: Every character in the radius — friend or foe — must pass Prowess + Athletics (TN 10) or suffer 3 Dissonant Stress and be swept 1 Zone and knocked Prone.
+- Pass: Every character in the radius — friend or foe — must pass Athletics (TN 10) or suffer 3 Dissonant Stress and be swept 1 Zone and knocked Prone.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
@@ -2771,7 +2771,7 @@ Thalass doesn't drown you all at once. She simply doesn't let you back up for ai
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: Target must pass Prowess + Athletics (TN 12) or gain the Drowned condition (see Iron Core).
+- Pass: Target must pass Athletics (TN 12) or gain the Drowned condition (see Iron Core).
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target still makes their Athletics check.
 

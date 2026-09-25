@@ -115,13 +115,17 @@ A Humanoid of one of the six core species — Human, Half-Elf, Half-Orc, Halflin
 
 Construction comes from The Marrow. Runtime stays here. Specifically:
 
-- **Attributes** are allocated per tier, not from the Skill budget: **Fodder 1 · Grunt 2 · Elite 4 · Dread/Boss 6+** (a Boss may exceed the +3 mortal cap). Kept deliberately lean so derived stats stay in line with the rest of the roster — Attributes feed Wound Threshold and Stress Limit, and because NPC Stress is binary, a larger Stress Limit is a straight durability gain with no Winded penalty to offset it.
+- **Attributes** are allocated per tier, not from the Skill budget: **Fodder 1 · Grunt 2 · Elite 4 · Dread/Boss 6+** (a Boss may exceed the +3 mortal cap). Kept deliberately lean so derived stats stay in line with the rest of the roster — Attributes feed Wound Threshold and Stress Limit, and because NPC Stress is binary, a larger Stress Limit is a straight durability gain with no Winded penalty to offset it. Be aware these points do three jobs at once: they set Skill ceilings, meet Feat prerequisites, and drive the derived stats. At Fodder and Grunt the Ceiling Rule is effectively inert — a +3 ceiling applies even at Attribute 0, and those Skill budgets can't reach past +3 — so the points go to derived stats as intended. From Elite up, a specialist build can find every point already committed to a ceiling or a prerequisite before durability gets a look in; the Stress Limit floor below is what catches that.
 - **Skills** use the Enemy Budget by Party Standing table above, unchanged.
 - **Feats, spells and Traits share one allowance**, sized by tier: **Fodder 2 · Grunt 2 · Elite 3 · Dread/Boss 4**. Spend it in any mix — a Feat or spell from the players' own lists, or a Trait from the Manifest below, whichever actually serves the creature. Feats and spells come from The Marrow and Manipulating The Void, with a feat tier ceiling of Grunt Tier 1, Elite Tier 1–2, Dread/Boss any; spells must still satisfy their own Arcana/Faith rank prerequisites, and Paradigm Mastery works exactly as it does for a PC — within the chosen Paradigm only. Where a creature's signature mechanic has no equivalent on the players' lists (Skittering, Ambusher, Cunning Leader), spend the allowance on the Trait and don't contort the build to avoid it.
 - **Species traits are free** and sit outside the allowance entirely. Don't restate the species lists here; they live in The Marrow and are read from there, so the two documents can't drift. Species *drawbacks* come along with them — a Human NPC really does have a smaller Momentum Bank, a Dwarf really can't run anyone down, and a Half-Orc really is worse at talking to strangers.
 - **Momentum Bank:** every core-species Humanoid has one, at the normal **4 + Reflex**, earned and spent exactly as a PC's — on its own Feats' Momentum costs and on Iron Core's generic spends (Shake It Off, The Blood Price, Adrenaline Flush, The Surge). This applies at every tier including Fodder: a Fodder has no picks to spend it on today, but the generic spends are still open to it, and future Fodder-appropriate Feats may cost Momentum.
 - **Wound Slots stay on the tier scale** (Fodder 1 · Grunt 2 · Elite 3–4 · Boss 4+), not the PC's flat 3. Wound Slots are what makes Fodder disposable.
 - **Stress stays binary** — Functional/Broken per the GM Tools NPC Stress rules. No Winded, no Breaking penalty, regardless of how the creature was built.
+- **Stress Limit has a tier floor — core-species builds only:** **Fodder 4 · Grunt 4 · Elite 6 · Dread/Boss 8.** Use the higher of the derived formula or the floor. Same principle already applied to Wound Slots — a tier baseline the PC formula can't drop below. It exists because a core-species build often spends its whole Attribute allowance on Skill ceilings and Feat prerequisites, leaving Will and Wits at zero; without a floor, a specialist Elite ends up with a lower breaking point than a Grunt purely as a side-effect of what it's good at.
+    - **Monsters are exempt.** They have no Ceiling Rule and no Feat prerequisites competing for their Attribute points, so a monster's low Stress Limit is a deliberate build choice, not residue. The floor is a remedy for a problem monsters don't have — the Frost-Cave Troll and the Barrow-Fang sit at 5 by design.
+    - **Wound Threshold gets no floor either**, for anyone. A fragile talker *should* read as fragile, and Wounds carry that fiction where binary Stress doesn't.
+    - **Scale and Species modifiers apply after the floor and may take a core-species build below it.** A chosen drawback carrying fiction is not leftover budget, and the floor exists to catch the latter.
 - **Special Actions** remain per the Gate Test, on top of the picks above.
 
 *A trained caster is not an innate one.* A core-species Arcanist needs the **Arcane Awakening** feat (spending a pick), a Grimoire, and a free hand, and suffers Blind Casting without them. A monster with the **Innate Magic** trait — the Lizardman Shaman — bypasses all of that. That distinction is now mechanical rather than flavour, and it is the cleanest reason to keep the two construction methods separate.
@@ -672,7 +676,7 @@ _______________________________
 - **Derived stats:**
     - Wound Threshold: **9** _(4 + Brawn 3 + Scale +2)_
     - Wound Slots: **3**
-    - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite)_
+    - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite — monster build, exempt from the core-species Stress Limit floor)_
 - **Equipment:** None — natural weapon only. Tree Trunk (Power 3, Reach, Brutal). Strike Roll: 2d6+6 (Melee +6).
 - **Traits (1):**
     - **Troll-Blood Regeneration:** At the start of the Troll's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ If the Troll takes any Impact damage from a Fire source (such as a _Naphtha Fire-Flask_ or Pyromancy), this trait is entirely suppressed until the end of the next round.
@@ -731,7 +735,7 @@ __________________________________________________________________
 - **Skills:** Melee +4, Acrobatics +3, Notice +2 _(Assumed Zero: everything else. Its preferred defence is Dodge, at 2d6+3.)_
 - **Derived stats:**
     - Wound Threshold: **8** _(4 + Brawn 2 + Scale +2)_
-    - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite)_
+    - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite — monster build, exempt from the core-species Stress Limit floor)_
 - **Equipment:** None — natural weapons only. Bite & Claw (Power 2). Strike Roll: 2d6 + 4 (Melee +4).
 - **Traits (3):**
     - **Cursed Regeneration:** At the start of the Barrow-Fang's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ any Wound inflicted by a weapon carrying a Lycanthrope Bane effect (Silvered Edge, per Hardware) permanently suppresses this trait for the rest of the encounter — the same shape as the Frost-Cave Troll's fire weakness, with silver standing in for flame.
@@ -761,12 +765,12 @@ __________________________________________________________________
 - **Tier:** Elite
 - **Type:** Humanoid (Half-Elf)
 - **Move:** 30 ft
-- **Attributes (4 — Elite allowance):** Wits 2, Reflex 1, Brawn 1.
+- **Attributes (4 — Elite allowance):** Wits 2, Will 1, Reflex 1. _(Wits 2 meets Silver-Tongued Viper's prerequisite; Will 1 is what lifts her Influence ceiling to +4 under the Ceiling Rule.)_
 - **Skills (9):** Influence +4, Melee +2, Resolve +2, Notice +1.
 - **Derived stats:**
-    - Wound Threshold: **4** _(Base 4 + Brawn 1 - 1 Hollow-Boned, inherited with Fey Reflexes via Split Heritage)_
+    - Wound Threshold: **3** _(Base 4 + Brawn 0 - 1 Hollow-Boned, inherited with Fey Reflexes via Split Heritage)_
     - Wound Slots: **3**
-    - Stress Limit: **7** _(4 + Will 0 + Wits 2 + 1 Elite)_
+    - Stress Limit: **8** _(4 + Will 1 + Wits 2 + 1 Elite)_
     - Activation Order: **7** _(6 + Reflex 1)_
     - Momentum Bank: **5** _(4 + Reflex 1)_
 - **Equipment:** Dagger (Power 0, 1H, Concealable, Finesse, Thrown). Strike Roll: 2d6+2 (Melee +2).
@@ -797,12 +801,12 @@ __________________________________________________________________
 - **Tier:** Elite
 - **Type:** Humanoid (Elf)
 - **Move:** 30 ft
-- **Attributes (4 — Elite allowance):** Reflex 2, Brawn 1, Will 1.
+- **Attributes (4 — Elite allowance):** Reflex 2, Brawn 2. _(Brawn 2 is what lifts her Melee ceiling to +5 under the Ceiling Rule; Reflex 2 meets Quick's prerequisite and drives her Activation Order.)_
 - **Skills (9):** Melee +5, Acrobatics +3, Notice +1.
 - **Derived stats:**
-    - Wound Threshold: **4** _(Base 4 + Brawn 1 - 1 Hollow-Boned)_
+    - Wound Threshold: **5** _(Base 4 + Brawn 2 - 1 Hollow-Boned)_
     - Wound Slots: **3**
-    - Stress Limit: **6** _(4 + Will 1 + Wits 0 + 1 Elite)_
+    - Stress Limit: **6** _(4 + Will 0 + Wits 0 + 1 Elite = 5, raised to the core-species Elite floor of 6 — both her Attribute points went to Melee's ceiling and Quick's prerequisite, so Will and Wits got nothing)_
     - Activation Order: **11** _(6 + Reflex 2, +3 from Quick)_
     - Momentum Bank: **6** _(4 + Reflex 2)_
 - **Equipment:** Shortsword (Power 2, 1H, Finesse, Sidearm). Strike Roll: 2d6+5 (Melee +5). Dodges at 2d6+3 (Acrobatics +3), Parries at 2d6+5 (Melee +5).

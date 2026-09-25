@@ -236,6 +236,7 @@ When a character takes a Wound and cannot fill a wound slot, they immediately fa
 **2. The Bleed-Out Check** When the character's activation comes up, they can take no Actions or Free Actions. Instead, they must make a desperate roll to cling to life.
 
 - **The Check:** Roll 2d6 + Brawn (or Will, relying on sheer stubbornness) against TN 8.
+    - *Design note — a deliberate exception.* This is the one roll in the game that adds an Attribute rather than a Skill. Attributes are derived-only everywhere else, and that rule stands; the Bleed-Out Check is carved out on purpose. Clinging to life isn't a trained competency — there is no skill for refusing to die — so it runs off raw constitution or raw stubbornness. The Attribute cap of 3 also keeps the death save on a tighter band than a Skill's +6 would, which is the intent: nobody becomes reliably hard to kill. Do not "fix" this to Prowess/Resolve in a consistency pass.
     
 - **Success (Margin 0-4):** You secure a **Stabilization Mark**.
     

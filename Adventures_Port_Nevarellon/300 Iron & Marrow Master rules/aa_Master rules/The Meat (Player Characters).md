@@ -263,7 +263,7 @@ Melee Clash 2d6+3 *(Power 5, +2 more on a Margin 5+ win via Inertia)* | Athletic
 - **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
 - **Size:** Standard | **Move:** 30 ft / 6 squares
 - **Attributes:** Brawn 0 | Reflex 3 | Wits 1 | Will 0 *(Spike array)*
-- **Skills:** Thievery 3 | Stealth 3 | Acrobatics 1 | Notice 1 *(8 ranks, 8 DP. Ceilings: Thievery/Stealth/Acrobatics 6 (Reflex 3); Notice 4 (Wits 1))*
+- **Skills:** Thievery 3 | Stealth 3 | Acrobatics 1 | Melee 1 *(8 ranks, 8 DP. Ceilings: Thievery/Stealth/Acrobatics 6 (Reflex 3); Melee 3 (Brawn 0))*
 - **Wound Threshold:** 4 *(4 base + 0 Brawn + 1 Leather − 1 Hollow-Boned)*
 - **Stress Limit:** 5 *(4 base + 1 Wits + 0 Will)*
 - **Wound Slots:** 3 | **Momentum Bank:** 7 *(4 + Reflex 3)* | **Activation Order:** 9 *(6 + Reflex 3)*
@@ -284,11 +284,12 @@ Melee Clash 2d6+3 *(Power 5, +2 more on a Margin 5+ win via Inertia)* | Athletic
 - **Starting Purse: 80 sp** — Leather 12 + 2× Dagger 10 = **22 sp spent, 58 sp remaining.** Smokestick (15 sp) + Tanglefoot Bag (20 sp) = 35 sp, **23 sp banked.**
 
 ### Combat Math Quick-Ref
-Melee Clash (Daggers) 2d6+3 | Thievery 2d6+3 | Stealth 2d6+3 | Acrobatics 2d6+1 | Notice 2d6+1 | Activation Order 9
+Melee Clash (Daggers) 2d6+1 | Thievery 2d6+3 | Stealth 2d6+3 | Acrobatics 2d6+1 | Dodge 2d6+1 | **Notice 2d6+0** | Activation Order 9
 
 ### Table Notes
 - **Correction: Hollow-Boned is a baseline Elf trait, not something exclusive to Half-Elves who inherit it via Split Heritage.** Her Wound Threshold is 4, the same floor as Faelan and Morwenna — the roster's other two characters built around avoiding hits rather than absorbing them.
-- **Twin Daggers uses the actual Twin-Blade Stance rule** (Metal meet Flesh), not a re-skin: two Sidearm-tagged one-handers grant Off-Hand Parry and the Twin Strike maneuver. Momentum Bank 7 — the highest in the roster — means she can afford to fire off Twin Strike more freely than anyone else built so far.
+- **Twin Daggers uses the actual Twin-Blade Stance rule** (Metal meet Flesh), not a re-skin: two Sidearm-tagged one-handers grant Off-Hand Parry and the Twin Strike maneuver. Momentum Bank 7 — tied with Wren Ashcombe for the roster's highest — means she can afford to fire off Twin Strike more freely than most.
+- **Her 8th rank buys Melee 1, not Notice 1.** A Twin-Blade Stance is only worth carrying if the Clash that drives it can be won, and the stance rolls on Melee — Finesse rerolls a natural 1, it does not let Reflex govern the Clash. Melee 1 is the floor that makes the kit functional, and it matches Wren Ashcombe, the roster's other Reflex-3 Twin-Dagger thief, who also carries Melee +1 and no Notice at all. The cost is real: Notice sits at 0, which blunts **Scavenger's Eye** on any exploration or scouting check resolved as Notice rather than Stealth or Thievery. Acrobatics was kept over Notice deliberately — it is her Dodge, and at Wound Threshold 4 with Hollow-Boned she cannot afford to give up her only defensive roll. Notice 1 is 1 DP to buy back at her first Milestone.
 - Smokestick and Tanglefoot Bag are both control/escape tools, not damage — fitting a thief who wants to dictate when a fight starts and ends rather than win it toe-to-toe.
 
 ---
@@ -330,7 +331,7 @@ Melee Clash (Daggers) 2d6+3 | Thievery 2d6+3 | Stealth 2d6+3 | Acrobatics 2d6+1 
 - **Kaelen's Eye** *(1 Locked Stress, Activation, self, Scene)* — Pass: reads the wild like Kaelen did — Advantage on Survival or Notice checks to track a specific creature or navigate harsh terrain. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 1 direct Wound, reset Encroachment.
 
 ### Combat Math Quick-Ref
-Tithe of Will 2d6+3 | Ranged Strike (Shortbow) 2d6+3, Impact = Margin+2 | Survival 2d6+1 | Notice 2d6+1 | Dodge 2d6+1 | Activation Order 7
+Tithe of Will 2d6+3 | Ranged Strike (Shortbow) 2d6+3, Impact = Margin+2 | Survival 2d6+1 | Notice 2d6+1 | Dodge 2d6+0 | Activation Order 7
 
 ### Table Notes
 - **Same species, same role, opposite array — a direct comparison to Helga.** Both are Dwarf Faith casters at Green. Helga (Spike: Will 3) sits at Faith 6 ceiling, WT 8, Stress 9, Momentum 4, and has almost nothing outside Faith/Resolve/Influence. Brynja (Flat: 1/1/1/1) caps every ceiling at 4, and spends her 8 DP across two live skills — Faith 3 *and* Ranged 3 — rather than one deep one. That's Flat's thesis working exactly as described in the Design Notes below: no weakness, no peak.
@@ -370,7 +371,7 @@ Tithe of Will 2d6+3 | Ranged Strike (Shortbow) 2d6+3, Impact = Margin+2 | Surviv
 - **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining.** Grave-Dust Poultice (8 sp) + a merchant's scale (3 sp, Advantage on Insight/Notice to catch a rigged deal or counterfeit coin) = 11 sp, **52 sp banked** — she carries coin, not gear, and spends it on people rather than steel.
 
 ### Combat Math Quick-Ref
-Influence 2d6+3 | Medicine 2d6+2 | Insight 2d6+2 | Notice 2d6+1 | Resolve 2d6+1 | Melee (Dagger) 2d6+0, Impact = Margin | Dodge 2d6+1 | Activation Order 7
+Influence 2d6+3 | Medicine 2d6+2 | Insight 2d6+2 | Notice 2d6+1 | Resolve 2d6+1 | Melee (Dagger) 2d6+0, Impact = Margin | Dodge 2d6+0 | Activation Order 7
 
 ### Table Notes
 - **Broad array demonstrated — the fourth and last one.** Her ceilings (5/4/4/3) match the Design Notes table exactly: one strength (Influence, off Will 2) with real competence under it. Unlike a Spike build, four other skills — Medicine, Insight, Notice, Resolve — all sit at a genuinely usable rank rather than 0, which is "wide competence beneath it" holding up literally, the same way Brynja's Flat build made its own description literal.
@@ -472,41 +473,46 @@ Arcane Clash/Manifestation 2d6+3 | Notice 2d6+2 | Insight 2d6+2 | Lore 2d6+1 | D
 
 # Blooded
 
-## Wren Ashcombe "I've never once needed to win a fight I could just... not have." Vital Statistics
+## Wren Ashcombe — Halfling Female, Cutthroat (Thief)
 
-- Species: Halfling — Size: Small (Scale -1)
-- Standing: Blooded (Milestone 1 — 3 DP earned, 0 banked; Parasitic Momentum is Tier 2, which chargen can't grant — the only way onto her sheet is 1 Milestone spent entirely on "Purchase a Feat." *Correction from the previous pass, which mistagged her Green.* **Second correction, this pass:** her Skills totalled 10 ranks against a creation budget of 8 — an overspend that predates the Attribute restructure and never validated under the old Link Rule either (Melee 1 at Brawn 0 cost 4 DP under Blind Learning, plus 9 DP for three Reflex skills at rank 3, against a budget of 8). Thievery and Acrobatics each trimmed by 1 to bring her to a legal 8. Both are 1 DP to buy back at her next Milestone.)
-    
-- Attributes: Brawn 0 | Reflex 3 | Wits 1 | Will 0 *(Spike array)*
-    
-- Skills: Melee +1 | Stealth +3 | Thievery +2 | Acrobatics +2 *(Ceilings: Melee 3 (Brawn 0); Stealth/Thievery/Acrobatics 6 (Reflex 3))*
-    
-- Derived stats:
-    
-    - Wound Threshold: 4 (4 + Brawn 0 + Armor 1 + Scale −1)
-    - Stress Limit: 5 (4 + Will 0 + Wits 1 — Halflings are exempt from the Scale Stress penalty)
-    - Momentum Bank: 7 (4 + Reflex 3)
-    - Activation Order: 12 (6 + Reflex 3, +3 Quick)
-- Feats:
-    
-    - Quick — +3 to your Activation Order.
-    - Shadow-Weaver — Ignores the Rushed Stealth penalty for moving quickly while hidden.
-    - Parasitic Momentum (Cutthroat, Tier 2) — When an enemy within 30 ft rolls a Fumble, instantly bank 1 Momentum.
-- Species Details: Underfoot (Advantage on Stealth with cover/obscurement/moving through larger creatures' space); Halfling Luck (once/session, ignore a Fumble's Stress penalty); Small Stature (cannot wield weapons carrying the Cumbersome tag — irrelevant here; also exempt from the Scale −1 Stress Limit penalty, see The Marrow).
-    
-- Equipment:
-    
-    - Twin Daggers (1H/1H, Sidearm, Concealable, Close-Quarters, Precise, Thrown) — qualifies for Twin-Blade Stance (Off-Hand Parry, Twin Strike).
-    - Leather Armor (+1 Armor, Light).
-    - **Starting Purse: 80 sp** — Twin Daggers 10 + Leather 12 = **22 sp spent, 58 sp remaining** at creation. Lockpicks, a grapple and line, chalk, and a working float she has been careful not to spend down.
-    - **Acquired in play (Milestone 1):** main-hand dagger fitted with **Cold Iron Weapon** (Charmed, 25 sp, no Attunement): Bane (Fey, Daemon). Leather fitted with **Whisper-Kissed Leathers** (Enchanted, 1 Locked Stress Attunement) — see below. *Neither could have been bought at creation: enchanted gear of any tier is barred at Green (see The Starting Purse, The Marrow). Both came off the job that earned her first Milestone, which is the only way onto the sheet and a better story besides.*
-- Spell list: N/A (non-caster). Wound Slots: [ ][ ][ ] (3) Stress Track (Limit 5): [/][ ][ ][ ][ ] — 1 box permanently Locked to Attunement. Momentum (max 7): [ ] Inventory Slots = 8 (8 + Brawn 0)
+*"I've never once needed to win a fight I could just... not have."*
 
-- Combat Math Quick-Ref: Dagger Strike 2d6+1 | Dodge 2d6+2 | Stealth 2d6+3 | Thievery 2d6+2 | Activation Order 12
-    
-- Belt (3 max): Twin Daggers (2 slots) — 1 slot free.
-    
-- Pack: 6 slots free.
+### Vital Statistics
+- **Species:** Halfling — **Size:** Small (Scale -1)
+- **Standing:** Blooded (Milestone 1 — 3 DP earned, 0 banked)
+- **Attributes:** Brawn 0 | Reflex 3 | Wits 1 | Will 0 *(Spike array)*
+- **Skills:** Melee 1 | Stealth 3 | Thievery 2 | Acrobatics 2 *(8 ranks, 8 DP. Ceilings: Melee 3 (Brawn 0); Stealth/Thievery/Acrobatics 6 (Reflex 3))*
+- **Wound Threshold:** 4 *(4 base + 0 Brawn + 1 Leather − 1 Scale)*
+- **Stress Limit:** 5 *(4 base + 1 Wits + 0 Will — Halflings are exempt from the Scale Stress penalty)*
+- **Wound Slots:** 3 | **Momentum Bank:** 7 *(4 + Reflex 3)* | **Activation Order:** 12 *(6 + Reflex 3, +3 Quick)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)*
+- **Stress Track (Limit 5):** [/][ ][ ][ ][ ] — 1 box permanently Locked to Attunement (Whisper-Kissed Leathers).
+
+### Species Traits (Halfling)
+- **Underfoot:** Advantage on Stealth with cover or obscurement, or when moving through a larger creature's space.
+- **Halfling Luck:** Once per session, ignore a Fumble's Stress penalty.
+- **Small Stature (Drawback):** Cannot wield weapons carrying the Cumbersome tag — irrelevant to this build. Also exempt from the Scale −1 Stress Limit penalty (see The Marrow).
+
+### Feats
+- **Quick** *(Reflex 1 — Creation)*: +3 to your Activation Order.
+- **Shadow-Weaver** *(Stealth 1 — Creation)*: ignores the Rushed Stealth penalty for moving quickly while hidden.
+- **Parasitic Momentum** *(Cutthroat, Tier 2 — Milestone 1)*: when an enemy within 30 ft rolls a Fumble, instantly bank 1 Momentum.
+
+### Equipment
+- **Armor:** Leather (+1 Armor, Light).
+- **Weapons:** Twin Daggers (1H/1H, Sidearm, Concealable, Close-Quarters, Precise, Thrown) — qualifies for **Twin-Blade Stance** (Off-Hand Parry, Twin Strike).
+- **Starting Purse: 80 sp** — Twin Daggers 10 + Leather 12 = **22 sp spent, 58 sp remaining** at creation. Lockpicks, a grapple and line, chalk, and a working float she has been careful not to spend down.
+- **Acquired in play (Milestone 1):** main-hand dagger fitted with **Cold Iron Weapon** (Charmed, 25 sp, no Attunement): Bane (Fey, Daemon). Leather fitted with **Whisper-Kissed Leathers** (Enchanted, 1 Locked Stress Attunement). *Neither could have been bought at creation: enchanted gear of any tier is barred at Green (see The Starting Purse, The Marrow). Both came off the job that earned her first Milestone, which is the only way onto the sheet and a better story besides.*
+- **Spell list:** N/A (non-caster).
+- **Belt (3 max):** Twin Daggers (2 slots) — 1 slot free. **Pack:** 6 slots free.
+
+### Combat Math Quick-Ref
+Dagger Strike 2d6+1 | Dodge 2d6+2 | Stealth 2d6+3 | Thievery 2d6+2 | **Melee 2d6+1** | Activation Order 12
+
+### Table Notes
+- **Blooded, not Green, and the Standing is load-bearing.** Parasitic Momentum is Tier 2, which chargen can't grant — the only route onto her sheet is 1 Milestone spent entirely on "Purchase a Feat." *Correction from an earlier pass, which mistagged her Green.*
+- **Skill budget corrected.** Her Skills once totalled 10 ranks against a creation budget of 8 — an overspend predating the Attribute restructure that never validated under the old Link Rule either (Melee 1 at Brawn 0 cost 4 DP under Blind Learning, plus 9 DP for three Reflex skills at rank 3, against a budget of 8). Thievery and Acrobatics were each trimmed by 1 to bring her to a legal 8. Both are 1 DP to buy back at her next Milestone.
+- **Sheet reformatted to the roster's house format.** Her entry previously ran on unbolded field labels with the quote and the Vital Statistics heading collapsed into the H2, which made her invisible to structural checks across the document. Content unchanged apart from the corrections above.
 
 ---
 
@@ -656,7 +662,7 @@ Resolve went up first specifically to clear The Red Mist's prerequisite as early
 - **Kaelen's Eye** *(1 Locked Stress, Activation, self, Scene)* — also fixed-duration, not Flowing. Pass: Advantage on Survival or Notice checks to track a specific creature or navigate harsh terrain. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 1 direct Wound, reset Encroachment.
 
 ### Combat Math Quick-Ref
-Tithe of Will 2d6+3 | Ranged Strike (Shortbow) 2d6+3, Impact = Margin+2 | Survival 2d6+2 | Notice 2d6+1 | Dodge 2d6+1 | Activation Order 7
+Tithe of Will 2d6+3 | Ranged Strike (Shortbow) 2d6+3, Impact = Margin+2 | Survival 2d6+2 | Notice 2d6+1 | Dodge 2d6+0 | Activation Order 7
 
 ### Advancement Ledger — Milestone 0 → Milestone 3 (9 DP)
 
