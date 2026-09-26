@@ -47,7 +47,7 @@ _______________________________________________________________________
 **The Community Supply Die**
 _Hardware_ abstracts the party's shared consumables into the Community Die so nobody tracks individual arrows, torches, or waterskins. Concretely, that's:
 
-- **Ammunition** — arrows, bolts, sling stones, thrown weapons you don't bother retrieving.
+- **Ammunition** — arrows, bolts, sling stones, thrown weapons you don't bother retrieving. **Not black powder:** firearm loads are bought and tracked individually (see the Black Powder tag).
 - **Light & Fuel** — torch stubs, lantern oil, flint-and-steel strikes, tindertwigs.
 - **Field Rations & Water** — trail rations, waterskin refills.
 - **Field Medicine** — the bandages and clean linen that make a Breather or a Long Rest actually work (see Iron Core). This is why a Depleted die specifically blocks a Breather or a Long Rest from clearing Stress — there's nothing left to bind the wounds with.
@@ -466,21 +466,31 @@ _______________________________________________________________________
 
 - **Bound:** enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
 - **Bash:** If your attack results in a Glancing Hit (Impact < Threshold), it deals +1 additional Dissonant Stress due to blunt force trauma.
+- **Black Powder:** A muzzle-loaded firearm or powder charge. Carries every clause below. *(Thrown or placed charges — Powder Grenade, Petard — use only the Powder Die, Snake Eyes, Report, and Soaking clauses.)*
+	- *Loads:* Each shot spends 1 load (2 for a Scatter weapon) from a Powder Flask carried on the Belt. Loads are tracked individually and are **not** covered by the Community Supply Die.
+	- *The Powder Die:* Roll one of your 2d6 in a distinct colour. If it shows a natural 1, the weapon **Misfires**: the Clash resolves as a Tie and the load is spent. While **Damp** (rain, sea spray, drifting fog) it Misfires on a 1 or 2. Rerolls that can change that die (e.g. Balanced Quality) resolve before the Misfire is checked.
+	- *Snake Eyes:* The barrel bursts — the weapon gains the **Damaged** tag, on top of the normal Snake Eyes consequences.
+	- *Report:* The first Black Powder discharge in a scene, by anyone, grants the GM **1 Threat**, and a shooter hidden by Stealth is revealed. Any later encounter at the same site starts one band higher on the Starting Threat Scale (Tools for the Nameless) — the whole place heard it.
+	- *Reloading:* **Heavy Reload**, and cannot be done while Engaged. A firearm may be carried loaded, and enters a fight ready to fire.
+	- *In melee:* Counts as a Club (Power 0, Bash). A firearm's listed Power applies only to Shoot — never to Parry, Off-Hand Parry, or Twin Strike.
+	- *Soaking:* If the carrier gains **Drowned** or is submerged, every load they carry and any loaded firearm is spoiled, unless held in an Oilskin Powder Flask.
 - **Brutal:** Each natural 4 showing on the wielder's 2d6 in a Clash adds +1 to the Impact this weapon generates (so double 4s add +2). This applies to any Impact the weapon produces — a Strike, a Shoot, or a Riposte — and therefore only on a Clash it wins, since a loss generates no Impact to add to. *(Brutal also remains one of the three tags that bypass the Massive trait's Impact-halving — see the Bestiary.)*
 - **Close-Quarters:** suffers no penalties when In-Fighting.
 - **Concealable:** Grants Advantage (3d6 keep 2) on rolls made to hide the weapon on your person.
 - **Conduit:** can be used to perform Somatic components. The caster weaves the geometry of the spell using the item itself, meaning their hand does not need to be empty.
 - **Cumbersome:** The weapon is heavy and slow to ready. Imposes a -1 penalty to your Activation Order.
-- **Devastating:** A mark of exceptional make — masterwork craft, ancient forging, or magic worked directly into the item — assigned to a specific weapon rather than a weapon category. Enables the weapon to inflict Wounds directly on Scale +3 (Gargantuan) creatures (without it, Strikes against Gargantuan creatures only ever inflict Stress, per the Scale rules in Metal meet Flesh). When targeting a Scale +3 or higher creature, this weapon also ignores that creature's Scale-based Wound Threshold bonus when calculating whether a Strike inflicts a Wound — otherwise a weapon capping out at Power 5 could almost never generate enough Impact to matter against a Gargantuan-scale Wound Threshold. Carries no inherent size, Power, or hands requirement, and grants no bonus against fortifications — a Devastating dagger and a Devastating greatmaul are equally valid. The tag describes what the weapon *is*, not how big it is.
+- **Devastating:** A mark of exceptional make — masterwork craft, ancient forging, or magic worked directly into the item — assigned to a specific weapon rather than a weapon category (sole exception: the **Petard**, whose charge carries it inherently — see Alchemical Wares). Enables the weapon to inflict Wounds directly on Scale +3 (Gargantuan) creatures (without it, Strikes against Gargantuan creatures only ever inflict Stress, per the Scale rules in Metal meet Flesh). When targeting a Scale +3 or higher creature, this weapon also ignores that creature's Scale-based Wound Threshold bonus when calculating whether a Strike inflicts a Wound — otherwise a weapon capping out at Power 5 could almost never generate enough Impact to matter against a Gargantuan-scale Wound Threshold. Carries no inherent size, Power, or hands requirement, and grants no bonus against fortifications — a Devastating dagger and a Devastating greatmaul are equally valid. The tag describes what the weapon *is*, not how big it is.
 - **Finesse:** When making or defending a Clash with this weapon, you may reroll one die that landed on a natural 1. The new result stands, even if it is another 1. If *both* dice landed on 1, that is Snake Eyes and cannot be rerolled — no amount of technique saves a catastrophe. A rerolled 6 triggers Desperate Edge normally.
 - **Focus:** Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the item, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
 - **Grounding Rod:** grants Advantage on Arcane **Sustain** checks. The staff carries the working's excess charge so the caster's mind doesn't have to.
 - **Heavy Hitter:** When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7.
+- **Heavy Reload:** After firing, reloading consumes the wielder's entire Activation — no movement, no Action, no Free Action. (The Heavy Arbalest's windlass; a muzzle-loader's ramrod.)
 - **Inertia:** If you win the Clash roll by a High Margin (5+), add +2 Power to the Final Impact.
 - **non-Lethal:** strikes with this weapon can only cause Stress regardless of the Impact result, will never spill over into wounds.
 - **Precise:** Ignores 1 Point of armour
 - **Reach:** Threatens a 10-foot radius (2 grid squares). Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
 - **Reload:** After firing, requires an Action to load the next shot.
+- **Scatter:** Strikes every creature in the weapon's area — a 15 ft cone from the wielder unless the item says otherwise — ally or enemy alike. Make one attack roll; each creature in the area makes its own Reactor roll against it, and Impact is resolved per creature. No Disadvantage at Point-Blank, and the Firing Into Combat rule (Iron World) doesn't apply — allies in the area are simply targets. Counts as an area attack for Swarm and Amorphous. Inertia never applies to a Scatter attack.
 - **Sidearm:** Can be drawn as a Free Action without penalty.
 - **Siege:** Emplaced, crew-served, or vehicle-mounted armament — a ballista, wall gun, cannon, or siege engine — rather than a personal weapon; it isn't carried in Inventory Slots. Like Devastating, it enables inflicting Wounds directly on Scale +3 (Gargantuan) creatures and ignores that creature's Scale-based Wound Threshold bonus when calculating whether a Strike inflicts a Wound; unlike Devastating, it can also damage fortifications and structures. Reducing the Wounds Threshold of fortifications by half when comparing Impact.
 - **Sunder:** If you inflict a Minor or Major Wound with this weapon, permanently reduce the target's Armor value by 1.
@@ -494,7 +504,7 @@ _______________________________________________________________________
 - **Double:** This two-handed weapon has two striking ends, each with its own Power (listed X/Y). It functions as a built-in Twin-Blade Stance: spend 1 Momentum on a won Clash to immediately follow up with the second Power value as Impact + 1 Stress, without needing a separate Sidearm weapon in your off hand.
 - **Repeating:** Holds multiple shots internally; does not require the Reload action between individual shots. Once the magazine is empty, reloading it fully requires a full Action.
 - **Entangling:** As an Aggressor action, forgo Impact on a win to instead apply the Anchored condition to the target (identical to the Entangle spell's effect).
-(Note on Ranged Weapons: firing a Ranged or Thrown weapon while an enemy is inside your 5-foot Threat Zone imposes Disadvantage on the attack roll).
+(Note on Ranged Weapons: firing a Ranged or Thrown weapon while an enemy is inside your 5-foot Threat Zone imposes Disadvantage on the attack roll. Exception: a **Sidearm** or **Scatter** weapon fired *at* an enemy inside that Threat Zone — Point-Blank, per the Ranges table in Metal meet Flesh — takes no Disadvantage.)
 
 
 ##  ADVANCED SPECIALIZED WEAPONRY
@@ -522,12 +532,37 @@ These variations add specific situational tactical tools to the baseline weapon 
 - Tags: Armor-Piercing, Cumbersome, Heavy Reload
 - 2d6 Special Rule: Requiring a literal windlass to crank. It takes two entire Move Actions to reload this weapon. However, its steel-headed bolts ignore the infantry projectile protections of shields (Cover tags are nullified) and deal +2 Impact against targets with Scale +1 or higher.
 
-## Reserved: Black Powder Ordnance *(placeholder — not designed yet)*
+## Black Powder
 
-Flagging space for this rather than designing it now. Tentative bucketing, to be revisited:
-- **Pistols/hand cannons:** likely slot into the existing Ranged progression alongside Crossbows (Power 2–3 range), possibly trading Reload for a Concealable/Sidearm angle.
-- **Wall guns / cannons / siege ordnance:** likely carry **Siege** by default, and are where the still-unbuilt "Siege Engines" subsection belongs — these were always meant to be literal artillery, not a mundane weapon upgrade path.
-- No numbers are proposed here; this section exists purely to mark where the category will attach once designed.
+Firearms are new, exotic, and ruinously expensive. Nobody sells one off a shelf — each is made to order by a master gunsmith (Commission, Soothing the Soul, Capital tier only), and priced in the nobility's coin. Their job is not to out-damage a crossbow over a fight; it is the single devastating opening shot, after which you draw steel. See the **Black Powder** tag for how they fire, misfire, reload, and announce themselves.
+
+| Weapon Name | Power | Grip | Range / Threat | Tags & Attributes | Cost | Availability |
+|---|---|---|---|---|---|---|
+| Pistol | 4 | 1H | Ranged (Max: Short / 30 ft) | Black Powder, Sidearm, Armor-Piercing, Inertia | 300 sp (15 gs) | Legendary, Commission-gated |
+| Blunderbuss | 3 | 2H | Ranged (Max: Short / 30 ft) | Black Powder, Scatter, Cumbersome | 400 sp (20 gs) | Legendary, Commission-gated |
+
+| Item | Slots | Cost | Availability | Notes |
+|---|---|---|---|---|
+| Powder Flask & Shot | 1 | 60 sp (full) | Rare | Holds 6 loads. Refilled at 10 sp per load (Acquisition). Must be on the Belt to reload in combat. |
+| Oilskin Powder Flask | 1 | 75 sp (full) | Rare | As above, but its loads survive Soaking. |
+
+- **A brace of pistols:** Sidearm lets each be drawn as a Free Action, but three pistols fill all three Belt slots — leaving no room for the flask. Three shots, then steel.
+- **Firearms in enemy hands** default to **Shoddy** Quality: half price, prone to breaking on any failure, and worth half as much when looted and sold.
+- **Fire sources:** a firearm's ball is not a Fire source for effects such as Troll-Blood Regeneration. A Powder Grenade or Petard is.
+
+### Siege Ordnance (Cannon)
+
+Emplaced on fortifications or mounted on ships. Carries **Siege**, never occupies Inventory Slots, and is never bought through Acquisition. A cannon's powder comes from the ship's or fortress's stores, not a PC's flask.
+
+| Ordnance | Power | Crew | Range | Tags & Attributes |
+|---|---|---|---|---|
+| Ship's Gun | 8 | 3 | Extreme | Siege, Armor-Piercing, Black Powder. May fire **Grapeshot** instead: Power 5, Scatter (30 ft cone). |
+| Fortress Gun | 10 | 4 | Extreme | Siege, Armor-Piercing, Black Powder |
+
+- **Firing:** the gunner makes the Shoot roll (2d6 + Ranged).
+- **Reloading:** takes 3 crew-Activations in total; any crew member may spend their whole Activation to contribute one.
+- **Guns firing on the party:** when the gun crew is off-scene, resolve each shot as a Hazard Roll (2d6 + the gun's Power, Iron World). Aware targets defend normally.
+- *Dev note — ship-to-ship combat is not designed. It needs a hull Wound Threshold and a vessel-scale procedure; out of scope for this pass.*
 ________________________________________________________________________
 
 # Armour
@@ -697,12 +732,26 @@ Alchemical supplies are highly volatile, unstable, and often act as a mechanical
 | Smokestick           | 15 sp | Scarce  | 0     | Snapped as a Move Action. Creates a 5 ft. radius of Heavily Obscured terrain for 1 round (per the Environmental cover rules in _Iron World_).                                                                                                                                                           |
 | Tanglefoot Bag       | 20 sp | Scarce  | 0     | Thrown (Short Range). On a hit, the target is Anchored until they spend a full Aggressor action tearing free — mechanically identical to the Entangle spell's Margin 1–2 result.                                                                                                                        |
 | Thunderstone         | 20 sp | Scarce  | 0     | Thrown; explodes in a 10 ft. radius. Everyone caught rolls Resolve vs TN 8 or gains the Distracted condition (-1 to rolls until their next Activation).                                                                                                                                                 |
+| Powder Grenade       | 40 sp | Rare    | 1/3   | Black Powder, Scatter (10 ft radius), Power 2. Lit and thrown (Short, 30 ft) as one Aggressor action: roll 2d6 + Ranged, and each creature in the radius defends. Powder Die 1: a dud fuse. Snake Eyes: it detonates on the thrower's own square instead. Counts as a Fire source.                   |
+| Petard               | 80 sp | Rare    | 1     | Black Powder, Devastating, Armor-Piercing. A breaching charge — see *Petard*, below.                                                                                                                                                                                                                    |
+
+_Petard_
+
+- **Cost:** 80 sp | **Availability:** Rare | **Slots:** 1
+- **Tags:** Black Powder, Devastating, Armor-Piercing. Counts as a Fire source.
+- **Planting it on a structure** (door, gate, wall section): a Full Action and Crafting vs TN 8. On a failure the charge isn't seated; try again next Activation.
+- **Planting it on a creature:** an Aggressor action — 2d6 + Athletics vs the creature's Reactor roll — while adjacent to it or clinging to it. On a win, the charge is fixed. On Snake Eyes, the fuse catches early and it detonates immediately. *(Getting onto a larger creature's back is a separate, GM-adjudicated Athletics feat — the corpus has no climbing-a-creature rule yet.)*
+- **The fuse:** it detonates at the start of the planter's next Activation. Whatever Movement you have left this Activation is how far you get. Leaping from a height is a Fall (Iron World).
+- **Detonation:** the GM makes one Hazard Roll, 2d6 + 8.
+	- The thing the charge is fixed to takes that total directly as Impact — no Reactor roll. Against a structure, halve its Wound Threshold, as Siege does. Against a creature, Devastating applies: on a Scale +3 target, ignore its Scale-based Wound Threshold bonus.
+	- Every other creature within 10 ft — the planter included — defends against the same Hazard Roll as an Aware target, Dodge only.
+	- If the Powder Die shows a 1, the fuse gutters and nothing happens. The charge stays fixed; relighting it takes an Action from an adjacent square.
 
 ## Tools & Skill Kits
 
 | Item                           | Slots                                | Cost   | Availability     | Effect                                                                                                                                                                                                                                                                           |
 | ------------------------------ | ------------------------------------ | ------ | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Alchemist's Lab                | — (stationary facility, not carried) | 150 sp | Rare, City-tier+ | Required for reliable Hammer & Forge-style Crafting of Alchemical Wares outside of desperate battlefield chemistry (the Scrounger's Volatile Concoction feat already covers the field-expedient version).                                                                        |
+| Alchemist's Lab                | — (stationary facility, not carried) | 150 sp | Rare, City-tier+ | Required for the **Distil & Compound** Pursuit (Soothing the Soul) — making Alchemical Wares and Powder & Shot outside of desperate battlefield chemistry (the Scrounger's Volatile Concoction feat already covers the field-expedient version).                                                                        |
 | Artisan's tools (per trade)    | 1                                    | 5 sp   | Common           | Required to attempt a Crafting check in that trade without Disadvantage.                                                                                                                                                                                                         |
 | Artisan's tools, masterwork    | 1                                    | 20 sp  | Scarce           | +1 flat bonus to that trade's Crafting check (same logic as Masterwork Quality weapons/armor).                                                                                                                                                                                   |
 | Climber's Kit                  | 1                                    | 25 sp  | Scarce           | Advantage on Athletics checks made specifically to climb.                                                                                                                                                                                                                        |

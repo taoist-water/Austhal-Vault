@@ -11,6 +11,7 @@ Tracking exact calendar days across a party with different ongoing Pursuits gets
 | Acquisition (Restock/Purchase/Sell, per transaction) | 1 PP    |
 | Tend to the Flesh (per Wound Slot cycle) | 1 PP    |
 | Hammer & Forge (per item)                | 1 PP    |
+| Distil & Compound (per batch)            | 1 PP    |
 | Religious Pursuit                       | 1 PP    |
 | Commission                               | 3 PP    |
 | Finance Bank                             | 1 PP    |
@@ -222,12 +223,27 @@ Each entry below formalizes a Pursuit already referenced elsewhere in the rules.
 - **Massive Success:** As above, and the character banks 1 Progress Momentum (their work was clean enough to also get ahead on something else this week).
 - **Cost:** Typically requires spending sp equal to roughly 25% of the item's base value in raw materials (coal, leather, replacement fittings), unless a feat or equivalent effect waives it.
 
+### Distil & Compound
+*Make alchemical wares instead of buying them.*
+
+- **Time Cost:** 1 day per batch.
+- **Requirement:** Access to an Alchemist's Lab (Hardware — Rare, City-tier+), owned or rented at a GM-set cost. Unavailable in a Hamlet or Town.
+- **Scope:** One kind of Alchemical Ware of Rare availability or lower, or Powder & Shot. Firearms and Legendary items cannot be made this way.
+- **Materials:** Paid up front — 50% of the ware's listed price for each of the 3 items in a full batch (for Powder & Shot, a full batch is 6 loads at 5 sp each).
+- **The Check:** Crafting vs. TN 8.
+- **Clean Success (Margin 3–4):** A full batch — 3 items, or 6 loads.
+- **Messy Success (Margin 0–2):** 2 items, or 4 loads. The remaining materials are wasted.
+- **Exceptional Success (Margin 5+):** A full batch, and the character banks 1 Progress Momentum.
+- **Failure:** No output, and the materials are lost.
+- **Snake Eyes:** A fire in the lab. No output, the materials are lost, the alchemist takes 2 Dissonant Stress, and the Lab gains the **Damaged** tag (-1 to future Distil & Compound checks until cleared with Hammer & Forge).
+
 ### Commission
 *Pay a master artisan to build something better than you could make yourself.*
 
 - **Time Cost:** 1 week (this is why Masterwork items command a 300% price markup and a specialized action — you're buying someone else's time and reputation, not just materials).
 - **The Check:** No roll required if a qualified artisan is hired and paid in full. The Commission resolves automatically at the end of the week. (If the party is trying to commission something from a reluctant, suspicious, or unusually talented artisan, the GM may require an Influence check to secure the commission *before* the week of work begins — this is a Social Engine interaction, not a Crafting one.)
 - **Output:** One weapon or armor piece upgraded to Masterwork Quality, per the existing Hardware rules (weapons: +1 Power; armor: suppress one negative tag).
+- **Or — Made to Order:** One item that Hardware lists as **Commission-gated** (a firearm, a ship), built new and paid for at its listed price. A Commission-gated item can only be made at a **Capital (Tier 3)** — no lesser settlement has the specialists.
 
 ### Tend to the Flesh
 *Mundane medical care, not battlefield triage.*
@@ -304,7 +320,8 @@ ________________________________________________________________________
 | Pursuit                       | Time Cost | Check | Output on Standard Success |
 |---|---|---|---|
 | Hammer & Forge                 | 1 day/item | Crafting vs TN 8 | Clears Damaged or Ruined |
-| Commission                     | 1 week | None (paid) | Upgrades item to Masterwork |
+| Distil & Compound              | 1 day/batch | Crafting vs TN 8 (requires Lab) | Batch of 3 wares or 6 loads |
+| Commission                     | 1 week | None (paid) | Upgrades item to Masterwork, or builds a Commission-gated item (Capital) |
 | Tend to the Flesh              | 3 days/Wound (base rate) | Medicine vs TN 8 to improve | Heals 1 Wound Slot |
 | Field Medic                    | 10 minutes | Feat-gated, spends Progress Momentum | Heals 1 Wound Slot at a Stress cost |
 | Religious Pursuit             | 1 day | Tithe of Will (2d6 + Faith) vs TN 8 | Clears Locked Stress |
