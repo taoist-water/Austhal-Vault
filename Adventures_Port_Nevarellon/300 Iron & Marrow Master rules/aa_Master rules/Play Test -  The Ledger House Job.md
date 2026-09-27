@@ -88,7 +88,6 @@ Both Watch NPCs are now full Bestiary entries, rebuilt as **Human core-species H
 - **Strike 2d6+3** with a Shortsword, or the Sap when he wants an arrest instead of a body.
 - **Cunning Leader** (pass his activation to a Patrolman) + **Battlefield Orator** (clear 1d6 ally Stress, or -2 to an enemy's next Defence).
 - **Hold the Line:** +1 Block to every Watch member within 10 ft until his next activation.
-- **Vessel Limit:** 1
 
 ---
 
