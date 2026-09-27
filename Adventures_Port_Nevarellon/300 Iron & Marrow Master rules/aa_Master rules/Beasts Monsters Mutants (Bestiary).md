@@ -631,6 +631,36 @@ ________________________________________________________________________________
 - **Behaviour when Broken:** Resolves as **Surrender** — a professional, not a fanatic. He calls the withdrawal and expects to be obeyed, and will trade information for being allowed to walk.
 - **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
 
+### The Grave-Warden
+
+> _A rusted, robed shape that was once a mourning-effigy, animated to guard both a patriarch's bones and his hidden coin from grasping relatives and thieves alike._
+
+#### Vital Statistics
+
+- **Tier:** Grunt
+- **Type:** Construct
+- **Size:** Standard
+- **Move:** 30 ft
+- **Attributes (derived only):** Brawn 2 → Wound Threshold _(Assumed Zero: everything else. Activation Order 6 — it does not hurry, and it cannot be hurried.)_
+- **Skills (4):** Melee +4.
+- **Derived stats:**
+    - Wound Threshold: **6** _(Base 4 + Brawn 2)_
+    - Wound Slots: **2**
+    - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Grunt — monster build, exempt from the core-species Stress Limit floor)_
+    - Activation Order: **6** _(6 + Reflex 0)_
+    - Momentum Bank: **4** _(4 + Reflex 0)_
+- **Equipment:** Ancient bone blade (Power 2). Strike Roll: 2d6+4 (Melee +4).
+- **Traits (1):**
+    - **Fear Inducing:** When a PC engages with it or it activates within line of sight, that PC must immediately roll a **Resolve** check against TN 8. Failure: the PC gains the *Fear* condition. _(Cleared per Iron Core — Regroup out of sight or cover of the source, or automatically if the source is destroyed.)_
+- **Special Actions (1):**
+    - **Grinding Assault:** _Trigger:_ Declared immediately after the Warden wins a Strike's Clash with a Margin of 3+ (Clean or better). _Effect:_ It bears down and grinds the blade along the target's guard — 1 Dissonant Stress in addition to the normal Impact.
+
+#### Phases
+
+- **Behaviour when unbroken:** Advances in a straight line toward whoever stands closest to what it guards. No tactics, no flanking, no hesitation — it is not afraid and does not need to be clever. It will walk through a flanking position rather than avoid one.
+- **Behaviour when Broken:** Resolves as **The Rout**, construct-flavoured — it does not flee and it does not yield. At maximum Stress the binding fails and it seizes up mid-swing, frozen in place and removed from the tactical equation for the rest of the encounter. _(Mechanically identical to a Rout: it stops being a combatant without being destroyed.)_
+- **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
+
 ## Elite
 
 ### Lizardman Shaman

@@ -35,14 +35,14 @@ In the back office or under a false floor, the party finds the real prize: a sea
 - **Tier:** Grunt
 - **Type:** Construct
 - **Size:** Standard
-- **Attributes:** Reflex 2 *(derived only — never added to a roll)*
-- **Skills:** Melee +2 *(Strikes at 2d6+2)*
-- **Derived Stats:** Wound Threshold **4** (4 + Brawn 0) | Wound Slots: 2 | Stress Limit: 4 (4 + Will 0 + Wits 0) | Activation Order: 8 (6 + Reflex 2) | **Momentum Bank: 6** (4 + Reflex 2)
-- **Equipment:** Ancient bone blade (Power 2)
-- **Traits (1):** **Fear Inducing** *(existing trait — anyone engaging it or activating within line of sight rolls Resolve vs. TN 8 or gains the Fear condition)*
-- **Momentum-Costed Abilities (1):**
-  - **Cost 1 Momentum — Grinding Assault:** *Trigger:* Declared on a successful Melee Clash. *Effect:* This Strike gains the **Cleave** tag (per Hardware), catching an adjacent ally in the same roll.
-  - *As a Grunt it earns no Momentum from Clashes (GM Tools, Momentum Economy) and has no generating Trait, so whatever it starts with is all it gets. At **Standard Engagement** it is the highest-tier enemy in the Cold Open and starts with 2 — two Grinding Assaults, then never again.*
+*Now a full Bestiary entry — see the Bestiary. Rebuilt 27 Sep: Melee raised +2 → **+4** to clear the Green Grunt floor of 4–6 (it was sitting at 2, under even the Fodder band), and Reflex 2 → **Brawn 2**, which fixes both a fiction problem and a durability one. Summary for play:*
+
+- **Type:** Construct | **Size:** Standard
+- **Attributes:** Brawn 2 *(derived only — never added to a roll)* | **Skills:** Melee +4
+- **Derived Stats:** Wound Threshold **6** (4 + Brawn 2) | Wound Slots: 2 | Stress Limit: 4 | Activation Order: 6 | Momentum Bank: 4
+- **Equipment:** Ancient bone blade (Power 2) — Strike: `2d6+4`
+- **Traits (1):** **Fear Inducing** *(anyone engaging it or activating within line of sight rolls a **Resolve** check vs. TN 8 or gains the Fear condition — cleared per Iron Core: Regroup out of sight or cover of the source, or automatically if the source is destroyed)*
+- **Special Actions (1):** **Grinding Assault** — *Trigger:* winning a Strike's Clash by **Margin 3+**. *Effect:* 1 Dissonant Stress in addition to normal Impact. *(Free, per the Gate Test: a bonus on an already-won Clash gates on Margin, not on a Momentum cost. It previously cost 1 Momentum, which a Grunt cannot earn — it would have fired twice all session and then never again.)*
 
 **Phases**
 - **Unbroken:** Advances in a straight line toward whoever is closest to the crypt door. No tactics, no hesitation — it isn't afraid and doesn't need to be clever.
