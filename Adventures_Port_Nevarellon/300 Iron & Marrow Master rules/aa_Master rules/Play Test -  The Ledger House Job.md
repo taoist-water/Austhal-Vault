@@ -10,13 +10,13 @@
 
 **Structure:** Cold Open (infiltration + Minor Scene 1) → chase/pressure → Minor Scene 2 → Major Scene → resolution.
 
-| Scene | Set-Piece | What It's Actually Testing |
-|---|---|---|
-| Cold Open | The Grave-Warden (strongroom guardian) | Broken flat-Impact math on Faith Miracles (Wrathful Light / Rime-Fang's Bite); the missing clearance rule for the Fear condition |
-| Cross-scene | The Watch (chase/pressure track) | Passive Notice / Stealth escalation as a non-lethal pressure tool; whether Cunning Leader needs an explicit Fodder-Threat clause |
-| Minor Scene 2 | The Sluice Vault | The Drowned condition in live play; Hazard Roll interacting with ongoing combat |
-| Major Scene | The Frost-Cave Troll | Queued Elite-durability stress test — is it a Brace-specific problem or universal? |
-| Ambient, all session | — | Watch for any Natural 12 that also lands Margin 12+ (the Momentum double-dip flag) |
+| Scene                | Set-Piece                              | What It's Actually Testing                                                                                                       |
+| -------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Cold Open            | The Grave-Warden (strongroom guardian) | Broken flat-Impact math on Faith Miracles (Wrathful Light / Rime-Fang's Bite); the missing clearance rule for the Fear condition |
+| Cross-scene          | The Watch (chase/pressure track)       | Passive Notice / Stealth escalation as a non-lethal pressure tool; whether Cunning Leader needs an explicit Fodder-Threat clause |
+| Minor Scene 2        | The Sluice Vault                       | The Drowned condition in live play; Hazard Roll interacting with ongoing combat                                                  |
+| Major Scene          | Smugglers disturbed                    | outnumbered PCs, cover.                                                                                                          |
+| Ambient, all session | —                                      | Watch for any Natural 12 that also lands Margin 12+ (the Momentum double-dip flag)                                               |
 
 A Playtest Log checklist is at the end — fill it in as things happen, not from memory afterward.
 
@@ -75,8 +75,6 @@ The Sergeant and 2 Patrolmen physically close in.
 - Each round the party is fleeing, call for **Athletics** or **Acrobatics** (TN 8) to gain ground.
 - If the Watch has crossbows loosed to suppress rather than kill, a failed check applies the existing **Suppressed** condition (Disadvantage on anything but Attack/Block/Brace/Regroup, +1 Dissonant Stress) instead of a Wound.
 - If the party turns to fight, resolve normally with the stat blocks below — it should be short.
-
-**Design flag to revisit later:** the Bestiary states Fodder "cannot spend Threat unless led by a leader," but Cunning Leader's written effect never explicitly says it *unlocks* Fodder Threat-spending. Default ruling for this session: **Patrolmen never spend Threat**, Sergeant present or not. Worth an explicit clause later.
 
 ### Watch Patrolman (Fodder)
 - **Type:** Humanoid | **Size:** Standard
