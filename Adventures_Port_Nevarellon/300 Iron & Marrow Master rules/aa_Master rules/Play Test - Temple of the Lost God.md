@@ -39,7 +39,7 @@ gold statue on pedastal is the macguffin pcs are after. trapped, sets of a templ
 
 ### Scene 3 (main chamber): Two Openings
 
-Same roster both ways — 4 Skinks, 2 Lizardmen, 1 Lizardman Shaman, plus 1 Giant Spider (temple lair fauna, assumed 3–4 PC Green party). Only the opening state differs, since nothing on this roster spends Threat post-retune — the danger dial for this fight lives in what's already resolved when initiative starts, not in GM Tools' Starting Threat Scale.
+Same roster both ways — 4 Skinks, 2 Lizardmen, 1 Lizardman Shaman, plus 1 Giant Spider (temple lair fauna, assumed 3–4 PC Green party). Only the opening state differs, since nothing on this roster has Momentum to spend at the opening — the danger dial for this fight lives in what's already resolved when initiative starts, not in GM Tools' Starting Momentum.
 
 > **Setup A — PC-Sprung Ambush** _(arrived via a clean pass through 2a)_
 > - The Shaman is at the pedestal, unprepared: Ward of Scales not raised, Call of the Deep Green not cast. The Giant Spider is present as neutral lair fauna, not yet bonded. Lizardmen are at rest, not holding their Spear/Shield line. Skinks are idle, not in Stealth.

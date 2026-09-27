@@ -492,7 +492,7 @@ ________________________________________________________________________________
 - **Traits (1):**
     - **Plated:** Reduces all incoming standard Impact damage by a flat -1.
 - **Special Actions (1):**
-    - **Unstoppable Mass:** _Trigger:_ Declared on a successful Melee clash with a Margin of 3+ (Clean or better). _Effect:_ Taxes player Momentum or violently shoves them out of position.
+    - **Unstoppable Mass:** _Trigger:_ Declared on a successful Melee clash with a Margin of 3+ (Clean or better). _Effect:_ Taxes player for 1Momentum or violently shoves them 10ft out of position.
 
 #### Phases
 

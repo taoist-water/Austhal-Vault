@@ -253,5 +253,5 @@ The Priest traces a sacred rune in the air over a doorway, archway, or narrow pa
     
 - The Effect: A glowing, invisible barrier seals a narrow choke point (up to 10 feet wide). Enemies possessing the Undead or Void-Touched tags physically cannot cross the threshold.
     
-- The Attrition Loop: The ward holds for the duration of the encounter, or until a Dread/Boss entity spends 1 Threat point to violently shatter the barrier. If a Boss shatters the ward, the feedback instantly inflicts 1 Dissonant Stress on the Priest.
+- The Attrition Loop: The ward holds for the duration of the encounter, or until a Dread/Boss entity spends 1 Momentum from its own Bank to violently shatter the barrier. If a Boss shatters the ward, the feedback instantly inflicts 1 Dissonant Stress on the Priest.
     
