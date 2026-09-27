@@ -76,19 +76,18 @@ The Sergeant and 2 Patrolmen physically close in.
 - If the Watch has crossbows loosed to suppress rather than kill, a failed check applies the existing **Suppressed** condition (Disadvantage on anything but Attack/Block/Brace/Regroup, +1 Dissonant Stress) instead of a Wound.
 - If the party turns to fight, resolve normally with the stat blocks below — it should be short.
 
-### Watch Patrolman (Fodder)
-- **Type:** Humanoid | **Size:** Standard
-- **Stats:** Brawn +1 *(Strikes at +1, everything else +0)*
-- **Wound Threshold:** 6 (4 + 1 Brawn + 1 Light Armor) | Wound Slots: 1 | Stress Limit: 0
-- **Equipment:** Baton (Power 1), Light Armor (+1)
-- **Vessel Limit:** 1
+Both Watch NPCs are now full Bestiary entries, rebuilt as **Human core-species Humanoids** — see the Bestiary. Summary for play:
 
-### Watch Sergeant (Grunt)
-- **Type:** Humanoid | **Size:** Standard
-- **Stats:** Brawn +1, Wits +1 | Melee +1, Influence +1
-- **Wound Threshold:** 6 (4 + 1 Brawn + 1 Light Armor) | Wound Slots: 2 | Stress Limit: 5 (4 + Wits 1)
-- **Equipment:** Saber (Power 2), Light Armor (+1) — Strike: `2d6+2`
-- **Traits (1):** **Cunning Leader** *(existing trait)*
+### Watch Patrolman (Fodder, Human)
+- **WT 6** | Wound Slots 1 | **Stress Limit 5** | Act. Order 6 | Momentum Bank 3
+- **Strike 2d6+2** with a **Sap (non-Lethal)** — *he can only ever inflict Stress, never a Wound.*
+- **Baton Charge:** move full Move and Strike in one action, at Disadvantage.
+
+### Watch Sergeant (Grunt, Human)
+- **WT 6** | Wound Slots 2 | **Stress Limit 6** | Act. Order 6 | Momentum Bank 3
+- **Strike 2d6+3** with a Shortsword, or the Sap when he wants an arrest instead of a body.
+- **Cunning Leader** (pass his activation to a Patrolman) + **Battlefield Orator** (clear 1d6 ally Stress, or -2 to an enemy's next Defence).
+- **Hold the Line:** +1 Block to every Watch member within 10 ft until his next activation.
 - **Vessel Limit:** 1
 
 ---

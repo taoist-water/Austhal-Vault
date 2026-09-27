@@ -119,6 +119,7 @@ Construction comes from The Marrow. Runtime stays here. Specifically:
 - **Skills** use the Enemy Budget by Party Standing table above, unchanged.
 - **Feats, spells and Traits share one allowance**, sized by tier: **Fodder 2 · Grunt 2 · Elite 3 · Dread/Boss 4**. Spend it in any mix — a Feat or spell from the players' own lists, or a Trait from the Manifest below, whichever actually serves the creature. Feats and spells come from The Marrow and Manipulating The Void, with a feat tier ceiling of Grunt Tier 1, Elite Tier 1–2, Dread/Boss any; spells must still satisfy their own Arcana/Faith rank prerequisites, and Paradigm Mastery works exactly as it does for a PC — within the chosen Paradigm only. Where a creature's signature mechanic has no equivalent on the players' lists (Skittering, Ambusher, Cunning Leader), spend the allowance on the Trait and don't contort the build to avoid it.
 - **Species traits are free** and sit outside the allowance entirely. Don't restate the species lists here; they live in The Marrow and are read from there, so the two documents can't drift. Species *drawbacks* come along with them — a Human NPC really does have a smaller Momentum Bank, a Dwarf really can't run anyone down, and a Half-Orc really is worse at talking to strangers.
+    - **A trait that modifies the *creation* Skill budget is inert on an NPC.** The Human's **Adaptable** ("1 extra Skill Point at character creation") is the only case today: an NPC's Skills come from the Enemy Budget by Party Standing table, never from a creation budget, so there is nothing for it to modify — the same way the Ceiling Rule is inert at Fodder and Grunt. Its paired drawback still applies in full. Don't add a skill point for it, and don't "correct" an existing Human NPC upward on the strength of it.
 - **Momentum Bank:** every core-species Humanoid has one, at the normal **4 + Reflex**, earned and spent exactly as a PC's — on its own Feats' Momentum costs and on Iron Core's generic spends (Shake It Off, The Blood Price, Adrenaline Flush, The Surge). This applies at every tier including Fodder: a Fodder has no picks to spend it on today, but the generic spends are still open to it, and future Fodder-appropriate Feats may cost Momentum.
 - **Wound Slots stay on the tier scale** (Fodder 1 · Grunt 2 · Elite 3–4 · Boss 4+), not the PC's flat 3. Wound Slots are what makes Fodder disposable.
 - **Stress stays binary** — Functional/Broken per the GM Tools NPC Stress rules. No Winded, no Breaking penalty, regardless of how the creature was built.
@@ -209,7 +210,7 @@ _**Fanatical:** Immune to being Intimidated.
 **Cunning Leader**
 - A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision.
     
-- At the beginning of the Round, this creature can pass its own postion in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
+- At the beginning of the Round, this creature can pass its own position in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
     
 
 **Whisper Network**
@@ -390,7 +391,7 @@ ________________________________________________________________________________
 - **Species Traits (free — see The Marrow):**
     - **Underfoot:** Gains Advantage on Stealth checks as long as it has cover, is Obscured, or is moving through the space of a larger creature.
     - **Halfling Luck:** Once per session, may completely ignore the mechanical effects of a Fumble (Snake Eyes). The action still fails; the Stress penalty doesn't land.
-- **Feats / Spells (0 picks — Fodder):** None.
+- **Feats / Spells (0 of 2 picks spent — Fodder, Tier 1 ceiling):** None.
 - **Special Actions (1):**
     - **Sucker Stab:** _Trigger:_ Instead of a regular attack, declared against a target within 5 ft. _Effect:_ A short blade driven up under the ribs. The target must pass a TN 8 Prowess check or take 2 Dissonant Stress — enough, from a standing start, to push most Green characters to the Winded threshold on its own.
 
@@ -422,7 +423,7 @@ ________________________________________________________________________________
 - **Species Traits (free — see The Marrow):**
     - **Blood Frenzy:** When this creature suffers a Wound, the adrenaline spikes — it immediately clears 1 Dissonant Stress. Injuring it clears its panic and focuses its rage.
     - **Menacing:** Gains Advantage on Influence checks when attempting to intimidate anyone smaller or weaker than itself.
-- **Feats / Spells (0 picks — Fodder):** None.
+- **Feats / Spells (0 of 2 picks spent — Fodder, Tier 1 ceiling):** None.
 - **Special Actions (1):**
     - **Haymaker:** _Trigger:_ Instead of a regular attack. _Effect:_ A wild, overcommitted swing — +1 Impact on a hit, but the Brawler suffers Disadvantage on its next Reactor roll.
 
@@ -430,6 +431,38 @@ ________________________________________________________________________________
 
 - **Behaviour when unbroken:** Closes immediately and swings, using Menacing to pick the smallest-looking target in the room and Haymaker whenever it thinks the fight is nearly over.
 - **Behaviour when Broken:** Resolves as **Frenzy** — the dynamic Blood Frenzy already implies. It loses its defensive options entirely but gains Advantage on all Strike rolls until it drops.
+- **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
+
+### Watch Patrolman
+
+> _Paid to be seen, not to win. The whistle around his neck is the dangerous part of him._
+
+#### Vital Statistics
+
+- **Tier:** Fodder
+- **Type:** Humanoid (Human)
+- **Size:** Standard
+- **Move:** 30 ft
+- **Attributes (1 — Fodder allowance):** Brawn 1.
+- **Skills (2):** Melee +2.
+- **Derived stats:**
+    - Wound Threshold: **6** _(Base 4 + Brawn 1 + Leather 1)_
+    - Wound Slots: **1**
+    - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Indomitable Spirit + 0 Fodder)_
+    - Activation Order: **6** _(6 + Reflex 0)_
+    - Momentum Bank: **3** _(4 + Reflex 0, then -1 for Steady, Not Sharp)_
+- **Equipment:** Sap (Power 2, 1H, **non-Lethal**, Concealable), Leather (+1 Armour, Light). Strike Roll: 2d6+2 (Melee +2). _His Sap can only ever inflict Stress — a Patrolman cannot Wound anyone, no matter how well he rolls. The Watch subdues; it does not kill._
+- **Species Traits (free — see The Marrow):**
+    - **Indomitable Spirit:** Base Stress Limit increased by +1 (already folded into the derived stat above).
+    - **Steady, Not Sharp (Drawback):** Momentum Bank cap reduced by 1 (already folded in above).
+- **Feats / Spells (0 of 2 picks spent — Fodder, Tier 1 ceiling):** None.
+- **Special Actions (1):**
+    - **Baton Charge:** _Trigger:_ Instead of a regular attack. _Effect:_ He closes the distance and swings in one motion — move up to his full Move and Strike, at Disadvantage on the Clash.
+
+#### Phases
+
+- **Behaviour when unbroken:** Never fights alone and never leads. Closes with Baton Charge when he has a partner already engaged, otherwise holds ground and shouts for the Sergeant.
+- **Behaviour when Broken:** Resolves as **The Rout** — the pay is not good enough. He runs for the nearest other Patrolman, then past him.
 - **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
 
 ## Grunt
@@ -554,6 +587,40 @@ ________________________________________________________________________________
 
 - **Behaviour when unbroken:** Never leaves the chokepoint voluntarily. Lets the party come to him, blocks rather than swings, and relies on Choke the Doorway to make a narrow space cost more than it's worth.
 - **Behaviour when Broken:** Resolves as **Surrender** — a working stiff who yields rather than dies for a boss who isn't even in the room. Perfectly willing to discuss where that boss is, for the right consideration.
+- **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
+
+### Watch Sergeant
+
+> _Twenty years of telling people what the law is. He has never once had to raise his voice twice._
+
+#### Vital Statistics
+
+- **Tier:** Grunt
+- **Type:** Humanoid (Human)
+- **Size:** Standard
+- **Move:** 30 ft
+- **Attributes (2 — Grunt allowance):** Brawn 1, Wits 1.
+- **Skills (5):** Melee +3, Influence +2. _(Ceilings: Melee 4 (Brawn 1); Influence 3 (Will 0) — both in band.)_
+- **Derived stats:**
+    - Wound Threshold: **6** _(Base 4 + Brawn 1 + Leather 1)_
+    - Wound Slots: **2**
+    - Stress Limit: **6** _(4 + Will 0 + Wits 1 + 1 Indomitable Spirit + 0 Grunt)_
+    - Activation Order: **6** _(6 + Reflex 0)_
+    - Momentum Bank: **3** _(4 + Reflex 0, then -1 for Steady, Not Sharp)_
+- **Equipment:** Shortsword (Power 2, 1H, Sidearm, Finesse), Sap (Power 2, 1H, **non-Lethal**, Concealable), Leather (+1 Armour, Light). Strike Roll: 2d6+3 (Melee +3). _He carries both on purpose: the Sap for an arrest, the Shortsword once it stops being one. Which one he draws is the scene's escalation dial._
+- **Species Traits (free — see The Marrow):**
+    - **Indomitable Spirit:** Base Stress Limit increased by +1 (already folded into the derived stat above).
+    - **Steady, Not Sharp (Drawback):** Momentum Bank cap reduced by 1 (already folded in above).
+- **Allowance (2 — Grunt): 1 Trait + 1 Feat.**
+    - **Cunning Leader** _(Trait)_ — at the beginning of the Round, he can pass his own position in the Activation order to any allied Fodder unit within his line of sight, letting the Patrolmen strike with unexpected coordination.
+    - **Battlefield Orator** _(Feat, Tier 1 — prerequisite Influence 2, met)_ — spend an Action to shout orders or hurl insults. Choose one: an ally immediately clears 1d6 Dissonant Stress, OR an engaged enemy suffers -2 on their next Defence roll.
+- **Special Actions (1):**
+    - **Hold the Line:** _Trigger:_ Instead of a regular attack. _Effect:_ He plants and calls the formation in. Every allied Watch member within 10 ft, himself included, gains +1 to Block rolls until the start of his next activation.
+
+#### Phases
+
+- **Behaviour when unbroken:** Fights last and talks first. Opens with Battlefield Orator to strip a Defence roll, uses Cunning Leader to let two Patrolmen swing before he does, and draws the Shortsword only once someone has drawn steel on him.
+- **Behaviour when Broken:** Resolves as **Surrender** — a professional, not a fanatic. He calls the withdrawal and expects to be obeyed, and will trade information for being allowed to walk.
 - **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
 
 ## Elite
