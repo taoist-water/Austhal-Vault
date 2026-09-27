@@ -574,7 +574,7 @@ The caster pulls a blade of condensed absence-of-light from the shadows. It pass
 
 - Margin 1–2: The target's mind fractures; they suffer 1 Dissonant Stress. The caster also takes 1 Dissonant Stress from the strain.
     
-- Margin 3+ (Clean): The target suffers 2 Dissonant Stress, rapidly pushing Elites and Bosses toward their Break Point. Furthermore, the sheer terror of the blow saps their momentum—the GM must immediately discard 1 Threat point from the NPC's pool (if they have one).
+- Margin 3+ (Clean): The target suffers 2 Dissonant Stress, rapidly pushing Elites and Bosses toward their Break Point. Furthermore, the sheer terror of the blow saps their momentum—that creature must immediately discard 1 Momentum from its own Bank (if it has any).
     
 
 ### Master
@@ -940,7 +940,7 @@ The void doesn't erase the target's nature, just silences it for a moment — un
 - **Resolution:** Arcane Clash (Arcana vs. Target's Resolve).
 - The Margin Scaler:
   - Margin 1–2: One of the target's passive Bestiary tags or special rules (GM's call if they have several) simply doesn't function until the end of their next turn. Caster takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): As above, and the target also loses access to any Momentum-fueled or Threat-fueled special action for that same duration.
+  - Margin 3+ (Clean): As above, and the target also loses access to any Momentum-fuelled special action for that same duration.
 
 **Euclidean Fracture** (Crowd Control / Geometry)
 The caster violently twists the spatial dimensions around an enemy, causing distances to become infinitely long or impossibly short.
@@ -967,7 +967,7 @@ The caster rips a jagged, temporary tear in the air itself, exposing the target 
 - **Duration:** Instantaneous
 - **Resolution:** Arcane Clash (Arcana vs. Target's Dodge action).
 - **Spell Power: 5**
-- The Effect: This spell completely ignores all physical armor, Shield Values, and Bestiary tags. It is pure, unmitigated erasure. However, if the caster loses the Clash via a target's Dodge, the tear violently snaps shut, and the GM immediately gains 1 Threat point.
+- The Effect: This spell completely ignores all physical armor, Shield Values, and Bestiary tags. It is pure, unmitigated erasure. However, if the caster loses the Clash via a target's Dodge, the tear violently snaps shut, and the **defending creature banks 1 Momentum**.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 5 (Spell Power). The target is chilled to the bone, suffering Disadvantage on their next physical Strike roll. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the target loses a piece of their physical form to the void. If it is an Elite or Boss, they permanently lose one of their Rule-Breaking Tags (e.g., Pack Tactics or Ablative Armor) as it is sucked into the tear.
@@ -981,7 +981,7 @@ The caster whispers a truth from the outer dark, creating a localized field wher
 - **Duration:** Until the end of the encounter, or until the caster moves
 - **Resolution:** Unopposed Arcana vs. TN 12.
     
-- The Effect: Creates a 15-foot radius of soul-crushing despair. While inside this zone, the game’s meta-economy is completely paused. Players cannot generate or spend Momentum, and the GM cannot spend Threat points for Elite/Boss abilities.
+- The Effect: Creates a 15-foot radius of soul-crushing despair. While inside this zone, the game’s meta-economy is completely paused. **Nobody inside can generate or spend Momentum — players and enemies alike.**
     
 - The Margin Scaler:
     
@@ -1122,7 +1122,7 @@ The Witch blows a handful of pale, grave-dust spores into the face of a target, 
 
 - Margin 1–2: The fever spikes. The target's movement is reduced to 0 (Anchored), and they completely lose the ability to use the Parry or Dodge actions on their next turn, as their muscles spasm uncontrollably. The caster also takes 1 Dissonant Stress from the strain.
     
-- Margin 3+ (Clean): The sickness is overwhelming. The target must forfeit their entire next turn, violently retching and coughing black bile. They automatically take the Regroup action, doing nothing else. If it is an Elite or Boss, the GM is denied the ability to spend Threat on this creature until it recovers.
+- Margin 3+ (Clean): The sickness is overwhelming. The target must forfeit their entire next turn, violently retching and coughing black bile. They automatically take the Regroup action, doing nothing else. If it is an Elite or Boss, that creature cannot spend Momentum until it recovers.
 
 ### Master
 
@@ -1665,7 +1665,7 @@ The Priest reads the battlefield the way Senecus read the pass — not what the 
 - **Action Type:** Activation
 
 **The Tithe Ladder:**
-- Pass: The GM must truthfully reveal the Threat cost of that enemy's next ability before it's declared.
+- Pass: The GM must truthfully reveal the Momentum cost of that enemy's next ability before it's declared.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The reading lands, but convert the cost into a direct Wound.
 
@@ -1880,7 +1880,7 @@ The house always wins because the house never stops playing, even between hands.
 - **Action Type:** Free Reaction (triggered immediately after an enemy resolves an action)
 
 **The Tithe Ladder:**
-- Pass: The GM must completely undo the enemy's just-resolved action. All Wounds inflicted are healed, all Conditions applied are removed, and the enemy's turn immediately ends. Any Action Points or Threat spent by the enemy to trigger the ability is not refunded.
+- Pass: The GM must completely undo the enemy's just-resolved action. All Wounds inflicted are healed, all Conditions applied are removed, and the enemy's turn immediately ends. Any Momentum the enemy spent to trigger the ability is not refunded.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the Locked Stress cost into direct Wounds, capped at 3 per Toll in Flesh, reset the Priest's Encroachment to 0. The undo still occurs.
 

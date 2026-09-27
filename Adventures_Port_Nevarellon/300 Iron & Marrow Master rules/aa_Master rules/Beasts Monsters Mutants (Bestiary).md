@@ -1,5 +1,5 @@
 # The Dynamic Trait Manifest
-Design Philosophy: Keep stat blocks simplified. Let traits dictate tactical behaviour, stress interaction, and threat usage.
+Design Philosophy: Keep stat blocks simplified. Let traits dictate tactical behaviour, stress interaction, and Momentum usage.
 
 Enemies use the similar character generation rules as players, the difference is the skills are bought a a 1:1 ratio regardless of the parent attribute value. Once an enemy is generated populate their stat block using the same derived stats as players, only list the stats that are most important, such as WT and Stress limit. The stats that have no modifier to not get listed and are assumed to be zero. 
 
@@ -70,17 +70,17 @@ The logic behind each column:
 | The Duelist | Elite | 9 | 9–12 | in band |
 
 - **Cultist Assassin** was previously flagged as needing a rebuild for falling under the Elite floor. It no longer does. The flag was an artefact of the old metric double-counting a shared Attribute: its Reflex +3 was propping up both Dodge and Stealth but only counted once. At 11 Skill points it sits comfortably mid-band, and its Traits and Special Actions were correctly tuned all along. **No rebuild required — flag withdrawn.**
-- **The Barrow-Fang** was mislabeled Dread in this table — its own statblock reads Tier: Elite, and its build (3 Traits, 2 Special Actions) matches Elite's spec, not Dread/Boss's 3+ Threat Ability minimum. Measured against the correct Elite floor it was short by 1 Skill point (8 vs. 9); Notice raised from +1 to +2 closes that gap. No rebuild needed once the tier label itself is fixed.
+- **The Barrow-Fang** was mislabeled Dread in this table — its own statblock reads Tier: Elite, and its build (3 Traits, 2 Special Actions) matches Elite's spec, not Dread/Boss's 3+ Special Action minimum. Measured against the correct Elite floor it was short by 1 Skill point (8 vs. 9); Notice raised from +1 to +2 closes that gap. No rebuild needed once the tier label itself is fixed.
 - **Arch-Devil Malaphar** carries an internal contradiction predating this conversion: an earlier worked example in this section cited Melee +4 / Resolve +3 (old Attribute+Skill notation), and an earlier statblock revision had Melee +3 / Resolve +1. Both are superseded — the current statblock reads Melee +7 / Arcana +4 / Resolve +4, which is what a GM actually runs. At 15 Skill points he sits at the top of the Green Dread band and inside every later row through Veteran. Against a Hardened or Storied party he is under-budgeted and would need a pass.
 
-**The Gate Test (Special Actions vs. Threat Abilities)**
+**The Gate Test (free Special Actions vs. Momentum-costed abilities)**
 
-Not every special ability needs to cost Threat. Before writing one, ask what already limits it:
-- If it replaces a creature's regular action for the turn (an alternate Strike, an alternate Activation), or its trigger is already rare enough to be self-limiting (a reaction to taking a Wound, say), it's a **Special Action** — free, no Threat cost, no Vessel Limit needed.
-- If it's a bonus layered on top of an action the creature already gets to take (extra Impact or a control effect on a clash it already won), gate it with a **Margin threshold** (3+ / Clean or better) instead of Threat — the same math already governing every other Clash in this system.
-- Only when an ability is genuinely free-standing — a true Free Action that stacks on top of a full normal turn, or a Lair Action that happens outside any creature's turn at all — does it actually need Threat as its gate. This is rare, and should mostly be reserved for Dread Entities/Bosses.
+Not every special ability needs to cost Momentum. Before writing one, ask what already limits it:
+- If it replaces a creature's regular action for the turn (an alternate Strike, an alternate Activation), or its trigger is already rare enough to be self-limiting (a reaction to taking a Wound, say), it's a **Special Action** — free, no Momentum cost needed.
+- If it's a bonus layered on top of an action the creature already gets to take (extra Impact or a control effect on a clash it already won), gate it with a **Margin threshold** (3+ / Clean or better) rather than a Momentum cost — the same math already governing every other Clash in this system.
+- Only when an ability is genuinely free-standing — a true Free Action that stacks on top of a full normal turn, or a Lair Action that happens outside any creature's turn at all — does it actually need a **Momentum cost**, paid from the creature's own Bank, as its gate. This is rare, and should mostly be reserved for Dread Entities/Bosses.
 
-- **Fodder:** 1 - 2 Traits. 1 Special Action (self-gated per the test above — no Threat cost, no Vessel Limit). 
+- **Fodder:** 1 - 2 Traits. 1 Special Action (self-gated per the test above — no Momentum cost). 
 	- 1 wound. 
 	- stress as core rule defined.    
     - _Example (Zombie):_ Melee +1, Prowess +1. _(Strikes and grabs at +1, everything else is +0). Undead_
@@ -93,7 +93,7 @@ Not every special ability needs to cost Threat. Before writing one, ask what alr
     - _Example (Orc Line-Breaker):_ Melee +4, Block +2. _(Strikes at +4, blocks at +2. Activation Order 5 — reduced from the base 6 by its Greataxe's Cumbersome tag. Magic defense is +0)._
     
 - **Elite:** 2 - 3 Traits. 
-	- 1 - 2 Special Actions — reach for a Margin 3+ threshold before reaching for Threat when the ability is a bonus on top of an already-resolved action. 
+	- 1 - 2 Special Actions — reach for a Margin 3+ threshold before reaching for a Momentum cost when the ability is a bonus on top of an already-resolved action. 
 	- 3 - 4 wounds. 
 	- stress as core rule defined +1.
     
@@ -101,8 +101,8 @@ Not every special ability needs to cost Threat. Before writing one, ask what alr
     
 - **Dread Entities / Bosses (The Behemoths):** Skills can exceed the +6 mortal ceiling.
 	- 2 - 4 Traits. 
-	- 3+ Special Actions/Threat Abilities — this is the tier where a real Threat-gated ability (a Free Action stacked on a full turn, or a Lair Action outside the turn order) actually belongs. 
-	- vessel limit 2 - 4 (only meaningful for the entries that still cost Threat). 
+	- 3+ Special Actions — this is the tier where a genuinely Momentum-costed ability (a Free Action stacked on a full turn, or a Lair Action outside the turn order) actually belongs. 
+	- A genuinely free-standing ability at this tier may carry a **Momentum cost**, paid from the creature's own Bank. 
 	- 4+ wounds. 
 	- stress as core rule defined + 2
     
@@ -120,7 +120,7 @@ Construction comes from The Marrow. Runtime stays here. Specifically:
 - **Feats, spells and Traits share one allowance**, sized by tier: **Fodder 2 · Grunt 2 · Elite 3 · Dread/Boss 4**. Spend it in any mix — a Feat or spell from the players' own lists, or a Trait from the Manifest below, whichever actually serves the creature. Feats and spells come from The Marrow and Manipulating The Void, with a feat tier ceiling of Grunt Tier 1, Elite Tier 1–2, Dread/Boss any; spells must still satisfy their own Arcana/Faith rank prerequisites, and Paradigm Mastery works exactly as it does for a PC — within the chosen Paradigm only. Where a creature's signature mechanic has no equivalent on the players' lists (Skittering, Ambusher, Cunning Leader), spend the allowance on the Trait and don't contort the build to avoid it.
 - **Species traits are free** and sit outside the allowance entirely. Don't restate the species lists here; they live in The Marrow and are read from there, so the two documents can't drift. Species *drawbacks* come along with them — a Human NPC really does have a smaller Momentum Bank, a Dwarf really can't run anyone down, and a Half-Orc really is worse at talking to strangers.
     - **A trait that modifies the *creation* Skill budget is inert on an NPC.** The Human's **Adaptable** ("1 extra Skill Point at character creation") is the only case today: an NPC's Skills come from the Enemy Budget by Party Standing table, never from a creation budget, so there is nothing for it to modify — the same way the Ceiling Rule is inert at Fodder and Grunt. Its paired drawback still applies in full. Don't add a skill point for it, and don't "correct" an existing Human NPC upward on the strength of it.
-- **Momentum Bank:** every core-species Humanoid has one, at the normal **4 + Reflex**, earned and spent exactly as a PC's — on its own Feats' Momentum costs and on Iron Core's generic spends (Shake It Off, The Blood Price, Adrenaline Flush, The Surge). This applies at every tier including Fodder: a Fodder has no picks to spend it on today, but the generic spends are still open to it, and future Fodder-appropriate Feats may cost Momentum.
+- **Momentum Bank:** **every creature has one** — core-species and monster alike — at the normal **4 + Reflex**, earned and spent exactly as a PC's: on its own Traits', Feats' and Special Actions' Momentum costs and on Iron Core's generic spends (Shake It Off, The Blood Price, Adrenaline Flush, The Surge). This applies at every tier including Fodder. **Momentum is the only currency in the game; there is no GM Threat pool and no Vessel Limit** — a Bank is already a spend cap. How each tier *earns* Momentum is asymmetric and lives in GM Tools' Momentum Economy: Fodder and Grunts earn only from their own Traits and Feats, Elites add a Clash won by Margin 5+, and Dread/Boss add 1 at the start of every round.
 - **Wound Slots stay on the tier scale** (Fodder 1 · Grunt 2 · Elite 3–4 · Boss 4+), not the PC's flat 3. Wound Slots are what makes Fodder disposable.
 - **Stress stays binary** — Functional/Broken per the GM Tools NPC Stress rules. No Winded, no Breaking penalty, regardless of how the creature was built.
 - **Stress Limit has a tier floor — core-species builds only:** **Fodder 4 · Grunt 4 · Elite 6 · Dread/Boss 8.** Use the higher of the derived formula or the floor. Same principle already applied to Wound Slots — a tier baseline the PC formula can't drop below. It exists because a core-species build often spends its whole Attribute allowance on Skill ceilings and Feat prerequisites, leaving Will and Wits at zero; without a floor, a specialist Elite ends up with a lower breaking point than a Grunt purely as a side-effect of what it's good at.
@@ -137,7 +137,7 @@ ________________________________________________________________________
 
  - _Sinking Gravity:_ The ground immediately within the creatures Threat Zone is perpetually treated as Mire (Difficult Terrain), halving movement and imposing disadvantage to all mobility checks. 
         
-- _Resilient:_ Increases the creature’s Stress Limit by +2. Can spend Threat to Mitigate damage, reducing incoming Impact by 2 per point spent (up to its Vessel limit).
+- _Resilient:_ Increases the creature’s Stress Limit by +2. May spend **up to 2 Momentum per incoming Strike** from its own Bank to Mitigate damage, reducing that Strike's Impact by 2 per point spent.
         
 
 **Plated** 
@@ -210,7 +210,7 @@ _**Fanatical:** Immune to being Intimidated.
 **Cunning Leader**
 - A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision.
     
-- At the beginning of the Round, this creature can pass its own position in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
+- At the beginning of the Round, this creature can pass its own position in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, **this creature banks 1 Momentum** out of pure malice or tactical adaptation. No tier gate is needed — its own Momentum Bank is the cap.
     
 
 **Whisper Network**
@@ -243,6 +243,7 @@ ___________________________________________________________________
     - Wound Threshold: **5** _(Base 4 + 1 Leather)_
     - Wound Slots: **1**
     - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Fodder)_
+    - Momentum Bank: **6** _(4 + Reflex 2)_
 - **Equipment:** Leather armor (+1 to Wound Threshold). Rusty Shortsword — Power 2, Sidearm, Finesse; Shoddy Quality (becomes Damaged on a failed or fumbled roll, Ruined if already Damaged). Strike Roll: 2d6.
 - **Traits (1):**
     - **Swarm:** The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
@@ -270,6 +271,7 @@ ________________________________________________________________________________
     - Wound Threshold: **4** _(Base 4 + Brawn 0)_
     - Wound Slots: **1**
     - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Fodder)_
+    - Momentum Bank: **5** _(4 + Reflex 1)_
 - **Equipment:** None — natural bite/claw swarm attacks only. Strike Roll: 2d6+1 (Melee +1).
 - **Traits (2):**
     - **Amorphous:** Single-target weapons (daggers, spears, arrows) cannot inflict a Wound. Only Area of Effect (AOE) attacks or weapons with the _Devastating_ or _Siege_ tag can kill them.
@@ -299,6 +301,7 @@ ________________________________________________________________________________
     - Wound Threshold: **4** _(Base 4 + Brawn 0)_
     - Wound Slots: **1**
     - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Fodder)_
+    - Momentum Bank: **6** _(4 + Reflex 2)_
 - **Equipment:** None — natural weapon only. Claws/barbed tail (Power 0). Strike Roll: 2d6+1 (Melee +1).
 - **Traits (2):**
     - **Flying:** Bat-wings grant a Fly Move (see above). While airborne, ignores ground-level Difficult Terrain and obstacles.
@@ -328,6 +331,7 @@ ________________________________________________________________________________
     - Wound Threshold: **3** _(Base 4 - 1 Small + Brawn 0)_
     - Wound Slots: **1**
     - Stress Limit: **3** _(4 - 1 Small + 0 Fodder)_
+    - Momentum Bank: **6** _(4 + Reflex 2)_
 - **Equipment:** Blowgun (Power 0, 2H, Ranged Short/20 ft, Concealable). Strike Roll: 2d6 (Ranged +0).
 - **Traits (1):**
     - **Skittering:** Unnatural speed, shifting limbs, or erratic reflexes make them slippery targets. This creature may move out of a Threat Zone without requiring a test, or causing a free strike.
@@ -356,6 +360,7 @@ ________________________________________________________________________________
     - Wound Threshold: **6** _(4 + Scale +2 + Brawn 0)_
     - Wound Slots: **1**
     - Stress Limit: **4** _(4 + 0 Fodder)_
+    - Momentum Bank: **5** _(4 + Reflex 1)_
 - **Equipment:** None — natural weapon only. Fangs (Power 1). Strike Roll: 2d6+1 (Melee +1).
 - **Traits (2):**
     - **Wall-Crawler:** Moves across walls and ceilings as easily as open ground — never needs an Athletics check to climb, never falls if a climbing surface is disrupted, and can attack from unexpected angles above or beside a Threat Zone.
@@ -482,6 +487,7 @@ ________________________________________________________________________________
     - Wound Threshold: **6** _(Base 4 + Brawn 2)_
     - Wound Slots: **2**
     - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Grunt)_
+    - Momentum Bank: **4** _(4 + Reflex 0)_
 - **Equipment:** Greataxe (Power 5, 2H, Inertia, Cumbersome). No shield — Block is fought bare-handed here: it still contests the Clash at +2, but with no Shield Value to subtract from the Impact on a loss. Strike Roll: 2d6+4 (Melee +4).
 - **Traits (1):**
     - **Plated:** Reduces all incoming standard Impact damage by a flat -1.
@@ -510,6 +516,8 @@ ________________________________________________________________________________
     - Wound Threshold: **6** _(Base 4 + Brawn 2)_
     - Wound Slots: **2**
     - Stress Limit: **4** _(4 + 0 Grunt)_
+    - Activation Order: **6** _(6 + Reflex 0)_
+    - Momentum Bank: **4** _(4 + Reflex 0)_
 - **Equipment:** Spear (Power 2, Reach, Thrown) and a Kite/Round Shield (4 SV, Cover). Strike Roll: 2d6+3 (Melee +3).
 - **Traits (1):**
     - **Plated:** Natural scaled hide reduces all incoming standard Impact damage by a flat -1.
@@ -612,7 +620,7 @@ ________________________________________________________________________________
     - **Indomitable Spirit:** Base Stress Limit increased by +1 (already folded into the derived stat above).
     - **Steady, Not Sharp (Drawback):** Momentum Bank cap reduced by 1 (already folded in above).
 - **Allowance (2 — Grunt): 1 Trait + 1 Feat.**
-    - **Cunning Leader** _(Trait)_ — at the beginning of the Round, he can pass his own position in the Activation order to any allied Fodder unit within his line of sight, letting the Patrolmen strike with unexpected coordination.
+    - **Cunning Leader** _(Trait)_ — at the beginning of the Round, he can pass his own position in the Activation order to any allied Fodder unit within his line of sight, letting the Patrolmen strike with unexpected coordination. Additionally, whenever an ally within his line of sight dies, **he banks 1 Momentum**. His Bank of 3 is the cap — no tier gate required.
     - **Battlefield Orator** _(Feat, Tier 1 — prerequisite Influence 2, met)_ — spend an Action to shout orders or hurl insults. Choose one: an ally immediately clears 1d6 Dissonant Stress, OR an engaged enemy suffers -2 on their next Defence roll.
 - **Special Actions (1):**
     - **Hold the Line:** _Trigger:_ Instead of a regular attack. _Effect:_ He plants and calls the formation in. Every allied Watch member within 10 ft, himself included, gains +1 to Block rolls until the start of his next activation.
@@ -640,6 +648,7 @@ ________________________________________________________________________________
     - Wound Threshold: **4** _(Base 4 + Brawn 0)_
     - Wound Slots: **3**
     - Stress Limit: **6** _(4 + Will 0 + Wits 1 + 1 Elite)_
+    - Momentum Bank: **4** _(4 + Reflex 0)_
 - **Equipment:** None — channels raw spirit-force directly. Bite/claws (Power 1) as a last resort.
 - **Traits (2):**
     - **Innate Magic:** The magic is bone-deep, not book-bound. This creature casts Arcane spells without a Grimoire and without needing a hand free, and never suffers Blind Casting's Disadvantage or Dissonant Stress penalty for an unmet casting requirement. All of its Innate Spells are treated as if under Paradigm Mastery, regardless of which Paradigm (or none) the spell belongs to: any Messy result (Margin 1–2, whether on a Clash, an initial cast, or a Sustain check) is treated as Clean, paying no Dissonant Stress. Its power was never learned, so it was never imperfect to begin with.
@@ -714,7 +723,7 @@ _______________________________
 - **Allowance (3 — Elite): 2 Feats, 1 Trait**
     - **Relentless Momentum** _(Feat, Tier 2; prereq Brawn 2 ✓)_ — whenever he inflicts a Minor or Major Wound, he instantly gains 1 Momentum.
     - **Sweep** _(Feat, Tier 2; prereqs Brawn 1 ✓, Reflex 1 ✓, Melee 1 ✓)_ — on winning a Strike with a melee weapon, he may spend 1 Momentum to apply his full Impact to every enemy adjacent to the primary target. On a Reach halberd swung from behind his own line, this is the "opens gaps in a shield wall" threat made real, and Relentless Momentum is what pays for it.
-    - **Cunning Leader** _(Trait)_ — a ruthless commander who reads the battlefield with chilling tactical precision. At the beginning of the Round, he can pass his own position in the Activation order to any allied Fodder unit within his line of sight, letting the minions strike with unexpected coordination. Additionally, whenever an ally within his line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
+    - **Cunning Leader** _(Trait)_ — a ruthless commander who reads the battlefield with chilling tactical precision. At the beginning of the Round, he can pass his own position in the Activation order to any allied Fodder unit within his line of sight, letting the minions strike with unexpected coordination. Additionally, whenever an ally within his line of sight dies, **he banks 1 Momentum** out of pure malice or tactical adaptation.
 - **Special Actions (2):**
     - **Call for Reinforcements:** _Trigger:_ Instead of a regular action, declared on the Captain's activation. _Effect:_ The Captain shouts for backup. One additional Fodder (Bandit) arrives at the edge of the battlefield next round, OR — if reinforcements aren't narratively available — all currently engaged Fodder immediately gain the benefit of the Flanking Bonus as if one more ally were present (representing the Captain directing the formation).
     - **Hook and Drag:** _Trigger:_ Declared after a successful Melee clash with his Halberd with a Margin of 3+ (Clean or better). _Effect:_ Instead of dealing normal Impact, the Captain hooks the player's legs. The target is immediately knocked Prone and dragged 5 feet directly into an adjacent Fodder's Threat Zone.
@@ -744,6 +753,7 @@ _______________________________
     - Wound Threshold: **9** _(4 + Brawn 3 + Scale +2)_
     - Wound Slots: **3**
     - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite — monster build, exempt from the core-species Stress Limit floor)_
+    - Momentum Bank: **5** _(4 + Reflex 1)_
 - **Equipment:** None — natural weapon only. Tree Trunk (Power 3, Reach, Brutal). Strike Roll: 2d6+6 (Melee +6).
 - **Traits (1):**
     - **Troll-Blood Regeneration:** At the start of the Troll's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ If the Troll takes any Impact damage from a Fire source (such as a _Naphtha Fire-Flask_ or Pyromancy), this trait is entirely suppressed until the end of the next round.
@@ -773,11 +783,11 @@ ___________________________________________________________________
     - Wound Threshold: **11** _(4 + Brawn 3 + Scale +4)_
     - Wound Slots: **4** _(3 base + 1 Huge Scale)_
     - Stress Limit: **7** _(4 + Will 0 + Wits 0 + 1 Elite + 2 Resilient)_
+    - Momentum Bank: **4** _(4 + Reflex 0)_
 - **Equipment:** None — natural weapon only. A mass of rusted chains and mangrove roots (Power 3, Reach, Brutal). Strike Roll: 2d6+6 (Melee +6).
 - **Traits (2):**
     - **Sinking Gravity:** The ground immediately within the Goliath's Threat Zone is perpetually treated as Mire (Difficult Terrain), halving movement and imposing disadvantage to all mobility checks due to the supernatural rot and water bleeding from its body.
-    - **Resilient:** Increases the creature's Stress Limit by +2 (already folded into the total above). Can spend Threat to Mitigate damage, reducing incoming Impact by 2 per point spent (up to its Vessel limit).
-- **Vessel Limit:** 2 _(kept solely to support the Resilient Trait's Threat-spend mitigation, above — neither Special Action below costs Threat.)_
+    - **Resilient:** Increases the creature's Stress Limit by +2 (already folded into the total above). May spend **up to 2 Momentum per incoming Strike** from its own Bank to Mitigate damage, reducing that Strike's Impact by 2 per point spent.
 - **Special Actions (2):**
     - **Corpse-Gas Rupture:** _Trigger:_ Declared immediately when the Goliath takes a physical Wound. _Effect:_ The wound forcefully expels highly toxic swamp gas. The player who delivered the Wound instantly suffers the _Rigor_ condition as their lungs violently seize up, completely denying them the ability to Parry or Dodge on the Goliath's next turn.
     - **Sweeping Uproot:** _Trigger:_ Instead of a standard single-target Strike, declared before the Goliath attacks. _Effect:_ The Goliath drags its mass of chains and roots through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
@@ -803,6 +813,7 @@ __________________________________________________________________
 - **Derived stats:**
     - Wound Threshold: **8** _(4 + Brawn 2 + Scale +2)_
     - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite — monster build, exempt from the core-species Stress Limit floor)_
+    - Momentum Bank: **6** _(4 + Reflex 2)_
 - **Equipment:** None — natural weapons only. Bite & Claw (Power 2). Strike Roll: 2d6 + 4 (Melee +4).
 - **Traits (3):**
     - **Cursed Regeneration:** At the start of the Barrow-Fang's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ any Wound inflicted by a weapon carrying a Lycanthrope Bane effect (Silvered Edge, per Hardware) permanently suppresses this trait for the rest of the encounter — the same shape as the Frost-Cave Troll's fire weakness, with silver standing in for flame.
@@ -909,20 +920,20 @@ _______________________________
     - Wound Threshold: **12** _(4 + Brawn 4 + Armour 4)_
     - Wound Slots: **5**
     - Stress Limit: **11** _(4 + Will 3 + Wits 2 + 2 Dread/Boss)_
+    - Momentum Bank: **4** _(4 + Reflex 0)_
 - **Equipment:** Brimstone Plate (+4 Armour, immune to Damage, immune to fire). Hell-forge Greatsword (Power 5; after inflicting a Wound, target must pass a Resolve check at -2 or gain the Ablaze condition). Strike Roll: 2d6+7 (Melee +7).
 - **Traits (3):**
     - **Terrifying:** A harrowing presence — whether an eldritch abomination or a faceless, silent headsman — that cracks the human mind. When a PC engages with this creature or it activates within line of sight, the PC must immediately roll a Resolve check against TN 8. Failure: the PC immediately gains the Terrified condition.
-    - **Cunning Leader:** A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision. At the beginning of the Round, this creature can pass its own position in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, the GM gains 1 Threat out of pure malice or tactical adaptation.
-    - **Hubris (Passive Threat Engine):** The Arch-Devil feeds on mortal desperation. The GM instantly generates 1 Threat every single time a player spends Momentum from their bank.
+    - **Cunning Leader:** A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision. At the beginning of the Round, this creature can pass its own position in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, **Malaphar banks 1 Momentum** out of pure malice or tactical adaptation.
+    - **Hubris (Passive Momentum Engine):** The Arch-Devil feeds on mortal desperation. **Malaphar banks 1 Momentum every single time a player spends Momentum from their own bank** — a direct transfer, in one currency: he is literally eating their adrenaline.
 - **Special Actions (1):**
     - **Furnace Rebuke:** _Trigger:_ Declared when Malaphar wins a Clash as the Reactor (Defense) with a Margin of 3+ (Clean or better). _Effect:_ Malaphar deflects the player's blow with such friction that the player's weapon or hands burst into flames. The player instantly gains the Ablaze condition.
-- **Vessel Limit:** 4
-- **Threat Abilities (2):** the two genuine exceptions in the retuned roster — both are free-standing bonus effects with no action economy or Margin gate available to lean on instead.
-    - **Cost 2 Threat — The Devil's Mandate:** _Trigger:_ Declared as a Free Action on Malaphar's turn — genuinely stacks on top of his normal Strike, so Threat is the only thing limiting it. _Effect:_ Malaphar speaks a word of absolute authority, targeting one player. That player must pass a TN 8 Resolve check at -2, or drop to their knees in submission (gaining the Prone and Anchored conditions).
-    - **Cost 3 Threat — Lair Action (Gehenna's Grip):** _Trigger:_ Declared at the absolute start of a combat round — outside any creature's turn entirely, so there's no action economy here either. _Effect:_ The veil tears, and chains of molten iron erupt. Every player must make an immediate, unopposed Melee or Dodge check against TN 8. Failure means they are violently dragged 10 feet toward Malaphar.
+- **Momentum-Costed Abilities (2):** the two genuine exceptions in the retuned roster — both are free-standing bonus effects with no action economy or Margin gate available to lean on instead. Both are paid out of his **Momentum Bank of 4**, which is exactly the Vessel Limit they used to draw against.
+    - **Cost 2 Momentum — The Devil's Mandate:** _Trigger:_ Declared as a Free Action on Malaphar's turn — genuinely stacks on top of his normal Strike, so the Momentum cost is the only thing limiting it. _Effect:_ Malaphar speaks a word of absolute authority, targeting one player. That player must pass a TN 8 Resolve check at -2, or drop to their knees in submission (gaining the Prone and Anchored conditions).
+    - **Cost 3 Momentum — Lair Action (Gehenna's Grip):** _Trigger:_ Declared at the absolute start of a combat round — outside any creature's turn entirely, so there's no action economy here either. _Effect:_ The veil tears, and chains of molten iron erupt. Every player must make an immediate, unopposed Melee or Dodge check against TN 8. Failure means they are violently dragged 10 feet toward Malaphar.
 
 #### Phases
 
-- **Behaviour when unbroken:** Rules through overwhelming pressure rather than urgency — lets Hubris farm Threat passively as players spend Momentum, opens rounds with Gehenna's Grip to drag stragglers in, uses Devil's Mandate to take a problem PC out of the fight outright, and punishes anyone who attacks him directly with Furnace Rebuke.
+- **Behaviour when unbroken:** Rules through overwhelming pressure rather than urgency — lets Hubris farm Momentum passively as the players spend theirs, opens rounds with Gehenna's Grip to drag stragglers in, uses Devil's Mandate to take a problem PC out of the fight outright, and punishes anyone who attacks him directly with Furnace Rebuke.
 - **Behaviour when Broken:** Per the GM Tools NPC Stress rules, a Boss's Broken state resolves as a Phase Change rather than a Rout, Surrender, or Frenzy — see below.
 - **Dread Entity/Boss Phase changes — Gehenna Unbound:** _Trigger:_ The instant Malaphar's Stress Limit maxes out. _Effect:_ The veil doesn't just tear — it fails outright. A 60 ft radius centered on Malaphar becomes a literal fragment of Hell for the rest of the encounter. **Environmental Hazard:** at the start of each round, brimstone and hellfire lash every non-Daemon creature in the radius — resolved as a Hazard Roll (GM Tools): 2d6+2 (Hazard Power 2) against the character's Wound Threshold; a hit inflicts a Wound, a miss still inflicts 1 Stress. **Imps Erupt:** 3 Imps (Fodder tier — stat block not yet designed) tear through the rift and join the fight at the edge of the battlefield.

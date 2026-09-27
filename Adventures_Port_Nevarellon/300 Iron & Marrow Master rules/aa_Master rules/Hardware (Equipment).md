@@ -470,7 +470,7 @@ _______________________________________________________________________
 	- *Loads:* Each shot spends 1 load (2 for a Scatter weapon) from a Powder Flask carried on the Belt. Loads are tracked individually and are **not** covered by the Community Supply Die.
 	- *The Powder Die:* Roll one of your 2d6 in a distinct colour. If it shows a natural 1, the weapon **Misfires**: the Clash resolves as a Tie and the load is spent. While **Damp** (rain, sea spray, drifting fog) it Misfires on a 1 or 2. Rerolls that can change that die (e.g. Balanced Quality) resolve before the Misfire is checked.
 	- *Snake Eyes:* The barrel bursts — the weapon gains the **Damaged** tag, on top of the normal Snake Eyes consequences.
-	- *Report:* The first Black Powder discharge in a scene, by anyone, grants the GM **1 Threat**, and a shooter hidden by Stealth is revealed. Any later encounter at the same site starts one band higher on the Starting Threat Scale (Tools for the Nameless) — the whole place heard it.
+	- *Report:* The first Black Powder discharge in a scene, by anyone, reveals a shooter hidden by Stealth. Any later encounter at the same site starts one band higher on **Starting Momentum** (Tools for the Nameless) — the whole place heard it. *(The shot itself grants no Momentum to anyone: it is an alarm, not an economy.)*
 	- *Reloading:* **Heavy Reload**, and cannot be done while Engaged. A firearm may be carried loaded, and enters a fight ready to fire.
 	- *In melee:* Counts as a Club (Power 0, Bash). A firearm's listed Power applies only to Shoot — never to Parry, Off-Hand Parry, or Twin Strike.
 	- *Soaking:* If the carrier gains **Drowned** or is submerged, every load they carry and any loaded firearm is spoiled, unless held in an Oilskin Powder Flask.

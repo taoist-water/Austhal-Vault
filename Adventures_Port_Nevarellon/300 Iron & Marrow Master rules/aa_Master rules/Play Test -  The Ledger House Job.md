@@ -13,9 +13,9 @@
 | Scene                | Set-Piece                              | What It's Actually Testing                                                                                                       |
 | -------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Cold Open            | The Grave-Warden (strongroom guardian) | Broken flat-Impact math on Faith Miracles (Wrathful Light / Rime-Fang's Bite); the missing clearance rule for the Fear condition |
-| Cross-scene          | The Watch (chase/pressure track)       | Passive Notice / Stealth escalation as a non-lethal pressure tool; whether Cunning Leader needs an explicit Fodder-Threat clause |
+| Cross-scene          | The Watch (chase/pressure track)       | Passive Notice / Stealth escalation as a non-lethal pressure tool; Cunning Leader now banks Momentum to the creature itself — watch whether the Sergeant's Bank of 3 ever actually fills |
 | Minor Scene 2        | The Sluice Vault                       | The Drowned condition in live play; Hazard Roll interacting with ongoing combat                                                  |
-| Major Scene          | Smugglers disturbed                    | outnumbered PCs, cover.                                                                                                          |
+| Major Scene          | Smugglers' Cave (1 Elite, 2 Grunt, 6 Fodder) | outnumbered PCs, cover; first live test of the asymmetric NPC Momentum earning rule                                         |
 | Ambient, all session | —                                      | Watch for any Natural 12 that also lands Margin 12+ (the Momentum double-dip flag)                                               |
 
 A Playtest Log checklist is at the end — fill it in as things happen, not from memory afterward.
@@ -35,14 +35,14 @@ In the back office or under a false floor, the party finds the real prize: a sea
 - **Tier:** Grunt
 - **Type:** Construct
 - **Size:** Standard
-- **Stats:** Reflex +2
-- **Skills:** Melee +2 *(Strikes at +2; Brawn assumed zero)*
-- **Derived Stats:** Wound Threshold **4** (4 base + Brawn 0) | Wound Slots: 2 | Stress Limit: 4 (4 + Will 0 + Wits 0)
+- **Attributes:** Reflex 2 *(derived only — never added to a roll)*
+- **Skills:** Melee +2 *(Strikes at 2d6+2)*
+- **Derived Stats:** Wound Threshold **4** (4 + Brawn 0) | Wound Slots: 2 | Stress Limit: 4 (4 + Will 0 + Wits 0) | Activation Order: 8 (6 + Reflex 2) | **Momentum Bank: 6** (4 + Reflex 2)
 - **Equipment:** Ancient bone blade (Power 2)
 - **Traits (1):** **Fear Inducing** *(existing trait — anyone engaging it or activating within line of sight rolls Resolve vs. TN 8 or gains the Fear condition)*
-- **Vessel Limit:** 1
-- **Threat Abilities (1):**
-  - **Cost 1 Threat — Grinding Assault:** *Trigger:* Declared on a successful Melee Clash. *Effect:* This Strike gains the **Cleave** tag (per Hardware), catching an adjacent ally in the same roll.
+- **Momentum-Costed Abilities (1):**
+  - **Cost 1 Momentum — Grinding Assault:** *Trigger:* Declared on a successful Melee Clash. *Effect:* This Strike gains the **Cleave** tag (per Hardware), catching an adjacent ally in the same roll.
+  - *As a Grunt it earns no Momentum from Clashes (GM Tools, Momentum Economy) and has no generating Trait, so whatever it starts with is all it gets. At **Standard Engagement** it is the highest-tier enemy in the Cold Open and starts with 2 — two Grinding Assaults, then never again.*
 
 **Phases**
 - **Unbroken:** Advances in a straight line toward whoever is closest to the crypt door. No tactics, no hesitation — it isn't afraid and doesn't need to be clever.
@@ -106,11 +106,10 @@ The party's escape route — the smugglers' sewer route one PC knows — runs di
 
 **Bog-Wretch (Fodder)**
 - **Type:** Undead | **Size:** Standard
-- **Stats:** Brawn +1 *(Strikes and grabs at +1, everything else at +0)*
-- **Wound Threshold:** 5 (4 + 1) | Wound Slots: 1 | Stress Limit: 0
+- **Attributes:** Brawn 1 *(derived only — never added to a roll)* | **Skills:** Melee +1
+- **Wound Threshold:** 5 (4 + Brawn 1) | Wound Slots: 1 | **Stress Limit: 4** | Activation Order: 6 | Momentum Bank: 4
 - **Equipment:** Waterlogged claws (Power 1) — Strike: `2d6+1`
 - **Traits (1):** **Vicious** *(existing trait — inflicted damage forces a Prowess check or Bleeding)*
-- **Vessel Limit:** 1
 
 Field 3–4 of these, surging out of the flooded muck while some PCs are still fighting off Drowned. Individually harmless — the point is testing whether Drowned's slow bleed actually feels oppressive layered under combat pressure, not as a standalone puzzle.
 
@@ -118,32 +117,38 @@ Field 3–4 of these, surging out of the flooded muck while some PCs are still f
 
 ---
 
-## Scene 3 (Major): The Frost-Cave (dev note)this scene will be changed from the frost troll. maybe a wolves den? an elite alpha, a grunt and a few fodder? (/dev note)
+## Scene 3 (Major): The Smugglers' Cave
 
-The tunnel surfaces in a natural cave system at the city's edge — the actual exit — currently denned by a Frost-Cave Troll that has no idea a smugglers' route now runs through its territory.
+The sluice route surfaces in a natural cave system at the city's edge — the actual exit — and it is not empty. The heirs' money is staged here, and the crew moving it is mid-load when the party comes up out of the water: soaked, possibly still **Drowned**, and outnumbered better than two to one.
 
-*This is an existing Bestiary entry, reused deliberately — it's already sitting on the stress-test queue, so running it here closes an open item instead of opening a new one.*
+*Every enemy here is an existing Bestiary entry. Nothing new was written for this scene — the six urban thugs were built for exactly this ("working for crime lords, gangs and cartels") and have never seen a playtest. Running them here closes an open item instead of opening one.*
 
-### The Frost-Cave Troll (Elite)
+### The Crew — 1 Elite, 2 Grunts, 6 Fodder
 
-*A towering, territorial brute of dense muscle and thick frost-bitten hide. It swings a shattered pine tree with horrifying speed, its wounds knitting together almost as fast as they are opened.*
+| Role | Bestiary entry | Key numbers |
+|---|---|---|
+| **Elite — the enforcer** | **The Duelist** | Melee +5, **Activation Order 11** (Quick), WT 5, Slots 3, Stress 6, Bank 6 |
+| **Grunt** | **Knuckle-Duster** | Melee +3, Prowess +2, WT 6, Slots 2, Stress 5, Bank 3 |
+| **Grunt** | **The Bouncer** | Melee +2, Block +3, WT 7 (Stone-Bones), Slots 2, **Choke the Doorway** |
+| **Fodder ×4** | **Back-Alley Brawler** | Melee +2, WT 5, Slots 1, Haymaker |
+| **Fodder ×2** | **Gutter Rat** | Stealth +2, WT 3, Slots 1, Sucker Stab (2 Dissonant Stress) |
 
-- **Wound Threshold:** 9 (4 + Brawn 3 + Scale 2) | **Wound Slots:** 3 | **Stress Limit:** 4
-- **Stats:** Brawn +3 | Melee +3, Prowess +1, Reflex +1 *(Assumed Zero: Dodge, Wits, Will, Arcana, Resolve — fast and hits like a siege weapon, but entirely defenseless against mind-altering magic or illusions)*
-- **Traits (2):**
-  - **Large (Scale +1)**
-  - **Troll-Blood Regeneration:** At the start of its activation, automatically heals 1 Wound Slot and clears 1 Stress. *Weakness:* any Impact from a Fire source (Naphtha Fire-Flask, Pyromancy) fully suppresses this trait until the end of the next round.
-- **Threat Abilities (2):**
-  - **Cost 1 Threat — Vicious Frenzy:** *Trigger:* immediately after the Troll completes a Strike. *Effect:* an immediate secondary Strike against an adjacent target (claws, treated as Power 1, Vicious).
-  - **Cost 2 Threat — Sweeping Uproot:** *Trigger:* declared before a Strike with its Tree Trunk (Power 3, Reach, Brutal). *Effect:* the Strike gains **Cleave**, forcing everyone in its frontal arc to defend against the same roll; anyone who loses is knocked Prone.
-- **Vessel Limit:** 2
+**The Fixer is present but is not a combatant.** She is the broker who arranged the move — WT 3, Influence +4, no business in a firefight. She is the *objective*: the scene is "reach the broker before she walks out with the ledger," not "kill nine people." If the party corners her she talks, and Silver-Tongued Viper makes that genuinely dangerous.
 
 ### Staging Notes
 
-- **Start Threat at 3–4 (High Alert)** — enough for it to open with Sweeping Uproot or immediately chain into Vicious Frenzy.
-- **Terrain:** icy, mire-touched cave floor (ties naturally to Winter & Wilds flavor without contradicting anything established).
-- **The actual test:** make sure at least one Brace-oriented PC (shield/heavy armor) *and* one Dodge/Parry-oriented PC both take hits from the Tree Trunk. If only one defense style shows up, you won't get a clean answer to "is this an Elite-durability problem, or specifically a Brace problem" — which is the whole reason this fight is queued. Don't let the fiction quietly let one PC dodge the whole encounter.
-- **Ambient watch:** any Natural 12 that also lands a Margin of 12+ in this fight is the Momentum double-dip (2 from Fates' Bounty + 2 from Massive Success off one roll). Dice-heavy fights like this are the most likely place to actually see it happen — note it if it does.
+- **Starting Momentum — Standard Engagement.** The crew is working, not waiting in ambush. The Duelist (highest tier) starts with **2**; everyone else starts empty.
+- **The Duelist acts first, before the entire party.** Activation Order 11 against a Green party's 6–9. That is the whole opening pressure of the scene, and it costs the GM nothing.
+- **The Bouncer belongs in the chokepoint.** Crates, a loading ramp, a tunnel mouth — Choke the Doorway is why he is on this roster, and it is the ability that makes cover matter.
+- **The party arrives damaged.** Anyone who came through the sluice still Drowned is at Disadvantage on everything and taking 1 Dissonant Stress a turn. Do not quietly let that lapse at the scene break; it is the reason this fight is dangerous rather than merely large.
+- **Terrain:** wet rock, standing water, stacked crates and a moored skiff. Cover is abundant and that is deliberate.
+
+### What to watch for here
+
+- **The actual test — does the Momentum Economy hold at scale?** This is the first fight built under the new asymmetric earning rule. Nine enemies, and exactly **one** of them (the Duelist) earns Momentum passively. The party has four earners. Count it during play: if the GM finishes the fight having generated more Momentum than the party did, the Elite-tier trigger is too generous.
+- **Do the Grunts ever spend anything?** Neither Knuckle-Duster nor The Bouncer carries a Momentum-generating Trait, so both are limited to their Starting Momentum of zero. If that makes them feel inert, the fix is a Behavioural Recharge Trait, not a change to the earning table.
+- **Nine enemies against four PCs is roughly 2.25 attacks per PC per round.** But all six Fodder have **1 Wound Slot** — one clean hit each. The fight should feel overwhelming for two rounds and then collapse. If it doesn't collapse, cover is doing too much work for the enemy; if it collapses immediately, the Fodder count is the dial.
+- **Ambient watch:** any Natural 12 that also lands a Margin of 12+ is the Momentum double-dip (2 from Fates' Bounty + 2 from Massive Success off one roll). A nine-enemy fight is the most likely place in the session to actually see it.
 
 ---
 
@@ -158,16 +163,19 @@ Fill this in during or immediately after the session — don't rely on memory af
 **The Watch**
 - [ ] Did the party evade, fight, or get caught? At which Stage?
 - [ ] Did Suppressed actually create meaningful pressure, or did it fizzle?
-- [ ] Any moment where "does Cunning Leader unlock Fodder Threat-spending" actually came up?
+- [ ] Did Cunning Leader's activation-pass get used, and did the Sergeant bank any Momentum off a dying Patrolman?
 
 **The Sluice Vault**
 - [ ] Did Drowned feel oppressive, or did the party clear it trivially?
 - [ ] Did the Bog-Wretch ambush land while PCs were still Drowned, or did the timing miss?
 
-**The Frost-Cave Troll**
-- [ ] Did a Brace user take a hit? Outcome (Wound / no Wound)?
-- [ ] Did a Dodge/Parry user take a hit? Outcome?
-- [ ] Conclusion: universal Elite-durability issue, or Brace-specific?
+**The Smugglers' Cave**
+- [ ] Total Momentum generated by the GM across the fight, vs. by the party. Which side out-earned the other?
+- [ ] Did the Duelist's Activation Order 11 opening feel like pressure, or like an unanswerable alpha strike?
+- [ ] Did either Grunt ever have Momentum to spend? If not, did they feel inert?
+- [ ] How many rounds until the Fodder count collapsed? Was the fight overwhelming-then-brief, as intended?
+- [ ] Did anyone arrive still Drowned, and did it survive the scene break?
+- [ ] Did the party go for The Fixer, or just fight everything?
 - [ ] Any Natural 12 + Margin 12+ double-dip observed? How much Momentum did it generate?
 
 **General**

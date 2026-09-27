@@ -55,9 +55,9 @@ Currency scales with the party's current Standing, the same way Enemy Budget doe
 ______________________________________________________________________
 # Targeting the Resources
 
-Because the community supply die is a tangible mechanic, the GM can use their Threat pool to attack the party's supplies instead of their health, creating terrifying new enemy archetypes.
+Because the community supply die is a tangible mechanic, an enemy can spend its own Momentum to attack the party's supplies instead of their health, creating terrifying new enemy archetypes.
 
-- The Rust Monster / Acid Spit: If an enemy with a corrosive or fire-based attack wins a Clash with a high margin, the GM can spend 1 Threat to force an immediate Supply Die roll as the party's gear melts or catches fire.
+- The Rust Monster / Acid Spit: If an enemy with a corrosive or fire-based attack wins a Clash with a high margin, it may spend 1 Momentum from its own Bank to force an immediate Supply Die roll as the party's gear melts or catches fire.
     
 - The Scavenger: Small, fodder-tier enemies (like goblins or feral ghouls) might have a rule where if they win a Clash, they don't deal Impact. Instead, they slice open a backpack and flee, forcing an automatic step-down of the Supply Die without a roll.
 ________________________________________________________________________
@@ -106,74 +106,76 @@ ________________________________________________________________________
 
 In Iron & Marrow, monsters do not challenge the players by having bigger numbers. They challenge the players by breaking the rules of the game.
 
-This is managed through the GM's Threat Economy and a tiered Bestiary Tag system. Here is the framework for designing brutal, terrifying encounters.
+This is managed through the Momentum Economy below and a tiered Bestiary Tag system. Here is the framework for designing brutal, terrifying encounters.
 
-# The Threat Economy (The GM's Momentum)
+# The Momentum Economy
 
-Threat is the GM’s equivalent of the players' Momentum. They are points used to activate horrifying monster abilities, interrupt the action economy, and aggressively push the players into the Death Spiral.
-### The Shared Pool (The "GM Momentum" Model)
+There is one currency in Iron & Marrow, and both sides of the table use it. **Momentum.** The GM does not have a separate resource, a separate pool, or a separate cap. What changed and why: once core-species Humanoids started building like PCs, most of the Bestiary already had Momentum Banks, and Threat was left running two statblocks. A whole parallel economy for two creatures is not worth the rules it takes to explain.
 
-All enemies draw from one central bucket of Threat points.
+### Every creature has a Momentum Bank
 
-- **The Pro:** It creates a "Global Pressure" system. Even if the players kill the weak fodder, the Threat they generated stays in the pool, allowing the Boss to use even more devastating abilities later. It rewards the GM for the party's poor play across the _entire_ encounter.
-    
-- **The Vibe:** It feels like a living, breathing dungeon. The dungeon itself is the enemy, and the monsters are just its appendages.
-    
-### The Hybrid "Vessel" System
+**Momentum Bank = 4 + Reflex.** Every creature, core-species and monster alike, at every tier.
 
-**The "Vessel" Rule:**
+- The Bank belongs to that creature. It is not shared with other enemies, it does not survive the creature's death, and nothing draws from anyone else's.
+- **A Bank is already a spend cap**, which is why there is no Vessel Limit any more. Where an ability needs a tighter per-use limit than the Bank provides, that limit is written into the ability's own text — not into a second global rule.
 
-1. **The Common Pool:** Keep the Shared Threat Pool (Max 5). This is the "Dungeon's Adrenaline."
-    
-2. **The Vessel Limit:** each individual tier of enemy has a **Vessel Limit**. This is the maximum amount of Shared Threat they can "pull" into themselves to trigger an ability in a single round.
-### The Behavioral Recharge (Condition Triggers)
+### How NPCs earn it — asymmetric on purpose
 
-If you want to generate Threat during a fight without the GM doing any math, tie the recovery to a binary, narrative trigger.
+A PC earns 1 Momentum by winning a Clash by a Margin of 5+ (Iron Core). **NPCs do not all get that trigger**, because enemies outnumber the party and headcount would otherwise decide the economy:
 
-- The Mechanic: The GM starts with 1 or 2 Threat. They regain 1 Threat only when a specific condition is met.
-    
-- Examples by Enemy Type:
-    
-- The Blood-Crazed Orc: generates 1 Threat immediately whenever it suffers a Wound (representing uncontrollable rage).
-    
-- The Sadistic Mercenary: generates 1 Threat immediately whenever a player in its Threat Zone suffers a physical Wound (feeding on the momentum of the kill).
-    
-- The Clockwork Sentinel: generates 1 Threat automatically at the start of every even-numbered combat round (representing internal engine pressure building up).
-    
-### Static recharges
+| Tier | Earns Momentum from |
+|---|---|
+| **Fodder** | Its own Traits and Feats only. Never from a Clash. |
+| **Grunt** | Its own Traits and Feats only. Never from a Clash. |
+| **Elite** | Traits and Feats, **plus** 1 on winning a Clash by Margin 5+. |
+| **Dread / Boss** | Traits and Feats, Margin 5+, **plus 1 at the start of every round.** |
 
-- **The Vanguard Escalation:** At the start of **every round**, the GM gains 1 Threat. This is non-negotiable.
-    
-(dev note)- **The Attrition Tax:** If a player spends 30 minutes in a **Breather**, they don't just lose Momentum; they lose their "preparedness." The GM gains **2 Threat** immediately, representing the monsters closing in while the party is distracted and bandaging wounds. might make this/use this in situations when the enemies are aware the PCs are around. like an alarm has been set off.
-    
-- **The "Targeting the Bank" Rule:** If an Elite hits a player and that player has **any** Momentum in their bank, the GM can spend **2 Threat** to "Drain the Adrenaline." The player loses 2 Momentum, and the GM instantly heals 1 Stress on the Elite.(/dev note)
+Point nine enemies at four PCs and the PC trigger would hand the GM nine earning chances a round against the party's four. Under the table above that same fight gives the GM **one** passive earner. Adding a mook to an encounter adds a body, not an economy — which is what keeps Fodder disposable.
+
+The round-start point is Dread/Boss only, and it replaces the old Vanguard Escalation. A Boss with low Reflex will rarely win a Clash by Margin 5+, so without it a Boss could never afford its own signature abilities. It does not scale with headcount, so it cannot be farmed by fielding more bodies.
+
+### Behavioural Recharge — how Fodder and Grunts earn
+
+Since the lower two tiers earn nothing from Clashes, a Trait or Feat is their *only* route to Momentum. Tie it to a binary, narrative trigger that needs no arithmetic:
+
+- **The Blood-Crazed Orc:** banks 1 Momentum whenever it suffers a Wound.
+- **The Sadistic Mercenary:** banks 1 whenever a PC in its Threat Zone suffers a Wound.
+- **The Clockwork Sentinel:** banks 1 at the start of every even-numbered round.
+- **Cunning Leader:** banks 1 whenever an ally within its line of sight dies.
+
+This needs no tier gate. A Grunt's Bank is 3 or 4 — the cap does the limiting that a tier restriction used to do. That is the single biggest simplification this change buys: an ability that generates resource no longer has to ask what tier is holding it.
+
+### What NPCs spend it on
+
+Their own Traits, Feats and Special Actions that carry a Momentum cost, and Iron Core's generic spends — Shake It Off, The Blood Price, Adrenaline Flush, The Surge — exactly as a PC does. This was already true for core-species NPCs; it is now true for all of them.
+
 ________________________________________________________________________
 ## The Tiers of Monsters
 
-Because modifiers are bounded, monsters are categorized by how they interact with the game's action economy and the Threat pool.
+Because modifiers are bounded, monsters are categorized by how they interact with the game's action economy and the Momentum economy.
 
 ### The Tiers of Attrition
 
 **Fodder:** They exist to drain player Momentum and force tactical positioning.
-	- 1 - 2 Traits. 1 Special Action (self-gated — no Threat cost, no Vessel Limit; see the Bestiary's Gate Test). usually 1 wound. stress as core rule defined.
-	- Example (Zombie):_ Brawn 1, melee +1. _(Strikes and grabs at +1, everything else is +0). Undead
+	- 1 - 2 Traits. 1 Special Action (self-gated — no Momentum cost; see the Bestiary's Gate Test). Usually 1 Wound Slot. Stress as the core rules define. Earns Momentum only from its own Traits and Feats, never from a Clash.
+	- _Example (Zombie, Undead):_ Brawn 1; Melee +1. _(Strikes and grabs at 2d6+1 — the Attribute sets its Wound Threshold and is never added to the roll.)_
 
 - **Grunt:** These are the core adversaries. Armored mercenaries, mutated alchemical horrors, and seasoned killers. They force the players to spend Momentum .
-	- 1 - 2 Traits. 1 Special Action, same self-gating rule as Fodder. 2 wounds. stress as core rule defined.
+	- 1 - 2 Traits. 1 Special Action, same self-gating rule as Fodder. 2 Wound Slots. Stress as the core rules define. Earns Momentum only from its own Traits and Feats, never from a Clash.
     
-    - _Example (Orc Line-Breaker):_ Brawn +2, Melee +2. _(Strikes at +4. Activation/Reflex is +0. Magic defense is +0)._
+    - _Example (Orc Line-Breaker):_ Brawn 2; Melee +2, Prowess +2. _(Strikes at 2d6+2. Reflex 0, so Activation Order 6 and Momentum Bank 4. Nothing to resist mental magic with.)_
         
 - **Elite:** Almost equivalent to the characters capabilities, very challenging. Built to be a few advances ahead of the characters at all times.
-	-  2 - 3 Traits. 1 - 2 Special Actions — reach for a Margin 3+ threshold before reaching for Threat when the ability is a bonus on top of an already-resolved action. 3 - 4 wounds. stress as core rule defined +1.
+	-  2 - 3 Traits. 1 - 2 Special Actions — reach for a Margin 3+ threshold before reaching for a Momentum cost when the ability is a bonus on top of an already-resolved action. 3 - 4 Wound Slots. Stress as the core rules define, +1. **First tier that earns Momentum from a Clash won by Margin 5+.**
     
-    - _Example (Cultist Assassin):_ Melee +2, Dodge +4, Stealth +4, Notice +1. _(Strikes at +2, Dodges at +4, Stealths at +4. Prowess is +0)._
+    - _Example (Cultist Assassin):_ Melee +2, Acrobatics +4, Stealth +4, Notice +1. _(Strikes at 2d6+2, Dodges at 2d6+4 — Dodge is Acrobatics, there is no Dodge skill — Stealths at 2d6+4. Braces at 2d6+0.)_
         
 - **Dread Entities / Bosses (The Behemoths):** These are terrifying, almost mechanical monstrosities or apex predators. Built to rival a highly optimized player. Attributes can exceed +3.
-	- 2 - 4 Traits. 3+ Special Actions/Threat Abilities — this is the tier where a real Threat-gated ability (a Free Action stacked on a full turn, or a Lair Action outside the turn order) actually belongs. vessel limit 2 - 4 (only meaningful for the entries that still cost Threat). 4+ wounds. stress as core rule defined + 2
+	- 2 - 4 Traits. 3+ Special Actions — this is the tier where a genuinely free-standing, **Momentum-costed** ability (a Free Action stacked on a full turn, or a Lair Action outside the turn order) actually belongs. 4+ Wound Slots. Stress as the core rules define, +2. Earns from Margin 5+ **and** banks 1 at the start of every round.
     
-    - _Example (Arch-Devil Malaphar):_ Melee +7, Arcana +4, Resolve +4. _(Strikes at +7, casts at +4, resists mental magic at +4. Still has a +0 in Reflex).
+    - _Example (Arch-Devil Malaphar):_ Melee +7, Arcana +4, Resolve +4. _(Strikes at 2d6+7, casts at 2d6+4, resists mental magic at 2d6+4. Reflex 0, so Activation Order 6 and Momentum Bank 4 — he acts last and pays for his Mandate and his Lair Action out of that Bank.)_
 
-**Point budgets for all four tiers, and the full Special-Actions-vs-Threat-Abilities Gate Test, now live in one place only: the Bestiary's "Core Integration Rules" section.** They get retuned as the roster grows, so a second copy here would just be another place for the two documents to drift out of sync — exactly what happened to this section before this pass. Look the specifics up there; this doc keeps the role descriptions and worked examples since those don't change with Standing or with the Gate Test.
+**Point budgets for all four tiers, and the full Gate Test for Special Actions, now live in one place only: the Bestiary's "Core Integration Rules" section.** They get retuned as the roster grows, so a second copy here would just be another place for the two documents to drift out of sync — exactly what happened to this section before this pass. Look the specifics up there; this doc keeps the role descriptions and worked examples since those don't change with Standing or with the Gate Test.
 
 
 
@@ -204,17 +206,11 @@ The moment that final Stress box is checked, the binary switch flips from "Funct
     
 - The Phase Change (Bosses): A Boss maxes out its Stress track. It doesn't die, but its behavior violently shifts. A heavily armored warlord realizes they are losing, so they scream, tear off their heavy, restrictive armor (losing their Armor tags), and pull out two jagged daggers to fight recklessly in a new "Phase 2."
 ________________________________________________________________________
-# The Starting Threat Scale
+# Starting Momentum
 
-You can provide GMs with a simple narrative framework for setting the pool (from 0 to the maximum of 5):
+Starting Momentum seeds the enemies' **Banks**, not a pool, so it scales with the roster on the table instead of a flat number:
 
-MD
-
-- **0 Threat (The Ambush):** The enemies are completely unaware, asleep, or drunk. The players dictate the entire opening of the combat. The monsters must survive the first round just to trigger their Behavioral Recharges and get themselves on the board.
-    
-- **1 to 2 Threat (Standard Engagement):** A standard patrol or a group of mercenaries actively standing guard. The GM has just enough Threat to trigger one moderate ability, like the Orc Line-Breaker's _Unstoppable Mass_, keeping the players cautious.
-    
-    
-- **3 to 4 Threat (High Alert):** The dungeon knows the players are coming. Traps are set, and weapons are drawn. The GM starts with enough currency to immediately tax the players' Momentum or trigger an Elite's most devastating opener.
-    
-- **5 Threat (The Kill-Zone):** Walking into a Boss's lair or a perfectly executed enemy ambush. The atmosphere is immediately suffocating.
+- **The Ambush:** every Bank starts empty. The enemies are unaware, asleep, or drunk — the players dictate the entire opening, and the monsters have to survive a round just to trigger their Behavioural Recharges and get themselves on the board.
+- **Standard Engagement:** the single highest-tier enemy starts with **2**; everyone else starts empty. A standard patrol, or mercenaries actively standing guard — enough for one moderate ability, keeping the players cautious.
+- **High Alert:** every **Elite and above** starts with **half its Bank, rounded down**; Grunts start with **1**. The place knows the players are coming: traps set, weapons drawn, and an Elite able to afford its most devastating opener immediately.
+- **The Kill-Zone:** **every** enemy starts with a **full Bank**. A Boss's lair, or a perfectly executed ambush. The atmosphere is immediately suffocating.

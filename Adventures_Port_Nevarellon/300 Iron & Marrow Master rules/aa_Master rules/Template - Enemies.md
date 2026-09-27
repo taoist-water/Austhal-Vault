@@ -6,7 +6,7 @@
 ## Vital Statistics
 - **Tier:** Fodder | Grunt | Elite | Dread Entity/Boss
 - **Type:** one or more of the canonical Creature Types (see Bestiary): Humanoid, Beast, Dragon, Fey, Elemental, Undead, Vampire, Lycanthrope, Daemon, Void-Touched, Ooze, Construct, Mutant. Type is the hook Bane effects, Domain Tags and resistances key off — pick from this list, don't invent one.
-- **Species:** core-species Humanoids only (Human, Half-Elf, Half-Orc, Halfling, Elf, Dwarf). If present, build per **Core-Species Humanoids** in the Core Integration Rules. If absent, this is a monster — bespoke Traits and Special Actions, no Feats, no Momentum Bank.
+- **Species:** core-species Humanoids only (Human, Half-Elf, Half-Orc, Halfling, Elf, Dwarf). If present, build per **Core-Species Humanoids** in the Core Integration Rules. If absent, this is a monster — bespoke Traits and Special Actions, no Feats. It still has a Momentum Bank; every creature does.
 - **Size:** per the Scale rules (Metal meet Flesh). Standard needs no note.
 - **Move:** land and/or Fly Move in feet; 30 ft is the unremarkable default.
 - **Attributes:** Brawn | Reflex | Wits | Will — derived only, never added to a roll.
@@ -24,7 +24,7 @@
 	- Wound Slots: by tier — Fodder 1 · Grunt 2 · Elite 3–4 · Boss 4+ (never the PC's flat 3)
 	- Stress Limit: 4 + Will + Wits + Species bonus + tier bonus (Elite +1, Boss +2). **Core-species builds only:** then raised to the tier floor if lower — **Fodder 4 · Grunt 4 · Elite 6 · Dread/Boss 8**. Monsters are exempt: they have no Ceiling Rule and no Feat prerequisites competing for their Attribute points, so a low monster Stress Limit is a build choice, not residue. Scale and Species modifiers apply after the floor and may take a core-species build below it. In practice this only ever fires at Elite and above, since Fodder and Grunt already sit at the base 4.
 	- Activation Order: 6 + Reflex (−1 for a Cumbersome weapon)
-	- Momentum Bank: 4 + Reflex — **core-species only**, earned and spent exactly as a PC's
+	- Momentum Bank: 4 + Reflex — **every creature**, earned and spent exactly as a PC's. Momentum is the game's only currency; there is no GM Threat pool and no Vessel Limit. Earning is asymmetric by tier (GM Tools, Momentum Economy): Fodder and Grunt from their own Traits and Feats only, Elite adds a Clash won by Margin 5+, Dread/Boss adds 1 at the start of every round.
 - **Equipment:** weapons with Power and tags, armour with Armour Value, and the resulting Strike Roll.
 - **Species Traits:** core-species only — free, and outside the allowance below. Read them from The Marrow rather than restating them here, so the two documents can't drift. **Drawbacks come along with them.**
 - **Allowance — Feats, spells and Traits share one pool:** Fodder 2 · Grunt 2 · Elite 3 · Dread/Boss 4.
@@ -32,9 +32,8 @@
 	- *Core-species* may spend it on Feats and spells from the players' own lists (The Marrow, Manipulating The Void) or on Traits, in any mix. Feat tier ceiling: Grunt Tier 1, Elite Tier 1–2, Dread/Boss any. Spells must still meet their own Arcana/Faith rank prerequisites, and a trained caster needs **Arcane Awakening**, **Arcane Dabbler**, **Divine Conduit** or **Ritualist** (and the focus it grants) — only the Innate Magic trait bypasses that.
 	- Where a signature mechanic has no equivalent on the players' lists (Skittering, Ambusher, Cunning Leader), spend the slot on the Trait rather than contorting the build around it.
 - **Special Actions:** per the **Gate Test** — free if it replaces the creature's regular action or its trigger is self-limiting; if it's a bonus layered on an action the creature already took, gate it behind a **Margin 3+** threshold instead. Fodder/Grunt 1 · Elite 1–2 · Dread/Boss 3+.
-- **Threat Abilities:** *Dread/Boss almost exclusively.* Only for a genuinely free-standing ability — a true Free Action stacked on a full turn, or a Lair Action outside the turn order.
-	- **cost:** *name:* (description of ability, narrative and mechanics)
-- **Vessel Limit:** only if this creature actually has Threat-costed abilities. Omit it otherwise.
+- **Momentum-Costed Abilities:** *Dread/Boss almost exclusively.* Only for a genuinely free-standing ability — a true Free Action stacked on a full turn, or a Lair Action outside the turn order. Paid from the creature's own Momentum Bank, which is the only cap; if an ability needs a tighter per-use limit, write it into the ability.
+	- **Cost N Momentum — *name*:** (description of ability, narrative and mechanics)
 
 ## Phases 
 - **Behaviour when unbroken:** how the enemy narratively plays at full health and unbroken Stress — name the abilities it actually leads with, not just its mood.
