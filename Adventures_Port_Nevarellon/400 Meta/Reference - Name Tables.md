@@ -58,58 +58,58 @@ Six registers are already in the vault. They aren't decorative — the register 
 
 Roll d50 or pick. Register letter maps to the table above. Race is unmarked where the name works for a human by default.
 
-| # | Name | Reg. | Note / hook |
-|---|---|---|---|
-| 1 | Bell Harrow | A | Rope-maker's daughter; surname from the harrow-field her family lost |
-| 2 | Dob Kettleman | A | Cistern-tender in the High Quarter, sees everything, tells no one |
-| 3 | Ansel Quay | A | Foundling named for where he was found |
-| 4 | Tamsin Vole | A | Reef-diver; the surname is an insult she kept |
-| 5 | Ord Bracken | A | Charcoal-burner out of the De Vonce oak stands |
-| 6 | Nell Stroud | A | Widow running a boardwalk cookshop on credit |
-| 7 | Garrow Finch | A | Ex-Blue-Cloak, discharged, still wears the coat |
-| 8 | Pike Ballard | A | Bare-knuckle fighter at the Rusty Tankard |
-| 9 | Ivet Marn | A | Marsh-guide; charges by the hour and lies about the tide |
-| 10 | Sedge Cullom | A | Iron-Burl feller, missing three toes |
-| 11 | Hallam Drey | A | Waggoner on the Concord Road; knows every toll-taker's price |
-| 12 | Rilla Bask | A | Fish-smoker in the Foundry Slips, chronic lung damage |
-| 13 | Cobbet Vane | A | Petty forger; not related to the Archmage, and tired of the question |
-| 14 | Thead Gurney | A | Stonemason; only living man who's read the Sea-Wall's original plans |
-| 15 | Maryn Aske | A | Midwife working the Sunken Ward for barter |
-| 16 | Loft Prendle | A | Gutter-runner, twelve, unbearably useful |
-| 17 | Suse Kellard | A | Rope-walk foreman; the only woman in the Slips with a Guild stamp |
-| 18 | Bram Hollick | A | Tenant farmer near Millhaven, one bad harvest from the debt-prisons |
-| 19 | Corran Ossius | B | Third son of a minor Landed house; no inheritance, expensive tastes |
-| 20 | Lucia Marrenhal | B | *(allocated — canon: Councillor, the Writ Seat)* |
-| 21 | Deverus Aleth | B | Magistrate; sells adjournments, not verdicts |
-| 22 | Verrine Sallow | B | *(allocated — canon: Councillor, the Contract Seat)* |
-| 23 | Ottavian Kress | B | *(allocated — canon: Councillor, the Water Seat)* |
-| 24 | Serrian De Vonce | B | Cadet branch of the Iron Court, kept far from the succession |
-| 25 | Palla Vantry | B | *(allocated — canon: Councillor, the Long Seat)* |
-| 26 | Halcus Rive | B | Guild of Alchemists assessor, licences Brine-Glow lanterns |
-| 27 | Ysolde Corran | B | Deliberate near-miss on Isolde Vantry; a social climber's chosen name |
-| 28 | Marcian Thole | B | *(allocated — canon: Councillor, the Harbour Seat)* |
-| 29 | Rashid Al Deyr | C | Twelgorn-born tally-clerk; came north legally and is trusted by nobody |
-| 30 | Nafir Al Goor | C | Shares Qasim's clan-name; may or may not be kin, won't discuss it |
-| 31 | Umara Sedh | C | Escaped house-slave; passes as coastal, flinches at southern accents |
-| 32 | Behram Tuul | C | Retriever. Polite, patient, and the worst thing on the marsh road |
-| 33 | Zafira Al Munn | C | Twelgorn factor buying Iron-Burl through three shell brokers |
-| 34 | Ghurad Oss | C | Freed, not escaped — carries manumission papers he can't read |
-| 35 | Vurn Kaldhammer | D | Oakhaven-based; hull-repair lineage, four generations |
-| 36 | Brekka Stonegraft | D | Surveys mine shafts in the Stonereach passes |
-| 37 | Dorrun Halt-Adze | D | Lineage-name marks an ancestor's maiming; worn as status |
-| 38 | Ingot Vell | D | Assays god-shard fragments and refuses to say for whom |
-| 39 | Saela Reefborn | E | Atoll elf; stilt-village fisher, salt-cracked hands, no glamour |
-| 40 | Anwe Tidefall | E | Elf; pilots the Atoll Shallows for Syndicate guide-boat fees |
-| 41 | Marren Loweb | E | Elf; three centuries old, poor, and completely unremarkable locally |
-| 42 | Poppet Crool | E | Halfling; runs fish-traps at Two Cages |
-| 43 | Hob Sanderby | E | Halfling; net-mender who fences stolen cargo on the side |
-| 44 | Dilly Marrowick | E | Halfling; Muddy Docks-born, never seen the reefs her name comes from |
-| 45 | Morrac | F | Half-orc; single name, Twelgorn-branded, works the Basin cranes |
-| 46 | Ghesk | F | Half-orc; took a Blue-Cloak commission and is despised by both sides |
-| 47 | Macculla | F | Half-orc; Maccorrack's register, no known relation |
-| 48 | Orrun Nine-Fingers | F | Orc; born free in the Wastelands, here on business |
-| 49 | Vessa Mac Torrig | F | Half-orc; *Mac* prefix claimed deliberately as invented lineage |
-| 50 | Skell | F | Half-orc; a name a slaver gave him. He is looking for the slaver. |
+| #   | Name               | Reg. | Note / hook                                                            |
+| --- | ------------------ | ---- | ---------------------------------------------------------------------- |
+| 1   | Bell Harrow        | A    | Rope-maker's daughter; surname from the harrow-field her family lost   |
+| 2   | Dob Kettleman      | A    | Cistern-tender in the High Quarter, sees everything, tells no one      |
+| 3   | Ansel Quay         | A    | Foundling named for where he was found                                 |
+| 4   | Tamsin Vole        | A    | Reef-diver; the surname is an insult she kept                          |
+| 5   | Ord Bracken        | A    | Charcoal-burner out of the De Vonce oak stands                         |
+| 6   | Nell Stroud        | A    | Widow running a boardwalk cookshop on credit                           |
+| 7   | Garrow Finch       | A    | Ex-Blue-Cloak, discharged, still wears the coat                        |
+| 8   | Pike Ballard       | A    | Bare-knuckle fighter at the Rusty Tankard                              |
+| 9   | Ivet Marn          | A    | Marsh-guide; charges by the hour and lies about the tide               |
+| 10  | Sedge Cullom       | A    | Iron-Burl feller, missing three toes                                   |
+| 11  | Hallam Drey        | A    | Waggoner on the Concord Road; knows every toll-taker's price           |
+| 12  | Rilla Bask         | A    | Fish-smoker in the Foundry Slips, chronic lung damage                  |
+| 13  | Cobbet Vane        | A    | Petty forger; not related to the Archmage, and tired of the question   |
+| 14  | Thead Gurney       | A    | Stonemason; only living man who's read the Sea-Wall's original plans   |
+| 15  | Maryn Aske         | A    | Midwife working the Sunken Ward for barter                             |
+| 16  | Loft Prendle       | A    | Gutter-runner, twelve, unbearably useful                               |
+| 17  | Suse Kellard       | A    | Rope-walk foreman; the only woman in the Slips with a Guild stamp      |
+| 18  | Bram Hollick       | A    | Tenant farmer near Millhaven, one bad harvest from the debt-prisons    |
+| 19  | Corran Ossius      | B    | Third son of a minor Landed house; no inheritance, expensive tastes    |
+| 20  | Lucia Marrenhal    | B    | *(allocated — canon: Councillor, the Writ Seat)*                       |
+| 21  | Deverus Aleth      | B    | Magistrate; sells adjournments, not verdicts                           |
+| 22  | Verrine Sallow     | B    | *(allocated — canon: Councillor, the Contract Seat)*                   |
+| 23  | Ottavian Kress     | B    | *(allocated — canon: Councillor, the Water Seat)*                      |
+| 24  | Serrian De Vonce   | B    | Cadet branch of the Iron Court, kept far from the succession           |
+| 25  | Palla Vantry       | B    | *(allocated — canon: Councillor, the Long Seat)*                       |
+| 26  | Halcus Rive        | B    | Guild of Alchemists assessor, licences Brine-Glow lanterns             |
+| 27  | Ysolde Corran      | B    | Deliberate near-miss on Isolde Vantry; a social climber's chosen name  |
+| 28  | Marcian Thole      | B    | *(allocated — canon: Councillor, the Harbour Seat)*                    |
+| 29  | Rashid Al Deyr     | C    | Twelgorn-born tally-clerk; came north legally and is trusted by nobody |
+| 30  | Nafir Al Goor      | C    | Shares Qasim's clan-name; may or may not be kin, won't discuss it      |
+| 31  | Umara Sedh         | C    | Escaped house-slave; passes as coastal, flinches at southern accents   |
+| 32  | Behram Tuul        | C    | Retriever. Polite, patient, and the worst thing on the marsh road      |
+| 33  | Zafira Al Munn     | C    | Twelgorn factor buying Iron-Burl through three shell brokers           |
+| 34  | Ghurad Oss         | C    | Freed, not escaped — carries manumission papers he can't read          |
+| 35  | Vurn Kaldhammer    | D    | Oakhaven-based; hull-repair lineage, four generations                  |
+| 36  | Brekka Stonegraft  | D    | Surveys mine shafts in the Stonereach passes                           |
+| 37  | Dorrun Halt-Adze   | D    | Lineage-name marks an ancestor's maiming; worn as status               |
+| 38  | Ingot Vell         | D    | Assays god-shard fragments and refuses to say for whom                 |
+| 39  | Saela Reefborn     | E    | Atoll elf; stilt-village fisher, salt-cracked hands, no glamour        |
+| 40  | Anwe Tidefall      | E    | Elf; pilots the Atoll Shallows for Syndicate guide-boat fees           |
+| 41  | Marren Loweb       | E    | Elf; three centuries old, poor, and completely unremarkable locally    |
+| 42  | Poppet Crool       | E    | Halfling; runs fish-traps at Two Cages                                 |
+| 43  | Hob Sanderby       | E    | Halfling; net-mender who fences stolen cargo on the side               |
+| 44  | Dilly Marrowick    | E    | Halfling; Muddy Docks-born, never seen the reefs her name comes from   |
+| 45  | Morrac             | F    | Half-orc; single name, Twelgorn-branded, works the Basin cranes        |
+| 46  | Ghesk              | F    | Half-orc; took a Blue-Cloak commission and is despised by both sides   |
+| 47  | Macculla           | F    | Half-orc; Maccorrack's register, no known relation                     |
+| 48  | Orrun Nine-Fingers | F    | Orc; born free in the Wastelands, here on business                     |
+| 49  | Vessa Mac Torrig   | F    | Half-orc; *Mac* prefix claimed deliberately as invented lineage        |
+| 50  | Skell              | F    | Half-orc; a name a slaver gave him. He is looking for the slaver.      |
 
 ---
 

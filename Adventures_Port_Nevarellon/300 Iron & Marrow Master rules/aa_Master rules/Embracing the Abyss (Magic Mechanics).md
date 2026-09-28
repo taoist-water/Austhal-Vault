@@ -35,9 +35,12 @@ Both requirements have hardware answers, and an Arcanist's loadout is a real bui
 | Loadout | Grimoire req. | Free hand | Result |
 |---|---|---|---|
 | Grimoire + empty hand | Met | Met | Clean. No weapon, no shield. |
-| Grimoire + Wand (**Conduit**) | Met | Met | Clean, plus the Wand's **Focus** benefit. No shield. |
+| Grimoire + Wand (**Conduit**) | Met | Met | Clean. The Wand legally occupies the second hand where a weapon or shield would not. No shield. |
+| Grimoire + Vitrified Wand (**Conduit**, **Focus**) | Met | Met | Clean, **+1** to the Clash. Enchanted — 1 Locked Stress. No shield. |
 | Mage Staff (**Bound**, **Conduit**), book stowed | Met | Met | Clean, plus Reach and Sustain support. Both hands committed. |
 | Book stowed, weapon and shield in hand | Unmet | Unmet | Disadvantage, 2 Dissonant Stress per cast. |
+
+**Casting at Point-Blank.** An enemy inside your Threat Zone imposes **Disadvantage** on the cast, exactly as it does on a shot (Metal meet Flesh — Ranges), unless your Arcane Focus carries the **Sidearm** tag. A spell's listed range band is a cap rather than a minimum, so Point-Blank is always a legal distance to cast at — it is simply a bad one. This is Disadvantage from **position**; Blind Casting above is Disadvantage from **loadout**. Blind Casting's Dissonant Stress is still owed on its own account, but the Disadvantage from the two does not stack — Disadvantage never does (Iron Core).
 
 **The Arcane Clash (Combat Spells)**
 

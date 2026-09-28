@@ -329,6 +329,10 @@ A single-use wand pre-loaded with one specific spell by an Arcanist during downt
 A Holy Symbol whose Domain-blessing has visibly deepened — filigree that was plain now catches light that isn't there.
 - **Effect:** +1 to all Tithe of Will rolls. *(The Faith-side equivalent of the old Wand bonus, translated into Faith's own currency: pushing more rolls over the TN 8 line means fewer Fails, which means less Encroachment, rather than a flat combat bonus Faith's math doesn't otherwise have a slot for.)*
 
+**Vitrified Wand** (Wand upgrade) — ~150 sp | Legendary, Commission-gated | 1 Locked Stress Attunement
+A plain wand whose grain has gone glassy and still, as though it has stopped flinching.
+- **Effect:** Grants the **Focus** tag — +1 to Arcana Clash rolls; on a fumbled casting check the backlash destroys the item (Ruined), and the caster fails but takes no Stress for the fumble. *(The Arcane-side counterpart to the Reliquary Symbol, priced and gated identically because it is the same effect in Arcana's currency. +1 is worth roughly 11 points of Clash win rate and 10 points of Clean rate, so on a caster whose own spells tax them on a non-Clean result it buys durability as much as accuracy.)*
+
 **Whisper-Kissed Leathers** — ~150 sp | Legendary, Commission-gated | 1 Locked Stress Attunement  
 Requires a Light armor base (Padded or Leather).
 
@@ -460,7 +464,9 @@ _______________________________________________________________________
 |---|---|---|---|---|---|---|
 |Grimoire|—|1H|—|Repository: holds every spell you know. Must be wielded in one hand, with your other hand free, to cast without penalty — see The Casting Requirements (Embracing the Abyss).|15 sp|Scarce|
 |Mage Staff|—|2H|—|Reach, Bound, Conduit, Grounding Rod.|45 sp|Rare|
-|Wand|—|1H|—|Conduit, Focus, Sidearm.|35 sp|Rare|
+|Wand|—|1H|—|Conduit, Sidearm.|10 sp|Common|
+
+*The Arcane focus ladder runs Grimoire → Wand → Mage Staff → **Vitrified Wand** (Enchanted, above), mirroring the Faith side's Holy Symbol → Holy Symbol, Silver → Reliquary Symbol. The **Grimoire is not optional** — it is the Repository, and no other focus holds your spells (see The Casting Requirements, Embracing the Abyss). Everything above it buys freedom from *holding* it, or Reach, or a bonus. A flat bonus to Arcana Clash rolls exists only at the Enchanted tier, at parity with the Reliquary Symbol's +1 to the Tithe of Will.*
 
 ## Weapon Tags
 
@@ -491,7 +497,7 @@ _______________________________________________________________________
 - **Reach:** Threatens a 10-foot radius (2 grid squares). Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
 - **Reload:** After firing, requires an Action to load the next shot.
 - **Scatter:** Strikes every creature in the weapon's area — a 15 ft cone from the wielder unless the item says otherwise — ally or enemy alike. Make one attack roll; each creature in the area makes its own Reactor roll against it, and Impact is resolved per creature. No Disadvantage at Point-Blank, and the Firing Into Combat rule (Iron World) doesn't apply — allies in the area are simply targets. Counts as an area attack for Swarm and Amorphous. Inertia never applies to a Scatter attack.
-- **Sidearm:** Can be drawn as a Free Action without penalty.
+- **Sidearm:** A weapon short and light enough to be brought to bear in a heartbeat, or in a doorway. One property with three consequences: **(1)** it can be **drawn as a Free Action** without penalty; **(2)** it ignores the Disadvantage the **Point-Blank** band imposes (Metal meet Flesh — Ranges); **(3)** it is the qualifying off-hand weapon for the **Twin-Blade Stance**, granting Clash Advantage and Off-Hand Parry (Metal meet Flesh). An **Arcane Focus** carrying this tag gains (1) and (2) — a caster can channel through it nose-to-nose — but never (3): a Focus has no Power to lend an Off-Hand Parry.
 - **Siege:** Emplaced, crew-served, or vehicle-mounted armament — a ballista, wall gun, cannon, or siege engine — rather than a personal weapon; it isn't carried in Inventory Slots. Like Devastating, it enables inflicting Wounds directly on Scale +3 (Gargantuan) creatures and ignores that creature's Scale-based Wound Threshold bonus when calculating whether a Strike inflicts a Wound; unlike Devastating, it can also damage fortifications and structures. Reducing the Wounds Threshold of fortifications by half when comparing Impact.
 - **Sunder:** If you inflict a Minor or Major Wound with this weapon, permanently reduce the target's Armor value by 1.
 - **Thrown:** Can be hurled using the short range attack band. If used in melee, it retains its 5 ft Threat.
@@ -580,7 +586,7 @@ ________________________________________________________________________
 
 > **Availability at character creation.** A starting character outfits from a Town — Scarce tier or lower (see *The Starting Purse*, The Marrow, and Settlement Tiers, Soothing the Soul). Breastplate and Plate Armor are Rare, sourced from a City or better, and are not available at Green at any price. They are acquired in play.
 
-> *Dev note — tier/price consistency sweep, pending.* The Acquisition table in Soothing the Soul sets Scarce at a 15–50 sp band and Rare at 50–200+. Two entries in this document sit outside their declared band and should be reconciled in a single pass rather than piecemeal: the **Wand** (35 sp, marked Rare) and the **Hand Crossbow** (40 sp, marked Rare) are both priced inside the Scarce band while gated to Cities. Several cheap oddities are marked Scarce below the 15 sp floor — Sai, Shuriken, Whip, Nunchaku, Bolas — which is defensible as "the world rarely stocks it, but it's cheap when you find it," and may be intentional. The Wand and Hand Crossbow are the two that read as errors.
+> *Dev note — tier/price consistency sweep, pending.* The Acquisition table in Soothing the Soul sets Scarce at a 15–50 sp band and Rare at 50–200+. One entry in this document sits outside its declared band: the **Hand Crossbow** (40 sp, marked Rare) is priced inside the Scarce band while gated to Cities. *(The **Wand** was the other, resolved 28 Sep — but not by moving it into its band, because this note's diagnosis was backwards. Its `Focus` tag granted +1 to Arcana Clash rolls, the same effect the Reliquary Symbol charges ~150 sp Legendary for, so the Wand was underpriced for what it did rather than overgated for what it cost. The plain Wand is now Common at 10 sp with no bonus; the +1 moved to the Vitrified Wand at Enchanted/Legendary.)* Several cheap oddities are marked Scarce below the 15 sp floor — Sai, Shuriken, Whip, Nunchaku, Bolas — which is defensible as "the world rarely stocks it, but it's cheap when you find it," and may be intentional. The Hand Crossbow is the one that still reads as an error.
 
 ## Armour and Shield Tags
 

@@ -184,8 +184,10 @@ ________________________________________________________________________
 ## Ranges
 | Range Band  | Distance (Squares)        | Rules / Modifiers                                                                            |
 | ----------- | ------------------------- | -------------------------------------------------------------------------------------------- |
-| Point-Blank | 5 ft (1 Square)           | InThreat range. Disadvantage on ranged attacks (unless using a weapon with the Sidearm tag). |
+| Point-Blank | 5 ft (1 Square)           | InThreat range. Disadvantage on ranged attacks **and on casting** (unless the weapon or Arcane Focus carries the Sidearm tag). |
 | Short       | 10 ft – 30 ft (2-6 Sq)    | Standard operating range. No penalties. (A typical move action distance).                    |
 | Medium      | 35 ft – 60 ft (7-12 Sq)   | Standard operating range. No penalties. (A typical move action distance).                    |
 | Long        | 65 ft – 120 ft (13-24 Sq) | Disadvantage to the Clash roll.                                                              |
 | Extreme     | 125 ft+                   | Disadvantage. Target must be completely in the open.                                         |
+
+**Spells and the range bands.** A spell's listed band (Short, Medium) is a **hard cap, read as "up to"** — it may be cast at any distance within that band, **including Point-Blank**, and not one foot beyond it. Spells therefore never suffer the **Long** or **Extreme** Disadvantage: they simply cannot reach. That is the deliberate counterpart to weapons, which carry no cap and pay an escalating penalty instead. **Point-Blank is the one band both pay.** Casting with an enemy inside your Threat Zone takes Disadvantage exactly as a shot does, and has the same two answers: a **Sidearm**-tagged Arcane Focus, or keeping them out with **Reach**. *(This is Disadvantage from position, where Blind Casting is Disadvantage from loadout — see the Casting Requirements, Embracing the Abyss. Blind Casting's Dissonant Stress cost still applies on its own account, but the Disadvantage from the two sources does not stack; Disadvantage never does, per Iron Core.)*
