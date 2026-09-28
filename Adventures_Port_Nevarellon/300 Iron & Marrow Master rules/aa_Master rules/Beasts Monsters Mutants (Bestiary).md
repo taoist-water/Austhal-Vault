@@ -470,6 +470,39 @@ ________________________________________________________________________________
 - **Behaviour when Broken:** Resolves as **The Rout** — the pay is not good enough. He runs for the nearest other Patrolman, then past him.
 - **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
 
+### The Rooftop Slinger
+
+> _Never comes down, never closes in, never runs out of roof tiles. The gang pays him to make the street feel narrow._
+
+#### Vital Statistics
+
+- **Tier:** Fodder
+- **Type:** Humanoid (Dwarf)
+- **Size:** Standard
+- **Move:** 30 ft
+- **Attributes (1 — Fodder allowance):** Reflex 1.
+- **Skills (2):** Ranged +2.
+- **Derived stats:**
+    - Wound Threshold: **5** _(Base 4 + Brawn 0 + 1 Stone-Bones)_
+    - Wound Slots: **1**
+    - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Fodder)_
+    - Activation Order: **7** _(6 + Reflex 1)_
+    - Momentum Bank: **5** _(4 + Reflex 1)_
+- **Equipment:** Sling (Power 0, 1H, Ranged — Max Medium / 50 ft, Sidearm). Shoot Roll: 2d6+2 (Ranged +2). Impact = Margin + 0 — he is not trying to kill anyone, and mostly can't.
+- **Species Traits (free — see The Marrow):**
+    - **Stone-Bones:** Base Wound Threshold increased by +1 (already folded into the derived stat above).
+    - **Subterranean Senses:** Advantage on Notice checks while underground, or when examining stonework.
+    - **Stumpy (Drawback):** Disadvantage on Athletics checks when sprinting across open ground or in a chase. _Costs him nothing in this role — he does not chase, and that is the point._
+- **Feats / Spells (0 of 2 picks spent — Fodder, Tier 1 ceiling):** None.
+- **Special Actions (1):**
+    - **Keep Their Heads Down:** _Trigger:_ Instead of a regular Shoot, declared against one target he can see within Medium range. _Effect:_ The stone cracks off the wall beside their head. The target must pass a **Resolve** check (TN 8) or gain **Suppressed** (Iron Core) — Disadvantage on any action other than Attack, Block, Brace or Regroup, plus 1 Dissonant Stress for breaking cover. No Clash: this is pressure, not a hit.
+
+#### Phases
+
+- **Behaviour when unbroken:** Takes high ground before the fight starts and never leaves it. Leads with Keep Their Heads Down on whoever looks most likely to reposition — a caster, a flanker — and only Shoots for Impact once the street is already committed.
+- **Behaviour when Broken:** Resolves as **The Rout** — drops the sling and goes over the ridgeline. Stumpy means anyone who gets onto the roof will catch him, which is the trade for a full fight spent untouchable.
+- **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
+
 ## Grunt
 
 ### Orc Line-Breaker
@@ -661,6 +694,41 @@ ________________________________________________________________________________
 - **Behaviour when Broken:** Resolves as **The Rout**, construct-flavoured — it does not flee and it does not yield. At maximum Stress the binding fails and it seizes up mid-swing, frozen in place and removed from the tactical equation for the rest of the encounter. _(Mechanically identical to a Rout: it stops being a combatant without being destroyed.)_
 - **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
 
+### The Crossbow Enforcer
+
+> _He does not want the room. He wants the doorway, from forty feet away, with something already loaded._
+
+#### Vital Statistics
+
+- **Tier:** Grunt
+- **Type:** Humanoid (Half-Orc)
+- **Size:** Standard
+- **Move:** 30 ft
+- **Attributes (2 — Grunt allowance):** Reflex 1, Brawn 1.
+- **Skills (5):** Ranged +3, Stealth +1, Notice +1.
+- **Derived stats:**
+    - Wound Threshold: **6** _(Base 4 + Brawn 1 + Leather 1)_
+    - Wound Slots: **2**
+    - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Grunt)_
+    - Activation Order: **10** _(6 + Reflex 1, +3 from Quick)_
+    - Momentum Bank: **5** _(4 + Reflex 1)_
+- **Equipment:** Light Crossbow (Power 3, 2H, Ranged — Max Long / 120 ft, **Armor Piercing**, **Reload**), Leather (+1 Armour, Light). Shoot Roll: 2d6+3 (Ranged +3). Impact = Margin + 3, **ignoring 2 points of the target's Armour Value**. _No melee skill at all — 2d6+0 the moment anyone reaches him. Closing the distance is the answer to him, and it is meant to be._
+- **Species Traits (free — see The Marrow):**
+    - **Blood Frenzy:** When he suffers a Wound, the adrenaline spikes — he immediately clears 1 Dissonant Stress.
+    - **Menacing:** Advantage on Influence checks when attempting to intimidate anyone smaller or weaker than himself.
+    - **Outcast (Drawback):** Disadvantage on social checks when dealing with civilised strangers who don't know him.
+- **Allowance (2 — Grunt): 1 Feat + 1 Trait.**
+    - **Quick** _(Feat, Tier 1; prereq Reflex 1 ✓)_ — +3 to Activation Order, and breaks ties against anyone without it. He shoots before the party has closed.
+    - **Ambusher** _(Trait)_ — gains Advantage on the Clash roll if attacking an unaware target from Stealth. The opening bolt is the dangerous one.
+- **Special Actions (1):**
+    - **Brace and Reload:** _Trigger:_ Instead of a regular action — which the **Reload** tag already obliges him to spend. _Effect:_ He winds the crank braced against cover and sets his stance while he does it: his next Shoot this encounter gains **+2** to the Clash. Turns the dead half of his firing cycle into a threat rather than a gap.
+
+#### Phases
+
+- **Behaviour when unbroken:** Opens from Stealth with Ambusher for an Advantaged first bolt, then alternates Brace and Reload with Shoot — one threatening shot every two rounds rather than a steady stream. Backs away from anyone closing and will trade ground freely to keep forty feet of it.
+- **Behaviour when Broken:** Resolves as **Frenzy** — Blood Frenzy already points this way. He drops the crossbow and, having no melee skill whatsoever, throws himself at the nearest PC with Advantage on Strikes and 2d6+0 behind it.
+- **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
+
 ## Elite
 
 ### Lizardman Shaman
@@ -702,14 +770,14 @@ ________________________________________________________________________________
 - **Type:** Humanoid (Human)
 - **Move:** 30 ft
 - **Attributes (4 — Elite allowance):** Reflex 3, Wits 1. _(Assumed Zero: Brawn, Will — practically untouchable by standard strikes, but rolls 2d6+0 if forced into a Grapple.)_
-- **Skills (11):** Melee +2, Acrobatics +4, Stealth +4, Notice +1. _(Dodges at 2d6+4 — Dodge is Acrobatics, per Metal meet Flesh.)_
+- **Skills (11):** Melee +2, Acrobatics +4, Stealth +4, Ranged +1. _(Dodges at 2d6+4 — Dodge is Acrobatics, per Metal meet Flesh. The 11th point moved from Notice to Ranged so the Shortbow its tactics already depend on can actually hit something; Melee stays at +2 because **Throat Slit** needs a Melee Clash won by Margin 3+.)_
 - **Derived stats:**
     - Wound Threshold: **4** _(Base 4 + Brawn 0)_
     - Wound Slots: **3**
     - Stress Limit: **7** _(4 + Will 0 + Wits 1 + 1 Indomitable Spirit + 1 Elite)_
     - Activation Order: **9** _(6 + Reflex 3)_
     - Momentum Bank: **6** _(4 + Reflex 3, then -1 for Steady, Not Sharp)_
-- **Equipment:** Dagger (Power 0, 1H, Concealable, Close-Quarters, Finesse, Thrown, Sidearm) — Strike Roll: 2d6+2 (Melee +2). Shortbow (Power 2, 2H, Volley) for ranged work before closing in — Ranged +0, Strike Roll: 2d6.
+- **Equipment:** Dagger (Power 0, 1H, Concealable, Close-Quarters, Finesse, Thrown, Sidearm) — Strike Roll: 2d6+2 (Melee +2). Shortbow (Power 2, 2H, Volley) for ranged work before closing in — Shoot Roll: 2d6+1 (Ranged +1), Impact = Margin + 2. Opened from Stealth against an unaware target, **Ambusher** makes that first arrow an Advantaged roll.
 - **Species Traits (free — see The Marrow):**
     - **Indomitable Spirit:** Base Stress Limit increased by +1 (already folded into the derived stat above).
     - **Steady, Not Sharp (Drawback):** Momentum Bank cap reduced by 1 (already folded in above).
@@ -931,6 +999,45 @@ __________________________________________________________________
 
 - **Behaviour when unbroken:** Acts first in almost every round (Activation Order 11) and holds position between the party and whoever she's guarding. **Parries rather than dodges, deliberately** — Riposte turns every won Parry into a full Strike, so standing still and inviting the attack is the optimal play, not a failure of nerve. Blade Dance when flanked, rather than trying to escape the pincer.
 - **Behaviour when Broken:** Resolves as **The Rout** — a professional withdrawal. Her employer's life is a contract, not a cause, and a dead duelist collects nothing.
+- **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
+
+### The Gallows Shot
+
+> _She has been on that rooftop since before you were told the meeting place. Elves do not need to sleep, and she has never once needed to be close._
+
+#### Vital Statistics
+
+- **Tier:** Elite
+- **Type:** Humanoid (Elf)
+- **Size:** Standard
+- **Move:** 30 ft
+- **Attributes (4 — Elite allowance):** Reflex 3, Wits 1. _(Reflex 3 lifts her Ranged ceiling to 6 and drives both Activation Order and Bank; Wits 1 is what puts her Stress Limit on the Elite floor rather than under it.)_
+- **Skills (11):** Ranged +5, Stealth +3, Notice +2, Acrobatics +1.
+- **Derived stats:**
+    - Wound Threshold: **4** _(Base 4 + Brawn 0 + Leather 1 - 1 Hollow-Boned)_
+    - Wound Slots: **3**
+    - Stress Limit: **6** _(4 + Will 0 + Wits 1 + 1 Elite — exactly the core-species Elite floor)_
+    - Activation Order: **12** _(6 + Reflex 3, +3 from Quick)_
+    - Momentum Bank: **7** _(4 + Reflex 3)_
+- **Equipment:** Longbow (Power 3, 2H, Ranged — Max Extreme / 125+ ft, **Volley**), Dagger (Power 0, 1H, Sidearm, Concealable) as a last resort, Leather (+1 Armour, Light). Shoot Roll: 2d6+5 (Ranged +5). Impact = Margin + 3. Dodges at 2d6+1 (Acrobatics +1), and swings the dagger at 2d6+0.
+- **Species Traits (free — see The Marrow):**
+    - **Fey Reflexes:** Advantage on Acrobatics checks to avoid environmental hazards, traps, or area-of-effect abilities.
+    - **Trance:** Four hours of meditation replaces a full night's rest. She has been watching the meeting point for two days.
+    - **Hollow-Boned (Drawback):** Base Wound Threshold reduced by 1 (already folded into the derived stat above).
+- **Allowance (3 — Elite): 2 Feats + 1 Trait.**
+    - **Quick** _(Feat, Tier 1; prereq Reflex 1 ✓)_ — +3 to Activation Order, and breaks ties against anyone without it. She acts at 12, before any Green party.
+    - **The Chain** _(Feat, Tier 2; prereqs Reflex 2 ✓, Ranged 2 ✓)_ — on winning a Clash by a Margin of 5+, she may immediately spend 1 Momentum to make a free secondary Shoot against a **different** valid target in range.
+    - **Ambusher** _(Trait)_ — gains Advantage on the Clash roll if attacking an unaware target from Stealth.
+- **Special Actions (2):**
+    - **Range Finder:** _Trigger:_ Declared on a Shoot at **Long or Extreme** range. _Effect:_ She ignores the Disadvantage those bands impose (Metal meet Flesh, Ranges). Self-limiting — it does nothing inside 65 ft, which is exactly where she does not want to be.
+    - **Loose and Withdraw:** _Trigger:_ Instead of a regular Shoot. _Effect:_ She looses at Disadvantage and then moves her full Move without provoking a free Strike. Her answer to anyone who closes.
+
+> _**Running her — the Chain loop.** As an Elite she banks 1 Momentum on any Clash she wins by Margin 5+, and **The Chain** costs 1 Momentum on that same trigger. A Margin-5+ shot therefore pays for its own follow-up: net zero Momentum, one extra Shoot at a second target. Against a Green party's Dodge she clears Margin 5+ roughly a third of the time, so she chains about every third shot and can do it all fight. Nothing here is a new rule — it is the earning table and the feat meeting — but it is the sharpest interaction on the Elite roster, so watch it at the table before it gets reused._
+
+#### Phases
+
+- **Behaviour when unbroken:** Opens at Extreme range with Range Finder before the party knows a fight has started, Ambusher stacking Advantage on that first arrow. Holds distance with Loose and Withdraw, and chains onto a second target whenever a shot lands by 5+. She will give up any amount of ground and never a yard of range.
+- **Behaviour when Broken:** Resolves as **The Rout** — she is a professional at three hundred feet and nothing at all at five. Once her Stress maxes out she leaves, and she leaves early.
 - **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
 
 _______________________________
