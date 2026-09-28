@@ -691,10 +691,10 @@ Survival went up first specifically to pre-clear half of Predator's Rhythm's pre
 - **Species:** Half-Orc
 - **Standing:** Hardened (Milestone 6 — 18 DP earned via Advancement, 0 banked)
 - **Size:** Standard | **Move:** 30 ft / 6 squares
-- **Attributes:** Brawn 3 | Reflex 0 | Wits 0 | Will 3
-- **Skills:** Melee 4 | Block 2 | Prowess 1 | Resolve 3 | Influence 1 *(11 ranks. Ceilings: Melee/Block/Prowess 6 (Brawn 3); Resolve/Influence 6 (Will 3))*
+- **Attributes:** Brawn 3 | Reflex 0 | Wits 0 | Will 2
+- **Skills:** Melee 3 | Block 2 | Prowess 2 | Resolve 2 *(9 ranks. Ceilings: Melee/Block/Prowess/Athletics 6 (Brawn 3); Resolve/Influence/Faith/Survival 5 (Will 2))*
 - **Wound Threshold:** 9 *(4 base + 3 Brawn + 2 Chain Shirt + 0 Species)*
-- **Stress Limit:** 9 *(4 base + 0 Wits + 3 Will + 2 Stoic Resolve feat)*
+- **Stress Limit:** 8 *(4 base + 0 Wits + 2 Will + 2 Stoic Resolve feat)*
 - **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 0 — Half-Orc carries no cap penalty; his Reflex does)* | **Activation Order:** 6 *(6 + Reflex 0)*
 - **Inventory Slots:** 11 *(8 + 3 Brawn)*
 
@@ -704,38 +704,47 @@ Survival went up first specifically to pre-clear half of Predator's Rhythm's pre
 - **Outcast (Drawback):** Disadvantage on social checks with civilized strangers who don't know him.
 
 ### Feats
-- **Juggernaut** *(Brawn 2 — Creation)*: Spend 1 Momentum to add 2 to Wound Threshold against one incoming attack. Stacks with Brace.
-- **Giant Feller** *(Brawn 2 — Creation)*: May Grab/Shove creatures up to two Scale steps larger. Ignores the automatic 1 Stress penalty when Blocking a larger enemy's attack.
-- **Stoic Resolve** *(Will +2, Resolve +1 — Milestone 3)*: +2 Stress Limit (already applied above). The Reprieve and Adrenaline Flush clear 1 extra point of the relevant Stress type.
-- **Iron Conviction** *(Will 2, Resolve 2 — Milestone 6)*: The Blood Price (Momentum's 1-cost Wound→2 Dissonant Stress conversion) costs no Momentum.
+- **Iron Grip** *(Tier 1; Melee 1 ✓ — Creation)*: when a Clash ties and the weapons bind, automatically bank 1 Momentum. On a Momentum Bank of 4 with Reflex 0, this is his only reliable income that doesn't cost him an action.
+- **Trench Fighter** *(Tier 1; Brawn 1 ✓ — Creation)*: ignores the Disadvantage penalty from Difficult Terrain, and drawing a weapon while engaged carries no Disadvantage. An anchor who can't be made to fight badly on bad ground.
+- **Juggernaut** *(Tier 2; Brawn 2 ✓, Tier 1 feat ✓ — Milestone 3)*: Spend 1 Momentum to add 2 to Wound Threshold against one incoming attack. Stacks with Brace.
+- **Giant Feller** *(Tier 2; Brawn 2 ✓, Prowess 2 ✓, Tier 1 feat ✓ — Milestone 4)*: May Grab/Shove creatures up to two Scale steps larger. Ignores the automatic 1 Stress penalty when Blocking a larger enemy's attack.
+- **Stoic Resolve** *(Tier 1; Will 2 ✓, Resolve 1 ✓ — Milestone 5)*: +2 Stress Limit (already applied above). The Reprieve and Adrenaline Flush clear 1 extra point of the relevant Stress type.
+- **Iron Conviction** *(Tier 2; Will 2 ✓, Resolve 2 ✓, Tier 1 feat ✓ — Milestone 6)*: The Blood Price (Momentum's 1-cost Wound→2 Dissonant Stress conversion) costs no Momentum.
 
 ### Equipment
 - **Armor:** Chain Shirt (+2 Armor, Light — chosen over the heavier Chainmail/Scale specifically so nothing taxes his Athletics), fitted with **Armor Spikes** (15 sp, bought during Downtime after Milestone 4) — anyone who loses a Grab/Shove Clash against him takes 1 Impact.
 - **Starting Purse: 80 sp** — Chain Shirt 50 + Battleaxe 12 + Kite Shield 18 = **80 sp spent, 0 sp remaining.** Ox is the roster's demonstration of what the purse is for: he walked out of character creation with the best armour a Town will sell him, a shield, an axe, and not one silver piece left over. Everything else on this sheet — both sets of spikes — was bought later, out of money earned in play.
-- **Weapons/Shield (two 1H items):** Battleaxe (Power 2, **Inertia** — +2 Power on a Margin 5+ win) + Kite Shield (4 SV, **Cover**), the shield fitted with **Shield Spikes** (8 sp, same Downtime trip) — a won Shove with the shield deals +1 Impact.
+- **Weapons/Shield (two 1H items):** Battleaxe (Power 2, **Brutal**, **Inertia**) + Kite Shield (4 SV, **Cover**), the shield fitted with **Shield Spikes** (8 sp, same Downtime trip) — a won Shove with the shield deals +1 Impact.
+    - *Inertia:* +2 Power on a Margin 5+ win. *Brutal:* each natural 4 showing on his 2d6 in a Clash adds +1 to the Impact the axe generates, so double 4s add +2.
 
 ### Combat Math Quick-Ref
-Melee Strike (Battleaxe) 2d6+4, Impact = Margin+2 (+2 more on Margin 5+, Inertia) | Block 2d6+2 (Kite Shield's 4 SV eats Impact before it hits WT 9 on a loss) | Grab/Shove/Brace 2d6+1 (Prowess — this is what Giant Feller actually rides on) | Dodge 2d6+0 (he blocks, he doesn't dance) | Resolve 2d6+3 | Influence (intimidation) 2d6+1, Advantage vs. smaller/weaker | Activation Order 6
-
-*(Corrected in an earlier pass: he was originally built with Athletics 1 instead of Prowess 1. Under the Brawn/Prowess split, Grab/Shove/Brace run on Prowess, not Athletics — Athletics is pure mobility now. Same 1 DP cost either way, so this is a like-for-like swap, not a rebuild; it just means Giant Feller's "grab creatures two Scale steps larger" actually has the skill investment behind it that the feat's own flavor always implied.)*
+Melee Strike (Battleaxe) 2d6+3, Impact = Margin+2 (+2 more on Margin 5+ from Inertia; +1 per natural 4 from Brutal) | Block 2d6+2 (Kite Shield's 4 SV eats Impact before it hits WT 9 on a loss) | Grab/Shove/Brace 2d6+2 (Prowess — this is what Giant Feller actually rides on, and now it clears the feat's own Prowess 2 gate) | Dodge 2d6+0 (he blocks, he doesn't dance) | Resolve 2d6+2 | Influence (intimidation) 2d6+0, Advantage vs. smaller/weaker | Activation Order 6
 
 ### Advancement Ledger — Milestone 0 → Milestone 6 (18 DP)
+
+**Creation:** Attributes Brawn 3, Will 1 *(4 Attribute DP)*. Skills Melee 3, Block 2, Prowess 2, Resolve 1 *(8 Skill DP, 8 ranks)*. Feats **Iron Grip** and **Trench Fighter** — both Tier 1, as Step 4 requires.
 
 | Milestone | DP earned | Banked before | Spent this Milestone | Bank after |
 |---|---|---|---|---|
 | 1 | 3 | 0 | — (saving) | 3 |
 | 2 | 3 | 3 | **5 DP** — Will 1→2 (Physical/Mental Conditioning) | 1 |
-| 3 | 3 | 1 | **3 DP** — Feat: Stoic Resolve *(Will 2 ✓, Resolve 1 ✓)* | 1 |
-| 4 | 3 | 1 | **1 DP** — Resolve 1→2 (rank ≤ 4, flat cost) | 3 |
-| 5 | 3 | 3 | **5 DP** — Will 2→3 (Physical/Mental Conditioning) | 1 |
-| 6 | 3 | 1 | **3 DP** — Feat: Iron Conviction *(Will 2 ✓, Resolve 2 ✓)*, **1 DP** — Resolve 2→3 (rank ≤ 4, flat cost) | 0 |
-| — | — | — | **1 DP** — Melee 3→4 (rank ≤ 4, flat cost; recosting under the new ladder freed exactly 1 DP) | 0 |
+| 3 | 3 | 1 | **3 DP** — Feat: Juggernaut *(Brawn 2 ✓, Tier 1 feat ✓)* | 1 |
+| 4 | 3 | 1 | **3 DP** — Feat: Giant Feller *(Brawn 2 ✓, Prowess 2 ✓, Tier 1 feat ✓)* | 1 |
+| 5 | 3 | 1 | **3 DP** — Feat: Stoic Resolve *(Will 2 ✓, Resolve 1 ✓)*, **1 DP** — Resolve 1→2 | 0 |
+| 6 | 3 | 0 | **3 DP** — Feat: Iron Conviction *(Will 2 ✓, Resolve 2 ✓, Tier 1 feat ✓)* | 0 |
 
-Every prerequisite above is checked against what he actually had *at the moment of purchase*, not the finished sheet. Stoic Resolve only ever needed Resolve 1, which he still had at Milestone 3; Iron Conviction's Resolve 2 requirement wasn't satisfied until the Milestone 4 purchase landed. Stress Limit climbs 5 → 6 → 8 → 8 → 9 → 9 across the six Milestones — Wound Threshold never moves, because Brawn was already at cap from creation. His Melee sits at 4 rather than 3 because the old Link Rule charged 2 DP for a rank past the Attribute and the flat ladder charges 1; recosting his arc under the new rules returned a single DP, spent on the skill his whole build points at. The whole arc is Ox buying mental durability to catch up to his physical durability, not stacking more of what he already had.
+**18 DP earned, 18 DP spent, 0 banked.** Every prerequisite is checked against what he actually held *at the moment of purchase*, not the finished sheet: Juggernaut and Giant Feller both needed a Tier 1 feat, which his two creation picks supplied; Stoic Resolve's Will 2 only existed from Milestone 2 onward; and Iron Conviction's Resolve 2 wasn't satisfied until the Milestone 5 purchase landed.
+
+Stress Limit climbs 5 → 6 → 6 → 6 → 8 → 8 across the six Milestones. Wound Threshold never moves, because Brawn was already at cap from creation. The whole arc is Ox buying mental durability and leverage to catch up to his physical durability, not stacking more of what he already had.
+
+*(Rebuilt 28 Sep. Three problems, one of them not previously identified. **Juggernaut and Giant Feller were listed as Creation picks and both are Tier 2** — creation is Tier 1 only, and under the Tier ladder a Tier 2 feat also requires a Tier 1 feat, which creation-only picks cannot supply. **His ledger spent 19 DP against 18 earned**, the final row drawing 1 DP from a bank of 0. And **he never met Giant Feller's prerequisite**: it requires Brawn 2 **and** Acrobatics 2 or Prowess 2, and he sat at Prowess 1 — his own Quick-Ref named Prowess as the skill the feat rides on while leaving it a rank short. The fix cost him **Will 3 → 2** (Stress 9 → 8), Melee 4 → 3, Resolve 3 → 2 and Influence 1 → 0; two Attribute increases at 5 DP each were consuming 10 of his 18 DP and buying no feats and no skill ranks. In exchange he gains Prowess 2 — which Giant Feller always needed — and two Tier 1 feats that a Bank-4 anchor genuinely wants.)*
+
+*(Earlier pass, still true: he was originally built with Athletics 1 instead of Prowess. Under the Brawn/Prowess split, Grab/Shove/Brace run on Prowess, not Athletics — Athletics is pure mobility now.)*
 
 ### Table Notes
 - **Blood Frenzy vs. the Blood Price are mutually exclusive in the same instant.** Blood Frenzy triggers on *suffering* a Wound. Iron Conviction's free Blood Price exists to *prevent* the Wound. Using one denies the trigger for the other — take the Wound and get a free Stress clear, or dodge the Wound and eat 2 Stress outright. Real choice at the table, not a stacking exploit.
-- **The Resolve auto-pass flagged on Helga's entry is resolved here too.** Resolve 2d6+3 fails a TN 8 check on any roll of 4 or less — 17% of the time, not 3%. The restructure closed this without a TN change: Attributes no longer stack onto the roll, so a maxed Attribute/Skill pair no longer compounds into an unmissable check. What Will 3 buys him now is a Stress Limit of 9 and a Resolve ceiling of 6 he can still climb toward.
+- **The Resolve auto-pass flagged on Helga's entry is resolved here too.** Resolve 2d6+2 fails a TN 8 check on any roll of 5 or less — 28% of the time. The restructure closed this without a TN change: Attributes no longer stack onto the roll, so a maxed Attribute/Skill pair no longer compounds into an unmissable check. What Will 2 buys him now is a Stress Limit of 8 and a Resolve ceiling of 5 he can still climb toward.
+- **He is the Standing section's second example, deliberately.** That section opens by noting two advanced characters can be nowhere near equivalent — *"one might have sunk every Milestone into a single Attribute, another into six different Feats."* Ox is the second: **six feats and nine Skill ranks** at Hardened, against a *typical* 12–14. That is not a violation. The Standing table's Skill column is explicitly "**Typical** Skill points" and the band is "**descriptive, not a mechanical gate**" — a feat-heavy build simply reads low on a number that measures skill ranks.
 - **Milestone cadence:** Advancement RAW pays out every 2–3 sessions, not every session, so "Milestone 6" represents roughly 12–18 actual sessions of play, not 6. Flagging this because it's the first character in the roster built past Milestone 0 — worth deciding now whether that RAW cadence is the one we actually want at the table.
 
 ---

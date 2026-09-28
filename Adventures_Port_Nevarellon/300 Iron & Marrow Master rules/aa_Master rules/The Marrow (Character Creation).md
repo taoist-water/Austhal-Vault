@@ -749,6 +749,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 **Marrow-Forged**
 
 * Prerequisites: Will 3, Brawn 3 — plus **any two Tier 2 feats**.
+* *Deliberate: two Attributes at 3 costs 6 Attribute DP against a creation allowance of 4, so this can never be a creation-adjacent pick regardless of the Tier gate. That second barrier is intended — don't lower either Attribute to "open it up."*
 
 >You are a patchwork of scar tissue and stubborn grit.
 
@@ -968,6 +969,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 **Penance Engine (Tier 3)**
 
 * Prerequisites: Will 3, Faith 3, Brawn 2 — plus **The Weight of Guilt** (this Archetype's Tier 2 feat), *or* any two Tier 2 feats.
+* *Deliberate: Will 3 + Brawn 2 costs 5 Attribute DP against a creation allowance of 4 — an intentional second barrier on top of the Tier gate. Don't lower either Attribute.*
 
 >To strike you is to invite the wrath of god.
 
