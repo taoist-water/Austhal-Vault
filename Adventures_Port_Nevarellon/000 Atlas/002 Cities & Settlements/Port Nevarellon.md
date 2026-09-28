@@ -12,7 +12,7 @@
 
 ## 🪵 Urban Infrastructure & Logistics
 To maintain a realistic setting, Port Nevarellon’s design is governed by its environment:
-- **Fresh Water:** The city does *not* have a freshwater river. It relies entirely on massive stone cisterns located beneath the High Quarter that collect rainwater, and a single aqueduct pipe running from the foothills of [[The Jagged Spine]]. Water is a heavily taxed commodity.
+- **Fresh Water:** The city does *not* have a freshwater river. The River Aer reaches the harbour through a broad tidal estuary, and every flood tide pushes salt miles upstream; the water at the city's edge is brackish and undrinkable. The grain barges from Millhaven ride the ebb in. The city relies entirely on massive stone cisterns located beneath the High Quarter that collect rainwater, and a single aqueduct pipe running from the foothills of [[The Jagged Spine]]. Water is a heavily taxed commodity.
 - **Sanitation:** The Lower Districts have no sewage system; waste drains directly into the harbor via open stone gutters, leading to severe stagnation during low tides. The High Quarter uses a subterranean flush-vault system that vents out past the eastern cliffs.
 - **Defense:** Shielded from ocean storms by a massive stone breakwater known as **The Sea-Wall**. Landward defenses consist of a 20-foot limestone curtain wall, though it is poorly maintained near the industrial sectors.
 
@@ -27,7 +27,8 @@ The city is starkly divided by geography, elevation, and wealth:
 
 ## ⚖️ Power & Law Enforcement
 The balance of power in Port Nevarellon is delicate and highly transactional:
-- **[[100 Society/The City Watch|The Blue-Cloak Watch]]**: The official military presence. They are well-equipped and professional in the High Quarter and Trade Plazas, but entirely corrupt or absent in the Docks and Sunken Ward.
+- **[[The Golden Company|The Golden Company]]**: The city's only lawful military, bound to it by the 99-Year Contract. It garrisons the Great Anchor Basin, patrols the High Quarter and the Trade Plazas, and answers to the Council through the Contract Seat.
+- **[[Faction - The Civic Constabulary (The Coppers)|The Blue-Cloak Watch]]**: The Civic Constabulary — a cheap municipal auxiliary operating beneath the Company. At the toll-gates into the High Quarter and the Trade Plazas they look professional, because Company officers are watching them there. In the Docks and the Sunken Ward they are corrupt, frightened, or absent.
 - **The True Law**: Law enforcement in the lower districts is outsourced by pragmatism to [[The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]], who enforce their own harsh, unwritten rules to keep trade moving.
 
 ## 🔮 The Realism-Fantasy Intersect
