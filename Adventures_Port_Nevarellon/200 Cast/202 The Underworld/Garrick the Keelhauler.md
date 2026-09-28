@@ -1,7 +1,7 @@
 # Character: Garrick "The Keelhauler"
 #cast/active #status/solid
 
-> "A pirate hangs from the gibbet because he wants to steal a ship. Garrick dines on silver plate because he chose to buy the harbor." — Archon Sterling, High Quarter Court
+> "A pirate hangs from the gibbet because he wants to steal a ship. Garrick dines on silver plate because he chose to buy the harbor." — overheard in the High Courts
 
 ## 📊 Vital Statistics
 - **Full Name / Aliases:** Garrick Rudd / "The Keelhauler" (A moniker from his mutinous privateer days that he now finds unrefined but useful for intimidation).
@@ -27,7 +27,7 @@ Garrick began as a third-mate on an empire trade galley. When the crew mutinied 
 He didn't stay a pirate long. Recognizing that the men who sell the powder and buy the plunder make the real profit, he settled in Port Nevarellon. Over twenty years, he systematically  murdered, bribed, or consolidated the disparate boardwalk gangs into a single, corporate criminal entity: the Iron-Anchor Syndicate.
 
 ## 🤫 Current Conflict: The Shaking Anchor
-Garrick’s greatest struggle is age. His body is failing, and his pragmatism is being misread as weakness by the younger generation. He spends more time analyzing trade sheets and balancing bribe ledgers than cracking skulls. He knows [[Silas Bane|Silas]] wants his seat, but Garrick is playing a longer game—he is currently negotiating with certain corrupt nobles to fully legitimize the Syndicate into an official "Maritime Logistics Guild," which would permanently shield his wealth under royal law.
+Garrick’s greatest struggle is age. His body is failing, and his pragmatism is being misread as weakness by the younger generation. He spends more time analyzing trade sheets and balancing bribe ledgers than cracking skulls. He knows [[Silas Bane|Silas]] wants his seat, but Garrick is playing a longer game—he is currently negotiating with certain corrupt nobles to fully legitimize the Syndicate into an official "Maritime Logistics Guild," which would permanently shield his wealth under the Council's own charters.
 
 ## 🔗 Connected Notes
 - **Subordinate / Threat:** [[Silas Bane|Silas Bane]] (Enforcer Captain plotting his removal)

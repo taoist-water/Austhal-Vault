@@ -64,7 +64,7 @@ Nothing was ever granted. Four cities had instruments nobody had voided; one was
 
 ⚠️ **A Keeper can strike a market without a hearing.** Keepers may verify or *decline* to verify. One who quietly slow-walks verification on instruments naming a remaining market achieves the same outcome as a ruling — no motion, no fee, no record of a decision. This sits directly on the document's own *Arbiters vs. Keepers* fault line, and [[Keeper Merrit Dray]] "has quietly used it once."
 
-⚠️ **Hook, not asserted.** [[Palla Vantry]] is 214 and has held the Long Seat for eighty years. If the Fourth was struck inside her tenure, she was in a position to be the connection. That is not written anywhere and should probably stay that way until someone goes looking.
+⚠️ **Hook, not asserted.** [[Palla Vantry]] is 214 and has held the Long Seat for all fifty-eight years of the Accord. If the Fourth was struck inside her tenure, she was in a position to be the connection. That is not written anywhere and should probably stay that way until someone goes looking.
 
 ---
 

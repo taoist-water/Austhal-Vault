@@ -19,7 +19,7 @@
 - **The Relic Banner (Cosmology Intersect):** Her signature artifact is the Wyvern-Hide Banner. Slain during her youth along the treacherous northern spires, the beast she killed was an apex predator saturated with unanchored god-essence dragged up from the Undertow's depths. The cured hide acts as a physical conduit. When Haren channels her focus and sheer iron will through the banner, she can temporarily pull the residual, Undertow-deep echo—the "ghost"—of the slain beast into the material plane to tear through enemy rigging and boarding parties. This manifestation is taxing, leaving her physically exhausted and vulnerable to immediate stability strains.
 
 ## 🧠 Psychology & Drive
-- **Immediate Goal:** Intercept the upcoming seasonal Imperial payroll convoy before it reaches the naval garrisons on the southern edge of the marshes.
+- **Immediate Goal:** Intercept the upcoming seasonal Twelgorn payroll convoy before it reaches the naval garrisons on the southern edge of the marshes.
 - **The Core Fear:** Being trapped or cornered in enclosed waters where her tactical mobility is neutralized. She deeply understands that her power relies entirely on the freedom of open water and the camouflage of the swamp.
 - **The Tactical Mind:** Haren is completely devoid of romantic pirate notions; she is a cold, calculating strategist. She treats her crews with fairness but enforces absolute, lethal discipline. She refuses to engage in unnecessary cruelty or slaughter, viewing mindless violence as a tactical waste of manpower and ammunition that invites unwanted escalation from the coastal powers.
 

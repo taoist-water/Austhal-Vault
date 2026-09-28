@@ -18,11 +18,11 @@
 
 ## 🧠 Psychology & Drive
 - **Immediate Goal:** **A successor, and there isn't one.** The Copyists are lay and unordained. The Notaries are competent and twenty-six. The one Keeper senior enough for the post is High Quarter-born and would hand the vault to whoever asked nicely and dressed well. Dray has been quietly training a Notary from the Foundry Slips for two years without telling her what for
-- **The Core Fear:** **Being asked directly.** Not exposure — he has no fear of being investigated, because he has left nothing to find. But he has spent a hundred and eighteen years on the accuracy of records, and if an Arbiter stands in front of him and asks plainly whether he delayed that verification, **he will say yes.** He will not construct a lie. Everything after that is arithmetic
+- **The Core Fear:** **Being asked directly.** Not exposure — he has no fear of being investigated, because he has left nothing to find. But he has spent seventy-eight years on the accuracy of records, and if an Arbiter stands in front of him and asks plainly whether he delayed that verification, **he will say yes.** He will not construct a lie. Everything after that is arithmetic
 - **Moral Compromises:** Precisely one, and it took eleven weeks. See below
 
 ## 📜 Backstory & Current Role
-A hauler's son from a Stonereach village who came down to the coast at forty with a good hand and no prospects, took a Copyist's bench because it was indoor work, and was promoted for the only quality the Zenith reliably rewards in the low-born: he was never once wrong. Thirty-one years later he holds the vault.
+A hauler's son from a Stonereach village who came down to the coast at forty with a good hand and no prospects, took a Copyist's bench because it was indoor work, and was promoted for the only quality the Zenith reliably rewards in the low-born: he was never once wrong. That was seventy-eight years ago. He has held the vault for the last thirty-one of them.
 
 **The eleven weeks.** A High Quarter house brought a matter that, if the Arbiter ruled as expected, would have voided the title on an entire street in [[The Sunken Ward]] — second-generation Corvus refugees holding papers whose provenance would not survive scrutiny. The ruling needed one verification from the Register. It is a two-day job.
 

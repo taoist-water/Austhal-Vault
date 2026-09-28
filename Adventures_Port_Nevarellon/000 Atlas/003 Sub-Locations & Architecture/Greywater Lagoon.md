@@ -21,7 +21,7 @@
 
 ## 💰 Economics & Clientele
 - **Regular Patrons:** Rogue merchantmen, mutinous naval crews, smugglers running contraband into [[The Inner Sea|The Inner Sea]], and buyers from the [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]] looking to bypass Port Nevarellon's tariffs.
-- **Primary Income:** The lagoon is the ultimate fencing floor. Pirates offload stolen silks, spices, and Imperial gold. In return, they buy the only thing they can't steal on the open ocean: fresh water, safe harbor, and repairs using Divtown's rot-resistant timber.
+- **Primary Income:** The lagoon is the ultimate fencing floor. Pirates offload stolen silks, spices, and Twelgorn gold. In return, they buy the only thing they can't steal on the open ocean: fresh water, safe harbor, and repairs using Divtown's rot-resistant timber.
 - **The Washing of the Coin:** Goods are offloaded here, logged by [[200 Cast/Tahra Beyr|Tahra Beyr]], stamped with Lord Thorne's noble seal as "legally salvaged marsh-wreckage," and then rowed north into the city as legitimate merchandise.
 
 ## ⚔️ Security & Defense

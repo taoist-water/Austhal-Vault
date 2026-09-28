@@ -7,7 +7,7 @@
 
 ## 🗺️ The Continental Scope: Austhal
 The known world for the mortal races in this sector of the Infinite Disk is the vast continent of **Austhal**. 
-- Centurires have passed since the breaking of the cosmic sphere. 
+- Centuries have passed since the breaking of the cosmic sphere. 
 - The truth of the deicide, the shattering of the Sphere into the Tideways, and the cosmic war has completely faded out of mortal memory. 
 - Today, that ancient era exists only as unmapped ruins, petrified bones deep in the earth, and fragmented lore pieced together by fringe philosophers, explorers, and radical religious sects.
 
@@ -20,7 +20,7 @@ Generations ago, the region known as **The Whispering Coast** was claimed by a w
 2. **The Five Dukes:** The five primary founding families were granted the hereditary titles of Dukes. Together with the King, they launched bloody campaigns to tame the wild coast and secure its borders.
 3. **The Historical Borders:** The early kingdom successfully suppressed the wild inland, locking down the region between three unyielding geographical boundaries:
    - **The North:** The treacherous peaks of [[The Jagged Spine|The Jagged Spine Range]].
-   - **The East:** The dwarven realm of [[Ubaraz Kingdom|The Ubaraz Kingdom]], dug beneath the Lonely Mountain.
+   - **The East:** The dwarven realm of [[Ubaraz Kingdom|The Ubaraz Kingdom]], dug deep into its mountain halls.
    - **The South:** The toxic, waterlogged expanse of [[Silted Marshes|The Silted Marshes]].
 
 ---
@@ -52,11 +52,11 @@ With the royal line broken and the crown physically smashed, the mercantile inte
 2. **The Council of Five:** Port Nevarellon was declared a Free City-State, completely sovereign from the nobility, governed entirely by a board of directors chosen from the richest trade families—the **Council of Five**. 
 3. **The Sovereign Dukes:** Under the negotiated **Ducal Accord**, the five Dukes abandoned their claims to the city and retreated to their respective ancestral lands, running them as personal, independent micro-kingdoms. 
 4. **The Ultimate Law:** The absolute, unshakeable law of the Accord dictates that **no mortal may ever hold or claim the moniker of "King"** within the boundaries of the Whispering Coast again. --- 
-## ⚓ The Realism-Fantasy Intersect for Your Vault 
+## ⚓ The Realism-Fantasy Intersect 
 ### 1. The Mercenary State Balance 
-Because the city is enforced by the Golden Company under a 99-year lease, the **Blue-Cloak Watch** we mentioned in the docks are actually subordinates or cheap local recruits overseen by this elite foreign mercenary corporation. The Golden Company doesn't care about street-level crime in the docks; they care about tax revenue, harbor defense, and making sure the contract is paid on time. 
+Because the city is enforced by the Golden Company under a 99-year lease, the **Blue-Cloak Watch** of the lower districts are subordinates or cheap local recruits overseen by this elite foreign mercenary corporation. The Golden Company doesn't care about street-level crime in the docks; they care about tax revenue, harbor defense, and making sure the contract is paid on time. 
 ### 2. The Golden Company vs. The Syndicate 
-Think about the tension this creates! **Garrick the Keelhauler** wants to turn his Syndicate into a legitimate "Logistics Guild." To do that, he has to wait out or corrupt the Golden Company's contract, because a hyper-professional mercenary army cannot be easily intimidated by common dockyard thugs. Meanwhile, **Silas Bane**'s violent chaos risks bringing the full, lethal weight of the Golden Company down on the Muddy Docks. 
+**Garrick the Keelhauler** wants to turn his Syndicate into a legitimate "Logistics Guild." To do that, he has to wait out or corrupt the Golden Company's contract, because a hyper-professional mercenary army cannot be easily intimidated by common dockyard thugs. Meanwhile, **Silas Bane**'s violent chaos risks bringing the full, lethal weight of the Golden Company down on the Muddy Docks. 
 ### 3. The Threat from the South: The Twelgorn Kingdom
 Nearly six decades on, the exiled bloodline still lives in Twelgorn as permanent "guests" of its King—a courtesy that curdled into custody somewhere across the generations, without anyone needing to say so aloud. They have no army, no treasury, and no realm. What they have is a claim to the Whispering Coast, and that claim is no longer meaningfully theirs. It is an asset in a foreign King's strongroom, to be shelved, married off, or brandished entirely at his convenience.
 

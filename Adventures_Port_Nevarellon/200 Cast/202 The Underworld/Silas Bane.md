@@ -18,7 +18,7 @@
 
 ## 🧠 Psychology & Drive
 - **Immediate Goal:** Seize absolute control of the **Bioluminescent Lantern Monopolies** in the lower districts, weaponizing the resource against the upper city.
-- **The Core Fear:** Being trapped beneath a ceiling. Silas despises the idea of a slow, pragmatic transition into "legitimacy." He genuinely believes that if the Syndicate tries to become a legal guild under the crown, the nobles will strip them of their true power and executioner's edge.
+- **The Core Fear:** Being trapped beneath a ceiling. Silas despises the idea of a slow, pragmatic transition into "legitimacy." He genuinely believes that if the Syndicate tries to become a legal guild under the Council's charters, the nobles will strip them of their true power and executioner's edge.
 - **Moral Compromises:** Completely unhinged by cruelty. Where Garrick uses violence as a precise ledger correction, Silas uses it as performance art. He has ordered public flayings on the boardwalks, used experimental chemical agents on debtors, and treats his own street muscle as entirely disposable resources.
 
 ## 📜 Backstory & The Coup Strategy

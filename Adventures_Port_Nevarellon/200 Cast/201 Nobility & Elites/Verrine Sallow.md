@@ -22,7 +22,7 @@
 - **Moral Compromises:** She got her deed by feeding an occupying army, and the coin that bought it came from the Contract Sum, which comes from the Vagrancy Tolls, which come from the Docks she was born in. She has never pretended otherwise. When it was thrown at her in chamber in her first year she agreed, in full, on the record, and moved to the next item — which is the moment the older councillors stopped treating her as a novelty
 
 ## 📜 Backstory & Current Role
-Vess Sallow was a warehouse clerk's daughter who noticed, at nineteen, that twelve hundred soldiers require eleven tons of food a month and that nobody had organised it properly. She spent fifteen years making herself unavoidable to the Company's quartermasters and then bought a deed with the proceeds.
+Vess Sallow was a warehouse clerk's daughter who noticed, at nineteen, that twelve hundred soldiers require sixty tons of food a month and that nobody had organised it properly. She spent fifteen years making herself unavoidable to the Company's quartermasters and then bought a deed with the proceeds.
 
 **She Latinised backwards, and it was deliberate.** Convention on the coast is to Latinise the *surname* on climbing — *Cobb* becomes *Cobbius*. Sallow changed only her given name and left the family name exactly as it was, which the High Quarter reads as either an error or an insult and which she has never clarified. Her mother is still alive in [[The Muddy Docks]] and still called Sallow.
 

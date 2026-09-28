@@ -12,7 +12,7 @@
 
 ## 🪵 Urban Infrastructure & Logistics
 - **Architecture:** A chaotic, derelict sprawl of shanties, stilt-houses, and rope bridges suspended above the brackish, sucking mud of the marshes. It is constantly sinking and being rebuilt.
-- **Access & Navigation:** Divtown is incredibly difficult to reach by land or sea. The labyrinthine waterways are choked with constantly shifting sandbars. To reach the town, one must hire local fisher-folk from the mouth of the marsh, or seek out a specific, cursed dwarven guide residing in [[000 Atlas/Oakhaven Cove|Oakhaven]].
+- **Access & Navigation:** Divtown is incredibly difficult to reach by land or sea. The labyrinthine waterways are choked with constantly shifting sandbars. To reach the town, one must hire local fisher-folk from the mouth of the marsh, or seek out a specific, cursed dwarven guide working out of **Fenmouth**, the marsh-mouth village where hiring a guide is required by law.
 - **Neighboring Locations:** Directly borders the [[000 Atlas/Grey Water Lagoon|Grey Water Lagoon]], a deep-water blind spot hidden from the Golden Company where pirate galleons drop anchor.
 
 ## ⚖️ Society & The Syndicate Economy

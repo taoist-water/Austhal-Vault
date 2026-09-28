@@ -11,7 +11,7 @@
 - **Affiliations:** [[Council of Five]], the Shipwrights' Guild, [[The Great Anchor Basin]]
 
 ## ⚖️ Realism & Physicality
-- **Age & Vitality:** Human, 58. Broad, stooped, and visibly worn out. He looks a decade older than Lucia Marrenhal despite being fourteen years her senior in a way that reads as *labour*, not age
+- **Age & Vitality:** Human, 58. Broad, stooped, and visibly worn out. He is fourteen years Lucia Marrenhal's senior and looks nearer thirty, in a way that reads as *labour*, not age
 - **Physical Flaws / Limitations:** Substantially deaf from thirty years of caulking hammers in enclosed hulls — he reads lips and turns his good ear like a man aiming it. Three fingers on his left hand set wrong after a spar crushed them. He cannot hear a whispered aside in the chamber, which means he cannot hear the deals being made across him, and everyone knows it
 - **Financial Status:** Asset-rich and cash-poor, which on the Council is a form of poverty. His wealth is timber, slipways, and four deep-water keels. He has been land-poor twice and mortgaged the yards to survive both. Marrenhal holds one of those notes
 - **Equipment & Upkeep:** A shipwright's slick and a folding rule he still carries out of habit. His Golden Writ is thirty years old, the wax reseated four times, the crossguard wire green with verdigris. He has never drawn the sword

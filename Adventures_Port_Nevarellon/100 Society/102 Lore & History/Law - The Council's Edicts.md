@@ -1,7 +1,7 @@
 # Law: The Council's Edicts (Class & Armament)
 #lore/law #lore/society #status/solid
 
-> "A sword in the hand of a man with no property is a rebellion. A sword in the hand of a man who owns a warehouse is an asset protection strategy." — Chief Magistrate of the Council of Five
+> "A sword in the hand of a man with no property is a rebellion. A sword in the hand of a man who owns a warehouse is an asset protection strategy." — a magistrate of the High Courts
 
 ---
 

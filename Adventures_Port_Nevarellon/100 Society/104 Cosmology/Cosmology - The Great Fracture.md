@@ -50,3 +50,12 @@ When the mortals finally tore the Sphere apart, the scattered god-essence didn't
 Because these are simply positions in a continuous, layered structure rather than separate absolute realities, a mortal — or anything else — can in principle be pulled from one layer to another, or reach into a layer that isn't theirs, provided they can survive the crossing. Very few do; most who try without a stabilizing anchor drown in it, one way or another.
 
 **A note on the labels:** "Good" and "Evil" are mortal words laid over the High Reach and the Undertow after the fact, the same way mortal Ego and Identity were laid over the nameless entities during the Naming. The Reach and the Undertow are not inherently virtuous or wicked — they are simply where mortal collective feeling pulled the wreckage. A saint of the Reach can be a butcher who happened to die convinced he was righteous. A thing that crawled up out of the Undertow can be the only creature that ever told a slave the truth. Nothing in the Tideways is required to be good just because it floats, or evil just because it sinks.
+
+---
+
+## 🌿 The Slack-Born: Fey and Hags
+Not all the god-essence that settled in the Slack Water sank into stone and silt as shards. Where it pooled in still places — marsh, tarn, sheltered reef, the drowned edges of old forests — some of it quickened. **The fey** are what quickened: beings formed from essence that neither rose to the High Reach nor sank to the Undertow, and so belong wholly to the still water of the world. They are not a mortal race. The Creators never designed them, and they had no part in the War of Creation. Most mortals never meet one; those who do find them beautiful, unhurried, and unconcerned with mortal purposes.
+
+**Hags** are humanoid fey — long-lived, rooted to a single place, and unlike the rest of their kind, willing to trade with mortals. Their stock in trade is change. A hag can work an Undertow-touched shard into living flesh, and will, for a price that is always paid in full.
+
+> *`needs crunch` — fey and hag stat blocks belong to the Iron & Marrow ruleset.*

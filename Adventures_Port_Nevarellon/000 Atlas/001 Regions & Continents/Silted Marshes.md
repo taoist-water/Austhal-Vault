@@ -16,6 +16,7 @@
 ## 🪓 Resource & Industry
 - **Natural Resources:** The primary resource is "Iron-Burl," a dense, black marsh timber that is completely immune to sea-rot and barnacles. It is desperately prized by the shipwrights of the inner sea. The marshes also yield rare, toxic fungi used by the alchemical underground.
 - **Settlements/Points of Interest:**
+  - **Fenmouth** — *Guide Village & Council Toll Post.* At the mouth of the marsh, where hiring a marsh-guide is required by law. Base of [[Morgran the Abomination|Morgran]].
   - [[Divtown|Divtown]] — *Smuggler's Shanty Town / Logging Outpost.* A derelict refuge built on stilts, populated by escaped slaves and the truly hopeless.
   - [[000 Atlas/Grey Water Lagoon|Grey Water Lagoon]] — *Deep-Water Anchorage.* A hidden, unusually stable basin of deep water where pirate galleons drop anchor to fence stolen goods through Divtown.
   - **The Sunken Causeway:** *Ruined Point of Interest.* The submerged, shattered remains of an ancient stone highway built by the old kings, now completely swallowed by the mud and serving only as a hazard that rips the hulls of unwary boats.

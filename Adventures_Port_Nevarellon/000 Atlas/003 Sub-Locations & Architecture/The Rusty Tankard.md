@@ -23,7 +23,7 @@ The Rusty Tankard sits wedged between two massive granite dry-dock warehouses on
 ---
 
 ## 💰 Atmosphere & Economy
-- **The Prices:** A pint of sour, watered-down harbor ale costs **2 cp**. A plate of salted herring and gray bread costs **1 cp**. Because the tavern sits within the Basin district, Un-Landed laborers frequently spend their entire daily earnings here just to stay indoors and avoid being picked up by the Golden Company for vagrancy after dark.
+- **The Prices:** A pint of sour, watered-down harbor ale costs **2 cp**. A plate of salted herring and gray bread costs **1 cp**. Because the tavern sits within the Basin district, Un-Landed laborers frequently spend their entire daily earnings here in the last hours before the curfew bell sends them back out through the Toll Gates.
 - **The Custom:** Open weapons are strictly forbidden inside the premises, conforming to the city's weapon laws. However, almost every patron has a palm-length rigging knife slipped into their boot or an iron-weighted sap hidden in their sleeve.
 
 ---
@@ -32,5 +32,5 @@ The Rusty Tankard sits wedged between two massive granite dry-dock warehouses on
 The Tankard serves as the primary urban hub for lower-tier operatives of the Cobalt Feather who need to move goods without drawing the attention of the High Quarter.
 
 - **[[200 Cast/Kaleb the Barkeep|Kaleb]]:** The manager and gatekeeper. She operates the dead-drops and assigns odd jobs to trusted syndicate freelancers.
-- **[[200 Cast/Maccorrack|Maccorrack]]:** A massive half-orc stevedore who practically lives here. Beyond drinking and working as occasional hired muscle for Kaleb's smuggling runs, Maccorrack fights in the Tankard's regular, brutal bare-knuckle bar brawls for extra coin. Kaleb actually encourages these brawls—the noise and spilled blood convince the local watch that the Tankard is just a standard low-class dive, drawing attention away from the quiet, high-stakes smuggling in the cellar.
+- **[[200 Cast/Maccorrack|Maccorrack]]:** A massive half-orc stevedore who practically lives here. Beyond drinking and working as occasional hired muscle for Kaleb's smuggling runs, Maccorrack fights in the Tankard's regular, brutal bare-knuckle bar brawls for extra coin. Kaleb actually encourages these brawls—the noise and spilled blood convince the Company patrols that the Tankard is just a standard low-class dive, drawing attention away from the quiet, high-stakes smuggling in the cellar.
 - **[[200 Cast/Lidda Shoon|Lidda Shoon]]:** The halfling jeweler frequently uses the shadowy corner booths to discreetly fence her melted-down gold and stolen gems. She treats the Tankard as her primary dispatch point for picking up new, illicit contracts from the Syndicate.

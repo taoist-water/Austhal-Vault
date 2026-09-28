@@ -9,7 +9,7 @@
 
 Four rolling tables of 50, for populating the Whispering Coast without drifting off-register. These are **unallocated slots**, not canon — nothing here is bound to a document until it's actually used. Anything drawn from a table and placed in the world should get a canon-tracker entry and a stated parent.
 
-**Nothing in these tables contradicts an existing document.** Where an entry deliberately extends canon (Concord Road waystations, Corvus Scar ruins, Spine Aqueduct settlements), it's marked *→ extension* and noted in the Flags section at the end.
+**Nothing in these tables contradicts an existing document.** Where an entry deliberately extends canon (Concord Road waystations, Corvus Scar ruins, Spine Aqueduct settlements), it's marked *→ extension* inline.
 
 ---
 
@@ -22,9 +22,9 @@ Six registers are already in the vault. They aren't decorative — the register 
 | **A — Coastal Common** | Blunt, 1–2 syllables, hard stops. Surnames are occupational, physical, or geographic. | Wren Cobb, Silas Bane, Kelf Thorne, Halvard Stross, Haren Twarde, Alfric Danniken, Lidda Shoon, Garrick, Maeve, Kaleb | Un-Landed, dockers, marsh-folk, rural tenants, most of the Blue-Cloaks |
 | **B — Landed Latinate** | Polysyllabic, vowel-heavy, `-us / -ius / -a / -os` endings. Surnames are house names. | Tythius De Vonce, Valerius, Aerthos, Corvus, Isolde Vantry, Nevarellon | High Quarter, ducal houses, Council patrons, saints |
 | **C — Southern (Twelgorn)** | Guttural, `Al-` patronymic particle, long back vowels. | Qasim Al Goor, Tahra Beyr | Twelgorn-born, escaped slaves, Retrievers |
-| **D — Dwarven** | Consonant-dense, no soft endings; a trade-lineage word replaces a surname. | *(none in canon — proposed)* | Oakhaven Cove, deep-mine work, the Spine |
+| **D — Dwarven** | Consonant-dense, no soft endings; a trade-lineage word replaces a surname. | Morgran Deep-Draught | Oakhaven Cove, deep-mine work, the Spine |
 | **E — Atoll (Elf / Halfling / mixed)** | Soft, liquid consonants, tidal imagery. **Weathered, not ethereal.** | *(none in canon — proposed)* | Shield Atolls stilt-villages, reef fisher communities |
-| **F — Half-Orc / Monstrous descent** | Mac-/Mor- prefixes, hard clusters. Often a single name — chattel status denied them lineage. | Maccorrack, Morgran | Escaped slaves, dock muscle, marsh outcasts |
+| **F — Half-Orc / Monstrous descent** | Mac-/Mor- prefixes, hard clusters. Often a single name — chattel status denied them lineage. | Maccorrack | Escaped slaves, dock muscle, marsh outcasts |
 | **B-e — Elf-descended Landed** | Register B house name, but the *given* name is liquid and multi-vowelled. Marks elven blood the bearer may be trying to downplay. | Sheandri De Vonce, Imaihil De Vonce | Half-elven nobility, chiefly House De Vonce |
 
 **Rule zero — devotional naming.** The commons name children after paragons, softened and lengthened so as not to claim the saint outright. **Vaelen** is not a collision with *Vael the Mute*; Vaelen is a child whose parents kept the Ashen Veil, and the coast hears that the moment it hears the name. This is the single most productive naming engine in the setting: the name states the family's faith before the bearer opens their mouth, and it is *not* revocable when the bearer stops believing.
@@ -79,15 +79,15 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 17 | Suse Kellard | A | Rope-walk foreman; the only woman in the Slips with a Guild stamp |
 | 18 | Bram Hollick | A | Tenant farmer near Millhaven, one bad harvest from the debt-prisons |
 | 19 | Corran Ossius | B | Third son of a minor Landed house; no inheritance, expensive tastes |
-| 20 | Lucia Marrenhal | B | Banking-house factor in the Trade Plazas |
+| 20 | Lucia Marrenhal | B | *(allocated — canon: Councillor, the Writ Seat)* |
 | 21 | Deverus Aleth | B | Magistrate; sells adjournments, not verdicts |
-| 22 | Verrine Sallow | B | Latinised *Sallow* — bought a deed nine years ago and everyone remembers |
-| 23 | Ottavian Kress | B | Guild-Master of the coopers; sponsors Un-Landed grievances for a cut |
+| 22 | Verrine Sallow | B | *(allocated — canon: Councillor, the Contract Seat)* |
+| 23 | Ottavian Kress | B | *(allocated — canon: Councillor, the Water Seat)* |
 | 24 | Serrian De Vonce | B | Cadet branch of the Iron Court, kept far from the succession |
-| 25 | Palla Vantry | B | Distant kin to Isolde; born Landed and resents the comparison |
+| 25 | Palla Vantry | B | *(allocated — canon: Councillor, the Long Seat)* |
 | 26 | Halcus Rive | B | Guild of Alchemists assessor, licences Brine-Glow lanterns |
 | 27 | Ysolde Corran | B | Deliberate near-miss on Isolde Vantry; a social climber's chosen name |
-| 28 | Marcian Thole | B | Shipwright house; owns a deep-water keel and therefore a vote |
+| 28 | Marcian Thole | B | *(allocated — canon: Councillor, the Harbour Seat)* |
 | 29 | Rashid Al Deyr | C | Twelgorn-born tally-clerk; came north legally and is trusted by nobody |
 | 30 | Nafir Al Goor | C | Shares Qasim's clan-name; may or may not be kin, won't discuss it |
 | 31 | Umara Sedh | C | Escaped house-slave; passes as coastal, flinches at southern accents |
@@ -214,7 +214,7 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 
 # Table 3 — Festivals, Rites & Observances (50)
 
-**Trigger** states when it fires. The coastal year currently has no formal calendar — see Flag 7. Until it does, seasonal entries hang off the three canon markers: the **spring trade season**, the **Winter Moons**, and the **Low Moons**.
+**Trigger** states when it fires. Dates follow [[Framework - The Coastal Reckoning]]; seasonal entries hang off its three canon markers: the **spring trade season**, the **Winter Moons**, and the **Low Moons**.
 
 | # | Name | Type | Observed by | Trigger |
 |---|---|---|---|---|
@@ -285,7 +285,7 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 6 | Sentinel's Tooth | Peak | Jagged Spine; navigational landmark for coastal shipping |
 | 7 | Cragfather | Peak | Jagged Spine; highest known on the coast |
 | 8 | Thraw | Peak | Stonereach; gives its name to the pass |
-| 9 | Broken Ward | Peak | Corvus Scar; the peak that fell → *canon: Corvus Spire* |
+| 9 | Broken Ward | Fallen peak | Corvus Scar; the folk name for the stump. The peak itself was Corvus Spire, and the seat cut into it took its name → *canon: Corvus Spire* |
 | 10 | Thraw's Pass | Mountain pass | Stonereach; the northeast trade artery |
 | 11 | The Notch | Mountain pass | Stonereach; goat-track, smugglers only |
 | 12 | Sleetgate | Mountain pass | Stonereach; closed most of the Winter Moons |

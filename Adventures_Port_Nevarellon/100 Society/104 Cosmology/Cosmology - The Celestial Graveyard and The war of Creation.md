@@ -8,7 +8,7 @@
 ## ☀️ The Sky of Remnants: Sun and Moons
 The celestial bodies drifting in the Void above the Great Disk are not astronomical spheres of gas or rock; they are the literal, glowing physical remains of the largest god-like entities.
 - **The Sun:** The brilliant, burning corpse of a primary Creator entity. Its light is a fading, radiating echo of the original infinite energy that powered the Sphere.
-- **The Moons:** The frozen, pale remnants of secondary entities. Because they are dead flesh drifting in the Void, they reflect the sun's fading energy, their cycles casting shifting, borrowed hues of light onto the Disk below.
+- **The Moons:** The frozen, pale remnants of secondary entities. They are dead flesh drifting in the Void, and they still give off a faint glow of their own — which is why they remain visible when the sun has faded out of the sky. Their cycles cast shifting hues of light onto the Disk below.
 
 ---
 

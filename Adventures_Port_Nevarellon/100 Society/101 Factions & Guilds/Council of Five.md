@@ -29,7 +29,7 @@ This is why Port Nevarellon can call itself a free city without anyone lying. Th
 - **Vulnerabilities:**
   - Losing safe trade routes weakens the revenue base, risks a missed Contract Sum, and costs them the Company's protection — the failure mode the whole structure is built around
   - **The Contract expires in 41 years and there is no succession plan.** Only [[Marcian Thole]] treats this as urgent
-  - **The Unwritten Day.** The 365th day belongs to no turn, and no instrument specifying a turn can fall due on it. Four attempts to close it have failed
+  - **The Unwritten Day.** The 365th day belongs to no turn, and no instrument specifying a turn can fall due on it. Three attempts to close it have failed; a fourth is before the chamber now
   - **The Tuwal Ghorun identity void.** Southern instruments name a polity no coastal register lists. It cannot be resolved, and one councillor is actively ensuring it never is
 
 ## 🔒 The Four-of-Five Rule — Why Nothing Ever Changes
@@ -37,7 +37,7 @@ Routine business passes on a simple majority. But any **Instrument of the Whole*
 
 It was written into the Accord by five merchant families who had just watched a king abuse unchecked power and who trusted each other only marginally more than they had trusted him. The purpose was to make it impossible for any three houses to combine and rule the other two.
 
-**The consequence is that any two councillors can block anything that matters, indefinitely, without ever making an argument.** This is not a flaw the Council is working around. It is the load-bearing reason the Vagrancy Tolls have never been repealed, the curtain wall at [[The Foundry Slips]] has never been surveyed, the Scar-Holders have never been recognised, and the Unwritten Day is still standing after four attempts by the most capable administrator in the city.
+**The consequence is that any two councillors can block anything that matters, indefinitely, without ever making an argument.** This is not a flaw the Council is working around. It is the load-bearing reason the Vagrancy Tolls have never been repealed, the curtain wall at [[The Foundry Slips]] has never been surveyed, the Scar-Holders have never been recognised, and the Unwritten Day is still standing after three attempts by the most capable administrator in the city.
 
 Fifty-eight years of deadlock is not a failure of these five people. It is the machine working exactly as designed by people who feared tyranny more than they feared paralysis.
 
@@ -51,7 +51,7 @@ Fifty-eight years of deadlock is not a failure of these five people. It is the m
 - [[Lucia Marrenhal]] — *The Writ Seat.* The Register of the Landed, deeds, Golden Writs, the franchise. Human, 44. Precise rather than cruel, going blind, and the only person who can see every crack at once
 - [[Ottavian Kress]] — *The Water Seat.* Cisterns, Lastwater, the Spine Aqueduct. Halfling, 51. The Docks' voice, sold by the hour, and delivered more often than anyone else offers
 - [[Verrine Sallow]] — *The Contract Seat.* The Golden Company, the Contract Sum, defence. Human, 39. Feeds twelve hundred halberds; the only councillor who has read the Contract to the end
-- [[Palla Vantry]] — *The Long Seat.* Foreign trade, the sea-lanes, the south. Elf, 214. Elected continuously for eighty years, has claimed nothing, and cannot be confirmed or removed by any court that exists
+- [[Palla Vantry]] — *The Long Seat.* Foreign trade, the sea-lanes, the south. Elf, 214. Elected at the Council's first sitting and continuously since — fifty-eight years, has claimed nothing, and cannot be confirmed or removed by any court that exists
 
 ## 🪑 The Sixth Chair That Isn't
 **No dwarf has ever held a seat**, despite [[Ubaraz Kingdom]] being among the city's oldest and largest trading partners and despite dwarven structural engineering holding up half of Stonereach. The reason is procedural rather than stated: the franchise requires a deed registered in Port Nevarellon, and Ubaraz houses trade through factors rather than holding city title. It is a live and growing grievance, it has never been raised as an Instrument of the Whole, and under the four-of-five rule it never will be.

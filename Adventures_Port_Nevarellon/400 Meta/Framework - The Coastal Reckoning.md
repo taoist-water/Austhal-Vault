@@ -58,7 +58,7 @@ This is the structural reason that:
 
 The sun does not rise. **It comes back.**
 
-To every faith on the coast, and to a great many people with no faith at all, this is the plain daily fact of existence: the light went out, and it was under no obligation to return, and it did. Nobody has ever been owed a morning. Fifty-eight years of Accord, a hundred generations of settlement, and an entire dead pantheon rotting in the sky — and the reprieve has arrived every single time so far.
+To every faith on the coast, and to a great many people with no faith at all, this is the plain daily fact of existence: the light went out, and it was under no obligation to return, and it did. Nobody has ever been owed a morning. Fifty-eight years of Accord, a few centuries of settlement, and an entire dead pantheon rotting in the sky — and the reprieve has arrived every single time so far.
 
 That is the setting's whole thesis, written into its physics. It is also why the **Low Moons** frighten people at a level below argument. For nine to twelve nights, the only things in the sky that have ever kept their promises are visibly behaving wrong.
 
@@ -104,6 +104,8 @@ A **turn** is one full cycle of the Pale Sister. Turns are grouped into four sea
 
 Several turns take their name from the festival that defines them — *First Keel*, *Saltdraw*, *Lastwater* are all in `Reference - Name Tables` Table 3. This is deliberate and historically normal: people name the month after the thing they do in it.
 
+**Longlight** and **Highsun** look like mistakes and are not. The light lasts no longer in those turns than in any other — but with the moons riding high, the weight comes off the world, the days feel long and warm, and the farmers who named the turns named what they felt.
+
 ---
 
 ## ⟡ The Unwritten Day
@@ -117,7 +119,7 @@ This began as a rounding error and became the single most contested day in Port 
 - **Debts cannot be called**, and the debt-prisons take no new admissions
 - **A Nullity Sitting cannot be convened** — the [[Religion - The pagan Pantheon and the Faith Domains|Cult of the Zenith]] holds that a day outside the reckoning cannot host a judgment. This is doctrinally awkward for them and they do not enjoy discussing it
 
-The [[Council of Five|Council of Five]] has attempted to absorb the day into Hollow or Ashfall four times in fifty-eight years. Each attempt failed, twice loudly. **The Toll Amnesty** *(Table 3, #3)* is what the Council calls its annual defeat — a mercy announced from the steps, granted with great ceremony, and legally unavoidable.
+The [[Council of Five|Council of Five]] has attempted to absorb the day into Hollow or Ashfall three times in fifty-eight years — all three in the last eleven, all three [[Lucia Marrenhal|Marrenhal]]'s — and each failed, twice loudly. Her fourth is before the chamber now. **The Toll Amnesty** *(Table 3, #3)* is what the Council calls its annual defeat — a mercy announced from the steps, granted with great ceremony, and legally unavoidable.
 
 For one day a year, the Un-Landed of Port Nevarellon can walk into the High Quarter without paying to do it. Most don't. But it is theirs, and everyone knows it.
 
