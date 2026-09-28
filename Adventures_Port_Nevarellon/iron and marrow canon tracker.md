@@ -1,250 +1,348 @@
 # Iron & Marrow — Canon Tracker
 
-A running reference for everything established in the world. Check new content against this before adding it; update this file whenever new content is confirmed as canon.
+A running reference for everything established in the world of Austhal. Check new content against this before adding it; update this file whenever new content is confirmed as canon.
 
 Keep entries to one line where possible. This is a lookup tool, not a wiki — link out to fuller documents rather than duplicating prose here.
 
-*Consolidated 2026-07-22 from two parallel tracker files. The prior "canon-tracker1" (dated 2026-07-15, covering the full Golden Company build-out, Envoy Corps, four new NPCs, the Sunken Ward restructure, and Shades retirement) forms the base, since it was the actively-maintained, comprehensive version. The older "canon-tracker" file was merged in — it turned out to contain a cluster of Location entries (named ducal seats + a road) not found in the newer file. See "Merge findings" below — one of these is a live discrepancy that needs a decision.*
+*Rebuilt 2026-09-28 after the four-batch consistency pass (terminology, factual fixes, lore gaps, link repair). Supersedes the 2026-08-17 tracker. The copies in `drafts/` are obsolete and should not be used as a source.*
 
----
+**Source-of-truth rule.** Live vault notes win. `drafts/`, the loose `.txt` snapshots outside the vault, and the D&D session notes are **not canon**. The D&D sessions heavily inspire this world, but nothing in them is binding.
 
-## ⚠️ Merge findings (read first)
-
-1. ~~**Orphaned ducal-seat names — need a decision.**~~ → **RESOLVED 2026-08-17.** All five seat names and the road are now fully written into prose in the Five Duchies source document, with travel times, and echoed independently in Framework - The Three Layers.md. The finding is closed; the rows below are promoted from *proposed* to **confirmed canon**.
-   **What landed:** **Castle Iron-Spire** (De Vonce), **Millhaven** (Aerthos), **Saltmere** (Valerius), **Granite Spire** (Stonereach), **Corvus Spire** (Corvus, buried), plus **The Ducal Concord Road**. The source document additionally carries an explicit *note on the seat names* establishing the "-Spire" convention as deliberate in-world logic: a spire is the **natural formation**, not the building, and the seats were cut into standing rock because it was cheaper than quarried stone and could not be undermined. That is a canon rule, not just a naming habit — apply it to any future seat.
-   **Still outstanding from this cluster:** none of the five seats has a dedicated file. Castle Iron-Spire remains a confirmed empty stub.
-2. **Castle Iron-Spire entry reconciled.** Both trackers had a row for this; merged into one below. It carries over the older tracker's fuller region description (northern foothills of the Jagged Spine) plus the newer tracker's more conservative sourcing (only actually named in Tythius_De_Vonce.md; the file itself is confirmed empty — I checked it directly).
-3. Everything else in the older tracker file (empty Factions/NPCs/Deities/Timeline/Artifacts/Terminology tables) was already superseded by the newer file's populated versions — no further merge needed there.
+**Siloing rule.** This tracker covers worldbuilding only. Where narrative implies mechanics, the entry is flagged `needs crunch` and left for the Iron & Marrow ruleset. Nothing here assumes the rules text.
 
 ---
 
 ## 🔁 Retcon log
 
-**2026-08-17 — The Chalced Kingdom → The Twelgorn Kingdom.** Renamed, and the underlying history changed. The exiled royal children no longer *found* a kingdom in the south; they flee through the Silted Marshes with what portable wealth they can carry and **buy asylum** in the already-ancient Twelgorn Kingdom, where they are hosted as "guests" of its sitting King. Twelgorn is established as a centuries-old maritime slaving realm that predates the Whispering Coast's settlement entirely.
+### 2026-09-28 — Consistency pass
+- **"Frequency" language retired.** Tidal cosmology is canon throughout. *The Undertow* names the Tideways' lowest layer; *Undertow-touched* is the adjective for taint and property. Applied to 8 files.
+- **Renames.**
+  - Garrick Vance → **Garrick Rudd**; Maeve Vance → **Maeve Dunn**. The three Vances were unrelated; Captain Elias "Half-Step" Vance keeps the name.
+  - Telorna Belaar → **Tahra Beyr**. The old name was a D&D artefact; she now carries a Southern (Twelgorn) register name.
+  - Cindin → **Mogwort**.
+  - The High Alchemist Guild → **The Guild of Alchemists** (Port Nevarellon chapter).
+- **Kaleb is she/her.**
+- **Maccorrack works for the Cobalt Feather**, not the Iron-Anchor.
+- **The Guild of Alchemists** is one cross-border body, holding the secret of black powder; every major power courts it for preferential deals.
+- **Firearms:** only for the very wealthy or very important. Black powder is a controlled substance → **The Powder Edict** (fifth Edict of Armament).
+- **The Shades has two deeds.** Garrick and the Dolly Sisters each hold a Council-stamped deed to the same hull. Neither will take it to the Zenith, which could void both and confirm neither.
+- **Morgran's origin rewritten.** He was a marsh trader who fell in love with a Slack-Born fey. He had a hag work an Undertow-touched shard into his body so he could live in her water; she rejected what he became. He is now based at Fenmouth.
+- **Fey and hags enter the cosmology** as the Slack-Born (Great Fracture).
+- **Numbers corrected:**
+  - Palla has held her seat for **58** years (not 80).
+  - The Unwritten Day has had **3** failed attempts; Marrenhal's **4th** is live.
+  - Dray arrived at the coast **78** years ago and has been Keeper for **31**.
+  - Sallow's figure is **60 tons** of food a month.
+  - Settlement is **a few centuries** old (not "a hundred generations").
+- **Moons glow with their own light.** The Coastal Reckoning wins over the older Celestial Graveyard text: the sun ceases to exist at night, so the moons cannot be reflecting it.
+- **The River Aer** reaches the harbour through a tidal estuary, brackish at the city. Port Nevarellon still has no freshwater river.
+- **Policing structure.**
+  - The Golden Company is the city's only military.
+  - The Blue-Cloak Watch *is* the Civic Constabulary, an auxiliary beneath the Company.
+- **Tuwal Ghorun** is Twelgorn's own name for itself; *Twelgorn* is the Whispering Coast name. No coastal register lists Tuwal Ghorun → the **identity void**.
+- **"The Chalced Question" → "The Twelgorn Question".** The last Chalced reference is gone.
+- **Leftover monarchy and imperial wording removed:**
+  - "the crown", "royal law", "Imperial silks/gold/payroll", "southern empire"
+  - Councilman Henderson, Archon Sterling, Chief Magistrate
+- **Hierarchy:** the Five Duchies are a subdivision *within* the Whispering Coast (`Austhal.md` updated).
+- **Spine Aqueduct** written into Port Nevarellon, Five Duchies (De Vonce) and Tythius.
 
-- **Why it matters beyond the name:** the old canon had a kingdom founded 58 years ago by fugitives which nonetheless possessed a standing navy of "floating fortress" warships, royal treasure galleons, naval conscription, an entrenched aristocratic officer corps, generational slave-branding, and a territorial claim on the southern marshes. Haren Twarde was conscripted into a navy younger than she is; Telorna Belaar carries brands from an institution that barely had time to exist. **The retcon resolves a plausibility failure that was already live across five files.**
-- **The threat model changed.** The danger from the south is no longer a returning dynasty. The exiles have no army, no treasury and no realm — only a claim, and that claim is an asset in a foreign King's strongroom. Any move north is a war of conquest wearing a legitimacy costume, with a compliant claimant in the baggage train.
-- **Executed across 11 files** (18 references, zero residual): History.md, Silted Marshes.md, Captain Haren Twarde.md, The Wyvern-tail Pirates.md, Telorna Belaar.md, Maccorrack.md, Divtown.md, Lord Kelf Thorne.md, Greywater Lagoon.md, Austhal.md, Framework - The Three Layers.md.
-- **Wikilink paths normalised.** Three inconsistent targets (`100 Society/The Chalced Kingdom`, `000 Atlas/The Chalced Kingdom`, `000 Atlas/Chalced`) now all resolve to a single canonical target: **`000 Atlas/The Twelgorn Kingdom`**.
-- **⚠️ ONE REFERENCE NOT YET FIXED.** `The Golden Company.md` contains a **"The Chalced Question"** bullet under Vulnerabilities, linking `[[100 Society/The Chalced Kingdom|Chalced]]`. It is present in the project index but the file mount returns it as **zero bytes**, so it could not be edited in the same pass. **Manual fix required:** rename the bullet to *"The Twelgorn Question"*, repoint the link, and reword — the vulnerability is now sharper, since the Contract's founding purpose was suppressing a *domestic* return to kingship and a Twelgorn invasion is unambiguously foreign.
-- **Open thread, not yet canon:** portable wealth is finite and 58 years is two to three generations. Whether the exiles are now impoverished dependents, a Twelgorn court faction, or married into the dynasty outright is undecided. Deliberately left out of History.md pending a call.
+### 2026-08-17 — The Chalced Kingdom → The Twelgorn Kingdom
+The exiled royal children founded nothing; they bought asylum in the already-ancient Twelgorn Kingdom. This resolved the plausibility failure of an exile-founded state owning a navy, conscription and generational slave-brands. Fully executed as of 2026-09-28.
 
 ---
 
-## 🧪 File integrity (audit 2026-08-17)
-
-Run during the Twelgorn/ducal-seat reconcile. **These are process problems, not lore problems, but they cause lore problems** — a stale or empty file silently drops out of any vault-wide sweep, which is exactly how the "Chalced Question" reference survived an 11-file retcon pass.
-
-**1. Zero-byte files (12).** Some are genuine intentional stubs; at least one is not.
-`The_Golden_Company.md`, `Castle_Iron-Spire.md`, `The_Drowned_Rat_Tavern.md`, `The_Great_Expanse.md`, `Sun-Iron.md`, `Wastelands.md`, `The_Black_Mast_Warehouse.md`, `Nightshade.md`, `The_Brine-Glow_Lanterns.md`, `The_High_Alchemist_Guild.md`, `The_Shard-Blade.md`, `Untitled.md`.
-- **`The_Golden_Company.md` is confirmed desync, not a stub** — the project index holds the full built-out faction document (force structure, rank ladder, Envoy Corps, the Vulnerabilities list). Anything reading from the file rather than the index sees nothing. **Do not trust a zero-byte result as evidence a file is empty.**
-- `Untitled.md` should be identified and either named or deleted.
-
-**2. Two stale wikilink targets for the Five Duchies document.** In-vault links point at *three different names* for what should be one file:
-- `The Five Duchies of the Whispering Coast` — the correct target (used by The Inner Sea.md).
-- `draft2_The Five Duchies of the Whispering Coast` — **stale**, used by High Captain Marco.md. Repoint it.
-- The mount additionally exposes the file as `The_Five_Duchies_of_the_Whispering_Coast_1.md`; if a duplicate `_1` copy genuinely exists in the vault, delete the stale one before it diverges further.
-
-**3. Corvus Spire is wikilinked to the wrong document.** Framework - The Three Layers.md flags that Corvus Spire is linked as `[[The Inner Sea#🪓 Resource & Industry|Corvus Spire]]` — pointing the ducal seat at a section of a *different* region's document that merely references it. Recommend a bold unlinked term until Corvus Spire gets a stub of its own.
+## ⚖️ Standing design rules (do not erode)
+- **Court of Nullity:** the Zenith may void a claim and may never validate one. This preserves the Accord's decapitated feudal pyramid.
+- **King-Ban:** no mortal may claim the title "King" on the Whispering Coast. It applies to place names too (re-chiselled villages).
+- **"-Spire" convention:** a spire is the natural formation, and a seat cut into it takes its name. Apply this to any future seat.
+- **Layers sort by reach, not rank** (Framework - The Three Layers). Every new entity gets a Layer and the five fields.
+- **Motes of hope:** grimdark stakes with small motes of hope. Write "none, deliberate" rather than leaving a mote blank.
+- **Naming registers A–F** (Reference - Name Tables). The register is the class marker.
 
 ---
 
-## Locations
+## 📍 Locations
 
-| Name | Region/Map Position | One-line summary | Established in | Notes/Conflicts |
+| Name | Region / map position | One-line summary | Established in | Notes / conflicts |
 |---|---|---|---|---|
-| Austhal | Top-level continent | The known continent; contains Whispering Coast, Silted Marshes, Inner Sea, Twelgorn Kingdom, Wastelands | Austhal.md, History - The Broken Crown of Austhal.md | Region list conflicts with Whispering Coast.md's own hierarchy — see next row. **Still open.** |
-| The Whispering Coast | Region within Austhal | Coastal region containing Port Nevarellon + the Five Duchies; borders Silted Marshes, Ubaraz Kingdom, Kald Mountain Territory, Inner Sea | Whispering Coast.md | **CONFLICT (still open):** Austhal.md lists this and the Five Duchies as sibling regions; Whispering Coast.md lists the Five Duchies as its own child location. Recommend: Five Duchies = political subdivision *within* Whispering Coast |
-| The Five Duchies of the Whispering Coast | Political subdivision of Whispering Coast | Five ancestral human duchies (De Vonce, Aerthos, Valerius, Stonereach, Corvus) bound by the Ducal Accord, banned from the title "King" | The Five Duchies of the Whispering Coast.md | See conflict above |
-| Duchy of De Vonce (Iron Court) | Northern Five Duchies, foothills of Jagged Spine | Iron/timber militarist duchy; largest feudal levy; resents reliance on the Golden Company | Five Duchies.md, Tythius De Vonce.md | — |
-| Castle Iron-Spire | Duchy of De Vonce, northern foothills of the Jagged Spine | Ancestral seat of House De Vonce; cut directly into the foothills; northern terminus of the Ducal Concord Road before the Stonereach leg | Tythius De Vonce.md; The Five Duchies of the Whispering Coast.md; Framework - The Three Layers.md | **CONFIRMED** (sourcing upgraded — the earlier "named only in Tythius De Vonce.md" note is superseded). **File is still a confirmed empty stub** — now the most-referenced empty file in the vault. Travel time: ~3–4 days by horse from Port Nevarellon, 7–9 by loaded wagon |
-| Duchy of Aerthos (Breadbasket) | Eastern Five Duchies | Agricultural monopoly; flat, indefensible terrain; politically passive | Five Duchies.md | Confirmed as one of the Golden Company's most reliable Envoy standing-retainer clients (see The Golden Company.md) |
-| Millhaven | Duchy of Aerthos, where the main river breaks into the barge channels | Ducal seat of Aerthos; fortified grain-hub feeding Port Nevarellon's barge trade | The Five Duchies of the Whispering Coast.md; Framework - The Three Layers.md | **CONFIRMED.** No dedicated file yet. **Closest ducal seat to the city** — ~2–3 days by horse via the Concord Road's river spur, 4–5 by loaded barge with the current. Framework argues this proximity plus flat terrain is *why* Aerthos is passive — fear, not temperament |
-| Duchy of Valerius (Gilded Coast) | Southern coastal Five Duchies | Maritime/salt/wine economy; closest financial ties to the Council of Five | Five Duchies.md | Also confirmed as a reliable Envoy standing-retainer client. Valerius Family.md is still an unfilled template — no named members |
-| Saltmere | Duchy of Valerius, coastal cliffs above the salt-refining pans | Ducal seat of Valerius; walled port town | The Five Duchies of the Whispering Coast.md; Framework - The Three Layers.md | **CONFIRMED.** No dedicated file yet. ~1 day from the Basin by coastal galley along the Coastal Meridian (2 in poor weather); 4–5 days overland, cliff roads punish wagons. **The only ducal seat that does not need the Concord Road** — Framework flags this as unwritten strategic leverage and the real reason Valerius behaves like a syndicate |
-| Duchy of Stonereach (High Shields) | Northeastern Five Duchies, borders Ubaraz Kingdom | Granite quarrying; dwarven-influenced architecture; isolated survivalist culture | Five Duchies.md | Its neighbor Ubaraz Kingdom.md is an unfilled template — can't cross-check border claims yet |
-| Granite Spire | Duchy of Stonereach, mountain passes bordering the Ubaraz Kingdom | Ducal seat of Stonereach; dwarven-engineered citadel cut into the passes | The Five Duchies of the Whispering Coast.md; Framework - The Three Layers.md | **CONFIRMED.** No dedicated file yet. Furthest seat: ~6–8 days by horse via the Concord Road, longer or impassable in deep winter; 10–14 days for a loaded masonry wagon train |
-| Duchy of Corvus / The Corvus Scar (Fallen Crown) | Formerly northern Five Duchies, now ash wasteland | House Corvus rendered "functionally extinct" by the Cataclysm 50 years ago; land poisoned by the Ash-Blight | Five Duchies.md, History - The Broken Crown of Austhal.md | Epigraph ("one rules an ossuary") may imply a claimant on the Corvus seat — confirm if intentional hook or just phrasing |
-| Corvus Spire | Buried beneath the Corvus Scar | Ancestral seat of House Corvus; buried by the mountain collapse 50 years ago, never excavated or resettled | The Five Duchies of the Whispering Coast.md; The Inner Sea.md | **CONFIRMED.** No dedicated file yet. Named for the peak that fell on it. **Explicitly disambiguated in canon** from The Broken Spires in the Inner Sea — drowned peaks, not masonry; what they share is the heat-scarred fracturing along the same seam. No lawful road or travel time exists; the only figure on record is tactical (De Vonce's border levy could reach the Scar's edge in ~1–2 days) |
-| The Ducal Concord Road | Overland highway: Port Nevarellon → Castle Iron-Spire → northeast to Granite Spire, with a maintained river spur east to Millhaven | The only infrastructure the merchant oligarchy and the old nobility have ever built together; jointly funded and garrisoned by the Council of Five and the four standing Duchies. Terminates at the De Vonce border watch-towers facing the Corvus Scar — no road runs into the ash | The Five Duchies of the Whispering Coast.md; Framework - The Three Layers.md | **CONFIRMED.** Complements rather than replaces the Coastal Meridian sea-lane (The Inner Sea.md), which remains Saltmere's primary route. **Two live hooks:** (1) a jointly-garrisoned road has no arbitrating office — Framework recommends a single named road-warden with deliberately ambiguous appointing authority; (2) the Road shares its corridor with the city aqueduct, meaning Council-funded soldiers sit on a De Vonce chokepoint year-round, and neither party has ever said aloud that this is why the Council co-funded a road into a duchy it distrusts |
-| The Inner Sea / The Great Expanse | Region east of Whispering Coast | Shallow inner sea sheltered by the Shield Atolls; home to Leviathans, Oakhaven Cove | The Inner Sea.md | **DUPLICATE:** The Great Expanse.md is an empty stub of the same region — recommend deleting the stub |
-| The Shield Atolls | Sub-location within the Inner Sea | Barrier islands sheltering the inner basin; scattered stilt-village communities | The Inner Sea.md | No separate file — documented inline, which is fine |
-| Oakhaven Cove | Settlement within Inner Sea / Shield Atolls | Great Northern Township; master port for the deep-sea monster-hunting fleets | Referenced in The Inner Sea.md, Divtown.md, Morgran the Abomination.md | No dedicated file exists — gap |
-| Silted Marshes | Region south of Whispering Coast | Labyrinthine delta; no roads; Iron-Burl timber trade; marsh-fever | Silted Marshes.md | — |
-| Divtown | Settlement within Silted Marshes | Smuggler shanty-town / logging outpost ruled by Lord Kelf Thorne | Divtown.md | — |
-| Grey Water Lagoon | Sub-location adjacent to Divtown | Hidden deep-water pirate anchorage; base of the Wyvern Tail Pirates | Greywater Lagoon.md | Filename "Greywater" vs. in-text "Grey Water" — standardize spelling |
-| The Jagged Spine | Region, northern mountain border of Austhal | Site of the Corvus cataclysm; source of Winter Moon storms | Referenced in History.md, Five Duchies.md, The Inner Sea.md | File is an unfilled template — major gap. Now also the subject of High Captain Marco's standing (and unfunded) strategic concern, per High Captain Marco.md |
-| Ubaraz Kingdom | Region east, dwarven nation | Engineered the Great Anchor Basin's seawalls; Morgran's kin/origin | Referenced in The Great Anchor Basin.md, Morgran the Abomination.md, Five Duchies.md | File is an unfilled template — gap |
-| The Kald Mountain Territory | Region bordering Whispering Coast | No detail established | Referenced only in Whispering Coast.md | File unfilled — gap; unclear if distinct from Jagged Spine/Ubaraz Kingdom |
-| Wastelands | Region within Austhal | No detail established | Referenced only in Austhal.md's region list | File completely empty — gap, no border/terrain info at all |
-| The Twelgorn Kingdom | Region south of Silted Marshes | Ancient maritime slaving realm predating the Whispering Coast's settlement; hosts the exiled royal line as "guests"; standing navy and treasure galleons; sends "Retrievers" north | Referenced in History.md, Silted Marshes.md, Captain Haren Twarde.md, Telorna Belaar.md, Maccorrack.md, Divtown.md, Greywater Lagoon.md, The Wyvern-tail Pirates.md, Lord Kelf Thorne.md, Austhal.md, Framework - The Three Layers.md, The Golden Company.md | **NO FILE EXISTS — the single highest-priority location gap; now confirmed as **12** referencing documents, not 5.** Renamed and retconned from "The Chalced Kingdom" — see Retcon log. One stale reference remains unfixed in The Golden Company.md |
-| Port Nevarellon | Settlement, Free City-State on Whispering Coast | ~35,000 pop. maritime trade hub; governed by Council of Five; enforced by Golden Company | Port Nevarellon.md | Confirmed **Five** Districts, not six — see Sunken Ward and Shades rows below |
-| The High Quarter | District of Port Nevarellon | Old nobility; clean water vaults; northern limestone cliffs | Port Nevarellon.md; The High Quarter.md | Dedicated file is an unfilled template |
-| The Plumb Court | The High Quarter, Port Nevarellon | Windowless limestone hall of the Cult of the Zenith, built around the vault holding the Register | The Cult of the Zenith.md | **NEW 2026-08-17.** No dedicated file yet. Single point of failure for the entire coast's documentary legitimacy — has never burned. Deliberate hook |
-| The Trade Plazas | District of Port Nevarellon | Commercial heart; banking houses, guilds, upscale markets | Port Nevarellon.md; The Trade Plazas.md | Dedicated file is an unfilled template |
-| The Sunken Ward | District of Port Nevarellon | Home to the city's most impoverished underclass, including Corvus refugee descendants; contains the Muddy Docks (developed) and Cinder Row (stub) | The Sunken Ward.md | Formal District-tier parent of Muddy Docks |
-| The Muddy Docks | Neighborhood within The Sunken Ward, Port Nevarellon | Working-class waterfront boardwalk sprawl; Iron-Anchor Syndicate territory; the Sunken Ward's economic engine | The Muddy Docks.md | Nested under The Sunken Ward; content itself unchanged, only its parent field |
-| The Foundry Slips | District of Port Nevarellon | Industrial sector; shipyards, smokehouses, refineries | Port Nevarellon.md; The Foundry Slips.md | Dedicated file is an unfilled template |
-| ~~The Shades (district)~~ | *(retired)* | *(retired — was a low-lying reclaimed-marshland slum)* | *(formerly Port Nevarellon.md)* | **RETIRED.** Confirmed by the author to be an early draft that evolved into what is now Muddy Docks; no longer listed in Port Nevarellon.md's district list. Row kept here only for institutional memory — do not resurrect as a separate location |
-| The Shades (brothel) | Building within The Muddy Docks | Waterfront brothel/gambling den/black bank run by the Dolly Sisters | The Shades.md | Only "Shades" in canon going forward — no naming collision |
-| The Great Anchor Basin | District of Port Nevarellon | High-security deep-water harbor; garrisoned directly by the Golden Company | The Great Anchor Basin.md | District #5 of five (was #6 of six) following the Shades retirement. Also location of The Sovereign's Gate — see below |
-| The Sovereign's Gate | Building within The Great Anchor Basin | Fortified garrison and toll-keep; headquarters of the Golden Company | The Golden Company.md | Deliberately placed within the Basin's existing Toll Gates infrastructure rather than inventing new geography |
-| The Rusty Tankard | Building within The Great Anchor Basin | Waterfront tavern / Cobalt Feather dead-drop, fronted by Kaleb | The Rusty Tankard.md | — |
-| The Drowned Rat Tavern | Building within The Muddy Docks | Referenced as Maeve's hidden ledger office / Iron-Anchor-linked tavern | Referenced in The Iron-Anchor Syndicate.md, The Muddy Docks.md | File completely empty — gap |
-| The Black Mast Warehouse | Building, northern wharf, Muddy Docks | Iron-Anchor Syndicate HQ; Garrick's and Maeve's residence | Referenced in The Iron-Anchor Syndicate.md, Garrick the Keelhauler.md, Maeve the Scribe.md | File completely empty — significant gap: a major faction's HQ has no content |
-| The Rusty Anchor Foundry | Building, district unclear | Silas Bane's base above the fighting pits | Referenced in Silas Bane.md | File does not exist — gap |
-| Cinder Row | Sub-location/neighborhood within The Sunken Ward | Inland refugee tenement blocks, distinct from the waterfront Muddy Docks | The Sunken Ward.md | **Intentional stub.** Left undeveloped by design — placeholder for future material, not an oversight |
-| The Low-Tide Market | Sub-location, Muddy Docks (within Sunken Ward) | Bazaar held on exposed mudflats at low tide | Referenced in The Muddy Docks.md | No file — minor gap |
-| Slipway Seven | Sub-location, Muddy Docks (within Sunken Ward) | Commercial drydock/repair yard | Referenced in The Muddy Docks.md | No file — minor gap |
-| The Brine-Glow Depot | Sub-location, Muddy Docks (within Sunken Ward) | Alchemical maintenance workshop for street lanterns | Referenced in The Muddy Docks.md | No file — minor gap, related to Brine-Glow Lanterns item gap below |
-| The Broken Spires | Drowned ridge in the northern Inner Sea | A submerged ridge of petrified stone spires — **mountain, not masonry**. Divers report the same glassy, heat-scarred fracturing found along the collapsed Corvus peaks | The Inner Sea.md; The Five Duchies of the Whispering Coast.md | **Row corrected.** The earlier summary ("petrified ruin matching Corvus Spire architecture") was wrong and is superseded — canon now explicitly disambiguates these from Corvus Spire. The implication is *not* that anything came through out here: it is that **the seam that opened at Corvus does not end at Corvus**, running northeast beneath the Inner Sea, unmapped. Load-bearing for Marco's northern-sky anxiety |
-| The Sunken Causeway | Ruined point of interest, Silted Marshes | Submerged remains of an ancient royal highway | Silted Marshes.md | Documented inline — fine as is |
+| Austhal | Top-level continent | The known continent; regions: Whispering Coast (incl. Five Duchies), Silted Marshes, Inner Sea, Twelgorn, Wastelands | Austhal.md; History | Ubaraz and Kald Mountain Territory not in its region list — gap. File partly template |
+| The Whispering Coast | Region within Austhal | Port Nevarellon + the Five Duchies; borders Silted Marshes, Ubaraz, Kald Mountain Territory, Inner Sea | Whispering Coast.md | Hierarchy **resolved 2026-09-28**. File still mostly template |
+| The Five Duchies of the Whispering Coast | Political subdivision of the Whispering Coast | Five ancestral human duchies bound by the Ducal Accord; banned from the title "King" | The Five Duchies…md | — |
+| Duchy of De Vonce (Iron Court) | North, foothills of the Jagged Spine | Iron/timber; largest feudal levy; **holds the Spine Aqueduct headwater** | Five Duchies; Tythius De Vonce | — |
+| Castle Iron-Spire | De Vonce foothills | Seat of House De Vonce; ~3–4 days by horse, 7–9 by wagon | Five Duchies; Three Layers | **Empty stub** — most-referenced empty file |
+| Duchy of Aerthos (Breadbasket) | Along the River Aer | Grain monopoly; flat, indefensible, therefore passive through fear | Five Duchies; Three Layers | Reliable Envoy retainer client |
+| Millhaven | Aerthos, where the Aer breaks into barge channels | Seat of Aerthos; closest seat (~2–3 days horse, 4–5 by barge) | Five Duchies | No file |
+| Duchy of Valerius (Gilded Coast) | Southern coast | Salt, wine, shipping; debt bonds; behaves like a syndicate | Five Duchies | Valerius Family.md unfilled |
+| Saltmere | Valerius coastal cliffs | Seat of Valerius; ~1 day by galley on the Coastal Meridian; doesn't need the Road | Five Duchies; Three Layers | No file |
+| Duchy of Stonereach (High Shields) | North-east passes, bordering Ubaraz | Granite; dwarven engineering; toll-keeps | Five Duchies | — |
+| Granite Spire | Stonereach passes | Seat of Stonereach; ~6–8 days by horse | Five Duchies | No file |
+| The Corvus Scar | Former northern duchy | Ash-Blight (Undertow-touched soot); House Corvus functionally extinct; creeping annexation that can never be made lawful | Five Duchies; Cult of the Zenith | Fall dated **~8 A.A. (derived, unconfirmed)** |
+| Corvus Spire | Buried under the Scar | Ancestral seat; named for the peak that fell on it. **Broken Ward** is the folk name for the stump | Five Duchies; Name Tables T4 #9 | No file |
+| The Scar-Holders' steadings | Clean pockets inside the Scar | Squatters and farmers with no deed; the "chimneys that aren't supposed to exist" | Five Duchies | *The Quiet Steading* (Name Tables #31) proposed as the type specimen — unallocated |
+| The Ducal Concord Road | Port Nevarellon → Iron-Spire → Granite Spire; spur to Millhaven | Only infrastructure the Council and Dukes built together; ~300 miles; four garrison posts | Five Duchies; Three Layers; Jeerdan Darcy | Warden: Jeerdan Darcy. Terminates at the De Vonce watch-towers facing the Scar |
+| **The Spine Aqueduct** ("the Duke's Straw") | Western foothills of the Jagged Spine, inside De Vonce → High Quarter cisterns | The city's only piped fresh water; built pre-Accord; shares a corridor with the Concord Road | Three Layers; Port Nevarellon; Five Duchies; Tythius | **NEW ROW.** Tythius's non-use is the mote |
+| River Aer | Aerthos → tidal estuary at Port Nevarellon | Grain-barge river; salt pushes upstream on every flood tide, so it's brackish at the city | Port Nevarellon; Five Duchies; Name Tables T4 #14 | **NEW 2026-09-28** |
+| The Inner Sea / The Great Expanse | East of the Whispering Coast | Sheltered basin behind the Shield Atolls | The Inner Sea.md | `The Great Expanse.md` is an **empty duplicate** — recommend delete |
+| The Coastal Meridian | Inner Sea, along the mainland | Main shoal-free sea-lane | The Inner Sea | — |
+| The Shield Atolls | Eastern rim of the Inner Sea | Barrier islands; the drowned continuation of the Jagged Spine ridge | The Inner Sea | No file (wanted link) |
+| Oakhaven Cove | Northernmost shield island | Crater-harbour township; master port for the monster-hunting fleets; 200–450 miles from the city | The Inner Sea | No file. Morgran **no longer** based here |
+| The Broken Spires | Northern Inner Sea | Drowned ridge — mountain, not masonry; same heat-scarred fracturing as Corvus, so the seam runs north-east | The Inner Sea; Five Duchies | No file |
+| The Broken Ocean | Beyond the atolls | Open ocean; every Wondrous Market lies across it | The Inner Sea; Wondrous Markets | — |
+| The Silted Marshes | South of the city | Roadless delta; Iron-Burl; marsh-fever; the terrain lies to you | Silted Marshes.md | — |
+| **Fenmouth** | Mouth of the Silted Marshes | Guide village and Council toll post; hiring a marsh-guide here is **required by law**; Morgran's base | Name Tables T2 #33; Coastal Reckoning; Silted Marshes; Divtown; Morgran | **NEW ROW.** No file |
+| Divtown | Silted Marshes | Stilt shanty-town / fencing operation under Kelf Thorne; ~800 people | Divtown.md | — |
+| Greywater Lagoon ("Grey Water") | Beside Divtown | Hidden deep-water pirate anchorage; Iron Boom; canopy snipers | Greywater Lagoon.md | Filename "Greywater", display "Grey Water" — both accepted |
+| The Sunken Causeway | Silted Marshes | Drowned royal highway; hull-ripper | Silted Marshes | Inline only — fine |
+| The Jagged Spine | Northern mountain border | Winter Moons storms; site of the Corvus breach | History; Five Duchies; Inner Sea | **Template — gap** |
+| Ubaraz Kingdom | East / north-east (dwarven) | Engineered the Basin seawalls; old trading partner; no Council seat | Council of Five; Great Anchor Basin; Five Duchies | **Template — gap.** Direction conflict still open (History: east; Five Duchies: north-east) |
+| The Kald Mountain Territory | Borders the Whispering Coast | Nothing established | Whispering Coast; Name Tables T4 #2 | **Template — gap; unplaced** |
+| The Wastelands | Within Austhal | Nothing established beyond Name Tables (Cinder Flats, Boneground; orcs born free there) | Austhal; Name Tables | **Empty file — gap** |
+| **The Twelgorn Kingdom (Tuwal Ghorun)** | Far south, beyond the marshes | Ancient maritime slaving realm; hosts the exiled royal line as "guests"; navy, treasure galleons, Retrievers | History (defines both names); 10 referencing files | **NO FILE — highest-priority gap** |
+| Port Nevarellon | Free City on the Whispering Coast | ~35,000 people (doubles in spring); five districts; the only T3 on the coast; one of the Three Wondrous Markets | Port Nevarellon.md | — |
+| The High Quarter | District, northern limestone cliffs | Old nobility; cisterns; the Plumb Court | Port Nevarellon | Dedicated file is a template |
+| The Plumb Court | High Quarter | Windowless hall of the Zenith around the Register vault; has never burned | The Cult of the Zenith | No file — deliberate hook |
+| The Trade Plazas | District | Banking houses, guilds; Council Chamber; Council clerk-house (turn-roll) | Port Nevarellon; Council of Five | Dedicated file is a template |
+| The Sunken Ward | District | Poorest underclass; Corvus refugee descendants; parent of the Muddy Docks and Cinder Row | The Sunken Ward.md | — |
+| The Muddy Docks | Neighbourhood in the Sunken Ward | Stilt/boardwalk sprawl; Iron-Anchor territory; Crate Court | The Muddy Docks.md | Tagged `#location/district` — see tier tags item |
+| Cinder Row | Neighbourhood in the Sunken Ward | Inland refugee tenements; fading elder-councils | The Sunken Ward | **Intentional stub** |
+| The Foundry Slips | District | Shipyards, smokehouses, refineries; Thole Yards; the bad curtain-wall section | Port Nevarellon; Marcian Thole | Dedicated file is a template |
+| The Great Anchor Basin | District / harbour | The coast's only deep-water port; Landed zone; Golden Company garrison; 20–40 deep-water keels registered | The Great Anchor Basin; Wondrous Markets | — |
+| The Sovereign's Gate | Great Anchor Basin | Golden Company HQ and toll-keep | The Golden Company | — |
+| The Rusty Tankard | Great Anchor Basin | Tavern / Cobalt Feather dead-drop run by Kaleb (she/her) | The Rusty Tankard.md | Basin policing = Golden Company patrols |
+| The Shades | Muddy Docks | Brothel/black bank in a grounded carrack; Dolly Sisters | The Shades.md | **Deed contested** — Garrick holds a second deed |
+| The Black Mast Warehouse | Northern wharf, Muddy Docks | Iron-Anchor HQ; Garrick's and Maeve's residence | Iron-Anchor; Garrick; Maeve | **Empty file — gap** |
+| The Drowned Rat Tavern | Muddy Docks | Maeve's hidden ledger office | Iron-Anchor; Muddy Docks | **Empty file — gap** |
+| The Rusty Anchor Foundry | District unclear | Silas Bane's base above the fighting pits | Silas Bane | No file |
+| Low-Tide Market · Slipway Seven · Brine-Glow Depot | Muddy Docks | Mudflat bazaar · drydock · lantern workshop | The Muddy Docks | No files — minor |
+| The Sea-Wall & Tide-Wards | City breakwater | Breakwater; eroding basalt monoliths stabilise the bedrock | Port Nevarellon | — |
+| The Fourth (the Struck City) | Across the Broken Ocean | Wondrous Market struck from the count; breach-city, light-fearing beasts, a sophisticated ruler; handed to the Crooked Coin by the striking | Wondrous Markets (**draft**); Cult of the Zenith | **Unnamed by design.** Date of striking and relationship to Corvus open |
+| Desert Coast Market | Across the Broken Ocean | Seam between desert caravans and deep-water hulls | Wondrous Markets (draft) | Name *Qathrayin* **provisional** |
+| Volcano Market | Inland, another continent | Seat of the Golden Company's Charter-House | Wondrous Markets (draft) | Name *Ashkoral* **provisional**. Charter-House not yet written into The Golden Company.md |
 
-## Factions
+*Name Tables Table 2 holds 50 placed settlements, forts and ruins. They are unallocated until used; only Fenmouth has been promoted.*
 
-| Name | Territory/Base | One-line summary | Power level (rules ref) | Established in | Notes/Conflicts |
+---
+
+## 🏛️ Factions
+
+| Name | Territory / base | One-line summary | Layer | Established in | Notes / conflicts |
 |---|---|---|---|---|---|
-| Council of Five | Port Nevarellon | Merchant oligarchy governing the Free City-State; holds the 99-yr Golden Company contract | Not yet defined | Council of Five.md, History.md, Port Nevarellon.md | No named members despite governing the whole city — gap |
-| The Cult of the Zenith | The Plumb Court, The High Quarter — influence regional, on both sides of the Accord | Cult of the Domain of Law (Paragon: Aurelius the Architect); de facto inter-jurisdictional tribunal and the coast's authoritative document Register | Not yet defined; **Binding Oath marked `needs crunch`** | The Cult of the Zenith.md; Religion - The pagan Pantheon and the Faith Domains.md | **NEW 2026-08-17 — major build-out.** Fills the arbitration vacuum left by the abolished Crown. **Court of Nullity doctrine** (may void a claim, may never validate one) deliberately preserves the decapitated feudal pyramid — do not let later content erode this. Jurisdiction rests on ~50 years of habit with **no founding clause** |
-| The Golden Company | The Sovereign's Gate (Great Anchor Basin); also a rotating roster of private clients citywide via the Envoy Corps | Two-tier mercenary army (foreign Officer Corps + locally-recruited rank and file) under a 99-year city monopoly; also runs a separate private-contract specialist branch, the Envoy Corps ("the Second Contract") | Not yet defined | History.md, Port Nevarellon.md, The Great Anchor Basin.md, The Golden Company.md | Fully built out: named leadership, force structure, economics, rank ladder, and the Envoy Corps sub-branch. Four named NPCs added (see NPCs table) |
-| The Civic Constabulary (The Coppers) | Toll-houses, lower districts | Corrupt, underpaid municipal watch; despised by both Syndicate and Golden Company | Not yet defined | Faction - The Civic Constabulary (The Coppers).md | Formally answerable to Provost Halvard Stross of the Golden Company, who is quietly building a corruption case against Captain Vance |
-| The Iron-Anchor Syndicate | The Black Mast Warehouse, Muddy Docks (Sunken Ward) | Blunt-force smuggling/extortion cartel controlling the docks | Not yet defined | The Iron-Anchor Syndicate.md | HQ location file (Black Mast Warehouse) is still empty |
-| The Cobalt Feather Syndicate | Alfric's manor + Rusty Tankard dead-drop | White-collar forgery/smuggling network under a strict no-blood mandate | Not yet defined | The Cobalt Syndicate.md, Alfric Danniken.md | Filename "The Cobalt Syndicate.md" vs. in-doc name "The Cobalt Feather Syndicate" — standardize |
-| The Wyvern Tail Pirates | Grey Water Lagoon, Divtown | Disciplined commerce-raiding pirate fleet led by Haren Twarde | Not yet defined | The Wyvern tail Pirates.md, Captain Haren Twarde.md | — |
-| The Grey Water Pirates | Grey Water Lagoon | "Informal coalition of independent smugglers and privateers" | Not yet defined | Greywater Lagoon.md | **POSSIBLE OVERLAP** with Wyvern Tail Pirates — still unresolved; unclear if this is the general pirate population vs. Haren's militarized fleet within it, or an editing duplicate |
-| The Tidespoken Clergy | Lower piers, Port Nevarellon | Religious sect running soup kitchens; keeps peace between gangs; rival to Syndicate recruitment | Not yet defined | Referenced in Religion.md (Domain of Sea & Storms), The Muddy Docks.md, The Iron-Anchor Syndicate.md, The Sunken Ward.md | No dedicated faction file — worth creating given how often it's referenced. Confirmed as the closest thing the Sunken Ward has to a unifying presence |
-| The High Alchemist Guild | Port Nevarellon (unspecified location) | Manages the Brine-Glow Lantern municipal lighting system | Not yet defined | Referenced in Port Nevarellon.md, The Iron-Anchor Syndicate.md | File completely empty — gap, especially since Silas Bane's active plot targets this guild directly |
-| House De Vonce | Duchy of De Vonce | Ruling ducal house; martial/iron economy | Not yet defined | Tythius De Vonce.md, Five Duchies.md | — |
-| House Valerius | Duchy of Valerius | Corporate-syndicate-style noble house; indentured salt labor | Not yet defined | Five Duchies.md | Valerius Family.md unfilled — no named members |
-| House Thorne (disowned branch) | Divtown, Silted Marshes | Disgraced nobility running the Divtown fencing operation under Kelf Thorne | Not yet defined | Lord Kelf Thorne.md | — |
-
-## NPCs
-
-| Name | Affiliation | Role/One-line summary | Stat block? (Y/N + ref) | Established in | Status (alive/dead/unknown) |
-|---|---|---|---|---|---|
-| Alfric Danniken | Cobalt Feather Syndicate | Founder/leader; forbids assassination, relies on blackmail and debt-traps | N | Alfric Danniken.md | Alive |
-| Jeerdan Darcy | Ducal Concord Road garrison (all four Duchies + Council jointly); no personal allegiance | Warden of the Ducal Concord Road, 54; folk hero to the smallholders; ploughs at harvest where hands are short; claims Landed by Commission but **no one can produce the instrument** | N | Jeerdan Darcy.md | Alive |
-| High Arbiter Sevrin Kalder | Cult of the Zenith | The High Arbiter; High Quarter-born; sincere believer that order is mercy; the cult's public face | N | The Cult of the Zenith.md | Alive; **no dedicated file yet** |
-| Keeper Merrit Dray | Cult of the Zenith | Keeper of the Register; low-born, promoted for competence; holds the only key that matters and has used it once | N | The Cult of the Zenith.md | Alive; **no dedicated file yet** |
-| Lord Kelf Thorne | Divtown / Grey Water Pirates | Self-proclaimed Baron of the Silted Marshes; fences pirate goods under his noble seal | N | Lord Kelf Thorne.md | Alive |
-| Tythius De Vonce | House De Vonce | Duke of De Vonce; half-elf, 86; carries The Shard-Blade | N | Tythius De Vonce.md | Alive; also the Golden Company's most notable Envoy-refusal holdout |
-| Garrick the Keelhauler | Iron-Anchor Syndicate | Grandmaster; aging, pragmatic, seeks legitimization | N | Garrick the Keelhauler.md | Alive; the 99-Year Contract's ~41 remaining years are now the specific clock his "wait out the Company" plan is racing |
-| Kaleb | Cobalt Feather Syndicate | Barkeep/manager of the Rusty Tankard; dead-drop liaison | N | Kaleb.md | Alive; **PRONOUN CONFLICT (still unresolved)** — Kaleb.md uses he/him throughout, The Rusty Tankard.md refers to Kaleb as "she" |
-| Qasim Al Goor | Cobalt Feather Syndicate | Skipper of *The Curzon*; inland smuggling logistics | N | Qasim Al Goor.md | Alive |
-| Maeve the Scribe | Iron-Anchor Syndicate | Chief accountant/auditor; caught between Garrick and Silas | N | Maeve the Scribe.md | Alive |
-| Silas Bane | Iron-Anchor Syndicate (Young Bloods) | Enforcer Captain plotting a coup against Garrick | N | Silas Bane.md | Alive; formally tied to a real place of origin — see The Sunken Ward.md |
-| Clara Dolly | The Shades (brothel) / Iron-Anchor-adjacent | Co-owner; business/ledger mind; holds the Black Ledger | N | The Dolly Sisters.md | Alive |
-| Tessa Dolly | The Shades (brothel) / Iron-Anchor-adjacent | Co-owner; information broker; carries powdered nightshade | N | The Dolly Sisters.md | Alive |
-| Captain Haren Twarde | Wyvern Tail Pirates | High Captain; ex-Twelgorn navigator; wields the Wyvern-Hide Banner | N | Captain Haren Twarde.md | Alive |
-| Morgran "Fin" Deep-Draught | Independent (Oakhaven Cove) | Mutated dwarven navigator of the Silted Marshes | N | Morgran the Abomination.md | Alive; filename says "Morgran the Abomination," doc header says "Morgran 'Fin' Deep-Draught" — still unresolved |
-| Lidda Shoon | Cobalt Feather Syndicate | Halfling jeweler/fence; follower of the Cult of the Crooked Coin | N | Lidda Shoon.md | Alive |
-| Maccorrack | Iron-Anchor Syndicate (muscle) | Half-orc stevedore/bodyguard; escaped Twelgorn slave | N | Maccorrack.md | Alive |
-| Telorna Belaar | Divtown | Timber forewoman; true operational backbone of Divtown | N | Telorna Belaar.md | Alive |
-| Bruiser Ben | The Shades (brothel) | Doorman/muscle for the Dolly Sisters | N | Referenced in The Shades.md, The Dolly Sisters.md | Alive; no dedicated file — minor gap |
-| High Captain Marco | The Golden Company | High Captain; senior field commander of the Port Nevarellon garrison; chronic insomnia; fixated on the Corvus Scar threat | N | High Captain Marco.md | Alive |
-| Provost Halvard Stross | The Golden Company | Provost overseeing Constabulary conduct citywide; quietly building a case against Captain Vance | N | Provost Halvard Stross.md | Alive |
-| First Envoy Isolde Vantry | The Golden Company | Head of the Envoy Corps; Sunken Ward-born, first locally-raised soldier to reach the top of the specialist track | N | First Envoy Isolde Vantry.md | Alive |
-| Sergeant Wren Cobb | The Golden Company | Locally-raised NCO on Muddy Docks patrol; quietly lets recognized faces slip through toll checkpoints | N | Sergeant Wren Cobb.md | Alive |
-
-## Deities / Pantheon
-
-| Name | Domain | One-line summary | Worshipped by (faction/region) | Established in |
-|---|---|---|---|---|
-| Saint Senecus the Unyielding | Strategy (Iron Horizon) | Doomed-pass military philosopher; stoic tactical duty over survival | Not yet tied to a specific faction | Religion - The pagan Pantheon and the Faith Domains.md |
-| Corvo's Folly (The Grinning Prophet) | Trickery (Crooked Coin) | Cynical smuggler-prophet who bankrupted the old empire's treasury | Lidda Shoon; implicitly the Cobalt Feather Syndicate | Religion.md, Lidda Shoon.md |
-| Aurelius the Architect | Law (The Zenith) | Brutal unifier-warlord; ideological root of the High Quarter's claimed authority | The High Quarter elite | Religion.md, Cosmology - The Celestial Graveyard and The war of Creation.md |
-| Vael the Mute | Death (Ashen Veil) | Grave-keeper preaching death as mercy, not tragedy | Not yet tied to a specific faction | Religion.md |
-| Kaelen the Survivor | Winter & Wilds (Rime-Fang) | Tribal matriarch, primordial winter-drake hunter | Not yet tied to a specific faction | Religion.md |
-| Mother Elara of the Mud | Mercy & Healing (Weeping Martyr) | Plague-era martyr who absorbed the dying's suffering into herself | Not yet tied to a specific faction | Religion.md |
-| Thalass's Omen | Sea & Storms (Tidespoken) | Apocalyptic rogue wave deified as the ocean's true sovereignty | The Tidespoken Clergy | Religion.md |
-
-## Timeline / Historical Events
-
-| Date/Era | Event | One-line summary | Factions/NPCs involved | Established in |
-|---|---|---|---|---|
-| Pre-history | The Great Fracture / Deicide | Mortals rebel against and kill their god-Creators, shattering the Sphere into the Great Disk | All mortal races | Cosmology - The Great Fracture.md |
-| Pre-Sundering era | The War of Creation / Explosion of Creation | Cosmic civil war between sympathetic gods + mortals vs. rogue gods + manufactured monster races | Origin of orcs, goblins, aberrations | Cosmology - The Celestial Graveyard and The war of Creation.md |
-| Generations ago | Founding of the Kingdom of the Whispering Coast | Settler families flee a decaying empire, crown a King, five Ducal families secure the coast | The five founding Ducal houses | History - The Broken Crown of Austhal.md |
-| Unspecified (pre-Accord) | The Civil War | Tyrannical kings push the Dukes into rebellion; merchants hire the Golden Company | Golden Company, five Ducal houses, the old Crown | History.md |
-| ~58 years ago | The Seat Falls / The Ducal Accord signed / The 99-Year Contract begins | King slain; Golden Company granted 99-yr city monopoly (roughly 41 years now remain on the term); Council of Five formed; "King" title banned | Golden Company, Council of Five, Five Dukes, Tythius De Vonce (signatory) | History.md, The Golden Company.md (pins the specific dating) |
-| Same era | Flight of the royal heirs | Several surviving royal children flee south through the Silted Marshes and **buy asylum** in the already-ancient Twelgorn Kingdom, hosted as "guests" of its sitting King. They founded nothing. | The exiled royal line; the King of Twelgorn | History.md |
-| 50 years ago | The Cataclysm / Corvus Scar | Demonic incursion breach collapses a Spine peak, burying House Corvus and poisoning the valley | House Corvus (destroyed) | Five Duchies.md, History.md |
-| Ongoing since Cataclysm | The Refugee Crisis | Displaced Corvus population forms Port Nevarellon's underclass, now formally located in The Sunken Ward (Muddy Docks + the still-undeveloped Cinder Row) | Corvus refugees | Five Duchies.md, The Sunken Ward.md |
-| ~20 years ago | Dolly Sisters found The Shades | Two sisters convert a derelict hull into the port's most secure lounge | Clara & Tessa Dolly | The Dolly Sisters.md |
-| ~20 years ago | Garrick's crippling accident | A shifting cargo cannon crushes his leg, leaving a permanent limp | Garrick the Keelhauler | Garrick the Keelhauler.md |
-| ~15 years ago | Haren unites the Wyvern Tail Pirates | Mutiny against a Twelgorn naval captain, then consolidation of independent raiders | Haren Twarde, Twelgorn Kingdom Navy | Captain Haren Twarde.md |
-| ~13 years ago | Maeve's forgery arrest & recruitment | Garrick pays her execution bounty, brings her in to professionalize the Syndicate's books | Maeve the Scribe, Garrick | Maeve the Scribe.md |
-| ~10 years ago | Marco becomes High Captain | Succeeds his mentor as the Company's senior field commander in Port Nevarellon; expands the Envoy Corps program he inherited | High Captain Marco | High Captain Marco.md |
-| 5 years ago | Silas Bane's laboratory accident | Chemical burns scar his forearms/neck; source of his chronic cough | Silas Bane | Silas Bane.md |
-| Decades ago (unspecified) | Morgran's mutation | Strikes a low-frequency God-Shard while prospecting; warps his dwarven biology | Morgran, Ubaraz Kingdom (his exile) | Morgran the Abomination.md |
-
-## Artifacts / Named Items
-
-| Name | Current location/owner | One-line summary | Mechanical rules ref | Established in |
-|---|---|---|---|---|
-| The Shard-Blade | Tythius De Vonce | Ancient heavy longsword forged from deep-rift iron | Not yet defined | Tythius De Vonce.md; dedicated file The Shard-Blade.md is empty |
-| The Wyvern-Hide Banner | Captain Haren Twarde | Relic banner from a slain god-touched apex predator; channels a "ghost" manifestation in battle | 🔧 Not yet defined — narrative already describes a specific combat effect with no stat-block support | Captain Haren Twarde.md |
-| Sun-Iron | Smuggled by the Iron-Anchor Syndicate | Unstable mineral component smuggled from the mountains to unlicensed alchemists | Not yet defined | Referenced in The Iron-Anchor Syndicate.md; dedicated file Sun-Iron.md is empty |
-| Brine-Fire | Silas Bane | Volatile alchemical gel that ignites on contact with salt water; carried as glass spheres | 🔧 Not yet defined — narrative implies a specific weapon effect | Silas Bane.md |
-| The Black Ledger | Clara & Tessa Dolly (hidden aboard The Shades) | Coded journal blackmailing High Quarter nobles tied to Iron-Anchor smuggling | Not yet defined | The Dolly Sisters.md |
-| Iron-Burl | Silted Marshes / Divtown timber trade | Dense black marsh timber immune to sea-rot; core Divtown export | Not yet defined | Silted Marshes.md, Divtown.md, The Wyvern tail Pirates.md |
-| Cindin | Common (sailors, laborers) | Sticky narcotic resin, chewed or dissolved in ale to numb pain | Not yet defined | Cindin.md |
-| Nightshade (powdered) | Tessa Dolly | Concealed poison carried in a hollow ring | Not yet defined | The Dolly Sisters.md; dedicated file Nightshade.md is empty |
-| The Brine-Glow Lanterns | Municipal (High Alchemist Guild) | Bioluminescent algae-lit street lanterns; target of Silas's monopoly plot | Not yet defined | Port Nevarellon.md; dedicated file is empty |
-| The Golden Writ (Peace-Bond) | Landed citizens only | Legal permit (5 gold sovereigns) required to carry a martial weapon | Cost defined narratively (1,000 cp) — no mechanical rules-system tie yet | Law - The Council's Edicts.md, Economy - the Price of Survival.md |
-
-## Terminology / Rules Cross-References
-
-| Term | Definition (narrative) | Rules-system definition | Where used narratively | Where defined mechanically |
-|---|---|---|---|---|
-| Domain Tag | A prayer-effect granted by invoking a Saint/Paragon | Implies a Faith-check subsystem (TN, Pass/Fail resolution) | Religion - The pagan Pantheon...md (all 7 domains) | **NOT YET DEFINED** — specific TNs and resource costs are already written into this lore doc, ahead of any rules text. Still the top rules-crunch flag in the project |
-| Momentum | Reward for passing a "Tactical Horizon" Faith check | Implied shared/party resource | Religion.md (Domain Tag: Tactical Horizon) | Not yet defined |
-| Stress / Locked Stress | Currency spent or gained during Faith checks and combat fallout | Implied core resolution resource | Religion.md, Template - Faith Spells.md, multiple character docs | Not yet defined |
-| TN (Target Number) | Difficulty threshold for a Faith check | Core resolution mechanic | Religion.md ("TN 8") | Not yet defined |
-| Wound Threshold / Wound Slot | Physical damage capacity | Core combat mechanic | Religion.md (Pure Martyrdom domain tag), Template - Enemies.md | Not yet defined |
-| Prowess / Reflex / Wits / Will | Core character stats | Core stat block | Template - Enemies.md | Not yet defined; no NPC has a filled stat block despite 20 named active NPCs |
-| Skills (Melee, Athletics, Block, etc.) | Character skill list | Core stat block | Template - Enemies.md | Not yet defined |
-| Landed / Un-Landed | Civic-legal status tied to property/deed ownership | Setting-level social mechanic, not combat/resolution | Law - The Council's Edicts.md; used consistently across Economy.md, Maccorrack.md, Garrick the Keelhauler.md | Well-integrated narratively; low risk, doesn't need a numeric tie |
-| **Landed by Commission** | A Golden Company officer's commission is treated as equivalent to a Guild Charter under the Ducal Accord, granting full Landed status without personal property | Extension of the existing Landed/Un-Landed social mechanic, not a new combat/resolution system | High Captain Marco.md, Sergeant Wren Cobb.md, First Envoy Isolde Vantry.md | No mechanical tie needed; note it's a *revocable* status for rank-and-file (lapses on discharge/desertion) |
-| **The Second Contract** | Private, individually-negotiated Envoy retainer/engagement contracts, separate from the Company's main 99-Year city Contract | Setting-level economic/legal mechanic, not combat/resolution | The Golden Company.md | Well-integrated; priced in gold sovereigns, consistent with existing currency scale |
-| **Writ of Voice** | Council-notarized document defining exactly what a negotiating Envoy may agree to on a client's behalf | Setting-level legal instrument | The Golden Company.md | No mechanical tie needed |
-| **The Court of Nullity** | Doctrine that the Zenith may rule a claim void but may never rule one valid | Setting-level legal doctrine, not combat/resolution | The Cult of the Zenith.md | **Load-bearing.** Preserves the Accord's decapitated pyramid; the reason the Corvus annexation can never be legitimised. No mechanical tie needed |
-| **The Register** | The Zenith's authoritative counter-copy archive of every lodged deed, charter, keel paper and contract | Setting-level legal/economic mechanic | The Cult of the Zenith.md | Extends the existing Landed/Un-Landed paper-legitimacy logic. Its enforcement power is *refusal to verify*, not force |
-| **The Binding Oath** | An oath sworn before an Arbiter over the Register, held to carry a real consequence for breach | Would be a resolution mechanic | The Cult of the Zenith.md | **`needs crunch`** — explicitly left undefined pending the core rules system, per the narrative-before-crunch convention |
-| **Landed by Commission (unverifiable)** | Jeerdan Darcy claims the status, but the commissioning instrument cannot be found in the Register | Edge case on the existing Landed by Commission extension | Jeerdan Darcy.md; The Cult of the Zenith.md | The collision between the two new entries: the Zenith is the only body that could confirm him, and under the Court of Nullity it structurally *cannot* — it can only void him |
+| Council of Five | Council Chamber above the Trade Plazas | Merchant oligarchy; franchise is the deed; four-of-five rule; Chair drawn by lot on First Keel | 1 | Council of Five.md | Five named seats (see NPCs). Power level `needs crunch` |
+| The Golden Company | Sovereign's Gate; Basin garrison; High Quarter and Plazas patrols | Only lawful military; ~1,200 soldiers; 99-Year Contract (41 years left); Envoy Corps (the Second Contract) | 1 | The Golden Company.md | Grunt wage (3 sp/day) out-earns a Landed artisan — plausibility flag |
+| The Civic Constabulary (Coppers / Blue-Cloak Watch) | Toll-houses, lower districts, toll-gates | ~400 corrupt, underpaid watchmen; auxiliary beneath the Company; overseen by Provost Stross | 3 | Faction - The Civic Constabulary; Port Nevarellon | Blue-Cloak contradiction **resolved 2026-09-28** |
+| The Cult of the Zenith | The Plumb Court | Domain of Law; de facto inter-jurisdictional tribunal; keeps the Register; Court of Nullity; Register of Markets | 1–2 (by accretion) | The Cult of the Zenith.md | Binding Oath `needs crunch` |
+| **The Guild of Alchemists** | Cross-border; Port Nevarellon chapter | Holds the secret of black powder; licenses powder, Brine-Glow lanterns and Brine-Fire stock; sells the Low Moons tables | Chapter: 3 · Parent: outside the Layers | Law (Powder Edict); Port Nevarellon; Coastal Reckoning; Kress; Garrick; Maeve | **NEW 2026-09-28.** File empty — to be developed |
+| The Iron-Anchor Syndicate | Black Mast Warehouse | Docks extortion and labour cartel; Old Guard vs Young Bloods | 3 | The Iron-Anchor Syndicate.md | HQ file empty |
+| The Cobalt Feather Syndicate | Alfric's manor; Rusty Tankard | Forgery and smuggling; no-blood mandate; Blue Pens; existential rival of the Zenith | 3 | The Cobalt Feather Syndicate.md | Now includes Maccorrack (muscle) |
+| The Wyvern Tail Pirates | Greywater Lagoon | Disciplined commerce raiders under Haren Twarde; prey on the Twelgorn navy | 2–3 | The Wyvern tail Pirates.md | — |
+| The Grey Water Pirates | Greywater Lagoon | "Informal coalition" of independents | — | Greywater Lagoon.md | **Overlap with Wyvern Tail unresolved.** Speaker: Captain Vesper Locke |
+| The Tidespoken Clergy | Lower piers, Sea-Wall | Sea & Storms cult; soup kitchens; free tide-tables and Low Moons warnings; want Morgran burned | 3 | Religion; Muddy Docks; Sunken Ward; Coastal Reckoning; Morgran | **No file — 7 references** |
+| Cult of the Crooked Coin | Docks, underworld | Trickery; Rook's Folly; the patron of beating rigged systems | 3 | Religion; Lidda Shoon; Wondrous Markets | Recommended as the Struck City's thieves' cult (not yet applied) |
+| House De Vonce | Duchy of De Vonce | Ruling house; iron and levies | 1 | Tythius; Five Duchies | Children unwritten |
+| House Valerius | Duchy of Valerius | Syndicate with a coronet | 1 | Five Duchies | No named members |
+| House Thorne (disowned branch) | Divtown | Kelf Thorne's fencing operation under a noble seal | 2 | Lord Kelf Thorne | — |
+| House Corvus | — | Functionally extinct | — | Five Duchies | Three Layers asks: is there a surviving claimant? Open |
+| The Scar-Holders | Corvus Scar | Unlanded squatters and farmers; can never be lawfully recognised or cleared | 2 | Five Duchies | — |
+| The Twelgorn Retrievers | Southern marsh fringes | Slave-hunters projecting Twelgorn authority; their warrants are unenforceable (identity void) | 2 | Silted Marshes; Three Layers; History | — |
 
 ---
 
-## Priority punch-list
+## 👥 NPCs
 
-### Resolved
-1. ~~The Golden Company — empty file~~ → fully built out: faction profile, force structure, rank ladder, the Envoy Corps ("Second Contract"), four named NPCs.
-2. ~~"The Shades" name collision~~ → the district-tier entry was a stale draft, retired from Port Nevarellon.md. Only the brothel carries the name now.
-3. ~~The Sunken Ward — undefined/ambiguous gap~~ → now a full District, formal parent of Muddy Docks, with Cinder Row flagged as an intentional stub for future material.
-4. ~~Two parallel canon-tracker files~~ → consolidated into this one.
-5. ~~Chalced Kingdom founding implausibility~~ → resolved by the Twelgorn retcon; an exile-founded state could not plausibly own the navy, conscription and generational slave-brands five files already attributed to it. See Retcon log.
-6. ~~Chalced wikilinks split across three inconsistent paths~~ → normalised to `000 Atlas/The Twelgorn Kingdom`.
+| Name | Affiliation | Role / one-line summary | Stat block | Established in | Status |
+|---|---|---|---|---|---|
+| Marcian Thole | Council — Harbour Seat | Human, 58; deaf shipwright; quietly drilling a 400-strong "fire crew" militia | N | Marcian Thole.md | Alive |
+| Lucia Marrenhal | Council — Writ Seat | Human, 44; keeps the Register of the Landed; going blind; 4th Unwritten Day attempt live | N | Lucia Marrenhal.md | Alive |
+| Ottavian Kress | Council — Water Seat | Halfling, 51; the Docks' man; sponsors grievances for a cut; gout, Mogwort | N | Ottavian Kress.md | Alive |
+| Verrine Sallow | Council — Contract Seat | Human, 39; victualler to the Company; seeking a legal opinion on the Twelgorn/Tuwal Ghorun question | N | Verrine Sallow.md | Alive |
+| Palla Vantry | Council — Long Seat | Elf, 214; elected at the first sitting and every year since (58 years); keeps the identity void open | N | Palla Vantry.md | Alive |
+| High Arbiter Sevrin Kalder | Cult of the Zenith | Human, 63; voice failing; drafts a founding clause his doctrine forbids | N | High Arbiter Sevrin Kalder.md | Alive |
+| Keeper Merrit Dray | Cult of the Zenith | Dwarf, 118; Keeper for 31 years; delayed one verification for eleven weeks | N | Keeper Merrit Dray.md | Alive |
+| High Captain Marco (Ferranti) | Golden Company | Human, 54; insomniac; watches the Corvus Scar and the aqueduct | N | High Captain Marco.md | Alive |
+| Provost Halvard Stross | Golden Company | 61; building a case against Captain Vance | N | Provost Halvard Stross.md | Alive |
+| First Envoy Isolde Vantry | Golden Company — Envoy Corps | 37; Sunken Ward-born, of a Corvus refugee family; distant kin to Palla | N | First Envoy Isolde Vantry.md | Alive. The kinship needs one explanatory sentence |
+| Sergeant Wren Cobb | Golden Company | 28; Docks-raised NCO; lets known faces through the tolls | N | Sergeant Wren Cobb.md | Alive |
+| Captain Elias "Half-Step" Vance | Civic Constabulary | Runs the main Muddy Docks toll-house; on Garrick's payroll | N | Faction - The Civic Constabulary; Stross | Alive; no file. The only Vance |
+| Jeerdan Darcy | Concord Road (joint) | 54; Warden of the Road; claims Landed by Commission that nobody can produce | N | Jeerdan Darcy.md | Alive |
+| Tythius De Vonce | House De Vonce | Half-elf, 86; Accord signatory; carries the Shard-Blade; won't touch the aqueduct | N | Tythius De Vonce.md | Alive |
+| Eldrick · Imaihil · Sheandri De Vonce; Ellenst Rulieone (née De Vonce) | House De Vonce | Heir · scholarly second son · resisting a Stonereach match · married "into a powerful noble house in the south" | N | Tythius De Vonce; Three Layers | **No files.** "The south" beyond the marshes is Twelgorn — intentional? |
+| Garrick "the Keelhauler" **Rudd** | Iron-Anchor Syndicate | 56; Grandmaster; Guild-licensed flintlock; rival deed to The Shades | N | Garrick the Keelhauler.md | Alive |
+| Maeve "the Scribe" **Dunn** | Iron-Anchor Syndicate | 31; chief accountant; derringer gifted by Garrick; secret pact with Clara Dolly | N | Maeve the Scribe.md | Alive |
+| Silas Bane | Iron-Anchor (Young Bloods) | 29; enforcer captain plotting a coup; Brine-Fire | N | Silas Bane.md | Alive |
+| Clara Dolly · Tessa Dolly | The Shades | 42 · 38; business mind with the Black Ledger · information broker with nightshade | N | The Dolly Sisters.md | Alive |
+| Bruiser Ben | The Shades | Silent doorman | N | The Shades; Dolly Sisters | Alive; file exists but empty |
+| Alfric Danniken | Cobalt Feather | Founder; "the Falconer"; purchased minor title | N | Alfric Danniken.md | Alive. Who sold him the title, post-Accord? |
+| Kaleb | Cobalt Feather | Human, 51, **she/her**; runs the Rusty Tankard dead-drop | N | Kaleb.md | Alive |
+| Qasim Al Goor | Cobalt Feather | Skipper of *The Curzon*; Register C (Twelgorn-born per Name Tables) | N | Qasim Al Goor.md | Alive |
+| Lidda Shoon | Cobalt Feather | Halfling fence; Crooked Coin devotee | N | Lidda Shoon.md | Alive |
+| Maccorrack | **Cobalt Feather** (muscle) | Half-orc stevedore; escaped Twelgorn slave; Mogwort dependency | N | Maccorrack.md | Alive |
+| Captain Haren Twarde | Wyvern Tail Pirates | Human, 38; ex-Twelgorn navigator; Wyvern-Hide Banner | N | Captain Haren Twarde.md | Alive |
+| Captain Vesper "Red-Wake" Locke | Grey Water Pirates | Captain of the *Carrion Crow*; speaker for the pirate crews | N | Greywater Lagoon | Alive; **not previously tracked**; no file |
+| Lord Kelf Thorne | Divtown | 45; self-styled Baron of the Silted Marshes | N | Lord Kelf Thorne.md | Alive |
+| **Tahra Beyr** | Divtown | 34; timber forewoman, "the Iron-Knot"; escaped Twelgorn slave; the real power in Divtown | N | Tahra Beyr.md | Alive |
+| Morgran "Fin" Deep-Draught | Independent — Fenmouth | Dwarf, 112; marsh-guide; hag-made for love of a fey; the stilt-villages still call him Fin | N | Morgran the Abomination.md | Alive. Filename vs header name still differ |
+| Master Cartographer Vaelen | — | Quoted scholar-cartographer mapping a world with no solar bearings | — | Epigraphs; Coastal Reckoning | Quote-only |
+| Archmage Vane | — | Quoted in Cosmology | — | Celestial Graveyard | Quote-only |
+| Captain Tessa (Leviathan Hunter) | Oakhaven fleets | Quoted in The Inner Sea | — | The Inner Sea | Quote-only. **Name collision with Tessa Dolly** |
+| Suse Kellard · Nell Stroud | Foundry Slips · Muddy Docks | Rope-walk foreman · cookshop widow (epigraph voices) | — | Thole; Kress; Name Tables | Allocated from Name Tables |
+
+---
+
+## ✨ Deities, Paragons & Cosmic Entities
+
+| Name | Domain / nature | One-line summary | Worshipped by | Established in |
+|---|---|---|---|---|
+| Saint Senecus the Unyielding | Strategy — Iron Horizon | Held a doomed pass; duty over survival | Officers (Maxim Night); Kalder's parents | Religion |
+| Rook's Folly (the Grinning Prophet) | Trickery — Crooked Coin | Counterfeited the old empire's treasury into bankruptcy | Lidda; the underworld | Religion |
+| Aurelius the Architect | Law — the Zenith | Unifier-warlord; *Meditations on Law* | High Quarter; the Zenith | Religion; The Cult of the Zenith |
+| Vael the Mute | Death — Ashen Veil | Death as mercy | Pauper's Procession | Religion |
+| Kaelen the Survivor | Winter & Wilds — Rime-Fang | Winter-drake hunter | Pilgrim's Notch (Name Tables) | Religion |
+| Mother Elara of the Mud | Mercy — Weeping Martyr | Absorbed the plague-dying's rot | Elara's Walk | Religion |
+| Thalass's Omen | Sea & Storms — Tidespoken | The rogue wave that sank the old king's armada | The Tidespoken Clergy | Religion |
+| The Sun | Corpse of a primary Creator | Ceases to exist at night and returns somewhere else; no solar bearings | — | Celestial Graveyard; Coastal Reckoning |
+| The Pale Sister (Nyssaria) · The Drowned Lamp (Ossuel) · The Slow Wound (Cassivar) | Moon-corpses; 28 / 40 / 105-day cycles; **their own glow** | Set the calendar, the tides and the Low Moons respectively; winter is their weight | — | Coastal Reckoning |
+| **The Slack-Born (fey)** | God-essence that quickened in still water | Not a mortal race; beautiful, unhurried, indifferent | — | Great Fracture (**NEW**) |
+| **Hags** | Humanoid fey | Rooted, long-lived; trade in change — work Undertow-touched shards into flesh | — | Great Fracture; Morgran (**NEW**). `needs crunch` |
+
+---
+
+## 🕰️ Timeline (A.A. = After Accord; present = 58 A.A.)
+
+| Date | Event | One-line summary | Involved | Established in |
+|---|---|---|---|---|
+| Pre-history | The Great Fracture / Deicide | Mortals kill the Creators; the Sphere breaks into the Disk and the Tideways | All | Great Fracture |
+| Pre-Sundering | The War of Creation | "Alliance" vs "Weaponizers"; monstrous races made as weapons | — | Celestial Graveyard |
+| Centuries before settlement | Twelgorn (Tuwal Ghorun) established | Already ancient when the coast was settled | Twelgorn | History |
+| A few centuries ago | Settlement of the Whispering Coast | Settlers flee a decaying empire elsewhere on Austhal; a King and five Dukes | Five houses | History; Coastal Reckoning |
+| Pre-Accord | Spine Aqueduct built | Built when the coast was one realm | The Crown | Three Layers |
+| Civil War | Marten's Cross | Commons crucify a self-proclaimed king — the King-Ban predates the Accord | Marten | Name Tables |
+| −20 A.A. | Dray arrives at the coast | Takes a Copyist's bench at 40 | Merrit Dray | Keeper Merrit Dray |
+| 0 A.A. | The Seat Falls / Ducal Accord / 99-Year Contract | King slain; Council formed (Palla elected at the first sitting); "King" banned | Golden Company, Council, Dukes, Tythius | History; Coastal Reckoning |
+| 0 A.A. | Flight of the heirs | Royal children buy asylum in Twelgorn | Exiled line | History |
+| **~8 A.A. (derived)** | The Corvus Cataclysm | Breach into the Undertow; Corvus Spire buried; the Ash-Blight | House Corvus | Five Duchies; Coastal Reckoning — **confirm** |
+| 27 A.A. | Dray becomes Keeper of the Register | Holds the vault for the next 31 years | Dray | Keeper Merrit Dray |
+| 31 A.A. | Last serious challenge to Palla's seat | — | Palla | Palla Vantry |
+| ~38 A.A. | The Shades founded; Garrick's leg crushed | Dolly Sisters convert a grounded carrack | Dolly Sisters; Garrick | Dolly Sisters; Garrick |
+| ~39 A.A. | Kress enfranchised; Jeerdan becomes Warden | — | Kress; Jeerdan | Ottavian Kress; Jeerdan Darcy |
+| ~43 A.A. | Haren unites the Wyvern Tail; last Opening-season Low Moons | — | Haren | Haren; Coastal Reckoning |
+| ~45 A.A. | Maeve recruited by Garrick | — | Maeve, Garrick | Maeve the Scribe |
+| ~47 A.A. | Marrenhal's first Unwritten Day attempt | Three have failed since | Marrenhal | Marrenhal; Coastal Reckoning |
+| ~48 A.A. | Marco becomes High Captain | — | Marco | High Captain Marco |
+| ~49 A.A. | Sallow buys her deed | — | Sallow | Verrine Sallow |
+| ~53 A.A. | Silas's laboratory accident | — | Silas | Silas Bane |
+| Undated | The Fourth struck from the count | Predates Kalder's tenure | The Zenith | Wondrous Markets; Kalder |
+| Undated ("decades ago") | Morgran's change | Hag works an Undertow-touched shard into him; his fey lover rejects him | Morgran | Morgran |
+| **58 A.A.** | **Present** | 41 rings left on the Contract Bell; Marrenhal's 4th attempt before the chamber | — | Coastal Reckoning |
+| **~59 A.A. (derived)** | Next possible Opening-season Low Moons | The longest gap between Opening-season Low Moons is ~16 years after 43 A.A. | Everyone | Derived from Coastal Reckoning — **confirm intended** |
+
+---
+
+## 🗡️ Artifacts, Materials & Controlled Goods
+
+| Name | Location / owner | One-line summary | Mechanical ref | Established in |
+|---|---|---|---|---|
+| The Shard-Blade | Tythius De Vonce | Longsword of deep-rift iron | `needs crunch` | Tythius; file empty |
+| The Wyvern-Hide Banner | Haren Twarde | Pulls an Undertow-deep "ghost" of the beast into the fight | `needs crunch` — narrative specifies an effect | Captain Haren Twarde |
+| Brine-Fire | Silas Bane; Guild stock | Gel that ignites on contact with salt water; unstable in the Low Moons | `needs crunch` | Silas Bane; Coastal Reckoning |
+| **Black powder / firearms** | Guild of Alchemists (licensed); Garrick; Maeve | Controlled substance; firearms only for the very wealthy or very important | `needs crunch` — flag for the rules side | Law (Powder Edict); Garrick; Maeve; Kress |
+| High-Steel | Company, nobles, sanctioned guild-masters | Refined steel monopoly; commoners' iron shatters on it | — | Law |
+| The Golden Writ (Peace-Bond) | Landed citizens | 5 gs (1,000 cp) licence to carry a martial weapon; wire and wax on the guard (on pistols: the trigger-guard) | — | Law; Economy |
+| The Black Ledger | Dolly Sisters | Coded blackmail journal on High Quarter smuggling patrons | — | The Dolly Sisters |
+| The Register | The Plumb Court | Counter-copy of every deed, charter and keel paper; power by refusal to verify | — | The Cult of the Zenith |
+| The Keeper's key | Merrit Dray | The only key to the vault | — | Keeper Merrit Dray |
+| *Meditations on Law* | The Zenith (oldest recension unlent) | Aurelius's text; Kalder's annotated copy | — | The Cult of the Zenith; Kalder |
+| The Contract Bell | Port Nevarellon | Rung once per remaining year of the Contract; 41 left | — | Coastal Reckoning; Name Tables |
+| Undertow-touched god-shards | Deep trenches, marsh beds | Unanchored god-essence; smuggled by the Cobalt Feather; mutagenic in a hag's hands | — | Great Fracture; Cobalt Feather; Morgran |
+| Iron-Burl | Silted Marshes | Black marsh timber immune to sea-rot | — | Silted Marshes; Divtown |
+| **Mogwort** (formerly Cindin) | Sailors, labourers | Sticky narcotic resin, chewed or dissolved in ale | — | Mogwort.md; Economy; Kress; Maccorrack |
+| Nightshade (powdered) | Tessa Dolly | Poison in a hollow ring | — | Dolly Sisters; file empty |
+| Sun-Iron | Iron-Anchor smuggling | Unstable mineral for unlicensed alchemists | — | Iron-Anchor; file empty |
+| The Brine-Glow Lanterns | Guild of Alchemists (PN chapter) | Bioluminescent-algae street lighting; target of Silas's plot | — | Port Nevarellon; file empty |
+
+---
+
+## 📖 Terminology
+
+| Term | Narrative definition | Where used | Rules status |
+|---|---|---|---|
+| The Tideways | Layered cosmos: High Reach / Slack Water / Undertow | Great Fracture | — |
+| **The Undertow / Undertow-touched** | Lowest layer / adjective for taint and property. **"Frequency" is retired** | Throughout | — |
+| Slack-Born | Fey; god-essence that quickened in still water | Great Fracture; Morgran | `needs crunch` (stat blocks) |
+| Landed / Un-Landed | Legal personhood by deed, charter or deep-water keel | Law; Council; throughout | Social mechanic — no crunch needed |
+| Landed by Commission | A Company commission counts as a charter; lapses on discharge | Golden Company; Marco; Cobb; Isolde; Jeerdan (unverifiable) | — |
+| The Second Contract / Writ of Voice | Envoy retainers / an Envoy's negotiating limits | The Golden Company | — |
+| Court of Nullity | Void, never validate | The Cult of the Zenith | **Load-bearing** |
+| Register of Markets / the Count of Three | "Three" = how many markets the Keepers still verify | Zenith; Wondrous Markets | — |
+| Binding Oath | Oath over the Register with real consequence | The Cult of the Zenith | `needs crunch` |
+| Four-of-five rule / Instrument of the Whole | Any two councillors block anything that matters | Council of Five | — |
+| Identity void | Tuwal Ghorun instruments match nothing on the coast | History; Palla; Sallow; Marrenhal | — |
+| A.A. / turns / the Unwritten Day | Dating after the Accord; 13 × 28-day turns + one day outside the year | Coastal Reckoning | — |
+| The Low Moons | All three moons low every 840 days, for 9–12 nights; they "walk the year" | Coastal Reckoning; Celestial Graveyard | `needs crunch` (hazards) |
+| Winter Moons / the Opening / High Turns / Draw-Down | The four seasons | Coastal Reckoning | — |
+| Lastwater · Toll Amnesty · First Keel · Contract Bell | Water-price day · the Unwritten Day's unavoidable "mercy" · spring opener · countdown | Coastal Reckoning; Name Tables | — |
+| The Powder Edict | Fifth Edict of Armament; powder licensed by the Guild | Law | Flag for the rules side |
+| King-Ban | No "King"; applies to place names too | History; Name Tables | — |
+| Latinise | Climbing families Latinise their names (Cobb → Cobbius) | Name Tables; Sallow; Kress | — |
+| Settlement Tier T0–T3 | Tier measures services, not headcount | Name Tables | **Explicitly "mechanical" — flag for the rules side** |
+
+---
+
+## 📋 Priority punch-list
+
+### Resolved 2026-09-28
+Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchies wikilink targets · Corvus Spire misroute · Whispering Coast hierarchy · Blue-Cloak contradiction · Council members · Religion Domain Tags (removed from the live doc) · Vance collision · Telorna's register · "frequency" terminology · Spine Aqueduct follow-through · the Morgran geography problem · Palla's tenure · Unwritten Day count · the moonlight contradiction · Dray's arithmetic · Sallow's tonnage · the Rusty Tankard vagrancy/policing seam · the Shades deed conflict (now deliberate) · _Home hub.
 
 ### Still open, in priority order
-1. **The Twelgorn Kingdom** — still no file at all; the single highest-priority remaining gap. Now confirmed as **12** referencing documents (previously recorded as 5), including two region docs, the Golden Company's stated vulnerabilities, and three NPC backstories.
-1a. **Stale "Chalced Question" reference in The Golden Company.md** — the one reference the retcon pass could not reach (file mount returned zero bytes). Needs a manual rename and repoint. See Retcon log.
-2. **Two new NPC stubs owed (NEW)** — High Arbiter Sevrin Kalder and Keeper Merrit Dray are named and given roles in The Cult of the Zenith.md but have no dedicated files. Lower priority than Twelgorn; higher than the ducal seats, since both are active speaking-role NPCs.
-2b. ~~**Layer 2 road-warden vacancy**~~ → **FILLED 2026-08-17** by Jeerdan Darcy, per the Framework recommendation (single named warden with deliberately ambiguous appointing authority). Layer 2 now has three confirmed inhabitants: Kelf Thorne, Telorna Belaar, Jeerdan Darcy.
-3. **Five ducal seats confirmed but fileless** — the naming question is resolved (see Merge finding #1), but **none of Castle Iron-Spire, Millhaven, Saltmere, Granite Spire or Corvus Spire has a dedicated file.** Castle Iron-Spire is a confirmed empty stub and is now the most-referenced empty file in the vault.
-2a. **Vault file-integrity audit (NEW — see File integrity below)** — 12 zero-byte files, at least one of which is a mount/index desync rather than a genuine stub, plus two stale wikilink targets for the Five Duchies document. Should be cleared before the next editing pass.
-3. **Whispering Coast / Five Duchies hierarchy conflict** — Austhal.md vs. Whispering Coast.md still disagree on which contains which.
-4. **Religion.md's Domain Tags** — still the top instance of rules crunch written into a lore doc ahead of any actual rules text.
-5. **Kaleb pronoun conflict** — Kaleb.md (he/him) vs. The Rusty Tankard.md ("she") — quick fix, still open.
-6. **Filename/in-text naming mismatches** — Morgran the Abomination.md vs. "Deep-Draught"; The Cobalt Syndicate.md vs. "Cobalt Feather Syndicate"; Greywater Lagoon.md vs. "Grey Water" — none are lore problems, but will eventually cause broken links.
-7. **Captain/Sergeant Vance rank inconsistency** — Faction - The Civic Constabulary.md's epigraph calls him "Sergeant Vance, Dock-Watch"; the body text calls him "Captain Elias 'Half-Step' Vance." Possibly two different people, possibly a drift — needs a decision.
-8. **Grey Water Pirates vs. Wyvern Tail Pirates** — still unclear whether these are the same group under two names, or a general population vs. an elite fleet within it.
-9. **Cinder Row** — intentional stub; needs real development whenever the Sunken Ward becomes central to actual play.
+1. **The Twelgorn Kingdom (Tuwal Ghorun)** — no file; 10 references.
+2. **The Tidespoken Clergy** — no file; 7 references.
+3. **The Guild of Alchemists** — empty file; cross-border scope, powder secret, chapter structure to define.
+4. **Confirm the derived dates:** Corvus at ~8 A.A.; the next Opening-season Low Moons at ~59 A.A. The second is either a ready-made campaign clock or needs moving.
+5. **The De Vonce children.** Ellenst "married south" implies Twelgorn nobility — decide whether that's a hook.
+6. **The ducal seats have no files**; Castle Iron-Spire is empty.
+7. **The Golden Company Charter-House** in the volcano market still needs writing into The Golden Company.md.
+8. **Grey Water Pirates vs Wyvern Tail**, and Captain Vesper Locke.
+9. **Regional map / compass.** Ubaraz east vs north-east; Kald Territory unplaced; Aerthos "eastern" while the sea is east.
+10. **The Wondrous Markets are still draft:** date of the Fourth, its link to Corvus, and the provisional names.
+11. **Plausibility:** the Golden Company grunt wage (3 sp) vs a Landed artisan (1–3 sp).
+12. **Small hooks needing a sentence each:**
+    - Palla ↔ Isolde Vantry kinship
+    - who sold Alfric his title
+    - whether a Corvus claimant survives
+13. **Name collisions:** Captain Tessa (hunter) vs Tessa Dolly. The V-cluster (Vane, Vance, Vantry, Valerius, Vesper, Vael/Vaelen) is only partly by design.
+14. **Tone:** the older underworld docs (Silas, Iron-Anchor, Wyvern Tail) lack motes. Hearing and sight loss now marks eight characters.
+15. **Tier tags:** `#location/neighborhood` for the Muddy Docks and Cinder Row.
+16. **Cinder Row** — intentional stub; develop when the Sunken Ward goes live in play.
+
+### Rules-side flags (not carried over — for the Iron & Marrow ruleset)
+- Binding Oath
+- Low Moons hazards
+- Wyvern-Hide Banner
+- Brine-Fire
+- Firearms and powder; whether Company officers carry guns
+- Fey and hag stat blocks
+- Settlement Tiers
+- Faction power levels (every faction is currently "not defined")
+
+---
+
+## 🧪 File integrity (2026-09-28)
+- **Empty files:**
+  - Locations: Castle Iron-Spire · The Great Expanse (duplicate — delete) · Wastelands · Untitled (identify or delete) · The Drowned Rat Tavern · The Black Mast Warehouse
+  - Factions: The Guild of Alchemists
+  - Items: Nightshade · Sun-Iron · The Brine-Glow Lanterns · The Shard-Blade
+  - Cast: Bruiser Ben
+- **Unfilled templates:** The Jagged Spine · The Kald Mountain Territory · Ubaraz Kingdom · The High Quarter · The Trade Plazas · The Foundry Slips · Valerius Family. Austhal and Whispering Coast are partial.
+- **Wanted links (notes not yet written):** The Twelgorn Kingdom · The Tidespoken Clergy · Eldrick / Imaihil / Sheandri De Vonce · Ellenst Rulieone · Oakhaven Cove · The Shield Atolls · The Broken Spires · Captain Vesper Locke · The Low-Tide Market · Slipway Seven · The Brine-Glow Depot · The Rusty Anchor Foundry.
+- **Obsolete copies to archive:**
+  - Inside the vault: `drafts/draft_iron-and-marrow-canon-tracker*.md` and `drafts/iron-and-marrow-canon-tracker.md`, plus the `Batch * review - diff.md` files.
+  - Outside the vault: the root `.txt` snapshots.
+- `Master Lore.md` transcludes several empty stubs — harmless, but it renders mostly blank.
 
 ---
 
 ## How to use this
-
-- **Before adding anything new**: search this file for the name/concept. If it's close to something existing, extend the existing entry instead of creating a new one.
-- **When adding something new**: fill in every column, including "Established in" (which document/session introduced it) — this is what lets future contradictions get traced back to a source.
-- **When a stat block or mechanical rule changes**: check the Terminology and Artifacts tables for narrative content that referenced the old version, and flag it for review.
-- **Tone check**: new entries should read as high fantasy realism with grimdark stakes and small motes of hope — not generic fantasy sheen, not unrelenting bleakness.
+- **Before adding anything new:** search this file. If it's close to something existing, extend that entry instead.
+- **When adding something new:** fill every column, including "Established in", and give it a Layer and the five fields.
+- **When a rules-side mechanic changes:** check the Artifacts and Terminology `needs crunch` rows for narrative that referenced the old version.
+- **Tone check:** high fantasy realism, grimdark stakes, small motes of hope — not fantasy sheen, not unrelenting bleakness.
