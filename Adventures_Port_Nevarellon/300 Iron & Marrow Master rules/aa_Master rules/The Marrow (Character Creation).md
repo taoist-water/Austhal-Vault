@@ -490,9 +490,11 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 ## Tier 2 Tactical Momentum
 
+> **Every feat in this Tier additionally requires any one Tier 1 feat** you already hold, on top of the Skill and Attribute prerequisites listed on each entry. It is restated on every line so it can't be missed mid-list. See Advancement §4.
+
 **Architect of Ruin**
 
-* Prerequisites: Wits 2, Thievery 2
+* Prerequisites: Wits 2, Thievery 2 — plus **any one Tier 1 feat**.
 
 >You see the fatal flaw in every design.
 
@@ -500,7 +502,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Combat Scholar**
 
-* Prerequisites: Reflex 1, Arcana 2
+* Prerequisites: Reflex 1, Arcana 2 — plus **any one Tier 1 feat**.
 
 >You are used to the chaos of the battlefield.
 
@@ -508,7 +510,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Fevered Channelling**
 
-* Prerequisites: Desperate Edge (feat), Will 2, Arcana 2 or Faith 2
+* Prerequisites: Desperate Edge (feat — a Tier 1 feat, so it satisfies the Tier 1 requirement on its own), Will 2, Arcana 2 or Faith 2
 
 >The magic wants out. Let it burn through you.
 
@@ -516,7 +518,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Giant Feller**
 
-* Prerequisites: Brawn 2, Acrobatics 2, or Prowess 2
+* Prerequisites: Brawn 2, Acrobatics 2, or Prowess 2 — plus **any one Tier 1 feat**.
 
 >Physics and leverage apply to monsters, too.
 
@@ -524,7 +526,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Iron Conviction**
 
-* Prerequisites: Will 2, Resolve 2
+* Prerequisites: Will 2, Resolve 2 — plus **any one Tier 1 feat**.
 
 >Your sheer grit is terrifying.
 
@@ -532,7 +534,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Juggernaut**
 
-* Prerequisites: Brawn 2
+* Prerequisites: Brawn 2 — plus **any one Tier 1 feat**.
 
 >Meat and bone, hardened against kinetic shock.
 
@@ -540,7 +542,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Lateral Assessment**
 
-* Prerequisites: Wits 2
+* Prerequisites: Wits 2 — plus **any one Tier 1 feat**.
 
 >Spiral out and over-analyze the chaos of the battlefield.
 
@@ -548,7 +550,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Midnight Oil**
 
-* Prerequisites: Wits 2, Crafting 2 or Arcana 2
+* Prerequisites: Wits 2, Crafting 2 or Arcana 2 — plus **any one Tier 1 feat**.
 
 >Sleep is a luxury you cannot afford right now.
 
@@ -556,7 +558,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Path of Least Resistance**
 
-* Prerequisites: Desperate Edge (feat), Wits 2, Survival 2
+* Prerequisites: Desperate Edge (feat — a Tier 1 feat, so it satisfies the Tier 1 requirement on its own), Wits 2, Survival 2
 
 >You see the safe steps where others only see the hazard.
 
@@ -564,7 +566,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Psychological Fracture**
 
-* Prerequisites: Will 2, Influence 2
+* Prerequisites: Will 2, Influence 2 — plus **any one Tier 1 feat**.
 
 >You don't just win an argument; you dismantle their confidence.
 
@@ -574,7 +576,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Relentless Momentum**
 
-* Prerequisites: Brawn 2
+* Prerequisites: Brawn 2 — plus **any one Tier 1 feat**.
 
 >Forward progression is the only way out of the meat-grinder.
 
@@ -582,7 +584,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Riposte**
 
-* Prerequisites: Melee 2
+* Prerequisites: Melee 2 — plus **any one Tier 1 feat**.
 
 >You are a master of punishing overextension.
 
@@ -590,7 +592,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Silver-Tongued Viper**
 
-* Prerequisites: Wits 2, Influence 2
+* Prerequisites: Wits 2, Influence 2 — plus **any one Tier 1 feat**.
 
 >You can talk a zealot out of their faith.
 
@@ -598,7 +600,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Smuggler’s Pockets**
 
-* Prerequisites: Reflex 2, Thievery 2
+* Prerequisites: Reflex 2, Thievery 2 — plus **any one Tier 1 feat**.
 
 >They only find what you want them to find.
 
@@ -606,7 +608,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Surgical Cruelty**
 
-* Prerequisites: Wits 2, Medicine 1
+* Prerequisites: Wits 2, Medicine 1 — plus **any one Tier 1 feat**.
 
 >You know exactly where the nerves cluster.
 
@@ -614,7 +616,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Sweep**
 
-* Prerequisites: Brawn 1, Reflex 1, Melee 1
+* Prerequisites: Brawn 1, Reflex 1, Melee 1 — plus **any one Tier 1 feat**.
 
 >One wide, brutal arc of butchery.
 
@@ -622,7 +624,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Chain**
 
-* Prerequisites: Reflex 2, Melee 2 or Ranged 2
+* Prerequisites: Reflex 2, Melee 2 or Ranged 2 — plus **any one Tier 1 feat**.
 
 >Violence, properly applied, is perpetual motion.
 
@@ -630,7 +632,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Grudge**
 
-* Prerequisites: Will 2
+* Prerequisites: Will 2 — plus **any one Tier 1 feat**.
 
 >Wear your scars as a weapon.
 
@@ -638,7 +640,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Scoundrel**
 
-* Prerequisites: Reflex 1, Wits 1
+* Prerequisites: Reflex 1, Wits 1 — plus **any one Tier 1 feat**.
 
 >You don't fight fair; you throw sand, strike groins, and exploit blind spots.
 
@@ -646,7 +648,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Vanguard / Shield Brother**
 
-* Prerequisites: Brawn 2, Melee 2, Block 1
+* Prerequisites: Brawn 2, Melee 2, Block 1 — plus **any one Tier 1 feat**.
 
 >You anchor the line so others can breathe.
 
@@ -654,7 +656,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Void Weaver**
 
-* Prerequisites: Reflex 1, Arcana 2
+* Prerequisites: Reflex 1, Arcana 2 — plus **any one Tier 1 feat**.
 
 >You can reach out and unravel the magic of others.
 
@@ -662,7 +664,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Zeal**
 
-* Prerequisites: Brawn 1, Faith 2
+* Prerequisites: Brawn 1, Faith 2 — plus **any one Tier 1 feat**.
 
 >The holy spirit renders your flesh numb.
 
@@ -670,9 +672,11 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 ## Tier 3 The Void
 
+> **Every feat in this Tier additionally requires either its Archetype's Tier 2 feat, or any two Tier 2 feats** — on top of the Skill and Attribute prerequisites listed on each entry. Feats belonging to an Archetype name their own Tier 2 feat as the cheaper route; feats outside any Archetype simply need two. See Advancement §4.
+
 **Apex Survivor**
 
-* Prerequisites: Brawn 3 or Wits 3, Survival 3
+* Prerequisites: Brawn 3 or Wits 3, Survival 3 — plus **any two Tier 2 feats**.
 
 >The wild cannot kill you.
 
@@ -680,7 +684,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Weapon Master**
 
-* Prerequisites: Melee 3
+* Prerequisites: Melee 3 — plus **any two Tier 2 feats**.
 
 >Perfect edge alignment and flawless footwork.
 
@@ -688,7 +692,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Break Morale**
 
-* Prerequisites: Influence 3
+* Prerequisites: Influence 3 — plus **any two Tier 2 feats**.
 
 >A brutal execution is the purest form of rhetoric.
 
@@ -696,7 +700,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Defiance**
 
-* Prerequisites: Resolve 3
+* Prerequisites: Resolve 3 — plus **any two Tier 2 feats**.
 
 >You refuse to die quietly on their terms.
 
@@ -704,7 +708,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Embrace the Void**
 
-* Prerequisites: Desperate Edge (feat), Will 3, Brawn 2 or Reflex 2
+* Prerequisites: Desperate Edge (feat), Will 3, Brawn 2 or Reflex 2 — plus **any two Tier 2 feats**.
 
 >Birth, suffering, and a rusty blade.
 
@@ -720,7 +724,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Ghost in the Machine**
 
-* Prerequisites: Reflex 3, Thievery 3
+* Prerequisites: Reflex 3, Thievery 3 — plus **any two Tier 2 feats**.
 
 >Mechanisms simply cease to acknowledge your presence.
 
@@ -728,7 +732,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Ingrained Arcana**
 
-* Prerequisites: Wits 3, Arcana 3
+* Prerequisites: Wits 3, Arcana 3 — plus **any two Tier 2 feats**.
 
 >You have burned the formula into your very marrow.
 
@@ -736,7 +740,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Macabre Genius**
 
-* Prerequisites: Wits 3, Crafting 3
+* Prerequisites: Wits 3, Crafting 3 — plus **any two Tier 2 feats**.
 
 >You can build a masterpiece out of absolute garbage.
 
@@ -744,7 +748,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Marrow-Forged**
 
-* Prerequisites: Will 3, Brawn 3
+* Prerequisites: Will 3, Brawn 3 — plus **any two Tier 2 feats**.
 
 >You are a patchwork of scar tissue and stubborn grit.
 
@@ -752,7 +756,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Overchannel**
 
-* Prerequisites: Arcana 3
+* Prerequisites: Arcana 3 — plus **any two Tier 2 feats**.
 
 >You rip the fabric of the world apart, taking yourself with it.
 
@@ -768,7 +772,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Reaper’s Engine**
 
-* Prerequisites: Brawn 3, Melee 3
+* Prerequisites: Brawn 3, Melee 3 — plus **any two Tier 2 feats**.
 
 >Death begets life. Blood washes the slate clean.
 
@@ -776,7 +780,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Sabotage**
 
-* Prerequisites: Thievery 3
+* Prerequisites: Thievery 3 — plus **any two Tier 2 feats**.
 
 >You dismantle their hope right along with their steel.
 
@@ -784,7 +788,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Shatter the Ego**
 
-* Prerequisites: Will 3, Influence 3
+* Prerequisites: Will 3, Influence 3 — plus **any two Tier 2 feats**.
 
 >You strip away their identity until only obedience remains.
 
@@ -800,7 +804,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Transgressive Asymmetry**
 
-* Prerequisites: Desperate Edge (feat), Wits 3 or Reflex 3
+* Prerequisites: Desperate Edge (feat), Wits 3 or Reflex 3 — plus **any two Tier 2 feats**.
 
 >Cynicism applied to giant monsters.
 
@@ -808,7 +812,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Vital Strike**
 
-* Prerequisites: Melee 3
+* Prerequisites: Melee 3 — plus **any two Tier 2 feats**.
 
 >You see the map of their arteries; nothing matters when the blood stops flowing.
 
@@ -817,11 +821,13 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Arcanist (Wizard Archetype)**
 
+*Suggested path: **Arcane Awakening** or **Scholarly Resonance** (Tier 1) → **Euclidean Nightmare** (Tier 2) → **The Engine of Ruin** (Tier 3). A signpost, not a requirement — any two Tier 2 feats also open The Engine of Ruin. See Advancement §4.*
+
 >Focused on esoteric geometries, pushing the mind to the breaking point, and treating magic as a volatile engine.
 
 **Euclidean Nightmare (Tier 2)**
 
-* Prerequisites: Wits 2, Arcana 2
+* Prerequisites: Wits 2, Arcana 2 — plus **any one Tier 1 feat**.
 
 >The geometry of your mind bleeds into reality.
 
@@ -829,7 +835,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Engine of Ruin (Tier 3)**
 
-* Prerequisites: Wits 3, Arcana 3
+* Prerequisites: Wits 3, Arcana 3 — plus **Euclidean Nightmare** (this Archetype's Tier 2 feat), *or* any two Tier 2 feats.
 
 >Destruction is just energy seeking its natural resting state.
 
@@ -837,11 +843,13 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Berserker (Barbarian Archetype)**
 
+*Suggested path: **Desperate Edge** (Tier 1) → **The Red Mist** (Tier 2) → **Apex Butcher** (Tier 3). A signpost, not a requirement — any two Tier 2 feats also open Apex Butcher. See Advancement §4.*
+
 >Focused on leveraging sheer trauma, terrifying resilience, and turning bodily punishment directly into kinetic output.
 
 **The Red Mist (Tier 2)**
 
-* Prerequisites: Brawn 2, Resolve 2
+* Prerequisites: Brawn 2, Resolve 2 — plus **any one Tier 1 feat**.
 
 >Pain is just a targeting mechanism.
 
@@ -849,7 +857,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Apex Butcher (Tier 3)**
 
-* Prerequisites: Brawn 3, Athletics 3
+* Prerequisites: Brawn 3, Athletics 3 — plus **The Red Mist** (this Archetype's Tier 2 feat), *or* any two Tier 2 feats.
 
 >You are a walking abattoir; your survival demands their collapse.
 
@@ -857,11 +865,13 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Biomancer (Druid Archetype)**
 
+*Suggested path: **Scavenger's Eye** or **Calloused Lungs** (Tier 1) → **Parasitic Symbiosis** (Tier 2) → **Apex Chimera** (Tier 3). A signpost, not a requirement — any two Tier 2 feats also open Apex Chimera. See Advancement §4.*
+
 >Focused on survival horror, weaponized flora, and treating biology as a malleable, expendable resource.
 
 **Parasitic Symbiosis (Tier 2)**
 
-* Prerequisites: Wits 2, Survival 2
+* Prerequisites: Wits 2, Survival 2 — plus **any one Tier 1 feat**.
 
 >Nature reclaims everything, starting with their bloodstream.
 
@@ -869,7 +879,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Apex Chimera (Tier 3)**
 
-* Prerequisites: Brawn 2, Survival 3
+* Prerequisites: Brawn 2, Survival 3 — plus **Parasitic Symbiosis** (this Archetype's Tier 2 feat), *or* any two Tier 2 feats.
 
 >You forcefully rewrite your own anatomy to survive.
 
@@ -877,11 +887,13 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Bravo (Duelist Archetype)**
 
+*Suggested path: **Iron Grip** (Tier 1) → **The Insulting Deflection** (Tier 2) → **Death of a Thousand Cuts** (Tier 3). A signpost, not a requirement — any two Tier 2 feats also open Death of a Thousand Cuts. See Advancement §4.*
+
 >Focused on surgical precision, arrogant mobility, and completely dismantling an enemy's Momentum economy.
 
 **The Insulting Deflection (Tier 2)**
 
-* Prerequisites: Reflex 2, Melee 2
+* Prerequisites: Reflex 2, Melee 2 — plus **any one Tier 1 feat**.
 
 >Their greatest strike is just an opening for your blade.
 
@@ -889,7 +901,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Death of a Thousand Cuts (Tier 3)**
 
-* Prerequisites: Reflex 3, Melee 3
+* Prerequisites: Reflex 3, Melee 3 — plus **The Insulting Deflection** (this Archetype's Tier 2 feat), *or* any two Tier 2 feats.
 
 >You move faster than their pain receptors can register.
 
@@ -897,11 +909,13 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Cutthroat (Thief/Rogue Archetype)**
 
+*Suggested path: **Shadow-Weaver** (Tier 1) → **Parasitic Momentum** (Tier 2) → **Anatomical Nihilism** (Tier 3). A signpost, not a requirement — any two Tier 2 feats also open Anatomical Nihilism. See Advancement §4.*
+
 >Focused on opportunistic strikes, siphoning momentum from the failures of others, and anatomical nihilism.
 
 **Parasitic Momentum (Tier 2)**
 
-* Prerequisites: Reflex 2, Stealth 2 or Thievery 2
+* Prerequisites: Reflex 2, Stealth 2 or Thievery 2 — plus **any one Tier 1 feat**.
 
 >You thrive on the systemic collapse of others.
 
@@ -909,7 +923,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Anatomical Nihilism (Tier 3)**
 
-* Prerequisites: Reflex 3, Melee 3 or Ranged 3
+* Prerequisites: Reflex 3, Melee 3 or Ranged 3 — plus **Parasitic Momentum** (this Archetype's Tier 2 feat), *or* any two Tier 2 feats.
 
 >Nothing matters when the arteries are severed.
 
@@ -917,11 +931,13 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Demagogue (Bard Archetype)**
 
+*Suggested path: **Battlefield Orator** (Tier 1) → **Vitriolic Cadence** (Tier 2) → **Architect of Panic** (Tier 3). A signpost, not a requirement — any two Tier 2 feats also open Architect of Panic. See Advancement §4.*
+
 >Focused on psychological warfare, weaponizing the Momentum of a crowd, and manipulating the Social Engine right in the middle of a slaughter.
 
 **Vitriolic Cadence (Tier 2)**
 
-* Prerequisites: Will 2, Influence 2
+* Prerequisites: Will 2, Influence 2 — plus **any one Tier 1 feat**.
 
 >You orchestrate the rhythm of the meat-grinder.
 
@@ -929,7 +945,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Architect of Panic (Tier 3)**
 
-* Prerequisites: Will 3, Influence 3
+* Prerequisites: Will 3, Influence 3 — plus **Vitriolic Cadence** (this Archetype's Tier 2 feat), *or* any two Tier 2 feats.
 
 >You narrate their inevitable doom until their mind simply accepts it.
 
@@ -937,11 +953,13 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Inquisitor (Paladin Archetype)**
 
+*Suggested path: **Divine Conduit** (Tier 1) → **The Weight of Guilt** (Tier 2) → **Penance Engine** (Tier 3). A signpost, not a requirement — any two Tier 2 feats also open Penance Engine. See Advancement §4.*
+
 >Focused on weaponized dogma, absolute punishment, and crushing the enemy under the sheer weight of divine authority.
 
 **The Weight of Guilt (Tier 2)**
 
-* Prerequisites: Will 2, Faith 2, Melee 1
+* Prerequisites: Will 2, Faith 2, Melee 1 — plus **any one Tier 1 feat**.
 
 >Your judgment is a physical anchor dragging them down.
 
@@ -949,7 +967,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Penance Engine (Tier 3)**
 
-* Prerequisites: Will 3, Faith 3, Brawn 2
+* Prerequisites: Will 3, Faith 3, Brawn 2 — plus **The Weight of Guilt** (this Archetype's Tier 2 feat), *or* any two Tier 2 feats.
 
 >To strike you is to invite the wrath of god.
 
@@ -957,11 +975,13 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Ironclad (Fighter/Warrior Archetype)**
 
+*Suggested path: **Iron Grip** (Tier 1) → **Attrition Engine** (Tier 2) → **The Downward Swing** (Tier 3). A signpost, not a requirement — any two Tier 2 feats also open The Downward Swing. See Advancement §4.*
+
 >Focused on brutal mechanical efficiency, surviving physical trauma, and turning defense into inevitable offense.
 
 **Attrition Engine (Tier 2)**
 
-* Prerequisites: Brawn 2, Block 2 or Melee 2
+* Prerequisites: Brawn 2, Block 2 or Melee 2 — plus **any one Tier 1 feat**.
 
 >You grind them down to the marrow.
 
@@ -969,7 +989,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Downward Swing (Tier 3)**
 
-* Prerequisites: Brawn 3, Melee 3
+* Prerequisites: Brawn 3, Melee 3 — plus **Attrition Engine** (this Archetype's Tier 2 feat), *or* any two Tier 2 feats.
 
 >The heavier the physical burden, the harder the kinetic release.
 
@@ -977,11 +997,13 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Stalker (Ranger/Hunter Archetype)**
 
+*Suggested path: **Long Eye** or **Calloused Lungs** (Tier 1) → **Predator's Rhythm** (Tier 2) → **No Quarter in the Mud** (Tier 3). A signpost, not a requirement — any two Tier 2 feats also open No Quarter in the Mud. See Advancement §4.*
+
 >Focused on isolation, predatory tracking, and ruling the fringes of the battlefield.
 
 **Predator's Rhythm (Tier 2)**
 
-* Prerequisites: Wits 2, Survival 2
+* Prerequisites: Wits 2, Survival 2 — plus **any one Tier 1 feat**.
 
 >You have synchronized your breathing with the slaughter.
 
@@ -989,7 +1011,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **No Quarter in the Mud (Tier 3)**
 
-* Prerequisites: Brawn 3 or Reflex 3, Survival 3
+* Prerequisites: Brawn 3 or Reflex 3, Survival 3 — plus **Predator's Rhythm** (this Archetype's Tier 2 feat), *or* any two Tier 2 feats.
 
 >You are the apex organism of the wasteland.
 
@@ -997,11 +1019,13 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **The Zealot (Priest/Cleric Archetype)**
 
+*Suggested path: **Divine Conduit** or **Ritualist** (Tier 1) → **Litany of Nails** (Tier 2) → **Martyr's Furnace** (Tier 3). A signpost, not a requirement — any two Tier 2 feats also open Martyr's Furnace. See Advancement §4.*
+
 >Focused on weaponized suffering, cynical devotion, and using the self as a conduit for divine violence.
 
 **Litany of Nails (Tier 2)**
 
-* Prerequisites: Will 2, Faith 2
+* Prerequisites: Will 2, Faith 2 — plus **any one Tier 1 feat**.
 
 >Your scripture is a weapon of blunt force.
 
@@ -1009,13 +1033,15 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Martyr’s Furnace (Tier 3)**
 
-* Prerequisites: Will 3, Faith 3
+* Prerequisites: Will 3, Faith 3 — plus **Litany of Nails** (this Archetype's Tier 2 feat), *or* any two Tier 2 feats.
 
 >You take on the world's rot so others might live.
 
 * Mechanic: When an ally within 30 feet suffers a Wound, you may spend 2 Momentum to instantly transfer that Wound to yourself instead. If this Wound pushes you to Incapacitation, your collapse triggers a shockwave of absolute divine radiation, instantly clearing all Locked and Dissonant Stress from all allies within line of sight.
 
 **The Scrounger (Survivalist Archetype)**
+
+*Suggested path: **Spit and Twine** (Tier 1) → **Volatile Concoction** (Tier 2) → **Tactical Engineering** (Tier 3). **This one is a real chain, not a signpost** — all three extend the same cumulative list of Momentum spends, so each genuinely requires the one below it and the any-two-Tier-2 route does not apply. It is the only Archetype that works this way.*
 
 >Some adventurers carry a forge's worth of steel into the dungeon. The Scrounger carries a knife, a length of wire, and the absolute certainty that everything around them is a weapon, a tool, or a meal if you're desperate enough.
 
@@ -1035,7 +1061,7 @@ ________________________________________________________________________
 
 **Volatile Concoction (Tier 2)**
 
-* Prerequisites: Spit and Twine, Crafting 2 or Survival 2
+* Prerequisites: Spit and Twine (a Tier 1 feat, so it satisfies the Tier 1 requirement on its own — and here it is a genuine requirement, not a suggestion), Crafting 2 or Survival 2
 
 >Given a corpse, a puddle, and ten minutes, you could probably brew up something that kills.
 
@@ -1089,6 +1115,13 @@ Every 2 to 3 sessions, the GM awards the party a Milestone Reward of 3 Developme
 
 4. Purchase a Feat
 	- Horizontal development: costs 3 DP  to gain a new feat, as long as the prerequisites are met.
+	- **The Tier ladder.** A feat's Tier is a gate, not just a label. Without this, a creation-legal character with one Skill at rank 3 can spend their very first Milestone on a Tier 3 feat, which contradicts everything the Standing table says about when those arrive.
+		- A **Tier 2** feat additionally requires **any one Tier 1 feat** you already hold.
+		- A **Tier 3** feat additionally requires **its Archetype's Tier 2 feat**, *or* **any two Tier 2 feats**.
+	- **Archetypes are a signpost, not a cage.** Each Archetype in the feat list names a suggested path — a Tier 1, a Tier 2 and a Tier 3 feat that build on one another. Following it is *cheaper*: that Archetype's own Tier 2 feat unlocks its Tier 3 by itself, where a character built outside any Archetype needs two Tier 2 feats to reach the same rung. Nothing obliges you to pick an Archetype, declare one, or stay in one. A character holding Tier 2 feats from three different Archetypes is entirely legal, and reaches Tier 3 for 3 DP more than the specialist does. The suggested paths exist so a player who *wants* a clear mechanical identity can see one at a glance — not to fence off the players who don't.
+	- **What this costs in practice.** A specialist following a suggested path reaches their first Tier 3 feat at **Milestone 2** (6 DP of feats). A character building freely reaches it at **Milestone 3** (9 DP) — and both figures assume every Milestone goes to feats and none to Skills or Attributes, so a normally-developed character arrives later still. That puts Tier 3 around Veteran at the very earliest and Storied in ordinary play, which is what the Standing table describes.
+	- *Creation is unaffected — Step 4 remains **Tier 1 only**, regardless of what a character's Skill ranks would otherwise permit.*
+	- *Two existing patterns already work this way and are unchanged: **Desperate Edge** is named directly by four higher-tier feats, and **The Scrounger's** three feats extend one shared list of Momentum spends, so each genuinely requires the one below it rather than merely suggesting it.*
 
 5. Learn New Faith Spells
 	- Cannot learn Prayers from outside your Chosen Cult/Domain. *(Deliberate: the ability to enact miracles comes from rigorous devotion to a single ideology. The Common Miracle list lets any Priest mix in some breadth without breaking that theme; a character who wants full cross-Domain access takes the Heretic's Path over the Covenant at Divine Conduit instead — every Domain's list, paid for with permanent Disadvantage on the Tithe of Will.)*
