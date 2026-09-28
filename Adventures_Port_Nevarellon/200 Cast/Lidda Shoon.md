@@ -16,4 +16,4 @@
 - **Cult Ties:** As a follower of the Crooked Coin, she views her counterfeiting and fencing not just as a job, but as a minor religious sacrament—a way of rebalancing the unfair wealth of the city through localized distortions of luck and law.
 
 ## 🔗 Connected Notes
-- **Business Contact:** [[200 Cast/Kaleb the Barkeep|Kaleb]] (She drops fenced coin at the Tankard for the Syndicate to collect).
+- **Business Contact:** [[Kaleb|Kaleb]] (She drops fenced coin at the Tankard for the Syndicate to collect).

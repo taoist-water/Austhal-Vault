@@ -26,6 +26,8 @@ Tythius was a young commander during the brutal Civil War that shattered the old
 
 He treats Port Nevarellon with cold, calculated pragmatism. He despises the Council of Five, viewing them as greedy usurpers who ruined the natural feudal order. However, he is bound by the Accord. He frequently travels to the city's High Quarter to ensure the Council's maritime taxes continue to fund the protection of his duchy's borders, reminding them that if De Vonce falls to the wild inland, the city's trade will follow.
 
+**The Duke's Straw.** The [[Framework - The Three Layers#💧 CANON ADDITION: The Spine Aqueduct|Spine Aqueduct]] that waters Port Nevarellon rises in De Vonce's western foothills and runs south through his farmland to the cisterns beneath the High Quarter. It was built when the coast was one kingdom and the pipe crossed no border, and the Accord never addressed it. Tythius has never touched it, and his reasons are over-determined: the Accord is the only thing standing between his house and a second civil war he personally fought; thirty-five thousand dead of thirst is a line he will not cross; and the Council's maritime taxes fund his border keeps, so choking the city would empty his own garrison purse within a season. Nobody can say which of the three reasons is load-bearing — including Tythius.
+
 ## 🔗 Connected Notes
 - **Children:** 
   - [[200 Cast/Eldrick De Vonce|Eldrick De Vonce]] (Eldest son and heir; traditionalist but militarily short-sighted)

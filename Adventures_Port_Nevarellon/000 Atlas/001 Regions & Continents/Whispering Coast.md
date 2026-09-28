@@ -2,7 +2,7 @@
 #location/region #status/draft
 
 ## 🗺️ Geography & Scope
-- **Bordering Areas:** [[draft_Silted Marshes| Silted Marshes]], [[Ubaraz Kingdom]], [[The Kald Mountain Territory| Kald Mountain Territory]], [[The Inner Sea]]
+- **Bordering Areas:** [[Silted Marshes| Silted Marshes]], [[Ubaraz Kingdom]], [[The Kald Mountain Territory| Kald Mountain Territory]], [[The Inner Sea]]
 - **Terrain Type:** (e.g., Jagged cliffs, salt marshes, dense pine valleys)
 - **Climate & Weather Patterns:** (e.g., Heavy seasonal monsoons, constant maritime fog)
 
@@ -15,7 +15,7 @@
 - **Natural Resources:** (What makes this land worth controlling? Timber, iron ore, game, rare flora)
 - **Settlements/Points of Interest:**
   - [[Port Nevarellon]]- Free City Metropolis
-  - [[400 Meta/drafts/draft2_The Five Duchies of the Whispering Coast]]
+  - [[The Five Duchies of the Whispering Coast]]
   - 
 
 ## ⚔️ Power Dynamics & Threats

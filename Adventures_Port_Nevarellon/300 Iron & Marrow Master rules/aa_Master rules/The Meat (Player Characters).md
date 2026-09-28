@@ -561,7 +561,7 @@ Both Milestones went to Feats, so his Skill total never moved off its creation-d
 
 ### Table Notes
 - **What the Twin array actually bought, and what it cost.** Built as Spike (Brawn 3 / Reflex 1) with the identical 9 skill ranks, his rolls would be *identical* — Strike 2d6+4, Dodge 2d6+3. The arrays diverge only in ceilings and derived stats: Spike would give him Melee ceiling 6 and Wound Threshold 8, Twin gives him Acrobatics ceiling 5, Momentum 5 and Activation Order 11. **At Green and Blooded, array choice is invisible on the dice.** Twin's payoff is entirely deferred to the point where he has DP spare to climb a second ceiling — realistically Veteran. Worth stating plainly in The Marrow's array table, or Twin reads as strictly worse at exactly the moment a player is choosing it.
-- **Two dump Attributes is a real price, and it is all in one place.** Wits 0 and Will 0 give him Stress Limit 5 and Resolve 2d6+0, with a Resolve ceiling of 3 he can never exceed. He folds to Fear, to Terrified, and to any Faith caster's resistance test. Ox at Will 3 has Stress Limit 9 and Resolve 2d6+3; Corvin has neither and cannot buy his way out. That is the Twin array's bill, and it comes due in the mental attrition track rather than the physical one.
+- **Two dump Attributes is a real price, and it is all in one place.** Wits 0 and Will 0 give him Stress Limit 5 and Resolve 2d6+0, with a Resolve ceiling of 3 he can never exceed. He folds to Fear, to Terrified, and to any Faith caster's resistance test. Ox at Will 2 has Stress Limit 8 and Resolve 2d6+2; Corvin has neither and cannot buy his way out. That is the Twin array's bill, and it comes due in the mental attrition track rather than the physical one.
 - **Finesse on both hands is why this build works.** Both blades carry the tag, so every Clash he makes — Strike, Parry, Off-Hand Parry — can reroll a natural 1. Against a defensive build whose two best Feats key off winning Parries, that reroll is worth more than the +0.82 average suggests: it is specifically insurance against the low rolls that would otherwise lose the Parry outright and deny both Feats.
 
 ---
@@ -969,7 +969,7 @@ Every DP in this arc went to the Grimoire, the one Feat that needed no stat deto
 | Bram (Green, Spike) | Melee 2d6+3 | Melee 6 | WT 9 / Stress 5 / Momentum 4 |
 | Elowen (Green, Spike) | Thievery 2d6+3 | Thievery 6 | WT 4 / Stress 5 / Momentum 7 |
 | Wren (Blooded, Spike) | Stealth 2d6+3 | Stealth 6 | WT 4 / Stress 5 / Momentum 7 |
-| Ox (Hardened, Spike) | Melee 2d6+4 | Melee 6 | WT 9 / Stress 9 / Momentum 4 |
+| Ox (Hardened, Spike) | Melee 2d6+3 | Melee 6 | WT 9 / Stress 8 / Momentum 4 |
 | Morwenna (Hardened, Spike) | Arcana 2d6+4 | Arcana 6 | WT 4 / Stress 9 / Momentum 4 |
 | Perpetua (Hardened, Spike) | Tithe of Will 2d6+4 | Faith 6 | WT 7 / Stress 9 / Momentum 3 |
 | Faelan (Storied, Spike) | Arcana 2d6+6 | Arcana 6 (at ceiling) | WT 4 / Stress 7 / Momentum 6 |

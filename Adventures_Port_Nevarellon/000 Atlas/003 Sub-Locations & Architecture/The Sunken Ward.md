@@ -10,12 +10,12 @@
 ## 🏙️ District Profile
 - **Settlement:** [[Port Nevarellon|Port Nevarellon]]
 - **Social Stratum:** Squalid/Slums — the city's most impoverished and least-documented population, overwhelmingly Un-Landed.
-- **Architecture & Infrastructure:** Two distinct zones stitched together by shared poverty rather than shared architecture: the waterfront sprawl of stilt-housing and boardwalks that make up [[The Muddy Docks|The Muddy Docks]], and the older, inland tenement blocks — collectively known as **Cinder Row** — thrown up in a hurry fifty years ago to absorb the flood of refugees fleeing the [[400 Meta/drafts/draft2_The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|Corvus Scar]].
+- **Architecture & Infrastructure:** Two distinct zones stitched together by shared poverty rather than shared architecture: the waterfront sprawl of stilt-housing and boardwalks that make up [[The Muddy Docks|The Muddy Docks]], and the older, inland tenement blocks — collectively known as **Cinder Row** — thrown up in a hurry fifty years ago to absorb the flood of refugees fleeing the [[The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|Corvus Scar]].
 
 ---
 
 ## ⚖️ Law, Order & Safety
-- **Guarding Presence:** The [[100 Society/The City Watch|Blue-Cloak Watch]] treats the Ward the way it treats the Docks — a single fortified checkpoint at the landward gate, no patrols after dark. Cinder Row fares worse: it generates no trade revenue, so unlike the Docks it doesn't even benefit from the [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]]'s self-interested version of order.
+- **Guarding Presence:** The [[Faction - The Civic Constabulary (The Coppers)|Blue-Cloak Watch]] treats the Ward the way it treats the Docks — a single fortified checkpoint at the landward gate, no patrols after dark. Cinder Row fares worse: it generates no trade revenue, so unlike the Docks it doesn't even benefit from the [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]]'s self-interested version of order.
 - **Local Customs / Unwritten Rules:** Newcomers are assumed to be either Corvus-descended or recently ruined. Nobody asks which, and nobody expects a straight answer.
 - **Crime Level:** High/Violent throughout, with Cinder Row edging past even the Docks — no Syndicate presence keeping trade-driven order, and less consistent reach from the [[100 Society/The Tidespoken Clergy|Tidespoken Clergy]]'s soup kitchens than the piers get.
 

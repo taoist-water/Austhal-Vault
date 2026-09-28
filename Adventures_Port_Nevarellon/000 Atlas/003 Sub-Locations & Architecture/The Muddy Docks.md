@@ -10,7 +10,7 @@
 - **Architecture & Infrastructure:** A massive, chaotic sprawl built almost entirely out of damp timber. Tenements and warehouses sit precariously on barnacle-encrusted stilts over the tidal mudflats. The walkways consist of buckled wooden boardwalks, rope bridges, and repurposed hulls of broken ships that act as permanent floating platforms.
 
 ## ⚖️ Law, Order & Safety
-- **Guarding Presence:** The official [[100 Society/The City Watch|Blue-Cloak Watch]] refuses to patrol here after dusk, maintaining only a single, heavily fortified guard-post at the district's landward gate. 
+- **Guarding Presence:** The official [[Faction - The Civic Constabulary (The Coppers)|Blue-Cloak Watch]] refuses to patrol here after dusk, maintaining only a single, heavily fortified guard-post at the district's landward gate. 
 - **Local Customs / Unwritten Rules:** Weapons must be kept bound or sheathed while on the main thoroughfares, but fighting with fists or rigging knives is largely ignored. To wear fine silks or flashy jewelry here is viewed as an invitation to be tossed into the mud and stripped.
 - **Crime Level:** High/Violent. Assault, smuggling, illegal gambling, and forced maritime conscription (press-ganging) are daily realities.
 

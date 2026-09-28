@@ -20,4 +20,4 @@
 - **Moral Compromises:** Alfric considers himself a civilized, merciful man because he forbids assassination. However, he is perfectly willing to destroy a rival merchant's life through blackmail, debt-traps, and extortion, leaving them to starve in the Sunken Ward.
 
 ## 🔗 Connected Notes
-- **Key Underworld Asset:** [[200 Cast/Kaleb the Barkeep|Kaleb]] (Maintains the urban dead-drops).
+- **Key Underworld Asset:** [[Kaleb|Kaleb]] (Maintains the urban dead-drops).

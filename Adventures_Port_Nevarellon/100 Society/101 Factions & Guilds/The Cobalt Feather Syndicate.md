@@ -24,7 +24,7 @@ The Cobalt Feather Syndicate operates on the philosophy that violence is bad for
 ## ⚖️ Operational Philosophy (The "No-Blood" Mandate)
 Unlike the blunt brutality of the Iron-Anchor Syndicate, the Cobalt Feather operates under a strict, non-lethal mandate enforced by their leader. Killing draws the attention of the [[100 Society/The Golden Company|Golden Company]] and disrupts the local economy. 
 - The Syndicate relies entirely on bribery, perfect forgeries, and crippling blackmail. 
-- When muscle is required (usually when dealing with pirates in the [[000 Atlas/The Silted Marshes|Silted Marshes]]), it is used strictly for intimidation or defense, never for assassination.
+- When muscle is required (usually when dealing with pirates in the [[Silted Marshes|Silted Marshes]]), it is used strictly for intimidation or defense, never for assassination.
 ---
 
 ## 👥 Key Assets & Contacts

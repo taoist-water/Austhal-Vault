@@ -22,7 +22,7 @@ The fourth suffered a calamity, was struck from the list, and **is still standin
 
 **This is not sloppiness in the canon — it should be the load-bearing fact about the whole institution.** *Wondrous Market* is a status, which means it is a claim, which means it is written down somewhere and maintained by someone. Somebody struck a name off a list, and the city it named did not stop existing.
 
-The setting already has the perfect machinery for this. Under the **Court of Nullity** doctrine, the [[Religion - The pagan Pantheon and the Faith Domains|Cult of the Zenith]] may void a claim and may never validate one. If the Fourth's claim to the title was *voided* on grounds of calamity, then:
+The setting already has the perfect machinery for this. Under the **Court of Nullity** doctrine, the [[The Cult of the Zenith|Cult of the Zenith]] may void a claim and may never validate one. If the Fourth's claim to the title was *voided* on grounds of calamity, then:
 
 - The Fourth is not a Wondrous Market, as a matter of law
 - The remaining three have never been *confirmed* as Wondrous Markets and structurally cannot be
@@ -34,7 +34,7 @@ Port Nevarellon's proudest international credential turns out to be an absence o
 
 **The Zenith holds it, and it never meant to.**
 
-This is not a new institution. The [[Religion - The pagan Pantheon and the Faith Domains|Cult of the Zenith]] already maintains **the Register**, and already enforces by *refusal to verify* rather than by force. The Wondrous Markets are an entry in it. Nobody founded the Register of Markets; somebody with a grievance against a rival city brought a claim, the Zenith heard it because the Zenith hears things, the ruling stuck because no one could produce a better forum, and fifty years later it is simply where the number lives.
+This is not a new institution. The [[The Cult of the Zenith|Cult of the Zenith]] already maintains **the Register**, and already enforces by *refusal to verify* rather than by force. The Wondrous Markets are an entry in it. Nobody founded the Register of Markets; somebody with a grievance against a rival city brought a claim, the Zenith heard it because the Zenith hears things, the ruling stuck because no one could produce a better forum, and fifty years later it is simply where the number lives.
 
 **How it works:**
 

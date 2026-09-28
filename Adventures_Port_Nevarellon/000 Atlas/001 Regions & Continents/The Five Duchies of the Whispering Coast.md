@@ -19,7 +19,7 @@ Following the Ducal Accord, the Council of Five and the four legitimate Duchies 
 
 ## 1. Duchy of De Vonce (The Iron Court)
 - **Terrain & Seat:** Rolling hills, heavily fortified stone keeps, and dense oak forests leading up to the foothills of the Spine. The ducal seat is **[[Castle Iron-Spire|Castle Iron-Spire]]**, built directly into those foothills.
-- **Logistics & Economy:** The martial heart of the coast. They control the primary iron mines and timber mills that supply the shipyards of Port Nevarellon. 
+- **Logistics & Economy:** The martial heart of the coast. They control the primary iron mines and timber mills that supply the shipyards of Port Nevarellon. They also hold the headwater of the **Spine Aqueduct** — the city's only piped fresh water — in the western foothills: a leverage no Duke has ever used, and every Council has noticed. 
 - **Realism Anchor:** They maintain the largest standing feudal levy. They are culturally rigid, hyper-militaristic, and deeply bitter that they must rely on the foreign mercenaries of **The Golden Company** to protect the central port rather than their own knights.
 - **Travel Time to Port Nevarellon:** ~3–4 days by horse messenger along the Ducal Concord Road; 7–9 days for a loaded iron-ore or timber wagon train.
 
@@ -36,7 +36,7 @@ Following the Ducal Accord, the Council of Five and the four legitimate Duchies 
 - **Travel Time to Port Nevarellon:** ~1 day by coastal galley along the Coastal Meridian in fair weather, 2 in poor; 4–5 days overland via the Concord Road, since the cliff roads punish wagons.
 
 ## 4. Duchy of Stonereach (The High Shields)
-- **Terrain & Seat:** Treacherous mountain passes and sheer granite peaks along the north-eastern edge, bordering [[000 Atlas/The Ubaraz Kingdom|The Ubaraz Kingdom]]. The ducal seat is **Granite Spire**, a dwarven-engineered citadel cut directly into the passes.
+- **Terrain & Seat:** Treacherous mountain passes and sheer granite peaks along the north-eastern edge, bordering [[Ubaraz Kingdom|The Ubaraz Kingdom]]. The ducal seat is **Granite Spire**, a dwarven-engineered citadel cut directly into the passes.
 - **Logistics & Economy:** Granite quarrying, heavy masonry, and toll-keep control over the mountain trade roads.
 - **Realism Anchor:** Because of their proximity to the dwarven kingdom, Stonereach architecture relies heavily on imported dwarven structural engineering. Their people are isolated, survivalist, and hardened by the severe winters of the high altitude.
 - **Travel Time to Port Nevarellon:** ~6–8 days by horse along the Concord Road through the passes, longer or impassable in deep winter; 10–14 days for a loaded granite/masonry wagon train.

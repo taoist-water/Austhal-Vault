@@ -89,7 +89,7 @@ Jointly funded and garrisoned by the Council of Five and the four standing Duchi
 - **Geographic Anchor:** The Basin and the High Quarter cisterns.
 - **Bypass:** [[Greywater Lagoon|Grey Water Lagoon]] and [[Divtown|Divtown]] already route around the tariff-houses at small scale. What stops it scaling: the Marshes will not float a deep-sea hull, and no fence in Divtown can move volume.
 - **Cost & Mote:** Documented at length in [[Economy - the Price of Survival|the Price of Survival]] — a deliberate poverty trap where a labourer's daily survival costs exactly their daily wage. The mote is thin and should stay thin: the [[100 Society/The Tidespoken Clergy|Tidespoken]] soup kitchens, and Company enlistment as the one legal ladder out.
-- **⚠️ Gap:** no named members. The body that governs 35,000 people has zero faces. This is the single highest-value gap at Layer 1.
+- ~~**⚠️ Gap:** no named members.~~ **Filled:** [[Marcian Thole]], [[Lucia Marrenhal]], [[Ottavian Kress]], [[Verrine Sallow]], [[Palla Vantry]].
 
 ### The Golden Company
 
@@ -161,9 +161,9 @@ Run through the five fields:
 - The Council knows and prefers not to minute it.
 - **[[200 Cast/Eldrick De Vonce|Eldrick]] does not necessarily share his father's arithmetic.** Tythius's stated fear is that his children lack the iron to hold the north. The sharper risk is that one of them has more iron than he does, aimed the wrong way.
 
-### Propagation required (not yet applied)
+### Propagation — applied 2026-09-28
 
-These four files need updating to carry the addition. Flagging rather than editing, since three are `status/solid`:
+Applied to files 1–3 below. The canon-tracker row (4) follows in the tracker rebuild.
 
 1. `Port_Nevarellon.md` — Fresh Water bullet: name the aqueduct and place its headwater inside De Vonce.
 2. `Tythius_De_Vonce.md` — Backstory & Current Role: add the unspoken leverage and the three-part reason he never uses it.
@@ -175,12 +175,12 @@ These four files need updating to carry the addition. Flagging rather than editi
 ## ❓ Open Questions Raised By This Framework
 
 - ~~**Undertow → low-frequency terminology pass.**~~ **RESOLVED 2026-09-28 — reversed.** "Frequency" language is retired. The tidal cosmology of `Cosmology - The Great Fracture.md` is canon throughout: *the Undertow* names the Tideways' lowest layer, and *Undertow-touched* is the adjective for taint and property — Morgran struck an Undertow-touched god-shard; the Ash-Blight is Undertow-touched soot. Applied to The Five Duchies, The Inner Sea, The Golden Company, History, Tythius De Vonce, Maccorrack, Morgran and The Wondrous Markets.
-- **Broken link.** Corvus Spire is wikilinked as `[[The Inner Sea#🪓 Resource & Industry|Corvus Spire]]` — pointing the seat at a section of a different region's document, which references it rather than defining it. Recommend a bold unlinked term until Corvus Spire gets its own stub.
+- ~~**Broken link.**~~ **Resolved — the link no longer exists.** Corvus Spire was wikilinked as `[[The Inner Sea#🪓 Resource & Industry|Corvus Spire]]` — pointing the seat at a section of a different region's document, which references it rather than defining it. Recommend a bold unlinked term until Corvus Spire gets its own stub.
 - **"Functionally extinct" is a hedge.** With the seats now named, the epigraph's "one rules an ossuary" reads as poetry rather than a claimant. Confirm that's intended — if there *is* a surviving Corvus line somewhere, that changes the annexation problem from a legal impossibility into a live succession crisis.
 - **Tier vocabulary collision.** `The Sunken Ward` and `The Muddy Docks` are both tagged `#location/district`, but the Docks sit *inside* the Ward. If the Layers are formalising scale, the location tags should too — recommend `#location/district` for Ward-scale and a new `#location/neighborhood` for Docks-scale.
-- **Blue-Cloak contradiction, still open.** `Port_Nevarellon.md` describes the Watch as professional in the wealthy districts; the Constabulary faction file describes uniform systemic corruption. Both cannot be true. This is a Layer 3 enforcement question and should be resolved before Layer 3 gets built out further.
-- **Whispering Coast hierarchy, still open.** `Austhal.md` and `Whispering_Coast.md` disagree on whether the Five Duchies are a sibling region or a subdivision. The Layer model assumes subdivision.
-- **Does the Council of Five have named members?** Until it does, Layer 1 is a third empty.
+- ~~**Blue-Cloak contradiction.**~~ **RESOLVED 2026-09-28:** `Port Nevarellon.md` now names the Golden Company as the military and the Blue-Cloaks as the Constabulary beneath it. Original note: `Port_Nevarellon.md` describes the Watch as professional in the wealthy districts; the Constabulary faction file describes uniform systemic corruption. Both cannot be true. This is a Layer 3 enforcement question and should be resolved before Layer 3 gets built out further.
+- ~~**Whispering Coast hierarchy.**~~ **RESOLVED 2026-09-28:** the Five Duchies are a subdivision of the Whispering Coast; `Austhal.md` updated. Original note: `Austhal.md` and `Whispering_Coast.md` disagree on whether the Five Duchies are a sibling region or a subdivision. The Layer model assumes subdivision.
+- ~~**Does the Council of Five have named members?**~~ **Yes** — see [[Council of Five]].
 
 ---
 

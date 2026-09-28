@@ -9,7 +9,7 @@
 - **Full Name / Aliases:** Captain Haren Twarde / "The Reef-Witch" / "The Tail-Cutter"
 - **Current Occupation:** High Captain of the Wyvern Tail Pirates.
 - **Social Class / Standing:** Outlaw / Sovereignty of the Lagoons.
-- **Primary Residence:** The Captain's Cabin aboard the *Dread-Wing*, currently moored in the [[000 Atlas/Grey Water Lagoon|Grey Water Lagoon]].
+- **Primary Residence:** The Captain's Cabin aboard the *Dread-Wing*, currently moored in the [[Greywater Lagoon|Grey Water Lagoon]].
 - **Affiliations:** The Wyvern Tail Pirates (Commander); [[000 Atlas/Divtown|Divtown]] Syndicate (Primary Commercial Partner).
 
 ## ⚖️ Realism & Physicality

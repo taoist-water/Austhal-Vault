@@ -8,7 +8,7 @@
 ## 📊 Quick Reference
 - **Type of Establishment:** Waterfront Tavern / Smuggler's Dead-Drop / Fencing Hub.
 - **District / Region:** [[000 Atlas/The Great Anchor Basin|The Great Anchor Basin]], Port Nevarellon.
-- **Owner / Proprietor:** Officially registered under a shell name held by a minor Landed clerk; practically operated by [[200 Cast/Kaleb the Barkeep|Kaleb]].
+- **Owner / Proprietor:** Officially registered under a shell name held by a minor Landed clerk; practically operated by [[Kaleb|Kaleb]].
 - **Affiliation:** [[100 Society/The Cobalt Feather Syndicate|The Cobalt Feather Syndicate]] (Front / Safehouse).
 
 ---
@@ -31,6 +31,6 @@ The Rusty Tankard sits wedged between two massive granite dry-dock warehouses on
 ## 👥 Notable Patrons & Operatives
 The Tankard serves as the primary urban hub for lower-tier operatives of the Cobalt Feather who need to move goods without drawing the attention of the High Quarter.
 
-- **[[200 Cast/Kaleb the Barkeep|Kaleb]]:** The manager and gatekeeper. She operates the dead-drops and assigns odd jobs to trusted syndicate freelancers.
+- **[[Kaleb|Kaleb]]:** The manager and gatekeeper. She operates the dead-drops and assigns odd jobs to trusted syndicate freelancers.
 - **[[200 Cast/Maccorrack|Maccorrack]]:** A massive half-orc stevedore who practically lives here. Beyond drinking and working as occasional hired muscle for Kaleb's smuggling runs, Maccorrack fights in the Tankard's regular, brutal bare-knuckle bar brawls for extra coin. Kaleb actually encourages these brawls—the noise and spilled blood convince the Company patrols that the Tankard is just a standard low-class dive, drawing attention away from the quiet, high-stakes smuggling in the cellar.
 - **[[200 Cast/Lidda Shoon|Lidda Shoon]]:** The halfling jeweler frequently uses the shadowy corner booths to discreetly fence her melted-down gold and stolen gems. She treats the Tankard as her primary dispatch point for picking up new, illicit contracts from the Syndicate.

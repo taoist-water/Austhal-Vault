@@ -31,4 +31,4 @@ She is not a cruel woman and it would be a mistake to play her as one. She is *p
 ## 🔗 Connected Notes
 - **Allies / Enablers:** [[Verrine Sallow]] (the only councillor she considers competent; the feeling is not returned so much as *calculated*), her three clerks — unnamed, Un-Landed, and currently the most dangerous secret in Port Nevarellon
 - **Rivals / Creditors:** [[Ottavian Kress]] (blocks her on the Unwritten Day every time, on principle and for profit), [[Marcian Thole]] (she holds his mortgage and has never called it; she has not decided whether that is leverage or something she would rather not examine)
-- **Key Notes:** [[Council of Five]], [[Law - The Council's Edicts]], [[Framework - The Coastal Reckoning]], [[Religion - The pagan Pantheon and the Faith Domains]] (the Court of Nullity)
+- **Key Notes:** [[Council of Five]], [[Law - The Council's Edicts]], [[Framework - The Coastal Reckoning]], [[The Cult of the Zenith]] (the Court of Nullity)

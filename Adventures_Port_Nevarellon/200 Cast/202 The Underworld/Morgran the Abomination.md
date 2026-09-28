@@ -15,7 +15,7 @@
   He was a dwarf and she belonged to the water, and he understood what that meant. So he went looking for an Undertow-touched god-shard, knowing exactly what such a shard can do to living flesh. When he found one, he carried it to a marsh hag and asked her to use it: to make him into something that could spend the rest of its life with the one he loved. The hag agreed. Hags always agree.
   It worked. His lower jaw and neck flared into pulsing gills, thick grey scales spread across his arms and torso, and his eyes went entirely black. He could breathe the water she lived in. When she saw what he had become, she was disgusted. She rebuked him, and she was never seen again.
   The change left a piece of the Undertow's pull inside him, which is likely why saltwater soothes it and dry air makes his skin crack and bleed. It did not come with a way back.
-- **Physical Flaws / Limitations:** He is a raging alcoholic. Because of the change, he must submerge himself in saltwater at least once a day or his skin begins to crack and bleed. He is shunned by his own people in [[000 Atlas/The Ubaraz Kingdom|The Ubaraz Kingdom]] — first for leaving the mountains for a marsh boat, and finally for what he let a hag make of him.
+- **Physical Flaws / Limitations:** He is a raging alcoholic. Because of the change, he must submerge himself in saltwater at least once a day or his skin begins to crack and bleed. He is shunned by his own people in [[Ubaraz Kingdom|The Ubaraz Kingdom]] — first for leaving the mountains for a marsh boat, and finally for what he let a hag make of him.
 - **Equipment & Upkeep:** Carries a specialized, heavy dwarven sounding-lead on a chain to test the depth of the shifting sandbars, and a perpetually empty iron flask.
 
 ## 🧠 Psychology & Drive

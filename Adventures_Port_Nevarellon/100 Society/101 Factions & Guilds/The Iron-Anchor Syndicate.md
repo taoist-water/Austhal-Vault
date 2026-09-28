@@ -15,7 +15,7 @@
   - **Labor Monopoly:** Total control over the Stevedores & Dockworkers Union. If a ship captain refuses to pay, their cargo is left to rot on deck.
   - **Alchemical Fencing:** Smuggling raw, unstable mineral components like [[Sun-Iron|Sun-Iron]] out of the mountains to unlicensed alchemists in the city.
 - **Expenses & Upkeep:**
-  - Massive monthly bribes to high-ranking captains of [[100 Society/The City Watch|The Blue-Cloak Watch]] to look the other way.
+  - Massive monthly bribes to high-ranking captains of [[Faction - The Civic Constabulary (The Coppers)|The Blue-Cloak Watch]] to look the other way.
   - Wages for roughly 300 "Enforcers" (grizzled sailors, thuggish dock hands, and crossbowmen).
   - Maintenance on a fleet of six low-profile, fast-moving coastal cutters used for nighttime off-loading.
 - **Primary Assets:** Key drydocks, waterfront warehouses with hidden tidal cellars, and a vast network of debt ledgers holding leverage over local politicians.

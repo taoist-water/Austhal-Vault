@@ -38,6 +38,6 @@ He also, without ever having been told, sits on the coast's single most sensitiv
 - **The office and the corridor:** [[The Five Duchies of the Whispering Coast#🛣️ The Ducal Concord Road|The Ducal Concord Road]]
 - **The court that could void him:** [[The Cult of the Zenith|The Cult of the Zenith]] — specifically the Court of Nullity
 - **Demands his paperwork:** [[Tythius De Vonce|Duke Tythius De Vonce]]
-- **Whose cargo he has declined to inspect:** [[The Cobalt Syndicate|The Cobalt Feather Syndicate]]
+- **Whose cargo he has declined to inspect:** [[The Cobalt Feather Syndicate|The Cobalt Feather Syndicate]]
 - **Structural parallel — status that evaporates without a document:** [[First Envoy Isolde Vantry|First Envoy Isolde Vantry]]
 - **The duchy he was born in, and undermines:** [[The Five Duchies of the Whispering Coast#2. Duchy of Aerthos (The Breadbasket)|Duchy of Aerthos]]

@@ -8,12 +8,12 @@
 - **Estimated Population:** ~800 permanent residents (fluctuates with pirate crews).
 - **Governance:** Autocratic Syndicate / Feudal Facade, ruled by [[Lord Kelf Thorne|Lord Kelf Thorne]].
 - **Primary Export:** Rot-resistant marsh timber, and "legitimately salvaged" pirate cargo.
-- **Regional Location:** [[000 Atlas/The Silted Marshes|The Silted Marshes]]
+- **Regional Location:** [[Silted Marshes|The Silted Marshes]]
 
 ## 🪵 Urban Infrastructure & Logistics
 - **Architecture:** A chaotic, derelict sprawl of shanties, stilt-houses, and rope bridges suspended above the brackish, sucking mud of the marshes. It is constantly sinking and being rebuilt.
 - **Access & Navigation:** Divtown is incredibly difficult to reach by land or sea. The labyrinthine waterways are choked with constantly shifting sandbars. To reach the town, one must hire local fisher-folk from the mouth of the marsh, or seek out a specific, cursed dwarven guide working out of **Fenmouth**, the marsh-mouth village where hiring a guide is required by law.
-- **Neighboring Locations:** Directly borders the [[000 Atlas/Grey Water Lagoon|Grey Water Lagoon]], a deep-water blind spot hidden from the Golden Company where pirate galleons drop anchor.
+- **Neighboring Locations:** Directly borders the [[Greywater Lagoon|Grey Water Lagoon]], a deep-water blind spot hidden from the Golden Company where pirate galleons drop anchor.
 
 ## ⚖️ Society & The Syndicate Economy
 - **The Demographics:** The town is populated almost entirely by people too impoverished to survive Port Nevarellon's rigid, debt-based class system, alongside a large population of hardened, escaped slaves who fled north from the southern [[000 Atlas/The Twelgorn Kingdom|Twelgorn Kingdom]]. 

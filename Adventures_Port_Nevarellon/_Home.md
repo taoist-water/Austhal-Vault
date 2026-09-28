@@ -1,25 +1,24 @@
 # Adventures: Port Nevarellon Hub
 
 ## 📍 World & Geography
-- [[Austhal| The continent of Austhal]] (Nation overview)
-- [[Port Nevarellon]] (The central hub city)
-- [[Whispering Coast]] (Regional geography)
-- [[000 Atlas/De Vonce Duchy]]
-- [[000 Atlas/Duchy of Corvus]]
-- [[000 Atlas/Duchy of Aerthos]]
-- [[Duchy of Valerius]]
-- [[000 Atlas/Duchy of Stonereach]]
-- [[The Drowned Rat Tavern]]
+- [[Austhal|The continent of Austhal]]
+- [[Whispering Coast]] — the region
+  - [[The Five Duchies of the Whispering Coast]] — De Vonce, Aerthos, Valerius, Stonereach, and the Corvus Scar
+  - [[Port Nevarellon]] — the Free City
+- [[Silted Marshes]] · [[The Inner Sea]] · [[Ubaraz Kingdom]] · [[The Jagged Spine]]
 
 ## 🏛️ Power & Culture
-- **Factions:** [[The Iron-Anchor Syndicate]], [[The Cobalt Syndicate|The Cobalt Syndicate]]
-- **Religions:** [[The Tidespoken Clergy]]
-- **Economics:** [[The Salt-Coin Trade Accord]]
+- **Governance:** [[Council of Five]] · [[The Golden Company]] · [[The Cult of the Zenith]] · [[Law - The Council's Edicts]]
+- **Underworld:** [[The Iron-Anchor Syndicate]] · [[The Cobalt Feather Syndicate]] · [[The Wyvern tail Pirates]]
+- **Guilds & Watch:** [[The Guild of Alchemists]] · [[Faction - The Civic Constabulary (The Coppers)|The Civic Constabulary]]
+- **Faith:** [[Religion - The Pagan Pantheon and the Faith Domains]]
+- **Economy:** [[Economy - the Price of Survival]] · [[Reference - The Wondrous Markets]]
 
 ## 🔮 The Rules of the World
-- **Magic:** [[The Brine-Weaving System]]
-- **Phenomena:** [[The Midnight Fogs]]
+- **Cosmology:** [[Cosmology - The Great Fracture]] · [[Cosmology - The Celestial Graveyard and The war of Creation]]
+- **Calendar & Sky:** [[Framework - The Coastal Reckoning]]
+- **History:** [[History - The Broken Crown of Austhal]]
 
 ## 📝 Creator Tools
-- [[Worldbuilding Timeline]]
-- [[Active Character Directory]]
+- [[iron and marrow canon tracker|Canon Tracker]]
+- [[Framework - The Three Layers]] · [[Reference - Name Tables]]

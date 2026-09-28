@@ -117,7 +117,7 @@ This began as a rounding error and became the single most contested day in Port 
 - **Vagrancy Tolls** have no legal basis for collection — the Edict specifies collection days by turn
 - **Golden Writs** cannot lapse on it, and cannot be issued on it
 - **Debts cannot be called**, and the debt-prisons take no new admissions
-- **A Nullity Sitting cannot be convened** — the [[Religion - The pagan Pantheon and the Faith Domains|Cult of the Zenith]] holds that a day outside the reckoning cannot host a judgment. This is doctrinally awkward for them and they do not enjoy discussing it
+- **A Nullity Sitting cannot be convened** — the [[The Cult of the Zenith|Cult of the Zenith]] holds that a day outside the reckoning cannot host a judgment. This is doctrinally awkward for them and they do not enjoy discussing it
 
 The [[Council of Five|Council of Five]] has attempted to absorb the day into Hollow or Ashfall three times in fifty-eight years — all three in the last eleven, all three [[Lucia Marrenhal|Marrenhal]]'s — and each failed, twice loudly. Her fourth is before the chamber now. **The Toll Amnesty** *(Table 3, #3)* is what the Council calls its annual defeat — a mercy announced from the steps, granted with great ceremony, and legally unavoidable.
 
