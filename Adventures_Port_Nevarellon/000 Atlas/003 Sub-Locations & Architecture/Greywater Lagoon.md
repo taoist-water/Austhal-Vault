@@ -22,7 +22,7 @@
 ## 💰 Economics & Clientele
 - **Regular Patrons:** Rogue merchantmen, mutinous naval crews, smugglers running contraband into [[The Inner Sea|The Inner Sea]], and buyers from the [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]] looking to bypass Port Nevarellon's tariffs.
 - **Primary Income:** The lagoon is the ultimate fencing floor. Pirates offload stolen silks, spices, and Imperial gold. In return, they buy the only thing they can't steal on the open ocean: fresh water, safe harbor, and repairs using Divtown's rot-resistant timber.
-- **The Washing of the Coin:** Goods are offloaded here, logged by [[200 Cast/Telorna Belaar|Telorna Belaar]], stamped with Lord Thorne's noble seal as "legally salvaged marsh-wreckage," and then rowed north into the city as legitimate merchandise.
+- **The Washing of the Coin:** Goods are offloaded here, logged by [[200 Cast/Tahra Beyr|Tahra Beyr]], stamped with Lord Thorne's noble seal as "legally salvaged marsh-wreckage," and then rowed north into the city as legitimate merchandise.
 
 ## ⚔️ Security & Defense
 - **The Navigational Shield:** The lagoon's primary defense is the impossibility of finding it. A warship attempting to navigate the mud-choked channels without a guide like [[Morgran the Abomination|Morgran]] will rip its hull open on submerged roots miles before reaching the basin.
@@ -31,5 +31,5 @@
 
 ## 👥 Notable NPCs Present
 - [[200 Cast/Captain Vesper Locke|Captain Vesper "Red-Wake" Locke]] — *Captain of the 'Carrion Crow'. The unofficial speaker for the pirate crews, currently negotiating repair costs.*
-- [[200 Cast/Telorna Belaar|Telorna Belaar]] — *Frequent Visitor. She stands on the pontoons with a ledger, calculating the exact exchange rate of stolen spices for raw timber.*
+- [[200 Cast/Tahra Beyr|Tahra Beyr]] — *Frequent Visitor. She stands on the pontoons with a ledger, calculating the exact exchange rate of stolen spices for raw timber.*
 - [[Morgran the Abomination|Morgran the Abomination]] — *The only pilot trusted to guide the heavy galleons through the shifting mud-veins into the lagoon.*

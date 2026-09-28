@@ -32,5 +32,5 @@ The balance of power in Port Nevarellon is delicate and highly transactional:
 
 ## 🔮 The Realism-Fantasy Intersect
 While magic exists, it is bounded by industrial cost:
-- **[[The Brine-Glow Lanterns| The Brine-Glow Lanterns:]]** The city's main avenues are illuminated at night not by oil, but by glass globes containing chemically preserved, bioluminescent deep-sea algae. Maintaining these lanterns is a massive municipal expense managed by [[The High Alchemist Guild|The High Alchemist Guild]].
+- **[[The Brine-Glow Lanterns| The Brine-Glow Lanterns:]]** The city's main avenues are illuminated at night not by oil, but by glass globes containing chemically preserved, bioluminescent deep-sea algae. Maintaining these lanterns is a massive municipal expense managed by the Port Nevarellon chapter of [[The Guild of Alchemists|the Guild of Alchemists]].
 - **The Tide-Wards:** Ancient, eroding basalt monoliths are embedded along the Sea-Wall. They do not stop storms, but they stabilize the bedrock beneath the city to prevent the timber stilts from sliding into the ocean shelf during tremors.

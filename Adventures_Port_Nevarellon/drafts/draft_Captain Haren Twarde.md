@@ -30,5 +30,5 @@ Her presence in the Grey Water Lagoon keeps the southern borders of the Whisperi
 
 ## 🔗 Connected Notes
 - **Fencing Partner:** [[200 Cast/Lord Kelf Thorne|Lord Kelf Thorne]] (She tolerates his noble vanity because his legal seals are flawless).
-- **Logistical Liaison:** [[200 Cast/Telorna Belaar|Telorna Belaar]] (Haren coordinates directly with Telorna to secure timber for hull repairs).
+- **Logistical Liaison:** [[Tahra Beyr|Tahra Beyr]] (Haren coordinates directly with Telorna to secure timber for hull repairs).
 - **The Southern Enemy:** [[100 Society/The Chalced Kingdom|The Chalced Kingdom Navy]] (Her primary target and bitterest rivals).

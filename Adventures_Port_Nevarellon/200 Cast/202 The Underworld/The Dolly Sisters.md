@@ -38,6 +38,11 @@
 Originally from the squalid farming villages outside the city, the sisters arrived in Port Nevarellon twenty years ago with nothing. They survived by converting a derelict ship hull into the port's most secure lounge.
 ### 💎 The Black Ledger (The Vault Secret) 
 The sisters do not just collect secrets for survival—they are running a massive extortion ring against the city's elite. Hidden behind a false bulkhead in their private cabin is a leather-bound journal written in Clara's precise code. It contains the names of several prominent nobles from **The High Quarter** who are secretly financing illegal smuggling operations through **The Iron-Anchor Syndicate** to avoid paying the [[Council of Five]]'s maritime tariffs. This ledger is their ultimate life insurance policy; if either sister is murdered, a designated courier has instructions to drop the journal directly on the steps of the High Court. 
+### 📜 The Second Deed
+The sisters hold a Council-stamped deed to the hull they converted. So does [[Garrick the Keelhauler|Garrick]], through one of his shell companies. How the Writ Seat came to stamp the same hull twice is a question nobody involved wants asked.
+
+Neither side will take it to the [[The Cult of the Zenith|Cult of the Zenith]]. The Court of Nullity can void a deed and can never confirm one — a hearing would most likely end with both instruments struck and a ship with no lawful owner, which in Port Nevarellon means a ship that belongs to whoever the Golden Company removes last. So the matter sits. The sisters pay their weekly tribute and call it protection; Garrick collects it and, privately, calls it rent. Each keeps their paper somewhere dry, and each knows the other's paper is exactly as good.
+
 ## 🔗 Connected Notes 
 - **Primary Creditor / Protector:** [[The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] 
 - **Frequent Conspirators:** [[Maeve the Scribe|Maeve the Scribe]] (Who helps translate the shipping codes)

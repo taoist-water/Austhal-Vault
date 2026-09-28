@@ -20,8 +20,8 @@ Six registers are already in the vault. They aren't decorative — the register 
 | Register | Sound | Canon examples | Who uses it |
 |---|---|---|---|
 | **A — Coastal Common** | Blunt, 1–2 syllables, hard stops. Surnames are occupational, physical, or geographic. | Wren Cobb, Silas Bane, Kelf Thorne, Halvard Stross, Haren Twarde, Alfric Danniken, Lidda Shoon, Garrick, Maeve, Kaleb | Un-Landed, dockers, marsh-folk, rural tenants, most of the Blue-Cloaks |
-| **B — Landed Latinate** | Polysyllabic, vowel-heavy, `-us / -ius / -a / -os` endings. Surnames are house names. | Tythius De Vonce, Valerius, Aerthos, Corvus, Isolde Vantry, Telorna Belaar, Nevarellon | High Quarter, ducal houses, Council patrons, saints |
-| **C — Southern (Twelgorn)** | Guttural, `Al-` patronymic particle, long back vowels. | Qasim Al Goor | Twelgorn-born, escaped slaves, Retrievers |
+| **B — Landed Latinate** | Polysyllabic, vowel-heavy, `-us / -ius / -a / -os` endings. Surnames are house names. | Tythius De Vonce, Valerius, Aerthos, Corvus, Isolde Vantry, Nevarellon | High Quarter, ducal houses, Council patrons, saints |
+| **C — Southern (Twelgorn)** | Guttural, `Al-` patronymic particle, long back vowels. | Qasim Al Goor, Tahra Beyr | Twelgorn-born, escaped slaves, Retrievers |
 | **D — Dwarven** | Consonant-dense, no soft endings; a trade-lineage word replaces a surname. | *(none in canon — proposed)* | Oakhaven Cove, deep-mine work, the Spine |
 | **E — Atoll (Elf / Halfling / mixed)** | Soft, liquid consonants, tidal imagery. **Weathered, not ethereal.** | *(none in canon — proposed)* | Shield Atolls stilt-villages, reef fisher communities |
 | **F — Half-Orc / Monstrous descent** | Mac-/Mor- prefixes, hard clusters. Often a single name — chattel status denied them lineage. | Maccorrack, Morgran | Escaped slaves, dock muscle, marsh outcasts |
@@ -85,7 +85,7 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 23 | Ottavian Kress | B | Guild-Master of the coopers; sponsors Un-Landed grievances for a cut |
 | 24 | Serrian De Vonce | B | Cadet branch of the Iron Court, kept far from the succession |
 | 25 | Palla Vantry | B | Distant kin to Isolde; born Landed and resents the comparison |
-| 26 | Halcus Rive | B | Alchemist Guild assessor, licences Brine-Glow lanterns |
+| 26 | Halcus Rive | B | Guild of Alchemists assessor, licences Brine-Glow lanterns |
 | 27 | Ysolde Corran | B | Deliberate near-miss on Isolde Vantry; a social climber's chosen name |
 | 28 | Marcian Thole | B | Shipwright house; owns a deep-water keel and therefore a vote |
 | 29 | Rashid Al Deyr | C | Twelgorn-born tally-clerk; came north legally and is trusted by nobody |
@@ -245,7 +245,7 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 25 | The Wave-Naming | Rite | Tidespoken | A destructive storm is formally named and thereby acknowledged as sovereign |
 | 26 | Salt-Tongue | Rite | Tidespoken | Keel-blessing; a shipwright pays for it whether he believes or not |
 | 27 | Lantern Watch | Civic | Golden Company | Low Moons mobilisation; double patrols, closed gates |
-| 28 | The Shuttering | Trade rite | High Alchemist Guild | All Brine-Fire stock sealed and logged before the Low Moons → *canon tie* |
+| 28 | The Shuttering | Trade rite | Guild of Alchemists | All Brine-Fire stock sealed and logged before the Low Moons → *canon tie* |
 | 29 | Moonmeat Night | Folk | Rural coast | Livestock slaughtered before the Low Moons rather than risk what the light does |
 | 30 | The Sleet Vigil | Folk | Northern coast | Winter Moons; households keep a light burning for anyone still on the road |
 | 31 | The Widow's Wage | Labour | Dockers | Collection for families of the year's dead. Enforced socially, not legally |
@@ -267,7 +267,7 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 47 | The Skiff-Count | Civic | Divtown | Every hull counted; determines who Kelf Thorne can tax |
 | 48 | The Unchaining | Rite | Divtown | Marks a slave one full year free. The whole town turns out — *mote of hope* |
 | 49 | Retriever's Fast | Folk | Silted Marshes | Days when nobody moves on open water. Everyone knows why |
-| 50 | The Iron-Burl Felling | Trade rite | Silted Marshes | First cut of the season; Telorna Belaar's crews go first by force of habit |
+| 50 | The Iron-Burl Felling | Trade rite | Silted Marshes | First cut of the season; Tahra Beyr's crews go first by force of habit |
 
 ---
 

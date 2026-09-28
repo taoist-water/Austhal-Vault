@@ -1,7 +1,7 @@
 # Faction: The Cobalt Feather Syndicate
 #faction/active #status/solid
 
-> "Garrick’s men fight with iron pins and broken bottles. The Feathers fight with a whisper in a magistrate’s ear, a forged cargo manifestation, and a drop of tasteless toxin in your evening soup." — Captain Vance, Dock-Watch
+> "Garrick’s men fight with iron pins and broken bottles. The Feathers fight with a whisper in a magistrate’s ear, a forged cargo manifestation, and a drop of tasteless toxin in your evening soup." — Captain Elias Vance, Dock-Watch
 
 > "A drawn sword is a failure of imagination. Why slit a magistrate's throat when you can simply buy his debts and own his ink?" — Alfric Danniken
 
@@ -18,7 +18,7 @@
 ## 🪓 Operational Methodology (The Realism Anchor)
 The Cobalt Feather Syndicate operates on the philosophy that violence is bad for profit. They view the Iron-Anchor Syndicate as crude thugs. Instead of bribing low-level Watch sergeants to look away from a cargo boat, the Cobalt Feather forges the paperwork so perfectly that the Golden Company guards will personally escort the smuggled cargo out of the Basin, believing it belongs to a member of the Council of Five.
 
-- **The High-Steel and Magic Market:** They are the primary source for illegal **High-Steel** weapons inside the city walls. They also specialize in smuggling unanchored god-shards recovered from the deep trenches of the Expanse, selling them to rogue alchemists in the High Quarter who want to bypass the city's strict ecclesiastical monopolies.
+- **The High-Steel and Magic Market:** They are the primary source for illegal **High-Steel** weapons inside the city walls. They also specialize in smuggling unanchored god-shards recovered from the deep trenches of the Expanse, selling them to rogue alchemists in the High Quarter who want to bypass the monopolies of [[The Guild of Alchemists|the Guild of Alchemists]].
 - **The Friction:** There is a silent, bloody cold war between the Cobalt Feather and the Iron-Anchor Syndicate. Garrick wants to control the Basin, but the Cobalt Feather systematically leaks information about Iron-Anchor operations to the Golden Company, letting the law wipe out their rivals while keeping their own hands clean.
 
 ## ⚖️ Operational Philosophy (The "No-Blood" Mandate)

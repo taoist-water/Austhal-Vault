@@ -1,7 +1,7 @@
 # Faction: The Civic Constabulary (The Coppers)
 #faction/active #status/solid
 
-> "The Golden Company protects the gold. We protect the mud. And let me tell you, the mud doesn't pay its taxes on time, but it sure as hell stabs you just as deep." — Sergeant Vance, Dock-Watch
+> "The Golden Company protects the gold. We protect the mud. And let me tell you, the mud doesn't pay its taxes on time, but it sure as hell stabs you just as deep." — Captain Elias Vance, Dock-Watch
 
 ## 📊 Faction Profile
 - **Formal Name:** The Civic Constabulary of Port Nevarellon

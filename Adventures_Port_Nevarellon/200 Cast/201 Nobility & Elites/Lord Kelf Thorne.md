@@ -22,5 +22,5 @@
 - **Moral Compromises:** Kelf presents himself as a savior to the escaped Twelgorn slaves and outcasts, but in reality, he is running a feudal crime syndicate. He exploits their labor in the dangerous timber swamps, knowing they have nowhere else to go.
 
 ## 🔗 Connected Notes
-- **Right Hand / Enforcer:** [[200 Cast/Telorna Belaar|Telorna Belaar]] 
+- **Right Hand / Enforcer:** [[200 Cast/Tahra Beyr|Tahra Beyr]] 
 - **Vital Guide:** [[Morgran the Abomination|Morgran (The Cursed Dwarf)]]

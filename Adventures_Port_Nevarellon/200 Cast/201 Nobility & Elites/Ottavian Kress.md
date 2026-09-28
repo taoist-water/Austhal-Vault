@@ -12,7 +12,7 @@
 
 ## ⚖️ Realism & Physicality
 - **Age & Vitality:** Halfling, 51. Thick through the chest and shoulders from four decades of raising barrel staves; genuinely strong and increasingly gouty
-- **Physical Flaws / Limitations:** Chronic gout in both feet, which he treats with [[Cindin]] more often than he admits and which makes long chamber sessions an endurance test. Coopers' deafness in one ear. The tip of his left thumb is missing — an adze, at nineteen
+- **Physical Flaws / Limitations:** Chronic gout in both feet, which he treats with [[Mogwort]] more often than he admits and which makes long chamber sessions an endurance test. Coopers' deafness in one ear. The tip of his left thumb is missing — an adze, at nineteen
 - **Financial Status:** Comfortable, complicated, and not entirely clean. The Guild income is real. The grievance-sponsorship cut is real. He is the only councillor with money moving through accounts he could not fully explain to a magistrate, and this is not because he is hiding wealth — it is because the network is too large and too informal for anyone, including him, to have a full picture
 - **Equipment & Upkeep:** A Guild-Master's seal he still uses personally, a cooper's adze mounted on the wall of his hall as a boast, and a Golden Writ he bought the week he was enfranchised and has never once needed
 
@@ -22,7 +22,7 @@
 - **Moral Compromises:** He monetises desperation. Under the Edicts an Un-Landed citizen cannot press a grievance without a Landed sponsor, and Kress sponsors more than anyone in the city — for a percentage. He has taken money from the mother of a crushed dockhand to sue the man who crushed him. He also *won*, which is more than anyone else was offering, and he knows that sentence is the whole of his moral position
 
 ## 📜 Backstory & Current Role
-Otta Kress was born in the Muddy Docks and made barrels for twenty years before he made money. Everything in Port Nevarellon moves in a barrel — salt fish, brine-glow algae, black powder, water — and the man who controls the cooperage controls a chokepoint nobody thinks about until it fails. He turned that into a Guild-Mastership, a deed, and eventually the **Water Seat**.
+Otta Kress was born in the Muddy Docks and made barrels for twenty years before he made money. Everything in Port Nevarellon moves in a barrel — salt fish, brine-glow algae, black powder, water — and the man who controls the cooperage controls a chokepoint nobody thinks about until it fails. Powder kegs are coopered only under licence from the [[The Guild of Alchemists|Guild of Alchemists]], and that licence is the one contract the Coopers' Guild cannot afford to lose. He turned that into a Guild-Mastership, a deed, and eventually the **Water Seat**.
 
 The Water Seat governs the cisterns, the **Lastwater** measure that sets the year's price of water, and the city's side of the [[Tythius De Vonce|Spine Aqueduct]] arrangement. It is the seat most exposed to a ducal hostage-taking and the seat that most directly touches every Un-Landed life in the city, and Kress fought for it over the more lucrative alternatives because he understood exactly what it was worth in loyalty.
 

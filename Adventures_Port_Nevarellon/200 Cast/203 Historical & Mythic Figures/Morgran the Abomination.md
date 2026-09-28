@@ -11,7 +11,7 @@
 
 ## ⚖️ Realism & Physicality
 - **Age & Vitality:** 112 years old (Dwarven). 
-- **The Curse (The Mutation):** Decades ago, Morgran was a prospector who dug too deep in the southern marshes and struck an unanchored shard of the Undertow itself, sunk deep in the ocean floor. The chaotic magic warped his dwarven biology. His lower jaw and neck are flared with pulsing, fish-like gills, and patches of thick, slimy gray scales cover his arms and torso. His eyes are entirely black, like a deep-sea predator. Fittingly, the curse didn't just change his body — it left a piece of the Undertow's pull inside him, which is likely why saltwater soothes the change and dry air makes it crack and bleed.
+- **The Curse (The Mutation):** Decades ago, Morgran was a prospector who dug too deep in the southern marshes and struck an unanchored, Undertow-touched god-shard buried deep beneath the marsh bed. The chaotic magic warped his dwarven biology. His lower jaw and neck are flared with pulsing, fish-like gills, and patches of thick, slimy gray scales cover his arms and torso. His eyes are entirely black, like a deep-sea predator. Fittingly, the curse didn't just change his body — it left a piece of the Undertow's pull inside him, which is likely why saltwater soothes the change and dry air makes it crack and bleed.
 - **Physical Flaws / Limitations:** He is a raging alcoholic. Because of his mutation, he must submerge himself in saltwater at least once a day or his skin begins to crack and bleed. He is universally shunned by his own people in [[000 Atlas/The Ubaraz Kingdom|The Ubaraz Kingdom]].
 - **Equipment & Upkeep:** Carries a specialized, heavy dwarven sounding-lead on a chain to test the depth of the shifting sandbars, and a perpetually empty iron flask.
 

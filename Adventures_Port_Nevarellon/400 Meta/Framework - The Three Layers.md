@@ -25,7 +25,7 @@ The obvious structure is a feudal pyramid — Dukes, then their vassals, then lo
 
 The [[History - The Broken Crown of Austhal|Ducal Accord]] decapitated the pyramid. The Crown is smashed, the word "King" is illegal, and there is no fountain of honour above the Dukes from which anyone's authority descends. [[Port Nevarellon|Port Nevarellon]] is not a vassal of anybody — the Accord's own structure puts the Free City and the Five Dukedoms side by side, not one beneath the other. A rank model has nowhere to put the [[Council of Five|Council of Five]] without asserting something the Accord explicitly denies.
 
-Rank also fails to predict actual power. [[Garrick the Keelhauler|Garrick the Keelhauler]] holds no title and functionally governs [[The Muddy Docks|the Muddy Docks]] — which no Duke does. [[Telorna Belaar|Telorna Belaar]]'s logging crews are the real authority in the [[Silted Marshes|Silted Marshes]] over a man who calls himself Baron.
+Rank also fails to predict actual power. [[Garrick the Keelhauler|Garrick the Keelhauler]] holds no title and functionally governs [[The Muddy Docks|the Muddy Docks]] — which no Duke does. [[Tahra Beyr|Tahra Beyr]]'s logging crews are the real authority in the [[Silted Marshes|Silted Marshes]] over a man who calls himself Baron.
 
 So the Layers sort by **reach** — how far the consequences travel when this entity acts or collapses — and each entry is built from what it *holds*, not what it is *called*.
 
@@ -112,7 +112,7 @@ Sits at Layer 1 despite being, on paper, a contractor. That discomfort is the po
 Confirmed inhabitants:
 
 - **[[Lord Kelf Thorne|Lord Kelf Thorne]]**, self-styled Baron of the Silted Marshes — a Layer 2 title in a place Layer 1 does not reach at all. Chokepoint: a noble seal that launders pirate cargo as marsh salvage, plus rot-proof Iron-Burl timber that every shipwright on the coast needs.
-- **[[Telorna Belaar|Telorna Belaar]]** — actual control of the marsh through the logging crews, with no title whatsoever. The clean demonstration of why this framework sorts by holding, not by rank.
+- **[[Tahra Beyr|Tahra Beyr]]** — actual control of the marsh through the logging crews, with no title whatsoever. The clean demonstration of why this framework sorts by holding, not by rank.
 - **The Twelgorn "Retrievers"** — armed slave-hunters projecting a foreign power's authority into the southern marsh fringes.
 
 Known vacancies, in priority order:
@@ -131,7 +131,7 @@ Known vacancies, in priority order:
 
 **Membership test:** contained within a single settlement or district. Well-served by the existing Faction and Character templates.
 
-Populated: [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]], [[The Cobalt Feather Syndicate|Cobalt Feather Syndicate]], [[100 Society/The Tidespoken Clergy|Tidespoken Clergy]], [[The High Alchemist Guild|High Alchemist Guild]], [[Faction - The Civic Constabulary (The Coppers)|Civic Constabulary]], [[The Dolly Sisters|the Dolly Sisters]], [[Silas Bane|Silas Bane]], the Cinder Row elder-councils.
+Populated: [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]], [[The Cobalt Feather Syndicate|Cobalt Feather Syndicate]], [[100 Society/The Tidespoken Clergy|Tidespoken Clergy]], [[The Guild of Alchemists|Guild of Alchemists]] (Port Nevarellon chapter only — the parent Guild is cross-border and sits outside the Layers), [[Faction - The Civic Constabulary (The Coppers)|Civic Constabulary]], [[The Dolly Sisters|the Dolly Sisters]], [[Silas Bane|Silas Bane]], the Cinder Row elder-councils.
 
 **The cross-layer rule — this is where the good stories are.** A Layer 3 entity that gets its hand on a Layer 1 chokepoint is the setting's most reliable plot generator. Silas Bane trying to seize the Brine-Glow monopoly is a Layer 3 gang reaching for municipal infrastructure. Garrick buying legal deeds is a Layer 3 crook acquiring Layer 1 legal standing one warehouse at a time. When you build a Layer 3 faction, always name which Layer 1 chokepoint it dreams about.
 
@@ -174,7 +174,7 @@ These four files need updating to carry the addition. Flagging rather than editi
 
 ## ❓ Open Questions Raised By This Framework
 
-- **Undertow → low-frequency terminology pass (pending).** The frequency language in the revised Five Duchies doc is the current canon; `Silted_Marshes.md`, `Morgran_the_Abomination.md`, and `Cosmology - The Celestial Graveyard...md` simply haven't been folded in yet. **Scope rule for that pass: the adjective converts, the place name does not.** *Undertow* remains the name of the Tideways' lowest layer per `Cosmology - The Great Fracture.md` — a `status/solid` document where it is the load-bearing cosmological term. Only taint and property usages become "low-frequency": Morgran struck a low-frequency god-shard, but what he struck it *in* is still the Undertow. Once that lands, the `Tidal Undertow` Domain Tag in `Religion.md` should be renamed — with the word reserved for the lower plane, a purely kinetic shove effect carrying it reads as cosmological when it isn't.
+- ~~**Undertow → low-frequency terminology pass.**~~ **RESOLVED 2026-09-28 — reversed.** "Frequency" language is retired. The tidal cosmology of `Cosmology - The Great Fracture.md` is canon throughout: *the Undertow* names the Tideways' lowest layer, and *Undertow-touched* is the adjective for taint and property — Morgran struck an Undertow-touched god-shard; the Ash-Blight is Undertow-touched soot. Applied to The Five Duchies, The Inner Sea, The Golden Company, History, Tythius De Vonce, Maccorrack, Morgran and The Wondrous Markets.
 - **Broken link.** Corvus Spire is wikilinked as `[[The Inner Sea#🪓 Resource & Industry|Corvus Spire]]` — pointing the seat at a section of a different region's document, which references it rather than defining it. Recommend a bold unlinked term until Corvus Spire gets its own stub.
 - **"Functionally extinct" is a hedge.** With the seats now named, the epigraph's "one rules an ossuary" reads as poetry rather than a claimant. Confirm that's intended — if there *is* a surviving Corvus line somewhere, that changes the annexation problem from a legal impossibility into a live succession crisis.
 - **Tier vocabulary collision.** `The Sunken Ward` and `The Muddy Docks` are both tagged `#location/district`, but the Docks sit *inside* the Ward. If the Layers are formalising scale, the location tags should too — recommend `#location/district` for Ward-scale and a new `#location/neighborhood` for Docks-scale.

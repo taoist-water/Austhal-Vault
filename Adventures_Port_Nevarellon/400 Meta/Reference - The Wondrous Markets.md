@@ -112,10 +112,10 @@ Registered in the Basin at any given time. [[Marcian Thole]] owns four of them, 
 
 The single most useful framing available: **the Fourth is what the Duchy of Corvus would have been if the mountain hadn't fallen on it.**
 
-Corvus took a breach in the god-frequencies in 8 A.A. and a spire came down and killed the duchy outright. The Fourth took its own breach and **the city stayed up** — and then had to go on living around an opening nobody could close. Same phenomenon, two outcomes, and one of them is arguably worse. That grounds every element of the notes in machinery the setting already has, and it gives the Corvus Scar a mirror the players can actually visit.
+Corvus took a breach into the Undertow in 8 A.A. and a spire came down and killed the duchy outright. The Fourth took its own breach and **the city stayed up** — and then had to go on living around an opening nobody could close. Same phenomenon, two outcomes, and one of them is arguably worse. That grounds every element of the notes in machinery the setting already has, and it gives the Corvus Scar a mirror the players can actually visit.
 
 - **The five columns of flame** are the breach, still open, standing where the grandest house was — which is to say it opened *inside* the seat of power, exactly as Corvus Spire did
-- **The winged fiends** are low-frequency entities that came through, same class as the Corvus incursion. `Cosmology` already defines the Undertow as what the pious call the Hells
+- **The winged fiends** are Undertow entities that came through, same class as the Corvus incursion. `Cosmology` already defines the Undertow as what the pious call the Hells
 - **The beasts that fear light** are the part that pays off hardest, and it is because of the sky. The sun does not rise — it *comes back*, from nowhere in particular, owing nobody anything. In the Fourth, that is not theology. It is the difference between being alive at the end of the dark and not. **Every citizen of the Struck City lives the setting's central dread as a literal nightly fact**, and has done for however long this has been going on
 
 ### 🩸 The Ruler — sophistication is the point, not the disguise

@@ -14,7 +14,7 @@
 - **Age & Vitality:** Human, 44. Healthy, unremarkable, and extremely well-maintained in the manner of someone who regards her body as an asset under management
 - **Physical Flaws / Limitations:** Severe and worsening long-sightedness — she works with ground-glass lenses and a bright lamp, and can no longer read a ledger unaided. In a city where power is paper, she is going blind to paper. She has told no one, including her own house, and the strain headaches are getting harder to conceal
 - **Financial Status:** The wealthiest of the five by a wide margin, and the only one whose wealth is genuinely liquid. She could buy Thole's yards outright and has calculated the figure more than once
-- **Equipment & Upkeep:** Lenses in a plain case, replaced every eighteen months at ruinous cost from the [[The High Alchemist Guild]]. No Golden Writ. She has never owned a weapon and regards the fact as a statement
+- **Equipment & Upkeep:** Lenses in a plain case, replaced every eighteen months at ruinous cost from [[The Guild of Alchemists|the Guild of Alchemists]]. No Golden Writ. She has never owned a weapon and regards the fact as a statement
 
 ## 🧠 Psychology & Drive
 - **Immediate Goal:** Close the **Unwritten Day**. Her fourth attempt in eleven years, and this one is drafted more carefully — she is not proposing to abolish it but to redefine the turn-boundary, which is technical enough that Kress's base may not notice in time

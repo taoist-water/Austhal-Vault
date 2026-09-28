@@ -8,7 +8,7 @@
 - **Current Occupation:** Enforcer Captain of [[The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] / Controller of the Lower Slip Rackets.
 - **Social Class / Standing:** Aggressive Street Aristocrat / Underworld Warlord.
 - **Primary Residence:** A heavily guarded suite above the fighting pits at [[000 Atlas/The Rusty Anchor Foundry|The Rusty Anchor Foundry]].
-- **Affiliations:** [[The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] (Faction Leader of the Young Bloods); covert buyer from rogue members of [[The High Alchemist Guild|The High Alchemist Guild]].
+- **Affiliations:** [[The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] (Faction Leader of the Young Bloods); covert buyer from rogue members of the Port Nevarellon chapter of [[The Guild of Alchemists|the Guild of Alchemists]].
 
 ## ⚖️ Realism & Physicality
 - **Age & Vitality:** 29 years old. Tall, broad-shouldered, and radiating an erratic, nervous energy. Unlike Garrick's slow deliberation, Silas moves with explosive, twitchy speed—a side-effect of chronic exposure to alchemical vapors.

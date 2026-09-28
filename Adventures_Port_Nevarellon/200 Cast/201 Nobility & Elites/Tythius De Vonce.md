@@ -19,7 +19,7 @@
 ## 🧠 Psychology & Drive
 - **Immediate Goal:** Secure an advantageous political marriage or treaty for his stubborn middle daughter, Sheandri, to lock down an alliance with the neighboring Duchy of Stonereach.
 - **The Core Fear:** The extinction of his house through internal decay. He has watched human lines rot from within over his long life, and he deeply fears his children lack the hard iron grit required to protect the northern border when he finally passes.
-- **Moral Compromises:** To fund his massive border keeps, Tythius turns a blind eye to the brutal working conditions within his iron mines. He also quietly permits certain "controlled" low-frequency alchemical weapons to be tested by his garrison captains, violating the spirit of the old laws for the sake of tactical readiness.
+- **Moral Compromises:** To fund his massive border keeps, Tythius turns a blind eye to the brutal working conditions within his iron mines. He also quietly permits certain "controlled" Undertow-touched alchemical weapons to be tested by his garrison captains, violating the spirit of the old laws for the sake of tactical readiness.
 
 ## 📜 Backstory & Current Role
 Tythius was a young commander during the brutal Civil War that shattered the old kingdom. He personally witnessed the execution of the last King and was one of the original signatories who negotiated the Ducal Accord with the rising merchant class. Having lived for nearly nine decades, he has outlived all the original human merchants who hired the Golden Company. 

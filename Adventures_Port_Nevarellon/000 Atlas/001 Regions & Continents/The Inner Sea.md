@@ -41,7 +41,7 @@
   - **The Shield Islands:** Entirely self-governed by the local captains and village elders. The law of the islands is dictated by maritime necessity—the Golden Company has no standing army here.
 - **Notable Fauna / Predators:** 
   - **Grounded Threats:** Reef-drakes and giant barnacle-mimics that latch onto wooden hulls to rot the timber.
-  - **The Leviathans:** Massive, prehistoric, low-frequency monstrous sea creatures that drift up from the abyssal trenches of the outer ocean. Some are heavily armored, requiring specialized harpoon ballistas and alchemical explosives to kill.
+  - **The Leviathans:** Massive, prehistoric, Undertow-touched monstrous sea creatures that drift up from the abyssal trenches of the outer ocean. Some are heavily armored, requiring specialized harpoon ballistas and alchemical explosives to kill.
 
        [ THE OPEN OCEAN / THE VOID ]
                    | 

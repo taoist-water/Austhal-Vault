@@ -28,7 +28,7 @@ The economy of the city is designed as a poverty trap. Un-Landed laborers are pa
 To understand the squalor of the Muddy Docks, one must look at what a laborer's 3 coppers actually buys them at the end of a shift:
 
 *   **1 cp:** A bowl of thin, heavily salted fish-head stew and a chunk of hardtack bread.
-*   **1 cp:** A mug of watered-down, marsh ale (despairing soles sometimes dissolve [[Cindin|Cindin]] into it numb the pain of the labor).
+*   **1 cp:** A mug of watered-down, marsh ale (despairing soles sometimes dissolve [[Mogwort|Mogwort]] into it numb the pain of the labor).
 *   **1-2 cp:** Nightly rent for a lice-infested hammock strung up in a crowded, drafty warehouse (a "flophouse").
 *   ***The Trap:*** A dockhand's daily survival costs exactly what they earn. There is zero margin for error. If they rip their boots or catch marsh-fever, they must take a loan from the [[The Iron-Anchor Syndicate|Syndicate]] just to eat.
 

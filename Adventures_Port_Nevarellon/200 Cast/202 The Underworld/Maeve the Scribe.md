@@ -1,10 +1,10 @@
 # Character: Maeve the Scribe
 #cast/active #status/solid
 
-> "Garrick bought my freedom, but Silas bought the guards at my front door. I don't balance loyalty; I balance survival." — Maeve Vance (The Scribe)
+> "Garrick bought my freedom, but Silas bought the guards at my front door. I don't balance loyalty; I balance survival." — Maeve Dunn (The Scribe)
 
 ## 📊 Vital Statistics
-- **Full Name / Aliases:** Maeve Vance / "The Ledger-Witch" (A name whispered by superstitious dock hands who don't understand how she tracks thousands of barrels across fifty ships by memory).
+- **Full Name / Aliases:** Maeve Dunn / "The Ledger-Witch" (A name whispered by superstitious dock hands who don't understand how she tracks thousands of barrels across fifty ships by memory).
 - **Current Occupation:** Chief Accountant, Auditor, and Cryptographer for [[The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]].
 - **Social Class / Standing:** Educated Lower Class / Critical Underworld Asset.
 - **Primary Residence:** A secure, windowless loft apartment directly above the vault room in [[The Black Mast Warehouse|The Black Mast Warehouse]].
@@ -14,7 +14,7 @@
 - **Age & Vitality:** 31 years old. Extremely pale from spending fourteen hours a day beneath sputtering tallow candles and dim bioluminescent globes. Her posture is slightly slouched from a decade of bending over heavy parchment ledgers.
 - **Physical Flaws / Limitations:** Severely nearsighted; she requires a pair of rare, thick-lensed alchemical spectacles imported from the mainland to read fine script. Without them, she is virtually blind beyond an arm's length. Her fingers are permanently stained with deep black indelible gall-ink.
 - **Financial Status:** Paid exceptionally well by Garrick, though her wealth is purely abstract—she has a massive "credit ledger" with the city's banks, but rarely leaves the warehouse to spend a single copper. Her true wealth lies in her ownership of the encrypted keys to every smuggling route on the coast.
-- **Equipment & Upkeep:** Carries a custom leather writing kit containing varying grades of iron-gall ink, vellum scraping knives, and wax seals. Tucked into her bodice is a tiny, double-barreled brass derringer (loaded with lead balls)—useless at range, but meant for a last-resort desk ambush.
+- **Equipment & Upkeep:** Carries a custom leather writing kit containing varying grades of iron-gall ink, vellum scraping knives, and wax seals. Tucked into her bodice is a tiny, double-barreled brass derringer (loaded with lead balls)—useless at range, but meant for a last-resort desk ambush. It was Garrick's gift and is the most valuable thing she owns: its powder is Guild-licensed under his name, which tells anyone who knows how to read it that she belongs to him first and is a bookkeeper second.
 
 ## 🧠 Psychology & Drive
 - **Immediate Goal:** Keep the true financial bribe ledgers hidden from [[Silas Bane|Silas Bane]] while subtly falsifying just enough low-level manifest data to keep him from realizing she is stalling.

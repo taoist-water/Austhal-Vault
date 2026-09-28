@@ -1,10 +1,10 @@
-# Character: Telorna Belaar
+# Character: Tahra Beyr
 #cast/active #status/solid
 
-> "The Baron stamps the wax. I make sure the trees fall, the pirates get paid, and the sandbars don't swallow us all." — Telorna Belaar
+> "The Baron stamps the wax. I make sure the trees fall, the pirates get paid, and the sandbars don't swallow us all." — Tahra Beyr
 
 ## 📊 Vital Statistics
-- **Full Name / Aliases:** Telorna Belaar / "The Iron-Knot"
+- **Full Name / Aliases:** Tahra Beyr / "The Iron-Knot"
 - **Current Occupation:** Timber Forewoman / Syndicate Operations Manager of Divtown.
 - **Social Class / Standing:** Escaped Slave / Respected Community Leader.
 - **Primary Residence:** A spartan, highly organized stilt-cabin overlooking the Grey Water Lagoon.
@@ -20,4 +20,4 @@
 - **Moral Compromises:** She despises Lord Kelf's aristocratic pretensions, but she actively keeps him in power. She knows that without his "legitimate" noble seal, Port Nevarellon would classify Divtown as a hostile rogue state and wipe them out.
 
 ## 📜 Backstory & Current Role
-Telorna is the true backbone of Divtown. While Kelf drinks wine and negotiates with pirates, Telorna organizes the labor force of outcasts and refugees. She is the one who wades into the waist-deep muck to harvest the timber. The escaped slaves of the town are fiercely loyal to her, not the Baron. If Lord Kelf ever pushes her too far, she could take control of the settlement in a single hour.
+Tahra is the true backbone of Divtown. While Kelf drinks wine and negotiates with pirates, Tahra organizes the labor force of outcasts and refugees. She is the one who wades into the waist-deep muck to harvest the timber. The escaped slaves of the town are fiercely loyal to her, not the Baron. If Lord Kelf ever pushes her too far, she could take control of the settlement in a single hour.

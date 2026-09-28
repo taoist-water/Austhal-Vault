@@ -150,7 +150,7 @@ A generation can grow up having only known winter Low Moons and be genuinely unp
 
 | Body | What they compute | Their claim |
 |---|---|---|
-| **[[The High Alchemist Guild\|The High Alchemist Guild]]** | The Low Moons tables, reckoned in **days** | They must, for the Brine-Glow and Brine-Fire stock. The tables are their property and they sell access |
+| **[[The Guild of Alchemists\|The Guild of Alchemists]]** | The Low Moons tables, reckoned in **days** | They must, for the Brine-Glow and Brine-Fire stock. The tables are their property and they sell access |
 | **The [[Council of Five\|Council of Five]]** | The civil year, reckoned in **turns** | Contracts, tolls, writs, tariff dates. The Council's clerks publish the turn-roll |
 | **The Cult of the Zenith** | Nothing — and resents it | Holds that a reckoning is a legal instrument and therefore theirs. Has never been able to make that stick |
 | **The Tidespoken Clergy** | The Drowned Lamp's tide-tables | Dispute the Pale Sister's primacy outright. Every harbour pilot uses Tidespoken tables anyway |

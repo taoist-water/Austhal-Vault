@@ -22,7 +22,7 @@ Over 90% of the city's population—including the refugees in [[The Muddy Docks|
 ---
 
 ## 🗡️ The Edicts of Armament
-Because Un-Landed citizens have no property to defend, the Council deems any martial weapon in their hands a direct threat to the city's stability. The Golden Company enforces four strict laws to maintain a monopoly on violence.
+Because Un-Landed citizens have no property to defend, the Council deems any martial weapon in their hands a direct threat to the city's stability. The Golden Company enforces five strict laws to maintain a monopoly on violence.
 
 ### 1. The Palm-Length Edict (The Tool Loophole)
 No Un-Landed citizen may carry a fixed or folding blade longer than the width of a [[100 Society/The Golden Company|Golden Company]] guardsman's palm (roughly four inches). 
@@ -40,11 +40,15 @@ Landed citizens are permitted to own martial weapons (longswords, rapiers, heavy
 By decree of the Council and [[Tythius De Vonce|Duke Tythius De Vonce]], only sworn mercenaries, nobles, and sanctioned guild-masters may purchase refined "High-Steel."
 - **The Reality:** The lower classes are restricted to tools forged from cheap cast-iron or reclaimed ship's bronze. If an Un-Landed citizen tries to parry a Golden Company halberd, their brittle weapon will instantly shatter.
 
+### 5. The Powder Edict
+Black powder is a controlled substance in Port Nevarellon, as it is in most realms that trade with it. The secret of its making belongs to the [[The Guild of Alchemists|Guild of Alchemists]], and every legal measure of it in the city is issued, logged and inspected by the Guild's Port Nevarellon chapter.
+- **The Reality:** A firearm is a weapon for the very wealthy or the very important, and the law is written to keep it that way. A pistol is a martial weapon and requires a Golden Writ — the copper wire and red wax are threaded through the trigger-guard — but the Writ alone is not enough: its charges must be drawn under a Guild licence in the bearer's name. A Landed citizen caught with unlicensed powder is fined and quietly embarrassed. An Un-Landed citizen caught with powder — not a pistol, merely the powder — is presumed to be supplying someone, and is treated as a seditionist until he names them.
+
 ---
 
 ## ⚓ The Syndicate Loophole (Realism Anchor)
 This hyper-bureaucratic system is exactly why the [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]] is so difficult to eradicate. 
 
-[[Garrick the Keelhauler|Garrick the Keelhauler]] uses shell companies and bribes to hold the legal deeds to rotting warehouses and taverns like The Shades. Therefore, in the eyes of the law, **Garrick is a Landed Citizen**. He has the legal right to purchase Peace-Bonds, hire private security, and demand court hearings, using the Council's own laws as a shield against the Golden Company. 
+[[Garrick the Keelhauler|Garrick the Keelhauler]] uses shell companies and bribes to hold the legal deeds to rotting warehouses and taverns — among them a deed to The Shades, a hull the [[The Dolly Sisters|Dolly Sisters]] hold a Council-stamped deed to as well. Neither side has taken the question to the [[The Cult of the Zenith|Cult of the Zenith]], and neither will: the Court of Nullity could void both deeds and could never confirm either. Therefore, in the eyes of the law, **Garrick is a Landed Citizen**. He has the legal right to purchase Peace-Bonds, hire private security, and demand court hearings, using the Council's own laws as a shield against the Golden Company. 
 
 Conversely, violent upstarts like [[Silas Bane|Silas Bane]] are completely Un-Landed. They operate entirely in the shadows because if caught by the watch, they have zero legal protections and are executed in the street.

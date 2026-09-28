@@ -22,7 +22,7 @@
 
 ## ⚔️ Power Dynamics & Threats
 - **Who Claims It:** The **Council of Five** nominally claims the northern estuaries, while the **Chalced Kingdom** claims the southern reaches. [[Lord Kelf Thorne|Lord Kelf Thorne]] claims the title of "Baron of the Silted Marshes."
-- **Who Actually Controls It:** Nature itself is the supreme authority. Locally, survival is dictated by [[200 Cast/Telorna Belaar|Telorna Belaar]] and her logging crews. Along the southern fringes, the true power lies with the heavily armed **"Retrievers"**—brutal bounty hunters sent north by the Chalced Kingdom to hunt down escaped slaves hiding in the muck.
+- **Who Actually Controls It:** Nature itself is the supreme authority. Locally, survival is dictated by [[Tahra Beyr|Tahra Beyr]] and her logging crews. Along the southern fringes, the true power lies with the heavily armed **"Retrievers"**—brutal bounty hunters sent north by the Chalced Kingdom to hunt down escaped slaves hiding in the muck.
 - **Notable Fauna / Predators:** 
   - **Marsh-Stalkers:** Large, ambush-predator reptiles that lie submerged in the mud, mimicking rotting logs before striking.
   - **Silt-Leeches:** Swarming, forearm-sized parasites that drop from the low-hanging canopy into passing boats.

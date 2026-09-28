@@ -1,7 +1,7 @@
 # Faction: The Wyvern Tail Pirates
 #faction/active #status/solid
 
-> "The Twelgorn navy builds their warships like floating fortresses. Haren treats them like fat cattle. She waits until they beach themselves on the silt-banks, then she bleeds them dry." — Telorna Belaar
+> "The Twelgorn navy builds their warships like floating fortresses. Haren treats them like fat cattle. She waits until they beach themselves on the silt-banks, then she bleeds them dry." — Tahra Beyr
 
 ---
 

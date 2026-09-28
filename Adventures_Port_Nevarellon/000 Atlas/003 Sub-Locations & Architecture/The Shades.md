@@ -6,7 +6,7 @@
 ## 📊 Quick Reference
 - **Type of Establishment:** Waterfront Brothel, Gambling Den, and Information Exchange
 - **District / Neighborhood:** [[The Muddy Docks|The Muddy Docks]]
-- **Owner / Proprietor:** [[The Dolly Sisters|The Dolly Sisters]] (Clara and Tessa Dolly)
+- **Owner / Proprietor:** [[The Dolly Sisters|The Dolly Sisters]] (Clara and Tessa Dolly) — **title contested.** [[Garrick the Keelhauler|Garrick]] holds a second Council-stamped deed to the same hull. Neither claimant will take it to the Zenith; see [[The Dolly Sisters]].
 - **Affiliation / Protection:** [[The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] (Pays a heavy weekly tribute to ensure safety from religious zealots and rival gangs)
 
 ## 🪵 Architecture & Layout
