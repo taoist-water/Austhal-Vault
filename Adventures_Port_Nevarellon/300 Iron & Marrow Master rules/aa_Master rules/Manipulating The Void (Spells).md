@@ -717,7 +717,7 @@ The escalation of Bone Claws: instead of just claws, the caster's whole body com
 
 _______________________________________________________________
 
-## Alchemy and Transmutation
+## Transmutation
 
 ### Novice
 

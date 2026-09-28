@@ -326,13 +326,13 @@ ________________________________________________________________________________
 - **Size:** Small (Scale -1)
 - **Move:** 35 ft
 - **Attributes (derived only):** Reflex 2 → Activation Order 8 _(Assumed Zero: everything else.)_
-- **Skills:** Stealth +2.
+- **Skills (2):** Ranged +1, Stealth +1.
 - **Derived stats:**
     - Wound Threshold: **3** _(Base 4 - 1 Small + Brawn 0)_
     - Wound Slots: **1**
     - Stress Limit: **3** _(4 - 1 Small + 0 Fodder)_
     - Momentum Bank: **6** _(4 + Reflex 2)_
-- **Equipment:** Blowgun (Power 0, 2H, Ranged Short/20 ft, Concealable). Strike Roll: 2d6 (Ranged +0).
+- **Equipment:** Blowgun (Power 0, 2H, Ranged Short/20 ft, Concealable). Shoot Roll: 2d6+1 (Ranged +1), Impact = Margin + 0. _Its real threat is Numbing Venom below, which needs no Clash at all — the plain Shoot is what the Ranged rank makes possible._
 - **Traits (1):**
     - **Skittering:** Unnatural speed, shifting limbs, or erratic reflexes make them slippery targets. This creature may move out of a Threat Zone without requiring a test, or causing a free strike.
 - **Special Actions (1):**
@@ -340,7 +340,7 @@ ________________________________________________________________________________
 
 #### Phases
 
-- **Behaviour when unbroken:** Stays hidden and lets Stealth do the work, sniping with Numbing Venom from range rather than closing to melee, retreating through gaps and crevices too small for a Standard-Scale pursuer.
+- **Behaviour when unbroken:** Stays hidden and lets Stealth do the work, leading with Numbing Venom from range and falling back on a plain dart once the venom is spent, rather than closing to melee — retreating through gaps and crevices too small for a Standard-Scale pursuer.
 - **Behaviour when Broken:** Resolves as **The Rout** — vanishes into tunnels only something Small-Scale can follow.
 - **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
 
@@ -1024,19 +1024,18 @@ __________________________________________________________________
     - **Fey Reflexes:** Advantage on Acrobatics checks to avoid environmental hazards, traps, or area-of-effect abilities.
     - **Trance:** Four hours of meditation replaces a full night's rest. She has been watching the meeting point for two days.
     - **Hollow-Boned (Drawback):** Base Wound Threshold reduced by 1 (already folded into the derived stat above).
-- **Allowance (3 — Elite): 2 Feats + 1 Trait.**
+- **Allowance (3 — Elite): 3 Feats.**
     - **Quick** _(Feat, Tier 1; prereq Reflex 1 ✓)_ — +3 to Activation Order, and breaks ties against anyone without it. She acts at 12, before any Green party.
+    - **Long Eye** _(Feat, Tier 1; prereqs Ranged 1 ✓, Notice 1 ✓)_ — she ignores the Disadvantage the **Long** band imposes, so her whole working envelope out to 120 ft is penalty-free. **Extreme** range still costs her Disadvantage and still requires the target be completely in the open.
     - **The Chain** _(Feat, Tier 2; prereqs Reflex 2 ✓, Ranged 2 ✓)_ — on winning a Clash by a Margin of 5+, she may immediately spend 1 Momentum to make a free secondary Shoot against a **different** valid target in range.
-    - **Ambusher** _(Trait)_ — gains Advantage on the Clash roll if attacking an unaware target from Stealth.
-- **Special Actions (2):**
-    - **Range Finder:** _Trigger:_ Declared on a Shoot at **Long or Extreme** range. _Effect:_ She ignores the Disadvantage those bands impose (Metal meet Flesh, Ranges). Self-limiting — it does nothing inside 65 ft, which is exactly where she does not want to be.
+- **Special Actions (1):**
     - **Loose and Withdraw:** _Trigger:_ Instead of a regular Shoot. _Effect:_ She looses at Disadvantage and then moves her full Move without provoking a free Strike. Her answer to anyone who closes.
 
 > _**Running her — the Chain loop.** As an Elite she banks 1 Momentum on any Clash she wins by Margin 5+, and **The Chain** costs 1 Momentum on that same trigger. A Margin-5+ shot therefore pays for its own follow-up: net zero Momentum, one extra Shoot at a second target. Against a Green party's Dodge she clears Margin 5+ roughly a third of the time, so she chains about every third shot and can do it all fight. Nothing here is a new rule — it is the earning table and the feat meeting — but it is the sharpest interaction on the Elite roster, so watch it at the table before it gets reused._
 
 #### Phases
 
-- **Behaviour when unbroken:** Opens at Extreme range with Range Finder before the party knows a fight has started, Ambusher stacking Advantage on that first arrow. Holds distance with Loose and Withdraw, and chains onto a second target whenever a shot lands by 5+. She will give up any amount of ground and never a yard of range.
+- **Behaviour when unbroken:** Opens from concealment at the far edge of **Long** range — 120 ft, penalty-free under Long Eye — before the party knows a fight has started. Holds that distance with Loose and Withdraw, and chains onto a second target whenever a shot lands by 5+. She will shoot at Extreme range if she has to, and eats the Disadvantage for it. She will give up any amount of ground and never a yard of range.
 - **Behaviour when Broken:** Resolves as **The Rout** — she is a professional at three hundred feet and nothing at all at five. Once her Stress maxes out she leaves, and she leaves early.
 - **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
 

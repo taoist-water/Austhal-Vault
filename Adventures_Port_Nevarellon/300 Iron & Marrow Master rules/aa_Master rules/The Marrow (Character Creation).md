@@ -328,6 +328,14 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 * Mechanic: When you first enter a tense social situation, you may use a Free Action to roll Insight against a baseline TN 8. On a success, the GM reveals which NPC in the room has the lowest Resolve score, and you gain Advantage (roll 3d6, keep the highest two) on your first Influence check against them.
 
+**Covering Fire**
+
+* Prerequisites: Ranged 2
+
+>You are not trying to hit him. You are trying to make him stay exactly where he is.
+
+* Mechanic: Instead of a Shoot that resolves Impact, you may loose to suppress. Choose one target within your weapon's range that you can see: they must pass a Resolve check (TN 8) or gain the **Suppressed** condition (Iron Core) — Disadvantage on any action other than Attack, Block, Brace or Regroup, and 1 Dissonant Stress for breaking cover under pressure. This replaces your attack entirely and deals no damage on any result.
+
 **Desperate Edge**
 
 * Prerequisites: Resolve 1
@@ -360,6 +368,14 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 * Mechanic: You ignore the standard social penalties of dealing with hostile environments. When attempting to buy, sell, or trade information, you treat NPCs/settlements with a Hostile stance as if they were Neutral for the purposes of setting prices and negotiating terms.
 
+**Hipshot**
+
+* Prerequisites: Ranged 1, Reflex 1
+
+>The bow is already up. Whether there is room for it is his problem, not yours.
+
+* Mechanic: You ignore the Disadvantage the **Point-Blank** range band imposes on ranged attacks (Metal meet Flesh — Ranges), whether or not your weapon carries the **Sidearm** tag. Being inside someone's Threat Zone no longer costs you your shot.
+
 **Iron Grip**
 
 * Prerequisites: Melee 1 or Prowess 1
@@ -383,6 +399,22 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 >Your knuckles are as dense and dangerous as rusted iron.
 
 * Mechanic: Your Unarmed strikes can deal Lethal impact and can cause physical Wounds.
+
+**Long Eye**
+
+* Prerequisites: Ranged 1, Notice 1
+
+>Everyone can see that far. Not everyone can shoot that far.
+
+* Mechanic: You ignore the Disadvantage the **Long** range band imposes on ranged attacks (Metal meet Flesh — Ranges). **Extreme** range is unaffected — it still imposes Disadvantage, and the target must still be completely in the open.
+
+**Practised Hands**
+
+* Prerequisites: Ranged 1
+
+>Once a fight, the crank turns like it is greased.
+
+* Mechanic: Once per Scene, you may reload a weapon carrying the **Reload** or **Heavy Reload** tag as a Free Action instead of spending an Action on it.
 
 **Quick**
 
