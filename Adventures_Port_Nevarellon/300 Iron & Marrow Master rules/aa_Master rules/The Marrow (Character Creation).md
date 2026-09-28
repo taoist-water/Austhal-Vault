@@ -7,7 +7,7 @@ Step 1: Select Race.
 Step 2: Determine Attributes (Raw Potential).  
 	- 4 DP to spend
 Step 3: Distribute skill points (Practical Training).  
-	- 8 DP to spend
+	- 8 DP to spend (9 for a Human, or a Half-Elf who took Adaptable)
 Step 4: Select 2 Feats. 
 	-  Tier 1 only.
 Step 5: Outfit the character.  
@@ -41,7 +41,7 @@ _Humans in gritty fantasy aren't the strongest or the fastest, but they have she
 
 - **Size:** Standard.
 - **Move Value:** 30 ft/6 squares
-- **Adaptable:** Humans gain 1 extra Skill Point at character creation to represent their varied backgrounds and quick learning.
+- **Adaptable:** Humans gain **1 extra Skill DP** at character creation to represent their varied backgrounds and quick learning. *(DP, not a free rank — a Human's creation Skill budget is 9 rather than 8. This does **not** unlock Rank 6 at creation; see the Skill Costs ladder.)*
 - **Indomitable Spirit:** Humans have a slightly higher breaking point. Their base Stress Limit is increased by +1.
 - **Steady, Not Sharp (Drawback):** Humans burn slow and steady rather than bright. Their Momentum Bank cap suffers a **-1**  — they rarely hit the adrenaline peaks a specialist can chase down.
 - **Playstyle:** The perfect blank slate. They can flex into any role, and that extra point of Stress gives them just a little more breathing room before they panic or break — but they'll be the last one at the table to cash in a 3-Momentum Ultimate.
@@ -53,7 +53,7 @@ _Possessing the ambition of humans and the grace of elves, Half-Elves are charis
 - **Size:** Standard
 - **Move Value:** 30 ft/6 squares
 - **Silver-Tongued:** Half-Elves have a supernatural knack for reading a room. They gain Advantage on Influence checks when trying to persuade, de-escalate a fight, negotiate, or gather information.
-- **Split Heritage:** They may choose either the Human's Adaptable trait (1 extra Skill Point) or the Elf's Fey Reflexes trait (Advantage to dodge hazards) — and inherit that race's paired drawback along with it. Choosing Adaptable also imposes **Steady, Not Sharp** (Momentum Bank cap - 1); choosing Fey Reflexes also imposes **Hollow-Boned** (-1 Wound Threshold). You cannot take the trait without its cost — that cost is what the source race actually paid for it.
+- **Split Heritage:** They may choose either the Human's Adaptable trait (1 extra Skill DP) or the Elf's Fey Reflexes trait (Advantage to dodge hazards) — and inherit that race's paired drawback along with it. Choosing Adaptable also imposes **Steady, Not Sharp** (Momentum Bank cap - 1); choosing Fey Reflexes also imposes **Hollow-Boned** (-1 Wound Threshold). You cannot take the trait without its cost — that cost is what the source race actually paid for it.
 - **Between Worlds (Drawback):** Half-Elves suffer Disadvantage on Influence checks when dealing with an insular or homogeneous community that has had little contact with outsiders — an isolated Elven enclave, a xenophobic frontier hamlet, a closed guild.
 - **Playstyle:** The ultimate face characters and versatile support pieces — everywhere except the one room that's never trusted an outsider.
 
@@ -179,8 +179,8 @@ Calculate your survival metrics based on your Attributes and gear choices.
 ___________________________________________________________________
 # Determine Skills
 
-You have 8 DP to distribute among the Broad Skills. All Skills start at
-Level 0.
+You have 8 DP to distribute among the Broad Skills — **9 if you are a Human, or a
+Half-Elf who took Adaptable**. All Skills start at Level 0.
 
 The Ceiling Rule: a Skill can never be trained higher than its Associated
 Attribute + 3, to an absolute maximum of +6.
@@ -201,9 +201,13 @@ Skill Costs:
 | 5    | 2 DP      | 6 DP  |
 | 6    | 3 DP      | 9 DP  |
 
-Rank 6 cannot be reached at character creation — it costs 9 DP and you have 8. The mortal ceiling is something you climb to across a campaign, not
-something you start at. A creation character who spends 6 of 8 points
-reaching Rank 5 is a genuine prodigy with almost nothing else to their name.
+Rank 6 cannot be reached at character creation, **regardless of budget**. This is
+a flat rule, not an arithmetic consequence — a Human, or a Half-Elf who took
+Adaptable, has 9 Skill DP at creation, which is exactly what Rank 6 costs, and
+still cannot take it. The mortal ceiling is something you climb to across a
+campaign, not something you start at. A creation character who spends 6 of their
+8 points reaching Rank 5 is a genuine prodigy with almost nothing else to their
+name.
 
 The nine Skills under Brawn and Reflex are collectively the Physical Skills.
 Rules that reference "Physical Skills" as a category mean these — no rule currently in the corpus does; the term is defined here ahead of that need.
@@ -1150,7 +1154,7 @@ Two characters can both be "advanced" and be nowhere near equivalent — one mig
 
 | Standing     | Milestone count | DP earned via Advancement | Typical Skill points* | Rough shape of the character                                                                                                                                              |
 | ------------ | --------------- | ------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Green**    | Milestone 0     | 0 DP                      | 8                     | Fresh off character creation. Everything on the sheet came from the Novice Hero build. Best roll is +4 or +5.                                                             |
+| **Green**    | Milestone 0     | 0 DP                      | 8 (9 for a Human)     | Fresh off character creation. Everything on the sheet came from the Novice Hero build. Best roll is +4 or +5.                                                             |
 | **Blooded**  | Milestone 1–2   | 3–6 DP                    | 9                     | Survived the early sessions. Usually one Skill bump or a second Tier 1 Feat — not yet an Attribute increase.                                                              |
 | **Veteran**  | Milestone 3–5   | 9–15 DP                   | 10–11                 | First Attribute increase has usually landed by now, opening ceilings that were previously out of reach. Tier 2 Feats start becoming affordable as prerequisites catch up. |
 | **Hardened** | Milestone 6–9   | 18–27 DP                  | 12–14                 | Multiple Attribute increases banked. Wound Threshold, Stress Limit and Momentum Bank have visibly grown past the creation baseline. A first Skill has likely reached +6.  |
@@ -1158,4 +1162,4 @@ Two characters can both be "advanced" and be nowhere near equivalent — one mig
 
 *\*"Skill points" is the sum of every Skill rank on the sheet. Attributes are excluded on purpose. They no longer contribute to a roll, and at 5 DP each against a Skill rank's 1–3 they are not the same currency — summing the two would add unlike things and flatter a character who bought breadth of ceiling over actual competence. This is the same number the Bestiary's enemy budgets are measured in (see "Enemy Budget by Party Standing" in Beasts, Monsters, Mutants), so a GM can compare the two sides directly.*
 
-*Green's 8 is a hard number: the creation budget is 8 Skill DP and ranks 1–4 cost 1 DP each, so a character who buys no rank past +4 lands on exactly 8 ranks. The only way to land lower is to buy the expensive top of the ladder — a specialist reaching +5 spends 6 DP for 5 ranks and ends on 7. Three independently-built creation characters (Perpetua, Morwenna, Faelan) all sit on exactly 8.*
+*Green's figure is near-fixed: the creation budget is 8 Skill DP — **9 for a Human, or a Half-Elf who took Adaptable** — and ranks 1–4 cost 1 DP each, so a character who buys no rank past +4 lands on exactly that many ranks. The only way to land lower is to buy the expensive top of the ladder — a specialist reaching +5 spends 6 DP for 5 ranks and ends on 7. **Morwenna** (Elf) and **Faelan** (Half-Elf, took Fey Reflexes) are the independently-built creation characters that land on exactly 8. Perpetua is **not** evidence for this figure: she is a Human with a budget of 9, and sits on 8 only because 1 DP is currently unspent on her sheet.*
