@@ -6,7 +6,7 @@
 
 ![[The Jagged Spine]]
 
-![[The Kald Mountain  Territory]]
+![[The Kald Mountain Territory]]
 
 ![[The Five Duchies of the Whispering Coast]]
 

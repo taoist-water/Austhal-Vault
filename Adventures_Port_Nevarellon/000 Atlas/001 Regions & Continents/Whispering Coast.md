@@ -2,7 +2,7 @@
 #location/region #status/draft
 
 ## 🗺️ Geography & Scope
-- **Bordering Areas:** [[draft_Silted Marshes| Silted Marshes]], [[Ubaraz Kingdom]], [[The Kald Mountain  Territory| Kald Mountain Territory]], [[The Inner Sea]]
+- **Bordering Areas:** [[draft_Silted Marshes| Silted Marshes]], [[Ubaraz Kingdom]], [[The Kald Mountain Territory| Kald Mountain Territory]], [[The Inner Sea]]
 - **Terrain Type:** (e.g., Jagged cliffs, salt marshes, dense pine valleys)
 - **Climate & Weather Patterns:** (e.g., Heavy seasonal monsoons, constant maritime fog)
 
