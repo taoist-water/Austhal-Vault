@@ -92,7 +92,7 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 30  | Nafir Al Goor      | C    | Shares Qasim's clan-name; may or may not be kin, won't discuss it      |
 | 31  | Umara Sedh         | C    | Escaped house-slave; passes as coastal, flinches at southern accents   |
 | 32  | Behram Tuul        | C    | Retriever. Polite, patient, and the worst thing on the marsh road      |
-| 33  | Zafira Al Munn     | C    | Twelgorn factor buying Iron-Burl through three shell brokers           |
+| 33  | Zafira Al Munn     | C    | *(allocated — canon: the Al Ghorun, ruler of Tuwal Ghorun)*           |
 | 34  | Ghurad Oss         | C    | Freed, not escaped — carries manumission papers he can't read          |
 | 35  | Vurn Kaldhammer    | D    | Oakhaven-based; hull-repair lineage, four generations                  |
 | 36  | Brekka Stonegraft  | D    | Surveys mine shafts in the Stonereach passes                           |

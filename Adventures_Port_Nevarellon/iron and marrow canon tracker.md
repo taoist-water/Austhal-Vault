@@ -77,7 +77,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Saltmere | Valerius coastal cliffs | Seat of Valerius; ~1 day by galley on the Coastal Meridian; doesn't need the Road | Five Duchies; Three Layers | No file |
 | Duchy of Stonereach (High Shields) | North-east passes, bordering Ubaraz | Granite; dwarven engineering; toll-keeps | Five Duchies | — |
 | Granite Spire | Stonereach passes | Seat of Stonereach; ~6–8 days by horse | Five Duchies | No file |
-| The Corvus Scar | Former northern duchy | Ash-Blight (Undertow-touched soot); House Corvus functionally extinct; creeping annexation that can never be made lawful | Five Duchies; Cult of the Zenith | Fall dated **~8 A.A. (derived, unconfirmed)** |
+| The Corvus Scar | Former northern duchy | Ash-Blight (Undertow-touched soot); House Corvus functionally extinct; creeping annexation that can never be made lawful | Five Duchies; Cult of the Zenith | Fall dated **8 A.A. (confirmed 2026-09-28)** |
 | Corvus Spire | Buried under the Scar | Ancestral seat; named for the peak that fell on it. **Broken Ward** is the folk name for the stump | Five Duchies; Name Tables T4 #9 | No file |
 | The Scar-Holders' steadings | Clean pockets inside the Scar | Squatters and farmers with no deed; the "chimneys that aren't supposed to exist" | Five Duchies | *The Quiet Steading* (Name Tables #31) proposed as the type specimen — unallocated |
 | The Ducal Concord Road | Port Nevarellon → Iron-Spire → Granite Spire; spur to Millhaven | Only infrastructure the Council and Dukes built together; ~300 miles; four garrison posts | Five Duchies; Three Layers; Jeerdan Darcy | Warden: Jeerdan Darcy. Terminates at the De Vonce watch-towers facing the Scar |
@@ -98,7 +98,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Ubaraz Kingdom | East / north-east (dwarven) | Engineered the Basin seawalls; old trading partner; no Council seat | Council of Five; Great Anchor Basin; Five Duchies | **Template — gap.** Direction conflict still open (History: east; Five Duchies: north-east) |
 | The Kald Mountain Territory | Borders the Whispering Coast | Nothing established | Whispering Coast; Name Tables T4 #2 | **Template — gap; unplaced** |
 | The Wastelands | Within Austhal | Nothing established beyond Name Tables (Cinder Flats, Boneground; orcs born free there) | Austhal; Name Tables | **Empty file — gap** |
-| **The Twelgorn Kingdom (Tuwal Ghorun)** | Far south, beyond the marshes | Ancient maritime slaving realm; hosts the exiled royal line as "guests"; navy, treasure galleons, Retrievers | History (defines both names); 10 referencing files | **NO FILE — highest-priority gap** |
+| **The Twelgorn Kingdom (Tuwal Ghorun)** | Far south: marsh fringe → subject coast → steppe → native belt → plateau ranges | Realm named for its bound god; ruled by the Al Ghorun, chosen by surviving the Blessing; overland trade empire with a slave-built navy; keeps the exiled royal line and the Unaging Heir | The Twelgorn Kingdom.md (**NEW 2026-09-28**, draft); History; 10 referencing files | Capital, natives, plateau and travel times still to be named/set |
 | Port Nevarellon | Free City on the Whispering Coast | ~35,000 people (doubles in spring); five districts; the only T3 on the coast; one of the Three Wondrous Markets | Port Nevarellon.md | — |
 | The High Quarter | District, northern limestone cliffs | Old nobility; cisterns; the Plumb Court | Port Nevarellon | Dedicated file is a template |
 | The Plumb Court | High Quarter | Windowless hall of the Zenith around the Register vault; has never burned | The Cult of the Zenith | No file — deliberate hook |
@@ -145,6 +145,10 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | House Corvus | — | Functionally extinct | — | Five Duchies | Three Layers asks: is there a surviving claimant? Open |
 | The Scar-Holders | Corvus Scar | Unlanded squatters and farmers; can never be lawfully recognised or cleared | 2 | Five Duchies | — |
 | The Twelgorn Retrievers | Southern marsh fringes | Slave-hunters projecting Twelgorn authority; their warrants are unenforceable (identity void) | 2 | Silted Marshes; Three Layers; History | — |
+| Tuwal Ghorun (the realm) | Far south | Loose web of steppe fiefs under the Al Ghorun; subject port-cities build and crew the navy | External | The Twelgorn Kingdom | See Locations |
+| The Binders | Beneath the capital | Priesthood that keeps the Binding and reads the god's omens | External | The Twelgorn Kingdom | Own name to be set |
+| The native peoples of the southern plains | Native belt, between the capital and the plateau | Never submitted; raided for slaves, hunted by the mountain folk; shelter runaways | — | The Twelgorn Kingdom | Name and naming register to be set |
+| Giants & ogres of the plateau ranges | Plateau mountains | War-bred monstrous peoples; cannibalism as practice, not nature | — | The Twelgorn Kingdom | `needs crunch` (stat blocks) |
 
 ---
 
@@ -181,6 +185,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Captain Vesper "Red-Wake" Locke | Grey Water Pirates | Captain of the *Carrion Crow*; speaker for the pirate crews | N | Greywater Lagoon | Alive; **not previously tracked**; no file |
 | Lord Kelf Thorne | Divtown | 45; self-styled Baron of the Silted Marshes | N | Lord Kelf Thorne.md | Alive |
 | **Tahra Beyr** | Divtown | 34; timber forewoman, "the Iron-Knot"; escaped Twelgorn slave; the real power in Divtown | N | Tahra Beyr.md | Alive |
+| Zafira Al Munn | Tuwal Ghorun | The Al Ghorun (she); former skilled slave and Iron-Burl factor who survived the Blessing; Reach-touched | N | The Twelgorn Kingdom; Name Tables #33 | Alive; no file |
+| The Unaging Heir *(name to be set)* | Exiled royal line | Child of the last King who fled at 0 A.A.; a partial Blessing stopped their ageing; claims to be no longer mortal, and so outside the King-Ban | N | The Twelgorn Kingdom | Alive. Palla and Tythius could recognise them on sight |
 | Morgran "Fin" Deep-Draught | Independent — Fenmouth | Dwarf, 112; marsh-guide; hag-made for love of a fey; the stilt-villages still call him Fin | N | Morgran the Abomination.md | Alive. Filename vs header name still differ |
 | Master Cartographer Vaelen | — | Quoted scholar-cartographer mapping a world with no solar bearings | — | Epigraphs; Coastal Reckoning | Quote-only |
 | Archmage Vane | — | Quoted in Cosmology | — | Celestial Graveyard | Quote-only |
@@ -204,6 +210,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Pale Sister (Nyssaria) · The Drowned Lamp (Ossuel) · The Slow Wound (Cassivar) | Moon-corpses; 28 / 40 / 105-day cycles; **their own glow** | Set the calendar, the tides and the Low Moons respectively; winter is their weight | — | Coastal Reckoning |
 | **The Slack-Born (fey)** | God-essence that quickened in still water | Not a mortal race; beautiful, unhurried, indifferent | — | Great Fracture (**NEW**) |
 | **Hags** | Humanoid fey | Rooted, long-lived; trade in change — work Undertow-touched shards into flesh | — | Great Fracture; Morgran (**NEW**). `needs crunch` |
+| **Tuwal Ghorun** | Reach-aligned god-remnant, bound in the Slack Water beneath the Twelgorn capital | The only living god-remnant known to answer; grants the Blessing; cannot lie but chooses what it says | Tuwal Ghorun (monotheistic) | The Twelgorn Kingdom (**NEW**). `needs crunch` |
 
 ---
 
@@ -213,14 +220,14 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 |---|---|---|---|---|
 | Pre-history | The Great Fracture / Deicide | Mortals kill the Creators; the Sphere breaks into the Disk and the Tideways | All | Great Fracture |
 | Pre-Sundering | The War of Creation | "Alliance" vs "Weaponizers"; monstrous races made as weapons | — | Celestial Graveyard |
-| Centuries before settlement | Twelgorn (Tuwal Ghorun) established | Already ancient when the coast was settled | Twelgorn | History |
+| Centuries before settlement | The Binding; Tuwal Ghorun founded | The founders bind a Reach-aligned god-remnant; the realm counts its years from this | Tuwal Ghorun | The Twelgorn Kingdom; Coastal Reckoning |
 | A few centuries ago | Settlement of the Whispering Coast | Settlers flee a decaying empire elsewhere on Austhal; a King and five Dukes | Five houses | History; Coastal Reckoning |
 | Pre-Accord | Spine Aqueduct built | Built when the coast was one realm | The Crown | Three Layers |
 | Civil War | Marten's Cross | Commons crucify a self-proclaimed king — the King-Ban predates the Accord | Marten | Name Tables |
 | −20 A.A. | Dray arrives at the coast | Takes a Copyist's bench at 40 | Merrit Dray | Keeper Merrit Dray |
 | 0 A.A. | The Seat Falls / Ducal Accord / 99-Year Contract | King slain; Council formed (Palla elected at the first sitting); "King" banned | Golden Company, Council, Dukes, Tythius | History; Coastal Reckoning |
 | 0 A.A. | Flight of the heirs | Royal children buy asylum in Twelgorn | Exiled line | History |
-| **~8 A.A. (derived)** | The Corvus Cataclysm | Breach into the Undertow; Corvus Spire buried; the Ash-Blight | House Corvus | Five Duchies; Coastal Reckoning — **confirm** |
+| **8 A.A.** | The Corvus Cataclysm | Breach into the Undertow; Corvus Spire buried; the Ash-Blight | House Corvus | Five Duchies; Coastal Reckoning — **confirmed** |
 | 27 A.A. | Dray becomes Keeper of the Register | Holds the vault for the next 31 years | Dray | Keeper Merrit Dray |
 | 31 A.A. | Last serious challenge to Palla's seat | — | Palla | Palla Vantry |
 | ~38 A.A. | The Shades founded; Garrick's leg crushed | Dolly Sisters convert a grounded carrack | Dolly Sisters; Garrick | Dolly Sisters; Garrick |
@@ -234,7 +241,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Undated | The Fourth struck from the count | Predates Kalder's tenure | The Zenith | Wondrous Markets; Kalder |
 | Undated ("decades ago") | Morgran's change | Hag works an Undertow-touched shard into him; his fey lover rejects him | Morgran | Morgran |
 | **58 A.A.** | **Present** | 41 rings left on the Contract Bell; Marrenhal's 4th attempt before the chamber | — | Coastal Reckoning |
-| **~59 A.A. (derived)** | Next possible Opening-season Low Moons | The longest gap between Opening-season Low Moons is ~16 years after 43 A.A. | Everyone | Derived from Coastal Reckoning — **confirm intended** |
+| **~59 A.A.** | Next Opening-season Low Moons | **Confirmed.** Tuwal Ghorun's omen for the invasion north | Everyone | Coastal Reckoning; The Twelgorn Kingdom |
 
 ---
 
@@ -277,6 +284,10 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Binding Oath | Oath over the Register with real consequence | The Cult of the Zenith | `needs crunch` |
 | Four-of-five rule / Instrument of the Whole | Any two councillors block anything that matters | Council of Five | — |
 | Identity void | Tuwal Ghorun instruments match nothing on the coast | History; Palla; Sallow; Marrenhal | — |
+| The Al Ghorun | Tuwal Ghorun's ungendered ruler's title ("of Ghorun"); the coast says "King" | The Twelgorn Kingdom; History | — |
+| The Blessing / Reach-touched | Ordeal at the Binding that makes the ruler; survivors gain might and vigour and burn short | The Twelgorn Kingdom | `needs crunch` |
+| Years of the Binding | Tuwal Ghorun's calendar; legally unusable on the coast | Coastal Reckoning; The Twelgorn Kingdom | — |
+| Debt-Bond · Bond of Service | The coast's indenture instruments: debt converted to service · a term contract of service to a Landed patron | Law | — |
 | A.A. / turns / the Unwritten Day | Dating after the Accord; 13 × 28-day turns + one day outside the year | Coastal Reckoning | — |
 | The Low Moons | All three moons low every 840 days, for 9–12 nights; they "walk the year" | Coastal Reckoning; Celestial Graveyard | `needs crunch` (hazards) |
 | Winter Moons / the Opening / High Turns / Draw-Down | The four seasons | Coastal Reckoning | — |
@@ -294,10 +305,10 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchies wikilink targets · Corvus Spire misroute · Whispering Coast hierarchy · Blue-Cloak contradiction · Council members · Religion Domain Tags (removed from the live doc) · Vance collision · Telorna's register · "frequency" terminology · Spine Aqueduct follow-through · the Morgran geography problem · Palla's tenure · Unwritten Day count · the moonlight contradiction · Dray's arithmetic · Sallow's tonnage · the Rusty Tankard vagrancy/policing seam · the Shades deed conflict (now deliberate) · _Home hub.
 
 ### Still open, in priority order
-1. **The Twelgorn Kingdom (Tuwal Ghorun)** — no file; 10 references.
+1. ~~**The Twelgorn Kingdom**~~ — **file created 2026-09-28 (draft).** Still to set: names (capital, natives, plateau, Binders, the Unaging Heir), travel times, and what the god takes for the Blessing.
 2. **The Tidespoken Clergy** — no file; 7 references.
 3. **The Guild of Alchemists** — empty file; cross-border scope, powder secret, chapter structure to define.
-4. **Confirm the derived dates:** Corvus at ~8 A.A.; the next Opening-season Low Moons at ~59 A.A. The second is either a ready-made campaign clock or needs moving.
+4. ~~**Confirm the derived dates**~~ — **confirmed 2026-09-28:** Corvus fell in 8 A.A.; the next Opening-season Low Moons (~59 A.A.) is a live campaign clock and Tuwal Ghorun's invasion omen.
 5. **The De Vonce children.** Ellenst "married south" implies Twelgorn nobility — decide whether that's a hook.
 6. **The ducal seats have no files**; Castle Iron-Spire is empty.
 7. **The Golden Company Charter-House** in the volcano market still needs writing into The Golden Company.md.
@@ -333,7 +344,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
   - Items: Nightshade · Sun-Iron · The Brine-Glow Lanterns · The Shard-Blade
   - Cast: Bruiser Ben
 - **Unfilled templates:** The Jagged Spine · The Kald Mountain Territory · Ubaraz Kingdom · The High Quarter · The Trade Plazas · The Foundry Slips · Valerius Family. Austhal and Whispering Coast are partial.
-- **Wanted links (notes not yet written):** The Twelgorn Kingdom · The Tidespoken Clergy · Eldrick / Imaihil / Sheandri De Vonce · Ellenst Rulieone · Oakhaven Cove · The Shield Atolls · The Broken Spires · Captain Vesper Locke · The Low-Tide Market · Slipway Seven · The Brine-Glow Depot · The Rusty Anchor Foundry.
+- **Wanted links (notes not yet written):** Zafira Al Munn · The Tidespoken Clergy · Eldrick / Imaihil / Sheandri De Vonce · Ellenst Rulieone · Oakhaven Cove · The Shield Atolls · The Broken Spires · Captain Vesper Locke · The Low-Tide Market · Slipway Seven · The Brine-Glow Depot · The Rusty Anchor Foundry.
 - **Obsolete copies to archive:**
   - Inside the vault: `drafts/draft_iron-and-marrow-canon-tracker*.md` and `drafts/iron-and-marrow-canon-tracker.md`, plus the `Batch * review - diff.md` files.
   - Outside the vault: the root `.txt` snapshots.

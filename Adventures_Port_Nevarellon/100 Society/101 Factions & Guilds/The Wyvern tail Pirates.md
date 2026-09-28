@@ -9,7 +9,7 @@
 - **Type:** Blue-Water Privateers / Militarized Smugglers / Heavy Commerce Raiders.
 - **Leadership:** [[200 Cast/Captain Haren Twarde|Captain Haren Twarde]].
 - **Base of Operations:** The Outer Reach of the [[Greywater Lagoon|Grey Water Lagoon]], anchored alongside the floating pontoons of [[000 Atlas/Divtown|Divtown]].
-- **Primary Focus:** Intercepting royal treasure galleons sailing north from the [[000 Atlas/The Twelgorn Kingdom|Twelgorn Kingdom]], raiding high-value merchant convoys, and monopolizing the illicit arms trade across the Inner Sea.
+- **Primary Focus:** Intercepting royal treasure galleons sailing north from the [[The Twelgorn Kingdom|Twelgorn Kingdom]], raiding high-value merchant convoys, and monopolizing the illicit arms trade across the Inner Sea.
 - **Visual Identifier:** A ragged, massive banner flown from the mainmast of the *Dread-Wing*. The banner is crafted from the thick, leathery, dark-scaled hide of a apex beast, stitched together with cured sinew.
 
 ---

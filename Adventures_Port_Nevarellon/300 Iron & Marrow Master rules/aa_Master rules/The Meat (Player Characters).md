@@ -122,12 +122,12 @@ Arcane Clash/Manifestation 2d6+3 (incl. Havoc) | Dagger Strike 2d6+0 *(Melee 0; 
 ### Equipment
 - **Armor:** Leather (+1 Armor, Light — keeps Stealth/Acrobatics clean)
 - **Weapon (one 2H item):** Shortbow (Power 2, **Volley** — requires both hands, no Shield or Grimoire while wielding it)
-- **Starting Purse: 80 sp** — Leather 12 + Shortbow 15 = **27 sp spent, 53 sp remaining.** 4 sp on a bag of Caltrops (scatter them behind her while kiting), 2 sp on hemp rope, arrows and a spare bowstring, 45 sp in reserve. Light armour and a cheap weapon is the archer's bargain: she is buying range instead of Wound Threshold, and the purse lets her buy a great deal of everything else with the difference.
+- **Starting Purse: 80 sp** — Leather 12 + Shortbow 15 = **27 sp spent, 53 sp remaining.** 4 sp on a bag of Caltrops (scatter them behind her while kiting), 2 sp on hemp rope, arrows and a spare bowstring, **47 sp in reserve.** Light armour and a cheap weapon is the archer's bargain: she is buying range instead of Wound Threshold, and the purse lets her buy a great deal of everything else with the difference.
 
 ### Combat Math Quick-Ref
 Ranged Strike 2d6+3, Impact = Margin+2 (Shortbow) | Dodge 2d6+1 | Stealth 2d6+2 | Activation Order 12 (Quick)
 
-**Table note:** Firing a Ranged weapon while an enemy occupies her own 5ft Threat Zone imposes Disadvantage on the shot — she wants to be the one dictating range. Quick and Shadow-Weaver both exist specifically to keep her out of that situation.
+**Table note:** Firing while an enemy occupies her own 5 ft Threat Zone imposes Disadvantage on the shot (Metal meet Flesh — Ranges), and the **Shortbow is 2H with no Sidearm tag**, so she has no item answer to it. Quick and Shadow-Weaver both exist to keep her out of that situation rather than to fight out of it. **Hipshot** (Tier 1; Ranged 1 ✓, Reflex 1 ✓) is the feat that buys the answer outright, and is the obvious first Milestone purchase.
 
 ---
 
@@ -192,7 +192,7 @@ Arcane Clash/Manifestation 2d6+3 | Unarmed Strike 2d6+1 *(Melee; Lethal Strikes 
 - **Inventory Slots:** 11 *(8 + 3 Brawn)*
 
 ### Species Traits (Human)
-- **Adaptable:** +1 Skill Point at creation (already applied — 9 DP spent instead of 8).
+- **Adaptable:** +1 Skill **DP** at creation (already applied — a Human's creation Skill budget is 9, not 8).
 - **Indomitable Spirit:** +1 Stress Limit (already applied above).
 - **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap (already applied above).
 
@@ -357,7 +357,7 @@ Tithe of Will 2d6+3 | Ranged Strike (Shortbow) 2d6+3, Impact = Margin+2 | Surviv
 
 ### Species Traits (Half-Elf, Split Heritage)
 - **Silver-Tongued:** Advantage on Influence checks to persuade, de-escalate, negotiate, or gather information.
-- **Adaptable** *(chosen Split Heritage trait)*: +1 Skill Point at creation (already applied — 9 DP spent instead of 8).
+- **Adaptable** *(chosen Split Heritage trait)*: +1 Skill **DP** at creation (already applied — a Half-Elf who takes Adaptable has a creation Skill budget of 9, not 8).
 - **Steady, Not Sharp (Drawback, comes with Adaptable):** −1 to your Momentum Bank cap (already applied above).
 - **Between Worlds (Drawback):** Disadvantage on Influence checks with an insular or homogeneous community that's had little outside contact.
 
@@ -399,7 +399,7 @@ Influence 2d6+3 | Medicine 2d6+2 | Insight 2d6+2 | Notice 2d6+1 | Resolve 2d6+1 
 - **Inventory Slots:** 10 *(8 + 2 Brawn)*
 
 ### Species Traits (Human)
-- **Adaptable:** +1 Skill Point at creation (already applied — 9 DP spent instead of 8).
+- **Adaptable:** +1 Skill **DP** at creation (already applied — a Human's creation Skill budget is 9, not 8).
 - **Indomitable Spirit:** +1 Stress Limit (already applied above).
 - **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap.
 
@@ -487,6 +487,7 @@ Arcane Clash/Manifestation 2d6+3 | Notice 2d6+2 | Insight 2d6+2 | Lore 2d6+1 | D
 - **Wound Slots:** 3 | **Momentum Bank:** 7 *(4 + Reflex 3)* | **Activation Order:** 12 *(6 + Reflex 3, +3 Quick)*
 - **Inventory Slots:** 8 *(8 + 0 Brawn)*
 - **Stress Track (Limit 5):** [/][ ][ ][ ][ ] — 1 box permanently Locked to Attunement (Whisper-Kissed Leathers).
+- **Attunement:** 1 slot *(Attunement Slots = Will score, minimum 1 — at Will 0 she gets the floor)*. The Leathers fill it. She cannot attune a second Enchanted or Relic item at any price until Will rises.
 
 ### Species Traits (Halfling)
 - **Underfoot:** Advantage on Stealth with cover or obscurement, or when moving through a larger creature's space.
@@ -496,13 +497,13 @@ Arcane Clash/Manifestation 2d6+3 | Notice 2d6+2 | Insight 2d6+2 | Lore 2d6+1 | D
 ### Feats
 - **Quick** *(Reflex 1 — Creation)*: +3 to your Activation Order.
 - **Shadow-Weaver** *(Stealth 1 — Creation)*: ignores the Rushed Stealth penalty for moving quickly while hidden.
-- **Parasitic Momentum** *(Cutthroat, Tier 2 — Milestone 1)*: when an enemy within 30 ft rolls a Fumble, instantly bank 1 Momentum.
+- **Parasitic Momentum** *(Cutthroat, Tier 2; Tier 1 feat ✓ — Quick and Shadow-Weaver both qualify — Milestone 1)*: when an enemy within 30 ft rolls a Fumble, instantly bank 1 Momentum.
 
 ### Equipment
 - **Armor:** Leather (+1 Armor, Light).
-- **Weapons:** Twin Daggers (1H/1H, Sidearm, Concealable, Close-Quarters, Precise, Thrown) — qualifies for **Twin-Blade Stance** (Off-Hand Parry, Twin Strike).
-- **Starting Purse: 80 sp** — Twin Daggers 10 + Leather 12 = **22 sp spent, 58 sp remaining** at creation. Lockpicks, a grapple and line, chalk, and a working float she has been careful not to spend down.
-- **Acquired in play (Milestone 1):** main-hand dagger fitted with **Cold Iron Weapon** (Charmed, 25 sp, no Attunement): Bane (Fey, Daemon). Leather fitted with **Whisper-Kissed Leathers** (Enchanted, 1 Locked Stress Attunement). *Neither could have been bought at creation: enchanted gear of any tier is barred at Green (see The Starting Purse, The Marrow). Both came off the job that earned her first Milestone, which is the only way onto the sheet and a better story besides.*
+- **Weapons:** Twin Daggers (1H/1H, **Concealable, Close-Quarters, Finesse, Thrown, Sidearm** — per Hardware's Dagger/Knife entry) — qualifies for **Twin-Blade Stance** (Off-Hand Parry, Twin Strike). *Finesse rerolls a natural 1 on any Clash she makes or defends with them, which on a Twin build applies to Strike, Parry and Off-Hand Parry alike.*
+- **Starting Purse: 80 sp** — Twin Daggers 10 + Leather 12 + Thieves' Tools 20 + Grappling hook 3 + Rope, hemp 50 ft 2 = **47 sp spent, 33 sp remaining** at creation, plus chalk at a copper. Thieves' Tools are not optional kit: without them a Thievery check against a lock or mechanism is made at Disadvantage regardless of rank. The remaining 33 sp is a working float she has been careful not to spend down.
+- **Acquired in play (Milestone 1):** main-hand dagger fitted with **Cold Iron Weapon** (Charmed, 25 sp, no Attunement): Bane (Fey, Daemon). Leather fitted with **Whisper-Kissed Leathers** (Enchanted — **Legendary band, Commission-gated**, 1 Locked Stress Attunement; requires a Light armour base, which her Leather satisfies). *Neither could have been bought at creation: enchanted gear of any tier is barred at Green (see The Starting Purse, The Marrow). The Cold Iron came off the job that earned her first Milestone. The Leathers did not — a Commission-gated item is made to order and never drops as generic loot, so they came off the body of whoever commissioned them, which is the only route onto a Blooded sheet.* **GM note:** a Legendary item at Milestone 1 is a deliberate story award, not what Blooded is expected to carry. Do not read the roster as promising it.
 - **Spell list:** N/A (non-caster).
 - **Belt (3 max):** Twin Daggers (2 slots) — 1 slot free. **Pack:** 6 slots free.
 
@@ -532,7 +533,7 @@ Dagger Strike 2d6+1 | Dodge 2d6+2 | Stealth 2d6+3 | Thievery 2d6+2 | **Melee 2d6
 - **Inventory Slots:** 10 *(8 + 2 Brawn)*
 
 ### Species Traits (Human)
-- **Adaptable:** +1 Skill Point at creation (already applied — 9 DP spent instead of 8).
+- **Adaptable:** +1 Skill **DP** at creation (already applied — a Human's creation Skill budget is 9, not 8).
 - **Indomitable Spirit:** +1 Stress Limit (already applied above).
 - **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap.
 
@@ -823,14 +824,14 @@ Arcane Manifestation/Clash 2d6+4 | Dagger Strike 2d6+0 | Dodge 2d6+0 (she has no
 - **Standing:** Hardened (Milestone 8 — 24 DP earned via Advancement, 2 banked)
 - **Size:** Standard | **Move:** 30 ft / 6 squares
 - **Attributes:** Brawn 1 | Reflex 0 | Wits 1 | Will 3 *(started at 2 — see Advancement Ledger)*
-- **Skills:** Faith 4 | Medicine 2 | Resolve 2 | Influence 2 | Melee 1 | Notice 1 *(12 ranks. Ceilings: Faith/Resolve/Influence 6 (Will 3); Medicine/Notice 4 (Wits 1); Melee 4 (Brawn 1))*
+- **Skills:** Faith 4 | Medicine 2 | Resolve 2 | Influence 2 | Melee 1 | Notice 2 *(13 ranks. Ceilings: Faith/Resolve/Influence 6 (Will 3); Medicine/Notice 4 (Wits 1); Melee 4 (Brawn 1))*
 - **Wound Threshold:** 7 *(4 base + 1 Brawn + 2 Chain Shirt + 0 Species)*
 - **Stress Limit:** 9 *(4 base + 1 Wits + 3 Will + 1 Indomitable Spirit)*
 - **Wound Slots:** 3 | **Momentum Bank:** 3 *(4 + Reflex 0, −1 Steady, Not Sharp)* | **Activation Order:** 6 *(6 + Reflex 0)*
 - **Inventory Slots:** 9 *(8 + 1 Brawn)*
 
 ### Species Traits (Human)
-- **Adaptable:** +1 Skill Point at creation (already applied — 9 DP spent instead of 8).
+- **Adaptable:** +1 Skill **DP** at creation (already applied — a Human's creation Skill budget is 9, not 8, and hers is now actually spent: the 9th DP went to Notice, which had been left unspent).
 - **Indomitable Spirit:** +1 Stress Limit (already applied above).
 - **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap.
 
@@ -856,7 +857,7 @@ Arcane Manifestation/Clash 2d6+4 | Dagger Strike 2d6+0 | Dodge 2d6+0 (she has no
 - **Bless** *(Common, Novice — Milestone 8)* — Tithe vs. TN 8, 1 Locked Stress. Pass: target gains +1 to their next Clash roll within a minute.
 
 ### Combat Math Quick-Ref
-Tithe of Will 2d6+4 *(2d6+3 at creation — see Advancement Ledger)* | Mace Strike 2d6+1, Impact = Margin+2 | Block 2d6+0 | Dodge 2d6+0 | Resolve 2d6+2 | Medicine 2d6+2 | Activation Order 6
+Tithe of Will 2d6+4 *(2d6+3 at creation — see Advancement Ledger)* | Mace Strike 2d6+1, Impact = Margin+2 | Block 2d6+0 | Dodge 2d6+0 | Resolve 2d6+2 | Medicine 2d6+2 | Notice 2d6+2 | Activation Order 6
 
 ### Advancement Ledger — Milestone 0 → Milestone 8 (24 DP)
 

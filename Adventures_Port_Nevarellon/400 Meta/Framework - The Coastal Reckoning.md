@@ -178,7 +178,7 @@ The King-Ban makes regnal dating illegal. The coast therefore counts from the on
 |---|---|---|
 | **A.A.** | Port Nevarellon, the Concord Road, all legal instruments | The merchant epoch. Universal in writing |
 | **House years** | The four surviving Duchies, informally | Counted from each house's founding. Never appears on paper, constantly appears in speech. A De Vonce steward saying "the year of the house" in front of a Council factor is making a point |
-| **Twelgorn reckoning** | The southern kingdom | Counts from its own dynasty, centuries deeper. Twelgorn documents dated by their own kings are *legally unusable* on the coast, which is a diplomatic problem nobody has solved |
+| **Twelgorn reckoning** | The southern kingdom | Counts from **the Binding** of its god, centuries deeper. Twelgorn documents dated in years of the Binding are *legally unusable* on the coast, which is a diplomatic problem nobody has solved |
 
 **Fixed points on the A.A. scale:**
 

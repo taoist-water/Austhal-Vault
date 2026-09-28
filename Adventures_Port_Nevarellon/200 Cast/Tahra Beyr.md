@@ -11,7 +11,7 @@
 
 ## ⚖️ Realism & Physicality
 - **Age & Vitality:** 34 years old. Lean, heavily muscled, and completely acclimatized to the brutal heat and humidity of the marshes.
-- **Physical Flaws / Limitations:** Her back and shoulders are covered in the faded, brutal brand-scars of the [[000 Atlas/The Twelgorn Kingdom|Twelgorn Kingdom]]. She is missing the ring finger on her left hand from a logging accident.
+- **Physical Flaws / Limitations:** Her back and shoulders are covered in the faded, brutal brand-scars of the [[The Twelgorn Kingdom|Twelgorn Kingdom]] — the realm's mark for a recaptured runaway; her escape north was her second. Beneath them, a patchwork of owners' tattoos she keeps covered. She is missing the ring finger on her left hand from a logging accident.
 - **Equipment & Upkeep:** Wears practical, tight-woven reeds and heavy canvas. She carries a long, brutal timber-hook—a heavy polearm used for both rolling logs in the mud and pulling mutinous pirates off their feet.
 
 ## 🧠 Psychology & Drive

@@ -46,6 +46,23 @@ Black powder is a controlled substance in Port Nevarellon, as it is in most real
 
 ---
 
+## ⛓️ Bonded Labour: The Coast's Answer to Slavery
+**Chattel slavery is not recognised on the Whispering Coast.** Twelgorn ownership papers name a polity no coastal register lists, so they have no force here: a slave who reaches the coast is, on paper, a free Un-Landed person with nothing. What the coast has instead is **indenture** — slavery by another name, transactional and bureaucratic, and every instrument of it lodged with the Council and counter-copied in the Register.
+
+### 1. The Debt-Bond
+Unpaid debt converts to service. The debtor labours for the creditor until the bond is discharged, while board, lodging and tools are charged against the wage.
+- **The Reality:** Most bonds never close. Courts impose them in place of the debt-prisons, and employers engineer them on purpose — the Syndicate's synthetic debts on the slips, and the salt-pans of [[The Five Duchies of the Whispering Coast#3. Duchy of Valerius (The Gilded Coast)|Valerius]].
+
+### 2. The Bond of Service
+A contract to serve a Landed patron for a fixed term. The patron houses, feeds and protects the bondsman, and stands as their sponsor in the High Courts. The bondsman surrenders freedom of movement, trade and marriage for the term.
+- **The Reality:** Among the highborn, a household of bondsmen is a mark of status. For the desperate it is a roof and a patron. The catch is the sponsorship: a bondsman's only route to the High Courts runs through the patron they would be complaining about.
+
+**The Mote.** A bond is an instrument, and the [[The Cult of the Zenith|Cult of the Zenith]] can void an instrument signed under duress or never properly lodged — though it can never confirm one. An Arbiter who reads closely can free a bondsman. The Un-Landed know which Arbiters those are.
+
+**The Hook.** Southerners who come out of the marsh at Fenmouth are met with a Bond of Service to sign before they reach the city.
+
+---
+
 ## ⚓ The Syndicate Loophole (Realism Anchor)
 This hyper-bureaucratic system is exactly why the [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]] is so difficult to eradicate. 
 

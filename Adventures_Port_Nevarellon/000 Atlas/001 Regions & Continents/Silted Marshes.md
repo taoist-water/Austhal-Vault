@@ -4,7 +4,7 @@
 > "The Silt doesn't kill you with a blade. It kills you with a thousand biting flies, a fever that boils your brain, and a shifting mudbank that swallows your boots while you beg for a clean death." — Morgran the Abomination
 
 ## 🗺️ Geography & Scope
-- **Bordering Areas:** [[Port Nevarellon|Port Nevarellon]] & The Whispering Coast (North), [[000 Atlas/The Twelgorn Kingdom|The Twelgorn Kingdom]] (South), [[The Inner Sea|The Great Expanse]] (East).
+- **Bordering Areas:** [[Port Nevarellon|Port Nevarellon]] & The Whispering Coast (North), [[The Twelgorn Kingdom|The Twelgorn Kingdom]] (South), [[The Inner Sea|The Great Expanse]] (East).
 - **Terrain Type:** A vast, labyrinthine delta of suffocating, brackish waterways, sinking mudflats, and dense, rotting forests of weeping marsh-timber. There is virtually no solid ground; the earth is a spongy, treacherous mix of decaying vegetation and sucking silt.
 - **Climate & Weather Patterns:** Oppressively humid and stagnant. A heavy, foul-smelling fog clings to the water level, constantly obscuring the horizon. Sudden, torrential warm downpours can raise the water level by feet in minutes, completely erasing known landmarks and altering the flow of the rivers.
 
