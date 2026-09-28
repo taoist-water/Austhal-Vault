@@ -518,7 +518,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 **Giant Feller**
 
-* Prerequisites: Brawn 2, Acrobatics 2, or Prowess 2 — plus **any one Tier 1 feat**.
+* Prerequisites: Brawn 2, Acrobatics 2 or Prowess 2 — plus **any one Tier 1 feat**.
 
 >Physics and leverage apply to monsters, too.
 
