@@ -137,6 +137,13 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Civic Constabulary (Coppers / Blue-Cloak Watch) | Toll-houses, lower districts, toll-gates | ~400 corrupt, underpaid watchmen; auxiliary beneath the Company; overseen by Provost Stross | 3 | Faction - The Civic Constabulary; Port Nevarellon | Blue-Cloak contradiction **resolved 2026-09-28** |
 | The Cult of the Zenith | The Plumb Court | Domain of Law; de facto inter-jurisdictional tribunal; keeps the Register; Court of Nullity; Register of Markets | 1–2 (by accretion) | The Cult of the Zenith.md | Binding Oath `needs crunch` |
 | **The Guild of Alchemists** | Cross-border, no capital (the Convocation meets by lot); PN chapter: Chapter-House, Powder Hulk, Brine-Glow Depot, nitre-yards | Holds the white salt (saltpetre) and the corning; licenses powder, lanterns, Brine-Fire and shard-assay; sells the Low Moons tables; sells to everyone, Tuwal Ghorun included | Chapter: 3 (hands on Layer 1) · Parent: outside the Layers | The Guild of Alchemists.md; Law; Port Nevarellon; Coastal Reckoning; Kress; Garrick; Maeve | **Drafted 2026-09-29.** No Council seat, by choice. Chapter-Warden unnamed |
+| **City guilds (framework)** | Guild-halls in the Trade Plazas | Two charters: the guild's (Charter Roll, 0 A.A.; new ones need four of five) and the master's shop charter (Landed); stamp-rent; token-call | 3 (hands on Layer 1) | Framework - The Guilds of Port Nevarellon | **NEW 2026-09-29** |
+| The Coopers' Guild | Port Nevarellon | The barrel; powder kegs under Alchemists' licence | 3 | Kress; Guilds framework | Kress is Guild-Master Emeritus. De Vonce oak |
+| The Shipwrights' Guild | Foundry Slips; Thole Yards | The slipways; keels make owners Landed | 3 | Thole; Guilds framework | Suse Kellard holds a Shipwrights' stamp (2026-09-29). De Vonce iron/timber; Iron-Burl |
+| The Victuallers' and Provisioners' interest | Port Nevarellon | A bloc of food-trade charters, not one guild; salt and cured fish | 3 | Sallow; Guilds framework | Aerthos grain; Valerius salt |
+| The Smiths | Port Nevarellon | Implied guild; the commoners' High-Steel buyers | 3 | Economy; Law; Guilds framework | **Unnamed** |
+| Stevedores & Dockworkers Union | Muddy Docks; Basin | Unchartered sworn brotherhood of Un-Landed dockers; Iron-Anchor-controlled | 3 | Iron-Anchor; Guilds framework | — |
+| The Maritime Logistics Guild *(aspirant)* | — | Garrick's plan to charter the Syndicate; needs four of five, or a dead charter | 3 → 1 | Garrick; History; Guilds framework | Name standardised 2026-09-29 (History said "Logistics Guild") |
 | The Iron-Anchor Syndicate | Black Mast Warehouse | Docks extortion and labour cartel; Old Guard vs Young Bloods | 3 | The Iron-Anchor Syndicate.md | HQ file empty |
 | The Cobalt Feather Syndicate | Alfric's manor; Rusty Tankard | Forgery and smuggling; no-blood mandate; Blue Pens; existential rival of the Zenith | 3 | The Cobalt Feather Syndicate.md | Now includes Maccorrack (muscle) |
 | The Wyvern Tail Pirates | Greywater Lagoon | Disciplined commerce raiders under Haren Twarde; prey on the Twelgorn navy | 2–3 | The Wyvern tail Pirates.md | — |
@@ -195,7 +202,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Master Cartographer Vaelen | — | Quoted scholar-cartographer mapping a world with no solar bearings | — | Epigraphs; Coastal Reckoning | Quote-only |
 | Archmage Vane | — | Quoted in Cosmology | — | Celestial Graveyard | Quote-only |
 | Captain Tessa (Leviathan Hunter) | Oakhaven fleets | Quoted in The Inner Sea | — | The Inner Sea | Quote-only. **Name collision with Tessa Dolly** |
-| Suse Kellard · Nell Stroud | Foundry Slips · Muddy Docks | Rope-walk foreman · cookshop widow (epigraph voices) | — | Thole; Kress; Name Tables | Allocated from Name Tables |
+| Suse Kellard · Nell Stroud | Foundry Slips · Muddy Docks | Rope-walk foreman, Shipwrights' stamp · cookshop widow (epigraph voices) | — | Thole; Kress; Name Tables; Guilds framework | Allocated from Name Tables |
 | Halcus Rive | Guild of Alchemists (PN chapter) | Assessor; licenses every Brine-Glow lantern | N | The Guild of Alchemists; Name Tables #26 | Alive; no file |
 | The Chapter-Warden *(name to be set)* | Guild of Alchemists (PN chapter) | Head of the Port Nevarellon chapter | N | The Guild of Alchemists | — |
 
@@ -233,6 +240,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | −20 A.A. | Dray arrives at the coast | Takes a Copyist's bench at 40 | Merrit Dray | Keeper Merrit Dray |
 | 0 A.A. | The Seat Falls / Ducal Accord / 99-Year Contract | King slain; Council formed (Palla elected at the first sitting); "King" banned | Golden Company, Council, Dukes, Tythius | History; Coastal Reckoning |
 | 0 A.A. | Flight of the heirs | Royal children buy asylum in Twelgorn | Exiled line | History |
+| 0 A.A. | The Charter Roll | The First Sitting re-issues every guild charter then trading; no new city guild since | Council; the guilds | Guilds framework |
 | **8 A.A.** | The Corvus Cataclysm | Breach into the Undertow; Corvus Spire buried; the Ash-Blight | House Corvus | Five Duchies; Coastal Reckoning — **confirmed** |
 | 27 A.A. | Dray becomes Keeper of the Register | Holds the vault for the next 31 years | Dray | Keeper Merrit Dray |
 | 31 A.A. | Last serious challenge to Palla's seat | — | Palla | Palla Vantry |
@@ -299,6 +307,10 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Winter Moons / the Opening / High Turns / Draw-Down | The four seasons | Coastal Reckoning | — |
 | Lastwater · Toll Amnesty · First Keel · Contract Bell | Water-price day · the Unwritten Day's unavoidable "mercy" · spring opener · countdown | Coastal Reckoning; Name Tables | — |
 | The Powder Edict | Fifth Edict of Armament; powder licensed by the Guild | Law | Flag for the rules side |
+| Guild charter · shop charter | The body's charter (on the Charter Roll; new ones are Instruments of the Whole) · the master's, which makes its holder Landed | Guilds framework; Law; Council of Five | — |
+| The Charter Roll | The First Sitting's single re-issue of every guild charter; dead guilds are still on it | Guilds framework | — |
+| Stamp-rent · the token-call | Selling under a master's wax for a cut · the dawn stamping of Basin work-tokens | Guilds framework | Rates `needs crunch` / economy |
+| Guild business · deed business | "The deed lets you own; the stamp lets you sell." Only guild businesses stamp goods and Basin tokens and sponsor grievances; the stamp rule binds everyone, the penalty depends on class | Guilds framework; Economy | Flag: business-ownership / downtime rules |
 | The Seal · the Sealed · the Unsealed | The Guild's oath of secrecy · masters who know how the salt is made · defectors, hunted | The Guild of Alchemists | — |
 | The Searchers | Guild inspectors: right to inspect licensed stock in the city; hunt the Unsealed | The Guild of Alchemists | — |
 | The Right of the Spade | Charter right of Guild saltpetre-men to dig nitre-earth from any stable, byre, dovecote or cellar | The Guild of Alchemists | — |
@@ -335,7 +347,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 14. **Tone:** the older underworld docs (Silas, Iron-Anchor, Wyvern Tail) lack motes. Hearing and sight loss now marks eight characters.
 15. **Tier tags:** `#location/neighborhood` for the Muddy Docks and Cinder Row.
 16. **Cinder Row** — intentional stub; develop when the Sunken Ward goes live in play.
-17. **City guilds framework.** When the second guild is built, give the city craft guilds (Coopers, Shipwrights, Victuallers) one shared note: charter and Landed status, the right of search, the apprentice ladder, sponsorship of Un-Landed grievances.
+17. ~~**City guilds framework.**~~ **Drafted 2026-09-29** as `Framework - The Guilds of Port Nevarellon`. Still to set: which dead charters are on the Roll; whether the Smiths get a name; how Suse Kellard got her stamp.
 
 ### Rules-side flags (not carried over — for the Iron & Marrow ruleset)
 - Binding Oath
@@ -344,6 +356,8 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - Brine-Fire
 - Firearms and powder; whether Company officers carry guns
 - Guild licence and powder prices
+- Shop-charter prices, stamp-rent rates and Guild rates
+- Business ownership / downtime: the guild-business vs deed-business split
 - Whether Tuwal Ghorun's warships mount powder guns
 - Fey and hag stat blocks
 - Settlement Tiers

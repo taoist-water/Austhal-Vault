@@ -101,7 +101,7 @@ The Port Nevarellon chapter is **Layer 3** by reach. It holds two **Layer 1 chok
 - **The Murano glassmakers:** masters honoured, enriched and forbidden to leave.
 - **The English saltpetremen:** the Right of the Spade.
 - **The Knights Templar:** what happens to a neutral body everyone owes.
-- City guilds (the Coopers, the Shipwrights, the Victuallers) should follow **medieval craft guilds** instead: monopoly by charter, the right of search, and apprentice ladders. They are local, not cross-border.
+- City guilds (the Coopers, the Shipwrights, the Victuallers' interest) follow **medieval craft guilds** instead: monopoly by charter, the right of search, and apprentice ladders. They are local, not cross-border — see [[Framework - The Guilds of Port Nevarellon]].
 
 ---
 

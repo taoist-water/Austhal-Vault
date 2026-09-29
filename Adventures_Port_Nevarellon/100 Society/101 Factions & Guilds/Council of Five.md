@@ -33,7 +33,7 @@ This is why Port Nevarellon can call itself a free city without anyone lying. Th
   - **The Tuwal Ghorun identity void.** Southern instruments name a polity no coastal register lists. It cannot be resolved, and one councillor is actively ensuring it never is
 
 ## 🔒 The Four-of-Five Rule — Why Nothing Ever Changes
-Routine business passes on a simple majority. But any **Instrument of the Whole** — a new Edict, an alteration to the Contract, a treaty, a change to the Register, or the recognition of any territorial claim — requires **four of five**.
+Routine business passes on a simple majority. But any **Instrument of the Whole** — a new Edict, an alteration to the Contract, a treaty, a change to the Register, or the recognition of any territorial claim — requires **four of five**. By standing practice a new guild charter counts as a change to the Register, because it creates a new class of Landed persons at a stroke. No new city guild has been chartered since the First Sitting's Charter Roll (see [[Framework - The Guilds of Port Nevarellon]]).
 
 It was written into the Accord by five merchant families who had just watched a king abuse unchecked power and who trusted each other only marginally more than they had trusted him. The purpose was to make it impossible for any three houses to combine and rule the other two.
 

@@ -119,7 +119,7 @@ Construction comes from The Marrow. Runtime stays here. Specifically:
 - **Skills** use the Enemy Budget by Party Standing table above, unchanged.
 - **Feats, spells and Traits share one allowance**, sized by tier: **Fodder 2 · Grunt 2 · Elite 3 · Dread/Boss 4**. Spend it in any mix — a Feat or spell from the players' own lists, or a Trait from the Manifest below, whichever actually serves the creature. Feats and spells come from The Marrow and Manipulating The Void, with a feat tier ceiling of Grunt Tier 1, Elite Tier 1–2, Dread/Boss any; spells must still satisfy their own Arcana/Faith rank prerequisites, and Paradigm Mastery works exactly as it does for a PC — within the chosen Paradigm only. Where a creature's signature mechanic has no equivalent on the players' lists (Skittering, Ambusher, Cunning Leader), spend the allowance on the Trait and don't contort the build to avoid it.
 - **Species traits are free** and sit outside the allowance entirely. Don't restate the species lists here; they live in The Marrow and are read from there, so the two documents can't drift. Species *drawbacks* come along with them — a Human NPC really does have a smaller Momentum Bank, a Dwarf really can't run anyone down, and a Half-Orc really is worse at talking to strangers.
-    - **A trait that modifies the *creation* Skill budget is inert on an NPC.** The Human's **Adaptable** ("1 extra Skill Point at character creation") is the only case today: an NPC's Skills come from the Enemy Budget by Party Standing table, never from a creation budget, so there is nothing for it to modify — the same way the Ceiling Rule is inert at Fodder and Grunt. Its paired drawback still applies in full. Don't add a skill point for it, and don't "correct" an existing Human NPC upward on the strength of it.
+    - **A trait that modifies the *creation* Skill budget is inert on an NPC.** The Human's **Adaptable** ("1 extra Skill **DP** at character creation" — a creation budget of 9 rather than 8) is the only case today: an NPC's Skills come from the Enemy Budget by Party Standing table, never from a creation budget, so there is nothing for it to modify — the same way the Ceiling Rule is inert at Fodder and Grunt. Its paired drawback still applies in full. Don't add a skill point for it, and don't "correct" an existing Human NPC upward on the strength of it.
 - **Momentum Bank:** **every creature has one** — core-species and monster alike — at the normal **4 + Reflex**, earned and spent exactly as a PC's: on its own Traits', Feats' and Special Actions' Momentum costs and on Iron Core's generic spends (Shake It Off, The Blood Price, Adrenaline Flush, The Surge). This applies at every tier including Fodder. **Momentum is the only currency in the game; there is no GM Threat pool and no Vessel Limit** — a Bank is already a spend cap. How each tier *earns* Momentum is asymmetric and lives in GM Tools' Momentum Economy: Fodder and Grunts earn only from their own Traits and Feats, Elites add a Clash won by Margin 5+, and Dread/Boss add 1 at the start of every round.
 - **Wound Slots stay on the tier scale** (Fodder 1 · Grunt 2 · Elite 3–4 · Boss 4+), not the PC's flat 3. Wound Slots are what makes Fodder disposable.
 - **Stress stays binary** — Functional/Broken per the GM Tools NPC Stress rules. No Winded, no Breaking penalty, regardless of how the creature was built.
@@ -1073,3 +1073,43 @@ _______________________________
 - **Behaviour when unbroken:** Rules through overwhelming pressure rather than urgency — lets Hubris farm Momentum passively as the players spend theirs, opens rounds with Gehenna's Grip to drag stragglers in, uses Devil's Mandate to take a problem PC out of the fight outright, and punishes anyone who attacks him directly with Furnace Rebuke.
 - **Behaviour when Broken:** Per the GM Tools NPC Stress rules, a Boss's Broken state resolves as a Phase Change rather than a Rout, Surrender, or Frenzy — see below.
 - **Dread Entity/Boss Phase changes — Gehenna Unbound:** _Trigger:_ The instant Malaphar's Stress Limit maxes out. _Effect:_ The veil doesn't just tear — it fails outright. A 60 ft radius centered on Malaphar becomes a literal fragment of Hell for the rest of the encounter. **Environmental Hazard:** at the start of each round, brimstone and hellfire lash every non-Daemon creature in the radius — resolved as a Hazard Roll (GM Tools): 2d6+2 (Hazard Power 2) against the character's Wound Threshold; a hit inflicts a Wound, a miss still inflicts 1 Stress. **Imps Erupt:** 3 Imps (Fodder tier — stat block not yet designed) tear through the rift and join the fight at the edge of the battlefield.
+
+---
+
+### Halgrim the Unburied
+
+> "He does not raise his voice. He has had three hundred years to learn that silence frightens the living more than any war-cry ever did."
+
+#### Vital Statistics
+
+- **Tier:** Dread Entity / Boss
+- **Type:** Undead _(a dwarven warlord-king, centuries dead and unwilling to lie down)_
+- **Size:** Standard | **Move:** 30 ft
+- **Attributes (derived only):** Brawn 3, Will 2 → Wound Threshold 9, Stress Limit 8; Reflex 0 → Activation Order 6, Momentum Bank 4. _(Assumed Zero: Wits — slow and mentally uncomplicated. Illusions, Arcana debuffs and anything requiring him to out-think rather than out-endure a target land on him easily; he is never racing anyone to act, so Reflex 0 costs him nothing tactically.)_
+- **Skills:** Melee +5, Resolve +4, Prowess +3.
+- **Derived stats:**
+    - Wound Threshold: **9** _(4 + Brawn 3 + Armour 2)_
+    - Wound Slots: **4**
+    - Stress Limit: **8** _(4 + Will 2 + Wits 0 + 2 Dread/Boss)_
+    - Activation Order: **6** _(6 + Reflex 0)_
+    - Momentum Bank: **4** _(4 + Reflex 0)_
+- **Equipment:** Ancient Grave-Plate (+2 Armour, Medium, **Bulky** — −1 Athletics, Stealth and Arcana). The Frost-Bitten Maul (Power 4, **Brutal** — each natural 4 on his 2d6 adds +1 to the Impact it generates). Strike Roll: **2d6+5**.
+- **Traits (3 of an allowance of 4):**
+    - **Fear Inducing:** When a PC engages with him or he activates within line of sight, that PC must immediately roll a **Resolve** check against TN 8. Failure: the PC gains the *Fear* condition. _(Cleared per Iron Core — Regroup out of sight or cover of the source, or automatically if the source is destroyed.)_
+    - **Sovereign's Malice (Passive Momentum Engine):** Halgrim banks **1 Momentum every time a PC spends Momentum from their own Bank** — the mechanism that taxes the party for rebuilding toward a Decisive Blow, capped by his Bank of 4 rather than open-ended.
+    - **Grave-Locked Resilience:** Once per round, Halgrim may spend up to **2 Momentum from his own Bank** to reduce incoming Impact by 2 per point spent. **Rises to 3 once Broken.**
+- **Special Actions (2):**
+    - **Grip of the Barrow (free):** _Trigger:_ wins a Melee Clash with **Margin 3+**. _Effect:_ the target is **Anchored** (0 movement) until they spend a full Aggressor action tearing free.
+    - **Reaver's Bite (free):** _Trigger:_ wins a Melee Clash with **Margin 5+**. _Effect:_ **Direct Wound** — bypasses Wound Threshold, filling 1 Wound Slot automatically.
+- **Momentum-Costed Abilities (1):**
+    - **Cost 2 Momentum — Winter's Judgment:** _Trigger:_ declared on Halgrim's activation. _Effect:_ 2 **Direct Dissonant Stress** to one target in his Threat Zone, bypassing Wound Threshold entirely.
+
+#### Phases
+
+- **Behaviour when unbroken:** Deliberate and patient, no wasted motion. Opens toward whoever is more mobile. His two free Special Actions are deliberately split across the Margin bands — **Grip of the Barrow on any Margin 3+ win, Reaver's Bite only on Margin 5+** — so control lands on a good hit and execution only on a great one. Against a typical Green defence that is roughly **44% of his attacks Anchoring and 24% also inflicting a Wound**. Only Winter's Judgment and Grave-Locked Resilience are Bank-limited, so those are the two calls that need GM judgment mid-fight. As a Boss he banks **1 Momentum at the start of every round** on top of Sovereign's Malice, so his Bank refills whether or not the party co-operates.
+- **Behaviour when Broken:** Per the GM Tools NPC Stress rules, a Boss's Broken state resolves as a Phase Change rather than a Rout, Surrender or Frenzy — see below.
+- **Dread Entity/Boss Phase change — The Frost Cracks:** _Trigger:_ the instant his Stress Track maxes out. _Effect:_ the frost binding him cracks audibly. He **loses Fear Inducing** and **loses his Prowess bonus on Brace** (post-break, Brace rolls a flat 2d6), but **gains Advantage on all Melee Strikes**, and **Grave-Locked Resilience's per-round cap rises to 3** for the rest of the fight. He is not weaker after breaking — he is spending everything he has left rather than accept a second death.
+
+> **Design note — deliberately built under his own band, and not yet re-tested.** His 12 Skill points sit at the top of the **Green Elite** band (9–12) and **one point under the flat Green Boss floor of 13**. That is a logged experiment, not an error: the Boss band assumes an action economy ("acted on 3–5 times for every one of its own actions") that a small party does not supply, and the bet is that his Special Action kit and durability cover the gap. The three dry runs that produced the *"wants a minimum of four PCs"* finding **pre-date both the Momentum unification and the Margin 5+ retune of Reaver's Bite**, so they describe neither the version that was played nor the version written here. Treat that finding as directional and re-run it. See *Play Test - The Unburied King*.
+>
+> **He is the source of Halgrim's Grave-Crown** (Hardware, Relic tier) — though the Crown is a GM-placed Relic and does not require this encounter to be run.

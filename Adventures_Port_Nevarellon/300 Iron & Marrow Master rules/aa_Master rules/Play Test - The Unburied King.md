@@ -166,10 +166,10 @@ Roll the Community Supply Die again — by now it may have stepped down once or 
 - **Special Actions:**
   - **Grip of the Barrow (free):** *Trigger:* wins a Melee Clash with Margin 3+. *Effect:* target is Anchored (0 movement) until they spend a full Aggressor action tearing free.
   - **Winter's Judgment (Cost 2 Momentum, from his own Bank):** *Trigger:* declared on Halgrim's activation. *Effect:* Direct Dissonant Stress (2) to one target in his Threat Zone, bypassing Wound Threshold entirely.
-  - **Reaver's Bite (free):** *Trigger:* wins a Melee Clash with Margin 3+. *Effect:* Direct Wound (bypasses Wound Threshold, 1 Wound Slot automatically).
+  - **Reaver's Bite (free):** *Trigger:* wins a Melee Clash with **Margin 5+**. *Effect:* Direct Wound (bypasses Wound Threshold, 1 Wound Slot automatically).
 
 ## Phases
-- **Unbroken:** Deliberate and patient — no wasted motion. Opens toward whoever is more mobile, since Grip of the Barrow and Reaver's Bite now trigger automatically off any Margin 3+ win rather than being rationed — his control-and-execute kit no longer runs dry. Only Winter's Judgment and Grave-Locked Resilience are Bank-limited, so those are the two calls that actually require GM judgment mid-fight.
+- **Unbroken:** Deliberate and patient — no wasted motion. Opens toward whoever is more mobile. **Grip of the Barrow fires on any Margin 3+ win; Reaver's Bite needs Margin 5+** — control on a good hit, execution only on a great one, so the kit no longer runs dry but the automatic Wound is no longer routine (against a typical Green defence: 44.4% of his attacks Anchor, 23.9% also Wound). Only Winter's Judgment and Grave-Locked Resilience are Bank-limited, so those are the two calls that actually require GM judgment mid-fight.
 - **Broken:** N/A as a separate state — the Stress-break *is* the phase change for a Boss, not a Rout/Surrender/Frenzy in between.
 - **Boss Phase change:** The moment his Stress Track maxes out, the frost binding him cracks audibly. He **loses Fear Inducing** and **loses his Prowess bonus on Brace** (post-break, Brace rolls a flat 2d6), but **gains Advantage on all Melee Strikes**, and **Grave-Locked Resilience's per-round cap rises to 3** for the rest of the fight. He is not weaker after breaking — he is spending everything he has left rather than accept a second death.
 
@@ -201,7 +201,7 @@ Fill this in during or immediately after the session — don't rely on memory af
 - [ ] Did the party visibly struggle to rebuild Momentum to 3 for a Decisive Blow after two empty-bank Breathers?
 - [ ] How much Momentum did Sovereign's Malice bank across the fight, capped by his own 4-point Bank?
 - [ ] Was the 12-Skill-point build (Elite ceiling, one under Boss floor) the right call — fold too easily, hold up fine, or overperform?
-- [ ] Do Grip of the Barrow / Reaver's Bite firing for free off Margin 3+ feel too automatic, or does the Margin 3+ bar gate enough on its own?
+- [ ] **Grip of the Barrow now fires at Margin 3+ and Reaver's Bite at Margin 5+.** Did splitting them across the bands read at the table — control on a good hit, the automatic Wound only on a great one? Did the Wound still land often enough to feel like his signature (expect roughly 1 attack in 4 against a Green defence), or did it become a novelty?
 - [ ] **Does this run's outcome match or contradict the dry-run finding above (Trio loses, Quartet wins)?** This is the one open item most worth a clean answer.
 - [ ] Did the Phase Change at Stress-break feel like an escalation, or did the fight end before it triggered?
 - [ ] Final outcome: win, flee, or party down? Wound count for each PC at the end?

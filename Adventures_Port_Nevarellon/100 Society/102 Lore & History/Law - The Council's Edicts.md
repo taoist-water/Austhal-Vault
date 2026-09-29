@@ -11,7 +11,7 @@ When the merchant cartels shattered the old kingdom, they abolished the divine r
 ### The Landed Citizen
 To be "Landed" is to hold legal power. A citizen is only classified as Landed if they hold a physical, Council-stamped deed. This applies strictly to:
 1. **Commercial Real Estate:** Owning a warehouse, a storefront, or a high-quarter estate.
-2. **A Guild Charter:** Holding the registered paperwork for a recognized business.
+2. **A Guild Charter:** Holding the registered paperwork for a recognized business — in practice a master's **shop charter** under a guild on the Council's Charter Roll (see [[Framework - The Guilds of Port Nevarellon]]).
 3. **A Deep-Water Keel:** Owning an ocean-going merchant vessel (a "floating freehold").
 
 ### The Un-Landed Citizen

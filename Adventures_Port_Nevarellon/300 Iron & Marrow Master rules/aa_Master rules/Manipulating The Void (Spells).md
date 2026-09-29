@@ -157,17 +157,23 @@ Light and sound are woven into a convincing facade.
 ---
 
 **Mind Link** (Common)
-A telepathic bridge forms between the caster and their allies.
+A telepathic bridge forms — offered, or forced.
 
 - **Level:** Novice
-- **Resolution:** Unopposed Arcana vs. TN 8
-- **Target/Range:** Self and up to [Wits] allies, anywhere in the same Scene
 - **Action Type:** Activation
-- **Duration:** Scene
+- **Duration:** **Sustain** (Communion) / Instant (Intrusion) — see *The Channelling Rule*, Embracing the Abyss. A caster holds only one Sustain or Flowing effect at a time.
 
-**The Margin Scaler:**
-- Margin 0–4: Linked characters communicate telepathically for the scene and gain Advantage on group Activation Order rolls while in line of sight of one another. The caster also takes 1 Dissonant Stress from the strain.
-- Margin 5+ (Exceptional): Linked allies may also share their Momentum bank with one another for the scene.
+**Communion — willing minds.**
+- **Resolution:** Unopposed Arcana vs. TN 8
+- **Target/Range:** Self and up to [Wits] **willing** allies, each within **Short Range** at the moment of casting. **Once established the link persists at any distance** for as long as it is Sustained — the strain of holding it is the limit, not the geometry.
+- Margin 0–4: The linked characters communicate telepathically, silently and without line of sight, for as long as the spell is Sustained. The caster takes 1 Dissonant Stress from the strain.
+- Margin 5+ (Exceptional): As above, and linked allies may share their Momentum banks with one another while the link holds. No Stress cost.
+
+**Intrusion — an unwilling mind.**
+- **Resolution:** Arcane Clash, Arcana vs. Target's **Resolve**
+- **Target/Range:** One unwilling character, Short Range. Instant — nothing is Sustained.
+- Margin 1–2 (Messy): You read the target's **surface thoughts** — what they are thinking in this moment, and nothing more. Not memories, not secrets they are not presently holding in mind, not answers to questions they have not been asked. The GM narrates a sentence or two of what is actually passing through their head. **The target feels the intrusion** and knows the direction it came from. The caster takes 1 Dissonant Stress.
+- Margin 3+ (Clean): As above, and **the target notices nothing.** No Stress cost.
 
 ---
 
@@ -1027,8 +1033,8 @@ Whispers of madness scramble the target's thoughts.
 - **Action Type:** Aggressor
 
 **The Margin Scaler:**
-- Margin 1–2: Target suffers Disadvantage on their next Activation Order roll. The caster also takes 1 Dissonant Stress from the strain.
-- Margin 3+ (Clean): As above, and the target also suffers 1 Dissonant Stress as the curse roots.
+- Margin 1–2 (Messy): The target gains the **Confused** condition (Iron Core). The caster also takes 1 Dissonant Stress from the strain.
+- Margin 3+ (Clean): The target gains **Confused** and **automatically loses their next Activation with no check at all**, testing normally from the Activation after that. No Stress cost to the caster.
 
 **The Evil Eye** (Combat / Debuff)
 The Witch locks eyes with the target and whispers a localized, highly specific curse, snapping a small chicken bone or twig to seal the hex.

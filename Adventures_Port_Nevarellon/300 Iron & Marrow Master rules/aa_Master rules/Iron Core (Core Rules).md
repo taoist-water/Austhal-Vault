@@ -227,12 +227,13 @@ To take a Wound, an enemy's attack must overcome your physical durability, repre
 Weapons are not the only things that cause Wounds. Wounds are inextricably linked to a character's mental state.
 
 - If a character's Stress Limit is maxed out, any further Stress they take instantly converts into physical Wounds. This means a character can suffer lethal trauma simply from the systemic shock of freezing temperatures, absolute exhaustion, or the mystical blowback of channelling too much raw Arcane energy.
+- **The one exception — `non-Lethal` sources.** Stress from a **`non-Lethal`** weapon or effect never converts. Against a full Stress track it is not applied at all: no Wound, no further Stress. The target gains the **Unconscious** condition instead. This is the whole point of a sap, a cudgel-butt or a chokehold — it is how you take someone alive, and it is the only way a full Stress track resolves without blood.
 ________________________________________________________________________
 # At Deaths Door
 
 When a character takes a Wound and cannot fill a wound slot, they immediately fall Prone, drop their weapons, and gain the **Incapacitated** condition.
 
-**1. The Activation Order (Bottom of the Barrel)** An Incapacitated character no longer rolls for Activation order at the start of a round. They automatically act at the absolute bottom of the turn order. If multiple characters are Incapacitated, they act simultaneously at the end of the round.
+**1. The Activation Order (Bottom of the Barrel)** An Incapacitated character's Activation Order is ignored — it is a static value (6 + Reflex, per Metal meet Flesh), not a roll, and nothing about being Incapacitated changes it. They automatically act at the absolute bottom of the turn order. If multiple characters are Incapacitated, they act simultaneously at the end of the round.
 
 **2. The Bleed-Out Check** When the character's activation comes up, they can take no Actions or Free Actions. Instead, they must make a desperate roll to cling to life.
 
@@ -292,6 +293,15 @@ ________________________________________________________________________
 - *Incapacitated:* Prone and Helpless, dying requiring Bleeding out checks.
     
     
+- *Unconscious:* You are **Prone** and **Helpless**. You take no Actions, Free Actions or Reactor actions, and you cannot Clash. Your Activation is skipped entirely. You are **not** dying and make no Bleed-Out checks — this is the Stress track's equivalent of Incapacitated, not a milder version of it.
+    - **Gained:** when your Stress Limit is full and you take further Stress from a **`non-Lethal`** source (see The Death Spiral — Stress Conversion), or from any effect that says so.
+    - **Cleared:** the instant your Stress track is no longer full — by Adrenaline Flush, an alchemical preparation, a Breather, or an ally clearing your Stress. An ally may also spend an Action on a **Medicine check vs TN 8** to rouse you, exactly as Triage works on an Incapacitated character. Otherwise it ends when the scene does.
+    - **The Coup de Grâce still applies.** An attacker in melee may leave you where you lie, or finish the job: the attack automatically wins its Clash, and a Wound taken with no defence and no slot to fill makes you **Incapacitated** and dying. A `non-Lethal` weapon cannot do this at all. Killing an unconscious body is a second, deliberate decision — never an accident of the dice.
+    
+    
+- *Helpless:* You cannot defend. Any attack against you automatically wins its Clash, with no roll and no Reactor action. Impact is calculated as an unopposed hit.
+    
+    
 -  *Prone:* You are on the ground. You suffer Disadvantage on all Clashes. It costs a Move Action or 1 Momentum to scramble to your feet.
     
 - *Blinded:* (Dirt in the eyes, magical darkness). You cannot take attack actions against targets beyond 5 feet. All Reactor Clashes are made with Disadvantage.
@@ -307,6 +317,9 @@ ________________________________________________________________________
 - *Fear:* 1 stress is locked, until fear condition is lost. Has disadvantage against the object/being causing the Fear condition. must Pass a Resolve check to make Attack actions or interact with the object/being causing the fear. Cleared by taking the regroup action when out of sight or has cover from the object/enemy causing fear, or immediately and automatically if the source of the Fear is destroyed or removed from the scene.
     
 - *Distracted:* suffer a - 1 to rolls until next activation, then lose the condition.
+    
+    
+- *Confused:* Your thoughts will not hold still. At the start of each of your Activations, make an **Insight or Resolve check vs TN 8** — your choice, wits or willpower. **On a pass you act normally and the condition ends.** On a failure you lose the Activation entirely, standing dumbfounded: no Action, no Move, no Free Action. You may still take Reactor actions — you are bewildered, not helpless.
     
 - *Cursed:* (Magical). Healing magic (like Mend Flesh or Surge of Relief) has no effect on you, and Alchemical draughts taste like ash, providing no benefit.
     

@@ -325,9 +325,10 @@ A single-use wand pre-loaded with one specific spell by an Arcanist during downt
 - **If the activator does not have Arcane Awakening** (using invested Arcana skill points per the Non-Caster Usage of Faith and Arcana rules in GM Tools): any Failure, not just Snake Eyes, destroys the wand. An untrained hand can't channel it precisely enough to survive a botch.
 - *This item costs the activator no personal Stress win or lose — that's the whole point, it's what makes it safely usable by non-casters. The destruction risk on a failed roll is what stops it from being strictly better than casting the spell yourself.*
 
-**Reliquary Symbol** (Holy Symbol upgrade) — ~150 sp | Legendary, Commission-gated
+**Reliquary Symbol** (Holy Symbol upgrade) — ~150 sp | Legendary, Commission-gated | 1 Locked Stress Attunement
 A Holy Symbol whose Domain-blessing has visibly deepened — filigree that was plain now catches light that isn't there.
-- **Effect:** +1 to all Tithe of Will rolls. *(The Faith-side equivalent of the old Wand bonus, translated into Faith's own currency: pushing more rolls over the TN 8 line means fewer Fails, which means less Encroachment, rather than a flat combat bonus Faith's math doesn't otherwise have a slot for.)*
+- **Effect:** +1 to all Tithe of Will rolls. *(The Faith-side equivalent of the Vitrified Wand's `Focus` tag, translated into Faith's own currency: pushing more rolls over the TN 8 line means fewer Fails, which means less Encroachment, rather than a flat combat bonus Faith's math doesn't otherwise have a slot for.)*
+- **The trade, stated plainly:** this is the sharpest attunement cost in the book, because of who wears it. A Priest's whole economy is paid in Locked Stress, so they sit closer to their Stress ceiling than any other class — and per Iron Core's Golden Rules that attuned box is **permanent and unreachable by any means while the Symbol is worn**. The +1 that makes your Tithes succeed more often also permanently shrinks the track those Tithes fill. A Priest at Stress Limit 9 runs at 8 for as long as they wear it.
 
 **Vitrified Wand** (Wand upgrade) — ~150 sp | Legendary, Commission-gated | 1 Locked Stress Attunement
 A plain wand whose grain has gone glassy and still, as though it has stopped flinching.
@@ -351,7 +352,7 @@ A blackened iron cuff, still faintly warm no matter how long it's been off the w
 - **Effect:** Once per Scene, the wielder may spend 1 Momentum to force a target within Reach into an unopposed Resolve check vs. TN 8; failure inflicts 2 Dissonant Stress as infernal heat sears inward.
 - **The Cost:** Each activation locks 1 Stress on the wielder that **cannot** be cleared by Momentum spend or a Breather — only a full Religious Pursuit or a Long Rest will do. The Brand remembers whose hand last closed a shackle, and it isn't particular about whose.
 
-**Halgrim's Grave-Crown** (unique circlet) — Not for sale. Found only as loot from Halgrim the Unburied.
+**Halgrim's Grave-Crown** (unique circlet) — Not for sale. **GM-placed Relic**, per the tier above: it enters play where the GM puts it and is never bought. Its namesake has a stat block in the Bestiary (Halgrim the Unburied, Dread/Boss), which is the obvious place to hang it, but the Crown does not depend on that encounter being run.
 A dull iron circlet, cold to the touch even beside a fire.
 - **Effect:** Once per Scene, the wearer may treat a single failed Resolve check of their own as passed instead — the crown remembers command, even from a skull that no longer needs a body to give orders.
 - **The Cost:** While worn, the wearer personally treats all light one Illumination band darker than it actually is (Iron World) — Well Lit reads as Dimly Lit, Dimly Lit reads as Pitch Black, for that wearer alone. A dead king's court is always dim, and so is anyone who wears his crown.
@@ -492,7 +493,7 @@ _______________________________________________________________________
 - **Heavy Hitter:** When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7.
 - **Heavy Reload:** After firing, reloading consumes the wielder's entire Activation — no movement, no Action, no Free Action. (The Heavy Arbalest's windlass; a muzzle-loader's ramrod.)
 - **Inertia:** If you win the Clash roll by a High Margin (5+), add +2 Power to the Final Impact.
-- **non-Lethal:** strikes with this weapon can only cause Stress regardless of the Impact result, will never spill over into wounds.
+- **non-Lethal:** strikes with this weapon can only cause Stress regardless of the Impact result, and will never spill over into Wounds. Against a target whose Stress Limit is already full, the blow inflicts no Stress either — it renders them **Unconscious** instead (Iron Core). A `non-Lethal` weapon cannot inflict a Wound, land a Coup de Grâce, or kill, at any Impact.
 - **Precise:** Ignores 1 Point of armour
 - **Reach:** Threatens a 10-foot radius (2 grid squares). Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
 - **Reload:** After firing, requires an Action to load the next shot.
