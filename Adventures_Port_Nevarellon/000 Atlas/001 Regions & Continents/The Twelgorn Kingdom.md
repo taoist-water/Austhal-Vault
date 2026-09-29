@@ -64,7 +64,7 @@ Slaves are the realm's principal trade good and its working body.
 - **An overland trade empire.** Caravans cross the steppe, and silks, spices and bullion reach the southern sea through the port-cities. On the coast these goods are simply "Twelgorn silks" and "Twelgorn gold".
 - **Treasure galleons sail north**, and seasonal payroll convoys supply the marsh-fringe garrisons — prey for [[Captain Haren Twarde]].
 - **Trade through the void.** [[Palla Vantry]]'s houses move southern goods through the identity void, where they can be neither taxed nor condemned.
-- **What the realm lacks:** timber. It buys Iron-Burl through brokers, because it has no forests of its own.
+- **What the realm lacks:** timber and powder. It buys Iron-Burl through brokers, because what little timber it has rots at sea. It buys powder from [[The Guild of Alchemists|the Guild of Alchemists]]' chapter in the southern port-cities — blasting powder for the slave-mines, and charges for the steppe-lords' pistols.
 
 ---
 
@@ -100,6 +100,7 @@ Tuwal Ghorun sits **outside the Layers**: a foreign power pressing on Layer 1 fr
 - What Tuwal Ghorun takes in return for the Blessing.
 - Did Ellenst De Vonce marry into a Tuwal Ghorun house?
 - What do the people of Tuwal Ghorun call the Whispering Coast?
+- Do the navy's warships mount powder guns? *(rules-side)*
 
 ## 🔗 Connected Notes
 - [[History - The Broken Crown of Austhal]] — the flight of the heirs; the identity void

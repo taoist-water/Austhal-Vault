@@ -838,7 +838,7 @@ Arcane Manifestation/Clash 2d6+4 | Dagger Strike 2d6+0 | Dodge 2d6+0 (she has no
 ### Feats
 - **Divine Conduit** *(The Covenant, Domain of Mercy & Healing — Creation)*. Grants a Holy Symbol, the **Pure Martyrdom** Domain Tag (casting Healing/Stabilize: take 1 Locked Stress herself to clear an additional Wound Slot on the target), and the 4 Novice Miracles below.
 - **Dung-Healer's Salve** *(Medicine +1 — Creation)*: A Breather can't normally heal Wounds — this is the exception. Mundane foraged supplies let a Medicine check heal a Wound Slot during a Breather anyway; the patient takes 1 Locked Stress from the crude treatment.
-- **Gallows Humour** *(Influence +1 or Resolve +1 — Milestone 6)*: Recounting a harrowing story during a Breather lets her and every ally participating each clear 1 point of Locked Stress.
+- **Gallows Humour** *(Influence +1 or Resolve +1 — Milestone 6)*: Recounting a harrowing story during a Breather lets her and every ally participating each clear 1 point of **clearable** Locked Stress — never the Attunement kind (Iron Core, Golden Rules).
 
 ### Equipment
 - **Armor:** Chain Shirt (+2 Armor, Light)

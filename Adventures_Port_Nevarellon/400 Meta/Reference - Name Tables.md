@@ -85,7 +85,7 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 23  | Ottavian Kress     | B    | *(allocated — canon: Councillor, the Water Seat)*                      |
 | 24  | Serrian De Vonce   | B    | Cadet branch of the Iron Court, kept far from the succession           |
 | 25  | Palla Vantry       | B    | *(allocated — canon: Councillor, the Long Seat)*                       |
-| 26  | Halcus Rive        | B    | Guild of Alchemists assessor, licences Brine-Glow lanterns             |
+| 26  | Halcus Rive        | B    | *(allocated — canon: Guild of Alchemists assessor, Port Nevarellon chapter)* |
 | 27  | Ysolde Corran      | B    | Deliberate near-miss on Isolde Vantry; a social climber's chosen name  |
 | 28  | Marcian Thole      | B    | *(allocated — canon: Councillor, the Harbour Seat)*                    |
 | 29  | Rashid Al Deyr     | C    | Twelgorn-born tally-clerk; came north legally and is trusted by nobody |
@@ -184,7 +184,7 @@ Every entry is placed. **Region** states the parent — no floating villages. **
 | 37 | Nine Poles | **T0** | Hamlet | Silted Marshes | Nine stilt platforms, no land at all |
 | 38 | Reefhollow | **T1** | Village | Shield Atolls | Stilt-houses over warm reef; mixed-race, unbothered by it |
 | 39 | Two Cages | **T1** | Village | Shield Atolls | Two great fish-traps; halfling-majority |
-| 40 | Saltlight | **T0** | Hamlet | Shield Atolls | Harvests the algae for the Brine-Glow Lanterns → *canon tie* |
+| 40 | Saltlight | **T0** | Hamlet | Shield Atolls | Harvests the algae for the Brine-Glow Lanterns → *allocated: The Guild of Alchemists* |
 | 41 | Coldmoor Cove | **T1** | Village | Shield Atolls | Northernmost atoll; whaling fleet victualler |
 | 42 | Bone Shoal | **T0** | Hamlet | Shield Atolls | Built on the petrified ribs of a war-beast → *canon tie* |
 | 43 | Concord's Third Stone | **T0** | Waystation | Ducal Concord Road | Milestone-named; Golden Company and ducal levy share it badly |

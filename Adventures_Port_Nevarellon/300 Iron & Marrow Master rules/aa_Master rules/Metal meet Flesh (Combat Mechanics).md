@@ -108,8 +108,8 @@ During a Characters activation it may move up to its base movement value [MV] an
 	Roll **2d6 + Faith vs. TN 8**.
 
 	- **Success:** Unlock [Will] Locked Stress (minimum 1).
-	- **Massive Success (5+):** Clear all Locked Stress.
-	- **Fumble (Snake Eyes):** The weight doesn't lift — it curdles. All Locked Stress becomes Dissonant, **and the Priest gains 1 Encroachment** (the thing you've been borrowing from notices you reaching for relief without paying first).
+	- **Massive Success (5+):** Clear all **clearable** Locked Stress — Flowing and Attuned Locked Stress are untouched, per the exclusion above.
+	- **Fumble (Snake Eyes):** The weight doesn't lift — it curdles. All **clearable** Locked Stress becomes Dissonant (Attunement Locked Stress does not convert, per the Golden Rules), **and the Priest gains 1 Encroachment** (the thing you've been borrowing from notices you reaching for relief without paying first).
 
 
 ### The Twin-Blade Stance (Two weapon fighting)

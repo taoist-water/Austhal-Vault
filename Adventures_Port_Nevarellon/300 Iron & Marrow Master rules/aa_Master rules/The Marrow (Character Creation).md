@@ -362,7 +362,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 >You find the punchline at the end of the world.
 
-* Mechanic: When taking a Breather, if you recount a recent harrowing experience or near-death encounter, you and all allies participating in the rest may each clear 1 point of Locked Stress.
+* Mechanic: When taking a Breather, if you recount a recent harrowing experience or near-death encounter, you and all allies participating in the rest may each clear 1 point of **clearable** Locked Stress. **Attunement Locked Stress is never eligible** (see Iron Core's Golden Rules).
 
 **Haggler’s Scorn**
 

@@ -87,6 +87,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Coastal Meridian | Inner Sea, along the mainland | Main shoal-free sea-lane | The Inner Sea | — |
 | The Shield Atolls | Eastern rim of the Inner Sea | Barrier islands; the drowned continuation of the Jagged Spine ridge | The Inner Sea | No file (wanted link) |
 | Oakhaven Cove | Northernmost shield island | Crater-harbour township; master port for the monster-hunting fleets; 200–450 miles from the city | The Inner Sea | No file. Morgran **no longer** based here |
+| **Saltlight** | Shield Atolls | T0 hamlet; harvests the algae for the Brine-Glow Lanterns | Name Tables T2 #40; The Guild of Alchemists | **Promoted 2026-09-29** |
 | The Broken Spires | Northern Inner Sea | Drowned ridge — mountain, not masonry; same heat-scarred fracturing as Corvus, so the seam runs north-east | The Inner Sea; Five Duchies | No file |
 | The Broken Ocean | Beyond the atolls | Open ocean; every Wondrous Market lies across it | The Inner Sea; Wondrous Markets | — |
 | The Silted Marshes | South of the city | Roadless delta; Iron-Burl; marsh-fever; the terrain lies to you | Silted Marshes.md | — |
@@ -116,11 +117,14 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Rusty Anchor Foundry | District unclear | Silas Bane's base above the fighting pits | Silas Bane | No file |
 | Low-Tide Market · Slipway Seven · Brine-Glow Depot | Muddy Docks | Mudflat bazaar · drydock · lantern workshop | The Muddy Docks | No files — minor |
 | The Sea-Wall & Tide-Wards | City breakwater | Breakwater; eroding basalt monoliths stabilise the bedrock | Port Nevarellon | — |
+| **The Guild Chapter-House** | Seaward edge of the High Quarter cliffs | Guild of Alchemists licence office and court; rooftop observatory and instrument room (Low Moons tables) | The Guild of Alchemists; Coastal Reckoning | **NEW 2026-09-29.** No file |
+| **The Powder Hulk** | Outer harbour, off the Sea-Wall | Dismasted hull; the city's only legal powder magazine | The Guild of Alchemists | **NEW 2026-09-29.** No file |
+| **The nitre-yards** | Outside the landward curtain wall, downwind of the Foundry Slips | Guild saltpetre heaps, worked by bought Debt-Bonds | The Guild of Alchemists | **NEW 2026-09-29.** No file |
 | The Fourth (the Struck City) | Across the Broken Ocean | Wondrous Market struck from the count; breach-city, light-fearing beasts, a sophisticated ruler; handed to the Crooked Coin by the striking | Wondrous Markets (**draft**); Cult of the Zenith | **Unnamed by design.** Date of striking and relationship to Corvus open |
 | Desert Coast Market | Across the Broken Ocean | Seam between desert caravans and deep-water hulls | Wondrous Markets (draft) | Name *Qathrayin* **provisional** |
 | Volcano Market | Inland, another continent | Seat of the Golden Company's Charter-House | Wondrous Markets (draft) | Name *Ashkoral* **provisional**. Charter-House not yet written into The Golden Company.md |
 
-*Name Tables Table 2 holds 50 placed settlements, forts and ruins. They are unallocated until used; only Fenmouth has been promoted.*
+*Name Tables Table 2 holds 50 placed settlements, forts and ruins. They are unallocated until used; only Fenmouth and Saltlight have been promoted.*
 
 ---
 
@@ -132,7 +136,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Golden Company | Sovereign's Gate; Basin garrison; High Quarter and Plazas patrols | Only lawful military; ~1,200 soldiers; 99-Year Contract (41 years left); Envoy Corps (the Second Contract) | 1 | The Golden Company.md | Grunt wage (3 sp/day) out-earns a Landed artisan — plausibility flag |
 | The Civic Constabulary (Coppers / Blue-Cloak Watch) | Toll-houses, lower districts, toll-gates | ~400 corrupt, underpaid watchmen; auxiliary beneath the Company; overseen by Provost Stross | 3 | Faction - The Civic Constabulary; Port Nevarellon | Blue-Cloak contradiction **resolved 2026-09-28** |
 | The Cult of the Zenith | The Plumb Court | Domain of Law; de facto inter-jurisdictional tribunal; keeps the Register; Court of Nullity; Register of Markets | 1–2 (by accretion) | The Cult of the Zenith.md | Binding Oath `needs crunch` |
-| **The Guild of Alchemists** | Cross-border; Port Nevarellon chapter | Holds the secret of black powder; licenses powder, Brine-Glow lanterns and Brine-Fire stock; sells the Low Moons tables | Chapter: 3 · Parent: outside the Layers | Law (Powder Edict); Port Nevarellon; Coastal Reckoning; Kress; Garrick; Maeve | **NEW 2026-09-28.** File empty — to be developed |
+| **The Guild of Alchemists** | Cross-border, no capital (the Convocation meets by lot); PN chapter: Chapter-House, Powder Hulk, Brine-Glow Depot, nitre-yards | Holds the white salt (saltpetre) and the corning; licenses powder, lanterns, Brine-Fire and shard-assay; sells the Low Moons tables; sells to everyone, Tuwal Ghorun included | Chapter: 3 (hands on Layer 1) · Parent: outside the Layers | The Guild of Alchemists.md; Law; Port Nevarellon; Coastal Reckoning; Kress; Garrick; Maeve | **Drafted 2026-09-29.** No Council seat, by choice. Chapter-Warden unnamed |
 | The Iron-Anchor Syndicate | Black Mast Warehouse | Docks extortion and labour cartel; Old Guard vs Young Bloods | 3 | The Iron-Anchor Syndicate.md | HQ file empty |
 | The Cobalt Feather Syndicate | Alfric's manor; Rusty Tankard | Forgery and smuggling; no-blood mandate; Blue Pens; existential rival of the Zenith | 3 | The Cobalt Feather Syndicate.md | Now includes Maccorrack (muscle) |
 | The Wyvern Tail Pirates | Greywater Lagoon | Disciplined commerce raiders under Haren Twarde; prey on the Twelgorn navy | 2–3 | The Wyvern tail Pirates.md | — |
@@ -143,7 +147,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | House Valerius | Duchy of Valerius | Syndicate with a coronet | 1 | Five Duchies | No named members |
 | House Thorne (disowned branch) | Divtown | Kelf Thorne's fencing operation under a noble seal | 2 | Lord Kelf Thorne | — |
 | House Corvus | — | Functionally extinct | — | Five Duchies | Three Layers asks: is there a surviving claimant? Open |
-| The Scar-Holders | Corvus Scar | Unlanded squatters and farmers; can never be lawfully recognised or cleared | 2 | Five Duchies | — |
+| The Scar-Holders | Corvus Scar | Unlanded squatters and farmers; can never be lawfully recognised or cleared | 2 | Five Duchies; The Guild of Alchemists | Sell the Scar's sulphur to the Guild — their only trade in coin (2026-09-29) |
 | The Twelgorn Retrievers | Southern marsh fringes | Slave-hunters projecting Twelgorn authority; their warrants are unenforceable (identity void) | 2 | Silted Marshes; Three Layers; History | — |
 | Tuwal Ghorun (the realm) | Far south | Loose web of steppe fiefs under the Al Ghorun; subject port-cities build and crew the navy | External | The Twelgorn Kingdom | See Locations |
 | The Binders | Beneath the capital | Priesthood that keeps the Binding and reads the god's omens | External | The Twelgorn Kingdom | Own name to be set |
@@ -192,6 +196,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Archmage Vane | — | Quoted in Cosmology | — | Celestial Graveyard | Quote-only |
 | Captain Tessa (Leviathan Hunter) | Oakhaven fleets | Quoted in The Inner Sea | — | The Inner Sea | Quote-only. **Name collision with Tessa Dolly** |
 | Suse Kellard · Nell Stroud | Foundry Slips · Muddy Docks | Rope-walk foreman · cookshop widow (epigraph voices) | — | Thole; Kress; Name Tables | Allocated from Name Tables |
+| Halcus Rive | Guild of Alchemists (PN chapter) | Assessor; licenses every Brine-Glow lantern | N | The Guild of Alchemists; Name Tables #26 | Alive; no file |
+| The Chapter-Warden *(name to be set)* | Guild of Alchemists (PN chapter) | Head of the Port Nevarellon chapter | N | The Guild of Alchemists | — |
 
 ---
 
@@ -251,8 +257,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 |---|---|---|---|---|
 | The Shard-Blade | Tythius De Vonce | Longsword of deep-rift iron | `needs crunch` | Tythius; file empty |
 | The Wyvern-Hide Banner | Haren Twarde | Pulls an Undertow-deep "ghost" of the beast into the fight | `needs crunch` — narrative specifies an effect | Captain Haren Twarde |
-| Brine-Fire | Silas Bane; Guild stock | Gel that ignites on contact with salt water; unstable in the Low Moons | `needs crunch` | Silas Bane; Coastal Reckoning |
-| **Black powder / firearms** | Guild of Alchemists (licensed); Garrick; Maeve | Controlled substance; firearms only for the very wealthy or very important | `needs crunch` — flag for the rules side | Law (Powder Edict); Garrick; Maeve; Kress |
+| Brine-Fire | Silas Bane; Guild stock | Gel that ignites on contact with salt water; unstable in the Low Moons; sealed at the Shuttering | `needs crunch` | Silas Bane; Coastal Reckoning; The Guild of Alchemists |
+| **Black powder / firearms** | Guild of Alchemists (licensed); Garrick; Maeve | Controlled substance; firearms only for the very wealthy or very important. The secret is the white salt (saltpetre) and the corning; stored on the Powder Hulk | `needs crunch` — flag for the rules side | Law (Powder Edict); Garrick; Maeve; Kress; The Guild of Alchemists |
 | High-Steel | Company, nobles, sanctioned guild-masters | Refined steel monopoly; commoners' iron shatters on it | — | Law |
 | The Golden Writ (Peace-Bond) | Landed citizens | 5 gs (1,000 cp) licence to carry a martial weapon; wire and wax on the guard (on pistols: the trigger-guard) | — | Law; Economy |
 | The Black Ledger | Dolly Sisters | Coded blackmail journal on High Quarter smuggling patrons | — | The Dolly Sisters |
@@ -265,7 +271,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | **Mogwort** (formerly Cindin) | Sailors, labourers | Sticky narcotic resin, chewed or dissolved in ale | — | Mogwort.md; Economy; Kress; Maccorrack |
 | Nightshade (powdered) | Tessa Dolly | Poison in a hollow ring | — | Dolly Sisters; file empty |
 | Sun-Iron | Iron-Anchor smuggling | Unstable mineral for unlicensed alchemists | — | Iron-Anchor; file empty |
-| The Brine-Glow Lanterns | Guild of Alchemists (PN chapter) | Bioluminescent-algae street lighting; target of Silas's plot | — | Port Nevarellon; file empty |
+| The Brine-Glow Lanterns | Guild of Alchemists (PN chapter) | Bioluminescent-algae street lighting; algae from Saltlight; target of Silas's plot | — | Port Nevarellon; The Guild of Alchemists; file empty |
 
 ---
 
@@ -293,6 +299,11 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Winter Moons / the Opening / High Turns / Draw-Down | The four seasons | Coastal Reckoning | — |
 | Lastwater · Toll Amnesty · First Keel · Contract Bell | Water-price day · the Unwritten Day's unavoidable "mercy" · spring opener · countdown | Coastal Reckoning; Name Tables | — |
 | The Powder Edict | Fifth Edict of Armament; powder licensed by the Guild | Law | Flag for the rules side |
+| The Seal · the Sealed · the Unsealed | The Guild's oath of secrecy · masters who know how the salt is made · defectors, hunted | The Guild of Alchemists | — |
+| The Searchers | Guild inspectors: right to inspect licensed stock in the city; hunt the Unsealed | The Guild of Alchemists | — |
+| The Right of the Spade | Charter right of Guild saltpetre-men to dig nitre-earth from any stable, byre, dovecote or cellar | The Guild of Alchemists | — |
+| The Convocation | The Guild's governing gathering; meets at a chapter drawn by lot | The Guild of Alchemists | — |
+| The Shuttering | All Brine-Fire stock sealed and logged before the Low Moons | The Guild of Alchemists; Name Tables | — |
 | King-Ban | No "King"; applies to place names too | History; Name Tables | — |
 | Latinise | Climbing families Latinise their names (Cobb → Cobbius) | Name Tables; Sallow; Kress | — |
 | Settlement Tier T0–T3 | Tier measures services, not headcount | Name Tables | **Explicitly "mechanical" — flag for the rules side** |
@@ -307,7 +318,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 ### Still open, in priority order
 1. ~~**The Twelgorn Kingdom**~~ — **file created 2026-09-28 (draft).** Still to set: names (capital, natives, plateau, Binders, the Unaging Heir), travel times, and what the god takes for the Blessing.
 2. **The Tidespoken Clergy** — no file; 7 references.
-3. **The Guild of Alchemists** — empty file; cross-border scope, powder secret, chapter structure to define.
+3. ~~**The Guild of Alchemists**~~ — **file drafted 2026-09-29 (draft).** Still to set: the Chapter-Warden's name, the Convocation's interval, the founding date and first chapter.
 4. ~~**Confirm the derived dates**~~ — **confirmed 2026-09-28:** Corvus fell in 8 A.A.; the next Opening-season Low Moons (~59 A.A.) is a live campaign clock and Tuwal Ghorun's invasion omen.
 5. **The De Vonce children.** Ellenst "married south" implies Twelgorn nobility — decide whether that's a hook.
 6. **The ducal seats have no files**; Castle Iron-Spire is empty.
@@ -324,6 +335,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 14. **Tone:** the older underworld docs (Silas, Iron-Anchor, Wyvern Tail) lack motes. Hearing and sight loss now marks eight characters.
 15. **Tier tags:** `#location/neighborhood` for the Muddy Docks and Cinder Row.
 16. **Cinder Row** — intentional stub; develop when the Sunken Ward goes live in play.
+17. **City guilds framework.** When the second guild is built, give the city craft guilds (Coopers, Shipwrights, Victuallers) one shared note: charter and Landed status, the right of search, the apprentice ladder, sponsorship of Un-Landed grievances.
 
 ### Rules-side flags (not carried over — for the Iron & Marrow ruleset)
 - Binding Oath
@@ -331,6 +343,8 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - Wyvern-Hide Banner
 - Brine-Fire
 - Firearms and powder; whether Company officers carry guns
+- Guild licence and powder prices
+- Whether Tuwal Ghorun's warships mount powder guns
 - Fey and hag stat blocks
 - Settlement Tiers
 - Faction power levels (every faction is currently "not defined")
@@ -340,11 +354,10 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 ## 🧪 File integrity (2026-09-28)
 - **Empty files:**
   - Locations: Castle Iron-Spire · The Great Expanse (duplicate — delete) · Wastelands · Untitled (identify or delete) · The Drowned Rat Tavern · The Black Mast Warehouse
-  - Factions: The Guild of Alchemists
   - Items: Nightshade · Sun-Iron · The Brine-Glow Lanterns · The Shard-Blade
   - Cast: Bruiser Ben
 - **Unfilled templates:** The Jagged Spine · The Kald Mountain Territory · Ubaraz Kingdom · The High Quarter · The Trade Plazas · The Foundry Slips · Valerius Family. Austhal and Whispering Coast are partial.
-- **Wanted links (notes not yet written):** Zafira Al Munn · The Tidespoken Clergy · Eldrick / Imaihil / Sheandri De Vonce · Ellenst Rulieone · Oakhaven Cove · The Shield Atolls · The Broken Spires · Captain Vesper Locke · The Low-Tide Market · Slipway Seven · The Brine-Glow Depot · The Rusty Anchor Foundry.
+- **Wanted links (notes not yet written):** Zafira Al Munn · The Tidespoken Clergy · Eldrick / Imaihil / Sheandri De Vonce · Ellenst Rulieone · Oakhaven Cove · The Shield Atolls · The Broken Spires · Captain Vesper Locke · The Low-Tide Market · Slipway Seven · The Brine-Glow Depot · The Rusty Anchor Foundry · Halcus Rive.
 - **Obsolete copies to archive:**
   - Inside the vault: `drafts/draft_iron-and-marrow-canon-tracker*.md` and `drafts/iron-and-marrow-canon-tracker.md`, plus the `Batch * review - diff.md` files.
   - Outside the vault: the root `.txt` snapshots.
