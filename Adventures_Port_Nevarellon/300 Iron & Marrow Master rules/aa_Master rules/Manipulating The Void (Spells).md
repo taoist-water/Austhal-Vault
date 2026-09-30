@@ -250,7 +250,7 @@ Energy lashes out from the caster's skin, punishing any who approach or strike t
 - **Duration:** Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound)
 
 **The Margin Scaler:**
-- Margin 0–2 (Messy): The field holds; any character ending their turn adjacent to the caster, or hitting them in melee, suffers 1 Impact. The caster also takes 1 Dissonant Stress from the initial surge.
+- Margin 0–2 (Messy): The field holds; any character ending their turn adjacent to the caster, or hitting them in melee, suffers 1 Dissonant Stress. The caster takes 1 Dissonant Stress of their own from the initial surge.
 - Margin 3–4 (Clean): As above, no self-cost.
 - Margin 5+ (Massive): Impact increases to 2.
 
@@ -380,7 +380,7 @@ The caster forces their own bones, or the bones of an ally, to painfully extrude
     
 - Margin 3–4 (Clean): The bone armor forms flawlessly.
     
-- Margin 5+ (Massive): The bone spikes are violently sharp. Any enemy who attacks the target and fails the Clash via a Block or Parry immediately suffers 1 Impact from striking the jagged bone.
+- Margin 5+ (Massive): The bone spikes are violently sharp. Any enemy who attacks the target and fails the Clash via a Block or Parry immediately suffers **Impact 4** from striking the jagged bone.
 
 ### Adept
 
@@ -489,7 +489,7 @@ The sorcerer drives an iron nail or a blade into the target’s cast shadow on t
     
 - The Margin Scaler (Based on Clash Margin):
     
-- Margin 1–2: The target is Anchored until they spend their entire next Aggressor action physically tearing their shadow free, which causes them to suffer 1 Impact from the metaphysical tearing. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 1–2: The target is Anchored until they spend their entire next Aggressor action physically tearing their shadow free, which causes them to suffer 1 Dissonant Stress from the metaphysical tearing. The caster also takes 1 Dissonant Stress from the strain.
     
 - Margin 3+ (Clean): The target is Anchored, and because their silhouette is pulled taut, they completely lose the ability to use the Dodge action until they break free. They must rely on Block or Parry.
     
@@ -858,11 +858,11 @@ The caster places their palm against a solid surface—stone, wood, or bone—an
 - The Margin Scaler:
     
 
-- Margin 0–2 (Messy): The transmutation works, but the glass is highly unstable and explodes outward immediately. The caster takes 1 Impact from the shrapnel.
+- Margin 0–2 (Messy): The transmutation works, but the glass is highly unstable and explodes outward immediately. The caster takes 1 Dissonant Stress from the shrapnel.
     
 - Margin 3–4 (Clean): The surface turns to glass, waiting to be shattered safely.
     
-- Margin 5+ (Massive): The caster controls the tension of the glass. When it shatters, it leaves behind a floor of razor-sharp caltrops, turning that 10x10 zone into a hazard that deals 1 Impact to any enemy that moves through it.
+- Margin 5+ (Massive): The caster controls the tension of the glass. When it shatters, it leaves behind a floor of razor-sharp caltrops, turning that 10x10 zone into a hazard that deals 1 Dissonant Stress to any enemy that moves through it.
 
 ### Master
 
@@ -1090,7 +1090,7 @@ The Witch rapidly binds a handful of straw, twine, and a drop of an ally's blood
     
 - Margin 3–4 (Clean): The poppet perfectly absorbs the Wound and turns to ash.
     
-- Margin 5+ (Massive): The curse reflects the harm. The poppet absorbs the Wound, and the enemy who delivered the blow instantly suffers 1 Impact as their own flesh mysteriously tears open.
+- Margin 5+ (Massive): The curse reflects the harm. The poppet absorbs the Wound, and the enemy who delivered the blow instantly suffers **Impact 4** as their own flesh mysteriously tears open.
     
 
 **Choking Bramble** (Environmental / Retaliation)
@@ -1107,11 +1107,11 @@ The caster scatters a handful of dead seeds that instantly erupt into a writhing
 - The Margin Scaler:
     
 
-- Margin 0–2 (Messy): The briars sprout wildly. They deal 1 Impact to any enemy that attacks from within them, but the Witch's allies also treat the zone as difficult terrain.
+- Margin 0–2 (Messy): The briars sprout wildly. They deal 1 Dissonant Stress to any enemy that attacks from within them, but the Witch's allies also treat the zone as difficult terrain.
     
-- Margin 3–4 (Clean): The briars recognize the caster’s allies. Allies move freely, but enemies who declare a Strike from within the zone automatically suffer 1 Impact before their attack resolves.
+- Margin 3–4 (Clean): The briars recognize the caster’s allies. Allies move freely, but enemies who declare a Strike from within the zone automatically suffer 1 Dissonant Stress before their attack resolves.
     
-- Margin 5+ (Massive): The thorns are venomous. In addition to the 1 Impact, any Fodder-tier enemy taking damage from the briars instantly loses their flanking Bonus for the remainder of the round as the pain breaks their coordination.
+- Margin 5+ (Massive): The thorns are venomous. In addition to the 1 Dissonant Stress, any Fodder-tier enemy taking damage from the briars instantly loses their flanking Bonus for the remainder of the round as the pain breaks their coordination.
     
 
 **The Creeping Ague** (Crowd Control / Biological)
@@ -1242,7 +1242,7 @@ The caster mathematically binds an enemy’s gravitational pull to an ally, forc
     
 - The Margin Scaler (Based on Clash Margin):
     
-- Margin 1–2: The target is caught in a minor orbit. If the target willingly moves closer to or further away from the tethered ally, the spatial shearing instantly inflicts 1 Impact on the target. They must maintain the exact distance to stay safe. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 1–2: The target is caught in a minor orbit. If the target willingly moves closer to or further away from the tethered ally, the spatial shearing instantly inflicts 1 Dissonant Stress on the target. They must maintain the exact distance to stay safe. The caster also takes 1 Dissonant Stress from the strain.
     
 - Margin 3+ (Clean): The target is perfectly locked. If the tethered ally moves on their turn, the enemy is violently dragged across the battlefield with them, maintaining the exact geometric distance, completely ignoring the enemy's weight or Construct tags.
     
@@ -1326,7 +1326,7 @@ The caster wraps their weapon — or their own knuckles — in a controlled, cli
 - The Margin Scaler:
   - Margin 0–2 (Messy): The weapon ignites and deals +1 Impact as fire for the scene, but the heat licks back — the wielder takes 1 Dissonant Stress.
   - Margin 3–4 (Clean): As above, no cost.
-  - Margin 5+ (Massive): The flame burns hot enough to catch — the first enemy struck each round must also resist being set Ablaze (per Furnace Lance's condition) or suffer 1 Impact at the start of their next turn.
+  - Margin 5+ (Massive): The flame burns hot enough to catch — the first enemy struck each round must also resist being set **Ablaze** (Iron Core) — the condition carries its own per-turn cost and its own clearance.
 
 ### Adept
 
@@ -1341,7 +1341,7 @@ The caster hurls a fistful of white-hot embers that aggressively seek out oxygen
 - **Spell Power: 2**
 - The Effect: Creates a 10x10 foot zone of raging fire. The casting Margin is fixed at the moment of casting. Any creature (friend or foe) starting their turn in the fire or moving through it automatically suffers Impact equal to that fixed Margin + Spell Power, for as long as the zone persists. The zone destroys any wooden cover or mundane foliage.
 - The Margin Scaler:
-  - Margin 0–2 (Messy): The fire is dangerously hungry. The zone forms, but the backdraft instantly singes the caster, dealing 1 Impact to them and destroying one mundane, non-magical item in their inventory (like a rope or torch).
+  - Margin 0–2 (Messy): The fire is dangerously hungry. The zone forms, but the backdraft instantly singes the caster, dealing 1 Dissonant Stress to them and destroying one mundane, non-magical item in their inventory (like a rope or torch).
   - Margin 3–4 (Clean): The fire zone is perfectly contained to the 10x10 area.
   - Margin 5+ (Massive): At the start of the next combat round, the GM must expand the fire zone by 5 feet in every direction.
     
@@ -1381,7 +1381,7 @@ The caster exhales a concentrated, blinding beam of white-hot plasma that superh
 - The Effect: You cannot cross blades with a blowtorch. The target completely loses the ability to use the Parry action against this Strike. They must rely on a thick shield (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 5 (Spell Power). The raw heat causes the target to panic, forcing them to drop any wooden weapon or shield they are holding. The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): As above, and the target is Ablaze — until they waste a full Aggressor action to put themselves out (the Regroup action), they suffer 1 Impact at the start of every turn.
+  - Margin 3+ (Clean): As above, and the target is **Ablaze** (Iron Core) — the condition carries its own per-turn cost, and the Regroup action is what puts them out.
     
 
 # The Word on Domains;

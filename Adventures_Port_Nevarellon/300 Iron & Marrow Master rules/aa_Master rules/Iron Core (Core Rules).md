@@ -222,6 +222,27 @@ To take a Wound, an enemy's attack must overcome your physical durability, repre
 - **Overwhelming Trauma (Instant Incapacitation):** If the Impact equals or exceeds _three times_ your Threshold, the attack bypasses your Wound Slots entirely — it does not fill one, no matter how many you have available (including bonus slots from spells, feats, or magic items; nothing makes a character immune to a single catastrophic blow). Instead, you immediately gain the **Incapacitated** condition exactly as if you'd taken a Wound with no slot to fill it: fall Prone, drop what you're holding, and begin Bleed-Out checks per *At Death's Door*. Also inflicts 2 Dissonant Stress.
     
 
+### Incidental Damage — choosing the right currency
+
+Not every effect that hurts someone is a Strike. A zone's thorns, an item's spikes, a spell's backlash and a Boss's signature blow all need a way to say *this hurts*, and they must not all reach for the same one. **Impact is only the right answer when a number is going to be compared against a Wound Threshold.** Below that comparison it does nothing at all: **the lowest Wound Threshold in the game is 3**, so an effect dealing a flat 1 or 2 Impact can never fill a Wound Slot on anything, and resolves as 1 Dissonant Stress every single time it fires. Writing *"1 Impact"* is a long way of writing *"1 Dissonant Stress"* — and *"ignoring Armour"* attached to such a value is decorative, because Armour is not what stops it. The base 4 is.
+
+**Four rungs. Pick one; do not invent a fifth.**
+
+| Rung | Use it for | Write |
+|---|---|---|
+| **1. Incidental** | always-on gear, zone ticks, backlash the caster pays, the price a target pays to escape | **1 Dissonant Stress** |
+| **2. Condition** | anything that sets an existing condition | **the condition's name and nothing else** — *"the target is Ablaze"* |
+| **3. Gated payload** | a once-per-Scene item, or a Margin 5+ rider that has bought the right to matter | **a real Impact value — 4** |
+| **4. Signature** | named Boss abilities, Master-tier magic, Snake Eyes tolls, Relic-tier items, environmental extremes | **1 Direct Wound** (GM Tools, *The Lethal Bypass*) |
+
+**Rung 2 never restates the number.** A condition carries its own cost in its own entry — *Ablaze* is 2 Dissonant Stress a turn, see *The Conditions System* below — and an effect that names a number alongside the condition is a contradiction waiting to happen.
+
+**Rung 3 is 4 because 4 is the base Wound Threshold**, so the rule states itself: **a flat Impact 4 Wounds anything with no Brawn and no armour, and Stresses everything else.** Across the Bestiary that is 8 creatures in 29 — the Fodder tier and the unarmoured Elite specialists, the shamans and assassins and marksmen — while everything carrying muscle or metal takes 1 Stress and walks on. It also gives *"ignoring Armour"* a real job at last: measured against `4 + Brawn`, a flat 4 that ignores Armour Wounds any Brawn 0 creature however heavily plated it is.
+
+**Rung 4 is expensive and must stay that way.** *The Decisive Blow* (see *Spending Momentum*, above) prices a threshold bypass at **3 Momentum**. Nothing purchasable below Legendary should hand one out for free.
+
+**`+N Impact` as a rider on a real attack is not on this ladder, and is always fine** — it modifies an Impact that is already being calculated, and it works.
+
 ### The Death Spiral (Stress Conversion)
 
 Weapons are not the only things that cause Wounds. Wounds are inextricably linked to a character's mental state.

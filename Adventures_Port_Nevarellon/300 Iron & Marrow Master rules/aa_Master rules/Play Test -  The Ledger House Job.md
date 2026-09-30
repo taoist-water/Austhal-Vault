@@ -50,7 +50,7 @@ In the back office or under a false floor, the party finds the real prize: a sea
 
 ### What to watch for here
 
-**1. The Faith Impact-math test.** If any PC runs a Faith build with Wrathful Light or Rime-Fang's Bite, this is the ideal target — WT 4 is the absolute floor of the system. A flat 2 Impact (even ignoring Armor) can never cross it, on any roll, at any tier. Let it happen naturally; don't steer the player toward or away from casting it. Just note the outcome.
+**1. ~~The Faith Impact-math test.~~ ✅ RESOLVED 30 Sep — no longer runnable as written.** This planned a table test of flat-Impact math on Wrathful Light or Rime-Fang's Bite against WT 4, the floor of the system. **Both Prayers have since been rebuilt:** each now inflicts **2 Dissonant Stress behind a Resolve or Athletics check (TN 8)**, not a flat Impact value, so there is no longer a threshold for them to fail to cross. The defect this test was written to observe was closed corpus-wide by Iron Core's *Incidental Damage* ladder. **If a Faith build does turn up, note this instead:** whether 2 Dissonant Stress behind a save reads as worth its 2 Locked Stress at the table.
 
 **2. The Fear clearance gap.** If the Grave-Warden's Fear Inducing trait lands, the table will hit the fact that Fear (unlike Terrified) has no written way to shake it off. Don't quietly rule one in ahead of time — let the table hit the wall and see what a GM improvises under pressure. Write down whatever ruling you make on the spot; that's useful data for the eventual fix.
 
