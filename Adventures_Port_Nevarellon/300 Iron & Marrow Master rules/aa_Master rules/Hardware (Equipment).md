@@ -108,7 +108,7 @@ __________________________________________________________________
 
 **DAMAGED AND RUINED (THE CONDITION TRACK)**
 
-Quality (above) describes how good a piece of gear was *when new*. Condition describes what's happened to it since. Every weapon, armor piece, shield, or tool — regardless of its Quality tier — can degrade along the same two-step track: **Damaged**, then **Ruined**.
+Quality (above) describes how good a piece of gear was *when new*. Condition describes what's happened to it since — a Shoddy roll, ordinary wear, or **being attacked directly** (see Structural Damage and Destruction, Iron Core, which uses this same two-step track as an object's Wound Slots). Every weapon, armor piece, shield, or tool — regardless of its Quality tier — can degrade along the same two-step track: **Damaged**, then **Ruined**.
 
 *Damaged (Tag)*
 
@@ -500,7 +500,7 @@ _______________________________________________________________________
 - **Scatter:** Strikes every creature in the weapon's area — a 15 ft cone from the wielder unless the item says otherwise — ally or enemy alike. Make one attack roll; each creature in the area makes its own Reactor roll against it, and Impact is resolved per creature. No Disadvantage at Point-Blank, and the Firing Into Combat rule (Iron World) doesn't apply — allies in the area are simply targets. Counts as an area attack for Swarm and Amorphous. Inertia never applies to a Scatter attack.
 - **Sidearm:** A weapon short and light enough to be brought to bear in a heartbeat, or in a doorway. One property with three consequences: **(1)** it can be **drawn as a Free Action** without penalty; **(2)** it ignores the Disadvantage the **Point-Blank** band imposes (Metal meet Flesh — Ranges); **(3)** it is the qualifying off-hand weapon for the **Twin-Blade Stance**, granting Clash Advantage and Off-Hand Parry (Metal meet Flesh). An **Arcane Focus** carrying this tag gains (1) and (2) — a caster can channel through it nose-to-nose — but never (3): a Focus has no Power to lend an Off-Hand Parry.
 - **Siege:** Emplaced, crew-served, or vehicle-mounted armament — a ballista, wall gun, cannon, or siege engine — rather than a personal weapon; it isn't carried in Inventory Slots. Like Devastating, it enables inflicting Wounds directly on Scale +3 (Gargantuan) creatures and ignores that creature's Scale-based Wound Threshold bonus when calculating whether a Strike inflicts a Wound; unlike Devastating, it can also damage fortifications and structures. Reducing the Wounds Threshold of fortifications by half when comparing Impact.
-- **Sunder:** If you inflict a Minor or Major Wound with this weapon, permanently reduce the target's Armor value by 1.
+- **Sunder:** If you inflict a Minor or Major Wound with this weapon, permanently reduce the target's Armor value by 1. Against an object, Sunder **ignores Structural Damage Reduction entirely** (see Structural Damage and Destruction, Iron Core) — it is the anti-material tag, and shredding worn armour is the same property pointed at something being worn.
 - **Thrown:** Can be hurled using the short range attack band. If used in melee, it retains its 5 ft Threat.
 - **Versatile:** can be wielded 1H or 2H. If wielded 2H add 1 to the weapon power.
 - **Volley:** Requires two hands and prevents the user from holding a Shield or Grimoire.

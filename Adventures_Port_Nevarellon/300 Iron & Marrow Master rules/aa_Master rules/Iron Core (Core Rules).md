@@ -228,6 +228,48 @@ Weapons are not the only things that cause Wounds. Wounds are inextricably linke
 
 - If a character's Stress Limit is maxed out, any further Stress they take instantly converts into physical Wounds. This means a character can suffer lethal trauma simply from the systemic shock of freezing temperatures, absolute exhaustion, or the mystical blowback of channelling too much raw Arcane energy.
 - **The one exception — `non-Lethal` sources.** Stress from a **`non-Lethal`** weapon or effect never converts. Against a full Stress track it is not applied at all: no Wound, no further Stress. The target gains the **Unconscious** condition instead. This is the whole point of a sap, a cudgel-butt or a chokehold — it is how you take someone alive, and it is the only way a full Stress track resolves without blood.
+
+### Structural Damage and Destruction
+
+Doors, walls, ropes, ships and the sword in an enemy's hand all break under the same maths as a body. **An object has a Wound Threshold and Wound Slots, and Impact is compared to them exactly as it is for a creature.** There is no separate subsystem to learn.
+
+**Objects are Wounds only.** They have no Stress track, no Momentum Bank, and no Activation. Nothing about panic applies to a crate.
+
+**Resolving the attack.**
+
+- **An unattended object does not defend.** Roll the relevant Skill — Melee for a swing, Ranged for a shot, Athletics for a shoulder against a door — as an **unopposed check vs TN 8**, and read Impact off the standard unopposed formula: **Margin over the TN, plus Weapon Power**.
+- **A held or worn object defends with its owner.** Striking the blade out of someone's hand, or splitting the shield they are hiding behind, is an **opposed Clash against the wielder**, resolved normally. You are fighting the person, not the object.
+
+**Structural Damage Reduction (SDR).** Fortification-grade material — worked stone, iron plate, packed earthwork — carries a flat **SDR**, subtracted from incoming Impact before it is compared to the Wound Threshold. This is the *structural damage reduction* the **Estoc** already names, and it is the object equivalent of the **Plated** trait's flat reduction. Ordinary objects have none.
+
+**Reading the result.** The Wound bands work exactly as they do on a creature, and an object's “Wound Slots” are the **Damaged → Ruined** condition track Hardware already defines:
+
+- **Impact ≥ Threshold:** mark 1 slot.
+- **Impact ≥ 2× Threshold:** mark 2 slots — the same massive-trauma doubling a body takes.
+- **Impact ≥ 3× Threshold:** the object is **Ruined outright**, regardless of how many slots it had left. This is Overwhelming Trauma's counterpart: a cannonball through a door does not *damage* the door.
+- **First slot filled: Damaged.** *(Hardware — a flat −1 to whatever value the item contributes.)* **Last slot filled: Ruined.**
+
+**Wound Threshold and Slots by material.**
+
+| Object | WT | Slots | SDR |
+|---|---|---|---|
+| Rope, cloth, parchment, glass | 2 | 1 | — |
+| Crate, chair, shutter, ladder | 4 | 1 | — |
+| Plank door, cart, small boat | 6 | 2 | — |
+| Ironbound door, portcullis, wagon | 8 | 2 | 1 |
+| Stone wall, pillar, statue | 10 | 3 | 2 |
+| **Fortification** — curtain wall, gate, ship's hull | 14 | 4 | 3 |
+
+**Fortifications need `Siege`, or something built to breach.** Per the tag itself (Hardware), a **Siege** weapon can damage a fortification or structure and **halves that Wound Threshold** when comparing Impact. **Devastating does not** — its own text says so. The other route is an effect that explicitly states it damages structures: the **Petard** (Hardware) is the worked example, and it already halves a structure's Wound Threshold *“as Siege does”* despite carrying no Siege tag. A determined party with hand weapons does not breach a curtain wall; they find a gate, a sewer, a cannon, or a charge.
+
+**Tag interactions.**
+
+- **`Siege`:** the gate on fortifications, and halves their Wound Threshold.
+- **`Sunder`:** **ignores SDR entirely.** It is the anti-material tag, and this is the same idea as its existing armour-shredding rider applied to an object directly.
+- **The Estoc:** on a natural 3 and 4 it ignores Armour *and* SDR, per its own entry.
+- **`Devastating`:** works on creatures of any Scale but **grants no benefit against fortifications.**
+
+**What this should feel like at the table.** A Green fighter with Melee 3 and a Power 2 axe breaks glass or rope on most swings (83%), works through a crate in a round or two (58% a swing), **has to really want it to chop a plank door down (28% a swing)**, and cannot scratch worked stone at all. **Breaking in is loud, slow and often impossible — picking the lock remains the faster and quieter route**, and Thievery keeps its job. A Ship's Gun, by contrast, breaches a curtain wall on well over half its shots, which is what a siege is supposed to look like.
 ________________________________________________________________________
 # At Deaths Door
 

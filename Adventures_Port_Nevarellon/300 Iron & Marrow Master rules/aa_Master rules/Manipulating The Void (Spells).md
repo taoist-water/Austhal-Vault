@@ -166,7 +166,8 @@ A telepathic bridge forms — offered, or forced.
 **Communion — willing minds.**
 - **Resolution:** Unopposed Arcana vs. TN 8
 - **Target/Range:** Self and up to [Wits] **willing** allies, each within **Short Range** at the moment of casting. **Once established the link persists at any distance** for as long as it is Sustained — the strain of holding it is the limit, not the geometry.
-- Margin 0–4: The linked characters communicate telepathically, silently and without line of sight, for as long as the spell is Sustained. The caster takes 1 Dissonant Stress from the strain.
+- Margin 0–2 (Messy): The linked characters communicate telepathically, silently and without line of sight, for as long as the spell is Sustained. The caster takes 1 Dissonant Stress from the strain.
+- Margin 3-4 (Clean): As above, no cost. 
 - Margin 5+ (Exceptional): As above, and linked allies may share their Momentum banks with one another while the link holds. No Stress cost.
 
 **Intrusion — an unwilling mind.**
