@@ -58,7 +58,7 @@ _Hardware_ abstracts the party's shared consumables into the Community Supply Di
 
 Instead of tracking every torch, bandage, and arrow, the entire party relies on a single shared abstraction of their collective resources.
 
-- The Die Track: A fully stocked party enters the dungeon with a d10 Supply Die. The degradation track is: d10 $\rightarrow$ d8 $\rightarrow$ d6 $\rightarrow$ d4 $\rightarrow$ Depleted.
+- The Die Track: A party begins play with a **d8** Supply Die (see *The Marrow*). A **d10** is the fully stocked ceiling — reached by restocking in Downtime (20 sp, see *Soothing the Soul*) or mid-dungeon via *Scavenge and Cannibalize* or *Preserve*, never the default. The degradation track is: d10 $\rightarrow$ d8 $\rightarrow$ d6 $\rightarrow$ d4 $\rightarrow$ Depleted.
     
 - The Roll: When required, any player rolls the current Supply Die. On a result of 1 or 2, the supplies dwindle, and the die steps down to the next lowest tier.
     
@@ -144,7 +144,7 @@ Quality (above) describes how good an item was when it was forged. Condition des
 Wearing or carrying an Enchanted or Relic item permanently isn't free — a sliver of the magic occupies a corner of the wielder's mind.
 
 - **Trinkets and Charmed items never require Attunement.** Wear or carry as many as you like.
-- **Enchanted and Relic items cost 1 Locked Stress each to Attune.** This Stress is locked for as long as the item is bonded to its wielder and **cannot be cleared, unlocked, converted or removed by any means while it remains attuned** — no Reprieve, Long Rest, Breather, Downtime Pursuit or number of nights, no alchemical preparation, no Feat, spell or Miracle reaches it, and Breaking passes it over rather than converting it. The only release is deliberately unattuning (see Iron Core's Golden Rules). Note this is **stricter** than a Flowing Miracle's Locked Stress, which alchemy can force open at a price.
+- **Enchanted and Relic items cost 1 Locked Stress each to Attune.** This Stress is locked for as long as the item is bonded to its wielder and **cannot be cleared, unlocked, converted or removed by any means while it remains attuned** — no Reprieve, Long Rest, Breather, Downtime Pursuit or number of nights, no alchemical preparation, no Feat, spell or Prayer reaches it, and Breaking passes it over rather than converting it. The only release is deliberately unattuning (see Iron Core's Golden Rules). Note this is **stricter** than a Flowing Prayer's Locked Stress, which alchemy can force open at a price.
 - **Unattuning takes 10 minutes of uninterrupted handling** — safe to do during a Breather or downtime, impossible mid-combat.
 - **Attunement Slots = Will score (minimum 1).** A character cannot be Attuned to more Enchanted/Relic items at once than this.
 - Losing an Attuned item mid-combat (disarmed, stolen, Sundered) does not instantly refund the Stress — it releases at the start of the wielder's next Activation, the same beat as any other Sustain dropping.
@@ -156,7 +156,7 @@ Wearing or carrying an Enchanted or Relic item permanently isn't free — a sliv
 | **Trinket**   | Common/Scarce                  | None                                          | Flavor only, or a single trivial non-combat nudge — the "Cantrip" of magic items.                    |
 | **Charmed**   | Scarce/Rare                    | None                                          | One tag grant, or a narrow situational bonus — roughly Novice-spell strength.                        |
 | **Enchanted** | Rare/Legendary                 | 1 Locked Stress                               | A real ability, or a Momentum-gated active — Adept-spell strength.                                   |
-| **Relic**     | Legendary, unique, GM-authored | 1 Locked Stress + a bespoke built-in drawback | Master Miracle/Tier 3 Feat strength. Not purchasable — a campaign fixture with a name and a history. |
+| **Relic**     | Legendary, unique, GM-authored | 1 Locked Stress + a bespoke built-in drawback | Master Prayer/Tier 3 Feat strength. Not purchasable — a campaign fixture with a name and a history. |
 
 **On Relics specifically:** the Locked Stress cost alone isn't enough of a toll for Master-tier power. Per the same logic already used for Resurrection's Soul Scar and Half-Elf's inherited drawbacks, a Relic's cost should be written into the item itself, not just paid for in Stress. Don't hand out a Relic without also handing out its hook.
 ___________________________________________________________________
@@ -492,7 +492,7 @@ _______________________________________________________________________
 - **Grounding Rod:** grants Advantage on Arcane **Sustain** checks. The staff carries the working's excess charge so the caster's mind doesn't have to.
 - **Heavy Hitter:** When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7.
 - **Heavy Reload:** After firing, reloading consumes the wielder's entire Activation — no movement, no Action, no Free Action. (The Heavy Arbalest's windlass; a muzzle-loader's ramrod.)
-- **Inertia:** If you win the Clash roll by a High Margin (5+), add +2 Power to the Final Impact.
+- **Inertia:** If you win the Clash roll by a Margin of 5+, add +2 Power to the Final Impact.
 - **non-Lethal:** strikes with this weapon can only cause Stress regardless of the Impact result, and will never spill over into Wounds. Against a target whose Stress Limit is already full, the blow inflicts no Stress either — it renders them **Unconscious** instead (Iron Core). A `non-Lethal` weapon cannot inflict a Wound, land a Coup de Grâce, or kill, at any Impact.
 - **Precise:** Ignores 1 Point of armour
 - **Reach:** Threatens a 10-foot radius (2 grid squares). Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
@@ -707,7 +707,7 @@ _Hooded Bullseye Lantern_
 _Holy Symbol_
 
 - **Cost:** 5 sp | **Availability:** Common
-- **Rules:** Required to manifest Miracles — per _The Marrow_'s Divine Conduit feat, a Priest must "speak the litany and bear your symbol" to cast. A Symbol bound to a Domain via the Covenant path can never hold a different entity's Miracles (no later switching, per Divine Conduit). 0 Slots — worn/carried, per the Inventory micro-item exemption.
+- **Rules:** Required to manifest Prayers — per _The Marrow_'s Divine Conduit feat, a Priest must "speak the litany and bear your symbol" to cast. A Symbol bound to a Domain via the Covenant path can never hold a different entity's Prayers (no later switching, per Divine Conduit). 0 Slots — worn/carried, per the Inventory micro-item exemption.
 
 _Holy Symbol, Silver_
 
@@ -849,7 +849,7 @@ Campaign-scale assets, not inventory items — no Slots apply. Anything ship-siz
 | Sailing Ship     | 2,000 sp (100 gs)           | Legendary, Commission-gated |
 | Galley / Warship | 5,000–6,000 sp (250–300 gs) | Legendary, Commission-gated |
 
-## Spellcasting, Miracles & Hired Services
+## Spellcasting, Prayers & Hired Services
 
 | Service             | Cost      | Notes |
 | ------------------- | --------- | ----- |
@@ -860,10 +860,10 @@ Campaign-scale assets, not inventory items — no Slots apply. Anything ship-siz
 | Hireling, untrained | 5 cp/day  | —     |
 | Hireling, trained   | 3 sp/day  | —     |
 
-| Spell/Miracle Level | Price      |
+| Spell/Prayer Level | Price      |
 | ------------------- | ---------- |
 | Cantrip             | 15 sp      |
 | Novice              | 30 sp      |
 | Adept               | 60 sp      |
 | Master              | 120–150 sp |
-_Resurrection is explicitly excluded from this table — at 8 Locked Stress cost to the caster and a Master Miracle to begin with, it should never be a walk-up shop purchase. Treat it as Commission-gated, if available at all._
+_Resurrection is explicitly excluded from this table — at 8 Locked Stress cost to the caster and a Master Prayer to begin with, it should never be a walk-up shop purchase. Treat it as Commission-gated, if available at all._

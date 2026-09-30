@@ -474,7 +474,7 @@ Invisible currents of air or shifting shadows cause incoming attacks to veer off
 - Margin 3–4 (Clean): As above, no cost.
 - Margin 5+ (Massive): Penalty becomes Disadvantage instead of -2.
 
-**Special Interactions:** While this ward is actively sustained, the protected character may, as a Reactor action against an incoming Strike, substitute a `2d6 + Arcana` roll for their normal Reactor roll (win: no Impact; lose: full Impact, no mitigation) — in addition to the passive Clash penalty above, which still applies to the attacker's roll. This substitution requires the ward to already be sustained; it cannot be cast fresh as a reaction to an unforeseen Strike. The Reactor-substitution option is only available if the ward was raised at Clean or Exceptional quality — a Messy-tier ward grants the passive penalty only.
+**Special Interactions:** While this ward is actively sustained, the protected character may, as a Reactor action against an incoming Strike, substitute a `2d6 + Arcana` roll for their normal Reactor roll (win: no Impact; lose: full Impact, no mitigation) — in addition to the passive Clash penalty above, which still applies to the attacker's roll. This substitution requires the ward to already be sustained; it cannot be cast fresh as a reaction to an unforeseen Strike. The Reactor-substitution option is only available if the ward was raised at Clean or Massive quality — a Messy-tier ward grants the passive penalty only.
 
 **Stitch the Silhouette** (Targeted Control)
 The sorcerer drives an iron nail or a blade into the target’s cast shadow on the floor, magically pinning their physical body in place.
@@ -739,7 +739,7 @@ The caster reaches into a body's fundamental rhythm, quickening it or grinding i
 **The Margin Scaler:**
 - Margin 1–2 / 0–2 (Messy): Target gains a +1 (Boost) or -1 (Lower) modifier to one chosen Skill. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ / 3–4 (Clean): As above, with no complication.
-- Margin 5+ (Exceptional, unopposed only): Magnitude increases to +/-2.
+- Margin 5+ (Massive, unopposed only): Magnitude increases to +/-2.
 
 **Special Interactions:** A character can only have one Boost or Lower effect active at a time; a second casting replaces the first.
 
@@ -784,7 +784,7 @@ The target's physical dimensions warp, swelling to monstrous proportions or coll
 **The Margin Scaler:**
 - Margin 1–2 / 0–2 (Messy): Target's Scale shifts by 1 step (per the existing Scale rules — Growth: +2 WT, Advantage on Prowess shoving/grappling, Disadvantage on Stealth; Shrink: -1 WT, Advantage on Stealth, Disadvantage on Prowess). The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ / 3–4 (Clean): As above, no complication.
-- Margin 5+ (Exceptional, unopposed only): The shift is extreme — Scale +/-2 instead of 1.
+- Margin 5+ (Massive, unopposed only): The shift is extreme — Scale +/-2 instead of 1.
 
 **Caustic Deluge** (Combat / Gear Degradation)
 The caster’s hands violently sweat a highly reactive, boiling solvent, which they hurl in a concentrated arc that eagerly eats through manufactured materials.
@@ -1389,9 +1389,9 @@ Faith domains represent direct divine intervention powered by rigid devotion. Th
 
 # Faith Spells
 
-## Common Miracles
+## Common Prayers
 
-**Healing / Stabilize** (Common Miracle)
+**Healing / Stabilize** (Common Prayer)
 A litany murmured over torn flesh, asking permission to undo what was done. Available to every Priest regardless of Domain — this is the spell several Domain Tags already assumed existed.
 
 - **Level:** Novice
@@ -1402,10 +1402,10 @@ A litany murmured over torn flesh, asking permission to undo what was done. Avai
 
 **The Tithe Ladder:**
 - Pass: Clears 1 Wound Slot. If the target is Incapacitated, also Stabilizes them and prevents further death checks.
-- Fail: As Pass — the Miracle still occurs — and the Priest gains 1 Encroachment.
-- Snake Eyes: The Wound clears, but convert this Miracle's Locked Stress cost into an equal number of direct Wounds on the Priest, per the Toll in Flesh rule, and reset the Priest's Encroachment to 0.
+- Fail: As Pass — the Prayer still occurs — and the Priest gains 1 Encroachment.
+- Snake Eyes: The Wound clears, but convert this Prayer's Locked Stress cost into an equal number of direct Wounds on the Priest, per the Toll in Flesh rule, and reset the Priest's Encroachment to 0.
 
-**Special Interactions:** A character cannot benefit from a second Healing-type Miracle in the same Scene. (This should be added to Iron Core's Golden Rules directly, rather than re-stated on every healing effect that comes along later.)
+**Special Interactions:** A character cannot benefit from a second Healing-type Prayer in the same Scene. (This should be added to Iron Core's Golden Rules directly, rather than re-stated on every healing effect that comes along later.)
 
 **Bless**
 A short, pragmatic prayer settles over an ally, steadying their hand.
@@ -1543,7 +1543,7 @@ Every god's devotee has one moment like this in them — the prayer that isn't f
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The shield still forms for everyone, but convert the Locked Stress cost into direct Wounds, capped at 3 per Toll in Flesh, and reset the Priest's Encroachment to 0.
 
-**Special Interactions:** Shaped as a one-shot burst specifically so it doesn't compete with Sanctuary (single-target, sustained, Flowing) or the three Domain zone-Miracles (sustained AoE conditions) — this is the only Master Miracle in the corpus that's party-wide and single-use rather than either single-target or ongoing.
+**Special Interactions:** Shaped as a one-shot burst specifically so it doesn't compete with Sanctuary (single-target, sustained, Flowing) or the three Domain zone-Prayers (sustained AoE conditions) — this is the only Master Prayer in the corpus that's party-wide and single-use rather than either single-target or ongoing.
 
 **The First Ward**
 Before Sanctuary, there is this: the first prayer any acolyte learns to keep a blade from landing clean.
@@ -1584,7 +1584,7 @@ Purify answers the rot after it takes hold. This is the older, quieter prayer �
 - **The Lore:** Senecus was an ancient military philosopher who held a doomed mountain pass against a horde of aberrant monstrous races. He taught that true victory isn't survival, but the stoic adherence to tactical duty regardless of the odds. 
 - **Flavor:** Polished iron shields, clean-cut discipline. Prayers are recited as short, pragmatic tactical maxims.
 - **Domain Tag (Tactical Horizon):** Pass Faith check vs. TN 8 -> Grant 1 point of Momentum instead of personal benefit.
-### Novice Miracles
+### Novice Prayers
 
 **Senecus's Stand**
 A maxim recited under pressure — the line holds because the line was told to hold.
@@ -1661,7 +1661,7 @@ Senecus won more battles around the map table than he ever did in the field.
 
 **Special Interactions:** Rewards the table for actually planning out loud rather than winging it — the Advantage is locked to whatever plan gets stated, so it can't be claimed retroactively.
 
-### Adept Miracles
+### Adept Prayers
 
 **Tactical Reading**
 The Priest reads the battlefield the way Senecus read the pass — not what the enemy is doing, but what they intend to.
@@ -1702,7 +1702,7 @@ Senecus never slept on watch. He didn't trust the enemy to be honest about when 
 - **Cost:** 2 Locked Stress, paid once at cast — keeping it Flowing costs no additional Locked Stress
 - **Target/Range:** Self and the camp, Short Range
 - **Action Type:** Activation
-- **Duration:** Flowing — no additional Locked Stress cost; outside combat, the Priest rolls Tithe of Will vs. TN 10 once per hour of rest to maintain it, rather than per Activation (the Flowing rule as written assumes a combat cadence — see Embracing the Abyss; every non-combat Flowing Miracle below uses this same hourly/per-scene-beat substitution). The ward instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
+- **Duration:** Flowing — no additional Locked Stress cost; outside combat, the Priest rolls Tithe of Will vs. TN 10 once per hour of rest to maintain it, rather than per Activation (the Flowing rule as written assumes a combat cadence — see Embracing the Abyss; every non-combat Flowing Prayer below uses this same hourly/per-scene-beat substitution). The ward instantly drops if the Priest takes a Wound or is knocked Prone (per the Physical Anchor rule).
 
 **The Tithe Ladder:**
 - Pass: The camp cannot be Surprised while the ward holds — anyone or anything approaching triggers a silent, instant alert to the Priest regardless of its Stealth.
@@ -1726,7 +1726,7 @@ Senecus read a battlefield the way other men read a room — before he ever set 
 
 **Special Interactions:** The exploration-and-dungeon-crawling counterpart to Tactical Reading's in-combat version — same eye, aimed at a room instead of a Boss.
 
-### Master Miracles
+### Master Prayers
 
 **The Unbreakable Line**
 The formation does not break. It was never going to break. Senecus is very clear on this point.
@@ -1757,13 +1757,13 @@ There was no clever maneuver. Senecus just told them to stand, and the wall of s
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, and reset the Priest's Encroachment to 0. The suppression still applies.
 
-**Designer Note:** Costed and scoped like Long Winter and Sovereign Tide — same "guaranteed AoE condition, no save" power level as the other Master zone Miracles. Worth a look in actual play against a room full of Fodder/Grunts specifically, but it's consistent with existing precedent rather than a new power ceiling.
+**Designer Note:** Costed and scoped like Long Winter and Sovereign Tide — same "guaranteed AoE condition, no save" power level as the other Master zone Prayers. Worth a look in actual play against a room full of Fodder/Grunts specifically, but it's consistent with existing precedent rather than a new power ceiling.
 ## 2. The Domain of Trickery (The Cult of the Crooked Coin)
 - **The Paragon:** *Corvo's Folly (The Grinning Prophet)*
 - **The Lore:** Corvo wasn't a holy man; he was a legendary cynic and smuggler who realized the ancient bureaucratic laws of the old empire were a joke, and successfully counterfeited the royal treasury into bankruptcy. The Syndicate reveres him as the patron of outsmarting rigged systems.
 - **Flavor:** Loaded dice amulets, mismatched clothes. Prayers are murmured riddles, jokes about authority, and localized distortions of luck.
 - **Domain Tag (Fickle Fate):** Ally rolls Fumble -> Spend 1 Stress as Reaction to turn it into a standard failure.
-### Novice Miracles
+### Novice Prayers
 
 **Beginner's Luck**
 The house always wins — except for the one hand Corvo decides it doesn't.
@@ -1819,7 +1819,7 @@ Corvo's oldest trick: never lie. Just let people finish the story themselves.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The impression still takes, but convert the Locked Stress cost into a direct Wound, and reset the Priest's Encroachment to 0.
 
-### Adept Miracles
+### Adept Prayers
 
 **The Long Con**
 A favor planted now, called in later, when it does the most damage.
@@ -1877,7 +1877,7 @@ The house always wins because the house never stops playing, even between hands.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The advantage still applies, but convert the Locked Stress cost into a direct Wound, and reset the Priest's Encroachment to 0.
 
-### Master Miracles
+### Master Prayers
 
 **The House Always Wins**
 
@@ -1913,7 +1913,7 @@ The house always wins. Sometimes it just likes to remind the table why.
 - **Flavor:** Heavy comet pendants, unyielding loud booming scripture. Prayers are backed by thunderclaps and searing white light.
 - **Domain Tag (Smite Corruption):** Targeting Undead, Daemons, or Mutants treats the target's Wound Threshold [T] as 1 point lower.
 
-### Novice Miracles
+### Novice Prayers
 
 **The Architect's Decree**
 
@@ -1960,7 +1960,7 @@ Aurelius wrote the law before the sword was drawn. The sword simply hasn't caugh
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, and reset the Priest's Encroachment to 0.
 
-**Designer Note:** Fills a gap Law otherwise leaves open — a single-target protection Miracle. Not making an ally harder to hit, but making them briefly illegal to target at all.
+**Designer Note:** Fills a gap Law otherwise leaves open — a single-target protection Prayer. Not making an ally harder to hit, but making them briefly illegal to target at all.
 
 **The Binding Oath**
 Aurelius wrote that a promise is a contract whether or not it's written down. He simply made sure the universe agreed with him.
@@ -1993,7 +1993,7 @@ Aurelius trusted ink over memory, and memory over any man's word — including h
 
 **Special Interactions:** Pure record-keeping, not lie-detection — pairs with Writ of Testimony (which tells you if a statement is true) rather than duplicating it; this just makes sure nobody can later dispute what was actually said.
 
-### Adept Miracles
+### Adept Prayers
 
 **Chains of Mandate**
 
@@ -2009,7 +2009,7 @@ Aurelius trusted ink over memory, and memory over any man's word — including h
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, reset the Priest's Encroachment to 0.
 
-**Designer Note:** This directly hooks into the Dynamic Trait Manifest — Bosses and Elites derive their threat from these Traits. Paying 2 Locked Stress to turn off "Resilient" right before the Fighter lands a Greatsword blow is a deeply satisfying tactical loop, and it's now backed by the same cost-not-outcome uncertainty every other Miracle carries.
+**Designer Note:** This directly hooks into the Dynamic Trait Manifest — Bosses and Elites derive their threat from these Traits. Paying 2 Locked Stress to turn off "Resilient" right before the Fighter lands a Greatsword blow is a deeply satisfying tactical loop, and it's now backed by the same cost-not-outcome uncertainty every other Prayer carries.
 
 **Aurelius's Judgment**
 The verdict is entered. The body may keep fighting; the law has already decided it will not be saved.
@@ -2062,14 +2062,14 @@ Aurelius never needed a sword drawn to win an argument. He simply made sure no o
 
 **Special Interactions:** A negotiation and sanctuary tool, not a combat-ender — a determined attacker can still push through the Resolve check, this just makes the first move cost something.
 
-### Master Miracles
+### Master Prayers
 
 **The Scales of Aurelius**
 
 - **Level:** Master
 - **Cost:** 4 Locked Stress
 - **Resolution:** Tithe of Will — Faith vs. TN 12
-- **Target/Range:** The triggering roll, Cannot target the Tithe of Will roll of the Miracle being cast to trigger it.
+- **Target/Range:** The triggering roll, Cannot target the Tithe of Will roll of the Prayer being cast to trigger it.
 - **Action Type:** Free Reaction (triggered immediately after ANY character or enemy rolls 2d6, but before the GM declares the Impact or outcome)
 
 **The Tithe Ladder:**
@@ -2081,7 +2081,7 @@ Aurelius never needed a sword drawn to win an argument. He simply made sure no o
 
 
 **Banish** (Domain of Law — exclusive)
-Unchanged — already conformant. Included here for completeness since it's Law's other Master Miracle:
+Unchanged — already conformant. Included here for completeness since it's Law's other Master Prayer:
 
 - **Level:** Master
 - **Cost:** 3 Locked Stress
@@ -2090,7 +2090,7 @@ Unchanged — already conformant. Included here for completeness since it's Law'
 - **Action Type:** Aggressor
 
 **The Tithe Ladder:**
-- Pass: If the Priest also wins the opposed roll, the target suffers 3 Stress and is banished if this exceeds their Stress Limit. If the Priest loses the opposed roll, the Miracle still occurs but produces no effect beyond a flash of light.
+- Pass: If the Priest also wins the opposed roll, the target suffers 3 Stress and is banished if this exceeds their Stress Limit. If the Priest loses the opposed roll, the Prayer still occurs but produces no effect beyond a flash of light.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the Locked Stress cost into direct Wounds, reset Encroachment to 0.
 
@@ -2101,7 +2101,7 @@ Unchanged — already conformant. Included here for completeness since it's Law'
 - **Flavor:** Black hooded raiment, stark quiet expressions. Prayers manifest as chilling quietude and falling feathers.
 - **Domain Tag (Rest in Peace):** Cast *Stabilize* -> Target becomes completely immune to further Stress gains from mental shock or supernatural dread for the scene.
 
-### Novice Miracles
+### Novice Prayers
 
 **Peaceful Repose**
 Vael doesn't guard you from dying. He guards you from being afraid of it.
@@ -2183,7 +2183,7 @@ Vael never taught his faithful to stop grieving. He taught them to finish it.
 
 **Special Interactions:** The only party-wide Stress relief anywhere in the corpus that isn't self-only or single-target — gated behind an actual funeral taking place, not castable on demand.
 
-### Adept Miracles
+### Adept Prayers
 
 **Last Rites**
 Vael's answer to a Necromancer isn't a duel. It's getting there first.
@@ -2216,7 +2216,7 @@ Vael doesn't fight death. He negotiates with it, on your behalf, before you can.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The target is still Stabilized.
 
-**Special Interactions:** Doesn't replace Triage or the Common Miracle Stabilize — differentiated by timing (Reactor, free of the action economy) rather than by being strictly stronger.
+**Special Interactions:** Doesn't replace Triage or the Common Prayer Stabilize — differentiated by timing (Reactor, free of the action economy) rather than by being strictly stronger.
 
 **The Patient Dead**
 Vael's whole philosophy in one ward: the dead have earned their rest, and the Priest intends to see they get it.
@@ -2249,7 +2249,7 @@ The dead don't always know they're finished. Vael's faithful are the ones who te
 
 **Special Interactions:** Vael's Confession's counterpart for spirits rather than corpses — this is about the incorporeal dead who never left, not the freshly fallen.
 
-### Master Miracles
+### Master Prayers
 
 **Vael's Mercy**
 There's no violence in it. A hand on the brow, a held breath, and it's over. Turned toward a target who still has the strength to resist, the same mercy becomes a verdict.
@@ -2288,7 +2288,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 - **The Lore:** A tribal matriarch from the deepest winters of the north who supposedly hunted a primordial winter-drake with nothing but an iron spear and her bare teeth. She embodies the raw, animalistic grit required to survive when civilization fails.
 - **Flavor:** Heavy white wolf pelts, frosted breath. Prayers manifest as freezing howling wind and ice.
 - **Domain Tag (Chilling Frost):** Cast offensive prayer -> Target is numbed. They cannot Move next turn unless they take 1 Dissonant Stress to snap their frozen muscles free.
-### Novice Miracles
+### Novice Prayers
 
 **Rime-Fang's Bite**
 
@@ -2372,7 +2372,7 @@ Kaelen never wasted a kill. The winter punished anyone who did.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The preservation still takes, but convert the Locked Stress cost into a direct Wound, reset Encroachment to 0.
 
-### Adept Miracles
+### Adept Prayers
 
 **Winter's Endurance**
 
@@ -2426,7 +2426,7 @@ Kaelen never got lost. She said the land only looks confusing to someone who has
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The trail still holds, but convert the Locked Stress cost into a direct Wound, reset Encroachment to 0.
 
-### Master Miracles
+### Master Prayers
 
 **The Hunter's Reckoning**
 
@@ -2461,7 +2461,7 @@ Kaelen never got lost. She said the land only looks confusing to someone who has
 - **The Lore:** During a massive plague in the early days of Port Nevarellon, Elara was a destitute woman who walked into the quarantine zones. It is said she systematically absorbed the rot from the dying into her own body, enduring unimaginable agony so others could live.
 - **Flavor:** Plain white habits, dove pendants. Prayers manifest as golden tears and warm glowing auras.
 - **Domain Tag (Pure Martyrdom):** Cast *Healing/Stabilize* -> Take 1 Locked Stress yourself to clear an additional Wound Slot on the target.
-### Novice Miracles
+### Novice Prayers
 
 **Bolster the Faithful**
 
@@ -2533,7 +2533,7 @@ Elara didn't heal one plague victim at a time. She didn't have that luxury, and 
 
 **Special Interactions:** The communal counterpart to Purify — Purify cures one afflicted individual outright, this holds a whole group's line against a spreading sickness without curing anyone completely.
 
-### Adept Miracles
+### Adept Prayers
 
 **Elara's Burden**
 Mother Elara didn't cure the plague. She simply asked it to move house.
@@ -2595,7 +2595,7 @@ A hand on the shoulder isn't always enough. Sometimes Elara just took the weight
 
 **Special Interactions:** Elara's Burden's mirror for Stress instead of Wounds — same self-sacrifice shape, aimed at trauma rather than injury.
 
-### Master Miracles
+### Master Prayers
 
 **Resurrection**
 
@@ -2606,7 +2606,7 @@ A hand on the shoulder isn't always enough. Sometimes Elara just took the weight
 - **Action Type:** Activation
 
 **The Tithe Ladder:**
-- Pass: The target returns to life with 3 Wounds and maximum Stress. The Priest pays the Locked Stress cost — this will almost certainly exceed their Stress Limit, converting the excess into Wounds per the Death Spiral rule. This Miracle is built to cost the caster something severe, not "likely" to — say so plainly to the table before they commit.
+- Pass: The target returns to life with 3 Wounds and maximum Stress. The Priest pays the Locked Stress cost — this will almost certainly exceed their Stress Limit, converting the excess into Wounds per the Death Spiral rule. This Prayer is built to cost the caster something severe, not "likely" to — say so plainly to the table before they commit.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the entire Locked Stress cost into direct Wounds, per the Toll in Flesh rule — at 8 points, this is unsurvivable for a Priest who isn't already braced for it — and reset the Priest's Encroachment to 0.
 
@@ -2633,7 +2633,7 @@ The gods reach down and aggressively deny reality. *(Converted from a Faith-3 fe
 - **Flavor:** Sea-shell tokens, salt-crusted oilskins. Prayers manifest as the crash of distant rogue waves and heavy brine smells.
 - **Domain Tag (Tidal Undertow):** Affect enemy with prayer -> Target is physically shoved 1 Zone in a direction of your choosing.
 
-### Novice Miracles
+### Novice Prayers
 
 **Riptide**
 The ground itself decides it would rather be underwater.
@@ -2704,9 +2704,9 @@ The sea doesn't lose things. It just decides, eventually, what to give back.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The location is still revealed, but convert the Locked Stress cost into a direct Wound, and reset the Priest's Encroachment to 0.
 
-**Special Interactions:** New ground — salvage and recovery, a niche no other Miracle currently touches.
+**Special Interactions:** New ground — salvage and recovery, a niche no other Prayer currently touches.
 
-### Adept Miracles
+### Adept Prayers
 
 **The Undertow's Grip**
 
@@ -2767,7 +2767,7 @@ The tide runs everywhere, eventually. Thalass just has to be asked nicely to car
 
 **Special Interactions:** The only long-distance communication tool anywhere in the corpus — deliberately one-way and delayed, not a substitute for Commune's direct divine Q&A.
 
-### Master Miracles
+### Master Prayers
 
 **The Drowning Depths**
 Thalass doesn't drown you all at once. She simply doesn't let you back up for air.

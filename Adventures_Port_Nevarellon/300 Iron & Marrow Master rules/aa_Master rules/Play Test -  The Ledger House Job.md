@@ -12,7 +12,7 @@
 
 | Scene                | Set-Piece                              | What It's Actually Testing                                                                                                       |
 | -------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Cold Open            | The Grave-Warden (strongroom guardian) | Broken flat-Impact math on Faith Miracles (Wrathful Light / Rime-Fang's Bite); the missing clearance rule for the Fear condition |
+| Cold Open            | The Grave-Warden (strongroom guardian) | Broken flat-Impact math on Faith Prayers (Wrathful Light / Rime-Fang's Bite); the missing clearance rule for the Fear condition |
 | Cross-scene          | The Watch (chase/pressure track)       | Passive Notice / Stealth escalation as a non-lethal pressure tool; Cunning Leader now banks Momentum to the creature itself — watch whether the Sergeant's Bank of 3 ever actually fills |
 | Minor Scene 2        | The Sluice Vault                       | The Drowned condition in live play; Hazard Roll interacting with ongoing combat                                                  |
 | Major Scene          | Smugglers' Cave (1 Elite, 2 Grunt, 6 Fodder) | outnumbered PCs, cover; first live test of the asymmetric NPC Momentum earning rule                                         |

@@ -12,7 +12,7 @@ Step 4: Select 2 Feats.
 	-  Tier 1 only.
 Step 5: Outfit the character.  
 	- **80 sp to spend.** See *The Starting Purse* below.
-    - The Party Community Supply Die starts at a D8.
+    - The Party Community Supply Die starts at a **d8** (a d10 is the restocked ceiling, not the starting state — see *Hardware*).
 
 ## The Starting Purse
 
@@ -269,7 +269,7 @@ ______________________________________________________________________
 
 >You have forced your mind to perceive the volatile geometries of the world.
 
-* Mechanic: **Choose one Paradigm.** You gain a Grimoire containing 4 Novice Arcana spells, drawn from the Common list, your chosen Paradigm's list, and/or any other Paradigm's Novice list. You may manifest these spells using the Arcane Margin mechanics whenever you meet The Casting Requirements — Grimoire wielded in one hand, other hand free (see Embracing the Abyss). Casting without them is Blind Casting. Spells from your chosen Paradigm benefit from **Paradigm Mastery**: a Messy Success (Margin 0–2) resolves as a Clean Success instead. Common spells and spells from other Paradigms never benefit from Mastery. Since every Paradigm's Novice tier holds exactly 3 spells, every Arcane Awakening character takes at least 1 spell from outside their chosen Paradigm — Common or another Paradigm's Novice list — among their starting 4, regardless of which Paradigm they picked. This loosening is Arcane-only: Faith casters remain locked to the Common Miracle list and their chosen Domain, unless they walk the Heretic's Path. _(Additional spells — in- or off-Paradigm — are learned later through Advancement; off-Paradigm spells cost a +1 DP surcharge and never gain Mastery, but they're never feat-gated or forbidden.)_
+* Mechanic: **Choose one Paradigm.** You gain a Grimoire containing 4 Novice Arcana spells, drawn from the Common list, your chosen Paradigm's list, and/or any other Paradigm's Novice list. You may manifest these spells using the Arcane Margin mechanics whenever you meet The Casting Requirements — Grimoire wielded in one hand, other hand free (see Embracing the Abyss). Casting without them is Blind Casting. Spells from your chosen Paradigm benefit from **Paradigm Mastery**: a Messy Success (Margin 0–2) resolves as a Clean Success instead. Common spells and spells from other Paradigms never benefit from Mastery. Since every Paradigm's Novice tier holds exactly 3 spells, every Arcane Awakening character takes at least 1 spell from outside their chosen Paradigm — Common or another Paradigm's Novice list — among their starting 4, regardless of which Paradigm they picked. This loosening is Arcane-only: Faith casters remain locked to the Common Prayer list and their chosen Domain, unless they walk the Heretic's Path. _(Additional spells — in- or off-Paradigm — are learned later through Advancement; off-Paradigm spells cost a +1 DP surcharge and never gain Mastery, but they're never feat-gated or forbidden.)_
 
 **Arcane Dabbler**
 
@@ -287,10 +287,10 @@ ______________________________________________________________________
 
 * Mechanic: Choose one path when you take this feat:
 
-    - **The Covenant:** Bind yourself to one Domain. You gain a Holy Symbol, that Domain's Domain Tag, and 4 Novice Miracles drawn from the Common Miracle list and/or your chosen Domain's list. This binding is permanent — your Holy Symbol can never hold Miracles blessed by a different entity. No exceptions; no later switching.
-    - **The Heretic's Path:** Bind yourself to no single power. You gain a Holy Symbol and 4 Novice Miracles drawn from the Common Miracle list and/or **any combination** of the seven Domains' lists. You never gain a Domain Tag — no entity has claimed you long enough to bless you — and you roll every Tithe of Will check with **Disadvantage** (3d6, keep the lowest two) for as long as you walk this path. Nothing you channel is trusting you by default; you're convincing it fresh, every time.
+    - **The Covenant:** Bind yourself to one Domain. You gain a Holy Symbol, that Domain's Domain Tag, and 4 Novice Prayers drawn from the Common Prayer list and/or your chosen Domain's list. This binding is permanent — your Holy Symbol can never hold Prayers blessed by a different entity. No exceptions; no later switching.
+    - **The Heretic's Path:** Bind yourself to no single power. You gain a Holy Symbol and 4 Novice Prayers drawn from the Common Prayer list and/or **any combination** of the seven Domains' lists. You never gain a Domain Tag — no entity has claimed you long enough to bless you — and you roll every Tithe of Will check with **Disadvantage** (3d6, keep the lowest two) for as long as you walk this path. Nothing you channel is trusting you by default; you're convincing it fresh, every time.
 
-As long as you speak the litany and bear your symbol, manifest these Miracles by rolling the Tithe of Will and paying their Locked Stress cost. _(Design note: any future feat or item that grants "additional Miracles from your Domain" should be read as "from any Domain's list" for a character on the Heretic's Path.)_
+As long as you speak the litany and bear your symbol, manifest these Prayers by rolling the Tithe of Will and paying their Locked Stress cost. _(Design note: any future feat or item that grants "additional Prayers from your Domain" should be read as "from any Domain's list" for a character on the Heretic's Path.)_
 
 **Ritualist**
 
@@ -298,7 +298,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 >You know the forms. You say the words correctly. Nothing has ever answered you by name.
 
-* Mechanic: You gain a Holy Symbol and a number of **Novice** Miracles equal to your Faith rank, drawn from the Common Miracle list and/or any Domain's Novice list. This total is recalculated whenever your Faith rank changes — raising the skill is your only route to new Miracles, since you have no Chosen Domain to learn from through Advancement. You manifest them by rolling the Tithe of Will and paying their Locked Stress cost, exactly as any Priest does. **You bind yourself to no Domain**: you gain no Domain Tag, and you can never learn an Adept or Master Miracle by any route. _(This is what separates a Ritualist from the Heretic's Path: the Heretic keeps full access to every tier and pays permanent Disadvantage on the Tithe for it. You pay no penalty, and the ceiling is the price.)_
+* Mechanic: You gain a Holy Symbol and a number of **Novice** Prayers equal to your Faith rank, drawn from the Common Prayer list and/or any Domain's Novice list. This total is recalculated whenever your Faith rank changes — raising the skill is your only route to new Prayers, since you have no Chosen Domain to learn from through Advancement. You manifest them by rolling the Tithe of Will and paying their Locked Stress cost, exactly as any Priest does. **You bind yourself to no Domain**: you gain no Domain Tag, and you can never learn an Adept or Master Prayer by any route. _(This is what separates a Ritualist from the Heretic's Path: the Heretic keeps full access to every tier and pays permanent Disadvantage on the Tithe for it. You pay no penalty, and the ceiling is the price.)_
 
 **Battlefield Orator**
 
@@ -672,7 +672,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 >The holy spirit renders your flesh numb.
 
-* Mechanic: When the holy spirit fills you, you feel no pain. While you are successfully keeping a Novice Miracle Flowing, you may spend 1 Momentum. For as long as that spell remains active, you completely ignore the negative dice penalties caused by your current Dissonant Stress when making Melee attacks.
+* Mechanic: When the holy spirit fills you, you feel no pain. While you are successfully keeping a Novice Prayer Flowing, you may spend 1 Momentum. For as long as that spell remains active, you completely ignore the negative dice penalties caused by your current Dissonant Stress when making Melee attacks.
 
 ## Tier 3 The Void
 
@@ -902,7 +902,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 >Their greatest strike is just an opening for your blade.
 
-* Mechanic: When you act as the Reactor and successfully Parry an attack by a High margin (5+). You may immediately spend 1 Momentum to inflict the Surprised condition on the Aggressor.
+* Mechanic: When you act as the Reactor and successfully Parry an attack by a Margin of 5+. You may immediately spend 1 Momentum to inflict the Surprised condition on the Aggressor.
 
 **Death of a Thousand Cuts (Tier 3)**
 
@@ -1035,7 +1035,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 >Your scripture is a weapon of blunt force.
 
-* Mechanic: When you keep a Miracle Flowing by passing your Tithe of Will (2d6 + Faith) at the start of your turn, you may instantly inflict 1 Dissonant Stress on any one engaged enemy who can hear you speak the profane words.
+* Mechanic: When you keep a Prayer Flowing by passing your Tithe of Will (2d6 + Faith) at the start of your turn, you may instantly inflict 1 Dissonant Stress on any one engaged enemy who can hear you speak the profane words.
 
 **Martyr’s Furnace (Tier 3)**
 
@@ -1130,8 +1130,8 @@ Every 2 to 3 sessions, the GM awards the party a Milestone Reward of 3 Developme
 	- *Two existing patterns already work this way and are unchanged: **Desperate Edge** is named directly by four higher-tier feats, and **The Scrounger's** three feats extend one shared list of Momentum spends, so each genuinely requires the one below it rather than merely suggesting it.*
 
 5. Learn New Faith Spells
-	- Cannot learn Prayers from outside your Chosen Cult/Domain. *(Deliberate: the ability to enact miracles comes from rigorous devotion to a single ideology. The Common Miracle list lets any Priest mix in some breadth without breaking that theme; a character who wants full cross-Domain access takes the Heretic's Path over the Covenant at Divine Conduit instead — every Domain's list, paid for with permanent Disadvantage on the Tithe of Will.)*
-	- Novice Miracle = 2 DP
+	- Cannot learn Prayers from outside your Chosen Cult/Domain. *(Deliberate: the ability to enact miracles comes from rigorous devotion to a single ideology. The Common Prayer list lets any Priest mix in some breadth without breaking that theme; a character who wants full cross-Domain access takes the Heretic's Path over the Covenant at Divine Conduit instead — every Domain's list, paid for with permanent Disadvantage on the Tithe of Will.)*
+	- Novice Prayer = 2 DP
 	- Adept = 3 DP (requires Faith 2+)
 	- Master = 4–5 DP (requires Faith 3+)
 	

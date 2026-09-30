@@ -2,7 +2,7 @@ To keep the two systems distinct, we should root them in entirely opposite philo
 
 # Casting Difficulty by Spell Level (Tiered TN)
 
-Unopposed casting checks — the Margin of Manifestation roll, a Sustain check, and a Priest's Tithe of Will — no longer target a flat TN 8. The Target Number is set by the spell or Miracle's own Level:
+Unopposed casting checks — the Margin of Manifestation roll, a Sustain check, and a Priest's Tithe of Will — no longer target a flat TN 8. The Target Number is set by the spell or Prayer's own Level:
 
 | Level | TN |
 |---|---|
@@ -13,7 +13,7 @@ Unopposed casting checks — the Margin of Manifestation roll, a Sustain check, 
 
 This does not apply to Arcane Clash spells or any other opposed roll — both sides already scale together, so there's no static-TN problem to fix. It also does not apply to general skill checks outside of spellcasting; those remain governed by the GM Tools Situational Modifier system. A Sustain check always targets the TN of the specific spell being sustained.
 
-*(Note: Faith's Miracle tiers are Novice / Adept / Master, matching Arcana's naming exactly — the tier previously labeled "Apprentice" is renamed to Adept throughout, so both systems read off the same table above.)*
+*(Note: Faith's Prayer tiers are Novice / Adept / Master, matching Arcana's naming exactly — the tier previously labeled "Apprentice" is renamed to Adept throughout, so both systems read off the same table above.)*
 
 # Arcana (The Volatile Margin)
 
@@ -77,7 +77,7 @@ When casting an unopposed spell (like Levitate or Shatter Lock), the Arcanist ro
     
 - Clean Success (Margin 3–4): The spell works exactly as intended.
     
-- Exceptional (Margin 5+): The spell overcharges, generating 1 Momentum.
+- Massive (Margin 5+): The spell overcharges, generating 1 Momentum.
     
 
 **The "Snake Eyes" Backfire (Natural 2)**
@@ -96,9 +96,9 @@ ________________________________________________________________________
 
 To make "Cast Spell" a valid Reactor Action, you need a specific category of spells designed to be cast in a split second.
 
-- **Arcane Reactions (The Opposed Clash):** A spell like _Deflection_ or _Arcane Protection_ would trigger the moment the caster becomes the target of an attack. The Arcanist rolls an Opposed Clash using `2d6 + Arcana`. If the Arcanist wins, they completely negate the attack. If they win by a High Margin (5+), they might also trigger a counter-effect (like teleporting 5 feet or dealing 1 Stress to the attacker).
+- **Arcane Reactions (The Opposed Clash):** A spell like _Deflection_ or _Arcane Protection_ would trigger the moment the caster becomes the target of an attack. The Arcanist rolls an Opposed Clash using `2d6 + Arcana`. If the Arcanist wins, they completely negate the attack. If they win by a Margin of 5+, they might also trigger a counter-effect (like teleporting 5 feet or dealing 1 Stress to the attacker).
     
-- **Faith Reactions (The Stress Soak):** Because Faith magic bypasses the dice, a Priest's Reactor spell (like _Martyr's Shield_) wouldn't require a Clash roll. Instead, when an enemy rolls a massive Strike, the Priest declares the Miracle, instantly accepts 1 or 2 Locked Stress, and immediately grants themselves or an ally a massive Front-End Reducer (e.g., +4 Shield Value) against that specific attack.
+- **Faith Reactions (The Stress Soak):** Because Faith magic bypasses the dice, a Priest's Reactor spell (like _Martyr's Shield_) wouldn't require a Clash roll. Instead, when an enemy rolls a massive Strike, the Priest declares the Prayer, instantly accepts 1 or 2 Locked Stress, and immediately grants themselves or an ally a massive Front-End Reducer (e.g., +4 Shield Value) against that specific attack.
     
     
     
@@ -106,7 +106,7 @@ To make "Cast Spell" a valid Reactor Action, you need a specific category of spe
     
     
 
-**The Channelling Rule** Certain powerful, ongoing spells and Miracles (like _Wildfire Proliferation_ or _Sanctuary_) carry an ongoing duration. Arcane spells call this **Sustain**; Faith Miracles call it **Flowing**. A caster can only maintain one such effect at a time, regardless of which system it comes from. *(Correction: this previously cited "Litany of Nails" as the Flowing example — that's the Zealot's Tier 2 Archetype Feat name from The Marrow, not a Miracle, and it isn't listed in any Domain.)*
+**The Channelling Rule** Certain powerful, ongoing spells and Prayers (like _Wildfire Proliferation_ or _Sanctuary_) carry an ongoing duration. Arcane spells call this **Sustain**; Faith Prayers call it **Flowing**. A caster can only maintain one such effect at a time, regardless of which system it comes from. *(Correction: this previously cited "Litany of Nails" as the Flowing example — that's the Zealot's Tier 2 Archetype Feat name from The Marrow, not a Prayer, and it isn't listed in any Domain.)*
 
 **Neither Sustain nor Flowing costs Locked Stress.** An Arcanist pays for concentration in Dissonant Stress, rolled for turn by turn; a Priest has already paid their Locked Stress at the moment of casting and owes nothing further. Locked Stress is not the currency of holding a spell open in either system.
 
@@ -114,14 +114,14 @@ To make "Cast Spell" a valid Reactor Action, you need a specific category of spe
 
 	- **Fail (below the spell's TN):** The spell drops, and the Arcanist takes 1 Dissonant Stress from the magical backfire.
 	- **Messy (Margin 0–2):** The spell holds, but the strain shows — the Arcanist takes 1 Dissonant Stress.
-	- **Clean or Exceptional (Margin 3+):** The spell holds at no cost.
+	- **Clean or Massive (Margin 3+):** The spell holds at no cost.
 
 	Because this is a Margin of Manifestation roll, **Paradigm Mastery applies**: an in-Paradigm spell treats a Messy sustain as Clean, and the specialist channels almost indefinitely for free. An off-Paradigm or Common spell bleeds the caster a little every round. (This also makes _Fevered Channelling_ highly valuable.)
 
 	Being knocked Prone does **not** force a Sustain check. Arcane channelling is an act of mental concentration — pain interrupts it, posture does not.
     
     
-- **The Faith Cost (Sacrifice) — Flowing:** The divine connection requires absolute physical devotion. If the Priest takes a Wound or is knocked Prone, the Flowing Miracle instantly drops, no roll permitted. The Priest also rolls the Tithe of Will each Activation to maintain their grip — see **Flowing (Maintaining a Miracle)**, below.
+- **The Faith Cost (Sacrifice) — Flowing:** The divine connection requires absolute physical devotion. If the Priest takes a Wound or is knocked Prone, the Flowing Prayer instantly drops, no roll permitted. The Priest also rolls the Tithe of Will each Activation to maintain their grip — see **Flowing (Maintaining a Prayer)**, below.
         
 ___________________________________________________________________
 # Faith (The Somatic Sacrifice)
@@ -130,15 +130,15 @@ Faith is not about channelling chaotic energy; it is about borrowing divine or e
 
 **The Tithe of Will**
 
-Faith magic is not a gamble against failure — it is a negotiation with the price. When a Priest declares a Miracle, the Miracle *always happens.* What the dice determine is not whether the Priest succeeds, but **whose hand is actually on the wheel**: theirs, or the entity they're borrowing power from.
+Faith magic is not a gamble against failure — it is a negotiation with the price. When a Priest declares a Prayer, the Prayer *always happens.* What the dice determine is not whether the Priest succeeds, but **whose hand is actually on the wheel**: theirs, or the entity they're borrowing power from.
 
-- **The Mechanic:** When declaring a Miracle, the Priest rolls **2d6 + Faith vs. the Miracle's own TN**, set by its Level per the Tiered TN table above. This is not a Margin-Scaler roll — there is no Messy/Clean/Exceptional ladder, and there is no Failure state that prevents the Miracle from occurring. The roll only ever determines the cost.
+- **The Mechanic:** When declaring a Prayer, the Priest rolls **2d6 + Faith vs. the Prayer's own TN**, set by its Level per the Tiered TN table above. This is not a Margin-Scaler roll — there is no Messy/Clean/Massive ladder, and there is no Failure state that prevents the Prayer from occurring. The roll only ever determines the cost.
 
-- **Pass (meets or exceeds the Miracle's TN) — Clean Channel:** The Priest's own faith and discipline carry the weight. The Miracle occurs exactly as written, and the Priest pays the Locked Stress cost listed for that Miracle. Nothing else happens. This is the expected, unremarkable outcome for a Priest who knows their scripture.
-- **Fail (below the Miracle's TN) — Borrowed Authority:** The Miracle still occurs — full effect, no exceptions — but the power moves through the Priest rather than from them. The Priest pays the standard Locked Stress cost, exactly as on a Pass, **and** gains 1 point of **Encroachment** (see below). This is not a punishment for bad luck; it is the fictional truth of the system finally showing its teeth — the Priest doesn't actually control what they're invoking, they just have working enough faith to ask nicely.
-- **Snake Eyes (Natural 2) — The Toll in Flesh:** The Miracle still occurs. But whatever the Priest is channeling decides the mind has paid enough for today, and takes the rest out of the body instead. **Convert the Miracle's entire Locked Stress cost into an equal number of points of direct Wound damage** (bypassing Wound Threshold entirely, per the Direct Wounds rule), rather than Locked Stress. A Priest who Snake-Eyes a 2-Stress Miracle takes the full toll across 2 Wound slots' worth of damage instead — this is the stigmata, the shattered bone, the bleeding from the eyes the system has always promised, given an actual trigger condition instead of being purely narrative flavor. The entity considers this payment made in full: **reset the Priest's Encroachment to 0**, regardless of its current value.
-	- **The Cap:** A single Toll in Flesh conversion cannot inflict more than **3 direct Wounds**, regardless of the Miracle's Locked Stress cost — this is the existing Wound Slot ceiling (Iron Core), not a new number. This keeps a bad roll on a Master Miracle brutal (it empties every Wound Slot a character has) without being an unconditional Incapacitation from full health. A Miracle's own entry can explicitly override this cap when its fictional weight demands it (see *Resurrection*, Manipulating the Void) — the cap is the default, not an absolute.
-- **Fates' Bounty (Natural 12):** As with any other check, the Priest rolls an additional die. This cannot change whether the Miracle happens (it already was going to), but a Priest who rolls a 12 may treat the result as an automatic Pass even if the additional die would have otherwise pushed them past a threshold that matters for a specific Miracle (GM's discretion for Miracles with scaling effects).
+- **Pass (meets or exceeds the Prayer's TN) — Clean Channel:** The Priest's own faith and discipline carry the weight. The Prayer occurs exactly as written, and the Priest pays the Locked Stress cost listed for that Prayer. Nothing else happens. This is the expected, unremarkable outcome for a Priest who knows their scripture.
+- **Fail (below the Prayer's TN) — Borrowed Authority:** The Prayer still occurs — full effect, no exceptions — but the power moves through the Priest rather than from them. The Priest pays the standard Locked Stress cost, exactly as on a Pass, **and** gains 1 point of **Encroachment** (see below). This is not a punishment for bad luck; it is the fictional truth of the system finally showing its teeth — the Priest doesn't actually control what they're invoking, they just have working enough faith to ask nicely.
+- **Snake Eyes (Natural 2) — The Toll in Flesh:** The Prayer still occurs. But whatever the Priest is channeling decides the mind has paid enough for today, and takes the rest out of the body instead. **Convert the Prayer's entire Locked Stress cost into an equal number of points of direct Wound damage** (bypassing Wound Threshold entirely, per the Direct Wounds rule), rather than Locked Stress. A Priest who Snake-Eyes a 2-Stress Prayer takes the full toll across 2 Wound slots' worth of damage instead — this is the stigmata, the shattered bone, the bleeding from the eyes the system has always promised, given an actual trigger condition instead of being purely narrative flavor. The entity considers this payment made in full: **reset the Priest's Encroachment to 0**, regardless of its current value.
+	- **The Cap:** A single Toll in Flesh conversion cannot inflict more than **3 direct Wounds**, regardless of the Prayer's Locked Stress cost — this is the existing Wound Slot ceiling (Iron Core), not a new number. This keeps a bad roll on a Master Prayer brutal (it empties every Wound Slot a character has) without being an unconditional Incapacitation from full health. A Prayer's own entry can explicitly override this cap when its fictional weight demands it (see *Resurrection*, Manipulating the Void) — the cap is the default, not an absolute.
+- **Fates' Bounty (Natural 12):** As with any other check, the Priest rolls an additional die. This cannot change whether the Prayer happens (it already was going to), but a Priest who rolls a 12 may treat the result as an automatic Pass even if the additional die would have otherwise pushed them past a threshold that matters for a specific Prayer (GM's discretion for Prayers with scaling effects).
 
 **Encroachment (The Running Tab)**
 
@@ -149,9 +149,9 @@ Stress isn't the only thing a Fail costs a Priest — it also costs them a littl
 - The moment Encroachment reaches 3, it immediately clears to 0, and the Priest suffers **1 direct Wound** (bypassing Wound Threshold, per the Direct Wounds rule), as the entity collects on the tab all at once.
 - Encroachment does not clear on its own, and a Breather cannot touch it, per the Breather's existing limitation that it cannot clear Locked Stress — Encroachment is treated the same way. It only clears via the cap-trigger above, a Snake Eyes result (see Toll in Flesh), or a successful Religious Pursuit (see Downtime).
 
->**Why roll at all, if the Miracle never fails?**
+>**Why roll at all, if the Prayer never fails?**
 
->Because reliability was never the same thing as safety. The Arcanist risks _failure_ — a botched spell, a wasted turn, a Snake-Eyes explosion that hurts everyone nearby. The Priest never risks failure, and the Stress cost is the same whether they Pass or Fail — but every single Miracle is still a coin flip between "I paid the toll myself, cleanly" and "I paid it, but the thing on the other end remembers." A Fail doesn't hurt any worse in the moment than a Pass does; it's a mark against the Priest personally, one that has nothing to do with the party's fortunes and everything to do with how many times this specific channel has slipped. A party with a Priest who keeps rolling badly isn't watching the dungeon get hungrier — they're watching their healer quietly run up a debt that whatever they've been borrowing from will, eventually, collect on in blood.
+>Because reliability was never the same thing as safety. The Arcanist risks _failure_ — a botched spell, a wasted turn, a Snake-Eyes explosion that hurts everyone nearby. The Priest never risks failure, and the Stress cost is the same whether they Pass or Fail — but every single Prayer is still a coin flip between "I paid the toll myself, cleanly" and "I paid it, but the thing on the other end remembers." A Fail doesn't hurt any worse in the moment than a Pass does; it's a mark against the Priest personally, one that has nothing to do with the party's fortunes and everything to do with how many times this specific channel has slipped. A party with a Priest who keeps rolling badly isn't watching the dungeon get hungrier — they're watching their healer quietly run up a debt that whatever they've been borrowing from will, eventually, collect on in blood.
 
 >A Priest at Faith 6 — the mortal ceiling, reachable only through Advancement and only with Will at 3 — stands at the practical ceiling of Novice-tier Faith — Encroachment from a Fail becomes mathematically impossible outside a Snake Eyes roll. This is intended: Certainty is what Faith is buying at that investment level, and the math re-introduces risk on its own at Adept (TN 10) and Master (TN 12) without needing a separate rule to force it. Locked Stress cost is unaffected either way — a Priest cannot cast for free regardless of tier.
 
@@ -161,17 +161,17 @@ A Priest can perfectly heal the party and strip the armor off bosses, but every 
 
 ________________________________________________________________________
 
-### Flowing (Maintaining a Miracle)
+### Flowing (Maintaining a Prayer)
 
-A Miracle with an ongoing duration is said to be **Flowing** — the authority is still running through the Priest, and has not yet been set down. Holding it open turn after turn is its own ongoing negotiation.
+A Prayer with an ongoing duration is said to be **Flowing** — the authority is still running through the Priest, and has not yet been set down. Holding it open turn after turn is its own ongoing negotiation.
 
-- **The Faith Cost:** Because the Priest already paid the Locked Stress upfront at the moment of casting, keeping a Miracle Flowing requires no *additional* Stress payment of any kind. However, at the start of each of their Activations while it Flows, the Priest must roll **2d6 + Faith vs. the Miracle's own TN** to maintain their grip on the borrowed authority.
+- **The Faith Cost:** Because the Priest already paid the Locked Stress upfront at the moment of casting, keeping a Prayer Flowing requires no *additional* Stress payment of any kind. However, at the start of each of their Activations while it Flows, the Priest must roll **2d6 + Faith vs. the Prayer's own TN** to maintain their grip on the borrowed authority.
 
-- **Pass:** The Miracle keeps Flowing. No further cost.
-- **Fail:** The Miracle keeps Flowing anyway (Faith does not simply drop the way a failed Arcane Sustain check does) — but the Priest gains 1 point of Encroachment, exactly as with a fresh cast. The longer a Priest white-knuckles a Flowing Miracle through failed rolls, the closer they creep toward paying for it in flesh.
-- **Snake Eyes:** The Miracle keeps Flowing, but the Priest takes 1 direct Wound as their body pays a toll for staying tethered to something that doesn't want to let go, and their Encroachment resets to 0 as that toll is paid in full.
+- **Pass:** The Prayer keeps Flowing. No further cost.
+- **Fail:** The Prayer keeps Flowing anyway (Faith does not simply drop the way a failed Arcane Sustain check does) — but the Priest gains 1 point of Encroachment, exactly as with a fresh cast. The longer a Priest white-knuckles a Flowing Prayer through failed rolls, the closer they creep toward paying for it in flesh.
+- **Snake Eyes:** The Prayer keeps Flowing, but the Priest takes 1 direct Wound as their body pays a toll for staying tethered to something that doesn't want to let go, and their Encroachment resets to 0 as that toll is paid in full.
 
-- **The Physical Anchor:** Regardless of the roll, if the Priest takes a Wound or is knocked Prone, the Flowing Miracle still instantly drops. Divine connection still requires absolute physical devotion — the dice govern the cost of staying tethered, not whether the tether can be physically severed.
+- **The Physical Anchor:** Regardless of the roll, if the Priest takes a Wound or is knocked Prone, the Flowing Prayer still instantly drops. Divine connection still requires absolute physical devotion — the dice govern the cost of staying tethered, not whether the tether can be physically severed.
 
 > **Sustain and Flowing, side by side.** Both cost no Locked Stress and both are limited to one at a time. An Arcanist rolls to find out *whether they keep the spell*; a Priest rolls to find out *what holding on costs them*. A failed Arcane Sustain ends the spell. A failed Flowing check never does — but it writes another line on the tab. Conversely, a Wound only *tests* an Arcanist's concentration, while a Wound or a fall severs a Priest's connection outright, no roll offered.
     
@@ -244,11 +244,11 @@ The caster hums a discordant, high-pitched note that vibrates violently through 
 - Margin 5+ (Massive): The frequency is so precise it bleeds into active combat gear. The caster can choose one Elite enemy in the room; that enemy's armor or shield immediately gains the Damaged tag, reducing its effectiveness for the rest of the fight.
     
 
-### 4. Ward of the Threshold (Faith / Miracle)
+### 4. Ward of the Threshold (Faith / Prayer)
 
 The Priest traces a sacred rune in the air over a doorway, archway, or narrow pass, forbidding entry to the corrupted.
 
-- Level: Novice Miracle
+- Level: Novice Prayer
 - Action Type: Activation
 - Resolution: No roll required. Paid directly in Locked Stress.
     

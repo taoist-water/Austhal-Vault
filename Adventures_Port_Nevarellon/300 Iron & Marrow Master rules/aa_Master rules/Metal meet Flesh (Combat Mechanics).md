@@ -103,7 +103,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 	
 	- **Catch Breath:** Flatly clear 2 Dissonant Stress. No check, no attribute tied to the amount — the whole turn already paid for it.
 
-- **The Reprieve (Faith Caster Action):** A Priest lays a burden down for a moment, mid-battle, and asks whatever's listening to ease up. This is the only in-combat route to clearing Locked Stress, and it consumes the Priest's Activation. It cannot touch Locked Stress paid for a Miracle that is currently **Flowing**, or committed to an Attuned item (per the Golden Rules, Iron Core).
+- **The Reprieve (Faith Caster Action):** A Priest lays a burden down for a moment, mid-battle, and asks whatever's listening to ease up. This is the only in-combat route to clearing Locked Stress, and it consumes the Priest's Activation. It cannot touch Locked Stress paid for a Prayer that is currently **Flowing**, or committed to an Attuned item (per the Golden Rules, Iron Core).
 
 	Roll **2d6 + Faith vs. TN 8**.
 

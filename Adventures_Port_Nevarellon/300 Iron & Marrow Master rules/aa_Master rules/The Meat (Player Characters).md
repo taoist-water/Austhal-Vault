@@ -25,7 +25,7 @@
 - **Stumpy (Drawback):** Disadvantage on Athletics checks during chases or open-ground sprints.
 
 ### Feats
-- **Divine Conduit — The Covenant, Domain of Law.** Grants a Holy Symbol, the **Smite Corruption** Domain Tag (targeting Undead/Daemons/Mutants treats their Wound Threshold as 1 lower), and the 4 Novice Miracles below.
+- **Divine Conduit — The Covenant, Domain of Law.** Grants a Holy Symbol, the **Smite Corruption** Domain Tag (targeting Undead/Daemons/Mutants treats their Wound Threshold as 1 lower), and the 4 Novice Prayers below.
 - **Stoic Resolve** *(Will +2, Resolve +1)*: +2 Stress Limit (already applied above). When taking the Reprieve action, or spending Momentum on Adrenaline Flush, clear 1 extra point of the relevant Stress type.
 
 ### Equipment
@@ -34,7 +34,7 @@
 - **Holy Symbol** (granted by Divine Conduit — outside the purse)
 - **Starting Purse: 80 sp** — Chainmail/Scale 45 + Mace 8 + Kite Shield 18 = **71 sp spent, 9 sp remaining.** 2 sp on a bedroll, 3 sp on a hooded lamp (Dwarven habit — always carry your own light underground), 4 sp in her pocket. She took the Bulky armour over the Chain Shirt deliberately: 5 sp cheaper, and the -1 it costs lands on Athletics, Stealth, and Arcana, none of which she uses. Her Faith is untouched.
 
-### Miracles (Tithe of Will = 2d6 + Faith = **2d6+3**, vs. TN 8 Novice)
+### Prayers (Tithe of Will = 2d6 + Faith = **2d6+3**, vs. TN 8 Novice)
 - **The Architect's Decree** — 1 Locked Stress, Free Reaction (an enemy tries to Move or leave your Threat Zone). Pass: target instantly Anchored, speed drops to 0 for the round — bypasses saves entirely. Fail: as Pass + 1 Encroachment.
 
 - **Sanctuary of the Zenith** — 1 Locked Stress, Activation, 3x3 zone, Scene duration. Pass: no character inside can gain Advantage or Disadvantage on any roll — Flanking, Obscurement, Prone penalties all suppressed. Fail: as Pass + 1 Encroachment.
@@ -44,7 +44,7 @@
 - **The Binding Oath** — 1 Locked Stress, Activation, touch, one willing character. Pass: the target's spoken promise is bound — knowingly breaking its letter costs them 2 Dissonant Stress. Fail: as Pass + 1 Encroachment.
 
 ### Table Note
-The auto-pass ceiling previously flagged here is gone. Under the restructure the Tithe of Will is 2d6 + Faith, and Faith 6 costs 9 DP against a creation budget of 8 — unreachable at Green by arithmetic. At Faith 3 she passes a Novice Miracle (TN 8) 83% of the time, and the dice are live at every tier. Will 3 has not stopped mattering: it sets her Faith ceiling at 6 and feeds her Stress Limit of 9, which is what lets her absorb the Locked Stress her Domain runs on. The old ceiling now returns only at Faith 6, a Storied purchase.
+The auto-pass ceiling previously flagged here is gone. Under the restructure the Tithe of Will is 2d6 + Faith, and Faith 6 costs 9 DP against a creation budget of 8 — unreachable at Green by arithmetic. At Faith 3 she passes a Novice Prayer (TN 8) 83% of the time, and the dice are live at every tier. Will 3 has not stopped mattering: it sets her Faith ceiling at 6 and feeds her Stress Limit of 9, which is what lets her absorb the Locked Stress her Domain runs on. The old ceiling now returns only at Faith 6, a Storied purchase.
 
 ### Combat Math Quick-Ref
 Tithe of Will 2d6+3 | Strike (Mace) 2d6+1, Impact = Margin+2 | Block 2d6+1 (modest; if lost, Kite Shield's SV 4 subtracts from Impact before comparing to her WT 8) | Dodge 2d6+0 (she blocks, she doesn't dance) | Resolve 2d6+1 | Influence 2d6+2 | Activation Order 6
@@ -170,7 +170,7 @@ Ranged Strike 2d6+3, Impact = Margin+2 (Shortbow) | Dodge 2d6+1 | Stealth 2d6+2 
 Arcane Clash/Manifestation 2d6+3 | Unarmed Strike 2d6+1 *(Melee; Lethal Strikes makes it count)* — Impact = Margin, or Margin+1 while Wreath of Embers is active | Dodge 2d6+0 | Notice 2d6+1 | Insight 2d6+1 | Resolve 2d6+1 | Activation Order 6
 
 ### Table Notes
-- **Blood Frenzy finally meets a spellcaster.** Every Pyromancy Novice spell she owns pushes 1 Dissonant Stress on its non-Exceptional result — Thermal Detonation, Ember Lance, and Wreath of Embers all do it. Ox is the roster's only other Half-Orc, and he uses Blood Frenzy purely as a tank mechanic (see his Table Notes on the Blood Frenzy/Blood Price exclusivity). Vrenna is the first character where taking a Wound to clear Dissonant Stress is a caster's decision, not a brute's — she can choose to eat a hit specifically to keep casting past what her Stress Limit of 7 would otherwise allow.
+- **Blood Frenzy finally meets a spellcaster.** Every Pyromancy Novice spell she owns pushes 1 Dissonant Stress on its non-Massive result — Thermal Detonation, Ember Lance, and Wreath of Embers all do it. Ox is the roster's only other Half-Orc, and he uses Blood Frenzy purely as a tank mechanic (see his Table Notes on the Blood Frenzy/Blood Price exclusivity). Vrenna is the first character where taking a Wound to clear Dissonant Stress is a caster's decision, not a brute's — she can choose to eat a hit specifically to keep casting past what her Stress Limit of 7 would otherwise allow.
 - **Pyromancy's Novice tier matches Shadow Sorcery's and Necromancy's shape — all three sit at exactly 3 Novice spells.** Under the current 4-spell Arcane Awakening (see The Marrow), that means every Arcane Paradigm forces exactly one Common-list pick at creation, Vrenna's Havoc included — this is now universal, not a gap specific to any one Paradigm the way Necromancy's old 2-spell Novice tier used to read.
 - **Unarmed strikes confirmed Power 0.** Impact = Margin (or Margin+1 while Wreath of Embers is active) — no Spell Power or weapon Power modifier stacks onto her punches beyond what the spell itself grants.
 
@@ -315,7 +315,7 @@ Melee Clash (Daggers) 2d6+1 | Thievery 2d6+3 | Stealth 2d6+3 | Acrobatics 2d6+1 
 - **Stumpy (Drawback):** Disadvantage on Athletics checks during chases or open-ground sprints.
 
 ### Feats
-- **Divine Conduit** *(The Covenant, Domain of Winter & Wilds — Creation)*. Grants a Holy Symbol, the **Chilling Frost** Domain Tag (an offensive prayer numbs its target — they can't Move next turn unless they take 1 physical Stress to snap free), and the 4 Novice Miracles below.
+- **Divine Conduit** *(The Covenant, Domain of Winter & Wilds — Creation)*. Grants a Holy Symbol, the **Chilling Frost** Domain Tag (an offensive prayer numbs its target — they can't Move next turn unless they take 1 physical Stress to snap free), and the 4 Novice Prayers below.
 - **Scavenger's Eye** *(Wits +1, Survival +1 — Creation)*: a Massive Success (Margin 5+) on an exploration or scouting check banks 2 Momentum instead of 1 — pairs directly with Kaelen's Eye below.
 
 ### Equipment
@@ -324,7 +324,7 @@ Melee Clash (Daggers) 2d6+1 | Thievery 2d6+3 | Stealth 2d6+3 | Acrobatics 2d6+1 
 - **Holy Symbol** (granted by Divine Conduit — outside the purse)
 - **Starting Purse: 80 sp** — Leather 12 + Shortbow 15 = **27 sp spent, 53 sp remaining.** Antitoxin (20 sp) + Sunrod (5 sp) = 25 sp, **28 sp banked** for arrows, a spare bowstring, and rope.
 
-### Miracles (Tithe of Will = 2d6 + Faith = **2d6+3**, vs. TN 8 Novice)
+### Prayers (Tithe of Will = 2d6 + Faith = **2d6+3**, vs. TN 8 Novice)
 - **Rime-Fang's Bite** *(2 Locked Stress, Aggressor, Short Range)* — Pass: target fails a Prowess+Athletics check (TN 8) or takes 2 Dissonant Stress and gains Rigor as the cold seizes its joints. Fail: as Pass + 1 Encroachment. Snake Eyes: convert the 2 Locked Stress into 2 direct Wounds, reset Encroachment.
 - **Howl of the Rime-Fang** *(2 Locked Stress, Aggressor, 15ft radius, Short Range)* — Pass: every enemy in range fails a Resolve check (TN 8) or gains Fear. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 2 direct Wounds, reset Encroachment.
 - **Wolf's Ward** *(1 Locked Stress, Activation, touch, Scene)* — Pass: target ignores Stress and penalties from extreme environmental hazards (per Iron World's Hazard Check rules) for the scene. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 1 direct Wound, reset Encroachment.
@@ -647,9 +647,9 @@ Resolve went up first specifically to clear The Red Mist's prerequisite as early
 - **Stumpy (Drawback):** Disadvantage on Athletics checks during chases or open-ground sprints.
 
 ### Feats
-- **Divine Conduit** *(The Covenant, Domain of Winter & Wilds — Creation)*. Grants a Holy Symbol, the **Chilling Frost** Domain Tag, and the 4 Novice Miracles below.
+- **Divine Conduit** *(The Covenant, Domain of Winter & Wilds — Creation)*. Grants a Holy Symbol, the **Chilling Frost** Domain Tag, and the 4 Novice Prayers below.
 - **Scavenger's Eye** *(Wits +1, Survival +1 — Creation)*: a Massive Success (Margin 5+) on an exploration or scouting check banks 2 Momentum instead of 1.
-- **Predator's Rhythm** *(Stalker, Tier 2; Wits 2, Survival 2 — Milestone 3)*: when she successfully kills or Incapacitates a Fodder or Grunt-level enemy, she may immediately clear 1 Dissonant Stress or bank 1 Momentum, her choice — triggers off a Shortbow kill or a Miracle kill equally.
+- **Predator's Rhythm** *(Stalker, Tier 2; Wits 2, Survival 2 — Milestone 3)*: when she successfully kills or Incapacitates a Fodder or Grunt-level enemy, she may immediately clear 1 Dissonant Stress or bank 1 Momentum, her choice — triggers off a Shortbow kill or a Prayer kill equally.
 
 ### Equipment
 - **Armor:** Leather (+1 Armor, Light — doesn't touch Faith or Ranged)
@@ -657,10 +657,10 @@ Resolve went up first specifically to clear The Red Mist's prerequisite as early
 - **Holy Symbol** (granted by Divine Conduit — outside the purse)
 - **Starting Purse: 80 sp** — Leather 12 + Shortbow 15 = **27 sp spent, 53 sp remaining.** Antitoxin (20 sp) + Sunrod (5 sp) = 25 sp, **28 sp banked.** *(No Downtime purchases assumed across the three Milestones.)*
 
-### Miracles (Tithe of Will = 2d6 + Faith = **2d6+3**, vs. TN 8 Novice)
+### Prayers (Tithe of Will = 2d6 + Faith = **2d6+3**, vs. TN 8 Novice)
 - **Rime-Fang's Bite** *(2 Locked Stress, Aggressor, Short Range)* — Pass: target fails a Prowess+Athletics check (TN 8) or takes 2 Dissonant Stress and gains Rigor. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 2 direct Wounds, reset Encroachment.
 - **Howl of the Rime-Fang** *(2 Locked Stress, Aggressor, 15ft radius, Short Range)* — Pass: every enemy in range fails a Resolve check (TN 8) or gains Fear. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 2 direct Wounds, reset Encroachment.
-- **Wolf's Ward** *(1 Locked Stress, Activation, touch, Scene)* — a fixed-duration effect, not a Flowing Miracle: no per-Activation maintenance roll. Pass: target ignores Stress and penalties from extreme environmental hazards for the scene. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 1 direct Wound, reset Encroachment.
+- **Wolf's Ward** *(1 Locked Stress, Activation, touch, Scene)* — a fixed-duration effect, not a Flowing Prayer: no per-Activation maintenance roll. Pass: target ignores Stress and penalties from extreme environmental hazards for the scene. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 1 direct Wound, reset Encroachment.
 - **Kaelen's Eye** *(1 Locked Stress, Activation, self, Scene)* — also fixed-duration, not Flowing. Pass: Advantage on Survival or Notice checks to track a specific creature or navigate harsh terrain. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 1 direct Wound, reset Encroachment.
 
 ### Combat Math Quick-Ref
@@ -677,7 +677,7 @@ Tithe of Will 2d6+3 | Ranged Strike (Shortbow) 2d6+3, Impact = Margin+2 | Surviv
 Survival went up first specifically to pre-clear half of Predator's Rhythm's prerequisite while it was cheap; Wits followed as the more expensive half, chosen over Reflex or Will because it also grows her Stress Limit and the Notice/Insight/Survival family of ceilings, and because it's the stat Scavenger's Eye already invested in — the Milestone deepens an existing line rather than opening a new one. The Feat landed last, once both halves were banked.
 
 ### Table Notes
-- **The Zealot's Litany of Nails was considered and dropped.** It only triggers while keeping a Miracle Flowing, and Brynja's whole Grimoire is fixed-duration — Wolf's Ward and Kaelen's Eye were confirmed as designed that way, not an oversight (see the correction in Embracing the Abyss's Channelling Rule, which previously cited Litany of Nails itself, a Feat, as if it were a Flowing Miracle). The Feat would have been permanently dead weight on this sheet. Predator's Rhythm was picked instead specifically because it triggers off either half of her kit.
+- **The Zealot's Litany of Nails was considered and dropped.** It only triggers while keeping a Prayer Flowing, and Brynja's whole Grimoire is fixed-duration — Wolf's Ward and Kaelen's Eye were confirmed as designed that way, not an oversight (see the correction in Embracing the Abyss's Channelling Rule, which previously cited Litany of Nails itself, a Feat, as if it were a Flowing Prayer). The Feat would have been permanently dead weight on this sheet. Predator's Rhythm was picked instead specifically because it triggers off either half of her kit.
 - **Flat's first crack.** Every character built with the Flat array up to this point — just Brynja herself, at Green — has had all four Attributes sit in perfect lockstep, which is the array's whole signature ("no weaknesses, no peak," per the Design Notes). This is the first Flat character to leave that lockstep: Wits 2 against Brawn/Reflex/Will still at 1. Worth flagging as an open question rather than a quiet drift — does "Flat" describe the creation-day array only, with Advancement expected to eventually differentiate every character regardless of starting shape, or should a Flat-array philosophy carry through Advancement too (e.g., spending Milestones to keep all four Attributes tied for as long as possible)? Nothing in The Marrow rules on this either way.
 - **Predator's Rhythm doesn't resolve the hybrid tension, and that's the point.** Her Green Table Notes flagged that hybrid means alternating toolkits, never combining them in one turn. This Feat is the one pickup that pays out regardless of which toolkit that turn used — it deepens the hybrid identity instead of quietly tipping her toward Faith or Ranged.
 
@@ -837,7 +837,7 @@ Arcane Manifestation/Clash 2d6+4 | Dagger Strike 2d6+0 | Dodge 2d6+0 (she has no
 - **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap.
 
 ### Feats
-- **Divine Conduit** *(The Covenant, Domain of Mercy & Healing — Creation)*. Grants a Holy Symbol, the **Pure Martyrdom** Domain Tag (casting Healing/Stabilize: take 1 Locked Stress herself to clear an additional Wound Slot on the target), and the 4 Novice Miracles below.
+- **Divine Conduit** *(The Covenant, Domain of Mercy & Healing — Creation)*. Grants a Holy Symbol, the **Pure Martyrdom** Domain Tag (casting Healing/Stabilize: take 1 Locked Stress herself to clear an additional Wound Slot on the target), and the 4 Novice Prayers below.
 - **Dung-Healer's Salve** *(Medicine +1 — Creation)*: A Breather can't normally heal Wounds — this is the exception. Mundane foraged supplies let a Medicine check heal a Wound Slot during a Breather anyway; the patient takes 1 Locked Stress from the crude treatment.
 - **Gallows Humour** *(Influence +1 or Resolve +1 — Milestone 6)*: Recounting a harrowing story during a Breather lets her and every ally participating each clear 1 point of **clearable** Locked Stress — never the Attunement kind (Iron Core, Golden Rules).
 
@@ -847,8 +847,8 @@ Arcane Manifestation/Clash 2d6+4 | Dagger Strike 2d6+0 | Dodge 2d6+0 (she has no
 - **Holy Symbol** (granted by Divine Conduit — outside the purse)
 - **Starting Purse: 80 sp** — Chain Shirt 50 + Mace 8 = **58 sp spent, 22 sp remaining.** 6 sp on bandages and a suture kit, 2 sp on clean spirits for wound-cleaning, 14 sp in reserve. Skipping the shield to keep her off-hand free is what paid for the better armour — a medic who cannot reach the patient is no medic, so she bought the survivability instead of the shield.
 
-### Miracles (Tithe of Will = Faith = **2d6+4**, vs. tiered TN)
-- **Healing/Stabilize** *(Common, Novice — Creation)* — Tithe vs. TN 8, 2 Locked Stress. Pass: clears 1 Wound Slot; if the target is Incapacitated, also Stabilizes them. A character can't benefit from a second Healing-type Miracle in the same Scene.
+### Prayers (Tithe of Will = Faith = **2d6+4**, vs. tiered TN)
+- **Healing/Stabilize** *(Common, Novice — Creation)* — Tithe vs. TN 8, 2 Locked Stress. Pass: clears 1 Wound Slot; if the target is Incapacitated, also Stabilizes them. A character can't benefit from a second Healing-type Prayer in the same Scene.
 - **Elara's Comfort** *(Domain, Novice — Creation)* — Tithe vs. TN 8, 1 Locked Stress. Pass: target clears 2 Dissonant Stress.
 - **Bolster the Faithful** *(Domain, Novice — Creation)* — Tithe vs. TN 8, 1 Locked Stress. Pass: target gains Blessed.
 - **Elara's Vigil** *(Domain, Novice — Creation)* — Tithe vs. TN 8, 1 Locked Stress, touch, requires uninterrupted downtime. Pass: halves the target's next natural Wound-Slot recovery time, or auto-succeeds a downtime Medicine check made on her behalf.
@@ -866,9 +866,9 @@ Tithe of Will 2d6+4 *(2d6+3 at creation — see Advancement Ledger)* | Mace Stri
 |---|---|---|---|---|
 | 1 | 3 | 0 | — (saving) | 3 |
 | 2 | 3 | 3 | **5 DP** — Will 2→3 (Physical/Mental Conditioning) | 1 |
-| 3 | 3 | 1 | **3 DP** — Learn Elara's Burden (Adept Domain Miracle) | 1 |
-| 4 | 3 | 1 | **2 DP** — Learn Wrathful Light (Novice Domain Miracle) | 2 |
-| 5 | 3 | 2 | **3 DP** — Learn The Weeping Communion (Adept Domain Miracle) | 2 |
+| 3 | 3 | 1 | **3 DP** — Learn Elara's Burden (Adept Domain Prayer) | 1 |
+| 4 | 3 | 1 | **2 DP** — Learn Wrathful Light (Novice Domain Prayer) | 2 |
+| 5 | 3 | 2 | **3 DP** — Learn The Weeping Communion (Adept Domain Prayer) | 2 |
 | 6 | 3 | 2 | **3 DP** — Feat: Gallows Humour *(Influence 1 ✓ / Resolve 1 ✓ — met since creation)* | 2 |
 | 7 | 3 | 2 | **1 DP** — Resolve 1→2, **1 DP** — Influence 1→2 (both rank ≤ 4, flat cost) | 3 |
 | 8 | 3 | 3 | **1 DP** — Medicine 1→2 (rank ≤ 4, flat cost — was 2 DP under Pushing the Limit), **2 DP** — Learn Bless (Common Novice) | 3 |
@@ -999,7 +999,7 @@ Aeric is the second deliberate Twin build, and the first at **Green** rather tha
 
 **9. First Storied character, and the first time Standing's "typical shape" was deliberately not followed.** Faelan joins Aeric as a two-Standings comparison (Green sheet untouched above, Storied version ten Milestones later). Unlike Aeric, whose Milestone 0 build already had its Attribute prerequisites banked for Berserker Tier 2, Faelan's ten-Milestone arc never touched Engine of Ruin (Arcanist Tier 3) even though he could afford its prerequisites from creation day too — the Feat's self-detonating Backfire clause doesn't fit a character whose entire kit is about not being caught, so the DP went into finishing Shadow Sorcery's own Adept/Master list instead. Worth flagging as a real tension the Standing table doesn't capture: "Storied... pushing into Tier 3 Feats" (The Marrow) describes a typical shape, not a mandatory one, and this is the first build to say so explicitly rather than just defaulting to the extreme. Also: this is the third character (after Ox and Morwenna) to show the "commit fully to one signature stat, never broaden" pattern from note 7 — now demonstrated at Green→Veteran/Hardened *and* Green→Storied, not just within a single late-game build.
 
-**10. Brynja's Veteran pickup, a genuine cross-document error it surfaced, and Flat's first departure from lockstep.** Third same-character comparison (Aeric, Faelan, now Brynja), and the first Veteran example of a Feat picked *because* the obvious alternative would have been dead weight: the Zealot's Litany of Nails only triggers while keeping a Miracle Flowing, and every Miracle on Brynja's sheet — confirmed, not assumed — is a designed fixed-duration effect, not a Flowing one. That check surfaced a real error rather than a maybe: Embracing the Abyss's Channelling Rule cited Litany of Nails itself as an example of a Flowing Miracle, when it's actually the Zealot's Tier 2 Archetype Feat name from The Marrow — not a Miracle at all, and not listed in any Domain. Corrected there to cite Sanctuary (Domain of Strategy, Adept) instead, which is an actual Flowing Miracle. Separately: Brynja is also the first Flat-array character to leave lockstep during Advancement (Wits 2 against Brawn/Reflex/Will at 1) — flagged as an open question in her Table Notes rather than resolved, since nothing in The Marrow says whether "Flat" is a creation-day description only or a philosophy meant to survive Advancement.
+**10. Brynja's Veteran pickup, a genuine cross-document error it surfaced, and Flat's first departure from lockstep.** Third same-character comparison (Aeric, Faelan, now Brynja), and the first Veteran example of a Feat picked *because* the obvious alternative would have been dead weight: the Zealot's Litany of Nails only triggers while keeping a Prayer Flowing, and every Prayer on Brynja's sheet — confirmed, not assumed — is a designed fixed-duration effect, not a Flowing one. That check surfaced a real error rather than a maybe: Embracing the Abyss's Channelling Rule cited Litany of Nails itself as an example of a Flowing Prayer, when it's actually the Zealot's Tier 2 Archetype Feat name from The Marrow — not a Prayer at all, and not listed in any Domain. Corrected there to cite Sanctuary (Domain of Strategy, Adept) instead, which is an actual Flowing Prayer. Separately: Brynja is also the first Flat-array character to leave lockstep during Advancement (Wits 2 against Brawn/Reflex/Will at 1) — flagged as an open question in her Table Notes rather than resolved, since nothing in The Marrow says whether "Flat" is a creation-day description only or a philosophy meant to survive Advancement.
 
 **11. First character built backward from an existing higher-Standing sheet, rather than forward from Green.** Corvin's Advancement Ledger already recorded exactly what his two Milestones bought (Riposte, The Insulting Deflection, and — in the equipment prose — a Downtime Leather upgrade over his creation-day Gambeson), so his Green sheet was reconstructed by subtraction rather than designed fresh. That the ledger held enough information to run in reverse cleanly is worth treating as a soft requirement for every future ledger, not just documentation style: a character whose Advancement history is prose-only, without an itemized Milestone-by-Milestone table, couldn't be reconstructed this way. This also completes the roster's second Twin-array pair (after Aeric's Green/Veteran) and confirms the same finding from the opposite direction: Twin is dice-invisible well past creation — Corvin's Strike roll is identical at Green and Blooded, just as Aeric's Melee roll was identical at Green and Veteran — and only shows up once Advancement actually opens a second ceiling, which neither Twin character has reached yet at the Standings currently on the sheet.
 
