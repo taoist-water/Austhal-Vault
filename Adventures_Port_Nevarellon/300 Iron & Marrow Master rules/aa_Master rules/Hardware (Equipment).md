@@ -154,8 +154,8 @@ Wearing or carrying an Enchanted or Relic item permanently isn't free — a sliv
 | Tier          | Availability                   | Attunement                                    | Power Level                                                                                          |
 | ------------- | ------------------------------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | **Trinket**   | Common/Scarce                  | None                                          | Flavor only, or a single trivial non-combat nudge — the "Cantrip" of magic items.                    |
-| **Charmed**   | Scarce/Rare                    | None                                          | One tag grant, or a narrow situational bonus — roughly Common-spell strength.                        |
-| **Enchanted** | Rare/Legendary                 | 1 Locked Stress                               | A real ability, or a Momentum-gated active — Adept-spell strength.                        |
+| **Charmed**   | Scarce/Rare                    | None                                          | One tag grant, or a narrow situational bonus — roughly novice-spell strength.                        |
+| **Enchanted** | Rare/Legendary                 | 1 Locked Stress                               | A real ability, or a Momentum-gated active — Adept-spell strength.                                   |
 | **Relic**     | Legendary, unique, GM-authored | 1 Locked Stress + a bespoke built-in drawback | Master Miracle/Tier 3 Feat strength. Not purchasable — a campaign fixture with a name and a history. |
 
 **On Relics specifically:** the Locked Stress cost alone isn't enough of a toll for Master-tier power. Per the same logic already used for Resurrection's Soul Scar and Half-Elf's inherited drawbacks, a Relic's cost should be written into the item itself, not just paid for in Stress. Don't hand out a Relic without also handing out its hook.
