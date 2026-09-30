@@ -104,12 +104,9 @@ The party's escape route — the smugglers' sewer route one PC knows — runs di
 
 ### The Complication
 
-**Bog-Wretch (Fodder)**
-- **Type:** Undead | **Size:** Standard
-- **Attributes:** Brawn 1 *(derived only — never added to a roll)* | **Skills:** Melee +1
-- **Wound Threshold:** 5 (4 + Brawn 1) | Wound Slots: 1 | **Stress Limit: 4** | Activation Order: 6 | Momentum Bank: 4
-- **Equipment:** Waterlogged claws (Power 1) — Strike: `2d6+1`
-- **Traits (1):** **Vicious** *(existing trait — inflicted damage forces a Prowess check or Bleeding)*
+**Bog-Wretch (Fodder)** — **now statted in _Beasts Monsters Mutants_ as _The Wretch_, Bog-Wretch skin.** Run it from there; the inline block that used to sit here is superseded.
+- Quick reference: WT 5, 1 Wound Slot, Stress Limit 4, Activation Order 6, Momentum Bank 4, claws (Power 1) striking at `2d6+1` (Melee +1), **Vicious**.
+- **The Bog-Wretch skin is what this scene was built on:** waterlogged claws, it ignores difficult terrain from mud and standing water, and it takes **Advantage on its Clash against a Drowned target** — precisely the overlap this Complication exists to test. It is also immune to the flooded sluice's own Hazard Check, so the water costs it nothing while it is costing the party.
 
 Field 3–4 of these, surging out of the flooded muck while some PCs are still fighting off Drowned. Individually harmless — the point is testing whether Drowned's slow bleed actually feels oppressive layered under combat pressure, not as a standalone puzzle.
 

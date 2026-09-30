@@ -516,6 +516,46 @@ ________________________________________________________________________________
 - **Behaviour when Broken:** Resolves as **The Rout** — drops the sling and goes over the ridgeline. Stumpy means anyone who gets onto the roof will catch him, which is the trade for a full fight spent untouchable.
 - **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
 
+### The Wretch
+
+> _What the marsh, the barrow or the dunes left behind when it was finished with someone. It does not remember being a person. It remembers being cold, or drowning, or thirsty._
+
+#### Vital Statistics
+
+- **Tier:** Fodder
+- **Type:** Undead
+- **Size:** Standard
+- **Move:** 30 ft
+- **Attributes (derived only):** Brawn 1 _(Assumed Zero: everything else.)_
+- **Skills (1):** Melee +1.
+- **Derived stats:**
+    - Wound Threshold: **5** _(Base 4 + Brawn 1)_
+    - Wound Slots: **1**
+    - Stress Limit: **4** _(4 + 0 Fodder)_
+    - Activation Order: **6** _(6 + Reflex 0)_
+    - Momentum Bank: **4** _(4 + Reflex 0)_
+- **Equipment:** Claws (Power 1). Strike Roll: 2d6+1 (Melee +1), Impact = Margin + 1.
+- **Traits (1):**
+    - **Vicious:** If this creature inflicts damage on a player character, the target must immediately pass a Prowess check or gain the **Bleeding** condition.
+
+#### Environmental Skins
+
+A Wretch is made by the place that killed it, and it carries that place with it. **A Wretch is immune to the Hazard Check of its own terrain** (_Iron World_, Environmental Hazards) — it accrues no Locked Stress from the blizzard, the desert or the water that made it, while that same ground is costing the party 1d3 a failure. Everything else below is a descriptor and **one rider that is inert outside its home ground**. No skin changes Brawn, Wound Threshold, Wound Slots, Stress Limit, Move or Power. _A Bog-Wretch is a wetter Wretch, not a stronger one._
+
+| Skin | Terrain | Claws | Rider (inert elsewhere) |
+| --- | --- | --- | --- |
+| **Bog-Wretch** | freezing water — marsh, flooded sluice, tidal mud | waterlogged | Ignores difficult terrain from mud and standing water. **Advantage on its Clash against a Drowned target.** |
+| **Grave-Wretch** | a blizzard — snowfield, frost cave, barrow ice | frost-cracked | Ignores difficult terrain from ice and snow. **Advantage on its Clash against a target suffering Rigor.** |
+| **Dust-Wretch** | a scorching desert — dunes, salt pan, dry tomb | sun-split | Ignores difficult terrain from sand and scree. **Desiccated: fire attacks against it gain +2 Impact.** |
+
+_The three terrains are_ Iron World's _own — its Hazard Check rule names "a blizzard, a scorching desert, freezing water" — so the skins hook onto an existing rule rather than introducing a biome list. Both riders reach for conditions that already exist and already fit:_ Drowned _is what the Ledger House scene inflicts on the party in the same breath as it fields Bog-Wretches, and_ Iron Core _defines_ Rigor _as caused by "extreme cold, or necromancy" — both halves of this creature._
+
+#### Phases
+
+- **Behaviour when unbroken:** Advances on whoever is nearest, in a straight line. No tactics, no hesitation, no self-preservation. Field them three or four at a time: individually they are harmless, and their entire job is pressure layered underneath something else — a hazard, a pursuit, a Drowned party still coughing up water.
+- **Behaviour when Broken:** Resolves as **The Rout**, undead-flavoured — it does not flee and it does not yield. At maximum Stress the animating force gutters out and it comes apart where it stands, removed from the encounter rather than destroyed by anyone's hand. _(Mechanically identical to a Rout: it stops being a combatant without being killed. Same shape as the Grave-Warden's construct-flavoured Rout.)_
+- **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
+
 ### Riding Horse
 
 > "It will carry you all day and twenty miles further than you deserve. It will not carry you into a fight."

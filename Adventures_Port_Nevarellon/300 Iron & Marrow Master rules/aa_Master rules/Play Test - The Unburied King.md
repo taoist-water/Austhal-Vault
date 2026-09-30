@@ -71,11 +71,9 @@ The barrow's outer seal has a construct guardian bound to it, flanked by two ris
 - **Broken:** At max Stress, it seizes up mid-swing and is removed from the encounter rather than destroyed.
 
 ### Grave-Wretch (Fodder) — ×2 (Duo/Trio) / ×3 (Trio/Quartet adjustment)
-- **Type:** Undead | **Size:** Standard
-- **Skills:** Prowess +1
-- **Wound Threshold:** 5 | Wound Slots: 1 | Stress Limit: 0
-- **Equipment:** Frost-cracked claws (Power 1) — Strike: `2d6+1`
-- **Traits (1): Vicious** *(inflicted damage forces a Prowess check or Bleeding)*
+- **Now statted in _Beasts Monsters Mutants_ as _The Wretch_, Grave-Wretch skin.** Run it from there. The inline block that used to sit here is superseded, and it carried **three fossils** worth recording: `Prowess +1` where its own stated Strike of `2d6+1` derives from **Melee**; `Stress Limit: 0`, the pre-Gate-Test fossil, against the Fodder floor of 4; and no Momentum Bank or Activation Order at all — while the Grave-Warden block directly above it states both correctly.
+- Quick reference: WT 5 _(4 + Brawn 1)_, 1 Wound Slot, **Stress Limit 4**, Activation Order 6, Momentum Bank 4, claws (Power 1) striking at `2d6+1` (**Melee +1**), **Vicious**.
+- **Grave-Wretch skin:** frost-cracked claws, ignores difficult terrain from ice and snow — including this scene's refreezing meltwater, which it wades through while the party does not — and takes **Advantage on its Clash against a target suffering Rigor**. Immune to the blizzard's own Hazard Check (_Iron World_).
 
 ### What to watch for here
 
