@@ -587,7 +587,6 @@ ________________________________________________________________________
 
 > **Availability at character creation.** A starting character outfits from a Town — Scarce tier or lower (see *The Starting Purse*, The Marrow, and Settlement Tiers, Soothing the Soul). Breastplate and Plate Armor are Rare, sourced from a City or better, and are not available at Green at any price. They are acquired in play.
 
-> *Dev note — tier/price consistency sweep, pending.* The Acquisition table in Soothing the Soul sets Scarce at a 15–50 sp band and Rare at 50–200+. One entry in this document sits outside its declared band: the **Hand Crossbow** (40 sp, marked Rare) is priced inside the Scarce band while gated to Cities. *(The **Wand** was the other, resolved 28 Sep — but not by moving it into its band, because this note's diagnosis was backwards. Its `Focus` tag granted +1 to Arcana Clash rolls, the same effect the Reliquary Symbol charges ~150 sp Legendary for, so the Wand was underpriced for what it did rather than overgated for what it cost. The plain Wand is now Common at 10 sp with no bonus; the +1 moved to the Vitrified Wand at Enchanted/Legendary.)* Several cheap oddities are marked Scarce below the 15 sp floor — Sai, Shuriken, Whip, Nunchaku, Bolas — which is defensible as "the world rarely stocks it, but it's cheap when you find it," and may be intentional. The Hand Crossbow is the one that still reads as an error.
 
 ## Armour and Shield Tags
 
@@ -728,7 +727,7 @@ Alchemical supplies are highly volatile, unstable, and often act as a mechanical
 | Black-Root Draught   | 15 sp | Scarce  | 1/3   | Exhaustion: Used as a Move Action. Instantly unlocks 2 Dissonant Stress slots for an Arcane caster. However, it drains physical stamina; at the absolute end of the current scene, the character automatically fills 1 physical Wound slot from systemic toxicity.                                      |
 | Witch-Spur Salve     | 12 sp | Scarce  | 1/3   | Nerve Numbing: Rubbed into the temples as a Move Action. Grants absolute immunity to the Terrifying trait and psychological panic checks for the next scene. The Catch: It instantly fills and locks 1 Dissonant Stress slot for the duration of the scene, reducing the user's maximum stress ceiling. |
 | Vitriol Solvent      | 25 sp | Rare    | 1/3   | Armor Melt: Applied to a bladed or Armour-piercing weapon as a Full Action. For the next 3 combat rounds, the weapon gains the Sunder tag. If a strike hits a target with the Plated trait, that trait is suppressed for the rest of the encounter.                                                     |
-| Naphtha Fire-Flask   | 30 sp | Rare1/3 |       | Zone Control: Can be thrown (Ranged, Max 30ft). Shatters upon a square/zone. Anyone occupying or entering the zone during the next 3 rounds must pass a Dodge check vs TN 8 or take a flat 2 Impact damage and 1 Dissonant Stress from chemical burns.                                                  |
+| Naphtha Fire-Flask   | 30 sp | Rare    | 1/3   | Zone Control: Can be thrown (Ranged, Max 30ft). Shatters upon a square/zone. Anyone occupying or entering the zone during the next 3 rounds must pass a Dodge check vs TN 8 or take a flat 2 Impact damage and 1 Dissonant Stress from chemical burns.                                                  |
 | Arcane Salts         | 8sp   | common  | 1/3   | A violently harsh alchemical stimulant. Using it as a Move Action instantly unlocks 1 Locked Stress slot, but immediately inflicts 1 normal Dissonant Stress on the user from the chemical shock..                                                                                                      |
 | Philter of Focus     | 20sp  | scarce  | 1/3   | The next Arcane **Sustain** check the drinker makes this scene automatically passes as a Clean result, no roll required.                                                                                                                                                                                |
 | Corpse-Weed Resin    | 6 sp  | Common  | 1/3   | Lethargy: For the first combat encounter after the Breather, the user cannot generate Momentum, as their nervous system is too dulled. Clears 1 Locked Stress. Can be smoked during a 30-minute Breather.                                                                                               |
@@ -815,10 +814,12 @@ _Combat-trained mounts don't panic from ordinary Fear-Inducing effects (they're 
 | Donkey / Mule               | Small (-1) | 20 ft (4 sq) | 3                | 3            | 12 sp          | Common       |
 | Pony                        | Small (-1) | 25 ft (5 sq) | 3                | 3            | 20 sp          | Common       |
 | Guard Dog                   | Small (-1) | 40 ft (8 sq) | 3                | 3            | 15 sp          | Common       |
-| Light Horse                 | Large (+1) | 40 ft (8 sq) | 6                | 4            | 60 sp          | Scarce       |
-| Light Horse, combat trained | Large (+1) | 40 ft (8 sq) | 8 _(+1 Brawn)_ | 4            | 90 sp          | Scarce       |
-| Heavy Horse (warhorse)      | Large (+1) | 35 ft (7 sq) | 8 _(+1 Brawn)_ | 4            | 150 sp         | Rare         |
-| Heavy Horse, combat trained | Large (+1) | 35 ft (7 sq) | 8                | 4            | 220 sp (11 gs) | Rare         |
+| Riding Horse                | Large (+1) | 40 ft (8 sq) | 7                | 4            | 60 sp          | Scarce       |
+| Heavy Horse (warhorse)      | Large (+1) | 35 ft (7 sq) | 9                | 4            | 150 sp         | Rare         |
+
+**Combat training** — **+50% of the mount's base cost, and always Rare** (a horse-breaker is a city profession, whatever the animal). The mount gains **Battle-Broke** and loses **Skittish** (Bestiary): it no longer bolts, it can be fought from, it gains Melee +1 if it had none, and it shrugs off the first Fear each Scene. It gains **no Brawn, no Wound Threshold, no Stress Limit and no Move** — *a trained horse is a braver horse, not a bigger one.* A **Riding Horse, combat trained** is **90 sp, Rare**; a **Heavy Horse, combat trained** is **225 sp, Rare**.
+
+*Both horses have full stat blocks in the Bestiary — Riding Horse (Fodder) and Heavy Horse (Grunt) — where the Wound Thresholds above derive from Brawn and Scale like any other creature's. The Small mounts are Brawn 0: 4 + 0 − 1 Scale = 3.*
 
 **Tack:**
 **Barding:** priced as **2× the base armor's sp cost**, reflecting the extra material a Large-scale mount requires. A barded mount carries the same tag penalties as a rider would (Bulky armor still imposes its usual -1 penalties). Example: Chainmail barding = 90 sp; Plate barding = 400 sp (20 gs), Rare/exotic, warhorse-only.

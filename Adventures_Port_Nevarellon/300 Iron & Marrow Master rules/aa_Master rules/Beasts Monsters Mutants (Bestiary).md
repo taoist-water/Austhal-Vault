@@ -223,6 +223,19 @@ _**Fanatical:** Immune to being Intimidated.
     
 - If this creature is struck by a Fates Bounty(meaning the attack roll against it was a Fates bounty), or if it rolls Snake Eyes (fumbles) on its own action, its containment ruptures. All characters (allies and enemies alike) within a 10ft radius must defend against an immediate burst of raw energy, taking 2 points of Locked Stress (if magical) or Dissonant Stress (if alchemical/fire).
     
+**Skittish**
+- An animal that has not been broken to violence. The default state of any beast that is not a predator or specifically trained.
+    
+- While a fight is underway within 30 ft, at the start of each of the rider's Activations the rider must pass a **Ride check vs TN 8** or the mount **bolts**: it spends its Activation running directly away from the nearest threat at full Move, and the rider may take no action that Activation. *(A **Military saddle** grants Advantage on this check — Hardware.)* An unridden Skittish animal simply flees.
+    
+
+**Battle-Broke**
+- What combat training buys, and the only thing it buys.
+    
+- The creature loses **Skittish** entirely — it does not bolt, and it can be fought from. It gains **Melee +1** if it had no Melee skill at all, and it ignores the first instance of **Fear** each Scene.
+    
+- **Combat training does not make an animal stronger.** Brawn, Wound Threshold, Stress Limit and Move are unchanged. A trained horse is a braver horse, not a bigger one.
+    
 ___________________________________________________________________
 # Example enemies
 
@@ -503,6 +516,35 @@ ________________________________________________________________________________
 - **Behaviour when Broken:** Resolves as **The Rout** — drops the sling and goes over the ridgeline. Stumpy means anyone who gets onto the roof will catch him, which is the trade for a full fight spent untouchable.
 - **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
 
+### Riding Horse
+
+> "It will carry you all day and twenty miles further than you deserve. It will not carry you into a fight."
+
+#### Vital Statistics
+
+- **Tier:** Fodder
+- **Type:** Beast
+- **Size:** Large (+1) | **Move:** 40 ft (8 squares)
+- **Attributes (derived only):** Brawn 1 → Wound Threshold; Reflex 1 → Activation Order 7, Momentum Bank 5 _(Assumed Zero: Wits, Will — it is an animal, and a nervous one.)_
+- **Skills:** Athletics +2. **No Melee — it will not fight.**
+- **Derived stats:**
+    - Wound Threshold: **7** _(4 + Brawn 1 + Scale +2)_
+    - Wound Slots: **1**
+    - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Fodder)_
+    - Activation Order: **7** _(6 + Reflex 1)_
+    - Momentum Bank: **5** _(4 + Reflex 1)_
+- **Equipment:** whatever tack its owner bought (Hardware).
+- **Traits (1):**
+    - **Skittish.** See the Trait Manifest. **Combat training replaces this with Battle-Broke** and costs +50% of the animal's price (Hardware).
+
+#### Phases
+
+- **Behaviour when unbroken:** It does what it is pointed at, until something frightens it. It is transport, not a weapon — a Riding Horse in a fight is a liability its rider has to keep passing Ride checks to hold on to.
+- **Behaviour when Broken:** **Rout**, and completely. A panicking horse is not a combatant; it is a large animal leaving.
+- **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
+
+---
+
 ## Grunt
 
 ### Orc Line-Breaker
@@ -728,6 +770,35 @@ ________________________________________________________________________________
 - **Behaviour when unbroken:** Opens from Stealth with Ambusher for an Advantaged first bolt, then alternates Brace and Reload with Shoot — one threatening shot every two rounds rather than a steady stream. Backs away from anyone closing and will trade ground freely to keep forty feet of it.
 - **Behaviour when Broken:** Resolves as **Frenzy** — Blood Frenzy already points this way. He drops the crossbow and, having no melee skill whatsoever, throws himself at the nearest PC with Advantage on Strikes and 2d6+0 behind it.
 - **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
+
+### Heavy Horse (Warhorse)
+
+> "Bred for weight, not speed. It has been taught that the noise and the smell mean work, not danger."
+
+#### Vital Statistics
+
+- **Tier:** Grunt
+- **Type:** Beast
+- **Size:** Large (+1) | **Move:** 35 ft (7 squares)
+- **Attributes (derived only):** Brawn 3 → Wound Threshold; Reflex 1 → Activation Order 7, Momentum Bank 5 _(Assumed Zero: Wits, Will.)_
+- **Skills:** Melee +2 _(iron-shod hooves)_, Athletics +2.
+- **Derived stats:**
+    - Wound Threshold: **9** _(4 + Brawn 3 + Scale +2)_
+    - Wound Slots: **2**
+    - Stress Limit: **4** _(4 + Will 0 + Wits 0 — monster build, exempt from the core-species Stress Limit floor)_
+    - Activation Order: **7** _(6 + Reflex 1)_
+    - Momentum Bank: **5** _(4 + Reflex 1)_
+- **Equipment:** tack per Hardware. **Barding** is priced at 2× the base armour's cost and applies the same tag penalties a rider would suffer; its Armour Value adds to the Wound Threshold above.
+- **Traits (1):**
+    - **Skittish** _(a warhorse that has not actually been trained is still a horse)_. **Combat training replaces this with Battle-Broke** and costs +50% of the animal's price (Hardware). A **Battle-Broke** warhorse is the standard cavalry mount.
+
+#### Phases
+
+- **Behaviour when unbroken:** Heavier and slower than a Riding Horse, and it hits — Melee +2 off the hooves, with Overwhelming Force applying against any Standard-scale defender (Metal meet Flesh). Its value is **Brawn 3**: the Wound Threshold to survive being shot at, and the carrying capacity for barding.
+- **Behaviour when Broken:** **Rout** if Skittish; a **Battle-Broke** warhorse **Frenzies** instead — it has been taught that the answer to fear is forward.
+- **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
+
+---
 
 ## Elite
 
