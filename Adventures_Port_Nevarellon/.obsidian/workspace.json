@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Hardware (Equipment)"
             }
+          },
+          {
+            "id": "090d3aeab66da9cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Iron & Marrow Master rules/aa_Master rules/Soothing the soul (Downtime).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soothing the soul (Downtime)"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -206,8 +221,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b473039391192a1",
+  "active": "090d3aeab66da9cd",
   "lastOpenFiles": [
+    "300 Iron & Marrow Master rules/aa_Master rules/Hardware (Equipment).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core Rules).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
     "300 Iron & Marrow Master rules/aa_Master rules/The Marrow (Character Creation).md",
@@ -233,7 +249,6 @@
     "000 Atlas/002 Cities & Settlements/Port Nevarellon.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Play Test - The Unburied King.md",
     "100 Society/101 Factions & Guilds/The Cult of the Zenith.md",
-    "000 Atlas/001 Regions & Continents/The Twelgorn Kingdom.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/powder-punk-batch-1.diff",
     "300 Iron & Marrow Master rules/aa_Master rules/Playtest - Temple of the Lost God",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/sim_output_v5.txt",
