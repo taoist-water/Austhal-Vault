@@ -166,8 +166,7 @@ A telepathic bridge forms — offered, or forced.
 **Communion — willing minds.**
 - **Resolution:** Unopposed Arcana vs. TN 8
 - **Target/Range:** Self and up to [Wits] **willing** allies, each within **Short Range** at the moment of casting. **Once established the link persists at any distance** for as long as it is Sustained — the strain of holding it is the limit, not the geometry.
-- Margin 0–2 (Messy): The linked characters communicate telepathically, silently and without line of sight, for as long as the spell is Sustained. The caster takes 1 Dissonant Stress from the strain.
-- Margin 3-4 (Clean): As above, no cost. 
+- Margin 0–4: The linked characters communicate telepathically, silently and without line of sight, for as long as the spell is Sustained. The caster takes 1 Dissonant Stress from the strain.
 - Margin 5+ (Exceptional): As above, and linked allies may share their Momentum banks with one another while the link holds. No Stress cost.
 
 **Intrusion — an unwilling mind.**
@@ -847,12 +846,14 @@ The caster snaps their fingers, drastically superheating the ambient air around 
 The caster places their palm against a solid surface—stone, wood, or bone—and transmutates the molecular structure into brittle, highly pressurized glass.
 
 - **Level:** Adept
-- **Target/Range:** A 10x10 foot section of wall, floor, or door, touch
+- **Target/Range:** A **10 × 10 × 2 ft volume** of wall, floor or door — a 10 ft square face, 2 ft deep — touch
 - **Action Type:** Activation
 - **Duration:** Until shattered
 - **Resolution:** Unopposed Arcana vs. TN 10.
     
-- The Effect: This spell alters the physical geometry of the dungeon. It targets a 10x10 foot section of wall, floor, or a locked door. The material becomes fragile glass. Any physical hit (even a kick) instantly shatters it.
+- The Effect: This spell alters the physical geometry of the dungeon. The affected volume becomes **Glass** — **Wound Threshold 2, 1 Wound Slot**, per *Structural Damage and Destruction* (Iron Core). Because the glass is held under violent pressure, **any hit that lands at all shatters it outright, regardless of Impact** — even a kick. That override is what the spell is buying; the WT 2 / 1 Slot figure is there for anything that needs an actual number.
+    
+- **Depth matters.** Only the outer **2 ft** transmutates. A plank door, an interior stone wall or a portcullis grate is thinner than that and gives way entirely. **A fortification is not** — a curtain wall, a gate or a ship's hull is thicker than 2 ft by definition, so one casting glasses a 2 ft shell and leaves stone behind it. Breaching a fortification this way takes repeated castings, which is the point: Vitrify is a dungeon key, not a siege engine.
     
 - The Margin Scaler:
     

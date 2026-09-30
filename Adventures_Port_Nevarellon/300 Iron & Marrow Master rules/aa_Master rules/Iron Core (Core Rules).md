@@ -371,7 +371,7 @@ ________________________________________________________________________
     
 - *Grappled:*  can only take limited actions. Strike: does not break or control the grapple, unless the target becomes incapacitated, then participants loose the grappled condition. Grab: to take control of the Grapple, meaning to maintain grappling, or move the participants 5ft in a chosen direction. Shove: To break free of the Grapple. Cannot Block, Parry, Dodge. 
     
-- *Anchored* (The Movement Lock)
+- *Anchored*: (The Movement Lock)
 	- **The Mechanic:** The character’s movement speed is reduced to 0.
     
 	- **The Engine Interaction:** Because their feet are pinned, an Anchored character completely loses the ability to use the **Dodge** action in a Clash. They must rely on **Block** (shield), **Parry** (weapon), or **Brace** (taking the hit).
@@ -379,7 +379,7 @@ ________________________________________________________________________
 	- **Clearance:** Cleared when the effect ends, or by using the _Regroup_ action to physically tear free.
     
 
-- *Rigor* (The Articulation Lock) A severe stiffening of the joints, caused by nervous system shock, extreme cold, or necromancy.
+- *Rigor:* (The Articulation Lock) A severe stiffening of the joints, caused by nervous system shock, extreme cold, or necromancy.
 	- **The Mechanic:** The character's movement is halved.
     
 	- **The Engine Interaction:** Because they cannot fluidly articulate their wrists or shift their weight, a character suffering from Rigor completely loses the ability to use the **Parry** or **Dodge** actions. If attacked, they must use **Block** or **Brace**. Furthermore, any Attack action they attempt suffers **Disadvantage**.
@@ -387,7 +387,7 @@ ________________________________________________________________________
 	- **Clearance:** Fades automatically at the end of their next turn as the blood flow normalizes.
     
 
-- *Ablaze* (The Attrition Tax) Active, ongoing environmental destruction to the character's physical body or gear.
+- *Ablaze:* (The Attrition Tax) Active, ongoing environmental destruction to the character's physical body or gear.
 	- **The Mechanic:** At the absolute start of the character’s turn, before they can move or act, At the start of your turn, the agonizing heat causes you to suffer 2 Dissonant Stress before you can act.
     
 	- **The Engine Interaction:** It creates a brutal, ticking clock. A player cannot ignore it, or it will mathematically chew through their Stress Limit and push them into the Death Spiral without an enemy ever swinging a sword.
@@ -395,7 +395,7 @@ ________________________________________________________________________
 	- **Clearance:** The character _must_ spend their turn taking the _Regroup_ action (stopping, dropping, and rolling) to extinguish the flames.
     
 
-- *Drowned* (The Rising Tide) The lungs burn, the light above the surface gets smaller, and the pressure keeps mounting.
+- *Drowned:* (The Rising Tide) The lungs burn, the light above the surface gets smaller, and the pressure keeps mounting.
 	- **The Mechanic:** The character suffers Disadvantage on all rolls. At the start of their turn, before they can move or act, they suffer 1 Dissonant Stress as their body burns through the last of its air.
     
 	- **The Engine Interaction:** Slower and quieter than Ablaze's clock, but just as inescapable if ignored — it doesn't force a specific reset action, it just keeps draining until the character gets clear of the water or breaks whatever's holding them under.
@@ -403,7 +403,7 @@ ________________________________________________________________________
 	- **Clearance:** The character (or an adjacent ally spending an Action) may attempt an **Athletics check (TN 8)** to reach the surface and clear the condition. Automatically cleared if the character is physically removed from the water.
     
 
-- *Suppressed* (The Discipline Tax) _The relentless, disciplined pressure of coordinated fire makes anything but hunkering down feel like an invitation to disaster. _
+- *Suppressed:* (The Discipline Tax) _The relentless, disciplined pressure of coordinated fire makes anything but hunkering down feel like an invitation to disaster. _
 	- **The Mechanic:** While Suppressed, if the character takes any action other than Attack, Block, Brace, or Regroup, that action is made with Disadvantage, and the character immediately suffers 1 Dissonant Stress from breaking cover under pressure.
     
 	- **The Engine Interaction:** Suppressed doesn't stop a character from doing something risky — it makes doing anything except holding their ground and fighting back cost real Stress. It pushes the target toward committing to the exchange rather than repositioning or using utility actions.
