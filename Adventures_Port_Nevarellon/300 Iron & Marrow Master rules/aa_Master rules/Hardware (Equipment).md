@@ -213,8 +213,8 @@ Requires a bladed or bludgeoning weapon, sanctified by a Priest of any Domain (f
 
 **Cold Iron Weapon** (weapon add-on) — 25 sp | Scarce
 Requires a weapon. Forged from iron worked pure of the impurities that make ordinary steel — heavier, softer, and murder on anything that isn't wholly of this world.
-- **Effect:** Bane (Fey, Daemon). The wielder treats a Fey or Daemon target's Wound Threshold as 1 point lower.
-- *The one deliberate exception to "one Creature Type per Charmed item": cold iron's dual reach is a single, unified material property, not two separate wards bundled together, so it doesn't strain the logic that keeps Enchanted-tier breadth capped. Priced and gated below Silvered Edge and Blessed Edge for the same reason — no blessing, no silversmithing, just the metal itself, worked pure.*
+- **Effect:** Bane (Fey). The wielder treats a Fey target's Wound Threshold as 1 point lower.
+- *Cold iron answers what is not wholly of this world by birth rather than by corruption — the Fey and their kin alone. **No Fey stat block exists in the Bestiary yet**, so this add-on is currently aspirational: buy it for the campaign you expect, not the one in the book.*
 
 **Sun Iron** (weapon add-on) — 40 sp | Rare
 Requires a weapon. Iron quenched at first light for nine consecutive dawns, then worked while the metal still holds the warmth.
@@ -277,6 +277,7 @@ A worn river stone, unremarkable except for how naturally it sits in a closed fi
 **Glowless Lantern-Ring** — 45 sp | Rare | 0 Slots (Micro-Item, worn)
 A dull iron ring that seems to gather what little light is already there rather than making more of its own.
 - **Effect:** The wearer treats Dimly Lit conditions (Iron World's Illumination rules) as Well Lit for the purposes of their own attack rolls only — a personal edge against gloom, not a light source others can share. Has no effect in Pitch Black.
+- *Interaction with **Halgrim's Grave-Crown**: the Crown reads all light one band darker for its wearer and this ring reads Dimly Lit as Well Lit for attack rolls, so in a genuinely Well Lit room the ring does cancel the Crown's cost for attacking. It does **not** rescue a Dimly Lit one — the Crown makes that Pitch Black, where the ring has no effect at all. The Crown's drawback still bites everywhere a dungeon actually happens.*
 
 ### Enchanted (1 Locked Stress Attunement)
 
@@ -284,17 +285,19 @@ Attunement is capped separately from Inventory — a character cannot be Attuned
 
 #### Rare Tier
 
+*Every item in this tier is a **Momentum-gated active**, per the Enchantment tier table above — the Attunement's permanent Locked Stress buys a tool you can reach for as often as your Bank allows, not one free trigger a Scene. An effect that fires only once per Scene belongs at **Charmed**, where it costs no Attunement at all (compare Quiet Step Buckles against the Boots of the Silent Step below). Two items here are instead **permanently on** — Boots of the Long Road and the Signet of Sound Mind — which is the other shape this tier permits.*
+
 **Band of the Steady Hand** (ring) — 90 sp | Rare | 0 Slots (Micro-Item, worn)
 A plain iron ring, warm to the touch regardless of the weather.
-- **Effect:** Once per Scene, reroll a single failed Ranged attack roll. Keep the second result.
+- **Effect:** **Spend 1 Momentum** to reroll a single failed Ranged attack roll. Keep the second result. Repeatable as often as your Bank can pay for it.
 
 **Ring of the Anchor** — 85 sp | Rare | 0 Slots (Micro-Item, worn)
 A heavy-looking ring that is, in fact, quite light.
-- **Effect:** Once per Scene, when the wearer would be shoved out of position or knocked Prone, negate that effect entirely, as if the check that caused it had been passed.
+- **Effect:** **Spend 1 Momentum** when the wearer would be shoved out of position or knocked Prone to negate that effect entirely, as if the check that caused it had been passed. Repeatable as often as your Bank can pay for it.
 
 **Amulet of Even Breath** — 90 sp | Rare | 0 Slots (Micro-Item, worn)
 A small clay bead on a plain cord, said to hold one held breath, kept for later.
-- **Effect:** Once per Scene, immediately clear 1 Dissonant Stress upon taking a Wound. *(The item version of Ox's Blood Frenzy trait — a proven pressure-release valve against Stress-to-Wound conversion, made purchasable rather than species-born.)*
+- **Effect:** **Spend 1 Momentum** to immediately clear 1 Dissonant Stress upon taking a Wound. Repeatable as often as your Bank can pay for it. *(The item version of Ox's Blood Frenzy trait — a proven pressure-release valve against Stress-to-Wound conversion, made purchasable rather than species-born.)*
 
 **Boots of the Long Road** — 80 sp | Rare | 0 Slots (worn, per Clothing/Worn Armor Exemption)
 Well-worn leather boots that never seem to blister the feet inside them.
@@ -302,7 +305,7 @@ Well-worn leather boots that never seem to blister the feet inside them.
 
 **Boots of the Silent Step** — 85 sp | Rare | 0 Slots (worn, per Clothing/Worn Armor Exemption)
 Soft-soled boots that drink footfalls the way Cloak of Still Water drinks ambient noise.
-- **Effect:** Once per Scene, ignore Rushed Stealth's Disadvantage (Iron World) for the rest of the current Scene, rather than a single Move — the Enchanted-tier step up from Quiet Step Buckles.
+- **Effect:** **Spend 1 Momentum** to ignore Rushed Stealth's Disadvantage (Iron World) for the rest of the current Scene — the Enchanted-tier step up from Quiet Step Buckles, which buys a single Move once per Scene and costs no Momentum or Attunement at all.
 
 **Signet of Sound Mind** — 95 sp | Rare | 0 Slots (Micro-Item, worn)
 A plain signet ring, its seal worn smooth and unreadable.
@@ -395,9 +398,9 @@ _______________________________________________________________________
 |Sickle|0|1H|5 ft Threat|Trip|6 sp|Common|
 |Hand Axe|2|1H|5 ft Threat / 30 ft Thrown|Brutal, Thrown, Sidearm|8 sp|Common|
 |Battleaxe|2|1H|5 ft Threat|Brutal, Inertia|12 sp|Common|
-|Light Pick|2|1H|5 ft Threat|Inertia, Precise|8 sp|Common|
-|Heavy Pick|3|1H|5 ft Threat|Inertia, Precise|16 sp|Scarce|
-|Greataxe|5|2H|5 ft Threat|Inertia, Cumbersome|40 sp|Scarce|
+|Light Pick|2|1H|5 ft Threat|Inertia, Precise|13 sp|Common|
+|Heavy Pick|3|1H|5 ft Threat|Inertia, Precise|26 sp|Scarce|
+|Greataxe|5|2H|5 ft Threat|Heavy Hitter, Cumbersome|40 sp|Scarce|
 
 ## Bludgeons
 
@@ -428,7 +431,7 @@ _______________________________________________________________________
 |Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
 |---|---|---|---|---|---|---|
 |Whip|0|1H|10 ft Threat|Reach, Disarm, Trip, non-Lethal|5 sp|Scarce|
-|Nunchaku|0|1H|5 ft Threat|Disarm, Concealable|6 sp|Scarce|
+|Nunchaku|0|1H|5 ft Threat|Disarm, Concealable, Bash|6 sp|Scarce|
 |Flail|2|1H|5 ft Threat|Disarm, Trip|16 sp|Scarce|
 |Spiked Chain|2|2H|10 ft Threat|Reach, Disarm, Trip, finesse|25 sp|Scarce|
 |Heavy Flail|3|2H|5 ft Threat|Disarm, Trip, Precise|35 sp|Scarce|
@@ -469,6 +472,8 @@ _______________________________________________________________________
 
 *The Arcane focus ladder runs Grimoire → Wand → Mage Staff → **Vitrified Wand** (Enchanted, above), mirroring the Faith side's Holy Symbol → Holy Symbol, Silver → Reliquary Symbol. The **Grimoire is not optional** — it is the Repository, and no other focus holds your spells (see The Casting Requirements, Embracing the Abyss). Everything above it buys freedom from *holding* it, or Reach, or a bonus. A flat bonus to Arcana Clash rolls exists only at the Enchanted tier, at parity with the Reliquary Symbol's +1 to the Tithe of Will.*
 
+*[DESIGN NOTE] Pricing a new weapon.* The melee list above was priced by hand and is not perfectly regular. These are the bands it settles around, written down so the next weapon added to it does not drift. **Base cost, two-handed, one tag:** Power 0 ≈ 4 sp · Power 2 ≈ 8 sp · Power 3 ≈ 18 sp · Power 5 ≈ 40 sp. **Add roughly 4 sp per tag beyond the first.** **Add roughly 50% for one-handed at Power 2 or above** — a free hand is a shield, and Shield Value subtracts from Impact *before* it reaches the Wound Threshold, so one-handedness is worth real coin and this list previously charged nothing at all for it. Power 0 is exempt: those are tools and sidearms, and the `Sidearm` and Twin-Blade rules already govern them. **Existing prices are not retrofitted to this** — deviations are fine where a tag runs unusually strong or weak for its tier, but they should be deliberate rather than accidental.
+
 ## Weapon Tags
 
 - **Bound:** enables an Arcane caster to cast spells without needing their Grimoire in hand. but it must be on their person. Cast as if the Grimoire is held in one hand.
@@ -490,12 +495,12 @@ _______________________________________________________________________
 - **Finesse:** When making or defending a Clash with this weapon, you may reroll one die that landed on a natural 1. The new result stands, even if it is another 1. If *both* dice landed on 1, that is Snake Eyes and cannot be rerolled — no amount of technique saves a catastrophe. A rerolled 6 triggers Desperate Edge normally.
 - **Focus:** Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the item, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.
 - **Grounding Rod:** grants Advantage on Arcane **Sustain** checks. The staff carries the working's excess charge so the caster's mind doesn't have to.
-- **Heavy Hitter:** When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7.
+- **Heavy Hitter:** When wielding these weapons, the character does not benefit from "fates bounty". Instead, any natural 6 is treated as a 7. **This substitution replaces every benefit a natural 6 would otherwise grant, including Desperate Edge's exploding die** — a 6 read as a 7 is no longer a 6, so it cannot also explode. The trade is a small certain bonus on roughly one roll in three (30.6% of 2d6 show at least one 6) in place of a rare large one.
 - **Heavy Reload:** After firing, reloading consumes the wielder's entire Activation — no movement, no Action, no Free Action. (The Heavy Arbalest's windlass; a muzzle-loader's ramrod.)
 - **Inertia:** If you win the Clash roll by a Margin of 5+, add +2 Power to the Final Impact.
 - **non-Lethal:** strikes with this weapon can only cause Stress regardless of the Impact result, and will never spill over into Wounds. Against a target whose Stress Limit is already full, the blow inflicts no Stress either — it renders them **Unconscious** instead (Iron Core). A `non-Lethal` weapon cannot inflict a Wound, land a Coup de Grâce, or kill, at any Impact.
 - **Precise:** Ignores 1 Point of armour
-- **Reach:** Threatens a 10-foot radius (2 grid squares). 
+- **Reach:** Threatens a 10-foot radius (2 grid squares). Forces an opponent with shorter 5-foot weapons to succeed on an opposed Dodge roll to move into their reach. failure stops them at the 10-foot radius.
 - **Reload:** After firing, requires an Action to load the next shot.
 - **Scatter:** Strikes every creature in the weapon's area — a 15 ft cone from the wielder unless the item says otherwise — ally or enemy alike. Make one attack roll; each creature in the area makes its own Reactor roll against it, and Impact is resolved per creature. No Disadvantage at Point-Blank, and the Firing Into Combat rule (Iron World) doesn't apply — allies in the area are simply targets. Counts as an area attack for Swarm and Amorphous. Inertia never applies to a Scatter attack.
 - **Sidearm:** A weapon short and light enough to be brought to bear in a heartbeat, or in a doorway. One property with three consequences: **(1)** it can be **drawn as a Free Action** without penalty; **(2)** it ignores the Disadvantage the **Point-Blank** band imposes (Metal meet Flesh — Ranges); **(3)** it is the qualifying off-hand weapon for the **Twin-Blade Stance**, granting Clash Advantage and Off-Hand Parry (Metal meet Flesh). An **Arcane Focus** carrying this tag gains (1) and (2) — a caster can channel through it nose-to-nose — but never (3): a Focus has no Power to lend an Off-Hand Parry.
@@ -584,6 +589,8 @@ ________________________________________________________________________
 |Buckler|2 SV|Shield|Nimble|8 sp|Common|
 |Kite / Round Shield|4 SV|Shield|Cover|18 sp|Common|
 |Tower Shield|5 SV|Shield|Bulwark, Obstructive|40 sp|Scarce|
+
+> **Chain Shirt or Chainmail?** Both grant +2 Armour, and the Shirt is 5 sp dearer for avoiding `Bulky`. But Chainmail is **Medium**, and the reinforced pauldrons below require a Medium or Heavy base for their flat **+1 Wound Threshold** — which the Light Chain Shirt can never take. The Shirt is the quieter, more agile suit; Chainmail is the cheaper route to +3 effective armour, paid for with −1 Athletics, Stealth and Arcana and −1 Activation Order. **Neither dominates the other.**
 
 > **Availability at character creation.** A starting character outfits from a Town — Scarce tier or lower (see *The Starting Purse*, The Marrow, and Settlement Tiers, Soothing the Soul). Breastplate and Plate Armor are Rare, sourced from a City or better, and are not available at Green at any price. They are acquired in play.
 
@@ -678,8 +685,7 @@ ______________________________________________________________________
 | Rope, silk (50 ft.)                                 | 1        | 15 sp         | Scarce       | As above; Advantage on Thievery checks using it (silent bindings, garrotes).                                                                                                                               |
 | Sack (empty)                                        | 0        | 1 sp          | Common       | Soft/collapsible — 0 Slots until it's holding something with its own Slot cost.                                                                                                                            |
 | Sewing needle / Signal whistle / Signet ring / Soap | 0        | 1–5 sp        | Common       | —                                                                                                                                                                                                          |
-| Shovel or spade                                     | 1        | 2 sp          | Common       | —                                                                                                                                                                                                          |
-| Spyglass                                            | 1        | 90 sp         | Rare         | Advantage on Notice checks made at Long or Extreme Range.                                                                                                                                                  |
+| Spyglass                                            | 1        | 30 sp         | Scarce       | Advantage on Notice checks made at Long or Extreme Range — requires both hands and a Full Action spent observing. **It also resolves detail the naked eye cannot get at any distance**: counting a patrol, reading a banner, recognising a face. No lens does that. |
 | Tent                                                | 2        | 8 sp          | Common       | —                                                                                                                                                                                                          |
 | Water clock                                         | —        | —             | Legendary    | A city fixture, not a carried item. Not normally purchasable by PCs.                                                                                                                                       |
 | Waterskin                                           | 0        | 1 sp          | Common       | —                                                                                                                                                                                                          |
@@ -734,8 +740,8 @@ Alchemical supplies are highly volatile, unstable, and often act as a mechanical
 | Marrow-Glass Ampoule | 40 sp | Rare    | 1/3   | The Crash: At the end of the combat encounter, the user immediately suffers 1 Minor physical Wound from the violent chemical shock to their heart. Instant Override: Can be injected mid-combat as a Free Reaction. Converts all currently **clearable** Locked Stress back into standard Dissonant Stress. **Attunement Locked Stress is untouched.**           |
 | Surgical Spirits     | 10 sp | Common  | 1/3   | Tremors: The user permanently suffers Disadvantage on any Thievery or Arcana rolls requiring fine motor skills until they return to a town(long rest/pursuit) to fully detox. Taken during a Breather. Numbness allows the user to clear 2 Locked Stress.                                               |
 | Antitoxin (vial)     | 20 sp | Scarce  | 0     | Drunk as a Free Action before a Poison check. Grants Advantage on the next Athletics check made to resist the Poisoned condition this scene.                                                                                                                                                            |
-| Everburning Torch    | 40 sp | Rare    | 1     | Permanent arcane light source. Never consumes a Supply Die step. Same radius as a standard torch (Iron World's Illumination rules: 20 ft Well Lit / 10 ft Dimly Lit).                                                                                                                                                        |
-| Sunrod               | 5 sp  | Common  | 0     | Arcane light source, never consumes a Supply Die step, but burns out at scene's end. Well Lit 30 ft / Dimly Lit 15 ft beyond (Iron World's Illumination rules) — brighter than a standard torch, but temporary.                                                                                                                                                                     |
+| Everburning Torch    | 40 sp | Rare    | 0     | Permanent arcane light source and a Micro-Item — it never burns down and never occupies a Slot. Never consumes a Supply Die step. Well Lit 30 ft / Dimly Lit 15 ft beyond (Iron World's Illumination rules). |
+| Sunrod               | 5 sp  | Scarce  | 1/3   | Arcane light source, never consumes a Supply Die step, but burns out at scene's end. Well Lit 30 ft / Dimly Lit 15 ft beyond (Iron World's Illumination rules) — the same light an Everburning Torch gives, bought one scene at a time. |
 | Holy Water (flask)   | 15 sp | Scarce  | 0     | Thrown as a Ranged (Short) attack; only affects targets with the Undead or Void-Touched tag. On a hit, inflicts **1 Direct Wound** (GM Tools, *The Lethal Bypass*) — no Wound Threshold comparison at all. The Creature Type restriction is its gate.                                                                                                                                                                   |
 | Smokestick           | 15 sp | Scarce  | 0     | Snapped as a Move Action. Creates a 5 ft. radius of Heavily Obscured terrain for 1 round (per the Environmental cover rules in _Iron World_).                                                                                                                                                           |
 | Tanglefoot Bag       | 20 sp | Scarce  | 0     | Thrown (Short Range). On a hit, the target is Anchored until they spend a full Aggressor action tearing free — mechanically identical to the Entangle spell's Margin 1–2 result.                                                                                                                        |
