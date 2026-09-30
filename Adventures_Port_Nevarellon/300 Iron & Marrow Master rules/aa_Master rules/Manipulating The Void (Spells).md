@@ -14,7 +14,7 @@ Minor feats of elemental control — lighting a candle, cooling a drink, kicking
 
 **The Margin Scaler:**
 - Margin 0–4: A single harmless elemental effect occurs, granting Advantage on one relevant skill check this scene.
-- Margin 5+ (Exceptional): The effect sustains itself for the rest of the scene without further concentration.
+- Margin 5+ (Massive): The effect sustains itself for the rest of the scene without further concentration.
 
 ## Novice
 
@@ -30,7 +30,7 @@ The air around the target thickens into a dull, shimmering haze, dampening the r
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The ward holds, but the caster takes 1 Dissonant Stress from the backlash.
 - Margin 3–4 (Clean): The ward holds. Hostile spells targeting the protected character suffer Disadvantage on their casting roll.
-- Margin 5+ (Exceptional): As Clean, and the ward gains SV 2 against the next hostile spell's Impact.
+- Margin 5+ (Massive): As Clean, and the ward gains SV 2 against the next hostile spell's Impact.
 
 **Special Interactions:** As a Reactor action against an incoming hostile spell, the protected character may Block using Arcana instead of their normal Reactor stat.
 
@@ -92,7 +92,7 @@ The caster's eyes take on a predatory sheen, piercing the deepest gloom.
 **The Margin Scaler:**
 - Margin 0–2 (Messy): Recipient ignores penalties for Dim or Dark illumination, but suffers 1 Dissonant Stress as their eyes adjust violently.
 - Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): The recipient can also detect invisible entities and active spell effects within 30 feet.
+- Margin 5+ (Massive): The recipient can also detect invisible entities and active spell effects within 30 feet.
 
 ---
 
@@ -122,7 +122,7 @@ A thin membrane of energy stabilizes the air and temperature around the recipien
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The recipient ignores Stress and penalties from extreme environmental hazards (per the Iron World Hazard Check rules) for the scene, but the caster takes 1 Dissonant Stress raising it.
 - Margin 3–4 (Clean): As above, no cost. The recipient's Wound Threshold is also treated as +2 higher specifically against environmental Direct Wounds (lava, freezing water, acid).
-- Margin 5+ (Exceptional): The Wound Threshold bonus increases to +4.
+- Margin 5+ (Massive): The Wound Threshold bonus increases to +4.
 
 ---
 
@@ -152,7 +152,7 @@ Light and sound are woven into a convincing facade.
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The illusion forms, but the caster takes 1 Dissonant Stress from holding the image steady. 
 - Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): The illusion is "True" — it includes scent and resists touch — and cannot be seen through except by physically disrupting it.
+- Margin 5+ (Massive): The illusion is "True" — it includes scent and resists touch — and cannot be seen through except by physically disrupting it.
 
 ---
 
@@ -167,7 +167,7 @@ A telepathic bridge forms — offered, or forced.
 - **Resolution:** Unopposed Arcana vs. TN 8
 - **Target/Range:** Self and up to [Wits] **willing** allies, each within **Short Range** at the moment of casting. **Once established the link persists at any distance** for as long as it is Sustained — the strain of holding it is the limit, not the geometry.
 - Margin 0–4: The linked characters communicate telepathically, silently and without line of sight, for as long as the spell is Sustained. The caster takes 1 Dissonant Stress from the strain.
-- Margin 5+ (Exceptional): As above, and linked allies may share their Momentum banks with one another while the link holds. No Stress cost.
+- Margin 5+ (Massive): As above, and linked allies may share their Momentum banks with one another while the link holds. No Stress cost.
 
 **Intrusion — an unwilling mind.**
 - **Resolution:** Arcane Clash, Arcana vs. Target's **Resolve**
@@ -189,7 +189,7 @@ The caster imbues a weapon with crackling energy or holy light.
 **The Margin Scaler:**
 - Margin 0–2 (Messy): Weapon's Power increases by +1; the wielder takes 1 Dissonant Stress from the rough working.
 - Margin 3–4 (Clean): Weapon's Power increases by +2.
-- Margin 5+ (Exceptional): As Clean, and the weapon gains the Precise tag for the scene (per Hardware: ignores 1 point of Armor).
+- Margin 5+ (Massive): As Clean, and the weapon gains the Precise tag for the scene (per Hardware: ignores 1 point of Armor).
 
 ---
 
@@ -205,7 +205,7 @@ The caster either ignites a beacon of radiance or conjures a void that swallows 
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The chosen effect (Light or Darkness) manifests at half radius.
 - Margin 3–4 (Clean): Full 10ft radius. If Darkness, creatures inside suffer Disadvantage on Notice and Attack rolls unless they have Darksight.
-- Margin 5+ (Exceptional): Radius doubles to 20ft.
+- Margin 5+ (Massive): Radius doubles to 20ft.
 
 ## Adept
 
@@ -236,7 +236,7 @@ The caster conjures a physical or energetic wall to block passage and protect al
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The barrier forms (Full Cover, Wound Threshold 8, 3 Wound Slots before it collapses), but the caster takes 1 Dissonant Stress from the strain.
 - Margin 3–4 (Clean): The barrier forms exactly as described.
-- Margin 5+ (Exceptional): The barrier's Wound Threshold increases to 10.
+- Margin 5+ (Massive): The barrier's Wound Threshold increases to 10.
 
 ---
 
@@ -252,7 +252,7 @@ Energy lashes out from the caster's skin, punishing any who approach or strike t
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The field holds; any character ending their turn adjacent to the caster, or hitting them in melee, suffers 1 Impact. The caster also takes 1 Dissonant Stress from the initial surge.
 - Margin 3–4 (Clean): As above, no self-cost.
-- Margin 5+ (Exceptional): Impact increases to 2.
+- Margin 5+ (Massive): Impact increases to 2.
 
 ---
 
@@ -282,7 +282,7 @@ The caster's vision stretches across the horizon with impossible clarity.
 **The Margin Scaler:**
 - Margin 0–2 (Messy): Recipient ignores Range penalties on ranged attacks and gains Advantage on sight-based Notice checks, but takes 1 Dissonant Stress from the strain of the working.
 - Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): The recipient can also see through up to 5 feet of solid, non-magical material.
+- Margin 5+ (Massive): The recipient can also see through up to 5 feet of solid, non-magical material.
 
 ---
 
@@ -298,7 +298,7 @@ Echoes of ancient battles flow into the recipient, granting mastery they have no
 **The Margin Scaler:**
 - Margin 0–2 (Messy): Recipient gains one Martial weapon tag they don't already have (e.g., Cleave, Sunder, Brutal); they take 1 Dissonant Stress as the borrowed memory settles violently.
 - Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): Recipient gains two tags instead of one.
+- Margin 5+ (Massive): Recipient gains two tags instead of one.
 
 ## Master
 
@@ -314,7 +314,7 @@ The caster enters a trance, seeking answers from the echoes of the world.
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The GM provides a cryptic but useful vision; the caster takes 1 Dissonant Stress from the mental strain.
 - Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): The vision is lucid. The caster gains Advantage on the next Notice or Investigation check related to it, for the rest of the scene.
+- Margin 5+ (Massive): The vision is lucid. The caster gains Advantage on the next Notice or Investigation check related to it, for the rest of the scene.
 
 **___________________________________________________________________**
 # Arcane Magic Paradigms
@@ -341,7 +341,7 @@ The Necromancer targets a fresh corpse or a severely wounded enemy, inhaling the
     
 - Margin 3–4 (Clean): The caster cleanly clears 2 Dissonant Stress. The target corpse is reduced to ash.
     
-- Margin 5+ (Exceptional): The surge of vitality is overwhelming. The caster clears all Dissonant Stress and generates 1 Momentum.
+- Margin 5+ (Massive): The surge of vitality is overwhelming. The caster clears all Dissonant Stress and generates 1 Momentum.
     
 
 **Rigor Mortis** (Combat Control)
@@ -380,7 +380,7 @@ The caster forces their own bones, or the bones of an ally, to painfully extrude
     
 - Margin 3–4 (Clean): The bone armor forms flawlessly.
     
-- Margin 5+ (Exceptional): The bone spikes are violently sharp. Any enemy who attacks the target and fails the Clash via a Block or Parry immediately suffers 1 Impact from striking the jagged bone.
+- Margin 5+ (Massive): The bone spikes are violently sharp. Any enemy who attacks the target and fails the Clash via a Block or Parry immediately suffers 1 Impact from striking the jagged bone.
 
 ### Adept
 
@@ -397,7 +397,7 @@ The Necromancer uses a dead body on the battlefield as a bomb, rapidly accelerat
 - The Margin Scaler:
   - Margin 0–2 (Messy): The explosion is delayed or unpredictable. The GM shifts the center of the blast 5 feet in a random direction before calculating who is hit.
   - Margin 3–4 (Clean): The corpse detonates perfectly as planned.
-  - Margin 5+ (Exceptional): The blast area becomes difficult terrain for the remainder of the Scene.
+  - Margin 5+ (Massive): The blast area becomes difficult terrain for the remainder of the Scene.
     
 
 **Puppet Strings** (Combat / Partial Puppetry)
@@ -439,7 +439,7 @@ Dark energy reanimates the dead, forcing cold flesh to serve the living.
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The corpse rises as an NPC Undead under the caster's control for the scene (Wound Threshold 6, no Stress Limit); the working costs the caster 1 Dissonant Stress.
 - Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): The caster may Lock 5 Stress instead of letting the spell end — doing so makes the servant permanent until destroyed or released.
+- Margin 5+ (Massive): The caster may Lock 5 Stress instead of letting the spell end — doing so makes the servant permanent until destroyed or released.
 *Last Rites - Denies the effect of this spell.*
 
 **Puppet**
@@ -472,7 +472,7 @@ Invisible currents of air or shifting shadows cause incoming attacks to veer off
 **The Margin Scaler:**
 - Margin 0–2 (Messy): Attacks targeting the protected character suffer a -2 penalty to their Clash; caster takes 1 Dissonant Stress raising it.
 - Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): Penalty becomes Disadvantage instead of -2.
+- Margin 5+ (Massive): Penalty becomes Disadvantage instead of -2.
 
 **Special Interactions:** While this ward is actively sustained, the protected character may, as a Reactor action against an incoming Strike, substitute a `2d6 + Arcana` roll for their normal Reactor roll (win: no Impact; lose: full Impact, no mitigation) — in addition to the passive Clash penalty above, which still applies to the attacker's roll. This substitution requires the ward to already be sustained; it cannot be cast fresh as a reaction to an unforeseen Strike. The Reactor-substitution option is only available if the ward was raised at Clean or Exceptional quality — a Messy-tier ward grants the passive penalty only.
 
@@ -512,7 +512,7 @@ The caster dissolves into a nearby shadow, losing physical cohesion, and instant
     
 - Margin 3–4 (Clean): The teleport is flawless and silent.
     
-- Margin 5+ (Exceptional): The caster steps out of the shadow in perfect ambush position. They instantly generate 1 Momentum, or they gain Advantage on their next Strike roll against an adjacent enemy.
+- Margin 5+ (Massive): The caster steps out of the shadow in perfect ambush position. They instantly generate 1 Momentum, or they gain Advantage on their next Strike roll against an adjacent enemy.
 
 ### Adept
 
@@ -528,7 +528,7 @@ Magical energy warps the caster's features and voice to match another.
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The disguise holds; caster takes 1 Dissonant Stress from maintaining the false face under scrutiny.
 - Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): The veil extends to up to three allies within Short Range.
+- Margin 5+ (Massive): The veil extends to up to three allies within Short Range.
 
 **Invisibility**
 The target fades from view, replaced by the colors and textures of whatever lies behind them.
@@ -542,7 +542,7 @@ The target fades from view, replaced by the colors and textures of whatever lies
 **The Margin Scaler:**
 - Margin 0–2 (Messy): Target is invisible; attackers suffer Disadvantage targeting them, and they gain Advantage on Stealth. The spell drops the instant they attack or cast a spell. Caster takes 1 Dissonant Stress from the unraveling effort.
 - Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): The target remains invisible even after attacking — attacking only reveals their general position, removing Disadvantage from attackers for 1 round rather than dropping the spell outright.
+- Margin 5+ (Massive): The target remains invisible even after attacking — attacking only reveals their general position, removing Disadvantage from attackers for 1 round rather than dropping the spell outright.
 
 **Creeping Dusk** (Environmental Control)
 The sorcerer exhales a cloud of unnatural, pitch-black soot that instantly smothers ambient light and chokes the room in magical darkness.
@@ -561,7 +561,7 @@ The sorcerer exhales a cloud of unnatural, pitch-black soot that instantly smoth
     
 - Margin 3–4 (Clean): The localized zone forms perfectly as intended.
     
-- Margin 5+ (Exceptional): The shadows become actively hostile. Any enemy that starts its turn inside the zone must pass a TN 8 Resolve check or immediately suffer 1 Dissonant Stress from hallucinatory whispers.
+- Margin 5+ (Massive): The shadows become actively hostile. Any enemy that starts its turn inside the zone must pass a TN 8 Resolve check or immediately suffer 1 Dissonant Stress from hallucinatory whispers.
     
 
 **Blade of Paranoia** (Combat / Psychological)
@@ -646,7 +646,7 @@ The caster's own finger bones tear free of the flesh, reforming into three curve
 - The Margin Scaler:
   - Margin 0–2 (Messy): The bones tear through fast and jagged. The claws form, but the caster takes 1 Dissonant Stress from the shock of it.
   - Margin 3–4 (Clean): The claws emerge clean and painless.
-  - Margin 5+ (Exceptional): The grip is perfect. For the rest of the encounter, the caster has Advantage on any Climb or Grapple check made with the claws extended.
+  - Margin 5+ (Massive): The grip is perfect. For the rest of the encounter, the caster has Advantage on any Climb or Grapple check made with the claws extended.
 
 ### Adept
 
@@ -682,7 +682,7 @@ The caster drives a carved, bone-and-wood fetish into the earth, bleeding onto i
     
 - Margin 3–4 (Clean): The totem takes root perfectly. It remains active until destroyed (it has 1 Wound Slot).
     
-- Margin 5+ (Exceptional): The spirit is completely subjugated. Enemies entering the radius must treat it as difficult terrain, while allies move through it freely.
+- Margin 5+ (Massive): The spirit is completely subjugated. Enemies entering the radius must treat it as difficult terrain, while allies move through it freely.
     
 
 **Ancestral Mantle** (Utility / Buff)
@@ -702,7 +702,7 @@ The Shaman inhales the ashes or bone dust of a long-dead warrior, allowing a fer
     
 - Margin 3–4 (Clean): The mantle settles perfectly onto the target.
     
-- Margin 5+ (Exceptional): The spirit is bloodthirsty. The target immediately generates 1 Momentum the moment the spell is cast.
+- Margin 5+ (Massive): The spirit is bloodthirsty. The target immediately generates 1 Momentum the moment the spell is cast.
     
 
 ### Master
@@ -719,7 +719,7 @@ The escalation of Bone Claws: instead of just claws, the caster's whole body com
 - The Margin Scaler:
   - Margin 0–2 (Messy): The change takes hold, but instinct overrides higher reasoning — the caster suffers Disadvantage on any Faith or social-based check for the scene, and takes 1 Dissonant Stress from the transformation's violence.
   - Margin 3–4 (Clean): The transformation settles fully under the caster's control. No cost, no penalty.
-  - Margin 5+ (Exceptional): Weapon Power increases to 4, and the caster is immune to Fear or Intimidation effects for the scene — an apex predator doesn't flinch.
+  - Margin 5+ (Massive): Weapon Power increases to 4, and the caster is immune to Fear or Intimidation effects for the scene — an apex predator doesn't flinch.
 
 _______________________________________________________________
 
@@ -755,7 +755,7 @@ The caster or a chosen ally melts into the earth, moving through soil and stone 
 **The Margin Scaler:**
 - Margin 0–2 (Messy): Target gains Earth Glide (move through earth at normal Move) and Total Cover from surface attacks while burrowed, but cannot see the surface; the working leaves them disoriented for 1 Dissonant Stress.
 - Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Exceptional): Emerging to attack grants Advantage on the first Strike roll of that turn.
+- Margin 5+ (Massive): Emerging to attack grants Advantage on the first Strike roll of that turn.
 
 **Reactive Bulwark** (Utility / Environmental Transmutation)
 The caster doesn't conjure a wall from nothing — they reach into the nearest slab of earth or stone and wrench a piece of it upward, sideways, or loose, just fast enough to catch a blow.
@@ -820,7 +820,7 @@ The caster forces a localized, agonizing biological reaction—either in themsel
     
 - Margin 3–4 (Clean): The flesh warps and stabilizes flawlessly.
     
-- Margin 5+ (Exceptional): The target's metabolism goes into overdrive. They immediately heal 1 Wound Slot (Triage effect) as their cells rapidly multiply, in addition to receiving the buff.
+- Margin 5+ (Massive): The target's metabolism goes into overdrive. They immediately heal 1 Wound Slot (Triage effect) as their cells rapidly multiply, in addition to receiving the buff.
     
 
 **Solder Joints** (Crowd Control / Transmutation)
@@ -862,7 +862,7 @@ The caster places their palm against a solid surface—stone, wood, or bone—an
     
 - Margin 3–4 (Clean): The surface turns to glass, waiting to be shattered safely.
     
-- Margin 5+ (Exceptional): The caster controls the tension of the glass. When it shatters, it leaves behind a floor of razor-sharp caltrops, turning that 10x10 zone into a hazard that deals 1 Impact to any enemy that moves through it.
+- Margin 5+ (Massive): The caster controls the tension of the glass. When it shatters, it leaves behind a floor of razor-sharp caltrops, turning that 10x10 zone into a hazard that deals 1 Impact to any enemy that moves through it.
 
 ### Master
 
@@ -878,7 +878,7 @@ The caster does not merely enhance the body, but reshapes it to whatever configu
 - The Margin Scaler:
   - Margin 0–2 (Messy): The transformation holds, but the body wasn't built to sustain this configuration — the target takes 1 Dissonant Stress now, and again when the spell ends as their body violently reverts.
   - Margin 3–4 (Clean): Stable for the duration; the reversion at scene's end is merely uncomfortable, no further cost.
-  - Margin 5+ (Exceptional): The new configuration is so well-optimized that reverting is instant and painless — no Dissonant Stress at all, even on ending.
+  - Margin 5+ (Massive): The new configuration is so well-optimized that reverting is instant and painless — no Dissonant Stress at all, even on ending.
 
 **The Long Rust** (Combat / Total Gear Failure)
 Where Caustic Deluge hits one piece of gear and Solder Joints fuses one weapon, this hits everything the target is wearing or wielding at once.
@@ -997,7 +997,7 @@ The caster whispers a truth from the outer dark, creating a localized field wher
     
 - Margin 3–4 (Clean): The zone forms and holds until the end of the encounter or until the caster moves.
     
-- Margin 5+ (Exceptional): The despair is weaponized. Any enemy possessing the Fodder tier that begins its turn in the zone instantly surrenders or collapses, their Stress track functionally broken.
+- Margin 5+ (Massive): The despair is weaponized. Any enemy possessing the Fodder tier that begins its turn in the zone instantly surrenders or collapses, their Stress track functionally broken.
     
 
 **The Marrow Bargain** (Utility / Sacrificial Engine)
@@ -1017,7 +1017,7 @@ The caster offers their own physical substance to the entities in the void in ex
     
 - Margin 3–4 (Clean): The caster suffers the Wound, and the target ally's next Strike roll automatically counts as rolling a Natural 12 (triggering the exploding dice mechanic and a massive Margin), without having to roll.
     
-- Margin 5+ (Exceptional): The void is satiated by the blood. The caster suffers the Wound, but the entire party immediately clears all Dissonant Stress.
+- Margin 5+ (Massive): The void is satiated by the blood. The caster suffers the Wound, but the entire party immediately clears all Dissonant Stress.
     
 
 _____________________________________________________________
@@ -1068,7 +1068,7 @@ The Witch ties a knot of twine, hair, and a sliver of bone into a bracelet or am
 - The Margin Scaler:
   - Margin 0–2 (Messy): The ward binds, but loosely — it still triggers correctly, but the caster suffers 1 Dissonant Stress tying the curse.
   - Margin 3–4 (Clean): The knot ties cleanly, no cost.
-  - Margin 5+ (Exceptional): The knot is bound deep enough to survive one triggering — it can curse an attacker this way twice before finally unraveling.
+  - Margin 5+ (Massive): The knot is bound deep enough to survive one triggering — it can curse an attacker this way twice before finally unraveling.
 
 ### Adept
 
@@ -1090,7 +1090,7 @@ The Witch rapidly binds a handful of straw, twine, and a drop of an ally's blood
     
 - Margin 3–4 (Clean): The poppet perfectly absorbs the Wound and turns to ash.
     
-- Margin 5+ (Exceptional): The curse reflects the harm. The poppet absorbs the Wound, and the enemy who delivered the blow instantly suffers 1 Impact as their own flesh mysteriously tears open.
+- Margin 5+ (Massive): The curse reflects the harm. The poppet absorbs the Wound, and the enemy who delivered the blow instantly suffers 1 Impact as their own flesh mysteriously tears open.
     
 
 **Choking Bramble** (Environmental / Retaliation)
@@ -1111,7 +1111,7 @@ The caster scatters a handful of dead seeds that instantly erupt into a writhing
     
 - Margin 3–4 (Clean): The briars recognize the caster’s allies. Allies move freely, but enemies who declare a Strike from within the zone automatically suffer 1 Impact before their attack resolves.
     
-- Margin 5+ (Exceptional): The thorns are venomous. In addition to the 1 Impact, any Fodder-tier enemy taking damage from the briars instantly loses their flanking Bonus for the remainder of the round as the pain breaks their coordination.
+- Margin 5+ (Massive): The thorns are venomous. In addition to the 1 Impact, any Fodder-tier enemy taking damage from the briars instantly loses their flanking Bonus for the remainder of the round as the pain breaks their coordination.
     
 
 **The Creeping Ague** (Crowd Control / Biological)
@@ -1177,7 +1177,7 @@ The caster inverts the pull between themselves and a target for an instant, haul
 - The Margin Scaler:
   - Margin 0–2 (Messy): The pull works, but the transit is rough. The caster takes 1 Dissonant Stress from the recoil.
   - Margin 3–4 (Clean): The pull is smooth and controlled, no cost.
-  - Margin 5+ (Exceptional): The target arrives with enough momentum to immediately make a free Aggressor Strike if they land adjacent to an enemy.
+  - Margin 5+ (Massive): The target arrives with enough momentum to immediately make a free Aggressor Strike if they land adjacent to an enemy.
 
 **Leaden Grasp** (Crowd Control / Weight Manipulation)
 The caster doubles the local gravity around a single target, turning their own weight into a trap.
@@ -1211,7 +1211,7 @@ The caster compresses a sphere of localized space into a marble-sized singularit
     
 - Margin 3–4 (Clean): The gravity well stabilizes perfectly.
     
-- Margin 5+ (Exceptional): The pressure is absolute. Any Elite or Construct caught in the exact center of the zone instantly has their armor violently warped, immediately gaining the Damaged tag to their gear.
+- Margin 5+ (Massive): The pressure is absolute. Any Elite or Construct caught in the exact center of the zone instantly has their armor violently warped, immediately gaining the Damaged tag to their gear.
     
 
 **Astral Piercer** (Combat / Vertical Bypassing)
@@ -1265,7 +1265,7 @@ The Astromancer temporarily severs an ally’s connection to gravity, completely
     
 - Margin 3–4 (Clean): The target easily adapts to the microgravity.
     
-- Margin 5+ (Exceptional): The target perfectly manipulates their orbital momentum. The first time the target drops from a height or leaps to perform a melee Strike, their weapon's Power is permanently increased by +1 for that single swing due to terminal velocity.
+- Margin 5+ (Massive): The target perfectly manipulates their orbital momentum. The first time the target drops from a height or leaps to perform a melee Strike, their weapon's Power is permanently increased by +1 for that single swing due to terminal velocity.
 
 ### Master
 
@@ -1281,7 +1281,7 @@ Gravity loses its grip as the target begins to drift, then soar. The escalation 
 **The Margin Scaler:**
 - Margin 0–2 (Messy): Target gains a Flying Move equal to their land Move and can hover; the working leaves them nauseated for 1 Dissonant Stress.
 - Margin 3–4 (Clean): As above, no cost. While airborne, they also gain Advantage on Acrobatics checks to dodge ground-based or non-flying melee attacks.
-- Margin 5+ (Exceptional): Flying Move doubles for the scene.
+- Margin 5+ (Massive): Flying Move doubles for the scene.
 
 ## Pyromancy
 
@@ -1326,7 +1326,7 @@ The caster wraps their weapon — or their own knuckles — in a controlled, cli
 - The Margin Scaler:
   - Margin 0–2 (Messy): The weapon ignites and deals +1 Impact as fire for the scene, but the heat licks back — the wielder takes 1 Dissonant Stress.
   - Margin 3–4 (Clean): As above, no cost.
-  - Margin 5+ (Exceptional): The flame burns hot enough to catch — the first enemy struck each round must also resist being set Ablaze (per Furnace Lance's condition) or suffer 1 Impact at the start of their next turn.
+  - Margin 5+ (Massive): The flame burns hot enough to catch — the first enemy struck each round must also resist being set Ablaze (per Furnace Lance's condition) or suffer 1 Impact at the start of their next turn.
 
 ### Adept
 
@@ -1343,7 +1343,7 @@ The caster hurls a fistful of white-hot embers that aggressively seek out oxygen
 - The Margin Scaler:
   - Margin 0–2 (Messy): The fire is dangerously hungry. The zone forms, but the backdraft instantly singes the caster, dealing 1 Impact to them and destroying one mundane, non-magical item in their inventory (like a rope or torch).
   - Margin 3–4 (Clean): The fire zone is perfectly contained to the 10x10 area.
-  - Margin 5+ (Exceptional): At the start of the next combat round, the GM must expand the fire zone by 5 feet in every direction.
+  - Margin 5+ (Massive): At the start of the next combat round, the GM must expand the fire zone by 5 feet in every direction.
     
 
 **Cauterize** (Utility / Brutal Triage)
@@ -1364,7 +1364,7 @@ The Pyromancer presses a glowing, superheated hand directly against an ally’s 
     
 - Margin 3–4 (Clean): The Wound is cleanly sealed. The target suffers 1 Dissonant Stress from the pain, but the bleeding stops.
     
-- Margin 5+ (Exceptional): The sudden rush of adrenaline overrides the pain completely. The Wound is sealed, neither party takes Dissonant Stress, and the target immediately generates 1 Momentum from the sheer shock to their system.
+- Margin 5+ (Massive): The sudden rush of adrenaline overrides the pain completely. The Wound is sealed, neither party takes Dissonant Stress, and the target immediately generates 1 Momentum from the sheer shock to their system.
     
 
 ### Master

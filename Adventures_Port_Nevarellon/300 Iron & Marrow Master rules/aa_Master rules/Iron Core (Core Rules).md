@@ -49,7 +49,7 @@ The Resolution Ladder You calculate the Margin (Total Result - 8) and apply the 
     
 - Clean Success (Margin 3–4): Flawless execution. You achieve the exact desired result with no complications.
     
-- Exceptional Success (Margin 5+): You absolutely dominate the challenge. You achieve the result and generate 1 Momentum, or you gain a Prep Tag for an upcoming encounter.
+- Massive Success (Margin 5+): You absolutely dominate the challenge. You achieve the result and generate 1 Momentum, or you gain a Prep Tag for an upcoming encounter.
 _____________________________________________________________________
 
 **Passive Notice**
@@ -104,7 +104,7 @@ Each player maintains a personal bank capped at **4 + Reflex**.
 
  If we want to keep the engine unified, Momentum generation should be directly tied to the Margin math we have built. It shouldn't be arbitrary; it should be the mechanical reward for overwhelming success.
 
--  Combat: Winning a Clash by a Margin of 5+ (High Success, 1 Momentum) 
+-  Combat: Winning a Clash by a Margin of 5+ (Massive Success, 1 Momentum) 
     
 - Magic: hitting that Margin of 5+ on an unopposed Arcana check generates Momentum because the caster executed the spell flawlessly.
     
@@ -114,7 +114,7 @@ Each player maintains a personal bank capped at **4 + Reflex**.
 
 Because the 2d6 engine only explodes on a Natural 12, that moment is already mechanically rare and highly celebrated at the table.
 
--  The Trigger: Anytime a player rolls a Natural 12 (Double 6s) on any check—whether it is a Strike, a Parry, or a lore check—they instantly generate 2 Momentum, regardless of the final Margin. It mathematically reinforces that "perfect luck" fuels their adrenaline. This CAN compound with a High success margin (5+) for 3 momentum off 1 roll.
+-  The Trigger: Anytime a player rolls a Natural 12 (Double 6s) on any check—whether it is a Strike, a Parry, or a lore check—they instantly generate 2 Momentum, regardless of the final Margin. It mathematically reinforces that "perfect luck" fuels their adrenaline. This CAN compound with a Massive Success margin (5+) for 3 momentum off 1 roll.
     
 ### 3. The Sacrificial Pillar (The Desperate Push)
 
@@ -284,7 +284,7 @@ When a character takes a Wound and cannot fill a wound slot, they immediately fa
     
 - **Success (Margin 0-4):** You secure a **Stabilization Mark**.
     
-- **High Success (Margin 5+):** Your body forcefully halts the trauma. You instantly gain 3 Stabilization Marks and are Stabilized.
+- **Massive Success (Margin 5+):** Your body forcefully halts the trauma. You instantly gain 3 Stabilization Marks and are Stabilized.
     
 - **Failure:** You secure a **Death Mark**. You are bleeding out or slipping into shock.
     

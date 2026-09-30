@@ -12,7 +12,7 @@ Step 4: Select 2 Feats.
 	-  Tier 1 only.
 Step 5: Outfit the character.  
 	- **80 sp to spend.** See *The Starting Purse* below.
-    - The Party Community Die starts at a D8.
+    - The Party Community Supply Die starts at a D8.
 
 ## The Starting Purse
 
@@ -821,7 +821,7 @@ As long as you speak the litany and bear your symbol, manifest these Miracles by
 
 >You see the map of their arteries; nothing matters when the blood stops flowing.
 
-* Mechanic: As an Attack action, you take a -2 penalty to your Attack Roll. Ignore armour value in threshold; if you inflict a Wound, you may disable a targeted limb, forcing the target to drop their weapon or halving their movement. On a High Success (Margin 5+) against a target of Elite tier or below, you strike a major artery or the neck — the target is instantly Incapacitated, regardless of how many Wound Slots they have left. This cannot target Boss-tier enemies under any circumstance.
+* Mechanic: As an Attack action, you take a -2 penalty to your Attack Roll. Ignore armour value in threshold; if you inflict a Wound, you may disable a targeted limb, forcing the target to drop their weapon or halving their movement. On a Massive Success (Margin 5+) against a target of Elite tier or below, you strike a major artery or the neck — the target is instantly Incapacitated, regardless of how many Wound Slots they have left. This cannot target Boss-tier enemies under any circumstance.
 ## Archetypes
 
 **The Arcanist (Wizard Archetype)**

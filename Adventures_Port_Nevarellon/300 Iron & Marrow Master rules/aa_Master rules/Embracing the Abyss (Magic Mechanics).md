@@ -201,7 +201,7 @@ The caster exhales a thick, localized cloud of roiling, yellow-black sulfurous f
     
 - Margin 3–4 (Clean): The fog settles perfectly.
     
-- Margin 5+ (Exceptional): The vapor is incredibly toxic. Any creature that ends its turn inside the fog must pass a TN 8 Resolve check or immediately suffer 1 Dissonant Stress.
+- Margin 5+ (Massive): The vapor is incredibly toxic. Any creature that ends its turn inside the fog must pass a TN 8 Resolve check or immediately suffer 1 Dissonant Stress.
     
 
 ### 2. Mire (Arcane)
@@ -222,7 +222,7 @@ The caster slams their staff into the earth, liquefying stone, soil, or wood int
     
 - Margin 3–4 (Clean): The mire forms flawlessly.
     
-- Margin 5+ (Exceptional): The mud is incredibly deep. One Elite or Fodder creature currently standing in the area is instantly Anchored and must waste their next activation action pulling themselves free.
+- Margin 5+ (Massive): The mud is incredibly deep. One Elite or Fodder creature currently standing in the area is instantly Anchored and must waste their next activation action pulling themselves free.
     
 
 ### 3. Brittle-Iron Aura (Arcane)
@@ -241,7 +241,7 @@ The caster hums a discordant, high-pitched note that vibrates violently through 
 
 - Margin 3+ (Clean): The structural degradation is severe enough that it can be ruined with ordinary tools, bypassing the need for heavy siege gear.
     
-- Margin 5+ (Exceptional): The frequency is so precise it bleeds into active combat gear. The caster can choose one Elite enemy in the room; that enemy's armor or shield immediately gains the Damaged tag, reducing its effectiveness for the rest of the fight.
+- Margin 5+ (Massive): The frequency is so precise it bleeds into active combat gear. The caster can choose one Elite enemy in the room; that enemy's armor or shield immediately gains the Damaged tag, reducing its effectiveness for the rest of the fight.
     
 
 ### 4. Ward of the Threshold (Faith / Miracle)

@@ -68,7 +68,7 @@ This directly mirrors the existing NPC Stance system, scaled up from a single pe
 
 Most Pursuits carry a rolled check, so Settlement Stance modifies them the same way it modifies Acquisition (see below). Carousing is the exception — it has no check to modify — so Stance instead shifts which d66 band its result falls in; see the Carousing entry for the exact mechanic.
 
-**The Four Settlement Stances:** Hostile, Unfriendly, Neutral, Friendly — identical states and identical shift rules to the NPC Stance System (Standard Success shifts one step, High Success shifts two steps, never jumping straight to the opposite pole), applied collectively to a settlement's general disposition.
+**The Four Settlement Stances:** Hostile, Unfriendly, Neutral, Friendly — identical states and identical shift rules to the NPC Stance System (Standard Success shifts one step, Massive Success shifts two steps, never jumping straight to the opposite pole), applied collectively to a settlement's general disposition.
 
 - **Hostile:** The party has actively wronged this settlement — botched a job, insulted the local lord, left a debt unpaid, or committed a crime that's become common knowledge. Acquisition checks suffer **-4**, Commission requests are refused outright regardless of payment, and most other Pursuits (Religious Pursuit at a shrine whose faction the party has angered) may be denied entirely at GM discretion. This is the settlement actively working against the party, not just distrusting them. Carousing isn't denied outright — even a Hostile settlement usually still has a tavern — but its d66 result shifts two bands worse.
 - **Unfriendly:** The settlement is wary or has a poor opinion of the party — minor past friction, an unresolved rumor, simple distrust of outsiders — but isn't yet acting against them. Acquisition checks suffer **-2**. Most Pursuits remain available, just at worse terms; merchants quote higher prices, artisans are slower to commit to a Commission (+1 PP to commission — 4 PP total instead of 3). Carousing's d66 result shifts one band worse.
@@ -237,7 +237,7 @@ Each entry below formalizes a Pursuit already referenced elsewhere in the rules.
 - **The Check:** Crafting vs. TN 8.
 - **Clean Success (Margin 3–4):** A full batch — 3 items, or 6 loads.
 - **Messy Success (Margin 0–2):** 2 items, or 4 loads. The remaining materials are wasted.
-- **Exceptional Success (Margin 5+):** A full batch, and the character banks 1 Progress Momentum.
+- **Massive Success (Margin 5+):** A full batch, and the character banks 1 Progress Momentum.
 - **Failure:** No output, and the materials are lost.
 - **Snake Eyes:** A fire in the lab. No output, the materials are lost, the alchemist takes 2 Dissonant Stress, and the Lab gains the **Damaged** tag (-1 to future Distil & Compound checks until cleared with Hammer & Forge).
 
@@ -301,7 +301,7 @@ Bands deliberately overlap — Availability tracks *how often the world stocks i
 - **Failure:** No buyer at an acceptable price this visit — the same tempo loss as any other failed Acquisition, not a Stress or harm source.
 - **The Liquidity Cap:** A settlement cannot pay out more per sale than the top of its own Tier's price band in the Availability table above (Hamlet: 25 sp, Town: 50 sp, City: 200 sp, Capital: GM-set), regardless of the roll. A village blacksmith doesn't have 200 sp sitting in a drawer for a Rare blade no matter how the haggling goes — sell for the local ceiling, or carry it to a bigger settlement.
 
-**Replenishing the Community Die:**
+**Replenishing the Community Supply Die:**
 
 | Step                             | Cost            |
 | -------------------------------- | --------------- |

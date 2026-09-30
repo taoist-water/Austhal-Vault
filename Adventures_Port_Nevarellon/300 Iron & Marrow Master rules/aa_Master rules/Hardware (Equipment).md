@@ -8,7 +8,7 @@ Instead of tracking weight, a character’s carrying capacity is defined by a ha
 
 - 1 Slot: A one-handed weapon, a shield, a coiled rope, a Grimoire, a lantern, a cluster of 3 potions.    
 - 2 Slots: A heavy two-handed weapon, a bulky Bestiary trophy (a Gorgon's head), a small treasure chest.    
-- 0 Slots (Micro-Items): Things you can hide in a pocket don't take slots unless stacked in bulk. (e.g., 100 gold coins = 1 Slot).    
+- 0 Slots (Micro-Items): Things you can hide in a pocket don't take slots unless stacked in bulk. (e.g., 100 coins = 1 Slot).    
 
 - Worn Armor Exemption: The armor a character is actively wearing does not take up Slots, but heavy armor inherently limits movement or stealth. If they take it off to carry it, it consumes 3 Slots.
     
@@ -43,9 +43,9 @@ This is where the encumbrance system ties directly into your Death Spiral. As a 
 - Narrative Impact: This forces agonizing decisions. Do you drop the heavy bag of gold you just found to carry your bleeding ally, or do you leave the ally behind to keep the treasure?
     
 _______________________________________________________________________
-# The Community Die
+# The Community Supply Die
 **The Community Supply Die**
-_Hardware_ abstracts the party's shared consumables into the Community Die so nobody tracks individual arrows, torches, or waterskins. Concretely, that's:
+_Hardware_ abstracts the party's shared consumables into the Community Supply Die so nobody tracks individual arrows, torches, or waterskins. Concretely, that's:
 
 - **Ammunition** — arrows, bolts, sling stones, thrown weapons you don't bother retrieving. **Not black powder:** firearm loads are bought and tracked individually (see the Black Powder tag).
 - **Light & Fuel** — torch stubs, lantern oil, flint-and-steel strikes, tindertwigs.

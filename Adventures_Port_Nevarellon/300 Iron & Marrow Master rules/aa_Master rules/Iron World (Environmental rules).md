@@ -174,7 +174,7 @@ NPCs have four basic social stances, forming a single ladder: **Hostile → Unfr
 
 - **Standard Success (Margin 0–4):** Shift the NPC's stance **one step** toward the direction you were pushing (e.g., Hostile → Unfriendly, or Neutral → Friendly). Alternatively, if not attempting a stance shift, they agree to a request that doesn't put them in immediate danger.
     
-- **High Success (Margin 5+):** Shift the NPC's stance **two steps** toward the direction you were pushing. This is a deliberate, flat rule — a High Success always moves exactly two rungs, never jumping straight to the opposite pole regardless of where the NPC started. Going from Hostile all the way to Friendly in a single roll still requires either two separate successful checks, or one High Success from an Unfriendly starting position.
+- **Massive Success (Margin 5+):** Shift the NPC's stance **two steps** toward the direction you were pushing. This is a deliberate, flat rule — a Massive Success always moves exactly two rungs, never jumping straight to the opposite pole regardless of where the NPC started. Going from Hostile all the way to Friendly in a single roll still requires either two separate successful checks, or one Massive Success from an Unfriendly starting position.
     
 - **Leverage (Modifiers):** The GM applies a +2 or -2 modifier based on the fiction. Bribing a greedy guard is +2. Threatening a fanatical cultist is -2.
 
@@ -191,7 +191,7 @@ Any existing rule that triggers off an NPC being specifically "Hostile" or "Frie
 
 - Clean Success (Margin 3–4): You successfully shift their stance up one level, or they agree to a request that doesn't put them in immediate danger, with no strings attached.
 
-- Exceptional Success (Margin 5+): They are entirely won over or deeply terrified. They will take significant risks for you, immediately surrender, or become Friendly.
+- Massive Success (Margin 5+): They are entirely won over or deeply terrified. They will take significant risks for you, immediately surrender, or become Friendly.
     
 
 - *Leverage (Modifiers):* The GM applies a +2 or -2 modifier based on the fiction. Bribing a greedy guard is +2. Threatening a fanatical cultist is -2.
