@@ -57,7 +57,7 @@ ______________________________________________________________________
 
 Because the community supply die is a tangible mechanic, an enemy can spend its own Momentum to attack the party's supplies instead of their health, creating terrifying new enemy archetypes.
 
-- The Rust Monster / Acid Spit: If an enemy with a corrosive or fire-based attack wins a Clash with a high margin, it may spend 1 Momentum from its own Bank to force an immediate Supply Die roll as the party's gear melts or catches fire.
+- The Rust Monster / Acid Spit: If an enemy with a corrosive or fire-based attack wins a Clash by a Margin of 5+, it may spend 1 Momentum from its own Bank to force an immediate Supply Die roll as the party's gear melts or catches fire.
     
 - The Scavenger: Small, fodder-tier enemies (like goblins or feral ghouls) might have a rule where if they win a Clash, they don't deal Impact. Instead, they slice open a backpack and flee, forcing an automatic step-down of the Supply Die without a roll.
 ________________________________________________________________________
