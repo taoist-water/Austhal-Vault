@@ -70,7 +70,7 @@ A cone of raw elemental energy erupts from the caster's hands.
 
 - **Level:** Novice
 - **Resolution:** Arcane Clash, Arcana vs. each target's Defense
-- **Spell Power: 2**
+- **Spell Power: 1** _(Novice 2, −1 for multiple targets — see *Embracing the Abyss*, Spell Power by Level.)_
 - **Target/Range:** 10ft cone
 - **Action Type:** Aggressor
 
@@ -214,7 +214,7 @@ The caster hurls a ball of energy that explodes on impact, catching multiple foe
 
 - **Level:** Adept
 - **Resolution:** Arcane Clash, Arcana vs. each target's Defense (caster rolls once; every target in the radius defends)
-- **Spell Power: 3**
+- **Spell Power: 2** _(Adept 3, −1 for a zone or multiple targets — see *Embracing the Abyss*, Spell Power by Level.)_
 - **Target/Range:** A point within Medium Range, 10ft radius
 - **Action Type:** Aggressor
 
@@ -398,6 +398,8 @@ The Necromancer uses a dead body on the battlefield as a bomb, rapidly accelerat
   - Margin 0–2 (Messy): The explosion is delayed or unpredictable. The GM shifts the center of the blast 5 feet in a random direction before calculating who is hit.
   - Margin 3–4 (Clean): The corpse detonates perfectly as planned.
   - Margin 5+ (Massive): The blast area becomes difficult terrain for the remainder of the Scene.
+
+**Designer Note — a justified deviation.** Spell Power stays at the full Adept **3** rather than the **2** the zone/multi-target reduction would give it (*Embracing the Abyss*), and it is justified here rather than left silent, as that rule requires. Corpse Bloom pays three costs no other area spell pays: it resolves **unopposed vs. TN 10**, not TN 8; it **requires a corpse already on the battlefield**, so a fight cannot be opened with it; and it hits **friend or foe** without discrimination. TheTao's call, 30 Sep — do not "correct" this to 2.
     
 
 **Puppet Strings** (Combat / Partial Puppetry)
@@ -799,6 +801,8 @@ The caster’s hands violently sweat a highly reactive, boiling solvent, which t
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 2 (Spell Power). If the target used a shield to Block, the shield permanently loses 1 SV for the rest of the campaign (or until repaired via Downtime). The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the target's armor immediately gains the Damaged tag, permanently disabling special tags like Ablative Carapace or Construct plating.
+
+**Designer Note — a justified deviation, downward.** Spell Power is **2** where the Adept default is **3** (*Embracing the Abyss*), and the missing point was spent on permanence rather than lost. The spell ignores Shield Value outright, strips **1 SV permanently** on a landed hit, and on Clean **permanently Damages the target's armour**, killing tags like Ablative Carapace or Construct plating for good. It is single-target, so the area reduction never applied — the trade is raw force for irreversible gear destruction. Recorded 30 Sep; do not "correct" this to 3.
 
     
 
@@ -1295,10 +1299,10 @@ The caster hyper-pressurizes the air directly around their own body, before rele
 - **Action Type:** Aggressor
 - **Duration:** Instantaneous
 - **Resolution:** Arcane Clash (Arcana vs. Targets' Defense action). Note: This targets every enemy currently engaged in the caster's Threat Zone.
-- **Spell Power: 2**
+- **Spell Power: 1** _(Novice 2, −1 for multiple targets — see *Embracing the Abyss*, Spell Power by Level.)_
 - The Effect: This is the Pyromancer's panic button when swarmed. The caster rolls once, and every enemy within 5 feet must roll to defend.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 2 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: Impact = Margin + 1 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the enemy is thrown 10 feet backward, knocked Prone, and suffers 1 Dissonant Stress from the ruptured eardrums.
 
 **Ember Lance** (Combat / Direct Strike)
@@ -1336,7 +1340,7 @@ The caster hurls a fistful of white-hot embers that aggressively seek out oxygen
 - **Level:** Adept
 - **Target/Range:** 10x10ft zone, Short Range
 - **Action Type:** Activation
-- **Duration:** Until the fire burns out or is extinguished
+- **Duration:** Sustain (see The Channelling Rule — no Locked Stress cost; roll vs. TN 10 to maintain each Activation and on taking a Wound). **When the Sustain ends the zone stops being a spell:** it deals no further Impact and does not spread. Whatever is genuinely alight keeps burning as ordinary fire — light, smoke and difficult terrain at the GM's discretion — but with no Spell Power behind it.
 - **Resolution:** Unopposed Arcana vs. TN 10.
 - **Spell Power: 2**
 - The Effect: Creates a 10x10 foot zone of raging fire. The casting Margin is fixed at the moment of casting. Any creature (friend or foe) starting their turn in the fire or moving through it automatically suffers Impact equal to that fixed Margin + Spell Power, for as long as the zone persists. The zone destroys any wooden cover or mundane foliage.
