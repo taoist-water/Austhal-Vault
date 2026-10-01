@@ -76,7 +76,7 @@ During a Characters activation it may move up to its base movement value [MV] an
     
 - Parry: 2d6 + Melee.
     
-- Shoot:**ranged option**, fire ranged weapon as target closes in. Win calculate Impact.
+- Shoot: **ranged option**, fire ranged weapon as target closes in. Win calculate Impact.
     
 - Cast Spell: See spell description.
     
