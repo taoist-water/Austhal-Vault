@@ -213,11 +213,11 @@ Unlike traditional hit point systems that feature inflated health pools, _Iron &
 
 ### Calculating Wounds (Impact vs. Threshold)
 
-To take a Wound, an enemy's attack must overcome your physical durability, represented by your **Wound Threshold [T]** (calculated as 4 + Brawn + Armour Value + Species Bonuses + Scale bonus + Misc.mods). When a character loses a Clash, the resulting Impact dictates the severity of the Wound:
+To take a Wound, an enemy's attack must overcome your physical durability, represented by your **Wound Threshold (WT)** (calculated as 4 + Brawn + Armour Value + Species Bonuses + Scale bonus + Misc.mods). When a character loses a Clash, the resulting Impact dictates the severity of the Wound:
 
 - **Minor Wound:** If the Impact equals or exceeds your Threshold, you take 1 Minor Wound (filling 1 slot).
     
-- **Major Wound:** If the Impact equals or exceeds _twice_ your Threshold, you suffer massive trauma, taking 1 Major Wound (filling 2 slots).
+- **Major Wound:** If the Impact equals or exceeds _twice_ your Threshold, you suffer massive trauma, taking 1 Major Wound (filling 2 slots) + 1 Dissonant Stress.
     
 - **Overwhelming Trauma (Instant Incapacitation):** If the Impact equals or exceeds _three times_ your Threshold, the attack bypasses your Wound Slots entirely — it does not fill one, no matter how many you have available (including bonus slots from spells, feats, or magic items; nothing makes a character immune to a single catastrophic blow). Instead, you immediately gain the **Incapacitated** condition exactly as if you'd taken a Wound with no slot to fill it: fall Prone, drop what you're holding, and begin Bleed-Out checks per *At Death's Door*. Also inflicts 2 Dissonant Stress.
     
