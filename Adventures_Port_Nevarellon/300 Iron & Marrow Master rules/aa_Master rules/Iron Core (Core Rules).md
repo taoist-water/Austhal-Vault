@@ -61,7 +61,7 @@ The baseline of 7 (rather than a flat TN8) anchors Passive Notice to the statist
 
 ***Advantage/Disadvantage Conversion:*** Because Passive Notice doesn't roll dice, sources of Advantage or Disadvantage on Notice checks (e.g. the Dwarf's Subterranean Senses, or the Whispers in the Dark feat) apply as a flat +2 or -2 to the Passive Notice score instead — consistent with the existing Situational Modifier scale (Advantageous = +2, Difficult = -2).
 
-***The Winded Penalty:*** Passive Notice stands in for a roll, not an exemption from one. It takes the standard -1 Winded penalty if the character's Dissonant Stress is at or above 50% of their Stress Limit, exactly as an active roll would.
+***The Winded Penalty:*** Passive Notice stands in for a roll, not an exemption from one. It takes the Winded `-1` or Breaking `-2` penalty whenever the character has one, exactly as an active roll would.
 
 **Resolution Modes:**
 
@@ -174,7 +174,7 @@ Stress is strictly divided into two types, which affect the character's capabili
 	*Note the division of currencies: an Arcanist's ordinary casting bleeds **Dissonant** Stress — botched manifestations, Messy margins, failed Sustain checks. Locked Stress is the Priest's bill, and reaches an Arcanist only through Overcharge, Attunement, conditions, and the environment.*
     
 
-### The Death Spiral (Dissonant Stress)
+### The Death Spiral (The Stress Track)
 
 _Iron & Marrow_ is a game of psychological and physical attrition. Stress is the primary currency of exhaustion.
 
@@ -182,17 +182,19 @@ _Iron & Marrow_ is a game of psychological and physical attrition. Stress is the
 
 Think of the character's Stress Limit as a track. Dissonant Stress fills the track from the left, and Locked Stress fills it from the right.
 
-- **Dissonant Stress (The Panic Trigger):** This is the only type of Stress that triggers the mid-tier penalty.
+- **Dissonant Stress (The Panic Trigger):** The only type of Stress that counts toward Winded.
     
-    - _The 50% Tier (Winded):_ If a character's **Dissonant Stress** reaches half of their total Stress Limit, they suffer a flat `-1 penalty` to all rolls.
+    - _The 50% Tier (Winded):_ While a character's **Dissonant Stress** is at or above half of their Stress Limit (rounded up), they suffer a flat `-1 penalty` to all rolls. Locked Stress of any kind, Attunement included, never counts toward this threshold.
         
 - **Locked Stress (The Capacity Drain):** This represents sustained exhaustion, a debt owed, or a burden carried — most often a Priest's Tithe, but also Attunement, Overcharge, conditions, and exposure. It does not trigger the `-1 penalty`, but it "blacks out" available slots on the track, drastically reducing the character's buffer before they hit the absolute limit.
     
-- **Total Capacity (The Breaking Point):**
+- **Total Capacity (The Breaking Point):** Every box counts toward filling the track: Dissonant, Locked and Attunement alike.
     
-    - _The 100% Tier (Breaking):_ When a character's **Total Stress (Dissonant + Locked)** reaches their maximum Limit their mental focus shatters, and all current Locked Stress immediately becomes Dissonant — **except Attunement Locked Stress, which does not convert and stays locked** (see the Golden Rules). They now suffer a flat `-2 penalty`, and any further Stress converts to Wounds.
+    - _The 100% Tier (Breaking):_ The moment a character's **Total Stress (Dissonant + Locked, including Attunement)** reaches their Stress Limit, the track is full and their mental focus shatters: all current Locked Stress immediately becomes Dissonant — **except Attunement Locked Stress, which does not convert and stays locked** (see the Golden Rules). Because Attunement boxes count toward a full track, an attuned character Breaks exactly as anyone else does.
+    - **While the track is full**, the character suffers a flat `-2 penalty` to all rolls. This replaces the Winded `-1`; the two never stack.
+    - **Leaving Breaking:** the moment any Stress clears and the track is no longer full, the `-2` ends. The character is Winded instead if their Dissonant Stress is still at or above half their Limit (rounded up).
 
-- When the Stress Track is full and a Character would gain additional stress, it immediately converts to Wounds.
+- When the Stress Track is full and a Character would gain additional Stress, it immediately converts to Wounds — or to Unconscious, if the source is `non-Lethal` (see The Death Spiral (Stress Conversion)).
 
 # Wounds
 

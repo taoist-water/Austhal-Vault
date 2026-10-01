@@ -129,10 +129,11 @@ ceiling each Skill can be trained to, and they determine your derived stats.
 - *Wound Threshold:* **4 + Brawn + Armour Value + Species Bonuses +
   Scale bonus + Misc. mods**
 - *Stress Limit:* **4 + Will + Wits + Feat Bonus + Species bonus.**
-	- If your total Stress (Locked + Dissonant) exceeds this limit, your
-	  mental focus shatters: all current Locked Stress immediately becomes
-	  Dissonant, applying its full penalties, and any excess points are
-	  converted into Wounds.
+	- When your total Stress (Locked + Dissonant) reaches this limit — the
+	  track is full — your mental focus shatters: all current Locked Stress
+	  immediately becomes Dissonant (except Attunement Locked Stress),
+	  applying its full penalties. Any further Stress converts into Wounds,
+	  or into Unconscious if from a non-Lethal source.
 - *Momentum Bank:* **4 + Reflex**
 - *Activation Order:* **6 + Reflex**
 
@@ -805,7 +806,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >You see the absolute truth of the world, but it hurts to look.
 
-* Mechanic: Once per session, you can ask the GM one specific, unvarnished truth about a person's motives, a hidden location, or a complex plot. The GM must answer completely honestly. However, absorbing this cosmic absolute instantly fills your Stress Limit with Locked Stress, bringing you to the absolute brink of the Death Spiral.
+* Mechanic: Once per session, you can ask the GM one specific, unvarnished truth about a person's motives, a hidden location, or a complex plot. The GM must answer completely honestly. However, absorbing this cosmic absolute instantly fills every empty box but one on your Stress track with Locked Stress, bringing you to the absolute brink of the Death Spiral.
 
 **Transgressive Asymmetry**
 

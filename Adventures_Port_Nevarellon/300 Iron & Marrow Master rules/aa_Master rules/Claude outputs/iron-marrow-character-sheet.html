@@ -150,6 +150,10 @@ table.g.xtall td { height:11.2mm; }
 .slot { display:grid; grid-template-columns:6.5mm 1fr 9mm; height:6.3mm; border-bottom:.5pt solid var(--hair); align-items:center; }
 .slot .no { font-family:'Cinzel',serif; font-weight:700; font-size:7pt; text-align:center; border-right:.5pt solid var(--hair); height:100%; display:flex; align-items:center; justify-content:center; }
 .slot .q { border-left:.5pt solid var(--hair); height:100%; }
+.slot.tallrow { height:7.4mm; }
+table.g.feat td { height:12.4mm; }
+table.g.ledger td { height:8.4mm; }
+table.g.sett td { height:8.4mm; }
 .slot.belt .no { background:var(--ink); color:#fff; border-right-color:var(--ink); }
 .slot.over .no { color:var(--soft); }
 .slot.over { background:repeating-linear-gradient(135deg, transparent 0 1.4mm, #f1f1f1 1.4mm 2.1mm); }
@@ -237,7 +241,7 @@ table.g.xtall td { height:11.2mm; }
       </div>
       <div class="sk"><span class="n">Influence</span><span class="pips"><span class="pip"></span><span class="pip"></span><span class="pip"></span><span class="pip"></span><span class="gap"></span><span class="pip hi"></span><span class="pip hi"></span></span></div><div class="sk"><span class="n">Faith<i>Tithe of Will</i></span><span class="pips"><span class="pip"></span><span class="pip"></span><span class="pip"></span><span class="pip"></span><span class="gap"></span><span class="pip hi"></span><span class="pip hi"></span></span></div><div class="sk"><span class="n">Survival</span><span class="pips"><span class="pip"></span><span class="pip"></span><span class="pip"></span><span class="pip"></span><span class="gap"></span><span class="pip hi"></span><span class="pip hi"></span></span></div><div class="sk"><span class="n">Resolve</span><span class="pips"><span class="pip"></span><span class="pip"></span><span class="pip"></span><span class="pip"></span><span class="gap"></span><span class="pip hi"></span><span class="pip hi"></span></span></div>
     </div>
-      <div class="tiny" style="margin-top:1.2mm">Roll <b>2d6 + Skill</b> vs <b>TN 8</b> or opposed. Attributes never add to a roll — they set each Skill's ceiling (<b>Attribute + 3</b>, max 6). Shade the pips above your ceiling. Small numbers show DP per rank; Rank 6 is never reachable at creation.</div>
+      <div class="tiny" style="margin-top:1.2mm">Roll <b>2d6 + Skill</b> vs <b>TN</b> or opposed. Attributes never add to a roll — they set each Skill's ceiling (<b>Attribute + 3</b>, max 6). Shade the pips above your ceiling. Small numbers show DP per rank; Rank 6 is never reachable at creation.</div>
     </div>
 
     <!-- RIGHT: derived, tracks, momentum -->
@@ -261,8 +265,8 @@ table.g.xtall td { height:11.2mm; }
         <div class="body">
           <div class="track"><div class="c"><span class="no">1</span></div><div class="c"><span class="no">2</span></div><div class="c"><span class="no">3</span></div><div class="c"><span class="no">4</span></div><div class="c"><span class="no">5</span></div><div class="c"><span class="no">6</span></div><div class="c"><span class="no">7</span></div><div class="c"><span class="no">8</span></div><div class="c"><span class="no">9</span></div><div class="c"><span class="no">10</span></div><div class="c"><span class="no">11</span></div><div class="c"><span class="no">12</span></div><div class="c"><span class="no">13</span></div><div class="c"><span class="no">14</span></div></div>
           <div class="thresh">
-            <div><span class="box"></span><span class="ref"><b>Winded</b> — Dissonant at ½ Limit: <b>−1</b> to all rolls</span></div>
-            <div><span class="box"></span><span class="ref"><b>Breaking</b> — total at Limit: Locked → Dissonant, <b>−2</b>; more Stress → Wounds</span></div>
+            <div><span class="box"></span><span class="ref"><b>Winded</b> — Dissonant at ½ Limit (round up): <b>−1</b> to all rolls</span></div>
+            <div><span class="box"></span><span class="ref"><b>Breaking</b> — while the track is full (Attunement counts): <b>−2</b>, replaces −1. On filling, Locked → Dissonant. More Stress → Wounds</span></div>
           </div>
           <div class="legend">
             <span><i class="glyph">X</i>Dissonant — Breather, Regroup (2), Adrenaline Flush</span>
@@ -282,10 +286,10 @@ table.g.xtall td { height:11.2mm; }
             <div class="wslot x4"><span class="lbl">4th · feat only</span></div>
           </div>
           <div class="bands">
-            <div><b>Impact &lt; T</b>Glancing — 1 Dissonant</div>
-            <div><b>≥ T</b>Minor — 1 slot</div>
-            <div><b>≥ 2T</b>Major — 2 slots + 1 Dissonant</div>
-            <div><b>≥ 3T</b>Overwhelming — Incapacitated + 2 Dissonant</div>
+            <div><b>Impact &lt; WT</b>Glancing — 1 Dissonant</div>
+            <div><b>≥ WT</b>Minor — 1 slot</div>
+            <div><b>≥ 2 WT</b>Major — 2 slots + 1 Dissonant</div>
+            <div><b>≥ 3 WT</b>Overwhelming — Incapacitated + 2 Dissonant</div>
           </div>
           <div class="door">
             <span class="lbl" style="color:var(--ink)">Death's Door</span>
@@ -344,92 +348,95 @@ table.g.xtall td { height:11.2mm; }
         <div class="roll"><span class="a">Parry</span><span class="s">2d6 + <b>Melee</b></span><span class="box">+</span></div>
         <div class="roll"><span class="a">Dodge</span><span class="s">2d6 + <b>Acrobatics</b> · shift 5 ft</span><span class="box">+</span></div>
         <div class="roll"><span class="a">Block</span><span class="s">2d6 + <b>Block</b> · lose: −SV from Impact</span><span class="box">+</span></div>
-        <div class="roll"><span class="a">Brace</span><span class="s">2d6 + <b>Prowess</b> · lose: +2 to T</span><span class="box">+</span></div>
-        <div class="tiny" style="margin-top:.8mm"><b>Power Strike:</b> Power to the roll, not Impact; −2 T until your next Activation. <b>Tie:</b> nothing lands.</div>
+        <div class="roll"><span class="a">Brace</span><span class="s">2d6 + <b>Prowess</b> · lose: +2 to WT</span><span class="box">+</span></div>
+        <div class="tiny" style="margin-top:.8mm"><b>Power Strike:</b> Power to the roll, not Impact; −2 WT until your next Activation. <b>Tie:</b> nothing lands.</div>
       </div>
     </div>
   </div>
-  <div class="foot"><span>IRON &amp; MARROW · Sheet v0.1 · built against the master rules of 1 Oct 2026</span><span>1 / 3</span></div>
+  <div class="foot"><span>IRON &amp; MARROW · Sheet v0.3 · built against the master rules of 1 Oct 2026</span><span>1 / 4</span></div>
 </section><section class="page">
   <div class="hdr" style="grid-template-columns:42mm 1fr">
-    <div class="brand" style="padding:1.1mm 1.5mm 1mm"><div class="t" style="font-size:10.5pt">IRON<span class="amp" style="font-size:8pt">&amp;</span>MARROW</div><div class="s" style="font-size:5.4pt">Kit &amp; Growth</div></div>
+    <div class="brand" style="padding:1.1mm 1.5mm 1mm"><div class="t" style="font-size:10.5pt">IRON<span class="amp" style="font-size:8pt">&amp;</span>MARROW</div><div class="s" style="font-size:5.4pt">Kit &amp; Feats</div></div>
     <div class="hfields"><div class="field span6"><span class="lbl">Character Name</span></div><div class="field span3"><span class="lbl">Species</span></div><div class="field span3"><span class="lbl">Standing</span></div></div>
   </div>
 
-  <div class="cols" style="grid-template-columns:1fr 1fr; flex:1">
-    <div style="display:flex;flex-direction:column;gap:2.2mm;min-height:0">
-      <div class="panel"><div class="plate"><span>INVENTORY</span><span class=sub>capacity 8 + Brawn</span></div>
-        <div class="body" style="padding-top:.6mm">
-          <div class="subhead"><span>The Belt — 3 slots</span><span>draw as a Free Action</span></div>
-          <div class="slot belt"><span class="no">1</span><span></span><span class="q"></span></div><div class="slot belt"><span class="no">2</span><span></span><span class="q"></span></div><div class="slot belt"><span class="no">3</span><span></span><span class="q"></span></div>
-          <div class="subhead" style="margin-top:1mm"><span>The Pack</span><span>Regroup (whole turn) to rummage · Qty / slots →</span></div>
-          <div class="slot "><span class="no">4</span><span></span><span class="q"></span></div><div class="slot "><span class="no">5</span><span></span><span class="q"></span></div><div class="slot "><span class="no">6</span><span></span><span class="q"></span></div><div class="slot "><span class="no">7</span><span></span><span class="q"></span></div><div class="slot "><span class="no">8</span><span></span><span class="q"></span></div><div class="slot "><span class="no">9</span><span></span><span class="q"></span></div><div class="slot "><span class="no">10</span><span></span><span class="q"></span></div><div class="slot "><span class="no">11</span><span></span><span class="q"></span></div><div class="slot over"><span class="no">12</span><span></span><span class="q"></span></div><div class="slot over"><span class="no">13</span><span></span><span class="q"></span></div>
-          <div class="tiny" style="margin-top:1mm"><b>1 slot:</b> 1H weapon, shield, Grimoire, rope, lantern, 3 potions. <b>2 slots:</b> 2H heavy weapon, small chest. <b>100 coins = 1 slot.</b> Carried (not worn) armour = 3. Containers never add capacity. Hatched slots exceed the Brawn 3 maximum of 11. Cross out slots above your capacity, and <b>one more for every Wound</b> — drop what was there or take 1 Dissonant each turn you drag it.</div>
-        </div>
-      </div>
-
-      <div class="panel"><div class="plate"><span>PURSE &amp; SUPPLY</span><span class=sub>10 cp = 1 sp · 20 sp = 1 gs</span></div>
-        <div class="body">
-          <div class="coin">
-            <div class="box"><span class="lbl">Copper (cp)</span></div>
-            <div class="box"><span class="lbl">Silver (sp)</span></div>
-            <div class="box"><span class="lbl">Gold Sovereigns (gs)</span></div>
-          </div>
-          <div style="display:grid;grid-template-columns:1fr 1fr;gap:2mm;margin-top:1mm">
-            <div class="field "><span class="lbl">Banked (Finance Bank)</span></div><div class="field "><span class="lbl">Branch / settlement</span></div>
-          </div>
-          <div style="display:flex;justify-content:space-between;align-items:center;margin-top:1.6mm">
-            <span class="lbl" style="color:var(--ink)">Community Supply Die</span>
-            <div class="supply"><span><i class="chk rd"></i>d10</span><span><i class="chk rd"></i>d8</span><span><i class="chk rd"></i>d6</span><span><i class="chk rd"></i>d4</span><span><i class="chk rd"></i>Depleted</span></div>
-          </div>
-          <div class="tiny" style="margin-top:.6mm">Roll after every Breather and Long Rest: <b>1–2 steps it down</b>. Depleted — no shooting, no Stress cleared by rest, no light.</div>
-        </div>
-      </div>
-
-      <div class="panel" style="flex:1"><div class="plate"><span>ATTUNED ITEMS</span><span class=sub>1 Locked Stress each · mark A on the track</span></div>
-        <table class="g tall">
-          <colgroup><col style="width:34%"><col style="width:16%"><col></colgroup>
-          <tr><th>Item</th><th>Tier</th><th>Ability · Relic drawback</th></tr>
-          <tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr>
-        </table>
-        <div class="body tiny" style="flex:none;padding-top:.8mm">Enchanted &amp; Relic items only. Slots = Will (min 1). Unattuning takes 10 uninterrupted minutes; nothing else releases the Stress.</div>
+  <div class="cols" style="grid-template-columns:1fr 1fr">
+    <div class="panel"><div class="plate"><span>INVENTORY</span><span class=sub>capacity 8 + Brawn · max 11</span></div>
+      <div class="body" style="padding-top:.6mm">
+        <div class="subhead"><span>The Belt — 3 slots</span><span>draw as a Free Action</span></div>
+        <div class="slot tallrow belt"><span class="no">1</span><span></span><span class="q"></span></div><div class="slot tallrow belt"><span class="no">2</span><span></span><span class="q"></span></div><div class="slot tallrow belt"><span class="no">3</span><span></span><span class="q"></span></div>
+        <div class="subhead" style="margin-top:1mm"><span>The Pack</span><span>Regroup (whole turn) to rummage · Qty / slots →</span></div>
+        <div class="slot tallrow "><span class="no">4</span><span></span><span class="q"></span></div><div class="slot tallrow "><span class="no">5</span><span></span><span class="q"></span></div><div class="slot tallrow "><span class="no">6</span><span></span><span class="q"></span></div><div class="slot tallrow "><span class="no">7</span><span></span><span class="q"></span></div><div class="slot tallrow "><span class="no">8</span><span></span><span class="q"></span></div><div class="slot tallrow "><span class="no">9</span><span></span><span class="q"></span></div><div class="slot tallrow "><span class="no">10</span><span></span><span class="q"></span></div><div class="slot tallrow "><span class="no">11</span><span></span><span class="q"></span></div>
+        <div class="tiny" style="margin-top:1mm"><b>1 slot:</b> 1H weapon, shield, Grimoire, rope, lantern, 3 potions. <b>2 slots:</b> 2H heavy weapon, small chest. <b>100 coins = 1 slot.</b> Carried (not worn) armour = 3. Containers never add capacity. Cross out slots above your capacity, and <b>one more for every Wound</b> — drop what was there or take 1 Dissonant each turn you drag it.</div>
       </div>
     </div>
-
     <div style="display:flex;flex-direction:column;gap:2.2mm;min-height:0">
-      <div class="panel"><div class="plate"><span>FEATS</span><span class=sub>creation: 2 × Tier 1</span></div>
-        <table class="g tall">
-          <colgroup><col style="width:30%"><col style="width:8%"><col style="width:22%"><col></colgroup>
-          <tr><th>Feat</th><th class="c">Tier</th><th>Prerequisites</th><th>Effect</th></tr>
-          <tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr>
-        </table>
-        <div class="body tiny" style="flex:none;padding-top:.8mm"><b>Tier 2</b> needs any one Tier 1 feat. <b>Tier 3</b> needs its Archetype's Tier 2 feat, or any two Tier 2 feats.</div>
-      </div>
-
       <div class="panel"><div class="plate"><span>SPECIES TRAITS</span><span class=sub>a trait never comes without its drawback</span></div>
         <div class="body" style="padding-top:.4mm">
-          <div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div>
+          <div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div><div class="line"></div>
           <div style="display:grid;grid-template-columns:auto 1fr;gap:2mm;align-items:end"><span class="lbl" style="color:var(--ink);padding-bottom:.6mm">Drawback</span><div class="line"></div></div>
           <div style="display:grid;grid-template-columns:auto 1fr;gap:2mm;align-items:end"><span class="lbl" style="color:var(--ink);padding-bottom:.6mm">Drawback</span><div class="line"></div></div>
         </div>
       </div>
-
       <div class="panel" style="flex:1"><div class="plate"><span>NOTES · CONTACTS · DEBTS · FAVOURS</span></div>
         <div class="body ruled" style="margin:0 2mm 1mm;padding:0"></div>
       </div>
     </div>
   </div>
 
-  <div class="cols" style="grid-template-columns:1fr 60mm">
+  <div class="panel" style="flex:1"><div class="plate"><span>FEATS</span><span class=sub>creation: 2 × Tier 1 · further feats 3 DP</span></div>
+    <table class="g feat">
+      <colgroup><col style="width:22%"><col style="width:6%"><col style="width:17%"><col></colgroup>
+      <tr><th>Feat</th><th class="c">Tier</th><th>Prerequisites</th><th>Effect</th></tr>
+      <tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr><tr><td></td><td class="c"></td><td></td><td></td></tr>
+    </table>
+    <div class="body tiny" style="flex:none;padding-top:.8mm;margin-top:auto"><b>Tier 2</b> needs any one Tier 1 feat. <b>Tier 3</b> needs its Archetype's Tier 2 feat, or any two Tier 2 feats. Archetypes are a signpost, not a cage.</div>
+  </div>
+  <div class="foot"><span>IRON &amp; MARROW · Sheet v0.3 · built against the master rules of 1 Oct 2026</span><span>2 / 4</span></div>
+</section><section class="page">
+  <div class="hdr" style="grid-template-columns:42mm 1fr">
+    <div class="brand" style="padding:1.1mm 1.5mm 1mm"><div class="t" style="font-size:10.5pt">IRON<span class="amp" style="font-size:8pt">&amp;</span>MARROW</div><div class="s" style="font-size:5.4pt">Purse &amp; Growth</div></div>
+    <div class="hfields"><div class="field span6"><span class="lbl">Character Name</span></div><div class="field span6"><span class="lbl">Milestone · DP earned · banked</span></div></div>
+  </div>
+
+  <div class="cols" style="grid-template-columns:1fr 1fr">
+    <div class="panel"><div class="plate"><span>PURSE &amp; SUPPLY</span><span class=sub>10 cp = 1 sp · 20 sp = 1 gs</span></div>
+      <div class="body">
+        <div class="coin">
+          <div class="box"><span class="lbl">Copper (cp)</span></div>
+          <div class="box"><span class="lbl">Silver (sp)</span></div>
+          <div class="box"><span class="lbl">Gold Sovereigns (gs)</span></div>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:2mm;margin-top:1mm">
+          <div class="field "><span class="lbl">Banked (Finance Bank)</span></div><div class="field "><span class="lbl">Branch / settlement</span></div>
+        </div>
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-top:1.6mm">
+          <span class="lbl" style="color:var(--ink)">Community Supply Die</span>
+          <div class="supply"><span><i class="chk rd"></i>d10</span><span><i class="chk rd"></i>d8</span><span><i class="chk rd"></i>d6</span><span><i class="chk rd"></i>d4</span><span><i class="chk rd"></i>Depleted</span></div>
+        </div>
+        <div class="tiny" style="margin-top:.6mm">Roll after every Breather and Long Rest: <b>1–2 steps it down</b>. Depleted — no shooting, no Stress cleared by rest, no light. Restock in Downtime: 5 / 10 / 15 / 20 sp per step.</div>
+      </div>
+    </div>
+    <div class="panel"><div class="plate"><span>ATTUNED ITEMS</span><span class=sub>1 Locked Stress each · mark A on the track</span></div>
+      <table class="g tall">
+        <colgroup><col style="width:34%"><col style="width:16%"><col></colgroup>
+        <tr><th>Item</th><th>Tier</th><th>Ability · Relic drawback</th></tr>
+        <tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr>
+      </table>
+      <div class="body tiny" style="flex:none;padding-top:.8mm;margin-top:auto">Enchanted &amp; Relic items only. Slots = Will (min 1). Unattuning takes 10 uninterrupted minutes; nothing else releases the Stress.</div>
+    </div>
+  </div>
+
+  <div class="cols" style="grid-template-columns:1fr 62mm;flex:1">
     <div class="panel"><div class="plate"><span>ADVANCEMENT LEDGER</span><span class=sub>3 DP per Milestone Reward</span></div>
-      <table class="g">
-        <colgroup><col style="width:13%"><col style="width:12%"><col><col style="width:13%"></colgroup>
+      <table class="g ledger">
+        <colgroup><col style="width:13%"><col style="width:11%"><col><col style="width:12%"></colgroup>
         <tr><th class="c">Milestone</th><th class="c">DP in</th><th>Spent on</th><th class="c">Banked</th></tr>
         <tr><td class="c" style="font-family:Cinzel;font-weight:700">0</td><td class="c tiny">creation</td><td class="tiny" style="padding-left:1.2mm">4 Attribute DP · 8 Skill DP (9 Human / Adaptable) · 2 Tier 1 feats · 80 sp</td><td class="c"></td></tr>
-        <tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr>
+        <tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr><tr><td class="c"></td><td class="c"></td><td></td><td class="c"></td></tr>
       </table>
     </div>
-    <div style="display:flex;flex-direction:column;gap:2.2mm">
+    <div style="display:flex;flex-direction:column;gap:2.2mm;min-height:0">
       <div class="panel"><div class="plate"><span>DP COSTS</span></div>
         <div class="body">
           <div class="costs">
@@ -444,16 +451,16 @@ table.g.xtall td { height:11.2mm; }
           <div class="tiny" style="margin-top:.8mm">Skill cap: Attribute + 3, max 6. Adept needs rank 2+ · Master rank 3+ in Arcana/Faith.</div>
         </div>
       </div>
-      <div class="panel" style="flex:1"><div class="plate"><span>SETTLEMENTS</span></div>
-        <table class="g">
-          <colgroup><col><col style="width:14%"><col style="width:44%"></colgroup>
+      <div class="panel" style="flex:1"><div class="plate"><span>SETTLEMENTS</span><span class=sub>Hostile → Friendly</span></div>
+        <table class="g sett">
+          <colgroup><col><col style="width:16%"><col style="width:46%"></colgroup>
           <tr><th>Settlement</th><th class="c">Tier</th><th>Stance</th></tr>
-          <tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr>
+          <tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr><tr><td></td><td class="c"></td><td><div class="dr" style="justify-content:flex-start"><i class="chk"></i>H <i class="chk"></i>U <i class="chk"></i>N <i class="chk"></i>F</div></td></tr>
         </table>
       </div>
     </div>
   </div>
-  <div class="foot"><span>IRON &amp; MARROW · Sheet v0.1 · built against the master rules of 1 Oct 2026</span><span>2 / 3</span></div>
+  <div class="foot"><span>IRON &amp; MARROW · Sheet v0.3 · built against the master rules of 1 Oct 2026</span><span>3 / 4</span></div>
 </section><section class="page">
   <div class="hdr" style="grid-template-columns:42mm 1fr">
     <div class="brand" style="padding:1.1mm 1.5mm 1mm"><div class="t" style="font-size:10.5pt">IRON<span class="amp" style="font-size:8pt">&amp;</span>MARROW</div><div class="s" style="font-size:5.4pt">Grimoire &amp; Litany</div></div>
@@ -474,7 +481,7 @@ table.g.xtall td { height:11.2mm; }
           <div class="k">Snake Eyes</div><div>1 Wound + 1 Dissonant + a battlefield hazard</div>
         </div>
         <div class="ref" style="margin-top:1.2mm">
-          <b>Clash spells:</b> Impact = Margin + Spell Power. Margin 1–2 costs 1 Dissonant; 3+ costs nothing; losing costs nothing.<br>
+          <b>Clash spells</b> use the same ladder: Impact = Margin + Spell Power. A tie lands nothing; losing costs nothing.<br>
           <b>Overcharge:</b> Lock 1 Stress → +2 Spell Power, once per cast.<br>
           <b>Blood Channelling:</b> take 1 Dissonant → Advantage.<br>
           <b>Book &amp; Hand:</b> Grimoire in one hand, other hand free (or a Conduit). Each unmet = 1 Dissonant + Disadvantage. Point-Blank = Disadvantage unless the focus is Sidearm.<br>
@@ -540,6 +547,6 @@ table.g.xtall td { height:11.2mm; }
       <tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr><tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr><tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr><tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr><tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr><tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr><tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr><tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr><tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr><tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr><tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr><tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr><tr><td></td><td class="c"></td><td class="c"></td><td></td><td></td><td class="c"></td><td class="c"></td><td></td></tr>
     </table>
   </div>
-  <div class="foot"><span>IRON &amp; MARROW · Sheet v0.1 · built against the master rules of 1 Oct 2026</span><span>3 / 3</span></div>
+  <div class="foot"><span>IRON &amp; MARROW · Sheet v0.3 · built against the master rules of 1 Oct 2026</span><span>4 / 4</span></div>
 </section>
 </body></html>

@@ -3,7 +3,7 @@
 
 Instead of tracking weight, a character’s carrying capacity is defined by a hard limit of physical "Slots" drawn on their character sheet as literal boxes.
 
-- Total Capacity: Every character has a base of 8 Slots, plus their Brawn (Max 13 total slots).    
+- Total Capacity: Every character has a base of 8 Slots, plus their Brawn (Max 11 total slots).    
 - Item Sizing:    
 
 - 1 Slot: A one-handed weapon, a shield, a coiled rope, a Grimoire, a lantern, a cluster of 3 potions.    
