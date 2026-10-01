@@ -315,11 +315,11 @@ A plain signet ring, its seal worn smooth and unreadable.
 
 **Sigil-Etched Blade** — ~150 sp | Legendary, Commission-gated
 A longsword (or similar) inlaid with warding sigils that glow faintly hot to the touch of anything unnatural.
-- **Effect:** Bane (Undead, Daemon). Once per Scene, the wielder may spend 1 Momentum on a successful hit against a Bane-eligible target to also inflict the Fear condition (per the Bestiary Trait of the same name).
+- **Effect:** Bane (Undead, Daemon). **Spend 1 Momentum** on a successful hit against a Bane-eligible target to also inflict the Fear condition (per the Bestiary Trait of the same name). Repeatable as often as your Bank can pay for it.
 
 **Blade of the Undertow** — ~150 sp | Legendary, Commission-gated
 A weapon that always smells faintly of brine, regardless of how far from the sea it travels.
-- **Effect:** Once per Scene, the wielder may spend 1 Momentum on a successful hit to force the target into an unopposed Prowess check vs. TN 8; on a failure, the target is shoved 1 Zone and knocked Prone. (Reuses Havoc's and the Domain of Sea & Storms' existing push/shove language rather than inventing new physics.)
+- **Effect:** **Spend 1 Momentum** on a successful hit to force the target into an unopposed Prowess check vs. TN 8; on a failure, the target is shoved 10 ft (2 squares) and knocked Prone. Repeatable as often as your Bank can pay for it. (Reuses Havoc's and the Domain of Sea & Storms' existing push/shove language rather than inventing new physics.)
 
 **Sigil-Bound Wand (Single-Charge)** — 40 sp for a stored Novice spell, scaling to Legendary for Master-tier | Rare–Legendary
 A single-use wand pre-loaded with one specific spell by an Arcanist during downtime (treat the loading process as a Commission). This is the formal version of the "activate an alchemical wand looted off a dead Boss" scenario GM Tools already gestures at — any character can trigger it, not just casters.
@@ -340,7 +340,7 @@ A plain wand whose grain has gone glassy and still, as though it has stopped fli
 **Whisper-Kissed Leathers** — ~150 sp | Legendary, Commission-gated | 1 Locked Stress Attunement  
 Requires a Light armor base (Padded or Leather).
 
-- **Effect:** Once per Scene, when declared the target of an Aggressor action, the wearer may spend 1 Momentum to become **Obscured** (per Iron World's Cover rules) for that single Clash — the attacker suffers Disadvantage, as if striking through smoke, even in the open.
+- **Effect:** When declared the target of an Aggressor action, **spend 1 Momentum** to become **Obscured** (per Iron World's Cover rules) for that single Clash — the attacker suffers Disadvantage, as if striking through smoke, even in the open. Repeatable as often as your Bank can pay for it.
 - _Reuses the existing Obscured mechanic rather than inventing a new defensive stat — same logic as Cloak of Still Water reusing Rushed Stealth._
 
 ### Relic (1 Locked Stress Attunement + Built-In Drawback)

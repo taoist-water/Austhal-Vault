@@ -2635,7 +2635,7 @@ The gods reach down and aggressively deny reality. *(Converted from a Faith-3 fe
 - **The Paragon:** *Thalass's Omen*
 - **The Lore:** Thalass was not a person, but an apocalyptic rogue wave that destroyed an entire fleet of the old king's armada. The Tidespoken revere this natural disaster as the ultimate proof that the ocean is the true sovereign of the world, and they seek to align themselves with its crushing power.
 - **Flavor:** Sea-shell tokens, salt-crusted oilskins. Prayers manifest as the crash of distant rogue waves and heavy brine smells.
-- **Domain Tag (Tidal Undertow):** Affect enemy with prayer -> Target is physically shoved 1 Zone in a direction of your choosing.
+- **Domain Tag (Tidal Undertow):** Affect enemy with prayer -> Target is physically shoved 10 ft (2 squares) in a direction of your choosing.
 
 ### Novice Prayers
 
