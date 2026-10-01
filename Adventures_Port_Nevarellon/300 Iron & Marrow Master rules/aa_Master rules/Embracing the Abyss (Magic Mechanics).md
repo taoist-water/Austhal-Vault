@@ -142,12 +142,12 @@ Faith magic is not a gamble against failure — it is a negotiation with the pri
 
 **Encroachment (The Running Tab)**
 
-Stress isn't the only thing a Fail costs a Priest — it also costs them a little more of the entity's attention. Track this on a personal counter from 0 to 3, separate from any Stress track.
+Stress isn't the only thing a Fail costs a Priest — it also costs them a little more of the entity's attention. Track it on **3 Encroachment slots**, separate from any Stress track, filled the way Wound Slots are. Wherever the rules say a Priest "gains 1 Encroachment", fill 1 slot; "clears 1 Encroachment" empties 1 slot; "resets Encroachment to 0" empties them all.
 
-- Whenever a Priest Fails a Tithe of Will — on a fresh cast or a Flowing check — they gain 1 point of Encroachment, in addition to paying the normal Locked Stress cost.
-- Encroachment never modifies a dice roll. It sits on the sheet as a silent tally, exactly the way Locked Stress does — it costs nothing until it runs out of room.
-- The moment Encroachment reaches 3, it immediately clears to 0, and the Priest suffers **1 direct Wound** (bypassing Wound Threshold, per the Direct Wounds rule), as the entity collects on the tab all at once.
-- Encroachment does not clear on its own, and a Breather cannot touch it, per the Breather's existing limitation that it cannot clear Locked Stress — Encroachment is treated the same way. It only clears via the cap-trigger above, a Snake Eyes result (see Toll in Flesh), or a successful Religious Pursuit (see Downtime).
+- Whenever a Priest Fails a Tithe of Will — on a fresh cast or a Flowing check — they fill 1 Encroachment slot, in addition to paying the normal Locked Stress cost.
+- Encroachment never modifies a dice roll. Filled slots sit on the sheet as a silent tally, exactly the way Locked Stress does — they cost nothing until the Priest runs out of room.
+- **The Tab Comes Due:** when a Priest must fill an Encroachment slot and has none left empty, the entity collects all at once. The Priest suffers **1 direct Wound** (bypassing Wound Threshold, per the Direct Wounds rule), and all 3 slots clear.
+- Encroachment does not clear on its own, and a Breather cannot touch it, per the Breather's existing limitation that it cannot clear Locked Stress — Encroachment is treated the same way. It only clears when the Tab Comes Due, on a Snake Eyes result (see Toll in Flesh), or by a successful Religious Pursuit (see Downtime).
 
 >**Why roll at all, if the Prayer never fails?**
 
@@ -157,7 +157,7 @@ Stress isn't the only thing a Fail costs a Priest — it also costs them a littl
 
 **The Attrition**
 
-A Priest can perfectly heal the party and strip the armor off bosses, but every time they do, they step closer to their own breaking point — on two separate clocks. Stress is the fast one: when a Priest maxes out their Stress track, they cannot cast anymore without suffering physical Wounds, per the Death Spiral rule. Encroachment is the slow one: even a Priest who manages their Stress carefully and never Breaks can still be run down by an accumulation of Fails alone, three bad rolls from now — always with a Wound waiting at the end, never with a Locked Stress figure to negotiate against.
+A Priest can perfectly heal the party and strip the armor off bosses, but every time they do, they step closer to their own breaking point — on two separate clocks. Stress is the fast one: when a Priest maxes out their Stress track, they cannot cast anymore without suffering physical Wounds, per the Death Spiral rule. Encroachment is the slow one: even a Priest who manages their Stress carefully and never Breaks can still be run down by an accumulation of Fails alone, four bad rolls from an empty tab — always with a Wound waiting at the end, never with a Locked Stress figure to negotiate against.
 
 ________________________________________________________________________
 
