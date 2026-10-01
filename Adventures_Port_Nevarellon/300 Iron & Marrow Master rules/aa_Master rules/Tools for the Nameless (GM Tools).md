@@ -55,11 +55,11 @@ Currency scales with the party's current Standing, the same way Enemy Budget doe
 ______________________________________________________________________
 # Targeting the Resources
 
-Because the community supply die is a tangible mechanic, an enemy can spend its own Momentum to attack the party's supplies instead of their health, creating terrifying new enemy archetypes.
+Because the Community Supply Die is a tangible mechanic, an enemy can attack the party's supplies instead of their health, creating terrifying new enemy archetypes. **What that costs depends on the archetype** — an Elite spends Momentum and keeps its damage; a Fodder thief spends its whole action and deals none.
 
 - The Rust Monster / Acid Spit: If an enemy with a corrosive or fire-based attack wins a Clash by a Margin of 5+, it may spend 1 Momentum from its own Bank to force an immediate Supply Die roll as the party's gear melts or catches fire.
     
-- The Scavenger: Small, fodder-tier enemies (like goblins or feral ghouls) might have a rule where if they win a Clash, they don't deal Impact. Instead, they slice open a backpack and flee, forcing an automatic step-down of the Supply Die without a roll.
+- The Scavenger: Small, Fodder-tier enemies — goblins, feral ghouls — that trade their attack for the party's pack rather than their blood. **Instead of a regular attack action**, the creature slices open a satchel and flees: the target must pass an **Acrobatics check vs TN 8** or the Community Supply Die **steps down one tier**. There is no Clash and no Supply Die roll — the failed check *is* the step-down, which makes it harsher per attempt than the Rust Monster's forced roll, and it is paid for with the creature's entire action, since a Scavenger deals no Impact at all on the turn it tries. **The Goblin Scrapper's `Sabotage` is this ability, already statted in the Bestiary — copy that wording rather than reinventing it.**
 ________________________________________________________________________
 ### Non-Caster usage of Faith and Arcana
 
