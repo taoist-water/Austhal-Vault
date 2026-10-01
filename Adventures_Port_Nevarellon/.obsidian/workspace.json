@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/aa_Master rules/Hardware (Equipment).md",
+                "file": "300 Iron & Marrow Master rules/aa_Master rules/Metal meet Flesh (Combat Mechanics).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware (Equipment)"
+              "title": "Metal meet Flesh (Combat Mechanics)"
             }
           }
         ],
@@ -208,8 +208,10 @@
   },
   "active": "6b473039391192a1",
   "lastOpenFiles": [
-    "300 Iron & Marrow Master rules/aa_Master rules/Play Test -  The Ledger House Job.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Hardware (Equipment).md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/iron-marrow-character-sheet.html",
+    "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/iron-marrow-character-sheet.pdf",
+    "300 Iron & Marrow Master rules/aa_Master rules/Play Test -  The Ledger House Job.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Beasts Monsters Mutants (Bestiary).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Embracing the Abyss (Magic Mechanics).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Soothing the soul (Downtime).md",
@@ -233,7 +235,6 @@
     "000 Atlas/003 Sub-Locations & Architecture/The Black Mast Warehouse.md",
     "000 Atlas/003 Sub-Locations & Architecture/The Shades.md",
     "000 Atlas/003 Sub-Locations & Architecture/The Muddy Docks.md",
-    "000 Atlas/002 Cities & Settlements/Port Nevarellon.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/powder-punk-batch-1.diff",
     "300 Iron & Marrow Master rules/aa_Master rules/Playtest - Temple of the Lost God",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/sim_output_v5.txt",
@@ -242,8 +243,6 @@
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs",
     "Longform Lore collator/Lore",
     "Longform Lore collator",
-    "longform novel/lore",
-    "longform novel",
     "Untitled.canvas"
   ]
 }
