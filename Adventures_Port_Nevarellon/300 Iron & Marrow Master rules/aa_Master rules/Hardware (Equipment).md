@@ -309,7 +309,7 @@ Soft-soled boots that drink footfalls the way Cloak of Still Water drinks ambien
 
 **Signet of Sound Mind** — 95 sp | Rare | 0 Slots (Micro-Item, worn)
 A plain signet ring, its seal worn smooth and unreadable.
-- **Effect:** The wearer's Stress Limit is treated as 1 higher solely for the purpose of determining Breaking — a slightly longer fuse before the mind gives out, not a bigger Stress track on paper.
+- **Effect:** **Spend 1 Momentum** when a point of Stress would fill the last empty box on your Stress track: that point is lost instead, and you do not Break. Repeatable as often as your Bank can pay for it. It has no effect once the track is already full — it holds the mind back from the edge, it cannot pull it back from over it.
 
 #### Legendary Tier
 
