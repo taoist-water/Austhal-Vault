@@ -285,7 +285,7 @@ Attunement is capped separately from Inventory — a character cannot be Attuned
 
 #### Rare Tier
 
-*Every item in this tier is a **Momentum-gated active**, per the Enchantment tier table above — the Attunement's permanent Locked Stress buys a tool you can reach for as often as your Bank allows, not one free trigger a Scene. An effect that fires only once per Scene belongs at **Charmed**, where it costs no Attunement at all (compare Quiet Step Buckles against the Boots of the Silent Step below). Two items here are instead **permanently on** — Boots of the Long Road and the Signet of Sound Mind — which is the other shape this tier permits.*
+*Items in this tier take one of two shapes. Most are a **Momentum-gated active**, per the Enchantment tier table above — the Attunement's permanent Locked Stress buys a tool you can reach for as often as your Bank allows, not one free trigger a Scene. The rest are **permanently on**: a passive trait strong enough to earn a permanent Locked Stress box, such as Boots of the Long Road's +10 ft Move. An effect that fires only once per Scene belongs at **Charmed** in either shape, where it costs no Attunement at all (compare Quiet Step Buckles against the Boots of the Silent Step below).*
 
 **Band of the Steady Hand** (ring) — 90 sp | Rare | 0 Slots (Micro-Item, worn)
 A plain iron ring, warm to the touch regardless of the weather.
