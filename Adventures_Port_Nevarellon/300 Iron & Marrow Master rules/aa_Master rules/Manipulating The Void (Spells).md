@@ -697,7 +697,7 @@ The Shaman inhales the ashes or bone dust of a long-dead warrior, allowing a fer
 - **Duration:** Until the end of the encounter
 - **Resolution:** Unopposed Arcana vs. TN 10. (Targeting self or one ally in sight).
     
-- The Effect: The target is physically swollen with spiritual mass. For the rest of the encounter, the target's primary weapon permanently gains +1 Power, and they are immune to being knocked Prone or Repositioned.
+- The Effect: The target is physically swollen with spiritual mass. For the rest of the encounter, the target's primary weapon gains +1 Power, and they are immune to being knocked Prone or Repositioned.
     
 - The Margin Scaler:
     
@@ -800,10 +800,10 @@ The caster’s hands violently sweat a highly reactive, boiling solvent, which t
 - **Spell Power: 2**
 - The Effect: This spell ignores the target's Shield Value (SV) entirely during the Clash, as the acid simply splashes over and eats through the barrier.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 2 (Spell Power). If the target used a shield to Block, the shield permanently loses 1 SV for the rest of the campaign (or until repaired via Downtime). The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): As above, and the target's armor immediately gains the Damaged tag, permanently disabling special tags like Ablative Carapace or Construct plating.
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). If the target used a shield to Block, the shield **permanently loses 1 Shield Value** — a **baseline** reduction, not the Damaged Condition, so **no repair restores it** (see *Condition is not the same as baseline*, Hardware). The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, and the target's armour immediately gains the **Damaged** tag — which Hammer & Forge can clear like any Condition — **and its special tags are destroyed outright**: Ablative Carapace, Construct plating and their like are a **baseline** loss and never come back, repaired or not. The acid eats the cleverness out of a harness first and the metal second.
 
-**Designer Note — a justified deviation, downward.** Spell Power is **2** where the Adept default is **3** (*Embracing the Abyss*), and the missing point was spent on permanence rather than lost. The spell ignores Shield Value outright, strips **1 SV permanently** on a landed hit, and on Clean **permanently Damages the target's armour**, killing tags like Ablative Carapace or Construct plating for good. It is single-target, so the area reduction never applied — the trade is raw force for irreversible gear destruction. Recorded 30 Sep; do not "correct" this to 3.
+**Designer Note — a justified deviation, downward.** Spell Power is **2** where the Adept default is **3** (*Embracing the Abyss*), and the missing point was spent on permanence rather than lost. The spell ignores Shield Value outright, strips **1 SV from a shield's baseline** on any landed hit, and on Clean both Damages the target's armour *and* **destroys its special tags outright** — Ablative Carapace, Construct plating and their like are gone for good, where the Damaged tag itself is merely a Condition a smith can clear. It is single-target, so the area reduction never applied — the trade is raw force for irreversible gear destruction. Recorded 30 Sep; do not "correct" this to 3.
 
     
 
@@ -844,7 +844,7 @@ The caster snaps their fingers, drastically superheating the ambient air around 
 
 - Margin 1–2: You weld the target's boots to the floor or their greaves at the knees. The target is Anchored (0 movement) until they spend their next full Aggressor action physically tearing the metal apart. The caster also takes 1 Dissonant Stress from the strain.
     
-- Margin 3+ (Clean): You fuse the target's weapon to their gauntlet or weld their visor shut. The target is Anchored and permanently suffers Disadvantage on all Strike rolls until the end of the fight.
+- Margin 3+ (Clean): You fuse the target's weapon to their gauntlet or weld their visor shut. The target is Anchored and suffers Disadvantage on all Strike rolls until the end of the fight.
     
 
 **Vitrify** (Environmental / Breach)
@@ -895,7 +895,7 @@ Where Caustic Deluge hits one piece of gear and Solder Joints fuses one weapon, 
 - **Resolution:** Arcane Clash (Arcana vs. Target's Resolve).
 - The Effect: Every piece of equipped gear the target carries — weapon, shield, armor — decays at once: metal rusts to flaking ruin, leather cracks to dust, wood crumbles. Like Solder Joints, this deals zero Impact; it destroys equipment instead. Only affects a target actually wearing or wielding separate physical gear — a Beast or bare-handed Construct has nothing for this to grip onto.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Every equipped weapon and shield permanently loses 2 SV or Power (repairable only through extensive Downtime, if at all); armor gains the Damaged tag. Caster also takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: Every equipped weapon and shield **permanently loses 2 SV or Power** — a **baseline** reduction, not the Damaged Condition, so **no repair restores it** (see *Condition is not the same as baseline*, Hardware); armour gains the **Damaged** tag, which a smith *can* clear. Caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and one piece of the target's gear (their choice, or GM's call) is destroyed outright — gone for the rest of the campaign.
 
 ________________________________________________________________
@@ -1270,7 +1270,7 @@ The Astromancer temporarily severs an ally’s connection to gravity, completely
     
 - Margin 3–4 (Clean): The target easily adapts to the microgravity.
     
-- Margin 5+ (Massive): The target perfectly manipulates their orbital momentum. The first time the target drops from a height or leaps to perform a melee Strike, their weapon's Power is permanently increased by +1 for that single swing due to terminal velocity.
+- Margin 5+ (Massive): The target perfectly manipulates their orbital momentum. The first time the target drops from a height or leaps to perform a melee Strike, their weapon's Power is increased by +1 for that single swing due to terminal velocity.
 
 ### Master
 
