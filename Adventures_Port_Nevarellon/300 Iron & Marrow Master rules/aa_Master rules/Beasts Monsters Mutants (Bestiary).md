@@ -895,9 +895,11 @@ A hag is made by the place she lives, the same way a Wretch is made by the place
 | Skin | Home ground | Face | Guise | Special Action | Matriarch's signature spell |
 | --- | --- | --- | --- | --- | --- |
 | **Bog-Hag** | freezing water — marsh, fen, flooded sluice | unlovely | Fear Inducing | Sucking Mire | The Creeping Ague _(Adept)_ |
-| **Brine-Hag** | freezing water — sea, surf, tidal caves | unlovely | Fear Inducing | Brine in the Lungs | Sympathetic Effigy _(Adept)_ |
-| **Briar-Hag** | woodland — no Hazard Check | lovely | Glamour | Beckon | Choking Bramble _(Adept)_ |
-| **Mirage-Hag** | a scorching desert — dunes, salt pan, dry oasis | lovely | Glamour | Drink Them Dry | Malefic Reflection _(Master)_ |
+| **Brine-Hag** | still salt water — sheltered reef, lagoon, tide-pool | unlovely | Fear Inducing | Brine in the Lungs | Sympathetic Effigy _(Adept)_ |
+| **Briar-Hag** | drowned woodland — flooded forest at a marsh's edge; no Hazard Check | lovely | Glamour | Beckon | Choking Bramble _(Adept)_ |
+| **Mirage-Hag** | a scorching desert where still water used to be — salt pan, dry tarn, dead oasis | lovely | Glamour | Drink Them Dry | Malefic Reflection _(Master)_ |
+
+_Every home ground is **still** water, or was. Fey quicken where god-essence pools in still places — marsh, tarn, sheltered reef, the drowned edges of old forests — and a hag is rooted to the place she quickened in. That is why there is no open-ocean hag and no hag of the deep dunes: the Brine-Hag keeps to sheltered reef, and the Mirage-Hag is what stayed behind when her tarn dried to salt._
 
 _Appearance is the axis the Guise turns on, and it is mechanical rather than cosmetic. The unlovely hags are frightening from the first moment (**Fear Inducing**, a canon Trait). The lovely ones are frightening at the **last** moment — **Glamour** holds the party's hand off her until the mask drops, and the drop itself forces the same Fear check. Both halves of the roster end up making the party roll Resolve; they just disagree about when._
 
@@ -909,7 +911,7 @@ _Appearance is the axis the Guise turns on, and it is mechanical rather than cos
 **Brine-Hag** — _barnacled, slack-skinned, hair like drowned rope. Sailors' stories make her prettier than she is._
 - **Guise — Fear Inducing.**
 - **Special Action — Brine in the Lungs:** _Trigger:_ Instead of a regular action. _Effect:_ One target within Short Range who can hear her must pass an **Athletics check vs TN 8** or gain **Drowned** — on dry land, if need be, as their lungs fill with seawater. It clears exactly as Drowned always does (Athletics vs TN 8, made by the target or by an adjacent ally spending an Action); on dry land, "reaching the surface" means coughing it up.
-- **Home rider (inert elsewhere):** Ignores difficult terrain from surf and water. **Tide-Born:** if she starts her activation standing in water, she clears 1 Stress. _The sea is the only thing that has ever been kind to her._
+- **Home rider (inert elsewhere):** Ignores difficult terrain from shallows, reef and standing water. **Tide-Born:** if she starts her activation standing in water, she clears 1 Stress. _The sea is the only thing that has ever been kind to her._
 
 **Briar-Hag** — _a woman at the edge of the trees, barefoot, holding a lantern that is the wrong colour. She knows your name._
 - **Guise — Glamour.**
@@ -924,8 +926,9 @@ _Appearance is the axis the Guise turns on, and it is mechanical rather than cos
 #### Phases
 
 - **Behaviour when unbroken:** Never closes to melee by choice; the Talons are for when she is cornered. Opens with her Skin's Special Action, ties a Warding Knot onto whatever stands in front of her, and puts the Evil Eye on whoever is about to swing at her. The lovely ones open by **talking** — Glamour gives Advantage on Influence, and a party that stops to parley has handed her the first activation. Field her behind something with a body: her sisters, or Wretches from the same ground — Bog-Wretches for a Bog-Hag, Dust-Wretches for a Mirage-Hag.
+    - **Not every meeting with a hag is a fight.** Hags are the one kind of Fey that trade with mortals. A party that arrives carrying a god-shard and asking politely is a customer, not an intruder — see **Hag's Work** (Soothing the Soul).
 - **Behaviour when Broken:** Set by her Guise.
-    - **Fear Inducing (Bog, Brine): The Rout.** She goes under — into the mire or the surf — and on her home ground she does not come up anywhere the party is looking. Off it, she runs for the nearest water.
+    - **Fear Inducing (Bog, Brine): The Rout.** She goes under — into the mire or the shallows — and on her home ground she does not come up anywhere the party is looking. Off it, she runs for the nearest water.
     - **Glamour (Briar, Mirage): Frenzy.** The Glamour drops (with its Fear check) and what was underneath comes at the nearest PC: she loses her Parry, gains Advantage on all Strikes, and stops casting.
 - **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
 
@@ -1289,7 +1292,7 @@ __________________________________________________________________
     - _Mirage:_ **Malefic Reflection** on the heaviest hitter, then **Drink Them Dry** on everyone else, while the desert does its own work.
 
     Keeps her sisters within 30 ft at all times, because Sister's Blood only works while they are.
-- **Behaviour when Broken:** **Surrender — she names her price.** If she wears a Glamour it drops first, with its Fear check. Then she offers a bargain for her life: a true answer, a curse lifted, safe passage through her ground. She is Fey, "bound to the old pacts" (Creature Types) — whether she keeps the bargain to its letter, its spirit, or not at all is the GM's call.
+- **Behaviour when Broken:** **Surrender — she names her price.** If she wears a Glamour it drops first, with its Fear check. Then she offers a bargain for her life: a true answer, a curse lifted, safe passage through her ground. **A hag always agrees, and she keeps the letter of what she agrees to** — and the price is paid in full, exactly as it is for **Hag's Work** (Soothing the Soul). If the party accepts, they are bound by its terms as surely as she is; if they break them, she collects another way.
 - **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
 
 _______________________________

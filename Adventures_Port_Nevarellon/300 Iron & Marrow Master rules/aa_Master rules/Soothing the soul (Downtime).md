@@ -14,6 +14,7 @@ Tracking exact calendar days across a party with different ongoing Pursuits gets
 | Distil & Compound (per batch)            | 1 PP    |
 | Religious Pursuit                       | 1 PP    |
 | Commission                               | 3 PP    |
+| Hag's Work (at the hag's own ground — no Settlement Tier) | 3 PP    |
 | Finance Bank                             | 1 PP    |
 | Carousing                                 | 1 PP    |
 
@@ -251,6 +252,55 @@ Each entry below formalizes a Pursuit already referenced elsewhere in the rules.
 - **Output:** One weapon or armour piece upgraded to Masterwork Quality, per the existing Hardware rules (weapons: +1 Power; armour: suppress one negative tag).
 - **Or — Made to Order:** One item that Hardware lists as **Commission-gated** (a firearm, a ship), built new and paid for at its listed price. A Commission-gated item can only be made at a **Capital (Tier 3)** — no lesser settlement has the specialists.
 
+### Hag's Work
+*Carry a god-shard to a hag, tell her what you want to become, and pay what she asks.*
+
+A hag is the one kind of Fey that trades with mortals, and what she trades in is **change**: she can work an Undertow-touched shard into living flesh. This Pursuit is how a character buys a permanent change to their own body. It is deliberately more narrative than numeric — **the dice decide what she asks for, never whether she can do it.** She always can, and she always agrees.
+
+- **Where:** At the hag's own ground — a marsh, a reef, a drowned wood, a salt pan — never in a settlement. A hag is rooted to one place, so reaching her is part of the cost, and the GM decides where she is. **No Settlement Tier or Settlement Reputation applies.** Her own Stance does (Iron World, Social Engine): **Unfriendly or better, she will trade. Hostile, she will not** — and she has a statblock (Bestiary: The Hag, The Hag Matriarch).
+- **PP Cost:** 3 PP, the same as a Commission: she does the work, and the character lies in her water and waits.
+- **Time Cost:** As long as she pleases — a night or a season. Fiction only, per Section 1.
+- **Requirement — the shard:** One Undertow-touched shard per Work. It is **never an Acquisition good** at any Settlement Tier: it is found, stolen, or bought from people who do not ask questions, and the GM places it. No shard, no Work — that is the one thing a hag will not supply herself.
+- **The Check — The Haggle:** Influence vs. the hag's Resolve, opposed (Social Engine) — **The Hag rolls 2d6+0, the Matriarch 2d6+2**. It does not decide whether she agrees. It decides how much say the character gets in **the Price**:
+    - **Failure:** She names one Price. That is the Price.
+    - **Standard Success:** She names two. The character chooses.
+    - **Massive Success (Margin 5+):** She names three. The character chooses, and banks 1 Progress Momentum.
+    - _To decide what she names, the GM chooses from **The Price** table below or rolls 1d6 for each._
+
+**The Work**
+
+The result is a **Relic written into flesh** — Hardware's Relic tier, with the item replaced by the character's own body:
+
+- **Attunement:** 1 Locked Stress and one Attunement Slot, under the Golden Rule exactly as any Relic (Iron Core). No Long Rest, Pursuit, Prayer or alchemy reaches it. **Its only release — unattuning — is having a hag take the shard back out**, which is a second Hag's Work, for a second Price.
+- **The Effect:** One Work from the list below, or a GM-authored Work at Relic strength (Master Prayer / Tier 3 Feat).
+- **The Mark:** Every Work carries its own drawback, written into its entry — and one Mark common to all of them: **the recipient counts as Fey, as well as their own Creature Type**, for every Bane, Domain Tag and ward that keys off Type (Bestiary, Creature Types). Cold Iron bites them now. So does anything else that hunts the Fey.
+
+| Work | Usually from | Effect | Its own Mark |
+| --- | --- | --- | --- |
+| **Gill-Throat** | Brine, Bog | Breathes water as easily as air. Immune to **Drowned**. | Must submerge in the water she lives in — salt or fresh — once a day, or gain **1 Locked Stress** for each day missed as the skin cracks and bleeds. |
+| **Peat-Blood** | Bog | Immune to **Poisoned**. Advantage on Hazard Checks in marsh and fen. | Smells of the fen, always. Disadvantage on Stealth against anything that hunts by scent, and on Influence with civilised strangers who are close enough to notice. |
+| **Bark-Hide** | Briar | Gains the **Plated** trait (Bestiary): all incoming standard Impact reduced by 1. | Stiff as a sapling: **Move −5 ft**. |
+| **Night-Eyes** | Briar, Bog | The eyes go wholly black. Treats **Pitch Black as Dimly Lit** (Iron World). | Treats **Well Lit as Dimly Lit** — the same curse the Grave-Crown carries (Hardware). Daylight is a fog now. |
+| **Heat-Shimmer** | Mirage | Immune to the Hazard Check of a scorching desert, and needs no water to live. | Dry as tinder: **Ablaze** costs 1 additional Dissonant Stress each turn. |
+| **Wrong Limbs** | any | Gains the **Skittering** trait (Bestiary): may leave a Threat Zone without a test or a free Strike. | Moves wrong, and people see it. Disadvantage on Influence with anyone who has watched them fight. |
+
+_The six Works lean on things that already exist — two Bestiary Traits, four canon conditions, the Illumination bands, the Relic tier — rather than inventing new physics. A Work grants a Trait the way **Apex Chimera** grants a Monster Entity Tag for a scene; Hag's Work is the permanent, paid-for version, and the first live route into the mutations system The Marrow is waiting on._
+
+**The Price**
+
+**A hag's price is always paid in full.** If the character refuses to pay, or a Service goes undone by the end of their next Downtime period, **the Work stays and she takes another Price instead** — the GM chooses which, and the character does not get to haggle twice.
+
+| d6 | The Price | What it costs at the table |
+| --- | --- | --- |
+| 1 | **Years** | She takes them off the far end. No mechanical effect; they look it, and everyone who knew them notices. |
+| 2 | **A Memory** | One specific memory, named by the player — a face, a song, the way home. Gone for good: any check to recall it simply fails. |
+| 3 | **A Sense** | Taste, smell, colour, or their reflection. Gone for good; the GM may impose Disadvantage on any check that would have leaned on it. |
+| 4 | **A Service** | One task in her name, named now, done before the end of the character's next Downtime period. |
+| 5 | **A Name** | She keeps it. People who knew them remember *someone*, not them: Disadvantage on Influence with anyone who knew them before. |
+| 6 | **Something Not Yet Theirs** | The next thing they come to love, the next fortune they make, the first child born to them. The GM collects it when it arrives — and it will arrive. |
+
+_Every Price is narrative first and mechanical second, on purpose. None of them touches Stress, Wounds or PP, because the Work already costs an Attunement Slot and a Locked Stress forever. The Price is the story the character carries out of her water._
+
 ### Tend to the Flesh
 *Mundane medical care, not battlefield triage.*
 
@@ -331,6 +381,7 @@ ________________________________________________________________________
 | Hammer & Forge                 | 1 day/item | Crafting vs TN 8 | Clears Damaged or Ruined |
 | Distil & Compound              | 1 day/batch | Crafting vs TN 8 (requires Lab) | Batch of 3 wares or 6 loads |
 | Commission                     | 1 week | None (paid) | Upgrades item to Masterwork, or builds a Commission-gated item (Capital) |
+| Hag's Work                     | A night to a season | Influence vs the hag's Resolve — sets the Price, never the outcome | A permanent Work (Relic in flesh); the recipient counts as Fey; the Price is paid in full |
 | Tend to the Flesh              | 3 days/Wound (base rate) | Medicine vs TN 8 to improve | Heals 1 Wound Slot |
 | Field Medic                    | 10 minutes | Feat-gated, spends Progress Momentum | Heals 1 Wound Slot at a Stress cost |
 | Religious Pursuit             | 1 day | Tithe of Will (2d6 + Faith) vs TN 8 | Clears Locked Stress |
