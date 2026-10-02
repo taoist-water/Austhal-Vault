@@ -18,7 +18,7 @@ Every stat block declares one or more Creature Types alongside its Tier. Type ca
 - **Daemon:** Infernal or otherworldly entities of deliberate, contractual malice. Bound to pacts, hierarchies, and Hells (or their local equivalent).
 - **Void-Touched:** Entities whose existence itself violates natural law through contact with the Outer Dark — the product side of the Demonology/Void Magic paradigm (see Manipulating the Void).
 - **Ooze:** Amorphous, usually mindless, and often corrosive. Gelatinous cubes, black puddings, creeping molds. (Pair with the existing Amorphous trait when a single-target weapon shouldn't be able to Wound it.)
-- **Construct:** Artificial or animated bodies without a natural life cycle. Golems, animated armor, clockwork sentinels.
+- **Construct:** Artificial or animated bodies without a natural life cycle. Golems, animated armour, clockwork sentinels.
 - **Mutant:** Flesh warped by alchemy, radiation, or forbidden transmutation into something no longer wholly natural.
 
 
@@ -251,13 +251,13 @@ ___________________________________________________________________
 - **Type:** Humanoid
 - **Move:** 30 ft
 - **Attributes (derived only):** Reflex 2 → Activation Order 8 _(Assumed Zero: everything else — incredibly difficult to hit, but folds the moment it's caught.)_
-- **Skills:** Acrobatics +2. _(Its preferred defence is Dodge, at 2d6+2.)_
+- **Skills:** Acrobatics +2. _(Its preferred defense is Dodge, at 2d6+2.)_
 - **Derived stats:**
     - Wound Threshold: **5** _(Base 4 + 1 Leather)_
     - Wound Slots: **1**
     - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Fodder)_
     - Momentum Bank: **6** _(4 + Reflex 2)_
-- **Equipment:** Leather armor (+1 to Wound Threshold). Rusty Shortsword — Power 2, Sidearm, Finesse; Shoddy Quality (becomes Damaged on a failed or fumbled roll, Ruined if already Damaged). Strike Roll: 2d6.
+- **Equipment:** Leather armour (+1 to Wound Threshold). Rusty Shortsword — Power 2, Sidearm, Finesse; Shoddy Quality (becomes Damaged on a failed or fumbled roll, Ruined if already Damaged). Strike Roll: 2d6.
 - **Traits (1):**
     - **Swarm:** The Scrapper gains a +1 bonus to their Clash roll for every additional Goblin ally currently engaged with the same target.
 - **Special Actions (1):**
@@ -278,8 +278,8 @@ ________________________________________________________________________________
 - **Tier:** Fodder
 - **Type:** Beast
 - **Move:** 30 ft
-- **Attributes (derived only):** Reflex 1 → Activation Order 7 _(Assumed Zero: everything else — quick, but nothing props up a grapple or a mental defence; both resolve at +0.)_
-- **Skills:** Melee +1, Acrobatics +1. _(Its preferred defence is Dodge, at 2d6+1.)_
+- **Attributes (derived only):** Reflex 1 → Activation Order 7 _(Assumed Zero: everything else — quick, but nothing props up a grapple or a mental defense; both resolve at +0.)_
+- **Skills:** Melee +1, Acrobatics +1. _(Its preferred defense is Dodge, at 2d6+1.)_
 - **Derived stats:**
     - Wound Threshold: **4** _(Base 4 + Brawn 0)_
     - Wound Slots: **1**
@@ -290,7 +290,7 @@ ________________________________________________________________________________
     - **Amorphous:** Single-target weapons (daggers, spears, arrows) cannot inflict a Wound. Only Area of Effect (AOE) attacks or weapons with the _Devastating_ or _Siege_ tag can kill them.
     - **Swarm:** The Swarm gains a +1 bonus to their Clash roll for every additional swarm ally currently engaged with the same target.
 - **Special Actions (1):**
-    - **Passive — Hive Mind:** If three or more swarms are engaged with a single target, they automatically inflict 1 Dissonant Stress on the target, representing the rats crawling over armor and finding gaps.
+    - **Passive — Hive Mind:** If three or more swarms are engaged with a single target, they automatically inflict 1 Dissonant Stress on the target, representing the rats crawling over armour and finding gaps.
 
 #### Phases
 
@@ -309,7 +309,7 @@ ________________________________________________________________________________
 - **Type:** Daemon
 - **Move:** Fly 30 ft (no land Move — always airborne)
 - **Attributes (derived only):** Reflex 2 → Activation Order 8 _(Assumed Zero: everything else — quick and erratic, but folds if it's actually caught.)_
-- **Skills:** Melee +1, Acrobatics +1. _(Its preferred defence is Dodge, at 2d6+1.)_
+- **Skills:** Melee +1, Acrobatics +1. _(Its preferred defense is Dodge, at 2d6+1.)_
 - **Derived stats:**
     - Wound Threshold: **4** _(Base 4 + Brawn 0)_
     - Wound Slots: **1**
@@ -736,13 +736,13 @@ _The three terrains are_ Iron World's _own — its Hazard Check rule names "a bl
     - **Steady, Not Sharp (Drawback):** Momentum Bank cap reduced by 1 (already folded in above).
 - **Allowance (2 — Grunt): 1 Trait + 1 Feat.**
     - **Cunning Leader** _(Trait)_ — at the beginning of the Round, he can pass his own position in the Activation order to any allied Fodder unit within his line of sight, letting the Patrolmen strike with unexpected coordination. Additionally, whenever an ally within his line of sight dies, **he banks 1 Momentum**. His Bank of 3 is the cap — no tier gate required.
-    - **Battlefield Orator** _(Feat, Tier 1 — prerequisite Influence 2, met)_ — spend an Action to shout orders or hurl insults. Choose one: an ally immediately clears 1d6 Dissonant Stress, OR an engaged enemy suffers -2 on their next Defence roll.
+    - **Battlefield Orator** _(Feat, Tier 1 — prerequisite Influence 2, met)_ — spend an Action to shout orders or hurl insults. Choose one: an ally immediately clears 1d6 Dissonant Stress, OR an engaged enemy suffers -2 on their next Defense roll.
 - **Special Actions (1):**
     - **Hold the Line:** _Trigger:_ Instead of a regular attack. _Effect:_ He plants and calls the formation in. Every allied Watch member within 10 ft, himself included, gains +1 to Block rolls until the start of his next activation.
 
 #### Phases
 
-- **Behaviour when unbroken:** Fights last and talks first. Opens with Battlefield Orator to strip a Defence roll, uses Cunning Leader to let two Patrolmen swing before he does, and draws the Shortsword only once someone has drawn steel on him.
+- **Behaviour when unbroken:** Fights last and talks first. Opens with Battlefield Orator to strip a Defense roll, uses Cunning Leader to let two Patrolmen swing before he does, and draws the Shortsword only once someone has drawn steel on him.
 - **Behaviour when Broken:** Resolves as **Surrender** — a professional, not a fanatic. He calls the withdrawal and expects to be obeyed, and will trade information for being allowed to walk.
 - **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
 
@@ -794,7 +794,7 @@ _The three terrains are_ Iron World's _own — its Hazard Check rule names "a bl
     - Stress Limit: **4** _(4 + Will 0 + Wits 0 + 0 Grunt)_
     - Activation Order: **10** _(6 + Reflex 1, +3 from Quick)_
     - Momentum Bank: **5** _(4 + Reflex 1)_
-- **Equipment:** Light Crossbow (Power 3, 2H, Ranged — Max Long / 120 ft, **Armor Piercing**, **Reload**), Leather (+1 Armour, Light). Shoot Roll: 2d6+3 (Ranged +3). Impact = Margin + 3, **ignoring 2 points of the target's Armour Value**. _No melee skill at all — 2d6+0 the moment anyone reaches him. Closing the distance is the answer to him, and it is meant to be._
+- **Equipment:** Light Crossbow (Power 3, 2H, Ranged — Max Long / 120 ft, **Armour Piercing**, **Reload**), Leather (+1 Armour, Light). Shoot Roll: 2d6+3 (Ranged +3). Impact = Margin + 3, **ignoring 2 points of the target's Armour Value**. _No melee skill at all — 2d6+0 the moment anyone reaches him. Closing the distance is the answer to him, and it is meant to be._
 - **Species Traits (free — see The Marrow):**
     - **Blood Frenzy:** When he suffers a Wound, the adrenaline spikes — he immediately clears 1 Dissonant Stress.
     - **Menacing:** Advantage on Influence checks when attempting to intimidate anyone smaller or weaker than himself.
@@ -1018,7 +1018,7 @@ __________________________________________________________________
 - **Size:** Large (Scale +1)
 - **Move:** 50 ft
 - **Attributes (derived only):** Brawn 2, Reflex 2 → Wound Threshold 8, Activation Order 8 _(Wits and Will are zero — whatever reasoned it out died the first time it changed.)_
-- **Skills:** Melee +4, Acrobatics +3, Notice +2 _(Assumed Zero: everything else. Its preferred defence is Dodge, at 2d6+3.)_
+- **Skills:** Melee +4, Acrobatics +3, Notice +2 _(Assumed Zero: everything else. Its preferred defense is Dodge, at 2d6+3.)_
 - **Derived stats:**
     - Wound Threshold: **8** _(4 + Brawn 2 + Scale +2)_
     - Stress Limit: **5** _(4 + Will 0 + Wits 0 + 1 Elite — monster build, exempt from the core-species Stress Limit floor)_
@@ -1073,7 +1073,7 @@ __________________________________________________________________
 
 #### Phases
 
-- **Behaviour when unbroken:** Talks first, and keeps talking — Battlefield Orator to strip the defence off whoever is about to be hit, Silver-Tongued Viper aimed at whichever enemy looks least invested in dying for their employer. Fights only when cornered, and badly.
+- **Behaviour when unbroken:** Talks first, and keeps talking — Battlefield Orator to strip the defense off whoever is about to be hit, Silver-Tongued Viper aimed at whichever enemy looks least invested in dying for their employer. Fights only when cornered, and badly.
 - **Behaviour when Broken:** Resolves as **Surrender** — she is a broker, not a soldier. Immediately offers whatever she has (names, routes, the location of the money) rather than die for an operation she doesn't own.
 - **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
 
@@ -1101,7 +1101,7 @@ __________________________________________________________________
     - **Fey Reflexes:** Gains Advantage on Acrobatics checks to avoid environmental hazards, traps, or area-of-effect abilities.
     - **Trance:** Needs only 4 hours of meditation for a full night's rest. She takes the watch nobody else wants, every night.
 - **Feats / Spells (2 picks — Elite, Tier 1–2 ceiling):**
-    - **Riposte** _(Tier 2; prereq Melee 2 ✓)_ — if she wins a Parry in a melee Clash, she instantly inflicts Impact on the attacker, calculated exactly as though she had won a Strike (her Margin of victory + weapon Power). Her defence *is* her offence.
+    - **Riposte** _(Tier 2; prereq Melee 2 ✓)_ — if she wins a Parry in a melee Clash, she instantly inflicts Impact on the attacker, calculated exactly as though she had won a Strike (her Margin of victory + weapon Power). Her defense *is* her offence.
     - **Quick** _(Tier 1; prereq Reflex 1 ✓)_ — +3 to Activation Order, and she breaks ties against anyone without Quick. Already folded into the Activation Order above.
 - **Special Actions (1):**
     - **Blade Dance:** _Trigger:_ Instead of a regular attack, declared when at least two enemies are adjacent to her. _Effect:_ Two separate Melee Clash rolls at -1 each, one against each of two different adjacent targets.
@@ -1217,7 +1217,7 @@ _______________________________
 
 #### Phases
 
-- **Behaviour when unbroken:** Deliberate and patient, no wasted motion. Opens toward whoever is more mobile. His two free Special Actions are deliberately split across the Margin bands — **Grip of the Barrow on any Margin 3+ win, Reaver's Bite only on Margin 5+** — so control lands on a good hit and execution only on a great one. Against a typical Green defence that is roughly **44% of his attacks Anchoring and 24% also inflicting a Wound**. Only Winter's Judgment and Grave-Locked Resilience are Bank-limited, so those are the two calls that need GM judgment mid-fight. As a Boss he banks **1 Momentum at the start of every round** on top of Sovereign's Malice, so his Bank refills whether or not the party co-operates.
+- **Behaviour when unbroken:** Deliberate and patient, no wasted motion. Opens toward whoever is more mobile. His two free Special Actions are deliberately split across the Margin bands — **Grip of the Barrow on any Margin 3+ win, Reaver's Bite only on Margin 5+** — so control lands on a good hit and execution only on a great one. Against a typical Green defense that is roughly **44% of his attacks Anchoring and 24% also inflicting a Wound**. Only Winter's Judgment and Grave-Locked Resilience are Bank-limited, so those are the two calls that need GM judgment mid-fight. As a Boss he banks **1 Momentum at the start of every round** on top of Sovereign's Malice, so his Bank refills whether or not the party co-operates.
 - **Behaviour when Broken:** Per the GM Tools NPC Stress rules, a Boss's Broken state resolves as a Phase Change rather than a Rout, Surrender or Frenzy — see below.
 - **Dread Entity/Boss Phase change — The Frost Cracks:** _Trigger:_ the instant his Stress Track maxes out. _Effect:_ the frost binding him cracks audibly. He **loses Fear Inducing** and **loses his Prowess bonus on Brace** (post-break, Brace rolls a flat 2d6), but **gains Advantage on all Melee Strikes**, and **Grave-Locked Resilience's per-round cap rises to 3** for the rest of the fight. He is not weaker after breaking — he is spending everything he has left rather than accept a second death.
 

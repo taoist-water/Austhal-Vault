@@ -248,7 +248,7 @@ Each entry below formalizes a Pursuit already referenced elsewhere in the rules.
 
 - **Time Cost:** 1 week (this is why Masterwork items command a 300% price markup and a specialized action — you're buying someone else's time and reputation, not just materials).
 - **The Check:** No roll required if a qualified artisan is hired and paid in full. The Commission resolves automatically at the end of the week. (If the party is trying to commission something from a reluctant, suspicious, or unusually talented artisan, the GM may require an Influence check to secure the commission *before* the week of work begins — this is a Social Engine interaction, not a Crafting one.)
-- **Output:** One weapon or armor piece upgraded to Masterwork Quality, per the existing Hardware rules (weapons: +1 Power; armor: suppress one negative tag).
+- **Output:** One weapon or armour piece upgraded to Masterwork Quality, per the existing Hardware rules (weapons: +1 Power; armour: suppress one negative tag).
 - **Or — Made to Order:** One item that Hardware lists as **Commission-gated** (a firearm, a ship), built new and paid for at its listed price. A Commission-gated item can only be made at a **Capital (Tier 3)** — no lesser settlement has the specialists.
 
 ### Tend to the Flesh

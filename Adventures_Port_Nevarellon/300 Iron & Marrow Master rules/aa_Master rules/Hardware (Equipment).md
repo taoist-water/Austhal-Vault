@@ -10,7 +10,7 @@ Instead of tracking weight, a character’s carrying capacity is defined by a ha
 - 2 Slots: A heavy two-handed weapon, a bulky Bestiary trophy (a Gorgon's head), a small treasure chest.    
 - 0 Slots (Micro-Items): Things you can hide in a pocket don't take slots unless stacked in bulk. (e.g., 100 coins = 1 Slot).    
 
-- Worn Armor Exemption: The armor a character is actively wearing does not take up Slots, but heavy armor inherently limits movement or stealth. If they take it off to carry it, it consumes 3 Slots.
+- Worn Armour Exemption: The armour a character is actively wearing does not take up Slots, but heavy armour inherently limits movement or stealth. If they take it off to carry it, it consumes 3 Slots.
     
 **Containers Don't Multiply Slots:**
 A container's listed Slot cost is for **the object itself**, full stop. Owning one never grants extra carrying capacity — it isn't a nested storage space, it's an item like any other. One 2-Slot chest consumes 2 - slots of Inventory and has a volume of 2-Slots. If the box is stolen or lost, any contents is stolen or lost with it.
@@ -102,17 +102,17 @@ Items found in local markets carry tags denoting the skill of the artisan who ha
 *Masterwork Quality* 
 - Cost Modifier: +300% to base price (Requires a specialized Commission downtime action).
     
-- 2d6 Rule: Folded steel or bespoke custom-molded plating. Weapons gain a permanent +1 to their Power profile. Armor pieces grant their mechanical defensive bonuses but completely suppress one negative tag associated with them (e.g., a Masterwork Chainmail shirt loses its Bulky penalty).
+- 2d6 Rule: Folded steel or bespoke custom-molded plating. Weapons gain a permanent +1 to their Power profile. Armour pieces grant their mechanical defensive bonuses but completely suppress one negative tag associated with them (e.g., a Masterwork Chainmail shirt loses its Bulky penalty).
 __________________________________________________________________
 # Gear Condition
 
 **DAMAGED AND RUINED (THE CONDITION TRACK)**
 
-Quality (above) describes how good a piece of gear was *when new*. Condition describes what's happened to it since — a Shoddy roll, ordinary wear, or **being attacked directly** (see Structural Damage and Destruction, Iron Core, which uses this same two-step track as an object's Wound Slots). Every weapon, armor piece, shield, or tool — regardless of its Quality tier — can degrade along the same two-step track: **Damaged**, then **Ruined**.
+Quality (above) describes how good a piece of gear was *when new*. Condition describes what's happened to it since — a Shoddy roll, ordinary wear, or **being attacked directly** (see Structural Damage and Destruction, Iron Core, which uses this same two-step track as an object's Wound Slots). Every weapon, armour piece, shield, or tool — regardless of its Quality tier — can degrade along the same two-step track: **Damaged**, then **Ruined**.
 
 *Damaged (Tag)*
 
-- **The Effect:** The item suffers a flat **-1 penalty** to whatever numeric value it normally contributes to a roll or calculation. A Damaged weapon applies -1 to its Power. Damaged armor applies -1 to its Armor Value. A Damaged shield applies -1 to its Shield Value (SV). A Damaged tool kit applies -1 to the relevant skill check it would normally assist.
+- **The Effect:** The item suffers a flat **-1 penalty** to whatever numeric value it normally contributes to a roll or calculation. A Damaged weapon applies -1 to its Power. Damaged armour applies -1 to its Armour Value. A Damaged shield applies -1 to its Shield Value (SV). A Damaged tool kit applies -1 to the relevant skill check it would normally assist.
     
 - **The Fiction:** The item still works — a cracked breastplate still stops most of a blow, a notched blade still cuts — but it's compromised. This is what separates Damaged from Ruined: Damaged gear is degraded but still usable in a fight without needing repair first.
     
@@ -120,7 +120,7 @@ Quality (above) describes how good a piece of gear was *when new*. Condition des
 
 *Ruined (Tag)*
 
-- **The Effect:** The item is **non-functional**. A Ruined weapon deals no Power (Unarmed-equivalent only), Ruined armor grants no Armor Value, a Ruined shield grants no SV, and a Ruined tool cannot be used to assist any check at all.
+- **The Effect:** The item is **non-functional**. A Ruined weapon deals no Power (Unarmed-equivalent only), Ruined armour grants no Armour Value, a Ruined shield grants no SV, and a Ruined tool cannot be used to assist any check at all.
     
 - **The Fiction:** Shattered, snapped, or warped beyond field use. This isn't a -1 anymore — it's gone until someone puts real work into it.
     
@@ -199,7 +199,7 @@ A plain band, worn smooth on the inside from a lifetime of counting coin.
 A rope-textured iron ring, cold and slightly abrasive to the touch.
 - **Effect:** Advantage on Athletics checks made to escape the Anchored condition.
 
-**Quiet Step Buckles** — 15 sp | Scarce | 0 Slots (worn, per Clothing/Worn Armor Exemption)
+**Quiet Step Buckles** — 15 sp | Scarce | 0 Slots (worn, per Clothing/Worn Armour Exemption)
 A pair of boot buckles that make no sound striking stone, no matter how hard the boot comes down.
 - **Effect:** Once per Scene, ignore Rushed Stealth's Disadvantage (Iron World) for a single Move.
 
@@ -246,7 +246,7 @@ Requires a weapon. Tempered in a bed of true embers rather than water or oil —
 **Leadglass Ward** (weapon add-on) — 40 sp | Rare
 Requires a weapon. A sliver of lead-heavy glass, ground to a precise, unnatural facet and set into the blade or haft — it doesn't reflect light so much as refuse it.
 - **Effect:** Bane (Void-Touched) — see Bestiary: Creature Types. The wielder treats a Void-Touched target's Wound Threshold as 1 point lower.
-- *Worth being honest about this one's ceiling: several written Void-Touched abilities (Flay the Veil, most notably) already bypass Wound Threshold and Armor entirely by design. Leadglass Ward still matters in any fight that comes down to ordinary Impact-vs-Threshold math, but it isn't the reliable answer Silvered Edge is against a Lycanthrope — useful, not a silver bullet.*
+- *Worth being honest about this one's ceiling: several written Void-Touched abilities (Flay the Veil, most notably) already bypass Wound Threshold and Armour entirely by design. Leadglass Ward still matters in any fight that comes down to ordinary Impact-vs-Threshold math, but it isn't the reliable answer Silvered Edge is against a Lycanthrope — useful, not a silver bullet.*
 
 **Quicksilver-Traced Edge** (weapon add-on) — 35 sp | Rare
 Requires a weapon. A hair-thin vein of quicksilver run along the fuller or edge — an old alchemist's belief that the thing which unmakes flesh can also unmake what remade it.
@@ -254,7 +254,7 @@ Requires a weapon. A hair-thin vein of quicksilver run along the fuller or edge 
 
 #### General Utility (Rare, Non-Bane)
 
-**Cloak of Still Water** (armor add-on) — 35 sp | Rare | No additional Slot — occupies the base armor's existing Slot allowance.
+**Cloak of Still Water** (armour add-on) — 35 sp | Rare | No additional Slot — occupies the base armour's existing Slot allowance.
 A grey, unremarkable cloak that seems to drink ambient noise.
 - **Effect:** The wearer gains Advantage on Stealth checks while moving at half their Move value or slower — turning the existing Rushed Stealth penalty (Iron World) into a non-issue for anyone patient enough to earn it, rather than granting a new kind of bonus outright.
 
@@ -262,7 +262,7 @@ A grey, unremarkable cloak that seems to drink ambient noise.
 A small round shield boss etched with concentric rings, fitted to an existing shield rather than sold whole.
 - **Effect:** Once per Scene, when the wearer wins a Block Clash with a Margin of 3+ (Clean or better), they generate 1 additional Momentum beyond the standard win — a masterful parry-block earns extra tempo, on top of avoiding the hit.
 
-**Wind-Step Greaves** (armor add-on) — 40 sp | Rare | No additional Slot — occupies the base armor's existing Slot allowance.
+**Wind-Step Greaves** (armour add-on) — 40 sp | Rare | No additional Slot — occupies the base armour's existing Slot allowance.
 Light shin-guards that never seem to catch on anything underfoot.
 - **Effect:** Once per Scene, when the wearer wins a Dodge Clash with a Margin of 3+ (Clean or better), they may immediately shift 1 square as a Free Action, without triggering a free strike, as part of the same reaction.
 
@@ -303,11 +303,11 @@ A heavy-looking ring that is, in fact, quite light.
 A small clay bead on a plain cord, said to hold one held breath, kept for later.
 - **Effect:** **Spend 1 Momentum** to immediately clear 1 Dissonant Stress upon taking a Wound. Repeatable as often as your Bank can pay for it. *(The item version of Ox's Blood Frenzy trait — a proven pressure-release valve against Stress-to-Wound conversion, made purchasable rather than species-born.)*
 
-**Boots of the Long Road** — 80 sp | Rare | 0 Slots (worn, per Clothing/Worn Armor Exemption)
+**Boots of the Long Road** — 80 sp | Rare | 0 Slots (worn, per Clothing/Worn Armour Exemption)
 Well-worn leather boots that never seem to blister the feet inside them.
 - **Effect:** The wearer's Move increases by 10 ft. Difficult Terrain (Iron World) halves this improved total rather than the wearer's base Move.
 
-**Boots of the Silent Step** — 85 sp | Rare | 0 Slots (worn, per Clothing/Worn Armor Exemption)
+**Boots of the Silent Step** — 85 sp | Rare | 0 Slots (worn, per Clothing/Worn Armour Exemption)
 Soft-soled boots that drink footfalls the way Cloak of Still Water drinks ambient noise.
 - **Effect:** **Spend 1 Momentum** to ignore Rushed Stealth's Disadvantage (Iron World) for the rest of the current Scene — the Enchanted-tier step up from Quiet Step Buckles, which buys a single Move once per Scene and costs no Momentum or Attunement at all.
 
@@ -342,7 +342,7 @@ A plain wand whose grain has gone glassy and still, as though it has stopped fli
 - **Effect:** Grants the **Focus** tag — +1 to Arcana Clash rolls; on a fumbled casting check the backlash destroys the item (Ruined), and the caster fails but takes no Stress for the fumble. *(The Arcane-side counterpart to the Reliquary Symbol, priced and gated identically because it is the same effect in Arcana's currency. +1 is worth roughly 11 points of Clash win rate and 10 points of Clean rate, so on a caster whose own spells tax them on a non-Clean result it buys durability as much as accuracy.)*
 
 **Whisper-Kissed Leathers** — ~150 sp | Legendary, Commission-gated | 1 Locked Stress Attunement  
-Requires a Light armor base (Padded or Leather).
+Requires a Light armour base (Padded or Leather).
 
 - **Effect:** When declared the target of an Aggressor action, **spend 1 Momentum** to become **Obscured** (per Iron World's Cover rules) for that single Clash — the attacker suffers Disadvantage, as if striking through smoke, even in the open. Repeatable as often as your Bank can pay for it.
 - _Reuses the existing Obscured mechanic rather than inventing a new defensive stat — same logic as Cloak of Still Water reusing Rushed Stealth._
@@ -351,7 +351,7 @@ Requires a Light armor base (Padded or Leather).
 
 **The Widow's Needle** (unique dagger) — Not for sale. GM-authored, campaign-specific.
 A slim, black dagger that is always slightly warmer than the air around it.
-- **Effect:** Functions as a permanent, always-on Vital Strike (ignores Armor value in the Wound Threshold calculation) with no -4 penalty required to use it.
+- **Effect:** Functions as a permanent, always-on Vital Strike (ignores Armour value in the Wound Threshold calculation) with no -4 penalty required to use it.
 - **The Cost:** Every kill made with the Needle locks 1 additional point of Stress on the wielder that **cannot** be cleared by the Reprieve, Momentum spend, or a Breather — only a full Religious Pursuit or a Long Rest will do. The blade is hungry, and it remembers who fed it.
 
 **The Brand of Gehenna's Grip** (unique manacle) — Not for sale. Found only as loot from Arch-Devil Malaphar.
@@ -463,8 +463,8 @@ _______________________________________________________________________
 |Weapon Name|Power|Grip|Range / Threat|Tags & Attributes|Cost|Availability|
 |---|---|---|---|---|---|---|
 |Hand Crossbow|0|1H|Ranged (Max: Short / 30 ft)|Concealable, Sidearm, Reload|40 sp|Rare|
-|Light Crossbow|3|2H|Ranged (Max: Long / 120 ft)|Armor Piercing, Reload|30 sp|Scarce|
-|Repeating Heavy Crossbow|3|2H|Ranged (Max: Long / 120 ft)|Volley, Armor-Piercing, Repeating|90 sp|Rare|
+|Light Crossbow|3|2H|Ranged (Max: Long / 120 ft)|Armour Piercing, Reload|30 sp|Scarce|
+|Repeating Heavy Crossbow|3|2H|Ranged (Max: Long / 120 ft)|Volley, Armour-Piercing, Repeating|90 sp|Rare|
 
 ## Arcane Focus
 
@@ -509,11 +509,11 @@ _______________________________________________________________________
 - **Scatter:** Strikes every creature in the weapon's area — a 15 ft cone from the wielder unless the item says otherwise — ally or enemy alike. Make one attack roll; each creature in the area makes its own Reactor roll against it, and Impact is resolved per creature. No Disadvantage at Point-Blank, and the Firing Into Combat rule (Iron World) doesn't apply — allies in the area are simply targets. Counts as an area attack for Swarm and Amorphous. Inertia never applies to a Scatter attack.
 - **Sidearm:** A weapon short and light enough to be brought to bear in a heartbeat, or in a doorway. One property with three consequences: **(1)** it can be **drawn as a Free Action** without penalty; **(2)** it ignores the Disadvantage the **Point-Blank** band imposes (Metal meet Flesh — Ranges); **(3)** it is the qualifying off-hand weapon for the **Twin-Blade Stance**, granting Clash Advantage and Off-Hand Parry (Metal meet Flesh). An **Arcane Focus** carrying this tag gains (1) and (2) — a caster can channel through it nose-to-nose — but never (3): a Focus has no Power to lend an Off-Hand Parry.
 - **Siege:** Emplaced, crew-served, or vehicle-mounted armament — a ballista, wall gun, cannon, or siege engine — rather than a personal weapon; it isn't carried in Inventory Slots. Like Devastating, it enables inflicting Wounds directly on Scale +3 (Gargantuan) creatures and ignores that creature's Scale-based Wound Threshold bonus when calculating whether a Strike inflicts a Wound; unlike Devastating, it can also damage fortifications and structures. Reducing the Wounds Threshold of fortifications by half when comparing Impact.
-- **Sunder:** If you inflict a Minor or Major Wound with this weapon, permanently reduce the target's Armor value by 1. **This is a baseline reduction, not the Damaged Condition** — no amount of Hammer & Forge brings that point back (see *Condition is not the same as baseline*, above). Against an object, Sunder **ignores Structural Damage Reduction entirely** (see Structural Damage and Destruction, Iron Core) — it is the anti-material tag, and shredding worn armour is the same property pointed at something being worn.
+- **Sunder:** If you inflict a Minor or Major Wound with this weapon, permanently reduce the target's Armour value by 1. **This is a baseline reduction, not the Damaged Condition** — no amount of Hammer & Forge brings that point back (see *Condition is not the same as baseline*, above). Against an object, Sunder **ignores Structural Damage Reduction entirely** (see Structural Damage and Destruction, Iron Core) — it is the anti-material tag, and shredding worn armour is the same property pointed at something being worn.
 - **Thrown:** Can be hurled using the short range attack band. If used in melee, it retains its 5 ft Threat.
 - **Versatile:** can be wielded 1H or 2H. If wielded 2H add 1 to the weapon power.
 - **Volley:** Requires two hands and prevents the user from holding a Shield or Grimoire.
-- **Armor-Piercing:** Ignores 2 points of the target's Armor Value when calculating Impact — twice Precise's ignore-1.
+- **Armour-Piercing:** Ignores 2 points of the target's Armour Value when calculating Impact — twice Precise's ignore-1.
 - **Trip:** As an Aggressor Strike with this weapon, you may forgo Impact on a win to instead knock the target Prone.
 - **Disarm:** As an Aggressor Strike with this weapon, you may forgo Impact on a win to force the target to pass a Prowess check vs TN 8 or drop what they're holding into an adjacent square.
 - **Set:** If this weapon is readied and an enemy voluntarily moves into your Threat Zone, your Strike against them gains a Charge's +2 Clash bonus and tie-break — without the -2 Reactor penalty a real Charge imposes on you.
@@ -531,8 +531,8 @@ These variations add specific situational tactical tools to the baseline weapon 
 
 - Cost: 45 sp | Availability: Scarce
 - Stats: Power 2 | 1H | 5 ft Threat
-- Tags: Precise, Armor-Piercing
-- 2d6 Special Rule: Designed specifically to pass between armor plates. When a natural 3 and 4 are rolled on the Attack roll, this weapon completely ignores all physical Armor values and structural damage reduction, applying its full Impact raw to the Wound Threshold.
+- Tags: Precise, Armour-Piercing
+- 2d6 Special Rule: Designed specifically to pass between armour plates. When a natural 3 and 4 are rolled on the Attack roll, this weapon completely ignores all physical Armour values and structural damage reduction, applying its full Impact raw to the Wound Threshold.
 
 #### The Barbed Spear
 
@@ -545,7 +545,7 @@ These variations add specific situational tactical tools to the baseline weapon 
 
 - Cost: 80 sp | Availability: Rare
 - Stats: Power 5 | 2H | Ranged (Max: Long / 120 ft)
-- Tags: Armor-Piercing, Cumbersome, Heavy Reload
+- Tags: Armour-Piercing, Cumbersome, Heavy Reload
 - 2d6 Special Rule: Requiring a literal windlass to crank. It takes two entire Move Actions to reload this weapon. However, its steel-headed bolts ignore the infantry projectile protections of shields (Cover tags are nullified) and deal +2 Impact against targets with Scale +1 or higher.
 
 ## Black Powder
@@ -554,7 +554,7 @@ Firearms are new, exotic, and ruinously expensive. Nobody sells one off a shelf 
 
 | Weapon Name | Power | Grip | Range / Threat | Tags & Attributes | Cost | Availability |
 |---|---|---|---|---|---|---|
-| Pistol | 4 | 1H | Ranged (Max: Short / 30 ft) | Black Powder, Sidearm, Armor-Piercing, Inertia | 300 sp (15 gs) | Legendary, Commission-gated |
+| Pistol | 4 | 1H | Ranged (Max: Short / 30 ft) | Black Powder, Sidearm, Armour-Piercing, Inertia | 300 sp (15 gs) | Legendary, Commission-gated |
 | Blunderbuss | 3 | 2H | Ranged (Max: Short / 30 ft) | Black Powder, Scatter, Cumbersome | 400 sp (20 gs) | Legendary, Commission-gated |
 
 | Item | Slots | Cost | Availability | Notes |
@@ -572,8 +572,8 @@ Emplaced on fortifications or mounted on ships. Carries **Siege**, never occupie
 
 | Ordnance | Power | Crew | Range | Tags & Attributes |
 |---|---|---|---|---|
-| Ship's Gun | 8 | 3 | Extreme | Siege, Armor-Piercing, Black Powder. May fire **Grapeshot** instead: Power 5, Scatter (30 ft cone). |
-| Fortress Gun | 10 | 4 | Extreme | Siege, Armor-Piercing, Black Powder |
+| Ship's Gun | 8 | 3 | Extreme | Siege, Armour-Piercing, Black Powder. May fire **Grapeshot** instead: Power 5, Scatter (30 ft cone). |
+| Fortress Gun | 10 | 4 | Extreme | Siege, Armour-Piercing, Black Powder |
 
 - **Firing:** the gunner makes the Shoot roll (2d6 + Ranged).
 - **Reloading:** takes 3 crew-Activations in total; any crew member may spend their whole Activation to contribute one.
@@ -582,26 +582,26 @@ Emplaced on fortifications or mounted on ships. Carries **Siege**, never occupie
 ________________________________________________________________________
 
 # Armour
-|Armor / Shield Name|Value|Type|Tags & Attributes|Cost|Availability|
+|Armour / Shield Name|Value|Type|Tags & Attributes|Cost|Availability|
 |---|---|---|---|---|---|
-|Padded / Gambeson|+0 Armor|Light|Cushioned|5 sp|Common|
+|Padded / Gambeson|+0 Armour|Light|Cushioned|5 sp|Common|
 |Leather|+1 Armour|Light|—|12 sp|Common|
-|Chain Shirt|+2 Armor|Light|—|50 sp|Scarce|
-|Chainmail / Scale|+2 Armor|Medium|Bulky|45 sp|Scarce|
-|Breastplate|+3 Armor|Medium|Bulky|120 sp|Rare|
-|Plate Armor|+4 Armor|Heavy|Restricted|200 sp (10 gs)|Rare|
+|Chain Shirt|+2 Armour|Light|—|50 sp|Scarce|
+|Chainmail / Scale|+2 Armour|Medium|Bulky|45 sp|Scarce|
+|Breastplate|+3 Armour|Medium|Bulky|120 sp|Rare|
+|Plate Armour|+4 Armour|Heavy|Restricted|200 sp (10 gs)|Rare|
 |Buckler|2 SV|Shield|Nimble|8 sp|Common|
 |Kite / Round Shield|4 SV|Shield|Cover|18 sp|Common|
 |Tower Shield|5 SV|Shield|Bulwark, Obstructive|40 sp|Scarce|
 
 > **Chain Shirt or Chainmail?** Both grant +2 Armour, and the Shirt is 5 sp dearer for avoiding `Bulky`. But Chainmail is **Medium**, and the reinforced pauldrons below require a Medium or Heavy base for their flat **+1 Wound Threshold** — which the Light Chain Shirt can never take. The Shirt is the quieter, more agile suit; Chainmail is the cheaper route to +3 effective armour, paid for with −1 Athletics, Stealth and Arcana and −1 Activation Order. **Neither dominates the other.**
 
-> **Availability at character creation.** A starting character outfits from a Town — Scarce tier or lower (see *The Starting Purse*, The Marrow, and Settlement Tiers, Soothing the Soul). Breastplate and Plate Armor are Rare, sourced from a City or better, and are not available at Green at any price. They are acquired in play.
+> **Availability at character creation.** A starting character outfits from a Town — Scarce tier or lower (see *The Starting Purse*, The Marrow, and Settlement Tiers, Soothing the Soul). Breastplate and Plate Armour are Rare, sourced from a City or better, and are not available at Green at any price. They are acquired in play.
 
 
 ## Armour and Shield Tags
 
-- *Bulky:* The weight and noise of the armor make it hard to move gracefully. Imposes a -1 penalty on Athletics and Stealth and Arcana rolls.
+- *Bulky:* The weight and noise of the armour make it hard to move gracefully. Imposes a -1 penalty on Athletics and Stealth and Arcana rolls.
 - *Bulwark:* The shield's mass lets you root yourself in place. While readied, you cannot be Shoved, knocked Prone, or forced out of your Threat Zone as a result of losing a Clash. Once per Scene, when you lose a Block Clash, you may spend 1 Momentum to reduce that Impact to 0 instead of applying your Shield Value.
 - *Cover:* Provides excellent physical obstruction from missiles. Grants Advantage (3d6 Keep 2) to your defense rolls against ranged attacks.
 - *Cushioned:* Thick layers of cloth absorb minor impacts. Negates the first point of Dissonant Stress you would take from a Glancing Hit each combat round.
@@ -613,10 +613,10 @@ ________________________________________________________________________
 
 Instead of just buying entirely new suits of plate, characters in a low-fantasy setting weld, rivet, and bolt additions to their existing kit.
 
-_Reinforced Riveted Pauldrons (Armor Add-on)_
+_Reinforced Riveted Pauldrons (Armour Add-on)_
 
 - Cost: 20 sp | Availability: Common
-- Rules: Requires a suit of Medium or Heavy armor to attach. Adds a flat +1 to your Wound Threshold (WT). However, the added shoulder bulk restricts head movement; you suffer a permanent -1 penalty to your activation order rolls.
+- Rules: Requires a suit of Medium or Heavy armour to attach. Adds a flat +1 to your Wound Threshold (WT). However, the added shoulder bulk restricts head movement; you suffer a permanent -1 penalty to your activation order rolls.
 
 _Visored Great-Helm (Headpiece Modification)_
 
@@ -626,14 +626,14 @@ _Visored Great-Helm (Headpiece Modification)_
 _Oil-Cured Gambeson (Under-layer Layering)_
 
 - Cost: 15 sp | Availability: Common
-- Rules: Can be worn under Chainmail or Scale armor. Grants the Cushioned tag (Negates the first point of Dissonant Stress you would take from a Glancing Hit each combat round).
+- Rules: Can be worn under Chainmail or Scale armour. Grants the Cushioned tag (Negates the first point of Dissonant Stress you would take from a Glancing Hit each combat round).
 
-_Armor Spikes (Armor Add-on)_
+_Armour Spikes (Armour Add-on)_
 
 - Cost: 15 sp | Availability: Scarce
 - Rules: When an enemy loses a Grab or Shove Clash against you, they suffer **1 Dissonant Stress** from the spikes.
 
-_Locked Gauntlet (Armor Add-on)_
+_Locked Gauntlet (Armour Add-on)_
 
 - Cost: 5 sp | Availability: Common
 - Rules: Grants Advantage on Prowess checks made to resist being disarmed.
@@ -650,7 +650,7 @@ ______________________________________________________________________
 
 | Item                                                | Slots    | Cost          | Availability | Notes                                                                                                                                                                                                      |
 | --------------------------------------------------- | -------- | ------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Backpack                                            | 0 (worn) | 3 sp          | Common       | Exempted from Slots like worn armor — it's the frame the Pack lives in, not an item inside it, and grants no bonus capacity.                                                                               |
+| Backpack                                            | 0 (worn) | 3 sp          | Common       | Exempted from Slots like worn armour — it's the frame the Pack lives in, not an item inside it, and grants no bonus capacity.                                                                               |
 | Barrel (empty)                                      | 2        | 8 sp          | Common       | Bulky; rigid — costs its Slots even empty (see Section 0b).                                                                                                                                                |
 | Basket (empty)                                      | 1        | 1 sp          | Common       | Rigid — costs its Slot even empty.                                                                                                                                                                         |
 | Bedroll                                             | 1        | 2 sp          | Common       | —                                                                                                                                                                                                          |
@@ -736,7 +736,7 @@ Alchemical supplies are highly volatile, unstable, and often act as a mechanical
 | Grave-Dust Poultice  | 8 sp  | Common  | 1/3   | Field Medicine: Used as a Full Action. Instantly clears 1 filled Wound slot. However, due to the filth of the compounds, the target must roll an Athletics check vs TN 8. On a failure, they take 1 point of Dissonant Stress from spreading infection.                                                 |
 | Black-Root Draught   | 15 sp | Scarce  | 1/3   | Exhaustion: Used as a Move Action. Instantly unlocks 2 Dissonant Stress slots for an Arcane caster. However, it drains physical stamina; at the absolute end of the current scene, the character automatically fills 1 physical Wound slot from systemic toxicity.                                      |
 | Witch-Spur Salve     | 12 sp | Scarce  | 1/3   | Nerve Numbing: Rubbed into the temples as a Move Action. Grants absolute immunity to the Terrifying trait and psychological panic checks for the next scene. The Catch: It instantly fills and locks 1 Dissonant Stress slot for the duration of the scene, reducing the user's maximum stress ceiling. |
-| Vitriol Solvent      | 25 sp | Rare    | 1/3   | Armor Melt: Applied to a bladed or Armour-piercing weapon as a Full Action. For the next 3 combat rounds, the weapon gains the Sunder tag. If a strike hits a target with the Plated trait, that trait is suppressed for the rest of the encounter.                                                     |
+| Vitriol Solvent      | 25 sp | Rare    | 1/3   | Armour Melt: Applied to a bladed or Armour-piercing weapon as a Full Action. For the next 3 combat rounds, the weapon gains the Sunder tag. If a strike hits a target with the Plated trait, that trait is suppressed for the rest of the encounter.                                                     |
 | Naphtha Fire-Flask   | 30 sp | Rare    | 1/3   | Zone Control: Can be thrown (Ranged, Max 30ft). Shatters upon a square/zone. Anyone occupying or entering the zone during the next 3 rounds must pass a Dodge check vs TN 8 or take 2 Dissonant Stress from the chemical burns.                                                  |
 | Arcane Salts         | 8sp   | common  | 1/3   | A violently harsh alchemical stimulant. Using it as a Move Action instantly unlocks 1 Locked Stress slot, but immediately inflicts 1 normal Dissonant Stress on the user from the chemical shock..                                                                                                      |
 | Philter of Focus     | 20sp  | scarce  | 1/3   | The next Arcane **Sustain** check the drinker makes this scene automatically passes as a Clean result, no roll required.                                                                                                                                                                                |
@@ -751,12 +751,12 @@ Alchemical supplies are highly volatile, unstable, and often act as a mechanical
 | Tanglefoot Bag       | 20 sp | Scarce  | 0     | Thrown (Short Range). On a hit, the target is Anchored until they spend a full Aggressor action tearing free — mechanically identical to the Entangle spell's Margin 1–2 result.                                                                                                                        |
 | Thunderstone         | 20 sp | Scarce  | 0     | Thrown; explodes in a 10 ft. radius. Everyone caught rolls Resolve vs TN 8 or gains the Distracted condition (-1 to rolls until their next Activation).                                                                                                                                                 |
 | Powder Grenade       | 40 sp | Rare    | 1/3   | Black Powder, Scatter (10 ft radius), Power 2. Lit and thrown (Short, 30 ft) as one Aggressor action: roll 2d6 + Ranged, and each creature in the radius defends. Powder Die 1: a dud fuse. Snake Eyes: it detonates on the thrower's own square instead. Counts as a Fire source.                   |
-| Petard               | 80 sp | Rare    | 1     | Black Powder, Devastating, Armor-Piercing. A breaching charge — see *Petard*, below.                                                                                                                                                                                                                    |
+| Petard               | 80 sp | Rare    | 1     | Black Powder, Devastating, Armour-Piercing. A breaching charge — see *Petard*, below.                                                                                                                                                                                                                    |
 
 _Petard_
 
 - **Cost:** 80 sp | **Availability:** Rare | **Slots:** 1
-- **Tags:** Black Powder, Devastating, Armor-Piercing. Counts as a Fire source.
+- **Tags:** Black Powder, Devastating, Armour-Piercing. Counts as a Fire source.
 - **Planting it on a structure** (door, gate, wall section): a Full Action and Crafting vs TN 8. On a failure the charge isn't seated; try again next Activation.
 - **Planting it on a creature:** an Aggressor action — 2d6 + Athletics vs the creature's Reactor roll — while adjacent to it or clinging to it. On a win, the charge is fixed. On Snake Eyes, the fuse catches early and it detonates immediately. *(Getting onto a larger creature's back is a separate, GM-adjudicated Athletics feat — the corpus has no climbing-a-creature rule yet.)*
 - **The fuse:** it detonates at the start of the planter's next Activation. Whatever Movement you have left this Activation is how far you get. Leaping from a height is a Fall (Iron World).
@@ -771,7 +771,7 @@ _Petard_
 | ------------------------------ | ------------------------------------ | ------ | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Alchemist's Lab                | — (stationary facility, not carried) | 150 sp | Rare, City-tier+ | Required for the **Distil & Compound** Pursuit (Soothing the Soul) — making Alchemical Wares and Powder & Shot outside of desperate battlefield chemistry (the Scrounger's Volatile Concoction feat already covers the field-expedient version).                                                                        |
 | Artisan's tools (per trade)    | 1                                    | 5 sp   | Common           | Required to attempt a Crafting check in that trade without Disadvantage.                                                                                                                                                                                                         |
-| Artisan's tools, masterwork    | 1                                    | 20 sp  | Scarce           | +1 flat bonus to that trade's Crafting check (same logic as Masterwork Quality weapons/armor).                                                                                                                                                                                   |
+| Artisan's tools, masterwork    | 1                                    | 20 sp  | Scarce           | +1 flat bonus to that trade's Crafting check (same logic as Masterwork Quality weapons/armour).                                                                                                                                                                                   |
 | Climber's Kit                  | 1                                    | 25 sp  | Scarce           | Advantage on Athletics checks made specifically to climb.                                                                                                                                                                                                                        |
 | Disguise Kit                   | 1                                    | 15 sp  | Scarce           | Grants Advantage on the unopposed Arcana-equivalent roll for a mundane disguise (resolved exactly like the Disguise spell's Illusion check — Notice vs. your Margin to see through it).                                                                                   |
 | Healer's Kit                   | 1                                    | 15 sp  | Common           | Cheaper cousin of the Field Surgeon's Kit: +1 (not +2) to Tend to the Flesh checks, and holds only 2 uses before restocking.                                                                                                                                                     |
@@ -832,7 +832,7 @@ _Combat-trained mounts don't panic from ordinary Fear-Inducing effects (they're 
 *Both horses have full stat blocks in the Bestiary — Riding Horse (Fodder) and Heavy Horse (Grunt) — where the Wound Thresholds above derive from Brawn and Scale like any other creature's. The Small mounts are Brawn 0: 4 + 0 − 1 Scale = 3.*
 
 **Tack:**
-**Barding:** priced as **2× the base armor's sp cost**, reflecting the extra material a Large-scale mount requires. A barded mount carries the same tag penalties as a rider would (Bulky armor still imposes its usual -1 penalties). Example: Chainmail barding = 90 sp; Plate barding = 400 sp (20 gs), Rare/exotic, warhorse-only.
+**Barding:** priced as **2× the base armour's sp cost**, reflecting the extra material a Large-scale mount requires. A barded mount carries the same tag penalties as a rider would (Bulky armour still imposes its usual -1 penalties). Example: Chainmail barding = 90 sp; Plate barding = 400 sp (20 gs), Rare/exotic, warhorse-only.
 
 | Item               | Cost  | Availability | Notes                                                                                                                                                          |
 | ------------------ | ----- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

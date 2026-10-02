@@ -18,7 +18,7 @@
 	- *Wits:* Notice | Insight | Medicine | Crafting | Lore | Arcana
 	- *Will:* Influence | Faith | Survival | Resolve
 	- **Ceiling Rule (core-species builds):** no Skill may exceed its Associated Attribute **+3** — Attribute 0→3, 1→4, 2→5, 3→6. Note that a ceiling of 3 applies even at Attribute 0, so only *specialisation above +3* costs Attribute points. Monsters are exempt.
-	- **There is no Dodge skill.** Dodge is 2d6 + Acrobatics, Block is 2d6 + Block, Parry is 2d6 + Melee, Brace is 2d6 + Prowess. If a creature's preferred defence is worth signalling, say so in prose.
+	- **There is no Dodge skill.** Dodge is 2d6 + Acrobatics, Block is 2d6 + Block, Parry is 2d6 + Melee, Brace is 2d6 + Prowess. If a creature's preferred defense is worth signalling, say so in prose.
 - **Derived stats:** show the calculation for each.
 	- Wound Threshold: 4 + Brawn + Armour Value ± Species/Scale
 	- Wound Slots: by tier — Fodder 1 · Grunt 2 · Elite 3–4 · Boss 4+ (never the PC's flat 3)

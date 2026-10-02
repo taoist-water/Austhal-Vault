@@ -14,7 +14,7 @@
     
 3. When choosing to use their action to attack a target. 
 	1. Declarations: Aggressor declares an attack first (e.g., Strike, shove)
-	2. Reactor declares a defence (e.g., Dodge, Block) 
+	2. Reactor declares a defense (e.g., Dodge, Block) 
     
 4. Fight (The Clash): Both Aggressor and reactor roll their chosen actions, Highest total wins. 
 	1. Compare the roll results, the difference is the Impact(where applicable)
@@ -64,7 +64,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 - Cast Spell: See spell description.
     
 
-**Defence Actions:**
+**Defense Actions:**
 
 *When targeted by a ranged attack outside of movement distance and without a ranged weapon, the target of an activation is automatically the Reactor.*
 
@@ -97,7 +97,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 
 	Taking the **Regroup** action consumes a player's entire turn. They cannot declare an Aggressor Strike or make a tactical movement. Instead, they drop their guard to focus entirely on one of the following critical tasks:
 
-	- **Rummage the Pack:** Digging past armor and straps to retrieve a stowed item (such as a potion, a specialized tool, or a backup weapon) from **The Pack** inventory slots. Items in The Pack cannot be accessed mid-combat without taking this action.
+	- **Rummage the Pack:** Digging past armour and straps to retrieve a stowed item (such as a potion, a specialized tool, or a backup weapon) from **The Pack** inventory slots. Items in The Pack cannot be accessed mid-combat without taking this action.
     
 	- **Clear a Severe Condition:** Spending the precious seconds required to pat out the flames of the **Ablaze** condition, untangle themselves from a dropped net, or blindly wash acid from their visor.
 	
@@ -177,7 +177,7 @@ Mass dictates how easily a creature absorbs trauma. We adjust the Wound Threshol
 
 Larger creatures hit with overwhelming force, severely taxing the defender's ability to block.
 
-- Overwhelming Force: When a target attempts to defend an Attack action from a Larger opponent, the target suffers 1 automatic Stress, even if they successfully defend. If the attacker is two or more sizes larger (e.g., Human vs. Giant), the defence action suffers Disadvantage.
+- Overwhelming Force: When a target attempts to defend an Attack action from a Larger opponent, the target suffers 1 automatic Stress, even if they successfully defend. If the attacker is two or more sizes larger (e.g., Human vs. Giant), the defense action suffers Disadvantage.
     
 - Grappling/Shoving: A character automatically has Advantage on Prowess checks to grapple, shove, or knock down a creature smaller than them. You cannot grapple a creature more than one size larger than you without special feats or equipment (like ropes and harpoons).
 ________________________________________________________________________

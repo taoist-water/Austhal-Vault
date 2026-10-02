@@ -1,0 +1,179 @@
+# Hag batch 1 — proposed diff (NOT APPLIED)
+# Files: Beasts Monsters Mutants (Bestiary).md, Hardware (Equipment).md
+
+--- a/Beasts Monsters Mutants (Bestiary).md
++++ b/Beasts Monsters Mutants (Bestiary).md
+@@ -235,6 +235,26 @@
+ - The creature loses **Skittish** entirely — it does not bolt, and it can be fought from. It gains **Melee +1** if it had no Melee skill at all, and it ignores the first instance of **Fear** each Scene.
+     
+ - **Combat training does not make an animal stronger.** Brawn, Wound Threshold, Stress Limit and Move are unchanged. A trained horse is a braver horse, not a bigger one.
++
++**Glamour**
++- A face worth following into the trees or across the dunes — and not the one she was born with.
++
++- While the Glamour holds, the creature has **Advantage on Influence checks**, and a PC who declares an Aggressor action **targeting** it must first pass a **Resolve check vs TN 8**. On a failure the action is not lost: the PC cannot bring themselves to strike, and must turn that action on another target or take a non-Aggressor action instead. On a pass, that PC sees through the Glamour for the rest of the Scene and never checks again. An area effect that merely includes the creature does not target it and needs no check.
++
++- **The Glamour drops** for the rest of the Scene the moment the creature takes a Wound, takes Impact from a **Cold Iron** weapon (Hardware) whether or not it Wounds, or is Broken. When it drops, every PC who can see the true face beneath must pass a **Resolve check vs TN 8** or gain the **Fear** condition. A PC who had already seen through it is not spared — knowing it was a mask is not the same as seeing what was under it.
++
++---
++
++## ARCANE TRAITS
++
++**Innate Magic**
++- The magic is bone-deep, not book-bound.
++
++- This creature casts Arcane spells without a Grimoire and without a free hand, and never suffers Blind Casting's Disadvantage or Dissonant Stress. Every one of its Innate Spells is treated as under **Paradigm Mastery**, whatever Paradigm (or none) the spell belongs to: a Messy result — Margin 1–2 on a Clash, Margin 0–2 on a Margin of Manifestation or Sustain check — resolves as Clean and costs no Dissonant Stress. Its power was never learned, so it was never imperfect.
++
++- **What it costs.** One pick from the allowance, and it brings **up to three Novice spells** with it — the counterpart of Arcane Awakening's four, one fewer because Mastery here covers every spell rather than one Paradigm and there is no Grimoire to steal. **Each Adept or Master spell costs one further pick** and needs the Arcana rank its tier requires (Adept 2+, Master 3+ — The Marrow, Advancement). List them under **Innate Spells**; each is a full Aggressor or Activation action, one per turn like any other creature's.
++
++- _The Lizardman Shaman (Elite) was the first creature built on this trait and carries it inline: Innate Magic and Plated for 2 of its 3 picks, three Novice spells. It already fits the costing above; nothing about it changes._
+     
+ ___________________________________________________________________
+ # Example enemies
+@@ -838,6 +858,77 @@
+ - **Behaviour when Broken:** **Rout** if Skittish; a **Battle-Broke** warhorse **Frenzies** instead — it has been taught that the answer to fear is forward.
+ - **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
+ 
++### The Hag
++
++> _Something old that learned to wear a woman's shape — badly, or far too well, depending on where it lives. Every hag curses. What changes between the sea and the sand is the face she does it with._
++
++#### Vital Statistics
++
++- **Tier:** Grunt
++- **Type:** Fey, Humanoid _(Cold Iron's Bane applies — Hardware.)_
++- **Size:** Standard
++- **Move:** 30 ft
++- **Attributes (derived only):** Brawn 1, Wits 1 _(Assumed Zero: Reflex, Will — older than she is quick, and more cunning than steady.)_
++- **Skills (5):** Arcana +3, Melee +1, Influence +1. _(Casts at 2d6+3, claws and Parries at 2d6+1. **Resolve +0** — she curses far better than she resists one, and a party Witch can out-hex her.)_
++- **Derived stats:**
++    - Wound Threshold: **5** _(Base 4 + Brawn 1 — **4** against a Cold Iron weapon)_
++    - Wound Slots: **2**
++    - Stress Limit: **5** _(4 + Will 0 + Wits 1 + 0 Grunt — monster build, exempt from the core-species Stress Limit floor)_
++    - Activation Order: **6** _(6 + Reflex 0)_
++    - Momentum Bank: **4** _(4 + Reflex 0)_
++- **Equipment:** None — Talons (Power 1), iron-hard and never clean. Strike Roll: 2d6+1 (Melee +1), Impact = Margin + 1. No Grimoire and no focus: Innate Magic needs neither.
++- **Allowance (2 — Grunt): 2 Traits.**
++    - **Innate Magic** _(Trait — see Arcane Traits)_ — her two Innate Spells, below, cast without book or free hand; every Messy result resolves Clean.
++    - **Her Guise** _(Trait — fixed by her Skin, below)_ — **Fear Inducing** for the Bog-Hag and Brine-Hag, **Glamour** for the Briar-Hag and Mirage-Hag.
++- **Innate Spells (2 — Novice, Witch Magic and Hedge Craft):** each a full action, one per turn.
++    - **The Evil Eye** _(Aggressor)_ — Arcane Clash, Arcana vs. the target's Resolve, Short Range. Any win resolves Clean under Innate Magic: the target gains **Hexed**, and if that Hexed roll then fails, the backlash inflicts 1 Dissonant Stress on them.
++    - **Warding Knot** _(Activation)_ — Unopposed Arcana vs. TN 8, self or one ally by touch. The next enemy to land a Strike on the warded creature suffers Disadvantage on its next roll; on a Margin 5+ the knot survives one triggering. _She ties it onto whatever is standing between her and the party._
++    - _**Confusion** is withheld at Grunt on purpose. Under Innate Magic every won Confusion Clash resolves Clean, and a Clean Confusion deletes the target's next Activation outright. At Arcana +3 she wins that Clash **66%** of the time against a Resolve +1 PC and **76%** against Resolve +0 — a turn lost most rounds, from a Grunt. It belongs on the Matriarch._
++- **Special Action (1):** fixed by her Skin — see **Hag Skins**, below. All four replace her regular action, so none needs a Margin gate (Gate Test).
++
++#### Hag Skins
++
++A hag is made by the place she lives, the same way a Wretch is made by the place that killed it. **A Skin never changes Attributes, Skills, Wound Threshold, Wound Slots, Stress Limit, Move or Power** — _a Brine-Hag is a wetter hag, not a stronger one._ What a Skin sets is her **Guise**, her **Special Action**, **one rider that is inert outside her home ground**, and — for the Matriarch only — her **signature spell**.
++
++**Each hag is immune to the Hazard Check of her own terrain** (_Iron World_, Environmental Hazards), exactly as a Wretch is. The exception is the Briar-Hag: woodland has no Hazard Check in Iron World to be immune to, so her rider does that job instead.
++
++| Skin | Home ground | Face | Guise | Special Action | Matriarch's signature spell |
++| --- | --- | --- | --- | --- | --- |
++| **Bog-Hag** | freezing water — marsh, fen, flooded sluice | unlovely | Fear Inducing | Sucking Mire | The Creeping Ague _(Adept)_ |
++| **Brine-Hag** | freezing water — sea, surf, tidal caves | unlovely | Fear Inducing | Brine in the Lungs | Sympathetic Effigy _(Adept)_ |
++| **Briar-Hag** | woodland — no Hazard Check | lovely | Glamour | Beckon | Choking Bramble _(Adept)_ |
++| **Mirage-Hag** | a scorching desert — dunes, salt pan, dry oasis | lovely | Glamour | Drink Them Dry | Malefic Reflection _(Master)_ |
++
++_Appearance is the axis the Guise turns on, and it is mechanical rather than cosmetic. The unlovely hags are frightening from the first moment (**Fear Inducing**, a canon Trait). The lovely ones are frightening at the **last** moment — **Glamour** holds the party's hand off her until the mask drops, and the drop itself forces the same Fear check. Both halves of the roster end up making the party roll Resolve; they just disagree about when._
++
++**Bog-Hag** — _the fen-mother. Leeches in her hair, peat under her nails, and a smell that arrives before she does._
++- **Guise — Fear Inducing.**
++- **Special Action — Sucking Mire:** _Trigger:_ Instead of a regular action. _Effect:_ One target within Short Range that she can see must pass an **Athletics check vs TN 8** or gain **Anchored** as the ground under them turns to peat — cleared by Regroup, per Iron Core.
++- **Home rider (inert elsewhere):** Ignores difficult terrain from mud and standing water. **A target that is Anchored on her home ground is Drowned as well** — the peat takes them under the black water. _This is the hag the Bog-Wretch was waiting for: its own rider grants Advantage against a Drowned target._
++
++**Brine-Hag** — _barnacled, slack-skinned, hair like drowned rope. Sailors' stories make her prettier than she is._
++- **Guise — Fear Inducing.**
++- **Special Action — Brine in the Lungs:** _Trigger:_ Instead of a regular action. _Effect:_ One target within Short Range who can hear her must pass an **Athletics check vs TN 8** or gain **Drowned** — on dry land, if need be, as their lungs fill with seawater. It clears exactly as Drowned always does (Athletics vs TN 8, made by the target or by an adjacent ally spending an Action); on dry land, "reaching the surface" means coughing it up.
++- **Home rider (inert elsewhere):** Ignores difficult terrain from surf and water. **Tide-Born:** if she starts her activation standing in water, she clears 1 Stress. _The sea is the only thing that has ever been kind to her._
++
++**Briar-Hag** — _a woman at the edge of the trees, barefoot, holding a lantern that is the wrong colour. She knows your name._
++- **Guise — Glamour.**
++- **Special Action — Beckon:** _Trigger:_ Instead of a regular action. _Effect:_ One target within Medium Range who can see her must pass a **Resolve check vs TN 8**, or on their next Activation they spend their Move walking toward her by the most direct path — through difficult terrain, brambles and Threat Zones alike (leaving a Threat Zone still provokes). They stop short of a fall or open flame, and may still take their Action at the end of the walk. **A PC who has seen through her Glamour is immune.**
++- **Home rider (inert elsewhere):** Ignores difficult terrain from undergrowth and roots. **Green Shroud:** in woodland she counts as **Obscured** (Iron World) to any attacker more than 10 ft away.
++
++**Mirage-Hag** — _the woman at the well that should not be there, offering a cup. The water is sand. So is she, nearly._
++- **Guise — Glamour.**
++- **Special Action — Drink Them Dry:** _Trigger:_ Instead of a regular action. _Effect:_ One target within Short Range must pass an **Athletics check vs TN 8** or gain **Fatigued** (1 Locked Stress, cleared only by a Long Rest or magical Restoration — Iron Core). A target she has already Fatigued this Scene is immune. _In the open desert this lands on top of the Hazard Check's own Locked Stress, which is the point of fighting her there._
++- **Home rider (inert elsewhere):** Ignores difficult terrain from sand and scree. **Her Glamour survives taking a Wound** — the heat-shimmer holds the lie together. Cold Iron and Breaking still drop it.
++
++#### Phases
++
++- **Behaviour when unbroken:** Never closes to melee by choice; the Talons are for when she is cornered. Opens with her Skin's Special Action, ties a Warding Knot onto whatever stands in front of her, and puts the Evil Eye on whoever is about to swing at her. The lovely ones open by **talking** — Glamour gives Advantage on Influence, and a party that stops to parley has handed her the first activation. Field her behind something with a body: her sisters, or Wretches from the same ground — Bog-Wretches for a Bog-Hag, Dust-Wretches for a Mirage-Hag.
++- **Behaviour when Broken:** Set by her Guise.
++    - **Fear Inducing (Bog, Brine): The Rout.** She goes under — into the mire or the surf — and on her home ground she does not come up anywhere the party is looking. Off it, she runs for the nearest water.
++    - **Glamour (Briar, Mirage): Frenzy.** The Glamour drops (with its Fear check) and what was underneath comes at the nearest PC: she loses her Parry, gains Advantage on all Strikes, and stops casting.
++- **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
++
+ ---
+ 
+ ## Elite
+@@ -1150,6 +1241,57 @@
+ - **Behaviour when Broken:** Resolves as **The Rout** — she is a professional at three hundred feet and nothing at all at five. Once her Stress maxes out she leaves, and she leaves early.
+ - **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
+ 
++### The Hag Matriarch
++
++> _Every coven has one who was there first. The others are hers the way her teeth are hers._
++
++#### Vital Statistics
++
++- **Tier:** Elite
++- **Type:** Fey, Humanoid _(Cold Iron's Bane applies — Hardware.)_
++- **Size:** Standard
++- **Move:** 30 ft
++- **Skin:** one of the four **Hag Skins** (see The Hag, Grunt). Her Skin sets her Guise, her first Special Action, her home-ground rider and her signature spell, and changes nothing else.
++- **Attributes (derived only):** Brawn 1, Wits 1, Will 1 _(Assumed Zero: Reflex.)_
++- **Skills (11):** Arcana +4, Influence +2, Resolve +2, Melee +2, Notice +1. _(Casts at 2d6+4, resists other witches at 2d6+2, claws and Parries at 2d6+2.)_
++- **Derived stats:**
++    - Wound Threshold: **5** _(Base 4 + Brawn 1 — **4** against a Cold Iron weapon)_
++    - Wound Slots: **3**
++    - Stress Limit: **7** _(4 + Will 1 + Wits 1 + 1 Elite — monster build, exempt from the core-species Stress Limit floor)_
++    - Activation Order: **6** _(6 + Reflex 0)_
++    - Momentum Bank: **4** _(4 + Reflex 0)_
++- **Equipment:** None — Talons (Power 1). Strike Roll: 2d6+2 (Melee +2), Impact = Margin + 1.
++- **Allowance (3 — Elite): 2 Traits + 1 spell.**
++    - **Innate Magic** _(Trait — see Arcane Traits)_ — brings the three Novice spells below; every Messy result resolves Clean.
++    - **Her Guise** _(Trait — fixed by her Skin)_ — **Fear Inducing** (Bog, Brine) or **Glamour** (Briar, Mirage).
++    - **Her signature spell** _(one pick, per Innate Magic's costing)_ — fixed by her Skin. Arcana +4 meets both the Adept (2+) and Master (3+) rank.
++- **Innate Spells (4):** each a full action, one per turn. Read every one from Manipulating The Void; under Innate Magic, every Messy result resolves Clean.
++    - **Confusion** _(Novice, Aggressor)_ — Arcane Clash, Arcana vs. Resolve, Short Range. Any win: **Confused**, and the target loses its next Activation outright.
++    - **The Evil Eye** _(Novice, Aggressor)_ — as The Hag.
++    - **Warding Knot** _(Novice, Activation)_ — as The Hag.
++    - **Signature spell, by Skin:**
++        - _Bog-Hag:_ **The Creeping Ague** _(Adept, Aggressor)_ — marsh-fever. Any win resolves Clean: the target forfeits its whole next turn to Regroup, retching; an Elite or Boss target also cannot spend Momentum until it recovers.
++        - _Brine-Hag:_ **Sympathetic Effigy** _(Adept, Activation, TN 10)_ — a poppet of driftwood, kelp and a drowned sailor's hair. The next Wound the linked creature would suffer snaps the poppet instead; on a Margin 5+ the one who dealt it suffers **Impact 4**. _She ties it to herself first, then to a sister._
++        - _Briar-Hag:_ **Choking Bramble** _(Adept, Activation, TN 10)_ — a 15 ft radius of iron-hard briars for the Scene. Any success resolves at least Clean: her allies move through freely, and an enemy who declares a Strike from inside takes 1 Dissonant Stress first.
++        - _Mirage-Hag:_ **Malefic Reflection** _(Master, Aggressor)_ — you strike the mirage, and the mirage strikes back. Any win resolves Clean: for the Scene, whenever the target deals Impact to anyone, they suffer Impact of the full same amount themselves.
++- **Special Actions (2):**
++    - **Her Skin's Special Action** — Sucking Mire, Brine in the Lungs, Beckon or Drink Them Dry, exactly as The Hag.
++    - **Sister's Blood:** _Trigger:_ She would suffer a Wound while another hag is within 30 ft — once per round. _Effect:_ That hag suffers the Wound in her place; the coven pays for its mother. **A Wound dealt by a Cold Iron weapon cannot be passed** — iron cuts the thread. _Self-limiting by trigger, so free under the Gate Test. Its whole job is to make the party kill the sisters first, and to give a Cold Iron weapon a second reason to exist._
++
++> _**Running her — Resolve is the soft target.** Every one of her Clash spells is Arcana vs. Resolve, and Resolve is the thinnest defence on most Green sheets. At Arcana +4 she wins **76%** of those Clashes against Resolve +1 and **84%** against Resolve +0 — and, being Elite, she banks 1 Momentum on a Margin 5+, which she clears on **34%** of casts against Resolve +1. That is on a par with the Gallows Shot's Chain loop, the roster's sharpest earner — and it comes from the spell list and the earning table meeting, not from any new rule. Her ceiling is the action economy: one spell a turn, and Confusion or the Ague costs her the same action it costs the target. Watch whether a Bog Matriarch with both turn-deleters plus a Sucking Mire feels like a fight or a lockdown._
++
++#### Phases
++
++- **Behaviour when unbroken:** Stands at the back of the coven, inside Short Range of the fight and never inside a Threat Zone. Opens with **Confusion** on whoever the party is built around, then plays her Skin:
++    - _Bog:_ **Sucking Mire** on home ground — Anchored becomes Drowned — and lets the Bog-Wretches do the rest; **the Ague** for anyone who breaks free.
++    - _Brine:_ **Sympathetic Effigy** on herself before anyone reaches her, then **Brine in the Lungs** every turn it isn't needed.
++    - _Briar:_ **Choking Bramble** between herself and the party, then **Beckon** them into it, one at a time.
++    - _Mirage:_ **Malefic Reflection** on the heaviest hitter, then **Drink Them Dry** on everyone else, while the desert does its own work.
++
++    Keeps her sisters within 30 ft at all times, because Sister's Blood only works while they are.
++- **Behaviour when Broken:** **Surrender — she names her price.** If she wears a Glamour it drops first, with its Fear check. Then she offers a bargain for her life: a true answer, a curse lifted, safe passage through her ground. She is Fey, "bound to the old pacts" (Creature Types) — whether she keeps the bargain to its letter, its spirit, or not at all is the GM's call.
++- **Dread Entity/Boss Phase changes:** N/A — Elite tier, single behavioral break as above.
++
+ _______________________________
+ 
+ ## Dread / Boss
+--- a/Hardware (Equipment).md
++++ b/Hardware (Equipment).md
+@@ -218,7 +218,7 @@
+ **Cold Iron Weapon** (weapon add-on) — 25 sp | Scarce
+ Requires a weapon. Forged from iron worked pure of the impurities that make ordinary steel — heavier, softer, and murder on anything that isn't wholly of this world.
+ - **Effect:** Bane (Fey). The wielder treats a Fey target's Wound Threshold as 1 point lower.
+-- *Cold iron answers what is not wholly of this world by birth rather than by corruption — the Fey and their kin alone. **No Fey stat block exists in the Bestiary yet**, so this add-on is currently aspirational: buy it for the campaign you expect, not the one in the book.*
++- *Cold iron answers what is not wholly of this world by birth rather than by corruption — the Fey and their kin alone. Against **The Hag** and **The Hag Matriarch** (Bestiary) it does three jobs: the Bane above, stripping a **Glamour** on any hit, and refusing **Sister's Blood** — a Matriarch cannot pass a Cold Iron Wound to her coven.*
+ 
+ **Sun Iron** (weapon add-on) — 40 sp | Rare
+ Requires a weapon. Iron quenched at first light for nine consecutive dawns, then worked while the metal still holds the warmth.

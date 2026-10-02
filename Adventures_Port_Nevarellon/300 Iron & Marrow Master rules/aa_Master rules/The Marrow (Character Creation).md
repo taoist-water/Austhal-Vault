@@ -535,7 +535,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >Your sheer grit is terrifying.
 
-* Mechanic: When you use the blood price maneuver, you do not spend Momentum.
+* Mechanic: When you use **The Blood Price** (Iron Core, *Spending Momentum* — the 1-Momentum conversion of a Wound into 2 Dissonant Stress), you do not spend the Momentum.
 
 **Juggernaut**
 
@@ -593,7 +593,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >You are a master of punishing overextension.
 
-* Mechanic: If you win a Parry action in a melee Clash, you violently deflect the blow and instantly inflict Impact on the Attacker — calculated exactly as if you had won a Strike (your Margin of victory + your weapon's Power). This turns your defence directly into a weapon.
+* Mechanic: If you win a Parry action in a melee Clash, you violently deflect the blow and instantly inflict Impact on the Attacker — calculated exactly as if you had won a Strike (your Margin of victory + your weapon's Power). This turns your defense directly into a weapon.
 
 **Silver-Tongued Viper**
 
@@ -749,7 +749,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >You can build a masterpiece out of absolute garbage.
 
-* Mechanic: You do not require a proper forge, toolkit, or high-grade materials to repair or craft items. With 1 hour of downtime and the salvaged remains of Fodder/Grunt weapons and armor, you can permanently upgrade any standard weapon or piece of armor to Masterwork, granting it a permanent +1 modifier to damage or defense.
+* Mechanic: You do not require a proper forge, toolkit, or high-grade materials to repair or craft items. With 1 hour of downtime and the salvaged remains of Fodder/Grunt weapons and armour, you can permanently upgrade any standard weapon or piece of armour to Masterwork, granting it a permanent +1 modifier to damage or defense.
 
 **Marrow-Forged**
 
@@ -790,7 +790,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >You dismantle their hope right along with their steel.
 
-* Mechanic: As a Combat Action, spend 3 Momentum instead of making an attack roll to slice a shield strap, cut a bowstring, or unbuckle armor. The target loses the use of that item or loses their Armor rating for the rest of the fight. This completely bypasses the Wound system to permanently cripple Elite or Boss-level enemies.
+* Mechanic: As a Combat Action, spend 3 Momentum instead of making an attack roll to slice a shield strap, cut a bowstring, or unbuckle armour. The target loses the use of that item or loses their Armour rating for the rest of the fight. This completely bypasses the Wound system to permanently cripple Elite or Boss-level enemies.
 
 **Shatter the Ego**
 
@@ -845,7 +845,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >Destruction is just energy seeking its natural resting state.
 
-* Mechanic: When you suffer the Snake Eyes Backfire on an Arcana roll, resolve its Wound and Dissonant Stress as normal — then discharge everything: your full current Dissonant Stress total becomes the "lethal hazard" the Backfire produces, converting to an outward blast that deals Impact equal to the amount discharged (ignoring Armor) to everyone within Short Range, allies included. Your Dissonant Stress clears to 0.
+* Mechanic: When you suffer the Snake Eyes Backfire on an Arcana roll, resolve its Wound and Dissonant Stress as normal — then discharge everything: your full current Dissonant Stress total becomes the "lethal hazard" the Backfire produces, converting to an outward blast that deals Impact equal to the amount discharged (ignoring Armour) to everyone within Short Range, allies included. Your Dissonant Stress clears to 0.
 
 **The Berserker (Barbarian Archetype)**
 
@@ -1062,7 +1062,7 @@ ________________________________________________________________________
 
 * Mechanic: You gain access to the following Momentum spends:
 
-  - **The Patch Job:** Your armor or weapon just gained the Damaged tag, rendering it mechanically weak. Spend 1 Momentum to hurriedly bind it with leather straps, sap, or wire. You completely ignore the Damaged tag for the duration of the next scene. Once the scene ends, the gear breaks again.
+  - **The Patch Job:** Your armour or weapon just gained the Damaged tag, rendering it mechanically weak. Spend 1 Momentum to hurriedly bind it with leather straps, sap, or wire. You completely ignore the Damaged tag for the duration of the next scene. Once the scene ends, the gear breaks again.
 
   - **Shivs and Shrapnel:** Spend 1 Momentum to instantly fashion a crude, single-use Power 1 weapon (a glass shiv, a heavy bone club) or a rudimentary tool (a makeshift lockpick, a wedge for a door) from the immediate environment, without needing to roll for success.
 
@@ -1090,7 +1090,7 @@ ________________________________________________________________________
 
   - **The Kill-Box Barricade:** You only have minutes before the swarm arrives. Spend 3 Momentum to cannibalize the environment (pews, iron gates, rubble) to create a  booby-trapped choke point. The first enemy that attempts to cross the threshold automatically suffers a massive kinetic hit (e.g., 7 Impact) and gains the Anchored condition, without you ever having to roll a Strike.
 
-  - **Cannibalize Gear:** Instead of a temporary patch, you permanently repair a critical piece of gear. Spend 3 Momentum and destroy one piece of equipment (an enemy's dropped sword, a heavy iron pot) to permanently strip the Damaged tag from your primary weapon or armor mid-dungeon.
+  - **Cannibalize Gear:** Instead of a temporary patch, you permanently repair a critical piece of gear. Spend 3 Momentum and destroy one piece of equipment (an enemy's dropped sword, a heavy iron pot) to permanently strip the Damaged tag from your primary weapon or armour mid-dungeon.
 
 ________________________________________________________________________
 # Advancement

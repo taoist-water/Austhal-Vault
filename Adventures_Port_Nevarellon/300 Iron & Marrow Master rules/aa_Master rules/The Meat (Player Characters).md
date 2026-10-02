@@ -29,7 +29,7 @@
 - **Stoic Resolve** *(Will +2, Resolve +1)*: +2 Stress Limit (already applied above). When taking the Reprieve action, or spending Momentum on Adrenaline Flush, clear 1 extra point of the relevant Stress type.
 
 ### Equipment
-- **Armor:** Chainmail/Scale (+2 Armor, Medium, **Bulky** — -1 Athletics/Stealth/Arcana; doesn't touch Faith, so this costs her nothing she was using)
+- **Armour:** Chainmail/Scale (+2 Armour, Medium, **Bulky** — -1 Athletics/Stealth/Arcana; doesn't touch Faith, so this costs her nothing she was using)
 - **Weapons/Shield (two 1H items):** Mace (Power 2, Bash) + Kite/Round Shield (4 SV, **Cover** — Advantage on defense vs. ranged)
 - **Holy Symbol** (granted by Divine Conduit — outside the purse)
 - **Starting Purse: 80 sp** — Chainmail/Scale 45 + Mace 8 + Kite Shield 18 = **71 sp spent, 9 sp remaining.** 2 sp on a bedroll, 3 sp on a hooded lamp (Dwarven habit — always carry your own light underground), 4 sp in her pocket. She took the Bulky armour over the Chain Shirt deliberately: 5 sp cheaper, and the -1 it costs lands on Athletics, Stealth, and Arcana, none of which she uses. Her Faith is untouched.
@@ -77,7 +77,7 @@ Tithe of Will 2d6+3 | Strike (Mace) 2d6+1, Impact = Margin+2 | Block 2d6+1 (mode
 - **Whispers in the Dark** *(Stealth +1, Notice +1)*: While successfully hidden, Advantage on Notice checks to eavesdrop, read lips, or observe details without breaking cover.
 
 ### Equipment
-- **Armor:** Leather (+1 Armor, Light — no Arcana penalty)
+- **Armour:** Leather (+1 Armour, Light — no Arcana penalty)
 - **Weapons (two 1H items):** Grimoire (Repository — granted by Arcane Awakening, outside the purse) + Dagger (Finesse — reroll a natural 1 in a Clash; with Melee 0 he is rerolling into a +0 either way, but it is free)
 - **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining.** 5 sp on a signet ring (a different name and seal in every city, which is rather the point), 2 sp on ink/paper/sealing wax, 16 sp on 2 Grave-Dust Poultices (Field Medicine — Full Action, instantly clears 1 filled Wound Slot; Athletics TN 8 or 1 Dissonant Stress), 40 sp banked. The lightest kit on the roster buys the deepest pockets — which for a confidence man is not a consolation prize, and now buys him a little insurance too.
 
@@ -120,7 +120,7 @@ Arcane Clash/Manifestation 2d6+3 (incl. Havoc) | Dagger Strike 2d6+0 *(Melee 0; 
 - **Shadow-Weaver** *(Stealth 1)*: Ignores the Rushed penalty for moving quickly while trying to stay hidden — kite and re-hide in the same turn without a Stealth tax.
 
 ### Equipment
-- **Armor:** Leather (+1 Armor, Light — keeps Stealth/Acrobatics clean)
+- **Armour:** Leather (+1 Armour, Light — keeps Stealth/Acrobatics clean)
 - **Weapon (one 2H item):** Shortbow (Power 2, **Volley** — requires both hands, no Shield or Grimoire while wielding it)
 - **Starting Purse: 80 sp** — Leather 12 + Shortbow 15 = **27 sp spent, 53 sp remaining.** 4 sp on a bag of Caltrops (scatter them behind her while kiting), 2 sp on hemp rope, arrows and a spare bowstring, **47 sp in reserve.** Light armour and a cheap weapon is the archer's bargain: she is buying range instead of Wound Threshold, and the purse lets her buy a great deal of everything else with the difference.
 
@@ -156,7 +156,7 @@ Ranged Strike 2d6+3, Impact = Margin+2 (Shortbow) | Dodge 2d6+1 | Stealth 2d6+2 
 - **Lethal Strikes** *(Melee 1)*: Her unarmed strikes can deal Lethal Impact and cause physical Wounds — the mechanical half of the "own knuckles" line in Wreath of Embers below; without it, her fists are just fists.
 
 ### Equipment
-- **Armor:** Chain Shirt (+2 Armor, Light — no Arcana penalty)
+- **Armour:** Chain Shirt (+2 Armour, Light — no Arcana penalty)
 - **Weapons:** None carried by choice. Grimoire (Repository — granted by Arcane Awakening, outside the purse) sits in one hand; the other stays free to strike unarmed, which is exactly the hand the Casting Requirement was already demanding she keep open.
 - **Starting Purse: 80 sp** — Chain Shirt 50 = **50 sp spent, 30 sp remaining.** 3 sp on a tinderbox and oil flask she doesn't strictly need, 2 sp on bandages, 25 sp banked. Skipping a weapon entirely bought her the roster's best-armoured caster for the price — Faelan and Morwenna both sit at Wound Threshold 4; she's at 7 without spending a single silver on steel.
 
@@ -201,7 +201,7 @@ Arcane Clash/Manifestation 2d6+3 | Unarmed Strike 2d6+1 *(Melee; Lethal Strikes 
 - **Trench Fighter** *(Brawn +1 — Creation)*: ignores Difficult Terrain's Disadvantage entirely, and drawing a weapon while engaged doesn't take the usual penalty.
 
 ### Equipment
-- **Armor:** Chainmail/Scale (+2 Armor, Medium, Bulky — the Bulky penalty hits Athletics/Stealth/Arcana, and he has zero ranks in any of the three, so it costs him nothing)
+- **Armour:** Chainmail/Scale (+2 Armour, Medium, Bulky — the Bulky penalty hits Athletics/Stealth/Arcana, and he has zero ranks in any of the three, so it costs him nothing)
 - **Weapon:** Shortsword (Power 2, Sidearm, Finesse)
 - **Shield:** Kite/Round Shield (4 SV, Cover)
 - **Starting Purse: 80 sp** — Chainmail/Scale 45 + Shortsword 10 + Kite Shield 18 = **73 sp spent, 7 sp remaining.** Sunrod (5 sp) for light, 2 sp banked.
@@ -210,7 +210,7 @@ Arcane Clash/Manifestation 2d6+3 | Unarmed Strike 2d6+1 *(Melee; Lethal Strikes 
 Melee Clash 2d6+3 | Block 2d6+3 (if lost, Kite Shield's SV 4 subtracts from Impact before comparing to WT 9) | Prowess 2d6+1 | Resolve 2d6+1 | Notice 2d6+1 | Activation Order 7
 
 ### Table Notes
-- **The armor swap that pays for a light source.** His original loadout (Chain Shirt 50 + Shortsword 10 + Kite Shield 18 = 78 of 80 sp) left nothing for consumables. Chainmail/Scale is strictly better silver-for-silver here: same +2 Armor as Chain Shirt for 5 sp less, and Bulky is free when nothing you own touches Athletics/Stealth/Arcana. Worth remembering any time a melee-only build is short on purse.
+- **The armour swap that pays for a light source.** His original loadout (Chain Shirt 50 + Shortsword 10 + Kite Shield 18 = 78 of 80 sp) left nothing for consumables. Chainmail/Scale is strictly better silver-for-silver here: same +2 Armour as Chain Shirt for 5 sp less, and Bulky is free when nothing you own touches Athletics/Stealth/Arcana. Worth remembering any time a melee-only build is short on purse.
 - **First character built to actually spend DP on Block.** Every other melee build in the roster (Ox, Corvin) leaves Block at 0 and works through Melee/Acrobatics instead. Bram's Block 3 is the first real test of the skill at full investment: per Metal meet Flesh, Block is 2d6+Block as a Reactor roll, and on a loss his Kite Shield's SV 4 subtracts from Impact before it's compared to his WT 9 (same mechanic Helga's sheet already uses). The Marrow's own skill-list line for Block ("Using the haft of your spear, effective with a shield") is just flavor text describing what the skill represents, not a rules citation — the actual mechanic lives in Metal meet Flesh, not there.
 
 ---
@@ -240,7 +240,7 @@ Melee Clash 2d6+3 | Block 2d6+3 (if lost, Kite Shield's SV 4 subtracts from Impa
 - **Trench Fighter** *(Brawn +1 — Creation)*: ignores Difficult Terrain's Disadvantage, and drawing a weapon while engaged doesn't take the usual penalty.
 
 ### Equipment
-- **Armor:** Leather (+1 Armor, Light)
+- **Armour:** Leather (+1 Armour, Light)
 - **Weapon:** Greataxe (Power 5, 2H, Heavy Hitter, Cumbersome, Scarce)
 - **Starting Purse: 80 sp** — Leather 12 + Greataxe 40 = **52 sp spent, 28 sp remaining.** Grave-Dust Poultice (8 sp) + Witch-Spur Salve (12 sp) = 20 sp, **8 sp banked.**
 
@@ -279,7 +279,7 @@ Melee Clash 2d6+3 *(Power 5; **Heavy Hitter** — every natural 6 on his 2d6 cou
 - **Scavenger's Eye** *(Wits +1, Stealth +1 — Creation)*: a Massive Success (Margin 5+) on an exploration or scouting check banks 2 Momentum instead of 1.
 
 ### Equipment
-- **Armor:** Leather (+1 Armor, Light)
+- **Armour:** Leather (+1 Armour, Light)
 - **Weapons:** Twin Daggers — 2× Dagger/Knife (5 sp each, Concealable, Close-Quarters, Finesse, Thrown, Sidearm), wielded in the **Twin-Blade Stance** (Off-Hand Parry; the Twin Strike maneuver for 1 Momentum)
 - **Starting Purse: 80 sp** — Leather 12 + 2× Dagger 10 = **22 sp spent, 58 sp remaining.** Smokestick (15 sp) + Tanglefoot Bag (20 sp) = 35 sp, **23 sp banked.**
 
@@ -319,7 +319,7 @@ Melee Clash (Daggers) 2d6+1 | Thievery 2d6+3 | Stealth 2d6+3 | Acrobatics 2d6+1 
 - **Scavenger's Eye** *(Wits +1, Survival +1 — Creation)*: a Massive Success (Margin 5+) on an exploration or scouting check banks 2 Momentum instead of 1 — pairs directly with Kaelen's Eye below.
 
 ### Equipment
-- **Armor:** Leather (+1 Armor, Light — doesn't touch Faith or Ranged)
+- **Armour:** Leather (+1 Armour, Light — doesn't touch Faith or Ranged)
 - **Weapon (one 2H item):** Shortbow (Power 2, **Volley** — requires both hands, no Shield or Grimoire while wielding it; Holy Symbol still works one-handed and isn't a Grimoire)
 - **Holy Symbol** (granted by Divine Conduit — outside the purse)
 - **Starting Purse: 80 sp** — Leather 12 + Shortbow 15 = **27 sp spent, 53 sp remaining.** Antitoxin (20 sp) + Sunrod (5 sp) = 25 sp, **28 sp banked** for arrows, a spare bowstring, and rope.
@@ -366,7 +366,7 @@ Tithe of Will 2d6+3 | Ranged Strike (Shortbow) 2d6+3, Impact = Margin+2 | Surviv
 - **Battlefield Orator** *(Influence +2 — Creation)*: spend an Action in combat to shout orders or hurl insults. Choose one: an ally immediately clears 1d6 Dissonant Stress, or an engaged enemy suffers a -2 penalty to their next Defense roll.
 
 ### Equipment
-- **Armor:** Leather (+1 Armor, Light)
+- **Armour:** Leather (+1 Armour, Light)
 - **Weapon:** Dagger (Concealable, Close-Quarters, Finesse, Thrown, Sidearm)
 - **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining.** Grave-Dust Poultice (8 sp) + a merchant's scale (3 sp, Advantage on Insight/Notice to catch a rigged deal or counterfeit coin) = 11 sp, **52 sp banked** — she carries coin, not gear, and spends it on people rather than steel.
 
@@ -408,7 +408,7 @@ Influence 2d6+3 | Medicine 2d6+2 | Insight 2d6+2 | Notice 2d6+1 | Resolve 2d6+1 
 - **Quick** *(Reflex 1 — Creation)*: +3 to your Activation Order.
 
 ### Equipment
-- **Armor:** Gambeson (+0 Armor, Light, Cushioned) — his actual creation-day kit; upgraded to Leather during Downtime after Milestone 1, per his Blooded sheet.
+- **Armour:** Gambeson (+0 Armour, Light, Cushioned) — his actual creation-day kit; upgraded to Leather during Downtime after Milestone 1, per his Blooded sheet.
 - **Starting Purse: 80 sp** — Gambeson 5 + Shortsword 10 + Dagger 5 = **20 sp spent, 60 sp remaining.** The same deliberately light kit his Blooded Table Notes already describe — this is where that float started, before 12 sp of it went to the Leather upgrade.
 - **Weapons (two 1H items):** Shortsword (Power 2, **Sidearm**, **Finesse**) + Dagger (Power 0, **Sidearm**, **Finesse**, Concealable, Close-Quarters, Thrown) — qualifies for **Twin-Blade Stance**.
 
@@ -449,22 +449,22 @@ Strike (Shortsword) 2d6+4, Impact = Margin+2 | Parry 2d6+4 | Dodge 2d6+3 | **Fin
 
 ### Equipment
 - **Focus:** Grimoire (1H, **Repository**) — 15 sp — held in his off hand, plus a **Wand** (1H, **Conduit**, **Sidearm**) — 10 sp — in his casting hand. The Grimoire satisfies the Repository requirement; Conduit means the hand holding the Wand still counts as free for the somatic component. Both Casting Requirements met, no Blind Casting penalty, and no hand left over. *(Downgraded from the Mage Staff, which is Rare and not purchasable at Green at any price — see Availability at character creation, Hardware. He loses **Bound**, so the book must now actually be held, and loses **Reach** and **Grounding Rod** outright — but the Wand's **Sidearm** tag answers the same problem Reach did from the other direction: Reach keeps an enemy at 10 ft, Sidearm lets him keep casting once they are at 5 ft. On a WT 6 caster with Dodge 2d6+0, being closed on is the likeliest thing that happens to him.)*
-- **Armor:** Leather (+1 Armour, Light) — 12 sp. Light armour carries no Arcana penalty, and the 20 sp freed by dropping the Staff pays for it without touching the alchemy.
+- **Armour:** Leather (+1 Armour, Light) — 12 sp. Light armour carries no Arcana penalty, and the 20 sp freed by dropping the Staff pays for it without touching the alchemy.
 - **Starting Purse: 80 sp** — Grimoire 15 + Wand 10 + Leather 12 = 37 sp. Black-Root Draught 15 + Philter of Focus 20 + Grave-Dust Poultice 8 = 43 sp. **80 sp spent, 0 sp remaining.** Every item is Common or Scarce, so the entire loadout is purchasable from a Town at Green — which the Mage Staff never was.
 
 ### Grimoire (Arcana = **2d6+3**)
 - **Fear** *(Demonology, Paradigm, Mastery-eligible)* — Arcane Clash, Arcana vs. Target's Resolve, one character or 10ft area, Short Range, Aggressor. Margin 1–2: target suffers 2 Dissonant Stress and must spend their next Activation fleeing at max speed; he takes 1 Dissonant Stress from the strain. Margin 3+ (Clean, or Mastery-upgraded from 1–2): as above, and a Fodder-tier target immediately Routs instead of just fleeing.
-- **Void Rend** *(Demonology, Paradigm, Mastery-eligible)* — Arcane Clash, Arcana vs. Target's Defense, Medium Range, Spell Power 2, Aggressor. Margin 1–2: Impact = Margin+2, ignoring 1 point of the target's Shield Value or Armor; he takes 1 Dissonant Stress. Margin 3+ (Clean, or Mastery-upgraded from 1–2): as above, no cost.
+- **Void Rend** *(Demonology, Paradigm, Mastery-eligible)* — Arcane Clash, Arcana vs. Target's Defense, Medium Range, Spell Power 2, Aggressor. Margin 1–2: Impact = Margin+2, ignoring 1 point of the target's Shield Value or Armour; he takes 1 Dissonant Stress. Margin 3+ (Clean, or Mastery-upgraded from 1–2): as above, no cost.
 - **The Evil Eye** *(Witch Magic and Hedge Craft, off-Paradigm — no Mastery)* — Arcane Clash, Arcana vs. Target's Resolve, Short Range, Aggressor. Margin 1–2: target is Hexed — Disadvantage on their next Aggressor Strike or Reactor defense roll; he takes 1 Dissonant Stress. Margin 3+ (Clean): as above, and if the Hexed roll then fails, the target also suffers 1 Dissonant Stress from the backlash.
-- **Arcane Protection** *(Common — no Mastery)* — Unopposed vs. TN 8, **Activation to raise only; it can never be cast as a Reactor**, **self only**, Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound). Margin 0–2: ward holds, he takes 1 Dissonant Stress. Margin 3–4: ward holds, hostile spells targeting him suffer Disadvantage on their casting roll. Margin 5+: as Clean, and the ward gains SV 2 against the next hostile spell's Impact. Special: while the ward stands he may use **Arcana as his defence** against an incoming hostile spell in place of his normal Reactor stat — at every band, Messy included. *Spell* is the generic term, so this answers hostile **Prayers** too.
+- **Arcane Protection** *(Common — no Mastery)* — Unopposed vs. TN 8, **Activation to raise only; it can never be cast as a Reactor**, **self only**, Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound). Margin 0–2: ward holds, he takes 1 Dissonant Stress. Margin 3–4: ward holds, hostile spells targeting him suffer Disadvantage on their casting roll. Margin 5+: as Clean, and the ward gains SV 2 against the next hostile spell's Impact. Special: while the ward stands he may use **Arcana as his defense** against an incoming hostile spell in place of his normal Reactor stat — at every band, Messy included. *Spell* is the generic term, so this answers hostile **Prayers** too.
 
 ### Combat Math Quick-Ref
 Arcane Clash/Manifestation 2d6+3 | Notice 2d6+2 | Insight 2d6+2 | Lore 2d6+1 | Dodge 2d6+0 *(no Acrobatics investment)* | Activation Order 6
 
 ### Table Notes
-- **Correction: Spike is 3/1/0/0, not 3/0/0/0 — the array spends all 4 Attribute points, not 3.** The first draft of this sheet left the +1 unspent. It went to Will rather than Brawn or Reflex: every one of his four spells inflicts Dissonant Stress on him on a non-Clean result, so the extra point buys Stress Limit 8 instead of 7 — headroom for the exact tax his own Grimoire charges him — without touching the WT 5 / no-armor fragility that's the deliberate point of the build. Resolve/Influence/Faith ceiling opens to 4 as a side effect; he has no ranks in any of them.
+- **Correction: Spike is 3/1/0/0, not 3/0/0/0 — the array spends all 4 Attribute points, not 3.** The first draft of this sheet left the +1 unspent. It went to Will rather than Brawn or Reflex: every one of his four spells inflicts Dissonant Stress on him on a non-Clean result, so the extra point buys Stress Limit 8 instead of 7 — headroom for the exact tax his own Grimoire charges him — without touching the WT 5 / no-armour fragility that's the deliberate point of the build. Resolve/Influence/Faith ceiling opens to 4 as a side effect; he has no ranks in any of them.
 - **No character in the roster equips a Mage Staff any more.** He was the first and only, and the Staff is Rare — not purchasable at Green at any price. Grimoire + Wand costs 25 sp against the Staff's 45 and clears both Casting Requirements just as cleanly, but it commits both hands to *holding two things* rather than to one item doing both jobs, and gives up **Reach** and **Grounding Rod**. The Staff is now an in-play acquisition, which is the correct shape for a 45 sp Rare item — and worth a Blooded-or-later caster demonstrating.
-- **Arcane Protection stands on its own merits without the Staff.** Its Reactor clause (using **Arcana as his defence** in place of his normal Reactor stat) is the reason to keep it on a caster with Dodge 2d6+0 — and since *spell* is the generic term, that ward now answers hostile Prayers as well as hostile Arcana. What's gone is Grounding Rod's Advantage on every maintenance roll. **Philter of Focus** (20 sp, auto-Clean the first Sustain check of the scene) still guarantees the opening cast; it just no longer has Advantage stacked behind the rolls after it.
+- **Arcane Protection stands on its own merits without the Staff.** Its Reactor clause (using **Arcana as his defense** in place of his normal Reactor stat) is the reason to keep it on a caster with Dodge 2d6+0 — and since *spell* is the generic term, that ward now answers hostile Prayers as well as hostile Arcana. What's gone is Grounding Rod's Advantage on every maintenance roll. **Philter of Focus** (20 sp, auto-Clean the first Sustain check of the scene) still guarantees the opening cast; it just no longer has Advantage stacked behind the rolls after it.
     - *Correction, 29 Sep.* An earlier version of this note claimed Arcane Protection was "the only Sustain-duration spell in the Novice tier across every list in the corpus — Common, every Paradigm, everything." **That was wrong by two spells that already existed:** **Deflection** and **Boost/Lower Trait** are both Novice, both Sustain, both in Paradigm lists (with **Mind Link**'s Communion mode now a third). So Grounding Rod was never close to orphaned — it has always had plenty to apply to. The true statement is narrower and duller: **no character on this roster carries a Mage Staff**, which is a roster gap, not a rules problem. **Update, 2 Oct:** Deflection is no longer a Sustain spell — it was rebuilt as a **Reactor-only, Scene-duration** ward, so the Novice Sustain roster is now **Boost/Lower Trait** and **Mind Link**'s Communion mode alongside Arcane Protection. **Three, not four.** Grounding Rod still has plenty to apply to.
 - **The zero-armour build did not survive the Staff's removal, and it should not have.** WT 5 with no armour was a *consequence* of the Staff eating 45 sp of an 80 sp purse, not an independent design choice — the note that used to sit here argued the trade was deliberate. Free up 20 sp and a caster who still declines 12 sp of Leather is not making a trade, he is making a mistake. He now runs **WT 6** with the alchemy intact, plus a Grave-Dust Poultice for the Wound he is still going to take. **Dodge 2d6+0 is unchanged** — he remains flatly bad at avoiding a hit he does not see coming, which is the half of the fragility that was always deliberate.
 - **First 2/1/1 spell split in the roster.** Faelan, Morwenna, and (as far as the roster shows) Vrenna all took the default 3-in-Paradigm-plus-1-Common shape Arcane Awakening's text treats as the baseline. Dorin trades a third Demonology pick for a second off-Paradigm one instead — legal by the feat's own wording ("Common list, your chosen Paradigm's list, and/or any other Paradigm's Novice list"), just not the shape anyone's built yet. Worth watching whether future casters treat 3+1 as the default or whether this becomes a real second pattern.
@@ -501,7 +501,7 @@ Arcane Clash/Manifestation 2d6+3 | Notice 2d6+2 | Insight 2d6+2 | Lore 2d6+1 | D
 - **Parasitic Momentum** *(Cutthroat, Tier 2; Tier 1 feat ✓ — Quick and Shadow-Weaver both qualify — Milestone 1)*: when an enemy within 30 ft rolls a Fumble, instantly bank 1 Momentum.
 
 ### Equipment
-- **Armor:** Leather (+1 Armor, Light).
+- **Armour:** Leather (+1 Armour, Light).
 - **Weapons:** Twin Daggers (1H/1H, **Concealable, Close-Quarters, Finesse, Thrown, Sidearm** — per Hardware's Dagger/Knife entry) — qualifies for **Twin-Blade Stance** (Off-Hand Parry, Twin Strike). *Finesse rerolls a natural 1 on any Clash she makes or defends with them, which on a Twin build applies to Strike, Parry and Off-Hand Parry alike.*
 - **Starting Purse: 80 sp** — Twin Daggers 10 + Leather 12 + Thieves' Tools 20 + Grappling hook 3 + Rope, hemp 50 ft 2 = **47 sp spent, 33 sp remaining** at creation, plus chalk at a copper. Thieves' Tools are not optional kit: without them a Thievery check against a lock or mechanism is made at Disadvantage regardless of rank. The remaining 33 sp is a working float she has been careful not to spend down.
 - **Acquired in play (Milestone 1):** main-hand dagger fitted with **Cold Iron Weapon** (Charmed, 25 sp, no Attunement): Bane (Fey, Daemon). Leather fitted with **Whisper-Kissed Leathers** (Enchanted — **Legendary band, Commission-gated**, 1 Locked Stress Attunement; requires a Light armour base, which her Leather satisfies). *Neither could have been bought at creation: enchanted gear of any tier is barred at Green (see The Starting Purse, The Marrow). The Cold Iron came off the job that earned her first Milestone. The Leathers did not — a Commission-gated item is made to order and never drops as generic loot, so they came off the body of whoever commissioned them, which is the only route onto a Blooded sheet.* **GM note:** a Legendary item at Milestone 1 is a deliberate story award, not what Blooded is expected to carry. Do not read the roster as promising it.
@@ -545,7 +545,7 @@ Dagger Strike 2d6+1 | Dodge 2d6+2 | Stealth 2d6+3 | Thievery 2d6+2 | **Melee 2d6
 - **The Insulting Deflection** *(Bravo, Tier 2; Reflex +2, Melee +2 — Milestone 2)*: on a Parry won by Margin 5+, spend 1 Momentum to inflict Surprised on the Aggressor.
 
 ### Equipment
-- **Armor:** Leather (+1 Armor, Light) — Gambeson at creation, upgraded during Downtime after Milestone 1.
+- **Armour:** Leather (+1 Armour, Light) — Gambeson at creation, upgraded during Downtime after Milestone 1.
 - **Starting Purse: 80 sp** — Gambeson 5 + Shortsword 10 + Dagger 5 = **20 sp spent, 60 sp remaining.** The cheapest kit on the roster by some distance, and entirely on purpose: a duelist's Wound Threshold comes from not being hit. He spent the difference on a wardrobe good enough to get him invited to the sort of rooms where the work is, and kept the rest liquid. The Leather upgrade at Milestone 1 cost him 12 sp of that float.
 - **Weapons (two 1H items):** Shortsword (Power 2, **Sidearm**, **Finesse**) + Dagger (Power 0, **Sidearm**, **Finesse**, Concealable, Close-Quarters, Thrown) — qualifies for **Twin-Blade Stance**.
 
@@ -598,7 +598,7 @@ Both Milestones went to Feats, so his Skill total never moved off its creation-d
 - **The Red Mist** *(Berserker, Tier 2; Brawn 2, Resolve 2 — Milestone 2)*: if he suffers a Minor or Major Wound from a melee attack, his nervous system rejects the shock — he may immediately spend 1 Momentum to perform a brutal, retaliatory Strike against the attacker, instantly, before the Engagement ends and before he takes any associated Stress. *(A per-turn Momentum-spend cap tracked in design-backlog.md would touch this ability — see that doc.)*
 
 ### Equipment
-- **Armor:** Leather (+1 Armor, Light)
+- **Armour:** Leather (+1 Armour, Light)
 - **Weapon:** Greataxe (Power 5, 2H, Heavy Hitter, Cumbersome, Scarce)
 - **Starting Purse: 80 sp** — Leather 12 + Greataxe 40 = **52 sp spent, 28 sp remaining.** Grave-Dust Poultice (8 sp) + Witch-Spur Salve (12 sp) = 20 sp, **8 sp banked.** *(No Downtime purchases assumed across the three Milestones — every DP went into the archetype, not the kit.)*
 
@@ -617,7 +617,7 @@ Resolve went up first specifically to clear The Red Mist's prerequisite as early
 
 ### Table Notes
 - **The Red Mist changes what "zero defense investment" means, without fixing it.** His Green-sheet liability stands exactly as flagged: no Block, no shield, Acrobatics untouched, Cumbersome eating his Activation Order. What's different is the downside now buys something back — a landed Wound against him is also a landed Wound *from* him, for 1 Momentum, before he even absorbs the Stress. He is not harder to hit. He is more dangerous the moment he is.
-- **WT 6→7 doesn't change the fragility math much.** A Grunt-tier hit (Skill 4–6 per the Bestiary's budget table) could still plausibly drop him before he closes distance — one Brawn point isn't the difference between glass and armor. The Feat, not the Attribute bump, is doing the real work of this Milestone arc.
+- **WT 6→7 doesn't change the fragility math much.** A Grunt-tier hit (Skill 4–6 per the Bestiary's budget table) could still plausibly drop him before he closes distance — one Brawn point isn't the difference between glass and armour. The Feat, not the Attribute bump, is doing the real work of this Milestone arc.
 - **Desperate Edge's trigger threshold hasn't moved.** Stress Limit is still 4 (Wits/Will untouched), so "half-or-more Stress" still means 2 Dissonant Stress — still the lowest trigger floor in the roster. Combined with The Red Mist, his Veteran build reads as: get hit, retaliate for 1 Momentum, and if the exchange pushes him past 2 Stress, his own crits start exploding too. The berserker fantasy compounds rather than diversifies.
 - **Twin array's deferred payoff, now visible.** The Green Table Notes flagged that Twin's cost is "all in one place" (WT) at low Standing. At Veteran, the first real payoff shows: Brawn 3 opens a ceiling (6) that a Spike build reached at creation, one Milestone later than Spike would have. Design Notes' prediction — that Twin needs a higher Standing to show its shape — now has a real data point instead of a guess.
 - **Next natural stop for the archetype: Apex Butcher (Tier 3).** Needs Brawn 3 (✓, already here) and Athletics 3 (one rank short) — the cheapest Tier 3 unlock on his sheet, whenever the next Milestone lands.
@@ -652,7 +652,7 @@ Resolve went up first specifically to clear The Red Mist's prerequisite as early
 - **Predator's Rhythm** *(Stalker, Tier 2; Wits 2, Survival 2 — Milestone 3)*: when she successfully kills or Incapacitates a Fodder or Grunt-level enemy, she may immediately clear 1 Dissonant Stress or bank 1 Momentum, her choice — triggers off a Shortbow kill or a Prayer kill equally.
 
 ### Equipment
-- **Armor:** Leather (+1 Armor, Light — doesn't touch Faith or Ranged)
+- **Armour:** Leather (+1 Armour, Light — doesn't touch Faith or Ranged)
 - **Weapon (one 2H item):** Shortbow (Power 2, **Volley**)
 - **Holy Symbol** (granted by Divine Conduit — outside the purse)
 - **Starting Purse: 80 sp** — Leather 12 + Shortbow 15 = **27 sp spent, 53 sp remaining.** Antitoxin (20 sp) + Sunrod (5 sp) = 25 sp, **28 sp banked.** *(No Downtime purchases assumed across the three Milestones.)*
@@ -714,7 +714,7 @@ Survival went up first specifically to pre-clear half of Predator's Rhythm's pre
 - **Iron Conviction** *(Tier 2; Will 2 ✓, Resolve 2 ✓, Tier 1 feat ✓ — Milestone 6)*: The Blood Price (Momentum's 1-cost Wound→2 Dissonant Stress conversion) costs no Momentum.
 
 ### Equipment
-- **Armor:** Chain Shirt (+2 Armor, Light — chosen over the heavier Chainmail/Scale specifically so nothing taxes his Athletics), fitted with **Armor Spikes** (15 sp, bought during Downtime after Milestone 4) — anyone who loses a Grab/Shove Clash against him takes 1 Dissonant Stress.
+- **Armour:** Chain Shirt (+2 Armour, Light — chosen over the heavier Chainmail/Scale specifically so nothing taxes his Athletics), fitted with **Armour Spikes** (15 sp, bought during Downtime after Milestone 4) — anyone who loses a Grab/Shove Clash against him takes 1 Dissonant Stress.
 - **Starting Purse: 80 sp** — Chain Shirt 50 + Battleaxe 12 + Kite Shield 18 = **80 sp spent, 0 sp remaining.** Ox is the roster's demonstration of what the purse is for: he walked out of character creation with the best armour a Town will sell him, a shield, an axe, and not one silver piece left over. Everything else on this sheet — both sets of spikes — was bought later, out of money earned in play.
 - **Weapons/Shield (two 1H items):** Battleaxe (Power 2, **Brutal**, **Inertia**) + Kite Shield (4 SV, **Cover**), the shield fitted with **Shield Spikes** (8 sp, same Downtime trip) — a won Shove with the shield deals +1 Impact.
     - *Inertia:* +2 Power on a Margin 5+ win. *Brutal:* each natural 4 showing on his 2d6 in a Clash adds +1 to the Impact the axe generates, so double 4s add +2.
@@ -777,7 +777,7 @@ Stress Limit climbs 5 → 6 → 6 → 6 → 8 → 8 across the six Milestones. W
 - **Euclidean Nightmare** *(Wits +2, Arcana +2 — Milestone 6)*: On a successful Arcana spell, spend 1 Momentum to leave a residual glyph in an adjacent square; any enemy that enters or starts its turn there takes 1 Dissonant Stress.
 
 ### Equipment
-- **Armor:** Leather (+1 Armor, Light — no Arcana penalty)
+- **Armour:** Leather (+1 Armour, Light — no Arcana penalty)
 - **Weapons (two 1H items):** Grimoire (Repository — granted by Arcane Awakening, outside the purse) + Dagger (Finesse — the natural-1 reroll applies, though with Melee 0 it is rescuing a +0; Sidearm/Concealable/Thrown are why she carries it)
 - **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining** at creation. 5 sp on a surgeon's tool roll (feeds Medicine), 3 sp on grave-wax candles and ritual chalk, 55 sp in reserve. The Cloak below was bought much later, out of earnings.
 - **Loot acquired in play:** **Cloak of Still Water** (35 sp, Rare — bought during Downtime after Milestone 5) — Advantage on Stealth checks while moving at half Move or slower. Bought for exactly the reason you'd expect: robbing graves quietly takes patience, not speed.
@@ -785,8 +785,8 @@ Stress Limit climbs 5 → 6 → 6 → 6 → 8 → 8 across the six Milestones. W
 ### Grimoire (Arcana = **2d6+4**)
 - **Marrow Siphon** *(Necromancy, Novice, Attrition — Creation)* — Unopposed vs. TN 8, Activation, **one freshly dead corpse at Short Range** (died this Scene; never a living creature), Instantaneous. **A successful cast spends the corpse.** Fail (<8): 1 Dissonant Stress to her, corpse untouched. Margin 0–2: clears 2 Dissonant Stress but feeds 1 back — a net gain of one slot. Margin 3–4 (Clean, or Mastery-upgraded from 0–2): clears 2 cleanly at no cost, corpse reduced to ash. Margin 5+: as Clean, and she generates 1 Momentum.
 - **Rigor Mortis** *(Necromancy, Novice, Clash-resolution — Creation)* — Arcane Clash vs. Target's Resolve, Short Range, Aggressor. Margin 1–2: target's speed halved, no Dodge next turn; she takes 1 Dissonant Stress. Margin 3+ (Clean, or Mastery-upgraded): target fully Anchored, −2 to their next Aggressor Strike.
-- **Calcify Armor** *(Necromancy, Novice, Utility/Buff — Creation)* — Unopposed vs. TN 8, self or one ally, touch, until the end of the encounter. Margin 0–2: target gains +1 SV, but takes 1 Dissonant Stress from the agonizing process. Margin 3–4 (Clean, or Mastery-upgraded): forms flawlessly, +1 SV, no cost. Margin 5+: enemies who fail a Block/Parry against the target suffer Impact 4 from the jagged bone.
-- **Arcane Protection** *(Common, Novice, Sustain — Creation)* — Not Mastery-eligible (Common list). Unopposed vs. TN 8, **Activation to raise only; never castable as a Reactor**, **self only**, Sustain (no Locked Stress; re-roll vs. TN 8 each Activation and on taking a Wound). Margin 0–2: holds, 1 Dissonant Stress. Margin 3–4: holds, hostile spells targeting her suffer Disadvantage. Margin 5+: as Clean, ward gains SV 2 against the next hostile spell. Special: while it stands she may use **Arcana as her defence** against an incoming hostile spell in place of her normal Reactor stat, at every band including Messy — and *spell* being generic, that covers hostile **Prayers**.
+- **Calcify Armour** *(Necromancy, Novice, Utility/Buff — Creation)* — Unopposed vs. TN 8, self or one ally, touch, until the end of the encounter. Margin 0–2: target gains +1 SV, but takes 1 Dissonant Stress from the agonizing process. Margin 3–4 (Clean, or Mastery-upgraded): forms flawlessly, +1 SV, no cost. Margin 5+: enemies who fail a Block/Parry against the target suffer Impact 4 from the jagged bone.
+- **Arcane Protection** *(Common, Novice, Sustain — Creation)* — Not Mastery-eligible (Common list). Unopposed vs. TN 8, **Activation to raise only; never castable as a Reactor**, **self only**, Sustain (no Locked Stress; re-roll vs. TN 8 each Activation and on taking a Wound). Margin 0–2: holds, 1 Dissonant Stress. Margin 3–4: holds, hostile spells targeting her suffer Disadvantage. Margin 5+: as Clean, ward gains SV 2 against the next hostile spell. Special: while it stands she may use **Arcana as her defense** against an incoming hostile spell in place of her normal Reactor stat, at every band including Messy — and *spell* being generic, that covers hostile **Prayers**.
 - **Corpse Bloom** *(Necromancy, Adept — Milestone 3)* — Unopposed vs. TN 10, one corpse in sight, 10ft radius, Spell Power 3. Everyone in the radius (friend or foe) takes Impact = Margin + 3. Margin 0–2 (Mastery-upgraded to Clean): detonation is delayed/unpredictable rather than instant.
 - **Zombie** *(Necromancy, Master — Milestone 5)* — Unopposed vs. TN 12, touch, requires a corpse within reach. Margin 0–2 (Mastery-upgraded to Clean): corpse rises as an NPC Undead under her control for the Scene (Wound Threshold 6, no Stress Limit). Margin 3–4: as above, no cost. Margin 5+: she may Lock 5 Stress to make the servant permanent instead of letting it end with the Scene.
 
@@ -809,10 +809,10 @@ Arcane Manifestation/Clash 2d6+4 | Dagger Strike 2d6+0 | Dodge 2d6+0 (she has no
 20 of 21 DP spent, 1 banked. Every Arcana spell purchase above used the in-Paradigm rate (Necromancy is her chosen Paradigm) — an off-Paradigm Adept or Master pick would have cost 6 or 8–10 DP instead, per the double-cost rule.
 
 ### Table Notes
-- **Necromancy's Novice tier is no longer thin — a third spell (Calcify Armor) exists now, matching every other Paradigm at exactly 3.** Under the current 4-spell Arcane Awakening (see The Marrow), Morwenna's four starting picks are all three in-Paradigm Necromancy spells (Marrow Siphon, Rigor Mortis, Calcify Armor) plus Arcane Protection from Common — the same shape every Arcane Awakening character now has, not a Necromancer-specific gap the way it used to read.
+- **Necromancy's Novice tier is no longer thin — a third spell (Calcify Armour) exists now, matching every other Paradigm at exactly 3.** Under the current 4-spell Arcane Awakening (see The Marrow), Morwenna's four starting picks are all three in-Paradigm Necromancy spells (Marrow Siphon, Rigor Mortis, Calcify Armour) plus Arcane Protection from Common — the same shape every Arcane Awakening character now has, not a Necromancer-specific gap the way it used to read.
 - **Spell-learning now requires a Skill floor** (Arcana 2+ for Adept, 3+ for Master; see The Marrow's Advancement rules) — closing the gap where "Learn New Arcane Spells" used to gate on nothing but DP, unlike every Feat in the corpus. Morwenna's own purchases already clear it: Arcana was 3 at both Milestone 3 (Corpse Bloom, Adept) and Milestone 5 (Zombie, Master), so nothing about her build needs to change retroactively.
 - **Zombie priced at 5, not 4, of the Master range's 4–5 DP** — a judgment call, not a rule the text spells out. Justification: its Margin 5+ clause converts a Scene-duration effect into a *permanent* one for 5 Locked Stress, which is a categorically bigger payoff than Drain Stress or Puppet get at the same Level. If a cleaner rule for splitting the 4–5 range is wanted, "does the Margin 5+ result grant permanence or a repeatable effect" is a reasonable line to draw it on.
-- **Glass cannon, deliberately.** Her Wound Threshold is 4 today — identical to her creation-day value. All 19 spent DP went into offense, utility, and Stress Limit; none of it touched Brawn, Armor, or anything that would raise WT. Same Focus vs. Spread pattern flagged below for Helga/Faelan/Pip, just carried all the way through a full Advancement arc instead of stopping at character creation — and a useful contrast against Ox, who spent his entire arc buying durability instead.
+- **Glass cannon, deliberately.** Her Wound Threshold is 4 today — identical to her creation-day value. All 19 spent DP went into offense, utility, and Stress Limit; none of it touched Brawn, Armour, or anything that would raise WT. Same Focus vs. Spread pattern flagged below for Helga/Faelan/Pip, just carried all the way through a full Advancement arc instead of stopping at character creation — and a useful contrast against Ox, who spent his entire arc buying durability instead.
 
 ---
 
@@ -842,7 +842,7 @@ Arcane Manifestation/Clash 2d6+4 | Dagger Strike 2d6+0 | Dodge 2d6+0 (she has no
 - **Gallows Humour** *(Influence +1 or Resolve +1 — Milestone 6)*: Recounting a harrowing story during a Breather lets her and every ally participating each clear 1 point of **clearable** Locked Stress — never the Attunement kind (Iron Core, Golden Rules).
 
 ### Equipment
-- **Armor:** Chain Shirt (+2 Armor, Light)
+- **Armour:** Chain Shirt (+2 Armour, Light)
 - **Weapon (one 1H item):** Mace (Power 2, Bash) — the off-hand stays free for her Holy Symbol and battlefield triage rather than a shield; see Table Notes.
 - **Holy Symbol** (granted by Divine Conduit — outside the purse)
 - **Starting Purse: 80 sp** — Chain Shirt 50 + Mace 8 = **58 sp spent, 22 sp remaining.** 6 sp on bandages and a suture kit, 2 sp on clean spirits for wound-cleaning, 14 sp in reserve. Skipping the shield to keep her off-hand free is what paid for the better armour — a medic who cannot reach the patient is no medic, so she bought the survivability instead of the shield.
@@ -915,7 +915,7 @@ Tithe of Will 2d6+4 *(2d6+3 at creation — see Advancement Ledger)* | Mace Stri
 - **Euclidean Nightmare** *(Arcanist, Tier 2; Wits 2, Arcana 2 — Milestone 1)*: after successfully casting an Arcana spell, may spend 1 Momentum to leave a residual, jagged glyph in an adjacent square. Any enemy that enters or starts its turn in that square takes 1 Dissonant Stress from the impossible angles.
 
 ### Equipment
-- **Armor:** Leather (+1 Armor, Light — no Arcana penalty)
+- **Armour:** Leather (+1 Armour, Light — no Arcana penalty)
 - **Weapons (two 1H items):** Grimoire (Repository — granted by Arcane Awakening, outside the purse) + Dagger (Finesse)
 - **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining.** 5 sp on a signet ring, 2 sp on ink/paper/sealing wax, 16 sp on 2 Grave-Dust Poultices, 40 sp banked. *(No Downtime purchases assumed across the ten Milestones — every DP went into the Grimoire and the archetype, not the kit.)*
 
@@ -927,8 +927,8 @@ Tithe of Will 2d6+4 *(2d6+3 at creation — see Advancement Ledger)* | Mace Stri
 - **Disguise** *(Paradigm, Adept, Mastery-eligible — Milestone 2)* — Unopposed vs. TN 10, Self, Scene; anyone suspicious rolls Notice vs. his Margin to see through it. Margin 0–4 (Mastery resolves any success Clean): holds, no cost. Margin 5+ (Massive): the veil extends to up to 3 allies within Short Range.
 - **Invisibility** *(Paradigm, Adept, Mastery-eligible — Milestone 3)* — Unopposed vs. TN 10, self or one ally, touch, Scene or until broken. Margin 0–4 (Mastery: Clean): target is invisible — attackers suffer Disadvantage targeting them, target gains Advantage on Stealth; drops the instant they attack or cast. No cost. Margin 5+ (Massive): remains invisible even after attacking — attacking only reveals general position, removing attackers' Disadvantage for 1 round instead of dropping the spell.
 - **Creeping Dusk** *(Paradigm, Adept, Mastery-eligible — Milestone 4)* — Unopposed vs. TN 10, 15ft radius, Short Range, Scene. Margin 0–4 (Mastery: Clean): the zone forms perfectly — magical darkness breaks line of sight, ranged attacks can't cross it, attacking an unseen enemy inside costs the attacker -2 Clash. Margin 5+ (Massive): the shadows turn hostile — any enemy starting its turn inside must pass a TN 8 Resolve check or take 1 Dissonant Stress.
-- **Blade of Paranoia** *(Paradigm, Adept, Mastery-eligible — Milestone 5)* — Arcane Clash vs. Target's Wits or Resolve, Short Range, Aggressor. Bypasses Shield Value and armor entirely — attacks the Stress track directly, zero physical Impact. Resolves Clean at any success via Mastery: target suffers 2 Dissonant Stress, and that creature must discard 1 Momentum from its own Bank if it has any. No cost to Faelan.
-- **Umbral Execution** *(Paradigm, Master capstone of Blade of Paranoia, Mastery-eligible — Milestone 7)* — Arcane Clash vs. Target's Wits or Resolve, Short Range, Aggressor. Requires the target to currently be unable to see him — invisible, in darkness (magical or mundane), totally concealed, or successfully Stealthed; pairs directly with Creeping Dusk and Invisibility above. Bypasses SV/armor entirely. Resolves Clean at any success via Mastery: target suffers 4 Dissonant Stress; if this brings them to or past Breaking, the shock is total and they're Incapacitated outright instead of the normal Break effects. No cost to Faelan.
+- **Blade of Paranoia** *(Paradigm, Adept, Mastery-eligible — Milestone 5)* — Arcane Clash vs. Target's Wits or Resolve, Short Range, Aggressor. Bypasses Shield Value and armour entirely — attacks the Stress track directly, zero physical Impact. Resolves Clean at any success via Mastery: target suffers 2 Dissonant Stress, and that creature must discard 1 Momentum from its own Bank if it has any. No cost to Faelan.
+- **Umbral Execution** *(Paradigm, Master capstone of Blade of Paranoia, Mastery-eligible — Milestone 7)* — Arcane Clash vs. Target's Wits or Resolve, Short Range, Aggressor. Requires the target to currently be unable to see him — invisible, in darkness (magical or mundane), totally concealed, or successfully Stealthed; pairs directly with Creeping Dusk and Invisibility above. Bypasses SV/armour entirely. Resolves Clean at any success via Mastery: target suffers 4 Dissonant Stress; if this brings them to or past Breaking, the shock is total and they're Incapacitated outright instead of the normal Break effects. No cost to Faelan.
 
 ### Combat Math Quick-Ref
 Arcane Clash/Manifestation 2d6+6 (incl. Havoc) | Dagger Strike 2d6+0 *(Melee 0; Finesse lets him reroll a natural 1)* | Dodge 2d6+1 | Notice 2d6+1 | Activation Order 8

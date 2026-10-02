@@ -88,20 +88,20 @@ For minor environmental hazards, toxic environments, or persistent conditions li
 
 ### 2. Direct Wounds (The Lethal Bypass)
 
-For catastrophic hazards, unmitigated magic, or Boss abilities that are narratively designed to rend flesh and ignore armor.
+For catastrophic hazards, unmitigated magic, or Boss abilities that are narratively designed to rend flesh and ignore armour.
 
 - The Mechanic: Bypasses the Wound Threshold completely and automatically crosses out 1 Wound Slot.
     
-- Example Revision (Gehenna's Grip): "Failure means they are violently dragged 10 feet toward Malaphar. The searing chains melt through their armor, inflicting 1 Direct Wound."
+- Example Revision (Gehenna's Grip): "Failure means they are violently dragged 10 feet toward Malaphar. The searing chains melt through their armour, inflicting 1 Direct Wound."
     
 
 ### 3. Hazard Rolls (The Trap Mechanic)
 
-When a falling boulder, explosive trap, or massive environmental collapse occurs, it shouldn't just be a flat number. It should strike the player like an enemy would, testing their armor and resolve.
+When a falling boulder, explosive trap, or massive environmental collapse occurs, it shouldn't just be a flat number. It should strike the player like an enemy would, testing their armour and resolve.
 
 - The Mechanic: The GM rolls a 2d6 + Hazard Power to generate a massive Impact total, which is then compared against the player's Wound Threshold just like a sword swing.
     
-- Example: A collapsing ceiling trap rolls 2d6 + 4. It totals a 14. Because 14 is higher than the Fighter's Wound Threshold of 10, the Fighter takes a Wound. If it rolled an 8, the armor holds, and the Fighter only takes 1 Stress.
+- Example: A collapsing ceiling trap rolls 2d6 + 4. It totals a 14. Because 14 is higher than the Fighter's Wound Threshold of 10, the Fighter takes a Wound. If it rolled an 8, the armour holds, and the Fighter only takes 1 Stress.
 ________________________________________________________________________
 
 In Iron & Marrow, monsters do not challenge the players by having bigger numbers. They challenge the players by breaking the rules of the game.
@@ -160,7 +160,7 @@ Because modifiers are bounded, monsters are categorized by how they interact wit
 	- 1 - 2 Traits. 1 Special Action (self-gated — no Momentum cost; see the Bestiary's Gate Test). Usually 1 Wound Slot. Stress as the core rules define. Earns Momentum only from its own Traits and Feats, never from a Clash.
 	- _Example (Zombie, Undead):_ Brawn 1; Melee +1. _(Strikes and grabs at 2d6+1 — the Attribute sets its Wound Threshold and is never added to the roll.)_
 
-- **Grunt:** These are the core adversaries. Armored mercenaries, mutated alchemical horrors, and seasoned killers. They force the players to spend Momentum .
+- **Grunt:** These are the core adversaries. Armoured mercenaries, mutated alchemical horrors, and seasoned killers. They force the players to spend Momentum .
 	- 1 - 2 Traits. 1 Special Action, same self-gating rule as Fodder. 2 Wound Slots. Stress as the core rules define. Earns Momentum only from its own Traits and Feats, never from a Clash.
     
     - _Example (Orc Line-Breaker):_ Brawn 2; Melee +2, Prowess +2. _(Strikes at 2d6+2. Reflex 0, so Activation Order 6 and Momentum Bank 4. Nothing to resist mental magic with.)_
@@ -204,7 +204,7 @@ The moment that final Stress box is checked, the binary switch flips from "Funct
     
 - The Frenzy: Instead of fleeing, the NPC breaks mentally into a pure, blind rage. It drops its defense completely (losing its Block/Dodge/brace abilities/modifiers) but gains Advantage on all Strike rolls until it dies.
     
-- The Phase Change (Bosses): A Boss maxes out its Stress track. It doesn't die, but its behavior violently shifts. A heavily armored warlord realizes they are losing, so they scream, tear off their heavy, restrictive armor (losing their Armor tags), and pull out two jagged daggers to fight recklessly in a new "Phase 2."
+- The Phase Change (Bosses): A Boss maxes out its Stress track. It doesn't die, but its behavior violently shifts. A heavily armoured warlord realizes they are losing, so they scream, tear off their heavy, restrictive armour (losing their Armour tags), and pull out two jagged daggers to fight recklessly in a new "Phase 2."
 ________________________________________________________________________
 # Starting Momentum
 

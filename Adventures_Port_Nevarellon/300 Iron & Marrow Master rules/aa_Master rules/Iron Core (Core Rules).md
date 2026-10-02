@@ -45,7 +45,7 @@ The Resolution Ladder You calculate the Margin (Total Result - 8) and apply the 
 
 - Failure (Total 7 or less): The task fails outright. Time is wasted, and a consequence triggers (e.g., the lock picks snap, or you take 1 Dissonant Stress from frustration).
     
-- Messy Success (Margin 0–2): You accomplish the task, but it costs you. You pick the lock, but it takes 10 minutes and your torch burns out. You forge the armor, but you must spend an extra 5 Silver Pieces on wasted materials.
+- Messy Success (Margin 0–2): You accomplish the task, but it costs you. You pick the lock, but it takes 10 minutes and your torch burns out. You forge the armour, but you must spend an extra 5 Silver Pieces on wasted materials.
     
 - Clean Success (Margin 3–4): Flawless execution. You achieve the exact desired result with no complications.
     
@@ -94,9 +94,9 @@ ________________________________________________________________________
 Momentum represents tactical flow, adrenaline, and sudden strokes of genius.
 Each player maintains a personal bank capped at **4 + Reflex**.
 
-- **Generation:** Players earn 1 Momentum by winning a Clash — an Attack Action, a Defence, evading a trap, or executing an ambush — **by a Margin of 5+**. A win alone isn't enough; it has to be decisive. See *Gaining Momentum* below for the full ladder, which this line summarises.
+- **Generation:** Players earn 1 Momentum by winning a Clash — an Attack Action, a Defense, evading a trap, or executing an ambush — **by a Margin of 5+**. A win alone isn't enough; it has to be decisive. See *Gaining Momentum* below for the full ladder, which this line summarises.
     
-- **Spending (The Rule-Breakers):** Momentum is never spent to add a "+1" to a die. It is spent to break the rules. Players can spend Momentum to instantly clear debilitating conditions (like _Anchored_), construct improvised alchemical explosives mid-dungeon, rapidly patch _Damaged_ armor with spit and twine, or bend the narrative via flashbacks.
+- **Spending (The Rule-Breakers):** Momentum is never spent to add a "+1" to a die. It is spent to break the rules. Players can spend Momentum to instantly clear debilitating conditions (like _Anchored_), construct improvised alchemical explosives mid-dungeon, rapidly patch _Damaged_ armour with spit and twine, or bend the narrative via flashbacks.
 
 ## Gaining Momentum
 
@@ -361,7 +361,7 @@ ________________________________________________________________________
 - *Unconscious:* You are **Prone** and **Helpless**. You take no Actions, Free Actions or Reactor actions, and you cannot Clash. Your Activation is skipped entirely. You are **not** dying and make no Bleed-Out checks — this is the Stress track's equivalent of Incapacitated, not a milder version of it.
     - **Gained:** when your Stress Limit is full and you take further Stress from a **`non-Lethal`** source (see The Death Spiral — Stress Conversion), or from any effect that says so.
     - **Cleared:** the instant your Stress track is no longer full — by Adrenaline Flush, an alchemical preparation, a Breather, or an ally clearing your Stress. An ally may also spend an Action on a **Medicine check vs TN 8** to rouse you, exactly as Triage works on an Incapacitated character. Otherwise it ends when the scene does.
-    - **The Coup de Grâce still applies.** An attacker in melee may leave you where you lie, or finish the job: the attack automatically wins its Clash, and a Wound taken with no defence and no slot to fill makes you **Incapacitated** and dying. A `non-Lethal` weapon cannot do this at all. Killing an unconscious body is a second, deliberate decision — never an accident of the dice.
+    - **The Coup de Grâce still applies.** An attacker in melee may leave you where you lie, or finish the job: the attack automatically wins its Clash, and a Wound taken with no defense and no slot to fill makes you **Incapacitated** and dying. A `non-Lethal` weapon cannot do this at all. Killing an unconscious body is a second, deliberate decision — never an accident of the dice.
     
     
 - *Helpless:* You cannot defend. Any attack against you automatically wins its Clash, with no roll and no Reactor action. Impact is calculated as an unopposed hit.
@@ -387,6 +387,8 @@ ________________________________________________________________________
 - *Confused:* Your thoughts will not hold still. At the start of each of your Activations, make an **Insight or Resolve check vs TN 8** — your choice, wits or willpower. **On a pass you act normally and the condition ends.** On a failure you lose the Activation entirely, standing dumbfounded: no Action, no Move, no Free Action. You may still take Reactor actions — you are bewildered, not helpless.
     
 - *Cursed:* (Magical). Healing magic (like Mend Flesh or Surge of Relief) has no effect on you, and Alchemical draughts taste like ash, providing no benefit.
+    
+- *Hexed:* (Magical). A minor curse rides on you, waiting for the moment you need steadiness most. **The next roll you make — an Aggressor Strike or a Reactor defense, whichever comes first — suffers Disadvantage.** The condition is spent the instant that roll is made, whichever kind it turned out to be.
     
 - *In-Fighting:* All 1H weapons without Close-Quarters suffer Disadvantage. 2H weapons cannot be used.
     

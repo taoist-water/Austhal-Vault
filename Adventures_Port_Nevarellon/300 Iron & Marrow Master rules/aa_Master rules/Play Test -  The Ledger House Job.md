@@ -86,7 +86,7 @@ Both Watch NPCs are now full Bestiary entries, rebuilt as **Human core-species H
 ### Watch Sergeant (Grunt, Human)
 - **WT 6** | Wound Slots 2 | **Stress Limit 6** | Act. Order 6 | Momentum Bank 3
 - **Strike 2d6+3** with a Shortsword, or the Sap when he wants an arrest instead of a body.
-- **Cunning Leader** (pass his activation to a Patrolman) + **Battlefield Orator** (clear 1d6 ally Stress, or -2 to an enemy's next Defence).
+- **Cunning Leader** (pass his activation to a Patrolman) + **Battlefield Orator** (clear 1d6 ally Stress, or -2 to an enemy's next Defense).
 - **Hold the Line:** +1 Block to every Watch member within 10 ft until his next activation.
 
 ---

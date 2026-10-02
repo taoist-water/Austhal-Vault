@@ -108,7 +108,7 @@ To make "Cast Spell" a valid Reactor Action, you need a specific category of spe
     
     
     
-- **Fixed-Duration Buffs:** For spells like _Calcify Armor_ that grant an ongoing +1 SV, the player does not need to use the "Cast Spell" Reactor Action. The magic is already active. When attacked, they simply choose the "Block" or "Brace" action and mathematically benefit from the buffed stats.
+- **Fixed-Duration Buffs:** For spells like _Calcify Armour_ that grant an ongoing +1 SV, the player does not need to use the "Cast Spell" Reactor Action. The magic is already active. When attacked, they simply choose the "Block" or "Brace" action and mathematically benefit from the buffed stats.
     
     
 
@@ -163,7 +163,7 @@ Stress isn't the only thing a Fail costs a Priest — it also costs them a littl
 
 **The Attrition**
 
-A Priest can perfectly heal the party and strip the armor off bosses, but every time they do, they step closer to their own breaking point — on two separate clocks. Stress is the fast one: when a Priest maxes out their Stress track, they cannot cast anymore without suffering physical Wounds, per the Death Spiral rule. Encroachment is the slow one: even a Priest who manages their Stress carefully and never Breaks can still be run down by an accumulation of Fails alone, four bad rolls from an empty tab — always with a Wound waiting at the end, never with a Locked Stress figure to negotiate against.
+A Priest can perfectly heal the party and strip the armour off bosses, but every time they do, they step closer to their own breaking point — on two separate clocks. Stress is the fast one: when a Priest maxes out their Stress track, they cannot cast anymore without suffering physical Wounds, per the Death Spiral rule. Encroachment is the slow one: even a Priest who manages their Stress carefully and never Breaks can still be run down by an accumulation of Fails alone, four bad rolls from an empty tab — always with a Wound waiting at the end, never with a Locked Stress figure to negotiate against.
 
 ________________________________________________________________________
 
@@ -247,7 +247,7 @@ The caster hums a discordant, high-pitched note that vibrates violently through 
 
 - Margin 3+ (Clean): The structural degradation is severe enough that it can be ruined with ordinary tools, bypassing the need for heavy siege gear.
     
-- Margin 5+ (Massive): The frequency is so precise it bleeds into active combat gear. The caster can choose one Elite enemy in the room; that enemy's armor or shield immediately gains the Damaged tag, reducing its effectiveness for the rest of the fight.
+- Margin 5+ (Massive): The frequency is so precise it bleeds into active combat gear. The caster can choose one Elite enemy in the room; that enemy's armour or shield immediately gains the Damaged tag, reducing its effectiveness for the rest of the fight.
     
 
 ### 4. Ward of the Threshold (Faith / Prayer)

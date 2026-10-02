@@ -24,7 +24,7 @@ The air around the target thickens into a dull, shimmering haze, dampening the r
 - **Level:** Novice
 - **Resolution:** Unopposed Arcana vs. TN 8
 - **Target/Range:** Self only.
-- **Action Type:** Activation to raise. **It can never be cast as a Reactor action.** Reactor to use the standing ward's defence.
+- **Action Type:** Activation to raise. **It can never be cast as a Reactor action.** Reactor to use the standing ward's defense.
 - **Duration:** Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound)
 
 **The Margin Scaler:**
@@ -32,7 +32,7 @@ The air around the target thickens into a dull, shimmering haze, dampening the r
 - Margin 3–4 (Clean): The ward holds. Hostile spells targeting the caster suffer Disadvantage on their casting roll.
 - Margin 5+ (Massive): As Clean, and the ward gains SV 2 against the next hostile spell's Impact.
 
-**Special Interactions:** **The ward must be raised in advance.** Arcane Protection is an Activation and can never be cast as a Reactor — a caster cannot answer an unforeseen spell by throwing it up on the spot. Once raised, and for as long as it remains Sustained, the caster may use **Arcana as their defence** against an incoming hostile spell, in place of their normal Reactor stat. **This is available at every band, Messy included**, and applies on top of whatever the Margin Scaler granted when the ward went up — which is deliberately what makes a Messy ward worth keeping. Note that *spell* is the generic term (see *Embracing the Abyss*): this ward answers hostile **Prayers** as readily as hostile Arcana.
+**Special Interactions:** **The ward must be raised in advance.** Arcane Protection is an Activation and can never be cast as a Reactor — a caster cannot answer an unforeseen spell by throwing it up on the spot. Once raised, and for as long as it remains Sustained, the caster may use **Arcana as their defense** against an incoming hostile spell, in place of their normal Reactor stat. **This is available at every band, Messy included**, and applies on top of whatever the Margin Scaler granted when the ward went up — which is deliberately what makes a Messy ward worth keeping. Note that *spell* is the generic term (see *Embracing the Abyss*): this ward answers hostile **Prayers** as readily as hostile Arcana.
 
 ---
 
@@ -189,7 +189,7 @@ The caster imbues a weapon with crackling energy or holy light.
 **The Margin Scaler:**
 - Margin 0–2 (Messy): Weapon's Power increases by +1; the wielder takes 1 Dissonant Stress from the rough working.
 - Margin 3–4 (Clean): Weapon's Power increases by +2.
-- Margin 5+ (Massive): As Clean, and the weapon gains the Precise tag for the scene (per Hardware: ignores 1 point of Armor).
+- Margin 5+ (Massive): As Clean, and the weapon gains the Precise tag for the scene (per Hardware: ignores 1 point of Armour).
 
 ---
 
@@ -220,7 +220,7 @@ The caster hurls a ball of energy that explodes on impact, catching multiple foe
 
 **The Margin Scaler:**
 - Margin 1–2: Impact = Margin + 3 (Spell Power) to every target who loses. The caster also takes 1 Dissonant Stress from the strain.
-- Margin 3+ (Clean): As above, and the blast ignores the first point of Armor on anyone caught at the radius's center.
+- Margin 3+ (Clean): As above, and the blast ignores the first point of Armour on anyone caught at the radius's center.
 
 ---
 
@@ -363,7 +363,7 @@ The caster forces the blood in a living target's extremities to instantly coagul
 - Margin 3+ (Clean): The target is completely Anchored (cannot move) and suffers a -2 penalty to their next Aggressor Strike roll because they cannot articulate their joints.
     
 
-**Calcify Armor** (Utility / Buff)
+**Calcify Armour** (Utility / Buff)
 The caster forces their own bones, or the bones of an ally, to painfully extrude through the skin, creating a temporary, jagged exoskeleton.
 
 - **Level:** Novice
@@ -372,14 +372,14 @@ The caster forces their own bones, or the bones of an ally, to painfully extrude
 - **Duration:** Until the end of the encounter
 - **Resolution:** Unopposed Arcana vs. TN 8.
     
-- The Effect: The target gains an ablative armor layer of bone. They gain +1 Shield Value (SV) for the duration of the encounter, which stacks with physical shields.
+- The Effect: The target gains an ablative armour layer of bone. They gain +1 Shield Value (SV) for the duration of the encounter, which stacks with physical shields.
     
 - The Margin Scaler:
     
 
 - Margin 0–2 (Messy): The bones pierce the muscle awkwardly. The target gains the SV bonus, but immediately takes 1 Dissonant Stress from the agonizing process.
     
-- Margin 3–4 (Clean): The bone armor forms flawlessly.
+- Margin 3–4 (Clean): The bone armour forms flawlessly.
     
 - Margin 5+ (Massive): The bone spikes are violently sharp. Any enemy who attacks the target and fails the Clash via a Block or Parry immediately suffers **Impact 4** from striking the jagged bone.
 
@@ -477,7 +477,7 @@ Invisible currents of air or shifting shadows cause incoming attacks to veer off
 - Margin 3–4 (Clean): The attack is deflected at no cost, and attacks against the caster suffer **−2 to their Clash** for as long as the ward stands.
 - Margin 5+ (Massive): As Clean, but the standing penalty is **Disadvantage** rather than −2.
 
-**Special Interactions:** **Deflection is never raised in advance.** It is the Arcane Reaction the magic rules describe (*Embracing the Abyss*, Reactor Spells): cast it the moment an attack is declared against the caster, as a Reactor action, resolved as an opposed Arcane Clash. That first cast both answers the attack and leaves the ward standing; from then on the caster uses **Arcana as their defence** against incoming attacks, and **the Margin Scaler applies afresh on every defence** — so a run of Clean results keeps the penalty up, while a Messy one still stops the blow and bleeds a point of Dissonant Stress. **Losing the Clash means the attack lands for full Impact with no mitigation** — no Shield Value, no armour reduction — and the ward falls. The standing penalty never stacks with itself.
+**Special Interactions:** **Deflection is never raised in advance.** It is the Arcane Reaction the magic rules describe (*Embracing the Abyss*, Reactor Spells): cast it the moment an attack is declared against the caster, as a Reactor action, resolved as an opposed Arcane Clash. That first cast both answers the attack and leaves the ward standing; from then on the caster uses **Arcana as their defense** against incoming attacks, and **the Margin Scaler applies afresh on every defense** — so a run of Clean results keeps the penalty up, while a Messy one still stops the blow and bleeds a point of Dissonant Stress. **Losing the Clash means the attack lands for full Impact with no mitigation** — no Shield Value, no armour reduction — and the ward falls. The standing penalty never stacks with itself.
 
 **Stitch the Silhouette** (Targeted Control)
 The sorcerer drives an iron nail or a blade into the target’s cast shadow on the floor, magically pinning their physical body in place.
@@ -568,7 +568,7 @@ The sorcerer exhales a cloud of unnatural, pitch-black soot that instantly smoth
     
 
 **Blade of Paranoia** (Combat / Psychological)
-The caster pulls a blade of condensed absence-of-light from the shadows. It passes completely through physical armor to strike the enemy’s psyche.
+The caster pulls a blade of condensed absence-of-light from the shadows. It passes completely through physical armour to strike the enemy’s psyche.
 
 - **Level:** Adept
 - **Target/Range:** One character, Short Range
@@ -576,7 +576,7 @@ The caster pulls a blade of condensed absence-of-light from the shadows. It pass
 - **Duration:** Instantaneous
 - **Resolution:** Arcane Clash (Arcana vs. Target's Resolve).
     
-- The Effect: This spell is explicitly designed to bypass high Shield Values and thick armor tags (like the Construct or Ablative Armor tags). It deals absolutely zero physical Impact. Instead, it attacks the enemy's binary Stress track.
+- The Effect: This spell is explicitly designed to bypass high Shield Values and thick armour tags (like the Construct or Ablative Armour tags). It deals absolutely zero physical Impact. Instead, it attacks the enemy's binary Stress track.
     
 - The Margin Scaler (Based on Clash Margin):
     
@@ -596,7 +596,7 @@ The direct capstone of Blade of Paranoia, honed to a killing edge — but only f
 - **Action Type:** Aggressor
 - **Duration:** Instantaneous
 - **Resolution:** Arcane Clash (Arcana vs. Target's Resolve). Requires the target to currently be unable to see the caster — invisible, in darkness (magical or mundane), attacking from total concealment, or successfully Stealthed.
-- The Effect: Like Blade of Paranoia, this attacks the mind directly rather than the body, dealing zero physical Impact and bypassing Shield Value or armor entirely.
+- The Effect: Like Blade of Paranoia, this attacks the mind directly rather than the body, dealing zero physical Impact and bypassing Shield Value or armour entirely.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: The target suffers 3 Dissonant Stress. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): The target suffers 4 Dissonant Stress. If this brings them to or past Breaking (100% of their Stress Limit), the shock is total — they are immediately Incapacitated instead of suffering the normal Breaking effects.
@@ -653,7 +653,7 @@ The caster's own finger bones tear free of the flesh, reforming into three curve
 
 ### Adept
 
-**Fulminating Strike** (Combat / Anti-Armor)
+**Fulminating Strike** (Combat / Anti-Armour)
 The Shaman draws ambient static from the air, concentrating it into a deafening, blinding arc of jagged lightning that seeks out grounded metal.
 
 - **Level:** Adept
@@ -664,7 +664,7 @@ The Shaman draws ambient static from the air, concentrating it into a deafening,
 - **Spell Power: 3**
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 3 (Spell Power). The sheer voltage causes the target to drop their weapon or shield; they must spend a Free Action on their next turn picking it up. The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): As above, and the electrical surge cooks the target inside their armor — they instantly suffer 1 Dissonant Stress in addition to the physical Wound damage.
+  - Margin 3+ (Clean): As above, and the electrical surge cooks the target inside their armour — they instantly suffer 1 Dissonant Stress in addition to the physical Wound damage.
     
 
 **Blood-Wood Totem** (Environmental / Aura)
@@ -837,7 +837,7 @@ The caster snaps their fingers, drastically superheating the ambient air around 
 - **Duration:** Until the target breaks free, or (Margin 3+) until the end of the fight
 - **Resolution:** Unopposed Arcana vs. TN equal to the target's Wound Threshold.
     
-- The Effect: You target an enemy wearing metal armor or wielding a mechanical/metal weapon. If you succeed, you don't deal Impact; instead, you fuse their gear.
+- The Effect: You target an enemy wearing metal armour or wielding a mechanical/metal weapon. If you succeed, you don't deal Impact; instead, you fuse their gear.
     
 - The Margin Scaler (Based on Clash Margin):
     
@@ -893,7 +893,7 @@ Where Caustic Deluge hits one piece of gear and Solder Joints fuses one weapon, 
 - **Action Type:** Aggressor
 - **Duration:** Instantaneous (effects are permanent)
 - **Resolution:** Arcane Clash (Arcana vs. Target's Resolve).
-- The Effect: Every piece of equipped gear the target carries — weapon, shield, armor — decays at once: metal rusts to flaking ruin, leather cracks to dust, wood crumbles. Like Solder Joints, this deals zero Impact; it destroys equipment instead. Only affects a target actually wearing or wielding separate physical gear — a Beast or bare-handed Construct has nothing for this to grip onto.
+- The Effect: Every piece of equipped gear the target carries — weapon, shield, armour — decays at once: metal rusts to flaking ruin, leather cracks to dust, wood crumbles. Like Solder Joints, this deals zero Impact; it destroys equipment instead. Only affects a target actually wearing or wielding separate physical gear — a Beast or bare-handed Construct has nothing for this to grip onto.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Every equipped weapon and shield **permanently loses 2 SV or Power** — a **baseline** reduction, not the Damaged Condition, so **no repair restores it** (see *Condition is not the same as baseline*, Hardware); armour gains the **Damaged** tag, which a smith *can* clear. Caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and one piece of the target's gear (their choice, or GM's call) is destroyed outright — gone for the rest of the campaign.
@@ -926,7 +926,7 @@ A sliver of the void, no wider than a blade, opens against the target — realit
 - **Resolution:** Arcane Clash (Arcana vs. Target's Defense action).
 - **Spell Power: 2**
 - The Margin Scaler:
-  - Margin 1–2: Impact = Margin + 2 (Spell Power). This Impact ignores 1 point of the target's Shield Value or Armor — the wound doesn't close right. Caster takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: Impact = Margin + 2 (Spell Power). This Impact ignores 1 point of the target's Shield Value or Armour — the wound doesn't close right. Caster takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, no complication.
 
 **Flicker Out** (Utility / Defensive Void)
@@ -980,10 +980,10 @@ The caster rips a jagged, temporary tear in the air itself, exposing the target 
 - **Duration:** Instantaneous
 - **Resolution:** Arcane Clash (Arcana vs. Target's Dodge action).
 - **Spell Power: 5**
-- The Effect: This spell completely ignores all physical armor, Shield Values, and Bestiary tags. It is pure, unmitigated erasure. However, if the caster loses the Clash via a target's Dodge, the tear violently snaps shut, and the **defending creature banks 1 Momentum**.
+- The Effect: This spell completely ignores all physical armour, Shield Values, and Bestiary tags. It is pure, unmitigated erasure. However, if the caster loses the Clash via a target's Dodge, the tear violently snaps shut, and the **defending creature banks 1 Momentum**.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 5 (Spell Power). The target is chilled to the bone, suffering Disadvantage on their next physical Strike roll. The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): As above, and the target loses a piece of their physical form to the void. If it is an Elite or Boss, they permanently lose one of their Rule-Breaking Tags (e.g., Pack Tactics or Ablative Armor) as it is sucked into the tear.
+  - Margin 3+ (Clean): As above, and the target loses a piece of their physical form to the void. If it is an Elite or Boss, they permanently lose one of their Rule-Breaking Tags (e.g., Pack Tactics or Ablative Armour) as it is sucked into the tear.
 
 **Zone of Apathy** (Environmental / Meta-Disruption)
 The caster whispers a truth from the outer dark, creating a localized field where ambition, adrenaline, and survival instincts simply cease to exist.
@@ -1049,16 +1049,16 @@ The Witch locks eyes with the target and whispers a localized, highly specific c
 - **Level:** Novice
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
-- **Duration:** Until the hexed roll resolves
+- **Duration:** Until the **Hexed** roll resolves.
 - **Resolution:** Arcane Clash (Arcana vs. Target's Resolve).
     
 - The Effect: This spell does not deal immediate physical Impact. It infects the target’s luck and muscle memory.
     
 - The Margin Scaler (Based on Clash Margin):
     
-- Margin 1–2: The target is Hexed. They immediately suffer Disadvantage on their next Aggressor Strike roll or Reactor defense roll. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 1–2: The target gains the **Hexed** condition (Iron Core). The caster also takes 1 Dissonant Stress from the strain.
     
-- Margin 3+ (Clean): The curse roots deep. The target suffers Disadvantage on their next roll, and if they fail that roll, the supernatural backlash instantly inflicts 1 Dissonant Stress on them. This forces enemies to either stop attacking or rapidly accelerate toward their breaking point.
+- Margin 3+ (Clean): The curse roots deep. The target gains **Hexed**, and if the Hexed roll fails, the supernatural backlash instantly inflicts 1 Dissonant Stress on them. This forces enemies to either stop attacking or rapidly accelerate toward their breaking point.
     
 
 **Warding Knot** (Utility / Protective Curse)
@@ -1165,7 +1165,7 @@ The Astromancer compresses a knot of localized space to bullet density and fling
 - **Duration:** Instantaneous
 - **Resolution:** Arcane Clash (Arcana vs. Target's Defense action).
 - **Spell Power: 2**
-- The Effect: A marble-sized mass, dense enough to punch through armor, strikes the target at speed.
+- The Effect: A marble-sized mass, dense enough to punch through armour, strikes the target at speed.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 2 (Spell Power). The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the compression shockwave scrambles the target's inner ear — they suffer Disadvantage on their next Reactor roll (Dodge, Parry, or Block).
@@ -1216,7 +1216,7 @@ The caster compresses a sphere of localized space into a marble-sized singularit
     
 - Margin 3–4 (Clean): The gravity well stabilizes perfectly.
     
-- Margin 5+ (Massive): The pressure is absolute. Any Elite or Construct caught in the exact center of the zone instantly has their armor violently warped, immediately gaining the Damaged tag to their gear.
+- Margin 5+ (Massive): The pressure is absolute. Any Elite or Construct caught in the exact center of the zone instantly has their armour violently warped, immediately gaining the Damaged tag to their gear.
     
 
 **Astral Piercer** (Combat / Vertical Bypassing)

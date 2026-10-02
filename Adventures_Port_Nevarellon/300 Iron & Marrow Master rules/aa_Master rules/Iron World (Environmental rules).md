@@ -65,7 +65,7 @@ Physical barriers reduce the power of an incoming attack. They are rated by how 
 
 ### \[DEV NOTE\] Material Penetration (Optional Realism Rule) 
 
-- If a character is behind a wooden door (Light Cover, -2), and an attacker hits them using an armor-piercing weapon (like a Heavy Arbalest) or  maneuver like Deadly Aim, the shot completely shatters the cover. The target takes full damage, and the cover is destroyed for the rest of the fight.
+- If a character is behind a wooden door (Light Cover, -2), and an attacker hits them using an armour-piercing weapon (like a Heavy Arbalest) or  maneuver like Deadly Aim, the shot completely shatters the cover. The target takes full damage, and the cover is destroyed for the rest of the fight.
     \[/DEV NOTE\] 
 
 ### Firing Into Combat (The Risk of Friendly Fire)
@@ -102,7 +102,7 @@ The player fails to spot the tripwire, or opens the chest without checking for a
 
 - The Resolution: The player is caught flat-footed, but not helpless — they may still act as the Reactor in a Clash against the trap's Hazard Roll, at Disadvantage, using Dodge only. A body that never saw the threat coming can still flinch away from it; it can't raise a shield or intercept a blade it never registered, so Block and Parry stay off the table regardless of what a given trap allows an Aware target.
 - The Math: As with an Aware target, the Margin between the trap's Hazard Roll and the player's (Disadvantaged) Dodge determines the final Impact. Any win avoids the hazard entirely; a **Margin 5+** win also generates 1 Momentum, exactly as it would for an Aware target — a lucky flinch is still a lucky flinch.
-- The Armor Check: On a loss, compare the resulting Impact against the player's Wound Threshold as normal — meeting or exceeding it inflicts a Wound, falling short inflicts 1 Dissonant Stress.
+- The Armour Check: On a loss, compare the resulting Impact against the player's Wound Threshold as normal — meeting or exceeding it inflicts a Wound, falling short inflicts 1 Dissonant Stress.
     
 
 #### 2. The Aware Target (The Desperate Reaction)
