@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
+                "file": "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Iron & Marrow - Rulebook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Manipulating The Void (Spells)"
+              "title": "Iron & Marrow - Rulebook"
             }
           }
         ],
@@ -44,7 +44,7 @@
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": ""
+                "searchQuery": "panic"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tidespoken",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +87,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,17 +206,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "613dd05e7224a6ba",
+  "active": "bf9b17df2cdfe0a9",
   "lastOpenFiles": [
+    "300 Iron & Marrow Master rules/aa_Master rules/claude - ledger house sim.md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Beasts Monsters Mutants (Bestiary).md",
     "100 Society/102 Lore & History/Lore - Wretches.md",
     "100 Society/102 Lore & History/Lore - Hags.md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
     "400 Meta/Framework - The Coastal Reckoning.md",
     "100 Society/104 Cosmology/Cosmology - The Celestial Graveyard and The war of Creation.md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/worldbuilding-hags-wretches.diff",
     "300 Iron & Marrow Master rules/aa_Master rules/design-backlog.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Iron World (Environmental rules).md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Beasts Monsters Mutants (Bestiary).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Iron & Marrow - Rulebook.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Rulebook cut list (for approval).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Iron-and-Marrow-Rulebook.pdf",
@@ -240,7 +240,6 @@
     "100 Society/106 Sundry Items & Artefacts/The Brine-Glow Lanterns.md",
     "100 Society/106 Sundry Items & Artefacts/Mogwort.md",
     "100 Society/106 Sundry Items & Artefacts/Nightshade.md",
-    "100 Society/101 Factions & Guilds/The Guild of Alchemists.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/powder-punk-batch-1.diff",
     "300 Iron & Marrow Master rules/aa_Master rules/Playtest - Temple of the Lost God",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/sim_output_v5.txt",
