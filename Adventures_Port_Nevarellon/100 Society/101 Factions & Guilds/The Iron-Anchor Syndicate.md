@@ -27,7 +27,7 @@
 
 ## ⚡ Internal Friction & Conflict
 - **Internal Factions:** A growing rift exists between the *Old Guard* (who want to stick to traditional smuggling and protection) and the *Young Bloods* led by [[Silas Bane|Silas Bane]], who wants to violently challenge the Port Nevarellon chapter of [[The Guild of Alchemists|the Guild of Alchemists]] for control of the bioluminescent lighting monopoly.
-- **External Rivals:** [[100 Society/The Tidespoken Clergy|The Tidespoken Clergy]] (who actively undermine Syndicate recruitment by feeding and protecting the poorest dockworkers).
+- **External Rivals:** [[The Tidespoken Clergy|The Tidespoken Clergy]] (who actively undermine Syndicate recruitment by feeding and protecting the poorest dockworkers).
 - **Public Perception:** Feared by the merchants, loathed by the nobility, but viewed by many impoverished dockworkers as a necessary shield against the tyrannical tolls of the Council.
 
 ## 👥 Notable Members

@@ -160,7 +160,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Cobalt Feather Syndicate | Alfric's manor; Rusty Tankard | Forgery and smuggling; no-blood mandate; Blue Pens; existential rival of the Zenith | 3 | The Cobalt Feather Syndicate.md | Now includes Maccorrack (muscle) |
 | The Wyvern Tail Pirates | Greywater Lagoon | Disciplined commerce raiders under Haren Twarde; prey on the Twelgorn navy | 2–3 | The Wyvern tail Pirates.md | — |
 | The Grey Water Pirates | Greywater Lagoon | "Informal coalition" of independents | — | Greywater Lagoon.md | **Overlap with Wyvern Tail unresolved.** Speaker: Captain Vesper Locke |
-| The Tidespoken Clergy | Lower piers, Sea-Wall | Sea & Storms cult; the ocean is the Brine Mother; soup kitchens; free tide-tables and Low Moons warnings; hunt hags; want Morgran burned | 3 | Religion; Muddy Docks; Sunken Ward; Coastal Reckoning; Morgran | **No file — 7 references** |
+| The Tidespoken Clergy | Lower piers, Sea-Wall | Sea & Storms; the Brine Mother ("she takes, in turn"); kitchens fed by the Mother's share; kitchen-truce; Lamp-Readers' tide-tables and the free Low Moons warning; burn hags and the hag-made — whom they can reach; hold no title | 3 (hand on half the calendar) | The Tidespoken Clergy.md; Religion; Muddy Docks; Sunken Ward; Coastal Reckoning; Lore - Hags; Morgran | **File drafted 2026-10-02.** Eldest Tongue unnamed |
 | Cult of the Crooked Coin | Docks, underworld | Trickery; Rook's Folly; the patron of beating rigged systems | 3 | Religion; Lidda Shoon; Wondrous Markets | Recommended as the Struck City's thieves' cult (not yet applied) |
 | House De Vonce | Duchy of De Vonce | Ruling house; iron and levies | 1 | Tythius; Five Duchies | Children unwritten |
 | House Valerius | Duchy of Valerius | Syndicate with a coronet | 1 | Five Duchies | No named members |
@@ -230,7 +230,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Vael the Mute | Death — Ashen Veil | Death as mercy | Pauper's Procession | Religion |
 | Kaelen the Survivor | Winter & Wilds — Rime-Fang | Winter-drake hunter | Pilgrim's Notch (Name Tables) | Religion |
 | Mother Elara of the Mud | Mercy — Weeping Martyr | Absorbed the plague-dying's rot | Elara's Walk | Religion |
-| Thalass's Omen | Sea & Storms — Tidespoken | The rogue wave that sank the old king's armada | The Tidespoken Clergy | Religion |
+| Thalass's Omen | Sea & Storms — Tidespoken | The rogue wave that broke a fleet of the last King's armada at the harbour mouth, in the final year of the Civil War | The Tidespoken Clergy | Religion; The Tidespoken Clergy |
 | The Sun | Corpse of a primary Creator | Ceases to exist at night and returns somewhere else; no solar bearings | — | Celestial Graveyard; Coastal Reckoning |
 | The Pale Sister (Nyssaria) · The Drowned Lamp (Ossuel) · The Slow Wound (Cassivar) | Moon-corpses; 28 / 40 / 105-day cycles; **their own glow** | Set the calendar, the tides and the Low Moons respectively; winter is their weight | — | Coastal Reckoning |
 | **The Slack-Born (fey)** | God-essence that quickened in still water | Not a mortal race; beautiful, unhurried, indifferent | — | Great Fracture (**NEW**) |
@@ -250,6 +250,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | A few centuries ago | Settlement of the Whispering Coast | Settlers flee a decaying empire elsewhere on Austhal; a King and five Dukes | Five houses | History; Coastal Reckoning |
 | Pre-Accord | Spine Aqueduct built | Built when the coast was one realm | The Crown | Three Layers |
 | Civil War | Marten's Cross | Commons crucify a self-proclaimed king — the King-Ban predates the Accord | Marten | Name Tables |
+| Civil War, final year (~−1 A.A.) | Thalass | A rogue wave breaks a fleet of the King's armada sortieing against the Company's blockade; a Low Moons by the Guild's reckoning | Tidespoken; Golden Company | The Tidespoken Clergy |
 | −20 A.A. | Dray arrives at the coast | Takes a Copyist's bench at 40 | Merrit Dray | Keeper Merrit Dray |
 | 0 A.A. | The Seat Falls / Ducal Accord / 99-Year Contract | King slain; Council formed (Palla elected at the first sitting); "King" banned | Golden Company, Council, Dukes, Tythius | History; Coastal Reckoning |
 | 0 A.A. | Flight of the heirs | Royal children buy asylum in Twelgorn | Exiled line | History |
@@ -303,7 +304,10 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Tideways | Layered cosmos: High Reach / Slack Water / Undertow | Great Fracture | — |
 | **The Undertow / Undertow-touched** | Lowest layer / adjective for taint and property. **"Frequency" is retired** | Throughout | — |
 | Slack-Born | Fey; god-essence that quickened in still water | Great Fracture; Morgran | Hags statted; other fey `needs crunch` |
-| The Brine Mother | The Tidespoken's name for the ocean; its teaching makes hags abominations | Lore - Hags | — |
+| The Brine Mother | The Tidespoken's name for the ocean; its teaching makes hags abominations | Lore - Hags; The Tidespoken Clergy | — |
+| The tide's turn | The Tidespoken teaching: everything moves, everything is taken in its turn | The Tidespoken Clergy | — |
+| Tongues · the Salt · the Eldest Tongue · Lamp-Readers | Tidespoken priests · the faithful · the longest-serving Tongue, who speaks for the clergy · keepers of the tide-tables on the Sea-Wall | The Tidespoken Clergy | — |
+| The Mother's share · the kitchen-truce | One fish from every boat landing at a Tidespoken pier · no blade drawn within sight of the pot | The Tidespoken Clergy | — |
 | Hag's Work · the price | A hag's change, and what she takes for it (years, memory, sense, service, name, something not yet yours) | Lore - Hags | Statted (ruleset) |
 | Coven · coven-mother | Hags gathered for power and influence over change · the eldest, whom the others bleed for | Lore - Hags | Statted in part (ruleset); coven powers `needs crunch` |
 | Uprooting | A hag moving to new ground of her own kind during the Low Moons | Lore - Hags | `needs crunch` |
@@ -346,7 +350,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 
 ### Still open, in priority order
 1. ~~**The Twelgorn Kingdom**~~ — **file created 2026-09-28 (draft).** Still to set: names (capital, natives, plateau, Binders, the Unaging Heir), travel times, and what the god takes for the Blessing.
-2. **The Tidespoken Clergy** — no file; 7 references.
+2. ~~**The Tidespoken Clergy**~~ — **file drafted 2026-10-02 (draft).** Still to set: the Eldest Tongue's name; the faith along the coast (for the Duchy pass).
 3. ~~**The Guild of Alchemists**~~ — **file drafted 2026-09-29 (draft).** Still to set: the Chapter-Warden's name, the Convocation's interval, the founding date and first chapter.
 4. ~~**Confirm the derived dates**~~ — **confirmed 2026-09-28:** Corvus fell in 8 A.A.; the next Opening-season Low Moons (~59 A.A.) is a live campaign clock and Tuwal Ghorun's invasion omen.
 5. **The De Vonce children.** Ellenst "married south" implies Twelgorn nobility — decide whether that's a hook.
@@ -379,6 +383,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - Whether Tuwal Ghorun's warships mount powder guns
 - ~~Fey and hag stat blocks~~ — **hags and Wretches statted 2026-10-02**; other fey still open
 - Hag uprooting at the Low Moons; what a coven can change beyond protecting its mother
+- Tidespoken casting (Thalass's Omen)
 - Settlement Tiers
 - Faction power levels (every faction is currently "not defined")
 
@@ -390,7 +395,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
   - Items: Nightshade · Sun-Iron · The Brine-Glow Lanterns · The Shard-Blade
   - Cast: Bruiser Ben
 - **Unfilled templates:** The Jagged Spine · The Kald Mountain Territory · Ubaraz Kingdom · The High Quarter · The Trade Plazas · The Foundry Slips · Valerius Family. Austhal and Whispering Coast are partial.
-- **Wanted links (notes not yet written):** Zafira Al Munn · The Tidespoken Clergy · Eldrick / Imaihil / Sheandri De Vonce · Ellenst Rulieone · Oakhaven Cove · The Shield Atolls · The Broken Spires · Captain Vesper Locke · The Low-Tide Market · Slipway Seven · The Brine-Glow Depot · The Rusty Anchor Foundry · Halcus Rive.
+- **Wanted links (notes not yet written):** Zafira Al Munn · Eldrick / Imaihil / Sheandri De Vonce · Ellenst Rulieone · Oakhaven Cove · The Shield Atolls · The Broken Spires · Captain Vesper Locke · The Low-Tide Market · Slipway Seven · The Brine-Glow Depot · The Rusty Anchor Foundry · Halcus Rive.
 - **Obsolete copies to archive:**
   - Inside the vault: `drafts/draft_iron-and-marrow-canon-tracker*.md` and `drafts/iron-and-marrow-canon-tracker.md`, plus the `Batch * review - diff.md` files.
   - Outside the vault: the root `.txt` snapshots.

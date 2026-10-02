@@ -50,4 +50,5 @@ Religion across the Whispering Coast is deeply paganistic. There are no living g
 - **The Paragon:** *Thalass's Omen*
 - **The Lore:** Thalass was not a person, but an apocalyptic rogue wave that destroyed an entire fleet of the old king's armada. The Tidespoken revere this natural disaster as the ultimate proof that the ocean is the true sovereign of the world, and they seek to align themselves with its crushing power.
 - **Flavor/Trappings:** Sea-shell tokens, salt-crusted oilskins. Prayers manifest as the crash of distant rogue waves and heavy brine smells.
+- **See:** [[The Tidespoken Clergy]] — the Brine Mother, the kitchens, and Thalass in the last year of the Civil War.
 

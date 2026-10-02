@@ -20,6 +20,6 @@
 
 ## 🧠 Psychology & Drive
 - **Immediate Goal:** Earn enough silver guiding smugglers into the Grey Water Lagoon to afford another week of heavy dwarven spirits.
-- **The Core Fear:** Being captured by the priests of [[100 Society/The Tidespoken Clergy|The Tidespoken Clergy]]. They know a hag made him, they hold that anything shaped from an Undertow-shard belongs to the Undertow, and they want to burn him.
+- **The Core Fear:** Being captured by the priests of [[The Tidespoken Clergy|The Tidespoken Clergy]]. They know a hag made him, they hold that anything shaped from an Undertow-shard belongs to the Undertow, and they want to burn him.
 - **The Utility:** Despite his tragic existence, Morgran is a savant of the Silt. He can taste the brackish water and tell you exactly where the sandbars have shifted overnight. Without him, heavy ships attempting to reach Divtown will inevitably run aground.
 - **The Mote:** Once a season he still makes the old trading run to the stilt-villages, at cost. They are the only people on the coast who call him Fin.

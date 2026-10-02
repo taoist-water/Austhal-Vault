@@ -88,7 +88,7 @@ Jointly funded and garrisoned by the Council of Five and the four standing Duchi
 - **Enforcement:** Law and money. The Edicts, the tolls, the Guild-Tax, the Golden Writ — and the Contract Sum that buys the halberds.
 - **Geographic Anchor:** The Basin and the High Quarter cisterns.
 - **Bypass:** [[Greywater Lagoon|Grey Water Lagoon]] and [[Divtown|Divtown]] already route around the tariff-houses at small scale. What stops it scaling: the Marshes will not float a deep-sea hull, and no fence in Divtown can move volume.
-- **Cost & Mote:** Documented at length in [[Economy - the Price of Survival|the Price of Survival]] — a deliberate poverty trap where a labourer's daily survival costs exactly their daily wage. The mote is thin and should stay thin: the [[100 Society/The Tidespoken Clergy|Tidespoken]] soup kitchens, and Company enlistment as the one legal ladder out.
+- **Cost & Mote:** Documented at length in [[Economy - the Price of Survival|the Price of Survival]] — a deliberate poverty trap where a labourer's daily survival costs exactly their daily wage. The mote is thin and should stay thin: the [[The Tidespoken Clergy|Tidespoken]] soup kitchens, and Company enlistment as the one legal ladder out.
 - ~~**⚠️ Gap:** no named members.~~ **Filled:** [[Marcian Thole]], [[Lucia Marrenhal]], [[Ottavian Kress]], [[Verrine Sallow]], [[Palla Vantry]].
 
 ### The Golden Company
@@ -131,7 +131,7 @@ Known vacancies, in priority order:
 
 **Membership test:** contained within a single settlement or district. Well-served by the existing Faction and Character templates.
 
-Populated: [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]], [[The Cobalt Feather Syndicate|Cobalt Feather Syndicate]], [[100 Society/The Tidespoken Clergy|Tidespoken Clergy]], [[The Guild of Alchemists|Guild of Alchemists]] (Port Nevarellon chapter only — the parent Guild is cross-border and sits outside the Layers), [[Faction - The Civic Constabulary (The Coppers)|Civic Constabulary]], [[The Dolly Sisters|the Dolly Sisters]], [[Silas Bane|Silas Bane]], the Cinder Row elder-councils.
+Populated: [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]], [[The Cobalt Feather Syndicate|Cobalt Feather Syndicate]], [[The Tidespoken Clergy|Tidespoken Clergy]], [[The Guild of Alchemists|Guild of Alchemists]] (Port Nevarellon chapter only — the parent Guild is cross-border and sits outside the Layers), [[Faction - The Civic Constabulary (The Coppers)|Civic Constabulary]], [[The Dolly Sisters|the Dolly Sisters]], [[Silas Bane|Silas Bane]], the Cinder Row elder-councils.
 
 **The cross-layer rule — this is where the good stories are.** A Layer 3 entity that gets its hand on a Layer 1 chokepoint is the setting's most reliable plot generator. Silas Bane trying to seize the Brine-Glow monopoly is a Layer 3 gang reaching for municipal infrastructure. Garrick buying legal deeds is a Layer 3 crook acquiring Layer 1 legal standing one warehouse at a time. When you build a Layer 3 faction, always name which Layer 1 chokepoint it dreams about.
 

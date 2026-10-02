@@ -17,7 +17,7 @@
 ## ⚖️ Law, Order & Safety
 - **Guarding Presence:** The [[Faction - The Civic Constabulary (The Coppers)|Blue-Cloak Watch]] treats the Ward the way it treats the Docks — a single fortified checkpoint at the landward gate, no patrols after dark. Cinder Row fares worse: it generates no trade revenue, so unlike the Docks it doesn't even benefit from the [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]]'s self-interested version of order.
 - **Local Customs / Unwritten Rules:** Newcomers are assumed to be either Corvus-descended or recently ruined. Nobody asks which, and nobody expects a straight answer.
-- **Crime Level:** High/Violent throughout, with Cinder Row edging past even the Docks — no Syndicate presence keeping trade-driven order, and less consistent reach from the [[100 Society/The Tidespoken Clergy|Tidespoken Clergy]]'s soup kitchens than the piers get.
+- **Crime Level:** High/Violent throughout, with Cinder Row edging past even the Docks — no Syndicate presence keeping trade-driven order, and less consistent reach from the [[The Tidespoken Clergy|Tidespoken Clergy]]'s soup kitchens than the piers get.
 
 ---
 
@@ -36,5 +36,5 @@
 
 ## 👥 Power Players
 - **Local Authority:** None officially, Ward-wide. What little order exists in Cinder Row traces back to informal elder-councils formed by the original Corvus refugees fifty years ago — mostly faded now, kept alive by a handful of elderly survivors more than by any real structure.
-- **Dominant Factions:** [[The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] (Muddy Docks specifically); [[100 Society/The Tidespoken Clergy|The Tidespoken Clergy]] (Ward-wide — the closest thing it has to a unifying presence).
+- **Dominant Factions:** [[The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] (Muddy Docks specifically); [[The Tidespoken Clergy|The Tidespoken Clergy]] (Ward-wide — the closest thing it has to a unifying presence).
 - **Notable Departures:** The Ward has produced at least two people who left it by very different roads — [[Silas Bane|Silas Bane]], who turned its resentments into violence, and [[First Envoy Isolde Vantry|First Envoy Isolde Vantry]], who turned its desperation into the discipline that got her out.

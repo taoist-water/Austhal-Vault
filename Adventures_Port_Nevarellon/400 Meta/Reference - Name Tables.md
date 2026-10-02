@@ -241,10 +241,10 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 21 | Bare-Teeth Night | Rite | Rime-Fang | Coming-of-age; a night outdoors in the Winter Moons with nothing |
 | 22 | Elara's Walk | Festival | Cult of the Weeping Martyr | Plague remembrance. Free medicine distributed in the Docks — *mote of hope* |
 | 23 | The Taking-On | Rite | Weeping Martyr | Vow to bear another's suffering. Occasionally literal. Rarely survivable |
-| 24 | Thalass's Count | Rite | Tidespoken Clergy | The year's drowned named aloud from the Sea-Wall |
-| 25 | The Wave-Naming | Rite | Tidespoken | A destructive storm is formally named and thereby acknowledged as sovereign |
-| 26 | Salt-Tongue | Rite | Tidespoken | Keel-blessing; a shipwright pays for it whether he believes or not |
-| 27 | Lantern Watch | Civic | Golden Company | Low Moons mobilisation; double patrols, closed gates |
+| 24 | Thalass's Count | Rite | Tidespoken Clergy | The year's drowned named aloud from the Sea-Wall → *allocated: The Tidespoken Clergy* |
+| 25 | The Wave-Naming | Rite | Tidespoken | A destructive storm is formally named and thereby acknowledged as sovereign → *allocated: The Tidespoken Clergy* |
+| 26 | Salt-Tongue | Rite | Tidespoken | Keel-blessing; a shipwright pays for it whether he believes or not → *allocated: The Tidespoken Clergy* |
+| 27 | Lantern Watch | Civic | Golden Company | Low Moons mobilisation; double patrols, closed gates → *canon tie: The Tidespoken Clergy (the Tongues' hunting season)* |
 | 28 | The Shuttering | Trade rite | Guild of Alchemists | All Brine-Fire stock sealed and logged before the Low Moons → *canon tie* |
 | 29 | Moonmeat Night | Folk | Rural coast | Livestock slaughtered before the Low Moons rather than risk what the light does |
 | 30 | The Sleet Vigil | Folk | Northern coast | Winter Moons; households keep a light burning for anyone still on the road |

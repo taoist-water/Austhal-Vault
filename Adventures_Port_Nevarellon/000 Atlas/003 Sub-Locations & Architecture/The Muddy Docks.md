@@ -28,4 +28,4 @@
 - **Local Authority:** None officially. The city-appointed Harbor Master stays barricaded in his stone tower near the Trade Plazas.
 - **Dominant Factions:** 
   - [[The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] — *Controls the extortion rackets, shipping protection, and gambling dens.*
-  - [[100 Society/The Tidespoken Clergy|The Tidespoken Clergy]] — *A religious sect that runs soup kitchens on the lower piers and keeps a fragile peace between the gangs.*
+  - [[The Tidespoken Clergy|The Tidespoken Clergy]] — *A religious sect that runs soup kitchens on the lower piers and keeps a fragile peace between the gangs.*
