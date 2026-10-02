@@ -35,7 +35,7 @@
 - **Snake Eyes (natural 2):** Automatic failure. The character immediately suffers 1 Stress, and additional contextual penalties.
 - **Desperate Edge is not a universal Core Rule.** A lone natural 6 on a 2d6 check is just a 6 — no exploding die — unless the roller has the **Desperate Edge** Feat (Tier 1, see The Marrow, Feats). A character without that Feat gets nothing extra here, no matter how desperate their situation is.
 
-## The Margin-Focused Resolution (Unopposed Checks)
+## The Margin-Focused Resolution (Unopposed Checks) (dev note) this needs revison, we have moved away from the universal TN 8 unoopsed check(/dev note)
 
 Instead of artificially inflating the Target Number to combat high modifiers, we accept that highly skilled characters will succeed at standard tasks. The dice roll dictates the collateral damage, the speed, or the Momentum generated.
 
