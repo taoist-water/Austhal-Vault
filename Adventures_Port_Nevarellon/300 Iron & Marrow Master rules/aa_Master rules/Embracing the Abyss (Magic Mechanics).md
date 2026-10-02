@@ -98,7 +98,7 @@ To make "Cast Spell" a valid Reactor Action, you need a specific category of spe
 
 - **Arcane Reactions (The Opposed Clash):** A spell like _Deflection_ or _Arcane Protection_ would trigger the moment the caster becomes the target of an attack. The Arcanist rolls an Opposed Clash using `2d6 + Arcana`. If the Arcanist wins, they completely negate the attack. If they win by a Margin of 5+, they might also trigger a counter-effect (like teleporting 5 feet or dealing 1 Stress to the attacker).
     
-- **Faith Reactions (The Stress Soak):** Because Faith magic bypasses the dice, a Priest's Reactor spell (like _Martyr's Shield_) wouldn't require a Clash roll. Instead, when an enemy rolls a massive Strike, the Priest declares the Prayer, instantly accepts 1 or 2 Locked Stress, and immediately grants themselves or an ally a massive Front-End Reducer (e.g., +4 Shield Value) against that specific attack.
+- **Faith Reactions (The Stress Soak):** Because Faith magic bypasses the dice, a Priest's Reactor spell (like _Martyr's Shield_) wouldn't require a Clash roll. Instead, when an enemy rolls an attack, the Priest declares the Prayer, instantly accepts 1 or 2 Locked Stress, and immediately grants themselves or an ally a massive Front-End Reducer (e.g., +4 Shield Value) against that specific attack.
     
     
     
