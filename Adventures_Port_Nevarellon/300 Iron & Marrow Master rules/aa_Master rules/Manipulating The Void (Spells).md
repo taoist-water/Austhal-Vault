@@ -323,25 +323,26 @@ In-Paradigm casters get the standard DP cost and Paradigm Mastery (a Messy Succe
 
 ### Novice
 
-**Marrow Siphon** (Sustain / Attrition)
-The Necromancer targets a fresh corpse or a severely wounded enemy, inhaling their fading vitality to physically forcefully reset their own nervous system.
+**Marrow Siphon** (Attrition)
+The Necromancer stoops over a body still warm enough to answer, inhaling its fading vitality to forcefully reset their own nervous system.
 
 - **Level:** Novice
+- **Target/Range:** One freshly dead corpse, Short Range — a body that died during the current Scene (see *GM Tools*). Never a living creature, however badly wounded.
 - **Action Type:** Activation
 - **Duration:** Instantaneous
-- **Resolution:** Unopposed Arcana vs. TN 8. (Must target a corpse or an enemy with at least 2 Wounds).
+- **Resolution:** Unopposed Arcana vs. TN 8.
     
-- The Effect: The caster attempts to clear their own Dissonant Stress by consuming residual life force.
+- The Effect: The caster clears their own Dissonant Stress by consuming residual life force. **A successful cast spends the corpse** — there is nothing left in it to take a second time.
     
 - The Margin Scaler:
     
-- Failure (<8): The dead mind pollutes the caster's. The caster takes 1 Dissonant Stress.
+- Failure (<8): The dead mind pollutes the caster's. The caster takes 1 Dissonant Stress, and the corpse is left untouched.
     
-- Margin 0–2 (Messy): The caster successfully clears 2 Dissonant Stress, but the violent physiological reaction inflicts 1 Minor physical Wound on the caster.
+- Margin 0–2 (Messy): The caster clears 2 Dissonant Stress, but the transfer is violent and feeds 1 Dissonant Stress straight back — a net gain of one Stress slot.
     
-- Margin 3–4 (Clean): The caster cleanly clears 2 Dissonant Stress. The target corpse is reduced to ash.
+- Margin 3–4 (Clean): The caster cleanly clears 2 Dissonant Stress at no cost. The corpse is reduced to ash.
     
-- Margin 5+ (Massive): The surge of vitality is overwhelming. The caster clears all Dissonant Stress and generates 1 Momentum.
+- Margin 5+ (Massive): As Clean — 2 Dissonant Stress cleared, no cost, the corpse reduced to ash — and the surge is strong enough that the caster also generates 1 Momentum.
     
 
 **Rigor Mortis** (Combat Control)
