@@ -2,7 +2,7 @@
 **Adventures**
 An Adventure is a string of Scenes, created by the GM and strung together to form a story.
 
-**Scenes**
+**Scene**
 Scenes are a method of pacing and is the action between Breathers. So, when there is a reference to "scene" to describe a duration or limit, it is describing the time period between breathers.
 
 **Within a Scene**

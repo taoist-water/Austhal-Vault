@@ -23,16 +23,16 @@ The air around the target thickens into a dull, shimmering haze, dampening the r
 
 - **Level:** Novice
 - **Resolution:** Unopposed Arcana vs. TN 8
-- **Target/Range:** Self or one ally, touch
-- **Action Type:** Activation (to raise) / Reactor (to use)
+- **Target/Range:** Self only.
+- **Action Type:** Activation to raise. **It can never be cast as a Reactor action.** Reactor to use the standing ward's defence.
 - **Duration:** Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound)
 
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The ward holds, but the caster takes 1 Dissonant Stress from the backlash.
-- Margin 3–4 (Clean): The ward holds. Hostile spells targeting the protected character suffer Disadvantage on their casting roll.
+- Margin 3–4 (Clean): The ward holds. Hostile spells targeting the caster suffer Disadvantage on their casting roll.
 - Margin 5+ (Massive): As Clean, and the ward gains SV 2 against the next hostile spell's Impact.
 
-**Special Interactions:** As a Reactor action against an incoming hostile spell, the protected character may Block using Arcana instead of their normal Reactor stat.
+**Special Interactions:** **The ward must be raised in advance.** Arcane Protection is an Activation and can never be cast as a Reactor — a caster cannot answer an unforeseen spell by throwing it up on the spot. Once raised, and for as long as it remains Sustained, the caster may use **Arcana as their defence** against an incoming hostile spell, in place of their normal Reactor stat. **This is available at every band, Messy included**, and applies on top of whatever the Margin Scaler granted when the ward went up — which is deliberately what makes a Messy ward worth keeping. Note that *spell* is the generic term (see *Embracing the Abyss*): this ward answers hostile **Prayers** as readily as hostile Arcana.
 
 ---
 
@@ -466,17 +466,17 @@ __________________________________________________________________
 Invisible currents of air or shifting shadows cause incoming attacks to veer off course.
 
 - **Level:** Novice
-- **Resolution:** Unopposed Arcana vs. TN 8 to raise
-- **Target/Range:** Self or one ally, Short Range
-- **Action Type:** Activation / Reactor
-- **Duration:** Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound)
+- **Resolution:** Arcane Clash — `2d6 + Arcana`, opposed against the incoming attack's own roll.
+- **Target/Range:** Self only.
+- **Action Type:** Reactor only.
+- **Duration:** Scene — once it holds, it stands until the next Breather or until a defensive Clash is lost. **This is not a Sustain effect:** it takes no maintenance roll and does not occupy the Channelling Rule's one-effect-at-a-time slot.
 
 **The Margin Scaler:**
-- Margin 0–2 (Messy): Attacks targeting the protected character suffer a -2 penalty to their Clash; caster takes 1 Dissonant Stress raising it.
-- Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Massive): Penalty becomes Disadvantage instead of -2.
+- Margin 0–2 (Messy): The attack is deflected — no Impact — but the strain shows, and the caster takes 1 Dissonant Stress. **A tie counts as Margin 0 and resolves here.**
+- Margin 3–4 (Clean): The attack is deflected at no cost, and attacks against the caster suffer **−2 to their Clash** for as long as the ward stands.
+- Margin 5+ (Massive): As Clean, but the standing penalty is **Disadvantage** rather than −2.
 
-**Special Interactions:** While this ward is actively sustained, the protected character may, as a Reactor action against an incoming Strike, substitute a `2d6 + Arcana` roll for their normal Reactor roll (win: no Impact; lose: full Impact, no mitigation) — in addition to the passive Clash penalty above, which still applies to the attacker's roll. This substitution requires the ward to already be sustained; it cannot be cast fresh as a reaction to an unforeseen Strike. The Reactor-substitution option is only available if the ward was raised at Clean or Massive quality — a Messy-tier ward grants the passive penalty only.
+**Special Interactions:** **Deflection is never raised in advance.** It is the Arcane Reaction the magic rules describe (*Embracing the Abyss*, Reactor Spells): cast it the moment an attack is declared against the caster, as a Reactor action, resolved as an opposed Arcane Clash. That first cast both answers the attack and leaves the ward standing; from then on the caster uses **Arcana as their defence** against incoming attacks, and **the Margin Scaler applies afresh on every defence** — so a run of Clean results keeps the penalty up, while a Messy one still stops the blow and bleeds a point of Dissonant Stress. **Losing the Clash means the attack lands for full Impact with no mitigation** — no Shield Value, no armour reduction — and the ward falls. The standing penalty never stacks with itself.
 
 **Stitch the Silhouette** (Targeted Control)
 The sorcerer drives an iron nail or a blade into the target’s cast shadow on the floor, magically pinning their physical body in place.

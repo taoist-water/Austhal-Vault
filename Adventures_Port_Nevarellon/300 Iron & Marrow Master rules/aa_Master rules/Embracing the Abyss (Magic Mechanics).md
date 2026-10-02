@@ -1,5 +1,11 @@
 To keep the two systems distinct, we should root them in entirely opposite philosophies: Arcana is about Volatility and Margins, while Faith is about Certainty and Sacrifice.
 
+# "Spell" is the generic term
+
+**Spell** covers both forms of magic. An Arcane working and a Faith **Prayer** are both spells, and any rule that says *spell* applies to both — unless the surrounding rule is explicitly scoped to one, as the Arcane **Sustain** rules and the Faith **Flowing** rules below are. Where a rule must name one side alone it says **Arcane spell** or **Prayer**, and the corpus already does so wherever it matters.
+
+**What this settles in play:** anything that wards against, resists, counters or detects *spells* works against hostile Prayers as readily as hostile Arcana. *Arcane Protection* is the worked example — an Arcane ward whose protection extends to divine magic.
+
 # Casting Difficulty by Spell Level (Tiered TN)
 
 Unopposed casting checks — the Margin of Manifestation roll, a Sustain check, and a Priest's Tithe of Will — no longer target a flat TN 8. The Target Number is set by the spell or Prayer's own Level:
@@ -96,7 +102,7 @@ ________________________________________________________________________
 
 To make "Cast Spell" a valid Reactor Action, you need a specific category of spells designed to be cast in a split second.
 
-- **Arcane Reactions (The Opposed Clash):** A spell like _Deflection_ or _Arcane Protection_ would trigger the moment the caster becomes the target of an attack. The Arcanist rolls an Opposed Clash using `2d6 + Arcana`. If the Arcanist wins, they completely negate the attack. If they win by a Margin of 5+, they might also trigger a counter-effect (like teleporting 5 feet or dealing 1 Stress to the attacker).
+- **Arcane Reactions (The Opposed Clash):** _Deflection_ is the worked example. It triggers the moment the caster becomes the target of an attack — it is cast **as a Reactor action with nothing raised in advance** — and resolves as an Opposed Clash using `2d6 + Arcana` against the attack's own roll. Winning negates the attack outright; the Margin then sets what the ward leaves behind, per the spell's own entry. **Not every defensive spell works this way:** _Arcane Protection_ must be **raised ahead of time as an Activation** and can never be thrown up in reaction — its Reactor action is for *using* a ward already standing, not for casting one.
     
 - **Faith Reactions (The Stress Soak):** Because Faith magic bypasses the dice, a Priest's Reactor spell (like _Martyr's Shield_) wouldn't require a Clash roll. Instead, when an enemy rolls an attack, the Priest declares the Prayer, instantly accepts 1 or 2 Locked Stress, and immediately grants themselves or an ally a massive Front-End Reducer (e.g., +4 Shield Value) against that specific attack.
     
