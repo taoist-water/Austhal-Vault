@@ -242,15 +242,15 @@ Melee Clash 2d6+3 | Block 2d6+3 (if lost, Kite Shield's SV 4 subtracts from Impa
 ### Equipment
 - **Armour:** Leather (+1 Armour, Light)
 - **Weapon:** Greataxe (Power 5, 2H, Heavy Hitter, Cumbersome, Scarce)
-- **Starting Purse: 80 sp** — Leather 12 + Greataxe 40 = **52 sp spent, 28 sp remaining.** Grave-Dust Poultice (8 sp) + Witch-Spur Salve (12 sp) = 20 sp, **8 sp banked.**
+- **Starting Purse: 80 sp** — Leather 12 + Greataxe 45 = **57 sp spent, 23 sp remaining.** Grave-Dust Poultice (8 sp) + Witch-Spur Salve (12 sp) = 20 sp, **3 sp banked.**
 
 ### Combat Math Quick-Ref
-Melee Clash 2d6+3 *(Power 5; **Heavy Hitter** — every natural 6 on his 2d6 counts as a 7, and neither Fate's Bounty nor Desperate Edge's exploding die applies to this axe)* | Athletics 2d6+2 | Prowess 2d6+2 | Resolve 2d6+1 | Activation Order 7
+Melee Clash 2d6+3 *(Power 5; **Heavy Hitter** — every natural 6 on his 2d6 counts as a 7, and still triggers Fate's Bounty and Desperate Edge)* | Athletics 2d6+2 | Prowess 2d6+2 | Resolve 2d6+1 | Activation Order 7
 
 ### Table Notes
 - **Zero defense investment, by design.** No Block, no shield, Acrobatics untouched, and a Cumbersome weapon that costs him Activation Order on top. Combined with WT 6 — second-lowest in this batch — a single Grunt-tier hit (Skill 4–6 per the Bestiary's budget table) can plausibly put him down before he closes distance. That's the berserker fantasy working as intended, but a GM should know it, not discover it.
-- **Desperate Edge triggers earlier for him than for anyone else built so far.** Stress Limit 4 means "half or more of Stress Limit" is reached at just 2 Dissonant Stress — the lowest threshold in the roster. **And the Greataxe now works against that feat rather than with it.** Since the axe gained `Heavy Hitter` (30 Sep), every natural 6 it rolls is read as a 7 — which means it is no longer a 6, so **Desperate Edge's exploding die can never fire on this weapon.** He trades a rare large spike, precisely in the desperate state his Stress Limit of 4 reaches fastest in the roster, for a small certain bonus on roughly one roll in three. That is a real tension on this sheet, not a rounding error: **a Greatsword (Power 5, `Inertia`, 45 sp) would cost him 5 sp more and leave Desperate Edge intact.** Flagged for TheTao rather than resolved — the same kind of dead-weight check that moved Brynja off Litany of Nails.
-- **Witch-Spur Salve is a real trade for him, not a free buff.** Its Terrifying/panic immunity fits a character who's supposed to be the scary one — but the 1 Locked Dissonant Stress it costs eats directly into the same Stress pool that drives his Desperate Edge triggers.
+- **Desperate Edge triggers earlier for him than for anyone else built so far.** Stress Limit 4 means "half or more of Stress Limit" is reached at just 2 Dissonant Stress — the lowest threshold in the roster. The Greataxe's `Heavy Hitter` stacks with it: a natural 6 reads as a 7 and still explodes, so the axe and the feat pull in the same direction, precisely in the desperate state his Stress Limit reaches fastest.
+- **Witch-Spur Salve is a real trade for him, not a free buff.** Its Terrifying/Fear immunity fits a character who's supposed to be the scary one — but the 1 Locked Dissonant Stress it costs eats directly into the same Stress pool that drives his Desperate Edge triggers.
 
 ---
 
@@ -601,10 +601,10 @@ Both Milestones went to Feats, so his Skill total never moved off its creation-d
 ### Equipment
 - **Armour:** Leather (+1 Armour, Light)
 - **Weapon:** Greataxe (Power 5, 2H, Heavy Hitter, Cumbersome, Scarce)
-- **Starting Purse: 80 sp** — Leather 12 + Greataxe 40 = **52 sp spent, 28 sp remaining.** Grave-Dust Poultice (8 sp) + Witch-Spur Salve (12 sp) = 20 sp, **8 sp banked.** *(No Downtime purchases assumed across the three Milestones — every DP went into the archetype, not the kit.)*
+- **Starting Purse: 80 sp** — Leather 12 + Greataxe 45 = **57 sp spent, 23 sp remaining.** Grave-Dust Poultice (8 sp) + Witch-Spur Salve (12 sp) = 20 sp, **3 sp banked.** *(No Downtime purchases assumed across the three Milestones — every DP went into the archetype, not the kit.)*
 
 ### Combat Math Quick-Ref
-Melee Clash 2d6+3 *(Power 5; **Heavy Hitter** — every natural 6 on his 2d6 counts as a 7, and neither Fate's Bounty nor Desperate Edge's exploding die applies to this axe)* | Athletics 2d6+2 | Prowess 2d6+2 | Resolve 2d6+2 | Activation Order 7
+Melee Clash 2d6+3 *(Power 5; **Heavy Hitter** — every natural 6 on his 2d6 counts as a 7, and still triggers Fate's Bounty and Desperate Edge)* | Athletics 2d6+2 | Prowess 2d6+2 | Resolve 2d6+2 | Activation Order 7
 
 ### Advancement Ledger — Milestone 0 → Milestone 3 (9 DP)
 

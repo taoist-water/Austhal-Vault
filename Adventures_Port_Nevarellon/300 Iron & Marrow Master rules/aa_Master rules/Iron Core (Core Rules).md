@@ -17,7 +17,7 @@
 
 # Dice Mechanics
 
-- The Check: 2d6 + Skill vs. TN 8 (or Opposed).
+- The Check: 2d6 + Skill vs. TN (or Opposed).
 	- Attributes are not added to the roll. They set the ceiling a Skill
 	  can reach, and they drive your derived stats.
 	- When opposed in Combat, using a weapon is resolved as follows;
