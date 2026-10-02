@@ -157,7 +157,7 @@ A fall is resolved as a Hazard Roll like any other trap — the ground doesn't c
 
 
 ________________________________________________________________________
-# THE SOCIAL ENGINE (Influence & Resolve)
+# The Social Engine (Influence & Resolve)
 
 In High Fantasy Realism, a silver tongue is just as dangerous as a drawn sword, but it isn't mind control. Social encounters use Influence (to push your agenda) opposed by the target's Resolve. A target with no Resolve skill simply rolls 2d6+0 — Attributes are never added to a roll, so an untrained defender rolls flat rather than falling back on Will.
 

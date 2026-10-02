@@ -58,4 +58,6 @@ Not all the god-essence that settled in the Slack Water sank into stone and silt
 
 **Hags** are humanoid fey — long-lived, rooted to a single place, and unlike the rest of their kind, willing to trade with mortals. Their stock in trade is change. A hag can work an Undertow-touched shard into living flesh, and will, for a price that is always paid in full.
 
-> *`needs crunch` — fey and hag stat blocks belong to the Iron & Marrow ruleset.*
+Where hags root, how they move, what they ask in payment and who hunts them: see [[Lore - Hags]]. What the land keeps of the people it kills: see [[Lore - Wretches]].
+
+> *Crunch exists — hag statblocks and the Hag's Work Pursuit are in the Iron & Marrow ruleset. Other fey are still `needs crunch`.*

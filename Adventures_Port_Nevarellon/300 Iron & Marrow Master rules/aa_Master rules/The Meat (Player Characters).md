@@ -281,7 +281,8 @@ Melee Clash 2d6+3 *(Power 5; **Heavy Hitter** — every natural 6 on his 2d6 cou
 ### Equipment
 - **Armour:** Leather (+1 Armour, Light)
 - **Weapons:** Twin Daggers — 2× Dagger/Knife (5 sp each, Concealable, Close-Quarters, Finesse, Thrown, Sidearm), wielded in the **Twin-Blade Stance** (Off-Hand Parry; the Twin Strike maneuver for 1 Momentum)
-- **Starting Purse: 80 sp** — Leather 12 + 2× Dagger 10 = **22 sp spent, 58 sp remaining.** Smokestick (15 sp) + Tanglefoot Bag (20 sp) = 35 sp, **23 sp banked.**
+- **Starting Purse: 80 sp** — Leather 12 + 2× Dagger 10 = **22 sp spent, 58 sp remaining.** Smokestick (15 sp) + Tanglefoot Bag (20 sp) + Thieves' Tools (20 sp) = 55 sp, **3 sp banked.**
+- **Tools:** Thieves' Tools (1 Slot, Scarce) — Thievery against locks and mechanisms without Disadvantage.
 
 ### Combat Math Quick-Ref
 Melee Clash (Daggers) 2d6+1 | Thievery 2d6+3 | Stealth 2d6+3 | Acrobatics 2d6+1 | Dodge 2d6+1 | **Notice 2d6+0** | Activation Order 9

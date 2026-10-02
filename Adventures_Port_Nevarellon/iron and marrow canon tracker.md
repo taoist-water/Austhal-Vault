@@ -14,6 +14,18 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-02 — Hags and Wretches
+- **Two new notes (draft):** `Lore - Hags` and `Lore - Wretches` (100 Society/102 Lore & History). Expand the Slack-Born section of the Great Fracture; add Wretches to the world.
+- **Hags root only in still water, or where it used to be:** Bog (fen), Brine (sheltered reef and lagoon — never open sea), Briar (drowned woodland), Mirage (dried tarn, salt pan).
+- **Hags can uproot only during the Low Moons**, and must re-root in their own kind of ground before the moons rise again.
+- **Covens form to increase a hag's power and influence over change**; the eldest is the coven-mother. Covens grow at the Low Moons.
+- **A hag's face shows her own Undertow work**; some wear a glamour over it.
+- **A hag always agrees, keeps the letter, and is paid in full.** Six kinds of price. Anyone she works on counts as a little fey afterwards.
+- **The Tidespoken hunt hags** as abominations to the teachings of the **Brine Mother** (their name for the ocean).
+- **Wretches are what a place keeps of those it kills** — Bog, Grave, Dust. Hags do not make them. The Lost are the living stage.
+- **Dust-Wretches walk the Corvus Scar** — the dead of the Ash-Blight.
+- **The Ashen Veil lays Wretches down** by carrying the body out of the place that kept it.
+
 ### 2026-09-28 — Consistency pass
 - **"Frequency" language retired.** Tidal cosmology is canon throughout. *The Undertow* names the Tideways' lowest layer; *Undertow-touched* is the adjective for taint and property. Applied to 8 files.
 - **Renames.**
@@ -77,7 +89,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Saltmere | Valerius coastal cliffs | Seat of Valerius; ~1 day by galley on the Coastal Meridian; doesn't need the Road | Five Duchies; Three Layers | No file |
 | Duchy of Stonereach (High Shields) | North-east passes, bordering Ubaraz | Granite; dwarven engineering; toll-keeps | Five Duchies | — |
 | Granite Spire | Stonereach passes | Seat of Stonereach; ~6–8 days by horse | Five Duchies | No file |
-| The Corvus Scar | Former northern duchy | Ash-Blight (Undertow-touched soot); House Corvus functionally extinct; creeping annexation that can never be made lawful | Five Duchies; Cult of the Zenith | Fall dated **8 A.A. (confirmed 2026-09-28)** |
+| The Corvus Scar | Former northern duchy | Ash-Blight (Undertow-touched soot); Dust-Wretches walk it; House Corvus functionally extinct; creeping annexation that can never be made lawful | Five Duchies; Cult of the Zenith | Fall dated **8 A.A. (confirmed 2026-09-28)** |
 | Corvus Spire | Buried under the Scar | Ancestral seat; named for the peak that fell on it. **Broken Ward** is the folk name for the stump | Five Duchies; Name Tables T4 #9 | No file |
 | The Scar-Holders' steadings | Clean pockets inside the Scar | Squatters and farmers with no deed; the "chimneys that aren't supposed to exist" | Five Duchies | *The Quiet Steading* (Name Tables #31) proposed as the type specimen — unallocated |
 | The Ducal Concord Road | Port Nevarellon → Iron-Spire → Granite Spire; spur to Millhaven | Only infrastructure the Council and Dukes built together; ~300 miles; four garrison posts | Five Duchies; Three Layers; Jeerdan Darcy | Warden: Jeerdan Darcy. Terminates at the De Vonce watch-towers facing the Scar |
@@ -148,7 +160,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Cobalt Feather Syndicate | Alfric's manor; Rusty Tankard | Forgery and smuggling; no-blood mandate; Blue Pens; existential rival of the Zenith | 3 | The Cobalt Feather Syndicate.md | Now includes Maccorrack (muscle) |
 | The Wyvern Tail Pirates | Greywater Lagoon | Disciplined commerce raiders under Haren Twarde; prey on the Twelgorn navy | 2–3 | The Wyvern tail Pirates.md | — |
 | The Grey Water Pirates | Greywater Lagoon | "Informal coalition" of independents | — | Greywater Lagoon.md | **Overlap with Wyvern Tail unresolved.** Speaker: Captain Vesper Locke |
-| The Tidespoken Clergy | Lower piers, Sea-Wall | Sea & Storms cult; soup kitchens; free tide-tables and Low Moons warnings; want Morgran burned | 3 | Religion; Muddy Docks; Sunken Ward; Coastal Reckoning; Morgran | **No file — 7 references** |
+| The Tidespoken Clergy | Lower piers, Sea-Wall | Sea & Storms cult; the ocean is the Brine Mother; soup kitchens; free tide-tables and Low Moons warnings; hunt hags; want Morgran burned | 3 | Religion; Muddy Docks; Sunken Ward; Coastal Reckoning; Morgran | **No file — 7 references** |
 | Cult of the Crooked Coin | Docks, underworld | Trickery; Rook's Folly; the patron of beating rigged systems | 3 | Religion; Lidda Shoon; Wondrous Markets | Recommended as the Struck City's thieves' cult (not yet applied) |
 | House De Vonce | Duchy of De Vonce | Ruling house; iron and levies | 1 | Tythius; Five Duchies | Children unwritten |
 | House Valerius | Duchy of Valerius | Syndicate with a coronet | 1 | Five Duchies | No named members |
@@ -222,7 +234,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Sun | Corpse of a primary Creator | Ceases to exist at night and returns somewhere else; no solar bearings | — | Celestial Graveyard; Coastal Reckoning |
 | The Pale Sister (Nyssaria) · The Drowned Lamp (Ossuel) · The Slow Wound (Cassivar) | Moon-corpses; 28 / 40 / 105-day cycles; **their own glow** | Set the calendar, the tides and the Low Moons respectively; winter is their weight | — | Coastal Reckoning |
 | **The Slack-Born (fey)** | God-essence that quickened in still water | Not a mortal race; beautiful, unhurried, indifferent | — | Great Fracture (**NEW**) |
-| **Hags** | Humanoid fey | Rooted, long-lived; trade in change — work Undertow-touched shards into flesh | — | Great Fracture; Morgran (**NEW**). `needs crunch` |
+| **Hags** | Humanoid fey | Rooted to still water, or where it used to be; uproot only at the Low Moons; trade in change — work Undertow-touched shards into flesh; always agree, paid in full; covens for power over change | — | Great Fracture; Morgran; Lore - Hags. **Statted** (ruleset) |
+| **Wretches** | Undead — what a place keeps of those it kills | Bog, Grave, Dust; remember only cold, drowning or thirst; not hag-made; Dust-Wretches walk the Corvus Scar | — | Lore - Wretches (**NEW, draft**). **Statted** (ruleset) |
 | **Tuwal Ghorun** | Reach-aligned god-remnant, bound in the Slack Water beneath the Twelgorn capital | The only living god-remnant known to answer; grants the Blessing; cannot lie but chooses what it says | Tuwal Ghorun (monotheistic) | The Twelgorn Kingdom (**NEW**). `needs crunch` |
 
 ---
@@ -289,7 +302,11 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 |---|---|---|---|
 | The Tideways | Layered cosmos: High Reach / Slack Water / Undertow | Great Fracture | — |
 | **The Undertow / Undertow-touched** | Lowest layer / adjective for taint and property. **"Frequency" is retired** | Throughout | — |
-| Slack-Born | Fey; god-essence that quickened in still water | Great Fracture; Morgran | `needs crunch` (stat blocks) |
+| Slack-Born | Fey; god-essence that quickened in still water | Great Fracture; Morgran | Hags statted; other fey `needs crunch` |
+| The Brine Mother | The Tidespoken's name for the ocean; its teaching makes hags abominations | Lore - Hags | — |
+| Hag's Work · the price | A hag's change, and what she takes for it (years, memory, sense, service, name, something not yet yours) | Lore - Hags | Statted (ruleset) |
+| Coven · coven-mother | Hags gathered for power and influence over change · the eldest, whom the others bleed for | Lore - Hags | Statted in part (ruleset); coven powers `needs crunch` |
+| Uprooting | A hag moving to new ground of her own kind during the Low Moons | Lore - Hags | `needs crunch` |
 | Landed / Un-Landed | Legal personhood by deed, charter or deep-water keel | Law; Council; throughout | Social mechanic — no crunch needed |
 | Landed by Commission | A Company commission counts as a charter; lapses on discharge | Golden Company; Marco; Cobb; Isolde; Jeerdan (unverifiable) | — |
 | The Second Contract / Writ of Voice | Envoy retainers / an Envoy's negotiating limits | The Golden Company | — |
@@ -348,6 +365,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 15. **Tier tags:** `#location/neighborhood` for the Muddy Docks and Cinder Row.
 16. **Cinder Row** — intentional stub; develop when the Sunken Ward goes live in play.
 17. ~~**City guilds framework.**~~ **Drafted 2026-09-29** as `Framework - The Guilds of Port Nevarellon`. Still to set: which dead charters are on the Roll; whether the Smiths get a name; how Suse Kellard got her stamp.
+18. **Hags and Wretches** — notes drafted 2026-10-02; open questions at the foot of each (Mirage- and Briar-Hag homes, Morgran's hag, cold iron, coven powers, Grave-Wretch ground, the Ashen Veil in the Scar).
 
 ### Rules-side flags (not carried over — for the Iron & Marrow ruleset)
 - Binding Oath
@@ -359,7 +377,8 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - Shop-charter prices, stamp-rent rates and Guild rates
 - Business ownership / downtime: the guild-business vs deed-business split
 - Whether Tuwal Ghorun's warships mount powder guns
-- Fey and hag stat blocks
+- ~~Fey and hag stat blocks~~ — **hags and Wretches statted 2026-10-02**; other fey still open
+- Hag uprooting at the Low Moons; what a coven can change beyond protecting its mother
 - Settlement Tiers
 - Faction power levels (every faction is currently "not defined")
 

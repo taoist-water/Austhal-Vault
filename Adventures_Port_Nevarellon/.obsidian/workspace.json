@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/aa_Master rules/Beasts Monsters Mutants (Bestiary).md",
+                "file": "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beasts Monsters Mutants (Bestiary)"
+              "title": "Manipulating The Void (Spells)"
             }
           }
         ],
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tidespoken",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,18 +209,25 @@
   },
   "active": "613dd05e7224a6ba",
   "lastOpenFiles": [
+    "100 Society/102 Lore & History/Lore - Wretches.md",
+    "100 Society/102 Lore & History/Lore - Hags.md",
+    "400 Meta/Framework - The Coastal Reckoning.md",
+    "100 Society/104 Cosmology/Cosmology - The Celestial Graveyard and The war of Creation.md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/worldbuilding-hags-wretches.diff",
+    "300 Iron & Marrow Master rules/aa_Master rules/design-backlog.md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Iron World (Environmental rules).md",
+    "300 Iron & Marrow Master rules/aa_Master rules/Beasts Monsters Mutants (Bestiary).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Iron & Marrow - Rulebook.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Rulebook cut list (for approval).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Iron-and-Marrow-Rulebook.pdf",
     "300 Iron & Marrow Master rules/aa_Master rules/Metal meet Flesh (Combat Mechanics).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core Rules).md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Iron World (Environmental rules).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Play Test - The Unburied King.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/hag-batch-1.diff",
     "300 Iron & Marrow Master rules/aa_Master rules/Hardware (Equipment).md",
     "300 Iron & Marrow Master rules/aa_Master rules/The Marrow (Character Creation).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Soothing the soul (Downtime).md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Manipulating The Void (Spells).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Tools for the Nameless (GM Tools).md",
     "iron and marrow canon tracker.md",
     "300 Iron & Marrow Master rules/aa_Master rules/iron-marrow-character-sheet.pdf",
@@ -228,22 +236,15 @@
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/iron-marrow-character-sheet.html",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/iron-marrow-character-sheet.pdf",
     "300 Iron & Marrow Master rules/aa_Master rules/Play Test -  The Ledger House Job.md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Beasts Monsters Mutants (Bestiary).md",
     "100 Society/106 Sundry Items & Artefacts/The Shard-Blade.md",
     "100 Society/106 Sundry Items & Artefacts/The Brine-Glow Lanterns.md",
     "100 Society/106 Sundry Items & Artefacts/Mogwort.md",
     "100 Society/106 Sundry Items & Artefacts/Nightshade.md",
     "100 Society/101 Factions & Guilds/The Guild of Alchemists.md",
-    "100 Society/101 Factions & Guilds/Faction - The Civic Constabulary (The Coppers).md",
-    "100 Society/101 Factions & Guilds/Council of Five.md",
-    "000 Atlas/001 Regions & Continents/The Jagged Spine.md",
-    "000 Atlas/002 Cities & Settlements/Castle Iron-Spire.md",
-    "000 Atlas/002 Cities & Settlements/Divtown.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/powder-punk-batch-1.diff",
     "300 Iron & Marrow Master rules/aa_Master rules/Playtest - Temple of the Lost God",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/sim_output_v5.txt",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/sim_output_v4.txt",
-    "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/sim_output_v3.txt",
     "Untitled.canvas"
   ]
 }

@@ -16,6 +16,7 @@
 
 ## 🔮 The Rules of the World
 - **Cosmology:** [[Cosmology - The Great Fracture]] · [[Cosmology - The Celestial Graveyard and The war of Creation]]
+- **Creatures:** [[Lore - Hags]] · [[Lore - Wretches]]
 - **Calendar & Sky:** [[Framework - The Coastal Reckoning]]
 - **History:** [[History - The Broken Crown of Austhal]]
 
