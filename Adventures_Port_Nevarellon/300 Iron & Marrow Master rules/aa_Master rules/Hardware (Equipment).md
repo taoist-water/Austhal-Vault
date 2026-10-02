@@ -218,7 +218,7 @@ Requires a bladed or bludgeoning weapon, sanctified by a Priest of any Domain (f
 **Cold Iron Weapon** (weapon add-on) — 25 sp | Scarce
 Requires a weapon. Forged from iron worked pure of the impurities that make ordinary steel — heavier, softer, and murder on anything that isn't wholly of this world.
 - **Effect:** Bane (Fey). The wielder treats a Fey target's Wound Threshold as 1 point lower.
-- *Cold iron answers what is not wholly of this world by birth rather than by corruption — the Fey and their kin alone. **No Fey stat block exists in the Bestiary yet**, so this add-on is currently aspirational: buy it for the campaign you expect, not the one in the book.*
+- *Cold iron answers what is not wholly of this world by birth rather than by corruption — the Fey and their kin alone. Against **The Hag** and **The Hag Matriarch** (Bestiary) it does three jobs: the Bane above, stripping a **Glamour** on any hit, and refusing **Sister's Blood** — a Matriarch cannot pass a Cold Iron Wound to her coven.*
 
 **Sun Iron** (weapon add-on) — 40 sp | Rare
 Requires a weapon. Iron quenched at first light for nine consecutive dawns, then worked while the metal still holds the warmth.
