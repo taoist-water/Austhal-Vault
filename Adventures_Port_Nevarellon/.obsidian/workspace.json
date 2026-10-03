@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Society/101 Factions & Guilds/The Tidespoken Clergy.md",
+                "file": "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Iron & Marrow - Rulebook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Tidespoken Clergy"
+              "title": "Iron & Marrow - Rulebook"
+            }
+          },
+          {
+            "id": "27aa5d564a2aeaff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core Rules).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iron Core (Core Rules)"
             }
           }
         ],
@@ -56,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "activation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +101,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,11 +221,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "613dd05e7224a6ba",
+  "active": "2c9b83574a8b2381",
   "lastOpenFiles": [
     "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core Rules).md",
-    "100 Society/101 Factions & Guilds/The Tidespoken Clergy.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Iron & Marrow - Rulebook.md",
+    "100 Society/101 Factions & Guilds/The Tidespoken Clergy.md",
     "300 Iron & Marrow Master rules/aa_Master rules/claude - ledger house sim.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Beasts Monsters Mutants (Bestiary).md",
     "100 Society/102 Lore & History/Lore - Wretches.md",

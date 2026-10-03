@@ -117,9 +117,9 @@ When this happens on an unopposed check, the GM immediately applies one of the f
 
 - The Panic Reflex: The character realizes they have made a catastrophic error. They instantly suffer 1 point of Dissonant Stress, immediately ticking them closer to the Death Spiral.
 
-- The Momentum Drain: The sheer embarrassment or shock of the failure kills the party's forward drive. The party instantly loses 1 banked Momentum. If they have no Momentum to lose, the active character takes 1 Dissonant Stress instead.
+- The Momentum Drain: The sheer embarrassment or shock of the failure kills the party's forward drive. The character instantly loses 1 Momentum. If they have no Momentum to lose, the character takes 1 Dissonant Stress instead.
 
-- Catastrophic Exposure: If the roll was related to Stealth or Scouting, the failure is loud and undeniable. The character is completely exposed, and all enemies in the upcoming encounter gain Advantage on their opening Activation order rolls.
+- Catastrophic Exposure: If the roll was related to Stealth or Scouting, the failure is loud and undeniable. The character is completely exposed, and all enemies in the upcoming encounter gain Advantage on their first rolls.
 
 **In an opposed Clash**, a Snake Eyes is an automatic loss of the Clash regardless of the actual total rolled, and the roller also suffers the Panic Reflex consequence (1 Dissonant Stress) on top of losing. This overrides any reroll effect that would normally apply to the roll (such as Finesse's natural-1 reroll) — a Snake Eyes can never be rerolled, by any means.
 
