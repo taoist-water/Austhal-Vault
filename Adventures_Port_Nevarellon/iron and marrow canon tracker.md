@@ -112,21 +112,27 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Kald Mountain Territory | Borders the Whispering Coast | Nothing established | Whispering Coast; Name Tables T4 #2 | **Template — gap; unplaced** |
 | The Wastelands | Within Austhal | Nothing established beyond Name Tables (Cinder Flats, Boneground; orcs born free there) | Austhal; Name Tables | **Empty file — gap** |
 | **The Twelgorn Kingdom (Tuwal Ghorun)** | Far south: marsh fringe → subject coast → steppe → native belt → plateau ranges | Realm named for its bound god; ruled by the Al Ghorun, chosen by surviving the Blessing; overland trade empire with a slave-built navy; keeps the exiled royal line and the Unaging Heir | The Twelgorn Kingdom.md (**NEW 2026-09-28**, draft); History; 10 referencing files | Capital, natives, plateau and travel times still to be named/set |
-| Port Nevarellon | Free City on the Whispering Coast | ~35,000 people (doubles in spring); five districts; the only T3 on the coast; one of the Three Wondrous Markets | Port Nevarellon.md | — |
-| The High Quarter | District, northern limestone cliffs | Old nobility; cisterns; the Plumb Court | Port Nevarellon | Dedicated file is a template |
+| Port Nevarellon | Free City on the Whispering Coast | ~35,000 people (doubles in spring); a crescent bay opening east, Sea-Wall across the mouth; five districts; the only T3 on the coast; one of the Three Wondrous Markets | Port Nevarellon.md | Layout set 2026-10-03 |
+| The High Quarter | District; top of the northern cliffs, seaward end | Old nobility (~2,500); cisterns; the Plumb Court; the Old Seat; Guild Chapter-House; Marrenhal, Vantry, Sallow | The High Quarter.md | **Written 2026-10-03** |
+| **The Old Seat** | Crown of the High Quarter cliffs | The King's palace; stormed 0 A.A.; empty since; nobody can take title to it | The High Quarter | **NEW 2026-10-03.** No file. GM hook: the Unaging Heir |
 | The Plumb Court | High Quarter | Windowless hall of the Zenith around the Register vault; has never burned | The Cult of the Zenith | No file — deliberate hook |
-| The Trade Plazas | District | Banking houses, guilds; Council Chamber; Council clerk-house (turn-roll) | Port Nevarellon; Council of Five | Dedicated file is a template |
-| The Sunken Ward | District | Poorest underclass; Corvus refugee descendants; parent of the Muddy Docks and Cinder Row | The Sunken Ward.md | — |
+| The Trade Plazas | District; rising ground between the cliffs and the bay head | The middling city (~8,000): the Plazas proper (Council Chamber, High Courts, clerk-house, guild-halls, banks, Harbour Master's tower, Gull Market), the Merchant Quarter, the Artisan Quarter | The Trade Plazas.md | **Written 2026-10-03** |
+| The Merchant Quarter | Trade Plazas, behind the toll-gate from the Docks | Merchants' houses; Kress's house | The Trade Plazas; Kress; Economy | Named in canon before the district note |
+| **The Artisan Quarter** | Trade Plazas | Masters, journeymen, shops, stamp-rent counters; Alfric's townhouse | The Trade Plazas; Alfric | Named in canon (Alfric) before the district note |
+| The Sunken Ward | District; the bay head, lowest ground | Poorest underclass (~14,000); Corvus refugee descendants; parent of the Muddy Docks and Cinder Row | The Sunken Ward.md | — |
 | The Muddy Docks | Neighbourhood in the Sunken Ward | Stilt/boardwalk sprawl; Iron-Anchor territory; Crate Court | The Muddy Docks.md | Tagged `#location/district` — see tier tags item |
 | Cinder Row | Neighbourhood in the Sunken Ward | Inland refugee tenements; fading elder-councils | The Sunken Ward | **Intentional stub** |
-| The Foundry Slips | District | Shipyards, smokehouses, refineries; Thole Yards; the bad curtain-wall section | Port Nevarellon; Marcian Thole | Dedicated file is a template |
-| The Great Anchor Basin | District / harbour | The coast's only deep-water port; Landed zone; Golden Company garrison; 20–40 deep-water keels registered | The Great Anchor Basin; Wondrous Markets | — |
+| The Foundry Slips | District; south shore of the bay | Working (~8,000): Thole Yards, rope-walk, smokehouses, licensed refineries, Rusty Anchor Foundry; the weak wall | The Foundry Slips.md | **Written 2026-10-03** |
+| **The debtors' hulks** | Moored off the Foundry Slips | The debt-prisons, afloat; debtors rowed ashore daily to work the yards | The Foundry Slips | **NEW 2026-10-03** |
+| The Concord Gate | Landward wall | Where the Ducal Concord Road leaves the city northward | Port Nevarellon | **NEW 2026-10-03** |
+| Burial grounds · nitre-yards | Outside the landward wall, downwind of the Slips | The Ashen Veil's grounds and paupers' pits; the Guild's saltpetre heaps | The Foundry Slips; The Guild of Alchemists | **NEW 2026-10-03** |
+| The Great Anchor Basin | District / harbour; deep water under the High Quarter cliffs | The coast's only deep-water port (~2,500 residents, half of them Company); Landed zone; Golden Company garrison; 20–40 deep-water keels registered | The Great Anchor Basin; Wondrous Markets | — |
 | The Sovereign's Gate | Great Anchor Basin | Golden Company HQ and toll-keep | The Golden Company | — |
 | The Rusty Tankard | Great Anchor Basin | Tavern / Cobalt Feather dead-drop run by Kaleb (she/her) | The Rusty Tankard.md | Basin policing = Golden Company patrols |
 | The Shades | Muddy Docks | Brothel/black bank in a grounded carrack; Dolly Sisters | The Shades.md | **Deed contested** — Garrick holds a second deed |
 | The Black Mast Warehouse | Northern wharf, Muddy Docks | Iron-Anchor HQ; Garrick's and Maeve's residence | Iron-Anchor; Garrick; Maeve | **Empty file — gap** |
 | The Drowned Rat Tavern | Muddy Docks | Maeve's hidden ledger office | Iron-Anchor; Muddy Docks | **Empty file — gap** |
-| The Rusty Anchor Foundry | District unclear | Silas Bane's base above the fighting pits | Silas Bane | No file |
+| The Rusty Anchor Foundry | Foundry Slips | Silas Bane's base above the fighting pits | Silas Bane; The Foundry Slips | No file. District **set 2026-10-03** |
 | Low-Tide Market · Slipway Seven · Brine-Glow Depot | Muddy Docks | Mudflat bazaar · drydock · lantern workshop | The Muddy Docks | No files — minor |
 | The Sea-Wall & Tide-Wards | City breakwater | Breakwater; eroding basalt monoliths stabilise the bedrock | Port Nevarellon | — |
 | **The Guild Chapter-House** | Seaward edge of the High Quarter cliffs | Guild of Alchemists licence office and court; rooftop observatory and instrument room (Low Moons tables) | The Guild of Alchemists; Coastal Reckoning | **NEW 2026-09-29.** No file |
@@ -249,6 +255,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Centuries before settlement | The Binding; Tuwal Ghorun founded | The founders bind a Reach-aligned god-remnant; the realm counts its years from this | Tuwal Ghorun | The Twelgorn Kingdom; Coastal Reckoning |
 | A few centuries ago | Settlement of the Whispering Coast | Settlers flee a decaying empire elsewhere on Austhal; a King and five Dukes | Five houses | History; Coastal Reckoning |
 | Pre-Accord | Spine Aqueduct built | Built when the coast was one realm | The Crown | Three Layers |
+| Pre-Accord (the reign of the kings) | Elara's plague | The plague of Mother Elara of the Mud; quarantine on the mudflats at the bay head | Weeping Martyr | Religion; **dated 2026-10-03** (TheTao) |
 | Civil War | Marten's Cross | Commons crucify a self-proclaimed king — the King-Ban predates the Accord | Marten | Name Tables |
 | Civil War, final year (~−1 A.A.) | Thalass | A rogue wave breaks a fleet of the King's armada sortieing against the Company's blockade; a Low Moons by the Guild's reckoning | Tidespoken; Golden Company | The Tidespoken Clergy |
 | −20 A.A. | Dray arrives at the coast | Takes a Copyist's bench at 40 | Merrit Dray | Keeper Merrit Dray |
@@ -394,7 +401,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
   - Locations: Castle Iron-Spire · The Great Expanse (duplicate — delete) · Wastelands · Untitled (identify or delete) · The Drowned Rat Tavern · The Black Mast Warehouse
   - Items: Nightshade · Sun-Iron · The Brine-Glow Lanterns · The Shard-Blade
   - Cast: Bruiser Ben
-- **Unfilled templates:** The Jagged Spine · The Kald Mountain Territory · Ubaraz Kingdom · The High Quarter · The Trade Plazas · The Foundry Slips · Valerius Family. Austhal and Whispering Coast are partial.
+- **Unfilled templates:** The Jagged Spine · The Kald Mountain Territory · Ubaraz Kingdom · Valerius Family. Austhal and Whispering Coast are partial.
 - **Wanted links (notes not yet written):** Zafira Al Munn · Eldrick / Imaihil / Sheandri De Vonce · Ellenst Rulieone · Oakhaven Cove · The Shield Atolls · The Broken Spires · Captain Vesper Locke · The Low-Tide Market · Slipway Seven · The Brine-Glow Depot · The Rusty Anchor Foundry · Halcus Rive.
 - **Obsolete copies to archive:**
   - Inside the vault: `drafts/draft_iron-and-marrow-canon-tracker*.md` and `drafts/iron-and-marrow-canon-tracker.md`, plus the `Batch * review - diff.md` files.

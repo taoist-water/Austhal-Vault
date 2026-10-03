@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core Rules).md",
+                "file": "100 Society/101 Factions & Guilds/The Tidespoken Clergy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Iron Core (Core Rules)"
+              "title": "The Tidespoken Clergy"
             }
           }
         ],
@@ -206,8 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53f301920b2a082b",
+  "active": "613dd05e7224a6ba",
   "lastOpenFiles": [
+    "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core Rules).md",
     "100 Society/101 Factions & Guilds/The Tidespoken Clergy.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Iron & Marrow - Rulebook.md",
     "300 Iron & Marrow Master rules/aa_Master rules/claude - ledger house sim.md",
@@ -223,7 +224,6 @@
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Rulebook cut list (for approval).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Iron-and-Marrow-Rulebook.pdf",
     "300 Iron & Marrow Master rules/aa_Master rules/Metal meet Flesh (Combat Mechanics).md",
-    "300 Iron & Marrow Master rules/aa_Master rules/Iron Core (Core Rules).md",
     "300 Iron & Marrow Master rules/aa_Master rules/Play Test - The Unburied King.md",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/hag-batch-1.diff",
     "300 Iron & Marrow Master rules/aa_Master rules/Hardware (Equipment).md",

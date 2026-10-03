@@ -13,6 +13,8 @@ Step 4: Select 2 Feats.
 Step 5: Outfit the character.  
 	- **80 sp to spend.** See *The Starting Purse* below.
     - The Party Community Supply Die starts at a **d8** (a d10 is the restocked ceiling, not the starting state — see *Hardware*).
+Step 6: Decide who they are beneath the numbers.
+	- One prompt from each of the four tables in *Beneath the Numbers* below — rolled or chosen.
 
 ## The Starting Purse
 
@@ -32,6 +34,57 @@ You begin with **80 silver pieces** and buy your own kit from Hardware. There is
 **Grip still constrains the loadout.** The purse governs what you can *afford*; the Grip rules in Hardware govern what you can *hold*. Two 1-Handed items, or one 2-Handed item — a Greatsword leaves no hand for a shield, and a Grimoire must be wielded in one hand with the other free to cast without penalty.
 
 > **A note on the trade.** 80 sp buys a Chain Shirt and very little else, or it buys a Gambeson and a workshop's worth of rope, lockpicks, oil, and caltrops. Armour is roughly two-thirds of any heavily-armoured kit, and every point of Wound Threshold you buy is bought with something you now do not own. That is the intended shape of the choice. A character who walks out of Step 5 with nothing left over has made a real decision, not a mistake.
+
+## Beneath the Numbers
+
+A character sheet says how someone survives. It does not say why they bother. Before play, roll a d6 on each table below or simply choose — one line from each. Rework the wording until it sounds like your character rather than the book, then write all four on your sheet and read them aloud to the table.
+
+These are hooks, and they belong to the GM as much as to you. A debt will be called in, a secret will come close to the surface, and someone from your past will turn up at the worst possible moment. That is the point.
+
+**Motivation to Survive**
+
+| d6 | Why they keep breathing |
+|---|---|
+| 1 | Someone is buying your sister's freedom one silver at a time. The price went up again. |
+| 2 | You swore over a grave that the one who put them in it would die first. They are still breathing. |
+| 3 | You owe people who collect in fingers. If you die, the debt passes to your family. |
+| 4 | You have seen what waits on the other side. You are not ready to meet it. |
+| 5 | A child somewhere has your eyes and does not know your name. You mean to keep them safe from a distance. |
+| 6 | Spite. The world has tried to kill you a dozen times, and you will not give it the satisfaction. |
+
+**Connection to the World**
+
+| d6 | Who, or what, still holds them |
+|---|---|
+| 1 | You served in a company that broke and ran. The survivors still meet once a year. Fewer come each time. |
+| 2 | A temple raised you on charity. It has never let you forget it, and one day it will ask to be repaid. |
+| 3 | A fence buys whatever you bring her and asks no questions. She knows exactly where every piece came from. |
+| 4 | You buried your whole village in a single season. You are the last who remembers its name. |
+| 5 | Your old mentor taught you everything, then sold you out to save himself. He is still alive, and still respected. |
+| 6 | You carry a dead friend's letters, one for each person he wronged. You have delivered two. |
+
+**Deeply Held Secret or Shame**
+
+| d6 | What they would kill to keep buried |
+|---|---|
+| 1 | You ran, and someone died in your place. Everyone believes you were the one who stayed. |
+| 2 | The name you go by belonged to someone else. You took it from their body. |
+| 3 | You sold your own people out for coin. The coin is long gone. The people are not. |
+| 4 | Something answered once when you prayed. You have never told anyone what it asked for in return. |
+| 5 | The first time you killed, you enjoyed it. You have spent every day since afraid it will happen again. |
+| 6 | You informed for the authorities. Somewhere a ledger has your name beside the people who hanged. |
+
+**How They See the World**
+
+| d6 | What they believe, whether or not it is true |
+|---|---|
+| 1 | Everyone has a price. You just haven't found theirs yet. |
+| 2 | Mercy is a debt the weak can never repay. You give it anyway — and you keep count. |
+| 3 | The gods are listening, and they do not care. Act accordingly. |
+| 4 | Hope gets people killed. Plan for the worst; you will rarely be disappointed. |
+| 5 | Rot, blood and the grave come for everyone, so you might as well get the last laugh. |
+| 6 | Trust is paid for in blood. Until someone has bled for you, they are only standing nearby. |
+
     _____________________________________________________________________
 # Species
 

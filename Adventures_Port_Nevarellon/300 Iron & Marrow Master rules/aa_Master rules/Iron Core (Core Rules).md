@@ -35,15 +35,15 @@
 - **Snake Eyes (natural 2):** Automatic failure. The character immediately suffers 1 Stress, and additional contextual penalties.
 - **Desperate Edge is not a universal Core Rule.** A lone natural 6 on a 2d6 check is just a 6 — no exploding die — unless the roller has the **Desperate Edge** Feat (Tier 1, see The Marrow, Feats). A character without that Feat gets nothing extra here, no matter how desperate their situation is.
 
-## The Margin-Focused Resolution (Unopposed Checks) (dev note) this needs revison, we have moved away from the universal TN 8 unoopsed check(/dev note)
+## The Margin-Focused Resolution (Unopposed Checks)
 
 Instead of artificially inflating the Target Number to combat high modifiers, we accept that highly skilled characters will succeed at standard tasks. The dice roll dictates the collateral damage, the speed, or the Momentum generated.
 
-The Universal TN 8 Baseline Whenever a player makes an unopposed roll (like picking a lock, tending to a wound, or deciphering a grimoire), the Target Number is always 8.
+**TN 8 is the default.** Whenever a player makes an unopposed roll (like picking a lock, tending to a wound, or deciphering a grimoire), the Target Number is 8 unless something sets it higher or lower. Rules can and will override it: the GM may set TN 10 or 12 for a harder task (see *Tools for the Nameless*), and spellcasting sets its TN by the spell's Level (see *Embracing the Abyss*). When a rule names its own TN, use that number everywhere below; when it names none, use 8.
 
-The Resolution Ladder You calculate the Margin (Total Result - 8) and apply the outcome:
+The Resolution Ladder You calculate the Margin (Total Result - TN) and apply the outcome:
 
-- Failure (Total 7 or less): The task fails outright. Time is wasted, and a consequence triggers (e.g., the lock picks snap, or you take 1 Dissonant Stress from frustration).
+- Failure (Total below the TN): The task fails outright. Time is wasted, and a consequence triggers (e.g., the lock picks snap, or you take 1 Dissonant Stress from frustration).
     
 - Messy Success (Margin 0–2): You accomplish the task, but it costs you. You pick the lock, but it takes 10 minutes and your torch burns out. You forge the armour, but you must spend an extra 5 Silver Pieces on wasted materials.
     

@@ -9,6 +9,8 @@
 
 ## 🏙️ District Profile
 - **Settlement:** [[Port Nevarellon|Port Nevarellon]]
+- **Position:** The bay head — the lowest ground in the city, where the River Aer's silt settles. The Muddy Docks stand over the mudflats, and Cinder Row lies inland behind them, against the landward wall. The Merchant Quarter gate into [[The Trade Plazas]] is its border with the better city.
+- **Population:** ~14,000 — the largest district by far.
 - **Social Stratum:** Squalid/Slums — the city's most impoverished and least-documented population, overwhelmingly Un-Landed.
 - **Architecture & Infrastructure:** Two distinct zones stitched together by shared poverty rather than shared architecture: the waterfront sprawl of stilt-housing and boardwalks that make up [[The Muddy Docks|The Muddy Docks]], and the older, inland tenement blocks — collectively known as **Cinder Row** — thrown up in a hurry fifty years ago to absorb the flood of refugees fleeing the [[The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|Corvus Scar]].
 

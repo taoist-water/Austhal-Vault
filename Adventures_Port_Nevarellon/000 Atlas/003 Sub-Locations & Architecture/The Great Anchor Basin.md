@@ -8,6 +8,8 @@
 ## 🗺️ District Overview
 If [[The Muddy Docks]] represent the chaotic, rotting underbelly of Port Nevarellon's maritime trade, **The Great Anchor Basin** is its cold, clinical, heavily fortified heart. This massive, deep-water harbor was engineered during the early days of the old kingdom to accommodate deep-draft, ocean-going carracks and heavy military galleons from far-off continental empires. 
 
+**Position:** the seaward end of the bay, in the deep water under [[The High Quarter]]'s cliffs. Stairs and a single cart-road climb to the Quarter, and [[The Trade Plazas]] lie inland. The Sovereign's Gate stands at its entrance. About 2,500 people live here, roughly half of them Company soldiers.
+
 Unlike the sinking wooden boardwalks of the slums, the Basin is lined with massive, interlocking granite seawalls engineered with assistance from [[Ubaraz Kingdom]]. It commands the strategic gateway out of [[The Great Expanse|The Great Expanse]] — the sheltered inner sea lying between Austhal's mainland and the Shield Atolls — and onward through the Atoll Shallows to the open-ocean trade routes of **The Broken Ocean** beyond.
 
 ---

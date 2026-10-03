@@ -6,6 +6,7 @@
 ## 🏙️ District Profile
 - **Settlement:** [[Port Nevarellon|Port Nevarellon]]
 - **Ward:** [[The Sunken Ward|The Sunken Ward]] — Muddy Docks is the Ward's waterfront neighborhood and economic engine.
+- **Position:** The tidal mudflats at the bay head, where the Aer's silt comes to rest. Its northern wharf meets the Merchant Quarter gate into [[The Trade Plazas]], and its southern edge runs into [[The Foundry Slips]].
 - **Social Stratum:** Working Class, Transient Sailors, Squalid Dregs
 - **Architecture & Infrastructure:** A massive, chaotic sprawl built almost entirely out of damp timber. Tenements and warehouses sit precariously on barnacle-encrusted stilts over the tidal mudflats. The walkways consist of buckled wooden boardwalks, rope bridges, and repurposed hulls of broken ships that act as permanent floating platforms.
 

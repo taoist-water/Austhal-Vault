@@ -226,7 +226,7 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 6 | The Reading of the Silence | Civic | Coast-wide | Public recitation of the King-Ban clause, word for word |
 | 7 | The Contract Bell | Civic | Port Nevarellon | Rung once per year remaining on the 99-Year Contract. The count is getting short |
 | 8 | First Keel | Trade | Basin, dockers | First deep-water arrival of spring; the year's wages start here |
-| 9 | The Gull Market | Trade | Trade Plazas | Spring trade season opening; population doubles |
+| 9 | The Gull Market | Trade | Trade Plazas | Spring trade season opening; population doubles → *canon tie: The Trade Plazas* |
 | 10 | Lastwater | Civic | Port Nevarellon | Cisterns measured publicly; the price of water is set for the year |
 | 11 | The Held Pass | Rite | Cult of the Iron Horizon | Overnight vigil for Saint Senecus; no fire, no speech |
 | 12 | Maxim Night | Rite | Iron Horizon | Recitation of tactical maxims; used as officer initiation |
@@ -236,7 +236,7 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 16 | The Nullity Sitting | Legal rite | Cult of the Zenith | A claim is voided in public. Nothing is ever validated → *canon: Court of Nullity* |
 | 17 | The Quiet Hour | Rite | Cult of the Ashen Veil | Citywide silence. Even the Basin cranes stop |
 | 18 | Featherfall | Funeral rite | Ashen Veil | Standard coastal burial; feathers, no words |
-| 19 | The Pauper's Procession | Rite | Ashen Veil | Mass burial of the Sunken Ward's unclaimed dead. Free, always |
+| 19 | The Pauper's Procession | Rite | Ashen Veil | Mass burial of the Sunken Ward's unclaimed dead. Free, always → *canon tie: The Foundry Slips (the burial grounds)* |
 | 20 | The Rime Hunt | Festival | Cult of the Rime-Fang | Winter Moons hunt; the kill is given away, never eaten by the hunter |
 | 21 | Bare-Teeth Night | Rite | Rime-Fang | Coming-of-age; a night outdoors in the Winter Moons with nothing |
 | 22 | Elara's Walk | Festival | Cult of the Weeping Martyr | Plague remembrance. Free medicine distributed in the Docks — *mote of hope* |
@@ -249,7 +249,7 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 29 | Moonmeat Night | Folk | Rural coast | Livestock slaughtered before the Low Moons rather than risk what the light does |
 | 30 | The Sleet Vigil | Folk | Northern coast | Winter Moons; households keep a light burning for anyone still on the road |
 | 31 | The Widow's Wage | Labour | Dockers | Collection for families of the year's dead. Enforced socially, not legally |
-| 32 | Boot-Change | Labour | Foundry Slips | Annual stevedore hiring day; the whole year decided in a morning |
+| 32 | Boot-Change | Labour | Foundry Slips | Annual stevedore hiring day; the whole year decided in a morning → *canon tie: The Foundry Slips* |
 | 33 | The Long Ledger | Labour | Un-Landed | Informal debt reckoning; who owes whom, publicly stated |
 | 34 | Hollow Bread | Folk | Port Nevarellon | Famine remembrance; one day eating what was eaten then |
 | 35 | The Crate Court | Folk | Muddy Docks | Syndicate-tolerated street arbitration. Verdicts stick |
