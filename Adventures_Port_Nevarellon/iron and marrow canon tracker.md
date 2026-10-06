@@ -14,6 +14,17 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-06 — The Weeping Martyr
+- **New faction note (draft):** The Cult of the Weeping Martyr, written in-world.
+- **Ground truth (GM-facing):** the Domain of Mercy is the remains of a vain, hungry Creator — the Mother — who fed on its worshippers. The cult believes the inverse: mercy as suffering borne for others. Placed in the Celestial Graveyard among the Alliance.
+- **Elara's body was never recovered** — the faithful say she was "taken into Mercy". Her fate is a GM hook.
+
+### 2026-10-06 — Two voices: ground truth and in-world belief
+- **New standing rule** (see Standing design rules): ground truth is GM-facing; faction, location and people notes speak in-world.
+- **Re-voiced:** Religion (what the cults teach vs. what a Domain is); The Tidespoken Clergy (the Tongues believe the Brine Mother is alive and listening — the earlier "she is not a god" line was a ground-truth leak); The Twelgorn Kingdom (what its people believe vs. what Tuwal Ghorun is; "war-bred" moved out of the body); History (the forgotten Deicide is now a GM-facing callout); Captain Haren Twarde (the banner's mechanism).
+- **Banners added:** the two Cosmology notes and Coastal Reckoning (ground truth / GM-facing framework); Lore - Hags and Lore - Wretches (GM reference).
+- **Retracted:** the "old empire" wording in the Religion note is *not* a leftover — History has the settlers fleeing "a decaying empire" elsewhere on Austhal.
+
 ### 2026-10-02 — Hags and Wretches
 - **Two new notes (draft):** `Lore - Hags` and `Lore - Wretches` (100 Society/102 Lore & History). Expand the Slack-Born section of the Great Fracture; add Wretches to the world.
 - **Hags root only in still water, or where it used to be:** Bog (fen), Brine (sheltered reef and lagoon — never open sea), Briar (drowned woodland), Mirage (dried tarn, salt pan).
@@ -70,6 +81,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 - **"-Spire" convention:** a spire is the natural formation, and a seat cut into it takes its name. Apply this to any future seat.
 - **Layers sort by reach, not rank** (Framework - The Three Layers). Every new entity gets a Layer and the five fields.
 - **Motes of hope:** grimdark stakes with small motes of hope. Write "none, deliberate" rather than leaving a mote blank.
+- **Two voices — ground truth vs. in-world belief.** Cosmology and framework notes are ground truth and open with a GM-facing banner; no one in Austhal knows them whole. Faction, location and people notes are written in-world — what people believe, practise and claim — and may be wrong. Ground truth inside an in-world note goes only in `> **GM-facing.**` callouts. Miracles are real; each cult's explanation of them is its own. Folk vocabulary (*god-shard*, *the Undertow*, *Undertow-touched*, *the Heavens*) is in-world and fine; the Deicide, the War of Creation, what Domains and moons really are, and that the monstrous races were made as weapons are not common knowledge. Epigraphs from ancient fragments and fringe scholars may glimpse the truth; ordinary people do not.
 - **Naming registers A–F** (Reference - Name Tables). The register is the class marker.
 
 ---
@@ -167,6 +179,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Wyvern Tail Pirates | Greywater Lagoon | Disciplined commerce raiders under Haren Twarde; prey on the Twelgorn navy | 2–3 | The Wyvern tail Pirates.md | — |
 | The Grey Water Pirates | Greywater Lagoon | "Informal coalition" of independents | — | Greywater Lagoon.md | **Overlap with Wyvern Tail unresolved.** Speaker: Captain Vesper Locke |
 | The Tidespoken Clergy | Lower piers, Sea-Wall | Sea & Storms; the Brine Mother ("she takes, in turn"); kitchens fed by the Mother's share; kitchen-truce; Lamp-Readers' tide-tables and the free Low Moons warning; burn hags and the hag-made — whom they can reach; hold no title | 3 (hand on half the calendar) | The Tidespoken Clergy.md; Religion; Muddy Docks; Sunken Ward; Coastal Reckoning; Lore - Hags; Morgran | **File drafted 2026-10-02.** Eldest Tongue unnamed |
+| **The Cult of the Weeping Martyr** | House of Mercy (Artisan Quarter); Elara's Steps (Muddy Docks mudflats) | Healing order: the laying-on, Elara's Walk, the Taking-On; Weepers in white; heals the poor free, the Landed for fees. **GM:** the current takes years and vigour from the healed and feeds them to the healer | 3 | The Cult of the Weeping Martyr.md; Religion | **File drafted 2026-10-06.** Eldest Mother unnamed. GM hook: Mother Elara's fate |
 | Cult of the Crooked Coin | Docks, underworld | Trickery; Rook's Folly; the patron of beating rigged systems | 3 | Religion; Lidda Shoon; Wondrous Markets | Recommended as the Struck City's thieves' cult (not yet applied) |
 | House De Vonce | Duchy of De Vonce | Ruling house; iron and levies | 1 | Tythius; Five Duchies | Children unwritten |
 | House Valerius | Duchy of Valerius | Syndicate with a coronet | 1 | Five Duchies | No named members |
@@ -235,7 +248,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Aurelius the Architect | Law — the Zenith | Unifier-warlord; *Meditations on Law* | High Quarter; the Zenith | Religion; The Cult of the Zenith |
 | Vael the Mute | Death — Ashen Veil | Death as mercy | Pauper's Procession | Religion |
 | Kaelen the Survivor | Winter & Wilds — Rime-Fang | Winter-drake hunter | Pilgrim's Notch (Name Tables) | Religion |
-| Mother Elara of the Mud | Mercy — Weeping Martyr | Absorbed the plague-dying's rot | Elara's Walk | Religion |
+| Mother Elara of the Mud | Mercy — Weeping Martyr | In-world: absorbed the plague-dying's rot and was "taken into Mercy" (body never recovered). **GM:** she fed on the quarantine | Elara's Walk | Religion; The Cult of the Weeping Martyr |
+| **The Mother** *(GM-facing)* | The Creator behind the Domain of Mercy | Made vain and hungry by the Naming; sided with the Alliance to feed on individuated selves; Ego = the loving Mother, Id = the appetite | Unknowingly, the Weeping Martyr | Celestial Graveyard; The Cult of the Weeping Martyr |
 | Thalass's Omen | Sea & Storms — Tidespoken | The rogue wave that broke a fleet of the last King's armada at the harbour mouth, in the final year of the Civil War | The Tidespoken Clergy | Religion; The Tidespoken Clergy |
 | The Sun | Corpse of a primary Creator | Ceases to exist at night and returns somewhere else; no solar bearings | — | Celestial Graveyard; Coastal Reckoning |
 | The Pale Sister (Nyssaria) · The Drowned Lamp (Ossuel) · The Slow Wound (Cassivar) | Moon-corpses; 28 / 40 / 105-day cycles; **their own glow** | Set the calendar, the tides and the Low Moons respectively; winter is their weight | — | Coastal Reckoning |
@@ -312,6 +326,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | **The Undertow / Undertow-touched** | Lowest layer / adjective for taint and property. **"Frequency" is retired** | Throughout | — |
 | Slack-Born | Fey; god-essence that quickened in still water | Great Fracture; Morgran | Hags statted; other fey `needs crunch` |
 | The Brine Mother | The Tidespoken's name for the ocean; its teaching makes hags abominations | Lore - Hags; The Tidespoken Clergy | — |
+| The laying-on · the golden tears · the Taking-On | Martyr healing by drawing hurt into the healer · the gold the healer weeps · the vow to take a whole affliction | The Cult of the Weeping Martyr; Name Tables | `needs crunch` — see the cult note's Rules Flags |
+| Weepers · the Eldest Mother · the House of Mercy · Elara's Steps | Martyr healing priests · the cult's head · its hospice in the Artisan Quarter · its stair onto the mudflats | The Cult of the Weeping Martyr | — |
 | The tide's turn | The Tidespoken teaching: everything moves, everything is taken in its turn | The Tidespoken Clergy | — |
 | Tongues · the Salt · the Eldest Tongue · Lamp-Readers | Tidespoken priests · the faithful · the longest-serving Tongue, who speaks for the clergy · keepers of the tide-tables on the Sea-Wall | The Tidespoken Clergy | — |
 | The Mother's share · the kitchen-truce | One fish from every boat landing at a Tidespoken pier · no blade drawn within sight of the pot | The Tidespoken Clergy | — |
@@ -391,6 +407,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - ~~Fey and hag stat blocks~~ — **hags and Wretches statted 2026-10-02**; other fey still open
 - Hag uprooting at the Low Moons; what a coven can change beyond protecting its mother
 - Tidespoken casting (Thalass's Omen)
+- Weeping Martyr healing: wound/pain transfer, the hidden cost in the patient's years and vigour, the healer's longevity, the Taking-On, the golden tears as a tell (full list in The Cult of the Weeping Martyr § Rules Flags)
 - Settlement Tiers
 - Faction power levels (every faction is currently "not defined")
 

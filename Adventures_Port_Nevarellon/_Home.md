@@ -11,7 +11,7 @@
 - **Governance:** [[Council of Five]] · [[The Golden Company]] · [[The Cult of the Zenith]] · [[Law - The Council's Edicts]]
 - **Underworld:** [[The Iron-Anchor Syndicate]] · [[The Cobalt Feather Syndicate]] · [[The Wyvern tail Pirates]]
 - **Guilds & Watch:** [[The Guild of Alchemists]] · [[Faction - The Civic Constabulary (The Coppers)|The Civic Constabulary]]
-- **Faith:** [[Religion - The Pagan Pantheon and the Faith Domains]] · [[The Tidespoken Clergy]]
+- **Faith:** [[Religion - The Pagan Pantheon and the Faith Domains]] · [[The Tidespoken Clergy]] · [[The Cult of the Weeping Martyr]]
 - **Economy:** [[Economy - the Price of Survival]] · [[Reference - The Wondrous Markets]]
 
 ## 🔮 The Rules of the World

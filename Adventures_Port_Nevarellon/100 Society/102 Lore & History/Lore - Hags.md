@@ -3,6 +3,8 @@
 
 > "Hags always agree. That's the whole trouble with them." — Morgran "Fin" Deep-Draught, to a client who asked
 
+> **GM reference.** Ground truth, except where marked as what people say. What the coast actually knows is in the sayings, the marsh-folk's habits and the hunters' reasons.
+
 ---
 
 ## 🌿 What a hag is

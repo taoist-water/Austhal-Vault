@@ -68,7 +68,7 @@ Built entirely from existing tools — no new subsystem. The Watch's job is to b
 Standard opposed check: Passive Notice (7 + Notice) or an active Notice roll vs. the party's Stealth (2d6 + Stealth).
 
 ### Stage 1 — Alerted
-Triggered by a failed Stealth check, a loud fight, or Catastrophic Exposure. A whistle or bell sounds. No stat block appears yet. **Mechanical effect:** every further Stealth attempt this scene takes the existing **Difficult (-2) Situational Modifier** — patrols are now actively listening, not idly patrolling.
+Triggered by a failed Stealth check, a loud fight, or Catastrophic Exposure. A whistle or bell sounds. No stat block appears yet. **Mechanical effect:** every further Stealth attempt this scene is made at **Disadvantage** — patrols are now actively listening, not idly patrolling. *(Stealth here is an opposed check against Passive Notice, so there is no TN to raise.)*
 
 ### Stage 2 — Pursuit
 The Sergeant and 2 Patrolmen physically close in.

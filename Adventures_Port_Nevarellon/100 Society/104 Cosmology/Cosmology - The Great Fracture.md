@@ -3,6 +3,8 @@
 
 > "We killed the anchors of the world to steal their sky. Now we drift on a broken plate, looking out into nothing, while the ghosts of our creators scratch at the edges of reality to get their bones back." — Ancient Elven Fragment, Year Unknown
 
+> **Ground truth — GM-facing.** No one in Austhal knows this whole. What survives in the world is ruins, bones and fragments like the one quoted above. For what people actually believe, see [[Religion - The Pagan Pantheon and the Faith Domains]] and the faction notes.
+
 ---
 
 ## 🌌 The Primordial State: The Sphere

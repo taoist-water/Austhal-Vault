@@ -7,9 +7,9 @@
 
 ## 🗺️ The Continental Scope: Austhal
 The known world for the mortal races in this sector of the Infinite Disk is the vast continent of **Austhal**. 
-- Centuries have passed since the breaking of the cosmic sphere. 
-- The truth of the deicide, the shattering of the Sphere into the Tideways, and the cosmic war has completely faded out of mortal memory. 
-- Today, that ancient era exists only as unmapped ruins, petrified bones deep in the earth, and fragmented lore pieced together by fringe philosophers, explorers, and radical religious sects.
+To the people of Austhal, the deep past is ruins, bones and rumour.
+
+> **GM-facing.** Centuries have passed since the breaking of the cosmic sphere. The truth of the deicide, the shattering of the Sphere into the Tideways, and the cosmic war has completely faded out of mortal memory. Today that ancient era exists only as unmapped ruins, petrified bones deep in the earth, and fragmented lore pieced together by fringe philosophers, explorers, and radical religious sects.
 
 ---
 

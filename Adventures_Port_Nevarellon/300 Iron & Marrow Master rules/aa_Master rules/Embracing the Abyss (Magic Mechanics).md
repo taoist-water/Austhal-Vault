@@ -17,7 +17,7 @@ Unopposed casting checks — the Margin of Manifestation roll, a Sustain check, 
 | Adept | 10 |
 | Master | 12 |
 
-This does not apply to Arcane Clash spells or any other opposed roll — both sides already scale together, so there's no static-TN problem to fix. It also does not apply to general skill checks outside of spellcasting; those remain governed by the GM Tools Situational Modifier system. A Sustain check always targets the TN of the specific spell being sustained.
+This does not apply to Arcane Clash spells or any other opposed roll — both sides already scale together, so there's no static-TN problem to fix. It also does not apply to general skill checks outside of spellcasting; those take their TN from the GM Tools difficulty ladder, which uses these same four rungs. A Sustain check always targets the TN of the specific spell being sustained.
 
 *(Note: Faith's Prayer tiers are Novice / Adept / Master, matching Arcana's naming exactly — the tier previously labeled "Apprentice" is renamed to Adept throughout, so both systems read off the same table above.)*
 

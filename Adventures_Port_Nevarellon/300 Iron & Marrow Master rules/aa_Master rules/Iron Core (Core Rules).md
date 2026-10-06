@@ -11,7 +11,7 @@
 - Bane effects (a flat reduction to a target's Wound Threshold against one specific Creature Type — see the Bestiary's Creature Types list) do not stack with each other against the same target; only the single highest Bane reduction applies. Bane reduces Wound Threshold before Impact is compared against it — this is a separate step from the Massive trait's Impact-halving, and the two apply independently rather than cancelling out.
 - **Attunement Locked Stress is absolute.** Locked Stress committed to an item's Attunement (see Hardware: Enchantments) **cannot be cleared, unlocked, converted, transferred, reduced or otherwise removed by any means whatsoever while the item remains attuned** — not by the Reprieve, a Long Rest, a Breather, Religious Pursuit, any Downtime Pursuit or any number of nights, any alchemical preparation, any Feat, any spell or Prayer, and not by any future effect that clears Locked Stress. **Breaking passes it over** rather than converting it to Dissonant. There is exactly one release: the item is **deliberately unattuned**. An attuned item costs a permanent slice of the character's Stress track, and that permanence is the entire price of the item.
 - Locked Stress paid for a Prayer that is currently **Flowing** cannot be targeted by the Reprieve or Religious Pursuit, and releases when the Prayer ends. Unlike Attunement it *is* reachable by alchemical override (Hardware, Alchemical Wares) — a Priest can force it open at a price, which is what those preparations are for. Locked Stress from a Prayer that has already resolved is clearable by the normal routes. Arcane **Sustain** commits no Locked Stress at all and is never subject to this rule.
-- Situational Modifiers are applied at GM’s discretion, +2, -2, -4.
+- Difficulty is the **TN** of the check — Easy 6, Standard 8, Difficult 10, Extreme 12 (see *Tools for the Nameless*). Where the *situation* rather than the task favours or hinders a character, the GM grants **Advantage** or **Disadvantage** instead; on an opposed roll that is the only lever, since no TN exists.
 - Advantage and Disadvantage do not stack. If you have multiple sources of Disadvantage, you still only roll 1 extra die and drop the highest. If you have both Advantage and Disadvantage, they cancel each other out entirely.
 - Wounds Threshold Bypassing effects cannot target creatures of Scale +3 or higher without a weapon carrying Devastating or Siege.
 
@@ -55,18 +55,18 @@ _____________________________________________________________________
 **Passive Notice**
 Not every threat announces itself with a die roll. When a character isn't actively searching — walking down a corridor, mid-conversation, sprinting through a firefight — the world still needs a number to test their awareness against, without pausing the game for a check nobody declared.
 
-**The Formula: Passive Notice = 7 + Notice**, modified by any applicable Situational Modifier (+2/-2/-4, per Tools for the Nameless).
+**The Formula: Passive Notice = 7 + Notice.** It is a static score: difficulty lives in the TN it is compared against, not in a modifier applied to it.
 
 The baseline of 7 (rather than a flat TN8) anchors Passive Notice to the statistical average of 2d6, keeping it consistent with the actual odds of an active roll. An unmodified character's Passive Notice sits just below TN8 — matching the fact that they'd fail an active TN8 check more often than not. Passive Notice should never make an untrained bystander more perceptive than a trained character actively rolling to look.
 
-***Advantage/Disadvantage Conversion:*** Because Passive Notice doesn't roll dice, sources of Advantage or Disadvantage on Notice checks (e.g. the Dwarf's Subterranean Senses, or the Whispers in the Dark feat) apply as a flat +2 or -2 to the Passive Notice score instead — consistent with the existing Situational Modifier scale (Advantageous = +2, Difficult = -2).
+***Advantage/Disadvantage Conversion:*** Because Passive Notice doesn't roll dice, sources of Advantage or Disadvantage on Notice checks (e.g. the Dwarf's Subterranean Senses, or the Whispers in the Dark feat) apply as a flat +2 or -2 to the Passive Notice score instead. *A static score has no dice to manipulate, so a flat value is the only option here — worth knowing it is the generous end of the trade, since rolled Advantage is worth about +1.5 and falls further behind a flat +2 the harder the TN.*
 
 ***The Winded Penalty:*** Passive Notice stands in for a roll, not an exemption from one. It takes the Winded `-1` or Breaking `-2` penalty whenever the character has one, exactly as an active roll would.
 
 **Resolution Modes:**
 
 *Opposed (detecting a person):* Compare Passive Notice directly against the sneaking creature's Stealth roll (2d6 + Stealth), or against a fixed Concealment Rating. This mirrors the existing Illusion/Disguise pattern of comparing a static value against a banked roll or Margin.
-*Unopposed (detecting a hazard or feature):* Passive Notice + Situational Modifier vs. TN8 flat.
+*Unopposed (detecting a hazard or feature):* Passive Notice vs. the hazard's TN — 8 by default, 10 or 12 where the GM has set the task harder.
 This mechanic resolves the Aware/Unaware fork in Iron World's Hazard Roll, the Bestiary's Ambusher trait, and the Cultist Assassin's Vanish ability — see those entries for specific application.
 
 _____________________________________________________________________

@@ -3,6 +3,8 @@
 
 > "The Guild says the year is eight hundred and forty days long and the Council says it is thirteen turns. Both are paid to be right. My rent is due on whichever one arrives first." — Muddy Docks proverb
 
+> **GM-facing framework.** The calendar, the seasons, the Low Moons and the moons' common names are common knowledge. What the moons *are* is not: the temples name them for what they *think* died up there (see [[Cosmology - The Celestial Graveyard and The war of Creation]]).
+
 ---
 
 ## 📐 What This Document Is For

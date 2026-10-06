@@ -3,6 +3,8 @@
 
 > "Look up at the sun and remember: we didn't just break the world. We left their corpses burning in the dark." — Archmage Vane
 
+> **Ground truth — GM-facing.** No one in Austhal knows this whole. What survives in the world is ruins, bones and fragments like the one quoted above. For what people actually believe, see [[Religion - The Pagan Pantheon and the Faith Domains]] and the faction notes.
+
 ---
 
 ## ☀️ The Sky of Remnants: Sun and Moons
@@ -27,6 +29,7 @@ Directly before the mortals executed their deicide, the cosmos experienced an **
 ```
 
 1. **The Wager:** By this point, individuation had already begun rotting the Sphere from within — the gods themselves were fracturing, naming, feeling. A number of creator gods, watching the eternal cycle they'd maintained since before memory begin to curdle, made a wager: better to let the mortals finish tearing it open and gamble on whatever came after, than watch the corruption spread forever. History remembers these gods, and the mortals who fought beside them, as **the Alliance** — but that name was given by the survivors, after the fact, to a coalition that was equal parts genuine hope and plain self-interest.
+   - **The Mother.** One of the wagering gods sided with the mortals for the plainest self-interest of all: individuation gave it selves to feed on. The Naming had made it vain and hungry. It demanded to be loved as a Mother, and it fed on those who loved it — their vigour, their health, their years. Its Ego was the face it required; its Id was the appetite. When the Tideways took the shape mortals remembered, its worshippers remembered the face, and its essence settled as the Domain the coast calls Mercy. The mask is what the faithful pray to. The appetite is what answers (see [[The Cult of the Weeping Martyr]]).
 2. **The Purge:** The opposing gods disagreed. To them, individuation was a disease to be excised, not a gamble worth taking — and they were willing to burn down everything mortal to save the Sphere from it. In the final years of the war they manufactured monstrous, hideous mortal beings, engineered purely as instruments of slaughter, and threw them at both the mortals and the "turncoat" gods without hesitation. History calls this side **the Weaponizers**, but at the time they almost certainly understood themselves as the last defenders of a dying perfection, not as villains.
 3. **The Legacy:** The "monstrous races" (orcs, goblins, chimeras, aberrations) are the descendants of those living weapons — beings built in desperation, for a war that ended before they had any say in it. They inherited none of their makers' cosmic convictions, only their bodies and the world's lingering suspicion of them. That the monstrous races are still widely assumed to be "naturally" savage or destructive is a mortal prejudice with a very old pedigree, not a metaphysical fact — the same mortals who mythologized this war into a clean story of Alliance against Weaponizers needed someone to cast as the monsters, and the orcs and goblins were simply the ones left standing to fill the role.
 

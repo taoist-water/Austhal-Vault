@@ -3,6 +3,8 @@
 
 > "The Silt doesn't kill you with a blade." — Morgran the Abomination. *What it does afterwards, he doesn't talk about.*
 
+> **GM reference.** Ground truth, except where marked as what people say. What the coast actually knows is in the sayings, the marsh-folk's habits and the hunters' reasons.
+
 ---
 
 ## 💀 What a Wretch is

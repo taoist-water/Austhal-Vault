@@ -131,7 +131,7 @@ Known vacancies, in priority order:
 
 **Membership test:** contained within a single settlement or district. Well-served by the existing Faction and Character templates.
 
-Populated: [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]], [[The Cobalt Feather Syndicate|Cobalt Feather Syndicate]], [[The Tidespoken Clergy|Tidespoken Clergy]], [[The Guild of Alchemists|Guild of Alchemists]] (Port Nevarellon chapter only — the parent Guild is cross-border and sits outside the Layers), [[Faction - The Civic Constabulary (The Coppers)|Civic Constabulary]], [[The Dolly Sisters|the Dolly Sisters]], [[Silas Bane|Silas Bane]], the Cinder Row elder-councils.
+Populated: [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]], [[The Cobalt Feather Syndicate|Cobalt Feather Syndicate]], [[The Tidespoken Clergy|Tidespoken Clergy]], [[The Cult of the Weeping Martyr|Cult of the Weeping Martyr]], [[The Guild of Alchemists|Guild of Alchemists]] (Port Nevarellon chapter only — the parent Guild is cross-border and sits outside the Layers), [[Faction - The Civic Constabulary (The Coppers)|Civic Constabulary]], [[The Dolly Sisters|the Dolly Sisters]], [[Silas Bane|Silas Bane]], the Cinder Row elder-councils.
 
 **The cross-layer rule — this is where the good stories are.** A Layer 3 entity that gets its hand on a Layer 1 chokepoint is the setting's most reliable plot generator. Silas Bane trying to seize the Brine-Glow monopoly is a Layer 3 gang reaching for municipal infrastructure. Garrick buying legal deeds is a Layer 3 crook acquiring Layer 1 legal standing one warehouse at a time. When you build a Layer 3 faction, always name which Layer 1 chokepoint it dreams about.
 

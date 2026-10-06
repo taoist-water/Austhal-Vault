@@ -11,19 +11,23 @@ Outside of combat, such as exploring the world or socially engaging actions are 
 Activation order is mainly used to provide order to the chaos of combat.  This ensures the resolution can be handled in an organised fashion.
 When  there is an action that requires some dice rolling it is usually against a [[TN]], the result determines the outcome of the action.  Sometimes these actions will be Opposed by an opponent, meaning dice are rolled, appropriate modifiers are added and compared to the roll of the opponent.  Whoever rolls highest wins.  Depending on the action taken could also determine how well or how poorly a character has performed in this opposed roll.
 ___________________________________________________________________
-**Setting Difficulty: The Static TN and Situational Modifiers** In _Iron and Marrow_, the Target Number for unopposed checks is generally **8** for a basic task. **TN 10, 12** can be used for more complex tasks as necessary. The Target Number reflects a complex/difficult task.
+**Setting Difficulty: The Target Number** In _Iron and Marrow_, difficulty is expressed as the **Target Number** of an unopposed check. The TN describes the *task*; it does not change with who attempts it.
 
-when the context or environment of a task is challenging or difficult, the GM can apply a **Situational Modifier** to the player's total roll. This preserves the Margin Scaler math while reflecting the harsh reality of the world:
+- **Easy (TN 6):** A task a competent person expects to manage. Climbing a knotted rope, haggling a willing merchant.
 
-- **Standard (+0):** The default state of the world. Picking a standard lock, leaping a small gap, translating common runes.
-    
-- **Advantageous (+2):** The player has superior tools, abundant time, or significant environmental help.
-    
-- **Difficult (-2):** The task is inherently complex, rushed, or opposed by the environment. Picking a Masterwork lock, climbing a sheer wall in the rain.
-    
-- **Extreme (-4):** The task borders on the impossible. Performing surgery mid-combat, deciphering a Dread entity's true name from a shattered tablet.
+- **Standard (TN 8):** The default state of the world. Picking a standard lock, leaping a small gap, translating common runes.
 
-For example, tracking a giant boar through a muddy trail is somewhat easy so a TN 8 with a situational modifier of +2.  Where as, that same boar over dry ground during a dust storm could be TN 10 with a situational modifier of -4.
+- **Difficult (TN 10):** The task is inherently complex or opposed by the environment. Picking a Masterwork lock, climbing a sheer wall in the rain.
+
+- **Extreme (TN 12):** The task borders on the impossible. Performing surgery mid-combat, deciphering a Dread entity's true name from a shattered tablet.
+
+These are the same four rungs spellcasting uses for its Levels (Cantrip 6 / Novice 8 / Adept 10 / Master 12 — see _Embracing the Abyss_), so the game has one difficulty ladder rather than two.
+
+**Circumstance is a dice lever, not a number.** Where the *situation* rather than the task favours or hinders the character — superior tools, abundant time, poor light, a rushed attempt — grant **Advantage** or **Disadvantage** instead of moving the TN. This is also the only difficulty lever available on an **opposed** roll, where no Target Number exists.
+
+*Why difficulty sits in the TN and circumstance in the dice: `Margin = Total − TN`, so raising the TN by 2 and penalising the roll by 2 are arithmetically identical — the corpus carried both notations for one operation, and nothing stopped them being stacked. Stacked they compound past the dice: a TN 10 check at −4 is an effective **TN 14**, and since 2d6 caps at 12 that is unachievable below Skill +2 — not unlikely, impossible. A single ladder cannot be stacked with itself. Advantage and Disadvantage are also deliberately gentler than the flat ±2 they replace (Disadvantage leaves 19.4% at TN 8 where −2 left 16.7%; Advantage gives 68.1% where +2 gave 72.2%) — and a flat bonus was the worse tool regardless, since a +2 compresses the novice-to-master spread from 58.3pp to 27.8pp while a penalty widens it.*
+
+For example, tracking a giant boar through a muddy trail is a **TN 8** check — with **Advantage** given a skilled houndsman and unhurried time. That same boar over dry ground during a dust storm is **TN 12**, which still leaves a Skill +6 tracker at 72.2% and a novice at 2.8%.
 
 ___________________________________________________________________
 # Economic Baselines

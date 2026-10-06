@@ -20,7 +20,7 @@ The realm runs south from the far edge of the [[Silted Marshes]] in five bands:
 2. **The coast.** Subject port-cities on the far southern coast, older than the realm's conquest of them. They are mercantile and literate, and their people use the Southern (Register C) naming. The navy is built and crewed here.
 3. **The steppe.** Arid grass plains, horse-country, the fiefs of the steppe-lords, and **the capital**, raised over the site of the Binding.
 4. **The native belt.** Beyond the capital, where the plains grow harsher before the mountains, live the region's **native peoples**. They are older than the realm and never submitted to it. They survive between Tuwal Ghorun's slave-raids and the mountain folk's hunting parties.
-5. **The plateau ranges.** Flat-topped mountain ranges held by **giants and ogres**. They are war-bred monstrous peoples, and they eat the dead — their own and others'. This is a practice born of a starving plateau and old war-rites, not a nature. Tuwal Ghorun tells the story as if it were nature, because that story justifies enslaving anyone of monstrous descent (see [[Maccorrack]]).
+5. **The plateau ranges.** Flat-topped mountain ranges held by **giants and ogres**. They are monstrous peoples, and they eat the dead — their own and others'. This is a practice born of a starving plateau and old war-rites, not a nature. Tuwal Ghorun tells the story as if it were nature, because that story justifies enslaving anyone of monstrous descent (see [[Maccorrack]]).
 
 - **Terrain & climate:** a marsh-fringe of silt and reed rising onto dry steppe; long sightlines, hard winters, little wood. The coast is the only place with timber, which is why the realm buys **Iron-Burl** through shell brokers.
 - **Travel time to Port Nevarellon:** *(to be set)* — at least the full 4–7 day marsh crossing to reach the fringe forts, and weeks overland to the capital.
@@ -37,14 +37,15 @@ The realm runs south from the far edge of the [[Silted Marshes]] in five bands:
 ---
 
 ## 🕯️ Tuwal Ghorun, the Bound God
-Religion in Tuwal Ghorun is monotheistic, and its god is real.
+Religion in Tuwal Ghorun is monotheistic. Its god lives beneath the capital, and it speaks.
 
-- **What it is.** Not a god in the old sense. It is the largest *intact* remnant of a Creator to survive the Deicide: a Reach-aligned god-essence that should have risen to the High Reach and instead lies held in the Slack Water beneath the capital. The coast's cults teach that there are no living gods answering prayers (see [[Religion - The Pagan Pantheon and the Faith Domains]]). On the coast, that is true. Tuwal Ghorun is the exception, and almost no one on the coast knows it.
-- **The Binding.** The realm's founders bound it using the same stolen craft the mortals turned on their Creators. The Binding is the state's real foundation and the start of its calendar. Its keepers are a priesthood the coast calls **the Binders** *(own name to be set)*.
+- **What its people believe.** Tuwal Ghorun is *the* god — the one that was never killed, chained beneath the capital by the founders so that it would bless the realm forever. It speaks to the Binders, and it chooses the ruler. On the coast, saints answer through priests and no god speaks aloud (see [[Religion - The Pagan Pantheon and the Faith Domains]]), so the coast hears "a god under the city" as a southern story, when it hears of it at all.
+- **The Binding.** The realm's founders bound the god. The Binding is the state's real foundation and the start of its calendar. Its keepers are a priesthood the coast calls **the Binders** *(own name to be set)*.
 - **What it gives.** The Blessing. What the god takes in return is not recorded anywhere the coast can read.
 - **The omen.** For fifty-eight years the god has told the realm to wait for a sign before moving north: **the Low Moons falling in the Opening**, the next of which is due around **59 A.A.** (see [[Framework - The Coastal Reckoning]]). The Opening is the coast's worst season to be struck — the trade season fails and the Duchies are caught with their levies idle.
 
-> **GM-facing.** Tuwal Ghorun cannot lie, but it chooses what it says. The omen is true and incomplete. The Low Moons destabilise anything touched by god-essence, and a Binding is exactly that. The invasion the realm thinks is prophecy is the god's escape. Its fifty-eight years of patience were never the realm's restraint.
+> **GM-facing.** *What it actually is:* not a god in the old sense, but the largest *intact* remnant of a Creator to survive the Deicide — a Reach-aligned god-essence that should have risen to the High Reach and instead lies held in the Slack Water. The founders bound it with the same stolen craft the mortals turned on their Creators. It is the one god-remnant on Austhal known to answer.
+> Tuwal Ghorun cannot lie, but it chooses what it says. The omen is true and incomplete. The Low Moons destabilise anything touched by god-essence, and a Binding is exactly that. The invasion the realm thinks is prophecy is the god's escape. Its fifty-eight years of patience were never the realm's restraint.
 > *`needs crunch` — the Blessing (Reach-touched mutation), Tuwal Ghorun itself, and giant/ogre stat blocks belong to the Iron & Marrow ruleset.*
 
 ---

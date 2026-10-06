@@ -4,9 +4,11 @@
 > "The cosmos doesn't listen to us. So we pray to the dead men and women who figured out how to force the cosmos to bend." — Master Cartographer Vaelen
 
 ## 🏛️ The Nature of Faith in Austhal
-Religion across the Whispering Coast is deeply paganistic. There are no living gods answering prayers. Instead, the Cults worship **Domains** (which are actually specific currents of shattered god-essence, drawn from all through the Tideways rather than sorted neatly into the High Reach or the Undertow).
-- **The Saints and Paragons:** Because mortal minds cannot comprehend raw domains, they focus their worship on historical figures—saints, military martyrs, and cynical prophets—who historically managed to channel these currents to perform great deeds. 
-- **The Mechanics:** A priest's "Faith" is what protects their mind from the chaotic energy. When casting, they don't call upon a god; they invoke the name and deed of a Saint to anchor their mind.
+Religion across the Whispering Coast is deeply paganistic. The cults pray to **Domains** — Law, Death, the Sea, Mercy, and the rest — through the saints and paragons who once bent them. What a Domain *is* depends on which cult you ask. To the Zenith it is order itself; to the Tidespoken it is the Brine Mother; to the Ashen Veil it is the quiet that waits for everyone. Some of the faithful call the Domains gods, and some would call that blasphemy. **Nobody disputes the miracles.** Prayer works, and for most of the faithful that settles the question.
+- **The Saints and Paragons:** The cults teach that no mortal mind can hold a Domain whole, so the faithful pray to the historical figures who once bent one — saints, military martyrs, cynical prophets, and in one case a wave. The saint is the door; the Domain is the room.
+- **The Mechanics (GM-facing):** A priest's "Faith" is what protects their mind from the chaotic energy. When casting, they don't call upon a god; they invoke the name and deed of a Saint to anchor their mind.
+
+> **GM-facing.** There are no living gods answering prayers on the coast. A Domain is a specific current of shattered god-essence, drawn from all through the Tideways rather than sorted neatly into the High Reach or the Undertow (see [[Cosmology - The Great Fracture]]). The miracles are real; every cult's explanation of them is its own. The one god-remnant known to answer is in the south — see [[The Twelgorn Kingdom]].
 
 ---
 
@@ -42,8 +44,9 @@ Religion across the Whispering Coast is deeply paganistic. There are no living g
 
 ## 6. The Domain of Mercy & Healing (The Cult of the Weeping Martyr)
 - **The Paragon:** *Mother Elara of the Mud*
-- **The Lore:** During a massive plague in the early days of Port Nevarellon, Elara was a destitute woman who walked into the quarantine zones. It is said she systematically absorbed the rot from the dying into her own body, enduring unimaginable agony so others could live.
-- **Flavor/Trappings:** Plain white habits, dove pendants. Prayers manifest as golden tears and warm glowing auras.
+- **The Lore:** During a massive plague in the early days of Port Nevarellon, in the reign of the kings, Elara was a destitute woman who walked into the quarantine zones. It is said she systematically absorbed the rot from the dying into her own body, enduring unimaginable agony so others could live. Her body was never recovered; the faithful say she was taken into Mercy.
+- **Flavor/Trappings:** Plain white habits, dove pendants. Prayers manifest as golden tears and warm glowing auras — the healer weeps gold as the pain passes into her.
+- **See:** [[The Cult of the Weeping Martyr]] — the House of Mercy, Elara's Walk, and the Taking-On.
 
 
 ## 7. The Domain of the Sea & Storms (The Tidespoken Clergy)

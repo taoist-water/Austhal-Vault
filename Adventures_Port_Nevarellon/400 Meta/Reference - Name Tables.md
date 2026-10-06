@@ -239,8 +239,8 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 19 | The Pauper's Procession | Rite | Ashen Veil | Mass burial of the Sunken Ward's unclaimed dead. Free, always → *canon tie: The Foundry Slips (the burial grounds)* |
 | 20 | The Rime Hunt | Festival | Cult of the Rime-Fang | Winter Moons hunt; the kill is given away, never eaten by the hunter |
 | 21 | Bare-Teeth Night | Rite | Rime-Fang | Coming-of-age; a night outdoors in the Winter Moons with nothing |
-| 22 | Elara's Walk | Festival | Cult of the Weeping Martyr | Plague remembrance. Free medicine distributed in the Docks — *mote of hope* |
-| 23 | The Taking-On | Rite | Weeping Martyr | Vow to bear another's suffering. Occasionally literal. Rarely survivable |
+| 22 | Elara's Walk | Festival | Cult of the Weeping Martyr | Plague remembrance. Free medicine distributed in the Docks — *mote of hope* → *canon tie: The Cult of the Weeping Martyr (the "medicine" is the laying-on of hands)* |
+| 23 | The Taking-On | Rite | Weeping Martyr | Vow to bear another's suffering. Occasionally literal. Rarely survivable → *canon tie: The Cult of the Weeping Martyr* |
 | 24 | Thalass's Count | Rite | Tidespoken Clergy | The year's drowned named aloud from the Sea-Wall → *allocated: The Tidespoken Clergy* |
 | 25 | The Wave-Naming | Rite | Tidespoken | A destructive storm is formally named and thereby acknowledged as sovereign → *allocated: The Tidespoken Clergy* |
 | 26 | Salt-Tongue | Rite | Tidespoken | Keel-blessing; a shipwright pays for it whether he believes or not → *allocated: The Tidespoken Clergy* |

@@ -61,7 +61,7 @@
 - **Light.** The [[The Brine-Glow Lanterns|Brine-Glow Lanterns]] are a massive municipal contract (see [[Port Nevarellon]]). The algae is harvested at **Saltlight** on the Shield Atolls and prepared at the Depot. Halcus Rive licenses every lantern.
 - **Brine-Fire.** Licensed stock only. Before every Low Moons the chapter performs **the Shuttering**: every measure of Brine-Fire in the city is sealed and logged until the moons rise again.
 - **The Low Moons tables.** Reckoned in days at the Chapter-House and sold. The Tidespoken give their warnings away free at the Sea-Wall, so the poor are warned last, but they are warned.
-- **Physic and glass.** Lenses ([[Lucia Marrenhal]]'s, at ruinous cost) and tinctures ([[High Arbiter Sevrin Kalder]]'s, which does not work).
+- **Physic and glass.** Lenses ([[Lucia Marrenhal]]'s, at ruinous cost) and tinctures ([[High Arbiter Sevrin Kalder]]'s, which does not work). The Weeping Martyr's healers give theirs away below the toll-gates, and it does work — a grievance the Guild's physicians have never forgiven (see [[The Cult of the Weeping Martyr]]).
 - **Shard-assay.** The licensed assay and working of god-shards. This is the monopoly the Cobalt Feather's customers are paying to get around.
 
 ---
