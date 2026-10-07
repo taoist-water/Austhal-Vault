@@ -12,39 +12,69 @@ Under the **Ducal Accord**, the five sovereign duchies represent the ancestral h
 
 ---
 
+## 🧭 Lay of the Coast
+The Whispering Coast faces east onto [[The Inner Sea]]. [[The Jagged Spine]] walls it to the north, running from deep inland out to the shore, where it drowns and goes on as the Shield Atolls. The [[Silted Marshes]] close the south. To the west, past the last of Aerthos's ploughland, lies the wild inland, rising to the [[The Kald Mountain Territory|Kald]].
+
+```
+                                     N
+      ═══════════════════════ THE JAGGED SPINE ═══════════════════════
+       UBARAZ ══════ high road along the crest ══════ STONEREACH      ╲
+      (valley head)                                   Granite Spire    ╲  drowns NE as
+          ╲__________ CORVUS SCAR (the valley) _________╱   ╱           ╲ the Shield Atolls
+                                          Adder's Gate     ╱ Road NE
+ KALD          AERTHOS                         │          ╱
+ (wild       Millhaven ◄──── spur ──── Castle Iron-Spire          VALERIUS         INNER
+ inland)          ╲                            │ Road + aqueduct  Saltmere          SEA
+  W                ╲── River Aer ──► PORT NEVARELLON ◄── Coastal Meridian ──          E
+                          SILTED MARSHES ── Twelgorn beyond
+                                     S
+```
+
+- **De Vonce** holds the foothills directly north of the city. The aqueduct and the Concord Road climb through it together.
+- **Aerthos** lies inland to the west, along the River Aer, which comes down off its plains and reaches the sea at Port Nevarellon's bay head.
+- **Valerius** holds the cliff coast north of the city, a day's sail up the Coastal Meridian.
+- **Stonereach** holds the high passes of the north-eastern Spine. They follow the crest of the range west to Ubaraz.
+- **Corvus** was the long valley cut into the Spine's southern flank. Its mouth opens south-east onto De Vonce, and all four standing duchies touch its edges — which is why all four have been eating into it since the fall.
+- **[[Ubaraz Kingdom|Ubaraz]]** lies at the head of that valley: the realm furthest from the coast, dug into the same range that runs down to the sea. Until 8 A.A. its trade came down the Corvus valley. Since the Ash-Blight, its only road to the coast runs along the crest, through Stonereach's passes.
+
+---
+
 ## 🛣️ The Ducal Concord Road
-Following the Ducal Accord, the Council of Five and the four legitimate Duchies jointly funded and garrison a single overland highway linking Port Nevarellon to the inland ducal seats — the first infrastructure the merchant oligarchy and the old nobility have ever built together. It runs north out of the city through the De Vonce foothills to **Castle Iron-Spire**, then continues northeast into the passes toward Stonereach's **Granite Spire**. A maintained spur splits east along the river road to Aerthos's **Millhaven**. Valerius's **Saltmere** relies primarily on [[The Inner Sea|The Coastal Meridian]] sea-lane, using the Concord Road only as a slower overland fallback when weather closes the coast. No road of any kind runs into the Corvus Scar — the Concord Road simply terminates at the De Vonce border watch-towers facing it.
+Following the Ducal Accord, the Council of Five and the four legitimate Duchies jointly funded and garrison a single overland highway linking Port Nevarellon to the inland ducal seats — the first infrastructure the merchant oligarchy and the old nobility have ever built together. It runs north out of the city through the De Vonce foothills to **Castle Iron-Spire**, then continues northeast into the passes toward Stonereach's **Granite Spire**, skirting the mouth of the Scar on its seaward side. A maintained spur splits west along the river road to Aerthos's **Millhaven**. Valerius's **Saltmere** relies primarily on [[The Inner Sea|The Coastal Meridian]] sea-lane, using the Concord Road only as a slower overland fallback when weather closes the coast. No road of any kind runs into the Corvus Scar. A short military spur runs north from Iron-Spire to the De Vonce border watch-towers facing it, and ends at **Adder's Gate**.
 
 ---
 
 ## 1. Duchy of De Vonce (The Iron Court)
+- **Full note:** [[Duchy of De Vonce]] — House De Vonce, the Iron Court, and the border. Seat: [[Castle Iron-Spire]].
 - **Terrain & Seat:** Rolling hills, heavily fortified stone keeps, and dense oak forests leading up to the foothills of the Spine. The ducal seat is **[[Castle Iron-Spire|Castle Iron-Spire]]**, built directly into those foothills.
 - **Logistics & Economy:** The martial heart of the coast. They control the primary iron mines and timber mills that supply the shipyards of Port Nevarellon. They also hold the headwater of the **Spine Aqueduct** — the city's only piped fresh water — in the western foothills: a leverage no Duke has ever used, and every Council has noticed. 
 - **Realism Anchor:** They maintain the largest standing feudal levy. They are culturally rigid, hyper-militaristic, and deeply bitter that they must rely on the foreign mercenaries of **The Golden Company** to protect the central port rather than their own knights.
 - **Travel Time to Port Nevarellon:** ~3–4 days by horse messenger along the Ducal Concord Road; 7–9 days for a loaded iron-ore or timber wagon train.
 
 ## 2. Duchy of Aerthos (The Breadbasket)
-- **Terrain & Seat:** Vast, fertile river valleys and sprawling agricultural plains extending toward the eastern borders. The ducal seat is **Millhaven**, a fortified grain-hub built where the main river breaks into the barge channels that feed Port Nevarellon.
+- **Full note:** [[Duchy of Aerthos]] — House Hordeus, the marriages, tenancy and grain. Seat: [[Millhaven]].
+- **Terrain & Seat:** Vast, fertile river valleys and sprawling agricultural plains running west from the coast toward the wild inland. The ducal seat is **Millhaven**, a fortified grain-hub built where the main river breaks into the barge channels that feed Port Nevarellon.
 - **Logistics & Economy:** Total monopoly over food production, grain silos, and livestock trade. Port Nevarellon would starve in a month without the flat-bottomed grain barges flowing down from Aerthos.
 - **Realism Anchor:** While wealthy, Aerthos has flat, open terrain that is incredibly difficult to defend. They are the most politically passive duchy, using their food monopoly as leverage to force the other duchies to guarantee their borders.
 - **Travel Time to Port Nevarellon:** ~2–3 days by horse via the Concord Road's river spur; 4–5 days for a loaded grain barge working with the current.
 
 ## 3. Duchy of Valerius (The Gilded Coast)
-- **Terrain & Seat:** Sun-bleached coastal cliffs, salt flats, and shallow-water fishing bays. The ducal seat is **Saltmere**, a walled port town overlooking the salt-refining pans.
+- **Full note:** [[Duchy of Valerius]] — salt, wine, fish and bonds. House: [[Valerius Family|House Valerius]] and the Table. Seat: [[Saltmere]].
+- **Terrain & Seat:** Sun-bleached coastal cliffs north of the city, salt flats, and shallow-water fishing bays. The ducal seat is **Saltmere**, a walled port town overlooking the salt-refining pans.
 - **Logistics & Economy:** Maritime commerce, luxury wine vineyards, and massive salt-refining pans. They have the closest cultural and financial ties to the **[[Council of Five]]** in the city.
-- **Realism Anchor:** Valerius functions more like a corporate syndicate than a noble house. They rely heavily on synthetic debt bonds and indentured labor to harvest the salt flats, making them a frequent target for underground smuggling rings.
+- **Realism Anchor:** Valerius functions more like a corporate syndicate than a noble house. They rely heavily on debt bonds and indentured labor to harvest the salt flats, making them a frequent target for underground smuggling rings.
 - **Travel Time to Port Nevarellon:** ~1 day by coastal galley along the Coastal Meridian in fair weather, 2 in poor; 4–5 days overland via the Concord Road, since the cliff roads punish wagons.
 
 ## 4. Duchy of Stonereach (The High Shields)
-- **Terrain & Seat:** Treacherous mountain passes and sheer granite peaks along the north-eastern edge, bordering [[Ubaraz Kingdom|The Ubaraz Kingdom]]. The ducal seat is **Granite Spire**, a dwarven-engineered citadel cut directly into the passes.
-- **Logistics & Economy:** Granite quarrying, heavy masonry, and toll-keep control over the mountain trade roads.
+- **Terrain & Seat:** Treacherous mountain passes and sheer granite peaks along the north-eastern Spine. The passes follow the crest of the range west to [[Ubaraz Kingdom|the Ubaraz Kingdom]], at the head of the Corvus valley. The ducal seat is **Granite Spire**, a dwarven-engineered citadel cut directly into the passes.
+- **Logistics & Economy:** Granite quarrying, heavy masonry, and toll-keep control over the mountain trade roads. Since the Corvus valley died in 8 A.A., those roads have been Ubaraz's only lawful way to the coast, and Stonereach tolls every load of it.
 - **Realism Anchor:** Because of their proximity to the dwarven kingdom, Stonereach architecture relies heavily on imported dwarven structural engineering. Their people are isolated, survivalist, and hardened by the severe winters of the high altitude.
 - **Travel Time to Port Nevarellon:** ~6–8 days by horse along the Concord Road through the passes, longer or impassable in deep winter; 10–14 days for a loaded granite/masonry wagon train.
 
 ---
 
 ## 5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)
-- **Terrain & Seat:** Once a rich valley of black soil, dense pine, and ancient stone spires. Today, it is a blackened, ash-choked wasteland known as **The Corvus Scar**. The ancestral seat, **Corvus Spire**, was buried in the mountain collapse fifty years ago and has never been excavated or resettled. It should not be confused with [[The Inner Sea#🪓 Resource & Industry|The Broken Spires]] out in the Inner Sea — those are drowned peaks, not masonry, and what they share with Corvus is not architecture but the same heat-scarred fracturing along the same seam.
+- **Terrain & Seat:** Once a rich valley of black soil, dense pine, and ancient stone spires, cut deep into the Spine's southern flank, with Ubaraz at its head. Its road carried the dwarven trade down to the coast. Today, it is a blackened, ash-choked wasteland known as **The Corvus Scar**. The ancestral seat, **Corvus Spire**, was buried in the mountain collapse fifty years ago and has never been excavated or resettled. It should not be confused with [[The Inner Sea#🪓 Resource & Industry|The Broken Spires]] out in the Inner Sea — those are drowned peaks, not masonry, and what they share with Corvus is not architecture but the same heat-scarred fracturing along the same seam.
 - **Travel Time to Port Nevarellon:** Not meaningfully defined. No lawful road runs into the Ash-Blight, and there is no seated authority left to travel to. The only hard figure on record is tactical, not diplomatic: De Vonce's standing border levy along the Jagged Spine could reach the Scar's edge in roughly 1–2 days if the Undertow stirred again.
 
 ### 💥 The Cataclysm (50 Years Ago)

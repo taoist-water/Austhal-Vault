@@ -3,7 +3,7 @@
 
 ## 🗺️ Geography & Scope
 -**The Main Known Continent**
- - **regions within:** [[Whispering Coast]] (including [[The Five Duchies of the Whispering Coast|the Five Duchies]]), [[Silted Marshes]], [[The Twelgorn Kingdom| The Kingdom of Twelgorn]], [[Wastelands| The Wastelands]], [[The Inner Sea| Inner sea]],
+ - **regions within:** [[Whispering Coast]] (including [[The Five Duchies of the Whispering Coast|the Five Duchies]]), [[Silted Marshes]], [[The Twelgorn Kingdom| The Kingdom of Twelgorn]], [[Wastelands| The Wastelands]], [[The Inner Sea| Inner sea]], [[The Jagged Spine]], [[Ubaraz Kingdom|The Ubaraz Kingdom]], [[The Kald Mountain Territory|The Kald Mountain Territory]]
 - **Bordering Areas:** [[Link Region/City A]], [[Link Region B]]
 - **Terrain Type:** (e.g., Jagged cliffs, salt marshes, dense pine valleys)
 - **Climate & Weather Patterns:** (e.g., Heavy seasonal monsoons, constant maritime fog)

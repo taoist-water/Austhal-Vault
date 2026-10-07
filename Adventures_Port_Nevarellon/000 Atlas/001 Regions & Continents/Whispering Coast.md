@@ -2,7 +2,8 @@
 #location/region #status/draft
 
 ## 🗺️ Geography & Scope
-- **Bordering Areas:** [[Silted Marshes| Silted Marshes]], [[Ubaraz Kingdom]], [[The Kald Mountain Territory| Kald Mountain Territory]], [[The Inner Sea]]
+- **Bordering Areas:** [[The Jagged Spine]] and [[Ubaraz Kingdom]] (north), [[The Inner Sea]] (east), [[Silted Marshes| Silted Marshes]] (south), [[The Kald Mountain Territory| Kald Mountain Territory]] (west, across the wild inland)
+- **Map:** see [[The Five Duchies of the Whispering Coast#🧭 Lay of the Coast|Lay of the Coast]]
 - **Terrain Type:** (e.g., Jagged cliffs, salt marshes, dense pine valleys)
 - **Climate & Weather Patterns:** (e.g., Heavy seasonal monsoons, constant maritime fog)
 

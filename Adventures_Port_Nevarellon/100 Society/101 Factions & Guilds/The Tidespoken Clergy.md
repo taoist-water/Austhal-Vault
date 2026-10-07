@@ -102,7 +102,7 @@ The Tidespoken will be on the Sea-Wall shouting the warning, free, to anyone who
 
 ## ❓ Open Questions
 - The Eldest Tongue's name.
-- The faith along the coast: Saltmere's fishing bays, the Shield Atolls, Fenmouth.
+- The faith along the coast: the Shield Atolls, Fenmouth. *(Valerius's bays: kitchens at Brinewick and Netherquay, and the fog bell at Saltmere — see [[Duchy of Valerius]].)*
 - Does a Tongue at Fenmouth know that Morgran carries the marsh's dead out in his skiff — and does it change anything?
 - Were the Docks' oldest hulks really the King's armada?
 

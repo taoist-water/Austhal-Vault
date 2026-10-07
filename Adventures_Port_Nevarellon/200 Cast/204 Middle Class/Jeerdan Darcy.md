@@ -40,4 +40,4 @@ He also, without ever having been told, sits on the coast's single most sensitiv
 - **Demands his paperwork:** [[Tythius De Vonce|Duke Tythius De Vonce]]
 - **Whose cargo he has declined to inspect:** [[The Cobalt Feather Syndicate|The Cobalt Feather Syndicate]]
 - **Structural parallel — status that evaporates without a document:** [[First Envoy Isolde Vantry|First Envoy Isolde Vantry]]
-- **The duchy he was born in, and undermines:** [[The Five Duchies of the Whispering Coast#2. Duchy of Aerthos (The Breadbasket)|Duchy of Aerthos]]
+- **The duchy he was born in, and undermines:** [[Duchy of Aerthos]] — and [[Reeve Colm Hollick]], whose village he ploughed for

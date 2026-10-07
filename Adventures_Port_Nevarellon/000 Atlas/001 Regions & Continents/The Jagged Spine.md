@@ -1,10 +1,10 @@
-# Region: [Region Name]
+# Region: The Jagged Spine
 #location/region #status/draft
 
 ## 🗺️ Geography & Scope
-- **Bordering Areas:** [[Link Region/City A]], [[Link Region B]]
-- **Terrain Type:** (e.g., Jagged cliffs, salt marshes, dense pine valleys)
-- **Climate & Weather Patterns:** (e.g., Heavy seasonal monsoons, constant maritime fog)
+- **Bordering Areas:** The whole northern edge of the [[Whispering Coast]]: [[Ubaraz Kingdom|Ubaraz]] (within it, inland), the [[The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|Corvus Scar]] (a valley in its southern flank), [[The Five Duchies of the Whispering Coast#4. Duchy of Stonereach (The High Shields)|Stonereach]] and De Vonce; [[The Inner Sea]], where it drowns.
+- **Terrain Type:** The northern wall of the coast. It runs from deep inland, where Ubaraz is dug into it, out to the shore, and goes on under the water to the north-east. The Shield Atolls are its last peaks.
+- **Climate & Weather Patterns:** The Winter Moons storms come down off it, bringing sleet and violent chop to the northern waters (see [[The Inner Sea]]).
 
 ## 🪵 Logistics & Travel (The Realism Anchor)
 - **Primary Routes:** (e.g., The High-King's Highway, treacherous coastal paths)

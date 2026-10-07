@@ -99,7 +99,7 @@ Tuwal Ghorun sits **outside the Layers**: a foreign power pressing on Layer 1 fr
 - Names: the capital, the native peoples and their naming register, the plateau ranges, the Binders' own name, and the Unaging Heir.
 - Travel times from the marsh fringe to the capital.
 - What Tuwal Ghorun takes in return for the Blessing.
-- Did Ellenst De Vonce marry into a Tuwal Ghorun house?
+- ~~Did Ellenst De Vonce marry into a Tuwal Ghorun house?~~ Yes — in 28 A.A., into a steppe-lord house that sits at the Gathering (see [[Duchy of De Vonce#Ellenst Rulieone, née De Vonce|Duchy of De Vonce]]). Its own name, and what she has seen of the Heir, are still to be set.
 - What do the people of Tuwal Ghorun call the Whispering Coast?
 - Do the navy's warships mount powder guns? *(rules-side)*
 

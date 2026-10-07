@@ -14,13 +14,13 @@ To the people of Austhal, the deep past is ruins, bones and rumour.
 ---
 
 ## 🛡️ The Age of the Kingdom (The Founding)
-Generations ago, the region known as **The Whispering Coast** was claimed by a wave of aristocratic settler families fleeing a decaying empire from elsewhere on the continent.
+Generations ago, the region known as **The Whispering Coast** was claimed by a wave of aristocratic settler families fleeing a decaying empire across the Broken Ocean. The coast does not speak the empire's name. What is left of it is a single city that still trades — **the Fourth**, the Struck City, which the Register no longer counts (see [[Reference - The Wondrous Markets]]). The *Meditations on Law* that the [[The Cult of the Zenith|Zenith]] keeps came over with the settlers; so did Rook's Folly, the forger the [[The Cult of the Crooked Coin|Crooked Coin]] says broke the empire's treasury.
 
 1. **The Crown:** To consolidate power and survive the wilderness, a King was chosen from among the settlers.
 2. **The Five Dukes:** The five primary founding families were granted the hereditary titles of Dukes. Together with the King, they launched bloody campaigns to tame the wild coast and secure its borders.
-3. **The Historical Borders:** The early kingdom successfully suppressed the wild inland, locking down the region between three unyielding geographical boundaries:
-   - **The North:** The treacherous peaks of [[The Jagged Spine|The Jagged Spine Range]].
-   - **The East:** The dwarven realm of [[Ubaraz Kingdom|The Ubaraz Kingdom]], dug deep into its mountain halls.
+3. **The Historical Borders:** The early kingdom successfully suppressed the wild inland, locking down the region between the sea and three unyielding geographical boundaries:
+   - **The North:** The treacherous peaks of [[The Jagged Spine|The Jagged Spine Range]] — and deep in the range, at the head of the Corvus valley, the dwarven realm of [[Ubaraz Kingdom|The Ubaraz Kingdom]], dug into its mountain halls.
+   - **The West:** The [[The Kald Mountain Territory|Kald Mountains]], across the wild inland from the farthest Aerthos plough.
    - **The South:** The toxic, waterlogged expanse of [[Silted Marshes|The Silted Marshes]].
 
 ---

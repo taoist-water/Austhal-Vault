@@ -1,9 +1,9 @@
-# Region: [Region Name]
+# Region: The Kald Mountain Territory
 #location/region #status/draft
 
 ## 🗺️ Geography & Scope
-- **Bordering Areas:** [[Link Region/City A]], [[Link Region B]]
-- **Terrain Type:** (e.g., Jagged cliffs, salt marshes, dense pine valleys)
+- **Bordering Areas:** The [[Whispering Coast]] to the east, across the wild inland beyond [[The Five Duchies of the Whispering Coast#2. Duchy of Aerthos (The Breadbasket)|Aerthos]]'s plains.
+- **Terrain Type:** The Kald Mountains.
 - **Climate & Weather Patterns:** (e.g., Heavy seasonal monsoons, constant maritime fog)
 
 ## 🪵 Logistics & Travel (The Realism Anchor)

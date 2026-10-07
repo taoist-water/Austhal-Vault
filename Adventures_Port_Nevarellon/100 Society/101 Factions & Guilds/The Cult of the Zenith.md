@@ -57,7 +57,7 @@ When a document's authenticity is questioned — in the High Courts, in a duchy,
 
 Which means: **defy a Zenith ruling and your paperwork stops being authenticable.** Not seized. Not burned. Simply unverifiable, in a polity where legal personhood *is* paper. A Landed man whose deed cannot be confirmed is not a criminal; he is a squatter with an interesting story, and the Golden Company will remove him from his own warehouse without malice.
 
-This makes the Zenith and the **[[The Cobalt Feather Syndicate|Cobalt Feather Syndicate]]** direct existential rivals, and neither is a mere criminal matter to the other. The Cobalt Feather manufactures legitimacy; the Zenith authenticates it. A forged deed does not steal property — it **manufactures a citizen**, and it does so by defeating the Register. Rook's Folly against Aurelius the Architect, fought entirely in wax and ink, and the Zenith is not obviously winning.
+This makes the Zenith and the **[[The Cobalt Feather Syndicate|Cobalt Feather Syndicate]]** direct existential rivals, and neither is a mere criminal matter to the other. The Cobalt Feather manufactures legitimacy; the Zenith authenticates it. A forged deed does not steal property — it **manufactures a citizen**, and it does so by defeating the Register. Rook's Folly against Aurelius the Architect, fought entirely in wax and ink, and the Zenith is not obviously winning. The quarrel is older than the coast: the *Meditations* were the old empire's law, carried across the Broken Ocean by the families who fled it, and Rook broke that empire's treasury long before the Accord (see [[The Cult of the Crooked Coin]]).
 
 ---
 

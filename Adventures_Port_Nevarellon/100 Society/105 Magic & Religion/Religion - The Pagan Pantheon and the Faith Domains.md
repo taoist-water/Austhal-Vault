@@ -20,8 +20,9 @@ Religion across the Whispering Coast is deeply paganistic. The cults pray to **D
 
 ## 2. The Domain of Trickery (The Cult of the Crooked Coin)
 - **The Paragon:** *Rook's Folly (The Grinning Prophet)*
-- **The Lore:** Rook wasn't a holy man; he was a legendary cynic and smuggler who realized the ancient bureaucratic laws of the old empire were a joke, and successfully counterfeited the royal treasury into bankruptcy. The Syndicate reveres him as the patron of outsmarting rigged systems.
-- **Flavor/Trappings:** Loaded dice amulets, mismatched clothes. Prayers are murmured riddles, jokes about authority, and localized distortions of luck.
+- **The Lore:** Rook wasn't a holy man; he was a legendary cynic and smuggler who realized the ancient bureaucratic laws of the old empire were a joke, and successfully counterfeited the royal treasury into bankruptcy. The empire never recovered, and its nobles fled across the Broken Ocean to settle the Whispering Coast — so the faithful say the coast exists because Rook laughed. The [[The Cobalt Feather Syndicate|Cobalt Feather]] reveres him as the patron of outsmarting rigged systems.
+- **Flavor/Trappings:** Loaded dice amulets, mismatched clothes. Prayers are murmured riddles, jokes about authority, and localized distortions of luck. Devotees hear laughter when the con lands, and take it for Rook's.
+- **See:** [[The Cult of the Crooked Coin]] — the Crooked Tally, Coin-in-the-Mud, and the Struck City.
 
 
 ## 3. The Domain of Law (The Cult of the Zenith)

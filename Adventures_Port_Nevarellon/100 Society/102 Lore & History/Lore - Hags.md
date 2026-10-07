@@ -67,7 +67,7 @@ A hag beaten to her knees does not beg; she **names her price**. A true answer, 
 ---
 
 ## ❓ Open questions — TheTao's call
-- **Where the Mirage-Hags are.** No desert exists in canon. Candidates: dried tarns where the [[The Twelgorn Kingdom|Twelgorn]] marsh-fringe rises onto dry steppe; the salt flats near Saltmere ([[The Five Duchies of the Whispering Coast|Five Duchies]]), though those pans are worked and peopled.
+- ~~**Where the Mirage-Hags are.**~~ **Decided 2026-10-07 (TheTao):** the abandoned salt-pans of Valerius — **the Dry Pans** north of Brinewick, where the bond-rows call her the Thirsty Woman. An adventure hook (see [[Duchy of Valerius]]). The Twelgorn marsh-fringe tarns remain possible ground for others.
 - **Where the Briar-Hags are.** The rotting marsh-timber forests of the Silted Marshes, or the flooded margin of the oak forests below the Spine?
 - **Morgran's hag.** Is she still in the Grey Veins — and if the Low Moons have come and gone since, is she still anywhere he could find her?
 - **Cold iron.** The vault has never said why it answers the fey. Folk knowledge, or something about how god-essence and pure iron meet?

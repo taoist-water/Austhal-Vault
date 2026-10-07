@@ -14,6 +14,64 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-07 — The Dry Pans (Mirage-Hags)
+- **Mirage-Hags live in the abandoned salt-pans of Valerius** (TheTao) — the **Dry Pans** north of Brinewick, cut off from Coldspar Mere by a storm two generations ago. The bond-rows call her **the Thirsty Woman**. Written as an adventure hook in Duchy of Valerius; Lore - Hags open question closed.
+- **GM-facing:** a runaway who pays her a name is forgotten by everyone who reads their bond — and by their family. Low Moons (~59 A.A.) coven risk.
+
+### 2026-10-07 — Valerius
+- **New notes (draft):** Duchy of Valerius, Saltmere, Bond-Master Tallis Gorrius. **Valerius Family.md filled** as the House Valerius faction note (was a blank template).
+- **House Valerius is a syndicate with a coronet, literally.** The duchy is held as shares in four books (the Pans, the Vines, the Fleet, the Bonds). Shares follow the blood, including out of the house. **The Table** — the shareholders, voting by share at Salt-Draw — chooses the Duke and can take the coronet back by two-thirds. The title is *Duke* whoever holds it.
+- **Duke Junia Valerius** (52), chosen 47 A.A. **Gratian Valerius** (79) — her father, Cassia De Vonce's brother — was Duke 17–47 A.A. until the Table removed him over bad loans to the Iron Court.
+- **Faustina Valerius** (39) is Lucan Hordeus's wife, and holds shares in the Bonds book that holds the Hordeus bonds. **Eldrick De Vonce holds his mother's Valerius shares.**
+- **The pans run on Debt-Bonds**; the pan-gangs' **Crock** buys out one bond a year by lot. **Free salt** boiled on the beaches is the smugglers' trade.
+- **The Tidespoken in Valerius:** kitchens at Brinewick and Netherquay; the Saltmere fog bell (Tidespoken open question partly answered).
+- **GM-facing:** Junia's crisis at the next Salt-Draw is bound to Grainlock's false tallies; and the Fleet book's one "lost" galley a year trades salt with the Fourth.
+- Layer 2 now has its counterweight: Tallis Gorrius, competent and comfortable.
+
+### 2026-10-07 — Aerthos
+- **New notes (draft):** Duchy of Aerthos (House Hordeus written inside it), Millhaven, Reeve Colm Hollick.
+- **House Hordeus rules Aerthos** — the duchy is named for the river, the house is not. The Docks call them the Hoarders.
+- **Duke Felician Hordeus (63) has ten children by two duchesses** (Prisca, d. 33 A.A.; Renata, of a Sheafcross factor family). After the sixth he named them by number. **Every child is a treaty** (TheTao: many children, many marriages for protection):
+  - Lucan (41, heir) → a Valerius cousin · Drusa (39) → the Vantry house · Petronel (37) → an Arbiter of the Zenith · Ilaria (34) → a Golden Company captain · Calvus (31) → a niece of the Duke of Stonereach · Livia (28) → offered to Eldrick De Vonce, unanswered · Septima (25) → refuses, keeps the Grainlock ledgers · Octavus (d. infancy) · Nona (19) → unplaced · Decimus (17).
+  - **The return clause:** every Hordeus marriage lets the child come home with the dowry.
+  - **Binding on later passes:** Valerius (Lucan's wife), Stonereach (Calvus's wife — Aerthos got there before De Vonce's Sheandri match), the Golden Company (Ilaria's captain), the Zenith (Arbiter Petronel), Palla Vantry's house (Drusa's husband).
+- **43 A.A.:** Felician opened Grainlock to the city at cost when the Opening-season Low Moons broke the trade season.
+- **GM-facing:** Grainlock is not as full as the books say — Lucan has been selling it down to cover the Valerius bonds; Septima knows.
+- **Aerthos grain feeds De Vonce's border levy and, through Stonereach, Ubaraz.**
+- **Name Tables corrections:** Sheafcross is on the spur, not its terminus (the spur ends at Millhaven); the Nine Sisters are the braided reach below Millhaven, not a delta; the Wide Fallow is former Corvus farmland under the Scar's south-western edge.
+- **Wether Bridge** is the only stone crossing of the lower Aer — the 59 A.A. invasion route north out of the marshes.
+
+### 2026-10-07 — De Vonce
+- **New notes (draft):** Duchy of De Vonce (with House De Vonce written inside it), Castle Iron-Spire (was empty), Castellan Senna Cade.
+- **Sheandri is the "younger", not the "middle", daughter.** Tythius's note implied a third daughter nobody had written; the word is changed rather than a daughter invented.
+- **Tythius married Cassia, of House Valerius,** in −4 A.A.; her house's coin paid his levies. She died in 41 A.A. → binding on the Valerius pass.
+- **Ellenst married in 28 A.A.** into a steppe-lord house of Tuwal Ghorun that sits at the Gathering. The stated reason was steppe destriers for the Blooding. On the coast the marriage does not exist (identity void). **GM-facing:** her letters describe the 59 A.A. omen, and Tythius has told no one.
+- **Children's ages set:** Ellenst 54, Eldrick 51, Imaihil 45, Sheandri 34 (quarter-elven).
+- **The Iron Court** is De Vonce's sworn knights; **the Blooding** is a palm cut with the Shard-Blade after the Held Pass vigil.
+- **High-Steel is refined only at Coldhelve**, which is why the monopoly is decreed jointly by the Council and the Duke.
+- **The Slowmarrow joins the Aer** above Port Nevarellon (Name Tables had it running to the Silted Marshes, which the compass no longer allows).
+- **GM-facing:** the Longbarrow war-bone is War of Creation remains, almost entirely inert; Marrowmill sells the occasional live fragment to the Guild's shard-assayers.
+- Tythius: children's links repointed to the duchy note; the Golden Company path link made bare.
+
+### 2026-10-07 — The compass
+- **The coast's layout is fixed** (Five Duchies § Lay of the Coast, with a map). The sea is east; the Jagged Spine walls the north and drowns north-east as the Shield Atolls; the Silted Marshes close the south; the Kald lies west across the wild inland.
+- **Ubaraz sits at the inland head of the Corvus valley** — the realm furthest from the coast, in the same range that runs down to the sea (TheTao). History's "The East: Ubaraz" is gone.
+- **Ubaraz's trade came down the Corvus valley until 8 A.A.** Since the Ash-Blight its only road to the coast runs along the crest through Stonereach's passes, and Stonereach tolls it.
+- **Aerthos is inland to the west**, upstream on the Aer (was "eastern"). The Road's spur to Millhaven runs **west** (was "east").
+- **Valerius holds the cliff coast north of the city.** The tracker had it on the southern coast; no note ever said so.
+- **Corvus was the long valley in the Spine's southern flank**, mouth opening south-east onto De Vonce, touched by all four standing duchies.
+- **The Concord Road forks at Iron-Spire:** the main line north-east to Granite Spire, skirting the Scar's mouth; a short military spur north to **Adder's Gate** (Name Tables T3 #4, now allocated).
+- Five Duchies: "synthetic debt bonds" → "debt bonds".
+- Jagged Spine, Ubaraz and Kald templates: Geography & Scope filled; Austhal's region list and Whispering Coast's borders updated.
+
+### 2026-10-07 — The Crooked Coin and the old empire
+- **The settlers came from across the Broken Ocean**, not elsewhere on Austhal (History). The empire they fled is **the Fourth, the Struck City** — reduced to one city, still trading, unnamed by design.
+- **Rook's Folly bankrupted that empire**; the faithful say the coast exists because Rook laughed.
+- **The Zenith's *Meditations* were the old empire's law**, carried over by the settlers — Rook against Aurelius is older than the coast.
+- **"The Syndicate" that reveres Rook is the Cobalt Feather** (Religion clarified).
+- **New faction note (draft):** The Cult of the Crooked Coin. **Ground truth (GM-facing):** the Two-Faced, Creator of reflection, named the Liar; the Mask and the Mocking Voice; fought on both sides (Celestial Graveyard).
+- Wondrous Markets: the duplicated "cult of thieves" paragraph removed.
+
 ### 2026-10-06 — The Weeping Martyr
 - **New faction note (draft):** The Cult of the Weeping Martyr, written in-world.
 - **Ground truth (GM-facing):** the Domain of Mercy is the remains of a vain, hungry Creator — the Mother — who fed on its worshippers. The cult believes the inverse: mercy as suffering borne for others. Placed in the Celestial Graveyard among the Alliance.
@@ -90,21 +148,33 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 
 | Name | Region / map position | One-line summary | Established in | Notes / conflicts |
 |---|---|---|---|---|
-| Austhal | Top-level continent | The known continent; regions: Whispering Coast (incl. Five Duchies), Silted Marshes, Inner Sea, Twelgorn, Wastelands | Austhal.md; History | Ubaraz and Kald Mountain Territory not in its region list — gap. File partly template |
+| Austhal | Top-level continent | The known continent; regions: Whispering Coast (incl. Five Duchies), Silted Marshes, Inner Sea, Twelgorn, Wastelands | Austhal.md; History Jagged Spine, Ubaraz and Kald added to the region list 2026-10-07. File partly template |
 | The Whispering Coast | Region within Austhal | Port Nevarellon + the Five Duchies; borders Silted Marshes, Ubaraz, Kald Mountain Territory, Inner Sea | Whispering Coast.md | Hierarchy **resolved 2026-09-28**. File still mostly template |
 | The Five Duchies of the Whispering Coast | Political subdivision of the Whispering Coast | Five ancestral human duchies bound by the Ducal Accord; banned from the title "King" | The Five Duchies…md | — |
-| Duchy of De Vonce (Iron Court) | North, foothills of the Jagged Spine | Iron/timber; largest feudal levy; **holds the Spine Aqueduct headwater** | Five Duchies; Tythius De Vonce | — |
-| Castle Iron-Spire | De Vonce foothills | Seat of House De Vonce; ~3–4 days by horse, 7–9 by wagon | Five Duchies; Three Layers | **Empty stub** — most-referenced empty file |
-| Duchy of Aerthos (Breadbasket) | Along the River Aer | Grain monopoly; flat, indefensible, therefore passive through fear | Five Duchies; Three Layers | Reliable Envoy retainer client |
-| Millhaven | Aerthos, where the Aer breaks into barge channels | Seat of Aerthos; closest seat (~2–3 days horse, 4–5 by barge) | Five Duchies | No file |
-| Duchy of Valerius (Gilded Coast) | Southern coast | Salt, wine, shipping; debt bonds; behaves like a syndicate | Five Duchies | Valerius Family.md unfilled |
-| Saltmere | Valerius coastal cliffs | Seat of Valerius; ~1 day by galley on the Coastal Meridian; doesn't need the Road | Five Duchies; Three Layers | No file |
-| Duchy of Stonereach (High Shields) | North-east passes, bordering Ubaraz | Granite; dwarven engineering; toll-keeps | Five Duchies | — |
+| Duchy of De Vonce (Iron Court) | Directly north of the city, foothills of the Jagged Spine; the Corvus valley's mouth opens onto it | Iron/timber; largest feudal levy; **holds the Spine Aqueduct headwater** | Five Duchies; Tythius De Vonce; **Duchy of De Vonce** | **Full note 2026-10-07 (draft)** |
+| Castle Iron-Spire | De Vonce foothills, where the Road forks | Seat of House De Vonce, cut into a rust-weeping ironstone spire; ~3–4 days by horse, 7–9 by wagon | Five Duchies; Three Layers; Castle Iron-Spire | **Filled 2026-10-07 (draft).** The widows' bread is its mote |
+| Hollowforge · Coldhelve | De Vonce, under the Sisters | Smelting town (T2) · arms-making and the only High-Steel forges (T1), under Serrian De Vonce | Duchy of De Vonce; Name Tables T3 #1, #7 | **NEW 2026-10-07** |
+| Ashcopse · Longbarrow · Marrowmill | De Vonce, the Iron Wood and the war-fields | Charcoal-burners (T0) · ploughs up war-bone (T1) · grinds it (T0) | Duchy of De Vonce; Name Tables T3 #2, #5, #6 | **NEW 2026-10-07** |
+| Bittern's Ford · Wardstone Watch | De Vonce, the Adderwater | The ford below Adder's Gate, last clean water before the Scar (T1) · the undermanned second tower (T0) | Duchy of De Vonce; Castellan Senna Cade; Name Tables T3 #3, #8 | **NEW 2026-10-07** |
+| Spine-Head · Cistern Camp | De Vonce, western foothills | The aqueduct's headwater village (T1) · the maintenance crews' camp (T0) | Duchy of De Vonce; Name Tables T3 #48, #49 | **NEW 2026-10-07** |
+| The Sisters · The Iron Wood · the Slowmarrow · the Adderwater | De Vonce | Iron ridge · the oak stands · river joining the Aer above the city · the Corvus border in law | Duchy of De Vonce; Name Tables T4 #4, #28, #17, #19 | **NEW 2026-10-07** |
+| Duchy of Aerthos (Breadbasket) | Inland west, along the River Aer | Grain monopoly; flat, indefensible, therefore passive through fear; ruled by House Hordeus | Five Duchies; Three Layers; **Duchy of Aerthos** | Reliable Envoy retainer client. Compass fixed 2026-10-07 (was "eastern") |
+| Millhaven | Aerthos, where the Aer breaks into the Nine Sisters | Seat of House Hordeus; twenty wheels on one weir; closest seat (~2–3 days horse, 4–5 by barge) | Five Duchies; Millhaven | **Filled 2026-10-07 (draft).** The Road's spur runs **west** to it. Mote: the Weir Bell |
+| Sheafcross · Toll-on-Aer · Grainlock | Aerthos | Grain market on the spur (T2) · river tolls, the duchy's real income (T1) · fortified granary, the coast's famine reserve (T1) | Duchy of Aerthos; Name Tables T3 #16, #17, #20 | **NEW 2026-10-07.** Grainlock's tallies are false (GM-facing) |
+| Wether Bridge · Barleywick · Quernstone | Aerthos | Only stone bridge on the lower Aer (T1) · a tenant village never out of debt (T0) · millstone quarry (T0) | Duchy of Aerthos; Reeve Colm Hollick; Name Tables T3 #19, #15, #18 | **NEW 2026-10-07** |
+| The Barley Flats · Wether Downs · Fallow Wood · the Wide Fallow · the Quern · the Nine Sisters | Aerthos | Breadbasket · sheep-downs · hunting reserve · disputed ex-Corvus plain · mill-river · braided reach below Millhaven | Duchy of Aerthos; Name Tables T4 | **NEW 2026-10-07** |
+| Duchy of Valerius (Gilded Coast) | Cliff coast north of the city | Salt, wine, shipping and credit; bond-worked pans; ruled by the Table | Five Duchies; **Duchy of Valerius** | **Full note 2026-10-07 (draft).** **Placed 2026-10-07** — the tracker had it south; no note did |
+| Saltmere | Valerius coastal cliffs | Seat of House Valerius; white limestone, the Table Hall and the strongroom; ~1 day by galley on the Coastal Meridian; doesn't need the Road | Five Duchies; Three Layers; Saltmere | **Filled 2026-10-07 (draft).** Mote: the fog bell |
+| The Dry Pans | Valerius, north of Brinewick | Abandoned salt-pans (T—); a Mirage-Hag, "the Thirsty Woman", where runaway bondsmen go | Duchy of Valerius; Lore - Hags | **NEW 2026-10-07.** Adventure hook |
+| Brinewick · Netherquay · Palefast · Coldspar · Gullstand · Widow's Reach | Valerius coast | Bond-worked pans and cured fish (T2) · Meridian resupply port (T1) · fort on Palefast Head (T1) · cliff village, wrecking unproven (T1) · egg-harvest (T0) · drownings (T0) | Duchy of Valerius; Name Tables T3 #21–26 | **NEW 2026-10-07** |
+| Coldspar Mere · the Cropped Downs · the Colding · Gull Cape · Palefast Head | Valerius | Brackish lagoon feeding the pans · walled vineyards · river freezing at the mouth · cliff colonies · headland | Duchy of Valerius; Name Tables T4 | **NEW 2026-10-07** |
+| Duchy of Stonereach (High Shields) | North-eastern Spine; its passes run west along the crest to Ubaraz | Granite; dwarven engineering; toll-keeps | Five Duchies; Three Layers | Since 8 A.A. its passes are Ubaraz's only road to the coast (2026-10-07) |
 | Granite Spire | Stonereach passes | Seat of Stonereach; ~6–8 days by horse | Five Duchies | No file |
-| The Corvus Scar | Former northern duchy | Ash-Blight (Undertow-touched soot); Dust-Wretches walk it; House Corvus functionally extinct; creeping annexation that can never be made lawful | Five Duchies; Cult of the Zenith | Fall dated **8 A.A. (confirmed 2026-09-28)** |
+| The Corvus Scar | The long valley in the Spine's southern flank; Ubaraz at its head; all four standing duchies on its edges | Ash-Blight (Undertow-touched soot); Dust-Wretches walk it; House Corvus functionally extinct; creeping annexation that can never be made lawful | Five Duchies; Cult of the Zenith | Fall dated **8 A.A. (confirmed 2026-09-28)** |
 | Corvus Spire | Buried under the Scar | Ancestral seat; named for the peak that fell on it. **Broken Ward** is the folk name for the stump | Five Duchies; Name Tables T4 #9 | No file |
 | The Scar-Holders' steadings | Clean pockets inside the Scar | Squatters and farmers with no deed; the "chimneys that aren't supposed to exist" | Five Duchies | *The Quiet Steading* (Name Tables #31) proposed as the type specimen — unallocated |
-| The Ducal Concord Road | Port Nevarellon → Iron-Spire → Granite Spire; spur to Millhaven | Only infrastructure the Council and Dukes built together; ~300 miles; four garrison posts | Five Duchies; Three Layers; Jeerdan Darcy | Warden: Jeerdan Darcy. Terminates at the De Vonce watch-towers facing the Scar |
+| The Ducal Concord Road | Port Nevarellon → Iron-Spire → NE to Granite Spire; spur west to Millhaven; military spur north to Adder's Gate | Only infrastructure the Council and Dukes built together; ~300 miles; four garrison posts | Five Duchies; Three Layers; Jeerdan Darcy | Warden: Jeerdan Darcy. The military spur ends at Adder's Gate, facing the Scar |
+| Adder's Gate | De Vonce; end of the Road's military spur | Border fort facing the Corvus Scar — the last garrison before the ash | Five Duchies; Three Layers; Name Tables T3 #4 | **NEW 2026-10-07.** Castellan: Senna Cade |
 | **The Spine Aqueduct** ("the Duke's Straw") | Western foothills of the Jagged Spine, inside De Vonce → High Quarter cisterns | The city's only piped fresh water; built pre-Accord; shares a corridor with the Concord Road | Three Layers; Port Nevarellon; Five Duchies; Tythius | **NEW ROW.** Tythius's non-use is the mote |
 | River Aer | Aerthos → tidal estuary at Port Nevarellon | Grain-barge river; salt pushes upstream on every flood tide, so it's brackish at the city | Port Nevarellon; Five Duchies; Name Tables T4 #14 | **NEW 2026-09-28** |
 | The Inner Sea / The Great Expanse | East of the Whispering Coast | Sheltered basin behind the Shield Atolls | The Inner Sea.md | `The Great Expanse.md` is an **empty duplicate** — recommend delete |
@@ -119,9 +189,9 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Divtown | Silted Marshes | Stilt shanty-town / fencing operation under Kelf Thorne; ~800 people | Divtown.md | — |
 | Greywater Lagoon ("Grey Water") | Beside Divtown | Hidden deep-water pirate anchorage; Iron Boom; canopy snipers | Greywater Lagoon.md | Filename "Greywater", display "Grey Water" — both accepted |
 | The Sunken Causeway | Silted Marshes | Drowned royal highway; hull-ripper | Silted Marshes | Inline only — fine |
-| The Jagged Spine | Northern mountain border | Winter Moons storms; site of the Corvus breach | History; Five Duchies; Inner Sea | **Template — gap** |
-| Ubaraz Kingdom | East / north-east (dwarven) | Engineered the Basin seawalls; old trading partner; no Council seat | Council of Five; Great Anchor Basin; Five Duchies | **Template — gap.** Direction conflict still open (History: east; Five Duchies: north-east) |
-| The Kald Mountain Territory | Borders the Whispering Coast | Nothing established | Whispering Coast; Name Tables T4 #2 | **Template — gap; unplaced** |
+| The Jagged Spine | The coast's northern wall, from Ubaraz inland to the sea; drowns NE as the Shield Atolls | Winter Moons storms; site of the Corvus breach | History; Five Duchies; Inner Sea | Geography filled 2026-10-07; rest template |
+| Ubaraz Kingdom | In the Jagged Spine at the inland head of the Corvus valley — furthest from the coast (dwarven) | Engineered the Basin seawalls; old trading partner; no Council seat; reaches the coast only through Stonereach since 8 A.A. | Council of Five; Great Anchor Basin; Five Duchies; History | **Placed 2026-10-07 (TheTao).** Geography filled; rest template. Open: what it saw of the 8 A.A. breach |
+| The Kald Mountain Territory | West, across the wild inland beyond Aerthos | The Kald Mountains; nothing else established | Whispering Coast; History; Name Tables T4 #2 | **Placed 2026-10-07**; rest template |
 | The Wastelands | Within Austhal | Nothing established beyond Name Tables (Cinder Flats, Boneground; orcs born free there) | Austhal; Name Tables | **Empty file — gap** |
 | **The Twelgorn Kingdom (Tuwal Ghorun)** | Far south: marsh fringe → subject coast → steppe → native belt → plateau ranges | Realm named for its bound god; ruled by the Al Ghorun, chosen by surviving the Blessing; overland trade empire with a slave-built navy; keeps the exiled royal line and the Unaging Heir | The Twelgorn Kingdom.md (**NEW 2026-09-28**, draft); History; 10 referencing files | Capital, natives, plateau and travel times still to be named/set |
 | Port Nevarellon | Free City on the Whispering Coast | ~35,000 people (doubles in spring); a crescent bay opening east, Sea-Wall across the mouth; five districts; the only T3 on the coast; one of the Three Wondrous Markets | Port Nevarellon.md | Layout set 2026-10-03 |
@@ -150,7 +220,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | **The Guild Chapter-House** | Seaward edge of the High Quarter cliffs | Guild of Alchemists licence office and court; rooftop observatory and instrument room (Low Moons tables) | The Guild of Alchemists; Coastal Reckoning | **NEW 2026-09-29.** No file |
 | **The Powder Hulk** | Outer harbour, off the Sea-Wall | Dismasted hull; the city's only legal powder magazine | The Guild of Alchemists | **NEW 2026-09-29.** No file |
 | **The nitre-yards** | Outside the landward curtain wall, downwind of the Foundry Slips | Guild saltpetre heaps, worked by bought Debt-Bonds | The Guild of Alchemists | **NEW 2026-09-29.** No file |
-| The Fourth (the Struck City) | Across the Broken Ocean | Wondrous Market struck from the count; breach-city, light-fearing beasts, a sophisticated ruler; handed to the Crooked Coin by the striking | Wondrous Markets (**draft**); Cult of the Zenith | **Unnamed by design.** Date of striking and relationship to Corvus open |
+| The Fourth (the Struck City) | Across the Broken Ocean | What remains of the old empire the coast's founding families fled; Wondrous Market struck from the count; breach-city, light-fearing beasts, a sophisticated ruler; the Crooked Coin governs beside the ruler | Wondrous Markets (**draft**); Cult of the Zenith; History; The Cult of the Crooked Coin | **Unnamed by design** (the empire's name too). Date of striking and relationship to Corvus open. TheTao's draft history pending |
 | Desert Coast Market | Across the Broken Ocean | Seam between desert caravans and deep-water hulls | Wondrous Markets (draft) | Name *Qathrayin* **provisional** |
 | Volcano Market | Inland, another continent | Seat of the Golden Company's Charter-House | Wondrous Markets (draft) | Name *Ashkoral* **provisional**. Charter-House not yet written into The Golden Company.md |
 
@@ -180,9 +250,11 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Grey Water Pirates | Greywater Lagoon | "Informal coalition" of independents | — | Greywater Lagoon.md | **Overlap with Wyvern Tail unresolved.** Speaker: Captain Vesper Locke |
 | The Tidespoken Clergy | Lower piers, Sea-Wall | Sea & Storms; the Brine Mother ("she takes, in turn"); kitchens fed by the Mother's share; kitchen-truce; Lamp-Readers' tide-tables and the free Low Moons warning; burn hags and the hag-made — whom they can reach; hold no title | 3 (hand on half the calendar) | The Tidespoken Clergy.md; Religion; Muddy Docks; Sunken Ward; Coastal Reckoning; Lore - Hags; Morgran | **File drafted 2026-10-02.** Eldest Tongue unnamed |
 | **The Cult of the Weeping Martyr** | House of Mercy (Artisan Quarter); Elara's Steps (Muddy Docks mudflats) | Healing order: the laying-on, Elara's Walk, the Taking-On; Weepers in white; heals the poor free, the Landed for fees. **GM:** the current takes years and vigour from the healed and feeds them to the healer | 3 | The Cult of the Weeping Martyr.md; Religion | **File drafted 2026-10-06.** Eldest Mother unnamed. GM hook: Mother Elara's fate |
-| Cult of the Crooked Coin | Docks, underworld | Trickery; Rook's Folly; the patron of beating rigged systems | 3 | Religion; Lidda Shoon; Wondrous Markets | Recommended as the Struck City's thieves' cult (not yet applied) |
-| House De Vonce | Duchy of De Vonce | Ruling house; iron and levies | 1 | Tythius; Five Duchies | Children unwritten |
-| House Valerius | Duchy of Valerius | Syndicate with a coronet | 1 | Five Duchies | No named members |
+| **The Cult of the Crooked Coin** | Docks, Basin shadows, the Cobalt Feather; abroad, the Struck City | Trickery; Rook's Folly; no temple, no clergy; the Crooked Tally, Coin-in-the-Mud; "never believe your own coin". **GM:** the current makes the lie you tell yourself briefly true, then collects as disappointment | 3 (Struck City: 1) | The Cult of the Crooked Coin.md; Religion; Lidda Shoon; Wondrous Markets; Zenith | **File drafted 2026-10-07.** Struck City link applied |
+| House De Vonce | Duchy of De Vonce | Ruling house; iron and levies; elf-blooded | 1 | Tythius; Five Duchies; Duchy of De Vonce | Written 2026-10-07 inside the duchy note |
+| The Iron Court | Manors across De Vonce | The house's sworn knights; the Blooding; half of them mortgaged to Valerius bond-houses | 2 | Duchy of De Vonce | **NEW 2026-10-07.** The lance → rules flag |
+| House Hordeus | Duchy of Aerthos | Ruling house of Aerthos; "the Hoarders"; every child a treaty | 1 | Duchy of Aerthos | **NEW 2026-10-07** |
+| House Valerius | Duchy of Valerius | Syndicate with a coronet: four books of shares, and the Table that chooses (and can dismiss) the Duke | 1 | Valerius Family; Duchy of Valerius | **Filled 2026-10-07.** Holds paper on the Iron Court and House Hordeus; shareholders include Eldrick De Vonce and the Hordeus heirs |
 | House Thorne (disowned branch) | Divtown | Kelf Thorne's fencing operation under a noble seal | 2 | Lord Kelf Thorne | — |
 | House Corvus | — | Functionally extinct | — | Five Duchies | Three Layers asks: is there a surviving claimant? Open |
 | The Scar-Holders | Corvus Scar | Unlanded squatters and farmers; can never be lawfully recognised or cleared | 2 | Five Duchies; The Guild of Alchemists | Sell the Scar's sulphur to the Guild — their only trade in coin (2026-09-29) |
@@ -212,7 +284,21 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Captain Elias "Half-Step" Vance | Civic Constabulary | Runs the main Muddy Docks toll-house; on Garrick's payroll | N | Faction - The Civic Constabulary; Stross | Alive; no file. The only Vance |
 | Jeerdan Darcy | Concord Road (joint) | 54; Warden of the Road; claims Landed by Commission that nobody can produce | N | Jeerdan Darcy.md | Alive |
 | Tythius De Vonce | House De Vonce | Half-elf, 86; Accord signatory; carries the Shard-Blade; won't touch the aqueduct | N | Tythius De Vonce.md | Alive |
-| Eldrick · Imaihil · Sheandri De Vonce; Ellenst Rulieone (née De Vonce) | House De Vonce | Heir · scholarly second son · resisting a Stonereach match · married "into a powerful noble house in the south" | N | Tythius De Vonce; Three Layers | **No files.** "The south" beyond the marshes is Twelgorn — intentional? |
+| Eldrick · Imaihil · Sheandri De Vonce; Ellenst Rulieone (née De Vonce) | House De Vonce | 51, heir and Marshal of the Levy · 45, scholarly second son, elf-marked · 34, younger daughter, resisting a Stonereach match · 54, married into a steppe-lord house of Tuwal Ghorun (28 A.A.) | N | Duchy of De Vonce; Tythius De Vonce; Three Layers | Alive. Written inside the duchy note; no own files |
+| Cassia De Vonce, of House Valerius | House De Vonce | Tythius's wife; her dowry paid for his war | N | Duchy of De Vonce | **Dead** (41 A.A.) |
+| Serrian De Vonce | House De Vonce (cadet line) | Tythius's nephew; master of Coldhelve and the High-Steel | N | Duchy of De Vonce; Name Tables T1 #24 | Alive |
+| Castellan Senna Cade | De Vonce border levy | Human, 47; Un-Landed castellan of Adder's Gate; Iron Horizon; lets the Scar-Holders water at the ford | N | Castellan Senna Cade.md | Alive. **Layer 2, decent and losing** |
+| Duke Junia Valerius | House Valerius | 52; chosen by the Table 47 A.A.; ran the Bonds book; childless; dismissible | N | Valerius Family | Alive |
+| Gratian Valerius | House Valerius | 79; Junia's father, Cassia's brother; Duke 17–47 A.A.; leads the faction against her | N | Valerius Family | Alive |
+| Faustina Valerius | House Valerius / Hordeus | 39; Lucan Hordeus's wife; Bonds-book shareholder; reads his letters | N | Valerius Family; Duchy of Aerthos | Alive |
+| Bond-Master Tallis Gorrius | House Valerius (Bonds book) | Human, 46; born Tallis Gorr in the Docks, Tidespoken; runs the Brinewick pans; allows the Crock | N | Bond-Master Tallis Gorrius.md | Alive. **Layer 2, the counterweight — competent and comfortable** |
+| Felician Hordeus | House Hordeus | 63; Duke of Aerthos; never says no to the Council; opened Grainlock in 43 A.A.; writes to every child monthly | N | Duchy of Aerthos | Alive |
+| The Hordeus children | House Hordeus | Lucan 41 (heir) · Drusa 39 · Petronel 37 (Arbiter, Plumb Court) · Ilaria 34 · Calvus 31 · Livia 28 · Septima 25 (Grainlock ledgers) · Nona 19 · Decimus 17; Octavus d. 38 A.A. | N | Duchy of Aerthos | Alive. Spouses unnamed, pending other passes |
+| Duchess Renata Hordeus · Prisca (d.) | House Hordeus | Second duchess, of a Sheafcross factor family · first duchess, died 33 A.A. | N | Duchy of Aerthos | — |
+| Reeve Colm Hollick | Wether Bridge | Human, 58; bound tenant; reeve 20 years; keeps the tally short | N | Reeve Colm Hollick.md | Alive. **Layer 2, decent and losing** |
+| Bram Hollick | Near Millhaven | Tenant; Colm's brother | N | Duchy of Aerthos (epigraph); Name Tables T1 #18 | Alive |
+| Rafe Hobbius | Aerthos | Steward of the river spur; Latinised from Hobb | N | Duchy of Aerthos; Reeve Colm Hollick | Alive |
+| Ord Bracken | Ashcopse | Charcoal-burner | N | Duchy of De Vonce (epigraph); Name Tables T1 #5 | Alive |
 | Garrick "the Keelhauler" **Rudd** | Iron-Anchor Syndicate | 56; Grandmaster; Guild-licensed flintlock; rival deed to The Shades | N | Garrick the Keelhauler.md | Alive |
 | Maeve "the Scribe" **Dunn** | Iron-Anchor Syndicate | 31; chief accountant; derringer gifted by Garrick; secret pact with Clara Dolly | N | Maeve the Scribe.md | Alive |
 | Silas Bane | Iron-Anchor (Young Bloods) | 29; enforcer captain plotting a coup; Brine-Fire | N | Silas Bane.md | Alive |
@@ -244,7 +330,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Name | Domain / nature | One-line summary | Worshipped by | Established in |
 |---|---|---|---|---|
 | Saint Senecus the Unyielding | Strategy — Iron Horizon | Held a doomed pass; duty over survival | Officers (Maxim Night); Kalder's parents | Religion |
-| Rook's Folly (the Grinning Prophet) | Trickery — Crooked Coin | Counterfeited the old empire's treasury into bankruptcy | Lidda; the underworld | Religion |
+| Rook's Folly (the Grinning Prophet) | Trickery — Crooked Coin | Counterfeited the old empire's treasury into bankruptcy; the empire decayed and its nobles founded the coast. **GM:** the folly was Rook's own | Lidda; the Cobalt Feather; the Struck City | Religion; The Cult of the Crooked Coin |
+| **The Two-Faced** *(GM-facing)* | The Creator behind the Domain of Trickery | Creator of reflection; named the Liar; the Mask and the Mocking Voice; fought on both sides | Unknowingly, the Crooked Coin | Celestial Graveyard; The Cult of the Crooked Coin |
 | Aurelius the Architect | Law — the Zenith | Unifier-warlord; *Meditations on Law* | High Quarter; the Zenith | Religion; The Cult of the Zenith |
 | Vael the Mute | Death — Ashen Veil | Death as mercy | Pauper's Procession | Religion |
 | Kaelen the Survivor | Winter & Wilds — Rime-Fang | Winter-drake hunter | Pilgrim's Notch (Name Tables) | Religion |
@@ -267,22 +354,29 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Pre-history | The Great Fracture / Deicide | Mortals kill the Creators; the Sphere breaks into the Disk and the Tideways | All | Great Fracture |
 | Pre-Sundering | The War of Creation | "Alliance" vs "Weaponizers"; monstrous races made as weapons | — | Celestial Graveyard |
 | Centuries before settlement | The Binding; Tuwal Ghorun founded | The founders bind a Reach-aligned god-remnant; the realm counts its years from this | Tuwal Ghorun | The Twelgorn Kingdom; Coastal Reckoning |
-| A few centuries ago | Settlement of the Whispering Coast | Settlers flee a decaying empire elsewhere on Austhal; a King and five Dukes | Five houses | History; Coastal Reckoning |
+| Before settlement | Rook's Folly | Rook counterfeits the old empire's treasury into bankruptcy; the empire decays | The old empire | Religion; The Cult of the Crooked Coin |
+| A few centuries ago | Settlement of the Whispering Coast | Settlers flee the decaying empire across the Broken Ocean, bringing the *Meditations on Law*; a King and five Dukes | Five houses | History; Coastal Reckoning |
 | Pre-Accord | Spine Aqueduct built | Built when the coast was one realm | The Crown | Three Layers |
 | Pre-Accord (the reign of the kings) | Elara's plague | The plague of Mother Elara of the Mud; quarantine on the mudflats at the bay head | Weeping Martyr | Religion; **dated 2026-10-03** (TheTao) |
 | Civil War | Marten's Cross | Commons crucify a self-proclaimed king — the King-Ban predates the Accord | Marten | Name Tables |
 | Civil War, final year (~−1 A.A.) | Thalass | A rogue wave breaks a fleet of the King's armada sortieing against the Company's blockade; a Low Moons by the Guild's reckoning | Tidespoken; Golden Company | The Tidespoken Clergy |
 | −20 A.A. | Dray arrives at the coast | Takes a Copyist's bench at 40 | Merrit Dray | Keeper Merrit Dray |
+| −4 A.A. | Tythius De Vonce marries Cassia of House Valerius | Valerius coin pays De Vonce's levies in the war's last years | Tythius; House Valerius | Duchy of De Vonce |
 | 0 A.A. | The Seat Falls / Ducal Accord / 99-Year Contract | King slain; Council formed (Palla elected at the first sitting); "King" banned | Golden Company, Council, Dukes, Tythius | History; Coastal Reckoning |
 | 0 A.A. | Flight of the heirs | Royal children buy asylum in Twelgorn | Exiled line | History |
 | 0 A.A. | The Charter Roll | The First Sitting re-issues every guild charter then trading; no new city guild since | Council; the guilds | Guilds framework |
 | **8 A.A.** | The Corvus Cataclysm | Breach into the Undertow; Corvus Spire buried; the Ash-Blight | House Corvus | Five Duchies; Coastal Reckoning — **confirmed** |
+| 17 A.A. | Gratian Valerius takes the coronet | Holds it thirty years | House Valerius | Valerius Family |
 | 27 A.A. | Dray becomes Keeper of the Register | Holds the vault for the next 31 years | Dray | Keeper Merrit Dray |
+| 28 A.A. | Ellenst De Vonce married into Tuwal Ghorun | Steppe destriers for the Blooding; a window on the Heir | Tythius; Ellenst | Duchy of De Vonce |
 | 31 A.A. | Last serious challenge to Palla's seat | — | Palla | Palla Vantry |
 | ~38 A.A. | The Shades founded; Garrick's leg crushed | Dolly Sisters convert a grounded carrack | Dolly Sisters; Garrick | Dolly Sisters; Garrick |
 | ~39 A.A. | Kress enfranchised; Jeerdan becomes Warden | — | Kress; Jeerdan | Ottavian Kress; Jeerdan Darcy |
-| ~43 A.A. | Haren unites the Wyvern Tail; last Opening-season Low Moons | — | Haren | Haren; Coastal Reckoning |
+| ~39 A.A. | Tallis Gorr buys his deed and becomes Gorrius | Bond-master at Brinewick from ~48 A.A. | Tallis Gorrius | Bond-Master Tallis Gorrius |
+| 41 A.A. | Cassia De Vonce dies | Of a winter fever; Tythius does not remarry | House De Vonce | Duchy of De Vonce |
+| ~43 A.A. | Haren unites the Wyvern Tail; last Opening-season Low Moons | Felician Hordeus opens Grainlock to the city at cost | Haren; Felician Hordeus | Haren; Coastal Reckoning; Duchy of Aerthos |
 | ~45 A.A. | Maeve recruited by Garrick | — | Maeve, Garrick | Maeve the Scribe |
+| 47 A.A. | The Table takes Gratian's coronet; Junia Valerius chosen Duke | Over bad loans to the Iron Court | House Valerius | Valerius Family |
 | ~47 A.A. | Marrenhal's first Unwritten Day attempt | Three have failed since | Marrenhal | Marrenhal; Coastal Reckoning |
 | ~48 A.A. | Marco becomes High Captain | — | Marco | High Captain Marco |
 | ~49 A.A. | Sallow buys her deed | — | Sallow | Verrine Sallow |
@@ -298,11 +392,11 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 
 | Name | Location / owner | One-line summary | Mechanical ref | Established in |
 |---|---|---|---|---|
-| The Shard-Blade | Tythius De Vonce | Longsword of deep-rift iron | `needs crunch` | Tythius; file empty |
+| The Shard-Blade | Tythius De Vonce | Longsword of deep-rift iron; cuts the palm at every Blooding | `needs crunch` | Tythius; Duchy of De Vonce; file empty |
 | The Wyvern-Hide Banner | Haren Twarde | Pulls an Undertow-deep "ghost" of the beast into the fight | `needs crunch` — narrative specifies an effect | Captain Haren Twarde |
 | Brine-Fire | Silas Bane; Guild stock | Gel that ignites on contact with salt water; unstable in the Low Moons; sealed at the Shuttering | `needs crunch` | Silas Bane; Coastal Reckoning; The Guild of Alchemists |
 | **Black powder / firearms** | Guild of Alchemists (licensed); Garrick; Maeve | Controlled substance; firearms only for the very wealthy or very important. The secret is the white salt (saltpetre) and the corning; stored on the Powder Hulk | `needs crunch` — flag for the rules side | Law (Powder Edict); Garrick; Maeve; Kress; The Guild of Alchemists |
-| High-Steel | Company, nobles, sanctioned guild-masters | Refined steel monopoly; commoners' iron shatters on it | — | Law |
+| High-Steel | Company, nobles, sanctioned guild-masters | Refined steel monopoly; commoners' iron shatters on it; refined only at Coldhelve | — | Law; Duchy of De Vonce |
 | The Golden Writ (Peace-Bond) | Landed citizens | 5 gs (1,000 cp) licence to carry a martial weapon; wire and wax on the guard (on pistols: the trigger-guard) | — | Law; Economy |
 | The Black Ledger | Dolly Sisters | Coded blackmail journal on High Quarter smuggling patrons | — | The Dolly Sisters |
 | The Register | The Plumb Court | Counter-copy of every deed, charter and keel paper; power by refusal to verify | — | The Cult of the Zenith |
@@ -327,6 +421,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Slack-Born | Fey; god-essence that quickened in still water | Great Fracture; Morgran | Hags statted; other fey `needs crunch` |
 | The Brine Mother | The Tidespoken's name for the ocean; its teaching makes hags abominations | Lore - Hags; The Tidespoken Clergy | — |
 | The laying-on · the golden tears · the Taking-On | Martyr healing by drawing hurt into the healer · the gold the healer weeps · the vow to take a whole affliction | The Cult of the Weeping Martyr; Name Tables | `needs crunch` — see the cult note's Rules Flags |
+| The Mask · the Mocking Voice *(GM-facing)* · "never believe your own coin" | The Two-Faced's two faces · the Coin's first teaching | The Cult of the Crooked Coin; Celestial Graveyard | Mocking Voice `needs crunch` |
 | Weepers · the Eldest Mother · the House of Mercy · Elara's Steps | Martyr healing priests · the cult's head · its hospice in the Artisan Quarter · its stair onto the mudflats | The Cult of the Weeping Martyr | — |
 | The tide's turn | The Tidespoken teaching: everything moves, everything is taken in its turn | The Tidespoken Clergy | — |
 | Tongues · the Salt · the Eldest Tongue · Lamp-Readers | Tidespoken priests · the faithful · the longest-serving Tongue, who speaks for the clergy · keepers of the tide-tables on the Sea-Wall | The Tidespoken Clergy | — |
@@ -362,6 +457,17 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Shuttering | All Brine-Fire stock sealed and logged before the Low Moons | The Guild of Alchemists; Name Tables | — |
 | King-Ban | No "King"; applies to place names too | History; Name Tables | — |
 | Latinise | Climbing families Latinise their names (Cobb → Cobbius) | Name Tables; Sallow; Kress | — |
+| The Iron Court | De Vonce's sworn knights; the duchy's epithet | Duchy of De Vonce | The lance → rules flag |
+| The Blooding | Knight investiture: Held Pass vigil, then a palm cut with the Shard-Blade | Duchy of De Vonce; Name Tables | `needs crunch` (the mark?) |
+| Levy Muster | Opens the High Turns at Iron-Spire; border rotations drawn | Duchy of De Vonce; Name Tables | — |
+| Marshal of the Levy | Commander of De Vonce's knights and border levy (Eldrick) | Duchy of De Vonce | — |
+| The Table · the four books | House Valerius's share-council (votes by share at Salt-Draw) · the Pans, the Vines, the Fleet, the Bonds | Valerius Family | — |
+| The Crock | Pan-gangs pool a pinch of every wage; one bond bought out a year, by lot | Bond-Master Tallis Gorrius; Duchy of Valerius | Rules flag (buy-out) |
+| Free salt | Salt boiled on the beaches by runaway bondsmen, sold to smugglers | Duchy of Valerius | Rules flag (smuggled good) |
+| The return clause | Every Hordeus marriage lets the child come home with the dowry | Duchy of Aerthos | — |
+| Bound to the furrow | Aerthos tenancy: labour-days on the demesne, no leaving without the steward's leave; the steward's third | Duchy of Aerthos; Jeerdan Darcy | Rules flag (status) |
+| The bridge-penny · the short tally | Wether Bridge's toll for its own upkeep · Colm's under-count | Reeve Colm Hollick | — |
+| The widows' bread | Iron-Spire feeds every border-dead levyman's family for life | Castle Iron-Spire | — |
 | Settlement Tier T0–T3 | Tier measures services, not headcount | Name Tables | **Explicitly "mechanical" — flag for the rules side** |
 
 ---
@@ -376,23 +482,24 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 2. ~~**The Tidespoken Clergy**~~ — **file drafted 2026-10-02 (draft).** Still to set: the Eldest Tongue's name; the faith along the coast (for the Duchy pass).
 3. ~~**The Guild of Alchemists**~~ — **file drafted 2026-09-29 (draft).** Still to set: the Chapter-Warden's name, the Convocation's interval, the founding date and first chapter.
 4. ~~**Confirm the derived dates**~~ — **confirmed 2026-09-28:** Corvus fell in 8 A.A.; the next Opening-season Low Moons (~59 A.A.) is a live campaign clock and Tuwal Ghorun's invasion omen.
-5. **The De Vonce children.** Ellenst "married south" implies Twelgorn nobility — decide whether that's a hook.
-6. **The ducal seats have no files**; Castle Iron-Spire is empty.
+5. ~~**The De Vonce children.**~~ **Written 2026-10-07** in Duchy of De Vonce. **Decided 2026-10-07:** Tythius married Ellenst into a Tuwal Ghorun house about thirty years ago, on purpose, as a window into the court that holds the Heir. To be written in the De Vonce batch.
+6. **The ducal seats have no files** — Castle Iron-Spire, Millhaven and Saltmere filled 2026-10-07; Granite Spire still to come.
 7. **The Golden Company Charter-House** in the volcano market still needs writing into The Golden Company.md.
 8. **Grey Water Pirates vs Wyvern Tail**, and Captain Vesper Locke.
-9. **Regional map / compass.** Ubaraz east vs north-east; Kald Territory unplaced; Aerthos "eastern" while the sea is east.
+9. ~~**Regional map / compass.**~~ **Resolved 2026-10-07** — Five Duchies § Lay of the Coast.
 10. **The Wondrous Markets are still draft:** date of the Fourth, its link to Corvus, and the provisional names.
 11. **Plausibility:** the Golden Company grunt wage (3 sp) vs a Landed artisan (1–3 sp).
 12. **Small hooks needing a sentence each:**
     - Palla ↔ Isolde Vantry kinship
     - who sold Alfric his title
-    - whether a Corvus claimant survives
+    - whether a Corvus claimant survives — **decided 2026-10-07:** yes, unnamed, among the refugee descendants. The Zenith can void the claim and never validate it. Not Isolde Vantry. To be written in the Corvus batch.
 13. **Name collisions:** Captain Tessa (hunter) vs Tessa Dolly. The V-cluster (Vane, Vance, Vantry, Valerius, Vesper, Vael/Vaelen) is only partly by design.
 14. **Tone:** the older underworld docs (Silas, Iron-Anchor, Wyvern Tail) lack motes. Hearing and sight loss now marks eight characters.
 15. **Tier tags:** `#location/neighborhood` for the Muddy Docks and Cinder Row.
 16. **Cinder Row** — intentional stub; develop when the Sunken Ward goes live in play.
 17. ~~**City guilds framework.**~~ **Drafted 2026-09-29** as `Framework - The Guilds of Port Nevarellon`. Still to set: which dead charters are on the Roll; whether the Smiths get a name; how Suse Kellard got her stamp.
-18. **Hags and Wretches** — notes drafted 2026-10-02; open questions at the foot of each (Mirage- and Briar-Hag homes, Morgran's hag, cold iron, coven powers, Grave-Wretch ground, the Ashen Veil in the Scar).
+18. **Hags and Wretches** — notes drafted 2026-10-02; open questions at the foot of each (~~Mirage-Hag home~~ — the Dry Pans, 2026-10-07; Briar-Hag home, Morgran's hag, cold iron, coven powers, Grave-Wretch ground, the Ashen Veil in the Scar).
+19. **The Duchy pass** (agreed 2026-10-07): one note per duchy with its house written inside; `Valerius Family.md` filled as the House Valerius faction note; Castle Iron-Spire filled. Order: De Vonce, Aerthos, Valerius, Stonereach, Corvus. The regional cults (Iron Horizon, Rime-Fang, Ashen Veil) follow.
 
 ### Rules-side flags (not carried over — for the Iron & Marrow ruleset)
 - Binding Oath
@@ -407,6 +514,10 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - ~~Fey and hag stat blocks~~ — **hags and Wretches statted 2026-10-02**; other fey still open
 - Hag uprooting at the Low Moons; what a coven can change beyond protecting its mother
 - Tidespoken casting (Thalass's Omen)
+- Crooked Coin luck: distortions of luck repaid as later disappointment, the Mocking Voice, disillusionment, and the Binding Oath (full list in The Cult of the Crooked Coin § Rules Flags)
+- Valerius: Debt-Bonds and the Crock as a buy-out; free salt as a smuggled good; salt's trade value (full list in Duchy of Valerius § Rules Flags)
+- Aerthos: bound tenancy as a status; food supply and famine (Grainlock); barge travel and the Nine Sisters (full list in Duchy of Aerthos § Rules Flags)
+- De Vonce: the lance as a unit; the Blooding's mark; High-Steel refining and supply; the Undertow-touched weapons in the upper Sisters; war-bone shards; elven-blooded ageing (full list in Duchy of De Vonce § Rules Flags)
 - Weeping Martyr healing: wound/pain transfer, the hidden cost in the patient's years and vigour, the healer's longevity, the Taking-On, the golden tears as a tell (full list in The Cult of the Weeping Martyr § Rules Flags)
 - Settlement Tiers
 - Faction power levels (every faction is currently "not defined")
@@ -415,11 +526,11 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 
 ## 🧪 File integrity (2026-09-28)
 - **Empty files:**
-  - Locations: Castle Iron-Spire · The Great Expanse (duplicate — delete) · Wastelands · Untitled (identify or delete) · The Drowned Rat Tavern · The Black Mast Warehouse
+  - Locations: The Great Expanse (duplicate — delete) · Wastelands · Untitled (identify or delete) · The Drowned Rat Tavern · The Black Mast Warehouse
   - Items: Nightshade · Sun-Iron · The Brine-Glow Lanterns · The Shard-Blade
   - Cast: Bruiser Ben
-- **Unfilled templates:** The Jagged Spine · The Kald Mountain Territory · Ubaraz Kingdom · Valerius Family. Austhal and Whispering Coast are partial.
-- **Wanted links (notes not yet written):** Zafira Al Munn · Eldrick / Imaihil / Sheandri De Vonce · Ellenst Rulieone · Oakhaven Cove · The Shield Atolls · The Broken Spires · Captain Vesper Locke · The Low-Tide Market · Slipway Seven · The Brine-Glow Depot · The Rusty Anchor Foundry · Halcus Rive.
+- **Unfilled templates:** none fully blank (Valerius Family filled 2026-10-07). The Jagged Spine, The Kald Mountain Territory and Ubaraz Kingdom have Geography & Scope filled (2026-10-07); the rest of each is template. Austhal and Whispering Coast are partial.
+- **Wanted links (notes not yet written):** Zafira Al Munn · Oakhaven Cove · The Shield Atolls · The Broken Spires · Captain Vesper Locke · The Low-Tide Market · Slipway Seven · The Brine-Glow Depot · The Rusty Anchor Foundry · Halcus Rive.
 - **Obsolete copies to archive:**
   - Inside the vault: `drafts/draft_iron-and-marrow-canon-tracker*.md` and `drafts/iron-and-marrow-canon-tracker.md`, plus the `Batch * review - diff.md` files.
   - Outside the vault: the root `.txt` snapshots.

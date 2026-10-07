@@ -64,7 +64,7 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 2   | Dob Kettleman      | A    | Cistern-tender in the High Quarter, sees everything, tells no one      |
 | 3   | Ansel Quay         | A    | Foundling named for where he was found                                 |
 | 4   | Tamsin Vole        | A    | Reef-diver; the surname is an insult she kept                          |
-| 5   | Ord Bracken        | A    | Charcoal-burner out of the De Vonce oak stands                         |
+| 5   | Ord Bracken        | A    | *(allocated — canon: charcoal-burner of Ashcopse, Duchy of De Vonce)*  |
 | 6   | Nell Stroud        | A    | Widow running a boardwalk cookshop on credit                           |
 | 7   | Garrow Finch       | A    | Ex-Blue-Cloak, discharged, still wears the coat                        |
 | 8   | Pike Ballard       | A    | Bare-knuckle fighter at the Rusty Tankard                              |
@@ -77,13 +77,13 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 15  | Maryn Aske         | A    | Midwife working the Sunken Ward for barter                             |
 | 16  | Loft Prendle       | A    | Gutter-runner, twelve, unbearably useful                               |
 | 17  | Suse Kellard       | A    | Rope-walk foreman; the only woman in the Slips with a Guild stamp      |
-| 18  | Bram Hollick       | A    | Tenant farmer near Millhaven, one bad harvest from the debt-prisons    |
+| 18  | Bram Hollick       | A    | *(allocated — canon: tenant near Millhaven; brother of Reeve Colm Hollick)* |
 | 19  | Corran Ossius      | B    | Third son of a minor Landed house; no inheritance, expensive tastes    |
 | 20  | Lucia Marrenhal    | B    | *(allocated — canon: Councillor, the Writ Seat)*                       |
 | 21  | Deverus Aleth      | B    | Magistrate; sells adjournments, not verdicts                           |
 | 22  | Verrine Sallow     | B    | *(allocated — canon: Councillor, the Contract Seat)*                   |
 | 23  | Ottavian Kress     | B    | *(allocated — canon: Councillor, the Water Seat)*                      |
-| 24  | Serrian De Vonce   | B    | Cadet branch of the Iron Court, kept far from the succession           |
+| 24  | Serrian De Vonce   | B    | *(allocated — canon: master of Coldhelve, cadet line of House De Vonce)* |
 | 25  | Palla Vantry       | B    | *(allocated — canon: Councillor, the Long Seat)*                       |
 | 26  | Halcus Rive        | B    | *(allocated — canon: Guild of Alchemists assessor, Port Nevarellon chapter)* |
 | 27  | Ysolde Corran      | B    | Deliberate near-miss on Isolde Vantry; a social climber's chosen name  |
@@ -145,32 +145,32 @@ Every entry is placed. **Region** states the parent — no floating villages. **
 
 | # | Name | Tier | Type | Region / parent | Note |
 |---|---|---|---|---|---|
-| 1 | Hollowforge | **T2** | Town | De Vonce | Iron-smelting; feeds the Port Nevarellon shipyards |
-| 2 | Ashcopse | **T0** | Hamlet | De Vonce | Charcoal-burners supplying Hollowforge |
-| 3 | Bittern's Ford | **T1** | Village | De Vonce | Last clean water before the Corvus border |
-| 4 | Adder's Gate | **T1** | Fort | De Vonce | Border watch-tower facing the Scar → *canon: Concord Road terminates here* |
-| 5 | Longbarrow | **T1** | Village | De Vonce | Ploughs up petrified war-bone every spring; sells it as fertiliser |
-| 6 | Marrowmill | **T0** | Hamlet | De Vonce | Grinds that bone. Locals do not eat the bread made from those fields |
-| 7 | Coldhelve | **T1** | Town | De Vonce | Arms-making; High-Steel monopoly enforcement point |
-| 8 | Wardstone Watch | **T0** | Fort | De Vonce | Second Corvus-facing tower; undermanned, everyone knows it |
+| 1 | Hollowforge | **T2** | Town | De Vonce | Iron-smelting; feeds the Port Nevarellon shipyards → *allocated: Duchy of De Vonce* |
+| 2 | Ashcopse | **T0** | Hamlet | De Vonce | Charcoal-burners supplying Hollowforge → *allocated: Duchy of De Vonce* |
+| 3 | Bittern's Ford | **T1** | Village | De Vonce | Last clean water before the Corvus border → *allocated: Duchy of De Vonce* |
+| 4 | Adder's Gate | **T1** | Fort | De Vonce | Border watch-tower facing the Scar → *canon: end of the Concord Road's military spur; allocated: Castellan Senna Cade* |
+| 5 | Longbarrow | **T1** | Village | De Vonce | Ploughs up petrified war-bone every spring; sells it as fertiliser → *allocated: Duchy of De Vonce* |
+| 6 | Marrowmill | **T0** | Hamlet | De Vonce | Grinds that bone. Locals do not eat the bread made from those fields → *allocated: Duchy of De Vonce* |
+| 7 | Coldhelve | **T1** | Town | De Vonce | Arms-making; High-Steel monopoly enforcement point → *allocated: Duchy of De Vonce* |
+| 8 | Wardstone Watch | **T0** | Fort | De Vonce | Second Corvus-facing tower; undermanned, everyone knows it → *allocated: Duchy of De Vonce* |
 | 9 | Grimscree | **T0** | Hamlet | Stonereach | Scree-slope granite quarry, appalling attrition |
 | 10 | Kettlehold | **T2** | Town | Stonereach | Sits in a pass bowl; controls the northeast road |
 | 11 | Thrawgate | **T1** | Fort | Stonereach | Guards Thraw's Pass; ducal levy garrison |
 | 12 | Pilgrim's Notch | **T0** | Waystation | Stonereach | Rime-Fang shrine; free shelter, no questions — *mote of hope* |
 | 13 | Sleetfall | **T1** | Village | Stonereach | Snowed in four months a year, self-governing by necessity |
 | 14 | Deepgraft | **T1** | Village | Stonereach | Deep-shaft mine; dwarven contract crews, ducal ownership |
-| 15 | Barleywick | **T0** | Village | Aerthos | Grain tenancy, chronic debt to Millhaven factors |
-| 16 | Sheafcross | **T2** | Town | Aerthos | Regional grain market; Concord Road spur terminus |
-| 17 | Toll-on-Aer | **T1** | Town | Aerthos | River-toll station; the duchy's real income |
-| 18 | Quernstone | **T0** | Hamlet | Aerthos | Millstone quarry |
-| 19 | Wether Bridge | **T1** | Village | Aerthos | Only stone bridge on the lower Aer; strategically enormous |
-| 20 | Grainlock | **T1** | Fort | Aerthos | Fortified granary; siege-relevant, politically sensitive |
-| 21 | Brinewick | **T2** | Town | Valerius | Salt-pans and cured fish |
-| 22 | Coldspar | **T1** | Village | Valerius | Cliff village, wrecking accusations never proven |
-| 23 | Gullstand | **T0** | Hamlet | Valerius | Egg-harvesting from cliff colonies |
-| 24 | Netherquay | **T1** | Village | Valerius | Small port; Coastal Meridian resupply stop |
-| 25 | Palefast | **T1** | Fort | Valerius | Guards the coastal road where it narrows |
-| 26 | Widow's Reach | **T0** | Hamlet | Valerius | Named for its drowning rate. Nobody has renamed it |
+| 15 | Barleywick | **T0** | Village | Aerthos | Grain tenancy, chronic debt to Millhaven factors → *allocated: Duchy of Aerthos* |
+| 16 | Sheafcross | **T2** | Town | Aerthos | Regional grain market on the Concord Road spur, a day short of Millhaven → *allocated: Duchy of Aerthos* |
+| 17 | Toll-on-Aer | **T1** | Town | Aerthos | River-toll station; the duchy's real income → *allocated: Duchy of Aerthos* |
+| 18 | Quernstone | **T0** | Hamlet | Aerthos | Millstone quarry → *allocated: Duchy of Aerthos* |
+| 19 | Wether Bridge | **T1** | Village | Aerthos | Only stone bridge on the lower Aer; strategically enormous → *allocated: Reeve Colm Hollick* |
+| 20 | Grainlock | **T1** | Fort | Aerthos | Fortified granary; siege-relevant, politically sensitive → *allocated: Duchy of Aerthos* |
+| 21 | Brinewick | **T2** | Town | Valerius | Salt-pans and cured fish → *allocated: Duchy of Valerius; Bond-Master Tallis Gorrius* |
+| 22 | Coldspar | **T1** | Village | Valerius | Cliff village, wrecking accusations never proven → *allocated: Duchy of Valerius* |
+| 23 | Gullstand | **T0** | Hamlet | Valerius | Egg-harvesting from cliff colonies → *allocated: Duchy of Valerius* |
+| 24 | Netherquay | **T1** | Village | Valerius | Small port; Coastal Meridian resupply stop → *allocated: Duchy of Valerius* |
+| 25 | Palefast | **T1** | Fort | Valerius | Guards the coastal road where it narrows → *allocated: Duchy of Valerius* |
+| 26 | Widow's Reach | **T0** | Hamlet | Valerius | Named for its drowning rate. Nobody has renamed it → *allocated: Duchy of Valerius* |
 | 27 | Ashenford | **T0** | Hamlet | Corvus Scar | Abandoned in the collapse, re-occupied ~nine years ago. The ford still works, which is the whole reason |
 | 28 | Corvus Low | **T—** | Ruin | Corvus Scar | Was the duchy's second town. Ash-blighted, silent |
 | 29 | Blackrun | **T—** | Ruin | Corvus Scar | Mill village on an acidic stream; the wheel still turns |
@@ -192,8 +192,8 @@ Every entry is placed. **Region** states the parent — no floating villages. **
 | 45 | Toll-Gallows | **T1** | Fort | Ducal Concord Road | Both functions in the name. Nobody found that funny at the time |
 | 46 | Scrapewell | **T0** | Village | Ducal Concord Road | Was *Kingswell*. The chisel marks are still visible on the well-head |
 | 47 | Marten's Cross | **T1** | Village | Ducal Concord Road | **Folk-scraped.** See lore note below |
-| 48 | Spine-Head | **T1** | Village | Jagged Spine foothills | Aqueduct source settlement → *canon: Spine Aqueduct* |
-| 49 | Cistern Camp | **T0** | Hamlet | Jagged Spine foothills | Aqueduct maintenance crews; De Vonce's quiet leverage on the Council |
+| 48 | Spine-Head | **T1** | Village | Jagged Spine foothills | Aqueduct source settlement → *canon: Spine Aqueduct; allocated: Duchy of De Vonce* |
+| 49 | Cistern Camp | **T0** | Hamlet | Jagged Spine foothills | Aqueduct maintenance crews; De Vonce's quiet leverage on the Council → *allocated: Duchy of De Vonce* |
 | 50 | Fallowatch | **T—** | Ruin | Jagged Spine foothills | Pre-Accord royal fort, abandoned as politically radioactive |
 
 
@@ -256,11 +256,11 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 36 | Rat-Fair | Festival | Muddy Docks | Boardwalk street festival. Loud, cheap, genuinely joyful — *mote of hope* |
 | 37 | The Free Hour | Folk | Iron-Anchor Syndicate | One hour, no levies collected. Garrick's cheapest legitimacy purchase |
 | 38 | Boardwalk Wake | Funeral rite | Muddy Docks | The dead are floated out on a plank. Cheaper than ground |
-| 39 | Levy Muster | Ducal | De Vonce | Annual feudal levy assembly and inspection |
-| 40 | The Blooding | Ducal rite | De Vonce | Knight investiture; deliberately archaic, deliberately expensive |
-| 41 | Sheaf-Day | Harvest | Aerthos | Harvest festival; the only day tenants eat what they grew |
-| 42 | The Quern Blessing | Rite | Aerthos | Millstones blessed; the miller's cut is announced for the year |
-| 43 | Salt-Draw | Trade | Valerius | Salt-pans opened; the duchy's annual yield made public |
+| 39 | Levy Muster | Ducal | De Vonce | Annual feudal levy assembly and inspection → *allocated: Duchy of De Vonce* |
+| 40 | The Blooding | Ducal rite | De Vonce | Knight investiture; deliberately archaic, deliberately expensive → *allocated: Duchy of De Vonce* |
+| 41 | Sheaf-Day | Harvest | Aerthos | Harvest festival; the only day tenants eat what they grew → *allocated: Duchy of Aerthos* |
+| 42 | The Quern Blessing | Rite | Aerthos | Millstones blessed; the miller's cut is announced for the year → *allocated: Duchy of Aerthos* |
+| 43 | Salt-Draw | Trade | Valerius | Salt-pans opened; the duchy's annual yield made public → *allocated: Duchy of Valerius* |
 | 44 | Pass-Opening | Civic | Stonereach | First safe crossing of Thraw's Pass declared; trade resumes |
 | 45 | The Ash Vigil | Remembrance | Corvus refugees | Anniversary of the spire's collapse. Observed in the Sunken Ward, not the Scar |
 | 46 | Homing Night | Folk | Corvus refugees | Second-generation refugees name the villages they've never seen |
@@ -280,7 +280,7 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 1 | The Jagged Spine *(canon)* | Mountain range | Northern boundary of the Whispering Coast |
 | 2 | The Kald Mountains *(canon)* | Mountain range | Kald Mountain Territory |
 | 3 | The Grey Teeth | Spur range | Southwest arm of the Jagged Spine |
-| 4 | The Sisters | Foothill ridge line | De Vonce / Spine foothills |
+| 4 | The Sisters | Foothill ridge line | De Vonce / Spine foothills → *allocated: Duchy of De Vonce* |
 | 5 | The Anvil | Peak | Jagged Spine; flat-topped, visible from the Basin |
 | 6 | Sentinel's Tooth | Peak | Jagged Spine; navigational landmark for coastal shipping |
 | 7 | Cragfather | Peak | Jagged Spine; highest known on the coast |
@@ -290,36 +290,36 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 11 | The Notch | Mountain pass | Stonereach; goat-track, smugglers only |
 | 12 | Sleetgate | Mountain pass | Stonereach; closed most of the Winter Moons |
 | 13 | The Long Graft | Mountain pass | Jagged Spine; longest, lowest, most heavily tolled |
-| 14 | The River Aer | River | Aerthos; the duchy is named for it, not the reverse |
-| 15 | The Quern | River | Aerthos; mill-dense, over-fished, silting |
+| 14 | The River Aer | River | Aerthos; the duchy is named for it, not the reverse → *allocated: Duchy of Aerthos* |
+| 15 | The Quern | River | Aerthos; mill-dense, over-fished, silting → *allocated: Duchy of Aerthos* |
 | 16 | Blackrun | River | Corvus Scar; runs with acidic sulphur → *canon: Ash-Blight* |
-| 17 | The Slowmarrow | River | De Vonce → Silted Marshes; carries bone-silt from the war-fields |
+| 17 | The Slowmarrow | River | De Vonce; joins the Aer above Port Nevarellon, carrying the oak rafts and the bone-silt from the war-fields → *allocated: Duchy of De Vonce* |
 | 18 | Tinwater | River | Stonereach; mine tailings make it undrinkable below Deepgraft |
-| 19 | Adderwater | River | De Vonce; forms the Corvus border in law, not in practice |
-| 20 | The Colding | River | Valerius; freezes at the mouth in deep Winter Moons |
-| 21 | Nine Sisters | Braided river | Aerthos delta; channels shift yearly, ruins boundary law |
+| 19 | Adderwater | River | De Vonce; forms the Corvus border in law, not in practice → *allocated: Duchy of De Vonce* |
+| 20 | The Colding | River | Valerius; freezes at the mouth in deep Winter Moons → *allocated: Duchy of Valerius* |
+| 21 | Nine Sisters | Braided river | Aerthos; the braided reach below Millhaven, where the barges load; channels shift yearly, ruins boundary law → *allocated: Duchy of Aerthos* |
 | 22 | Kettle Tarn | Lake | Stonereach; sits in the Kettlehold bowl |
 | 23 | Widow's Water | Lake | De Vonce; deep, cold, and used for exactly what you'd think |
 | 24 | The Drown | Lake | Silted Marshes fringe; a sinkhole lake, no measured bottom |
-| 25 | Coldspar Mere | Lake | Valerius; brackish, feeds the salt-pans |
+| 25 | Coldspar Mere | Lake | Valerius; brackish, feeds the salt-pans → *allocated: Duchy of Valerius* |
 | 26 | Glass Tarn | Tarn | Jagged Spine; wind-sheltered, mirror-still, unnervingly quiet |
 | 27 | Lake Ashen | Lake | Corvus Scar; nothing lives in it. Nothing has for fifty years |
-| 28 | The Iron Wood | Forest | De Vonce; the oak stands feeding the shipyards |
+| 28 | The Iron Wood | Forest | De Vonce; the oak stands feeding the shipyards → *allocated: Duchy of De Vonce* |
 | 29 | The Weeping Stands | Forest | Silted Marshes; Iron-Burl canopy → *canon tie* |
 | 30 | Blackcopse | Forest | Corvus Scar; standing dead timber, unburnable, unfellable |
-| 31 | The Fallow Wood | Forest | Aerthos; ducal hunting reserve, poached constantly |
-| 32 | The Barley Flats | Plain | Aerthos; the coast's actual breadbasket |
-| 33 | The Wide Fallow | Plain | Aerthos / De Vonce border; annexation dispute since the collapse |
+| 31 | The Fallow Wood | Forest | Aerthos; ducal hunting reserve, poached constantly → *allocated: Duchy of Aerthos* |
+| 32 | The Barley Flats | Plain | Aerthos; the coast's actual breadbasket → *allocated: Duchy of Aerthos* |
+| 33 | The Wide Fallow | Plain | Aerthos / De Vonce border, under the Scar's south-western edge; Corvus farmland until 8 A.A., annexation dispute since → *allocated: Duchy of Aerthos* |
 | 34 | The Ash Plain | Blighted plain | Corvus Scar; dead soil, the heart of the Scar |
-| 35 | Wether Downs | Downland | Aerthos; sheep, wool, and very old boundary stones |
-| 36 | The Cropped Downs | Downland | Valerius; wind-stunted, thin soil, stubborn tenants |
+| 35 | Wether Downs | Downland | Aerthos; sheep, wool, and very old boundary stones → *allocated: Duchy of Aerthos* |
+| 36 | The Cropped Downs | Downland | Valerius; wind-stunted, thin soil, stubborn tenants → *allocated: Duchy of Valerius* |
 | 37 | The Grey Veins *(canon)* | Marsh channels | Silted Marshes |
 | 38 | Rushmouth | Marsh estuary | Silted Marshes; where the Slowmarrow enters the brack |
 | 39 | The Sucking Flats | Mudflats | Silted Marshes; impassable, mapped only by the dead |
 | 40 | Quicksilt Reach | Marsh reach | Silted Marshes; quick-silt pits disguised as solid moss → *canon tie* |
-| 41 | Gull Cape | Headland | Valerius; cliff colonies, egg harvest |
+| 41 | Gull Cape | Headland | Valerius; cliff colonies, egg harvest → *allocated: Duchy of Valerius* |
 | 42 | The Bittern Cliffs | Cliffs | De Vonce coast; limestone, undercut, actively collapsing |
-| 43 | Palefast Head | Headland | Valerius; the fort takes its name |
+| 43 | Palefast Head | Headland | Valerius; the fort takes its name → *allocated: Duchy of Valerius* |
 | 44 | The Weeping Cliffs | Cliffs | Whispering Coast; freshwater seeps down the face — the coast's name-source |
 | 45 | The Great Expanse / Inner Sea *(canon)* | Inner sea | East of the Whispering Coast |
 | 46 | The Sunken Ribs *(canon)* | Reef | Central Shield Atolls |

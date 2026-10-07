@@ -61,7 +61,7 @@ Treated as a bloc for structural purposes, individually for detail. Their collec
 |---|---|---|
 | [[The Five Duchies of the Whispering Coast#2. Duchy of Aerthos (The Breadbasket)\|Aerthos]] | Grain, livestock, silos. The city starves in a month without the barges | Scarcity + threat of withdrawal. Militarily the weakest; flat, indefensible ground |
 | [[The Five Duchies of the Whispering Coast#1. Duchy of De Vonce (The Iron Court)\|De Vonce]] | Iron ore, shipyard timber — **and the aqueduct headwater** (below) | Violence. Largest standing levy on the coast |
-| [[The Five Duchies of the Whispering Coast#4. Duchy of Stonereach (The High Shields)\|Stonereach]] | Granite, masonry, and toll-keep control of the north-eastern mountain trade roads | Terrain + tolls. Law enforced by the impracticality of going around |
+| [[The Five Duchies of the Whispering Coast#4. Duchy of Stonereach (The High Shields)\|Stonereach]] | Granite, masonry, and toll-keep control of the north-eastern mountain trade roads — since 8 A.A., Ubaraz's only road to the coast | Terrain + tolls. Law enforced by the impracticality of going around |
 | [[The Five Duchies of the Whispering Coast#3. Duchy of Valerius (The Gilded Coast)\|Valerius]] | Salt pans, wine, coastal shipping | Debt. Functions as a syndicate with a coronet; indentured labour and bond instruments |
 
 **The correction worth making explicit:** the leverage is *not* one-way. [[Tythius De Vonce|Duke Tythius]] travels to the High Quarter to ensure the Council's maritime taxes keep funding his border keeps. The Dukes hold the coast's raw material; the Council holds the only market that turns it into coin, and pays for the swords guarding the north. Neither side can squeeze without bleeding. **This is mutual hostage-taking, not a monopoly** — and it is a much better engine, because it means everyone at Layer 1 is trapped in an arrangement they resent and cannot leave.
@@ -78,7 +78,7 @@ The confirmed distances change how two of these seats should be read.
 
 ### The Ducal Concord Road — Layer 1's Only Shared Asset
 
-Jointly funded and garrisoned by the Council of Five and the four standing Duchies: the first infrastructure the merchant oligarchy and the old nobility ever built together. It runs north from the city through the De Vonce foothills to **Castle Iron-Spire**, northeast into the passes to Stonereach's **Granite Spire**, with a maintained river spur east to Aerthos's **Millhaven**. It terminates at the De Vonce border watch-towers facing the Corvus Scar — no road runs into the ash.
+Jointly funded and garrisoned by the Council of Five and the four standing Duchies: the first infrastructure the merchant oligarchy and the old nobility ever built together. It runs north from the city through the De Vonce foothills to **Castle Iron-Spire**, northeast into the passes to Stonereach's **Granite Spire**, with a maintained river spur west to Aerthos's **Millhaven**, and a short military spur north from Iron-Spire to the De Vonce border watch-towers at **Adder's Gate**, facing the Corvus Scar — no road runs into the ash.
 
 **It is also the Accord's one unresolvable practical problem.** A jointly garrisoned highway needs a single jurisdiction, and the Accord abolished the only office that could have supplied one. If a De Vonce levyman kills a Council factor on a stretch of Road inside Aerthos, there is no court above all three with standing to try it. The decapitated pyramid is an abstraction everywhere else on the coast; on the Road it is a daily administrative fact that someone has to fudge every season. **This is the single best Layer 2 generator in the setting** — whoever does the fudging is a real power nobody has named.
 
@@ -114,16 +114,21 @@ Confirmed inhabitants:
 - **[[Lord Kelf Thorne|Lord Kelf Thorne]]**, self-styled Baron of the Silted Marshes — a Layer 2 title in a place Layer 1 does not reach at all. Chokepoint: a noble seal that launders pirate cargo as marsh salvage, plus rot-proof Iron-Burl timber that every shipwright on the coast needs.
 - **[[Tahra Beyr|Tahra Beyr]]** — actual control of the marsh through the logging crews, with no title whatsoever. The clean demonstration of why this framework sorts by holding, not by rank.
 - **The Twelgorn "Retrievers"** — armed slave-hunters projecting a foreign power's authority into the southern marsh fringes.
+- **[[Jeerdan Darcy]]**, Warden of the Concord Road — the road-warden recommended below, with an appointing authority nobody can produce.
+- **[[Castellan Senna Cade]]**, of Adder's Gate — the last garrison before the ash. Un-Landed, decent, and losing.
+- **[[Reeve Colm Hollick]]**, of Wether Bridge — the only stone crossing of the lower Aer, and a tally kept short every year. A bound tenant, decent, and losing.
+- **[[Bond-Master Tallis Gorrius]]**, of the Brinewick pans — the counterweight: competent, comfortable, and winning. He runs the largest bond-worked pans on the coast for House Valerius.
+- **The Iron Court** — De Vonce's household knights, who hold manors between the seats (see [[Duchy of De Vonce]]).
 
 Known vacancies, in priority order:
 
-1. **Whoever actually runs the Ducal Concord Road.** The Road is now confirmed canon, jointly funded and garrisoned — but joint garrisons need someone to arbitrate between them, and no such office exists. Build that person and you have solved Layer 2's biggest hole: a figure everyone at Layer 1 needs, nobody at Layer 1 can command, and all four Duchies plus the Council would each prefer belonged to them. Recommend a single named road-warden with an ambiguous appointing authority rather than a faction — the ambiguity is the character.
-2. **The De Vonce border watch-towers.** The Road terminates facing the Corvus Scar. Somebody commands the last garrison before the ash, funded by Tythius's strained purse and watched obsessively by [[High Captain Marco|Marco]] from 3–4 days south. That post is where the setting's slow horror actually touches the political layer.
-3. **De Vonce's household knights.** The single glancing canon reference to a sub-ducal military class — mentioned once in [[The Golden Company|The Golden Company]] and defined nowhere. This is where the "Lance" measurement unit should eventually live.
-4. **The De Vonce children.** [[200 Cast/Eldrick De Vonce|Eldrick]], [[200 Cast/Imaihil De Vonce|Imaihil]], [[200 Cast/Sheandri De Vonce|Sheandri]] — named, load-bearing for the succession, entirely unwritten. Sheandri's resistance to the Stonereach match is now a 6–8 day problem in each direction, which is a real constraint on how that plot can move.
+1. ~~**Whoever actually runs the Ducal Concord Road.**~~ **Filled: [[Jeerdan Darcy]].** The Road is now confirmed canon, jointly funded and garrisoned — but joint garrisons need someone to arbitrate between them, and no such office exists. Build that person and you have solved Layer 2's biggest hole: a figure everyone at Layer 1 needs, nobody at Layer 1 can command, and all four Duchies plus the Council would each prefer belonged to them. Recommend a single named road-warden with an ambiguous appointing authority rather than a faction — the ambiguity is the character.
+2. ~~**The De Vonce border watch-towers.**~~ **Filled 2026-10-07: [[Castellan Senna Cade]].** The Road's military spur ends facing the Corvus Scar, at **Adder's Gate**. Somebody commands the last garrison before the ash, funded by Tythius's strained purse and watched obsessively by [[High Captain Marco|Marco]] from 3–4 days south. That post is where the setting's slow horror actually touches the political layer.
+3. ~~**De Vonce's household knights.**~~ **Filled 2026-10-07: the Iron Court** (see [[Duchy of De Vonce]]). The "Lance" measurement unit is flagged for the ruleset there.
+4. ~~**The De Vonce children.**~~ **Written 2026-10-07 in [[Duchy of De Vonce#🏰 House De Vonce|House De Vonce]]:** [[Duchy of De Vonce#Eldrick De Vonce, the heir|Eldrick]], [[Duchy of De Vonce#Imaihil De Vonce|Imaihil]], [[Duchy of De Vonce#Sheandri De Vonce|Sheandri]] and Ellenst. Sheandri's resistance to the Stonereach match is now a 6–8 day problem in each direction, which is a real constraint on how that plot can move.
 5. **The Corvus border-holders.** Four duchies annexing scarred land for fifty years means four sets of men actually sitting on it. Nobody has written one.
 
-**Tonal instruction for this layer:** build at least two Layer 2 holders who are decent and losing because of it. The vault's existing material is very good at extraction and currently short of counterweight; if Layer 2 fills in uniformly predatory, it will amplify the bleakness past where the setting wants to sit.
+**Tonal instruction for this layer:** build at least two Layer 2 holders who are decent and losing because of it. *(Met 2026-10-07: Senna Cade and Colm Hollick. Keep going.)* The vault's existing material is very good at extraction and currently short of counterweight; if Layer 2 fills in uniformly predatory, it will amplify the bleakness past where the setting wants to sit.
 
 ---
 
@@ -131,7 +136,7 @@ Known vacancies, in priority order:
 
 **Membership test:** contained within a single settlement or district. Well-served by the existing Faction and Character templates.
 
-Populated: [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]], [[The Cobalt Feather Syndicate|Cobalt Feather Syndicate]], [[The Tidespoken Clergy|Tidespoken Clergy]], [[The Cult of the Weeping Martyr|Cult of the Weeping Martyr]], [[The Guild of Alchemists|Guild of Alchemists]] (Port Nevarellon chapter only — the parent Guild is cross-border and sits outside the Layers), [[Faction - The Civic Constabulary (The Coppers)|Civic Constabulary]], [[The Dolly Sisters|the Dolly Sisters]], [[Silas Bane|Silas Bane]], the Cinder Row elder-councils.
+Populated: [[The Iron-Anchor Syndicate|Iron-Anchor Syndicate]], [[The Cobalt Feather Syndicate|Cobalt Feather Syndicate]], [[The Tidespoken Clergy|Tidespoken Clergy]], [[The Cult of the Weeping Martyr|Cult of the Weeping Martyr]], [[The Cult of the Crooked Coin|Cult of the Crooked Coin]], [[The Guild of Alchemists|Guild of Alchemists]] (Port Nevarellon chapter only — the parent Guild is cross-border and sits outside the Layers), [[Faction - The Civic Constabulary (The Coppers)|Civic Constabulary]], [[The Dolly Sisters|the Dolly Sisters]], [[Silas Bane|Silas Bane]], the Cinder Row elder-councils.
 
 **The cross-layer rule — this is where the good stories are.** A Layer 3 entity that gets its hand on a Layer 1 chokepoint is the setting's most reliable plot generator. Silas Bane trying to seize the Brine-Glow monopoly is a Layer 3 gang reaching for municipal infrastructure. Garrick buying legal deeds is a Layer 3 crook acquiring Layer 1 legal standing one warehouse at a time. When you build a Layer 3 faction, always name which Layer 1 chokepoint it dreams about.
 
@@ -159,7 +164,7 @@ Run through the five fields:
 - That corridor is also the obvious route for the unrefined iron Tythius is quietly investigating Syndicate agents for smuggling out of his lower valleys — contraband moving south on the one road nobody can decide who polices.
 - [[High Captain Marco|High Captain Marco]] knows. It is a map-room fact, and a second thing keeping him awake besides the Corvus Scar.
 - The Council knows and prefers not to minute it.
-- **[[200 Cast/Eldrick De Vonce|Eldrick]] does not necessarily share his father's arithmetic.** Tythius's stated fear is that his children lack the iron to hold the north. The sharper risk is that one of them has more iron than he does, aimed the wrong way.
+- **[[Duchy of De Vonce#Eldrick De Vonce, the heir|Eldrick]] does not necessarily share his father's arithmetic.** Tythius's stated fear is that his children lack the iron to hold the north. The sharper risk is that one of them has more iron than he does, aimed the wrong way.
 
 ### Propagation — applied 2026-09-28
 

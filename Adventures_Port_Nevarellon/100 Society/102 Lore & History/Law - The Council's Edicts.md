@@ -51,7 +51,7 @@ Black powder is a controlled substance in Port Nevarellon, as it is in most real
 
 ### 1. The Debt-Bond
 Unpaid debt converts to service. The debtor labours for the creditor until the bond is discharged, while board, lodging and tools are charged against the wage.
-- **The Reality:** Most bonds never close. Courts impose them in place of the debt-prisons, and employers engineer them on purpose — the Syndicate's synthetic debts on the slips, and the salt-pans of [[The Five Duchies of the Whispering Coast#3. Duchy of Valerius (The Gilded Coast)|Valerius]].
+- **The Reality:** Most bonds never close. Courts impose them in place of the debt-prisons, and employers engineer them on purpose — the Syndicate's synthetic debts on the slips, and the salt-pans of [[Duchy of Valerius|Valerius]], where the gangs keep a Crock to buy one bond out a year (see [[Bond-Master Tallis Gorrius]]).
 
 ### 2. The Bond of Service
 A contract to serve a Landed patron for a fixed term. The patron houses, feeds and protects the bondsman, and stands as their sponsor in the High Courts. The bondsman surrenders freedom of movement, trade and marriage for the term.

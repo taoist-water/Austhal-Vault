@@ -4,6 +4,9 @@
 - [[Austhal|The continent of Austhal]]
 - [[Whispering Coast]] — the region
   - [[The Five Duchies of the Whispering Coast]] — De Vonce, Aerthos, Valerius, Stonereach, and the Corvus Scar
+    - [[Duchy of De Vonce]] · [[Castle Iron-Spire]]
+    - [[Duchy of Aerthos]] · [[Millhaven]]
+    - [[Duchy of Valerius]] · [[Valerius Family|House Valerius]] · [[Saltmere]]
   - [[Port Nevarellon]] — the Free City
 - [[Silted Marshes]] · [[The Inner Sea]] · [[Ubaraz Kingdom]] · [[The Jagged Spine]]
 
@@ -11,7 +14,7 @@
 - **Governance:** [[Council of Five]] · [[The Golden Company]] · [[The Cult of the Zenith]] · [[Law - The Council's Edicts]]
 - **Underworld:** [[The Iron-Anchor Syndicate]] · [[The Cobalt Feather Syndicate]] · [[The Wyvern tail Pirates]]
 - **Guilds & Watch:** [[The Guild of Alchemists]] · [[Faction - The Civic Constabulary (The Coppers)|The Civic Constabulary]]
-- **Faith:** [[Religion - The Pagan Pantheon and the Faith Domains]] · [[The Tidespoken Clergy]] · [[The Cult of the Weeping Martyr]]
+- **Faith:** [[Religion - The Pagan Pantheon and the Faith Domains]] · [[The Tidespoken Clergy]] · [[The Cult of the Weeping Martyr]] · [[The Cult of the Crooked Coin]]
 - **Economy:** [[Economy - the Price of Survival]] · [[Reference - The Wondrous Markets]]
 
 ## 🔮 The Rules of the World
