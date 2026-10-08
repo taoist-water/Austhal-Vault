@@ -401,7 +401,7 @@ ________________________________________________________________________
     
 	- **The Engine Interaction:** Because their feet are pinned, an Anchored character completely loses the ability to use the **Dodge** action in a Clash. They must rely on **Block** (shield), **Parry** (weapon), or **Brace** (taking the hit).
     
-	- **Clearance:** Cleared when the effect ends, or by using the _Regroup_ action to physically tear free.
+	- **Clearance:** Cleared when the effect ends, or by using the _Regroup_ action to physically tear free or defined by the action/equipment that caused it.
     
 
 - *Rigor:* (The Articulation Lock) A severe stiffening of the joints, caused by nervous system shock, extreme cold, or necromancy.
