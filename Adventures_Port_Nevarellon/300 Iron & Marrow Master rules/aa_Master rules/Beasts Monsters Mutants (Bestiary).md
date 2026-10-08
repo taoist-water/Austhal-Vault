@@ -140,26 +140,17 @@ ________________________________________________________________________
 - _Resilient:_ Increases the creature’s Stress Limit by +2. May spend **up to 2 Momentum per incoming Strike** from its own Bank to Mitigate damage, reducing that Strike's Impact by 2 per point spent.
         
 
-**Plated** 
-- Thick hide, rusted iron carapace, or heavy plate scales shield vital locations.
-    
-- Reduces all incoming standard Impact damage by a flat -1. 
-    
+- *Plated:* Thick hide, rusted iron carapace, or heavy plate scales shield vital locations. Reduces all incoming standard Impact damage by a flat -1. 
 
-**Skittering** 
-- Unnatural speed, shifting limbs, or erratic reflexes make them slippery targets.
-    
-- This Creature may move out of Threat zone without  requiring a test, or causing a free strike.
-    
-**Massive**
-- Massive: Weapons without Sunder, Brutal, or Armour-Piercing have their Impact halved before comparing to its Wounds threshold.
+- *Skittering:* Unnatural speed, shifting limbs, or erratic reflexes make them slippery targets. This Creature may move out of Threat zone without  requiring a test, or causing a free strike.
 
-**Flying**
-- Wings, unnatural levitation, or a body built for the air.
-- Grants a Fly Move (listed in the stat block). While airborne, ignores ground-level Difficult Terrain and obstacles. See Iron World's Movement rules for how this interacts with a land Move.
+- *Massive:* Weapons without Sunder, Brutal, or Armour-Piercing have their Impact halved before comparing to its Wounds threshold.
 
-**Wall-Crawler**
-- Moves across walls and ceilings as easily as open ground — never needs an Athletics check to climb, never falls if a climbing surface is disrupted, and can attack from unexpected angles above or beside a Threat Zone.
+- *Flying:* Wings, unnatural levitation, or a body built for the air. Grants a Fly Move (listed in the stat block). While airborne, ignores ground-level Difficult Terrain and obstacles. See Iron World's Movement rules for how this interacts with a land Move.
+
+-  *Wall-Crawler:* Moves across walls and ceilings as easily as open ground — never needs an Athletics check to climb, never falls if a climbing surface is disrupted, and can attack from unexpected angles above or beside a Threat Zone.
+
+- *Troll-Blood Regeneration:* At the start of the creatures activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ If the creature takes any Impact damage from a Fire source (such as a _Naphtha Fire-Flask_ or Pyromancy), this trait is entirely suppressed until the end of the next round.
 ---
 
 ## OFFENSIVE & MARTIAL TRAITS
@@ -1059,7 +1050,7 @@ _______________________________
     - Momentum Bank: **5** _(4 + Reflex 1)_
 - **Equipment:** None — natural weapon only. Tree Trunk (Power 3, Reach, Brutal). Strike Roll: 2d6+6 (Melee +6).
 - **Traits (1):**
-    - **Troll-Blood Regeneration:** At the start of the Troll's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ If the Troll takes any Impact damage from a Fire source (such as a _Naphtha Fire-Flask_ or Pyromancy), this trait is entirely suppressed until the end of the next round.
+    - **Regeneration:** At the start of the Troll's activation, it automatically heals 1 Wound Slot and clears 1 Stress. _Weakness:_ If the Troll takes any Impact damage from a Fire source (such as a _Naphtha Fire-Flask_ or Pyromancy), this trait is entirely suppressed until the end of the next round.
 - **Special Actions (2):**
     - **Vicious Frenzy:** _Trigger:_ Declared immediately after the Troll wins a Strike's Clash with a Margin of 3+ (Clean or better). _Effect:_ The Troll follows up its lumbering tree trunk attack with a sudden, tearing claw swipe. It makes an immediate, secondary Strike at an adjacent target (Treat the claws as Power 1, Vicious).
     - **Sweeping Uproot:** _Trigger:_ Instead of a standard single-target Strike, declared before the Troll attacks with its Tree Trunk. _Effect:_ The Troll drags its tree trunk through the earth. This Strike gains the _Cleave_ tag, forcing every player in its frontal arc to defend against the same Strike roll. Furthermore, any player who loses the Clash is knocked Prone.
