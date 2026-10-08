@@ -539,7 +539,7 @@ These variations add specific situational tactical tools to the baseline weapon 
 - Cost: 25 sp | Availability: Common
 - Stats: Power 2 | 1H/2H | 10 ft Threat
 - Tags: Reach.
-- 2d6 Special Rule: When you win a Clash with this weapon as an attack action, you can forego doing standard Impact damage to execute a Hook. The target is pinned at the tip of your spear; they cannot execute Shift actions until they win an opposed Prowess check against you on their activation.
+- 2d6 Special Rule: When you win a Clash with this weapon as an attack action, you can forego doing standard Impact damage to execute a Hook. The target is pinned at the tip of your spear; they gain the anchored condition until they win an opposed Prowess check against you on their activation.
 
 #### The Heavy Arbalest
 
