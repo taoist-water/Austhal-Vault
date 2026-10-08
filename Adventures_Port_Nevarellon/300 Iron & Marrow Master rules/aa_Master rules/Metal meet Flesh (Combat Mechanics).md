@@ -89,7 +89,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 	- otherwise: a Dodge roll V opponent Strike Action.
 - *Tactical Assessment:* Skill test based on context, gains momentum.
 
-- *Ready:* Hold your action to stand ready to choose when to act next in the activation order. If the held action hasn't been used this round the player goes last in the activation order for this round.
+- *Ready:* Hold your action to ready your weapon or shield and choose when to act next in the activation order. If the held action hasn't been used this round the player goes last in the activation order for this round.
 
 - *Charge:* ** only if within move distance. Gain +2  to the The Clash roll and breaks ties(the equivalent of winning by 1).  suffer a -2 to reactor actions until next activation.
 
