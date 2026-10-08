@@ -22,7 +22,7 @@
 - **The paragon: Thalass's Omen.** Thalass was not a person but a rogue wave that destroyed an entire fleet of the old king's armada. A Tongue casts by invoking the wave's deed, as other priests invoke a saint's.
 - **The Drowned Lamp.** The green, 40-day moon (*Ossuel*) is the clergy's moon. Its rhythm governs the tides, and the Tongues reckon their tables from it. They have never forgiven the Council's clerks for building the civil year on the Pale Sister instead (see [[Framework - The Coastal Reckoning]]).
 
-> **GM-facing.** The Brine Mother is no god. What answers a Tongue is the Domain of Sea & Storms, a current of shattered god-essence (see [[Religion - The Pagan Pantheon and the Faith Domains]]). The miracles are real; the Mother is the Tidespoken's explanation of them.
+> **GM-facing.** The Brine Mother is no god. What answers a Tongue is the Domain of Sea & Storms, a current of shattered essence (see [[Religion - The Pagan Pantheon and the Faith Domains]]). The miracles are real; the Mother is the Tidespoken's explanation of them.
 
 ### Thalass: the wave that broke the crown
 The Tidespoken are older than the Accord, a sailors' faith of the Drowned Lamp. Thalass is what made them the faith of the Docks.
@@ -52,7 +52,7 @@ In the last year of the Civil War, a fleet of the King's armada sortied from Por
 ## 🔥 What the Tide Must Take
 The teaching that feeds the Docks also lights the pyres. Anything that **refuses the tide** is an abomination:
 - **Hags** — to the Tongues, things born of water that refused to move, which then work the Undertow into living flesh. The Tidespoken hunt them, and the **Low Moons** are their season: the only nights a hag is out of her ground and on the move (see [[Lore - Hags]]).
-- **The hag-made.** Anything shaped from an Undertow-shard belongs to the Undertow. Anyone a hag has worked on is a little fey afterwards, and the Tongues burn them. They want [[Morgran the Abomination|Morgran]] burned, and the hag who made him burned first.
+- **The hag-made.** Anything shaped from Undertow wrack belongs to the Undertow. Anyone a hag has worked on is a little fey afterwards, and the Tongues burn them. They want [[Morgran the Abomination|Morgran]] burned, and the hag who made him burned first.
 - **Wretches** — a place refusing to give up its dead. The Tongues have no quarrel with the Ashen Veil, which carries Wretches out; they quarrel with the marsh.
 - **The Weeping Martyr's elders** — priests who will not age refuse the tide as surely as a hag does. The Tongues say so from the Sea-Wall; the Weepers heal half the Docks, so they do not say it loudly (see [[The Cult of the Weeping Martyr]]).
 

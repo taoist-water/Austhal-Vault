@@ -7,7 +7,7 @@
 - **Climate & Weather Patterns:** (e.g., Heavy seasonal monsoons, constant maritime fog)
 
 ## 🪵 Logistics & Travel (The Realism Anchor)
-- **Primary Routes:** Until 8 A.A., the road down the Corvus valley. Since the Ash-Blight, the high road along the crest through Stonereach's passes.
+- **Primary Routes:** Until 8 A.A., the road down the Corvus valley. Since the Ash-Blight, **the Long Graft** — the high road along the crest — and down Thraw's Pass through Stonereach, tolled at every gate (see [[Duchy of Stonereach]]). Ubaraz has not opened its down-valley gates since 8 A.A., and says nothing about why.
 - **Travel Time to Port Nevarellon:** (e.g., 3 days by foot, 1 day by horse, highly dependent on weather)
 - **Hazards & Terrain Difficulties:** (e.g., Unstable mudslides, quicksand, lack of fresh water sources)
 
@@ -23,5 +23,6 @@
 - **Notable Fauna / Predators:** (Grounded ecological threats—wolves, marsh-stalkers, etc.)
 
 ## ❓ Open Questions
-- What did Ubaraz see of the 8 A.A. breach, at the far end of its own valley?
-- What does it think of paying Stonereach's tolls on its only road?
+- ~~What did Ubaraz see of the 8 A.A. breach?~~ *Answered GM-side in [[Duchy of Corvus]] — the Demon Wars, 6–8 A.A.* In-world, Ubaraz has never said.
+- What does it think of paying Stonereach's tolls on its only road? *(It pays without complaint — see [[Duchy of Stonereach]].)*
+- Ubaraz's ruler, capital and own names.

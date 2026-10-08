@@ -18,7 +18,7 @@
 - **Guarding Presence:** The heaviest in the city. Company patrols run day and night. The [[Faction - The Civic Constabulary (The Coppers)|Blue-Cloak Watch]] at the toll-gate look professional, because Company officers are watching them.
 - **The Toll:** 5 cp to enter from below — more than a dockhand earns in a day, which is the point of it. Once a year, on the **Toll Amnesty**, anyone may walk in free. Most don't.
 - **Local Customs:** Register B names, and nobody asks where yours came from if you Latinised well. A Crooked Coin devotional name here is a liability.
-- **Crime Level:** White-collar. Forged instruments, bought magistrates, and the [[The Cobalt Feather Syndicate|Cobalt Feather]]'s rogue alchemists buying god-shards behind good doors.
+- **Crime Level:** White-collar. Forged instruments, bought magistrates, and the [[The Cobalt Feather Syndicate|Cobalt Feather]]'s rogue alchemists buying wrack behind good doors.
 
 ---
 

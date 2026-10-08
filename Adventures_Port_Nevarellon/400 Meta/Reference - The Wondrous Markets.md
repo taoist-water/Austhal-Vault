@@ -189,7 +189,7 @@ The [[The Golden Company]] was hired from *"a distant continental power"* and it
 3. ~~Great Expanse vs Broken Ocean~~ **Confirmed and corrected in `The_Great_Anchor_Basin.md`**
 4. ~~Charter-House location~~ **Confirmed — volcano market.** Needs propagating to `The Golden Company.md`, which is unreachable via mount — see the manual-fix sheet
 5. **When did the Fourth fall?** It wants a date on the A.A. scale, or an explicit statement that it predates the Accord and the coast inherited the number
-6. **What is the Fourth's relationship to Corvus?** If both were breaches, someone somewhere has noticed. The Cult of the Zenith struck one from a register and the four Duchies annexed the other's edges — two institutions handling the same phenomenon by pretending it is two phenomena
+6. **What is the Fourth's relationship to Corvus?** *(2026-10-08: Corvus's breach is now written — a temple and a door under the seat, opened by a cult; see [[Duchy of Corvus]]. **TheTao's direction:** not an existing temple — perhaps an attempt to *rebuild* one, or something else entirely; a narrative still to be supplied.)* If both were breaches, someone somewhere has noticed. The Cult of the Zenith struck one from a register and the four Duchies annexed the other's edges — two institutions handling the same phenomenon by pretending it is two phenomena
 7. **Names** for the desert and volcano markets — provisionals above are held, not applied
 
 ## 🔗 Connected Notes

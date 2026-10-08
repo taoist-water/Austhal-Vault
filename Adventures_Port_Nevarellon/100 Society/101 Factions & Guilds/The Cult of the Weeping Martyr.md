@@ -41,7 +41,7 @@
 > **The entity.** The Domain of Mercy is the remains of one Creator — a god the Naming made vain and hungry. It demanded to be loved as a Mother, and it fed on those who loved it: their vigour, their health, their years. It sided with the mortals in the War of Creation for the plainest self-interest of all — individuation gave it selves to feed on (see [[Cosmology - The Celestial Graveyard and The war of Creation]]). Its **Ego** was the face it required, the loving Mother. Its **Id** was the appetite.
 > **Why it looks like mercy.** The Tideways took the shape mortals remembered. Its worshippers remembered the face, so its essence settled into the world as Mercy. The mask is what the faithful pray to. The appetite is what answers.
 > **The miracle.** A Weeper does draw the wound and the pain into herself, and she does suffer it. But the current takes more than pain. It also takes **years and vigour** from the healed and passes them to the healer. The patient walks away whole, a little older, a little greyer, with a slightly shorter life that nobody measures. The **golden tears** are that life passing between them. The elders' long lives are not a reward; they are what was taken.
-> **Elara.** Elara found the current — perhaps through a god-shard in the bay-head silt — and walked into the quarantine and fed. The plague broke because she emptied it: the dying went quickly, and the living walked out healed and grey.
+> **Elara.** Elara found the current — perhaps through a shard of wrack in the bay-head silt — and walked into the quarantine and fed. The plague broke because she emptied it: the dying went quickly, and the living walked out healed and grey.
 > **The Taking-On** is the current at full appetite. When a Weeper survives one, someone paid in years for that survival — usually the sufferer, sometimes everyone at the bedside.
 > **Who knows.** Almost no one. Most Weepers believe every word of what they teach. The ones who have done the arithmetic on the elders' ages have kept it to themselves.
 
@@ -60,7 +60,7 @@
 - **The free healing works.** That is the cult's whole power. The Docks love them, the Council tolerates them because the Walk keeps the Docks quiet, and the Landed pay because nothing else they can buy works as well.
 - **The Guild of Alchemists' grievance.** The Guild sells physic, and much of it does not work ([[High Arbiter Sevrin Kalder|Kalder]]'s tincture). The Weepers give theirs away, and it does (see [[The Guild of Alchemists]]).
 - **The Tidespoken.** To the Tongues, an elder who will not age is refusing the tide as surely as a hag does (see [[The Tidespoken Clergy]]). They say so from the Sea-Wall — but the Weepers heal half the Docks, so they do not say it loudly.
-- **The Ashen Veil** teaches that death is the last mercy. A cult whose elders will not die makes them uneasy, and they have never said why.
+- **The [[The Cult of the Ashen Veil|Ashen Veil]]** teaches that death is the last mercy. A cult whose elders will not die makes them uneasy, and they have never said why.
 - **Vulnerabilities:**
   - Anyone who keeps careful records of who was healed, and when they died.
   - The elders' ages.

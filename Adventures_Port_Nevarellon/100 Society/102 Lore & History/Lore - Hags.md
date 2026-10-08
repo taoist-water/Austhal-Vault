@@ -8,7 +8,7 @@
 ---
 
 ## 🌿 What a hag is
-A hag is one of the **Slack-Born** — god-essence that pooled in a still place and quickened, rather than rising to the High Reach or sinking to the Undertow (see [[Cosmology - The Great Fracture]]). She is humanoid where most fey are not, long-lived past any mortal reckoning, and **rooted to a still place**. For most of her long life a hag does not travel. She is found, which is the first price of dealing with her.
+A hag is one of the **Slack-Born** — essence that pooled in a still place and quickened, rather than rising to the High Reach or sinking to the Undertow (see [[Cosmology - The Great Fracture]]). She is humanoid where most fey are not, long-lived past any mortal reckoning, and **rooted to a still place**. For most of her long life a hag does not travel. She is found, which is the first price of dealing with her.
 
 She is also the only fey that trades. The rest of the Slack-Born are beautiful, unhurried and indifferent to mortal purposes. A hag is interested, which is worse.
 
@@ -28,12 +28,12 @@ She cannot go just anywhere. She needs **her own kind of ground** to put her roo
 This is how a hag reaches a place no hag has been before, and why the marsh-folk count the Low Moons tables as closely as the Guild does. When the moons come down, the fen-mother at the end of the channel may not be where she was — and something may have arrived at the dry tarn up the road that was empty last cycle. The next Opening-season Low Moons (~59 A.A.) is close enough that the old guides have started saying so.
 
 ## 🎭 The face she wears
-The fey are beautiful. Hags were too, once. A hag's trade is working Undertow-touched shards into living flesh, and over centuries she has done it to herself as much as to anyone — the Undertow's pull shows in her the way it shows in the people she changes. The Bog-Hags and Brine-Hags wear it openly. The Briar-Hags and Mirage-Hags wear a **glamour** over it, and the glamour holds until it doesn't: a blade of cold iron, a real wound, or the moment she stops bothering. Marsh-folk say the ugly ones are the honest ones. Marsh-folk have not met many of either.
+The fey are beautiful. Hags were too, once. A hag's trade is working Undertow wrack into living flesh, and over centuries she has done it to herself as much as to anyone — the Undertow's pull shows in her the way it shows in the people she changes. The Bog-Hags and Brine-Hags wear it openly. The Briar-Hags and Mirage-Hags wear a **glamour** over it, and the glamour holds until it doesn't: a blade of cold iron, a real wound, or the moment she stops bothering. Marsh-folk say the ugly ones are the honest ones. Marsh-folk have not met many of either.
 
 ## ⚖️ The trade
-A hag's stock is **change**, and a hag **always agrees**. Bring her a shard and tell her what you want to become, and she will make you into it — gills, bark for skin, eyes that drink the dark. [[Morgran the Abomination|Morgran]] is the coast's best-known customer.
+A hag's stock is **change**, and a hag **always agrees**. Bring her a shard of wrack and tell her what you want to become, and she will make you into it — gills, bark for skin, eyes that drink the dark. [[Morgran the Abomination|Morgran]] is the coast's best-known customer.
 
-What she will not do is supply the shard. That has to be brought, which is why the [[The Cobalt Feather Syndicate|Cobalt Feather]]'s shard trade has buyers in places with no alchemists in them.
+What she will not do is supply the shard. That has to be brought, which is why the [[The Cobalt Feather Syndicate|Cobalt Feather]]'s wrack trade has buyers in places with no alchemists in them.
 
 **The price is always paid in full.** What she asks for is rarely coin:
 - **Years** off the far end of a life.
@@ -58,7 +58,7 @@ A coven is the difference between a story the marsh-folk tell and a problem a ci
 A hag beaten to her knees does not beg; she **names her price**. A true answer, a curse lifted, safe passage through her ground. She keeps the letter of it — and whoever accepts is bound by its letter in turn.
 
 ## 🔥 Who hunts them
-- **[[The Tidespoken Clergy]] hunt hags.** To the Tidespoken, the ocean is the **Brine Mother**, the true sovereign of the world, and her teaching is the sea's: everything moves, everything is taken by the tide in its turn. A hag is an **abomination** to that teaching twice over — a thing quickened in water that refused to move, which then takes the Undertow into its hands and works it into living flesh. The clergy hold that anything shaped from an Undertow-shard belongs to the Undertow, which is why they want [[Morgran the Abomination|Morgran]] burned; they want the hag who made him burned first.
+- **[[The Tidespoken Clergy]] hunt hags.** To the Tidespoken, the ocean is the **Brine Mother**, the true sovereign of the world, and her teaching is the sea's: everything moves, everything is taken by the tide in its turn. A hag is an **abomination** to that teaching twice over — a thing quickened in water that refused to move, which then takes the Undertow into its hands and works it into living flesh. The clergy hold that anything shaped from Undertow wrack belongs to the Undertow, which is why they want [[Morgran the Abomination|Morgran]] burned; they want the hag who made him burned first.
   The hags' best protection has always been where they root — marsh and reef, where the Tidespoken's reach is thinnest. The Low Moons are the one time a hag is out of her ground and on the move, and the Tidespoken know it.
 - **Marsh-guides** carry a cold-iron nail on a cord and do not explain why.
 
@@ -70,7 +70,7 @@ A hag beaten to her knees does not beg; she **names her price**. A true answer, 
 - ~~**Where the Mirage-Hags are.**~~ **Decided 2026-10-07 (TheTao):** the abandoned salt-pans of Valerius — **the Dry Pans** north of Brinewick, where the bond-rows call her the Thirsty Woman. An adventure hook (see [[Duchy of Valerius]]). The Twelgorn marsh-fringe tarns remain possible ground for others.
 - **Where the Briar-Hags are.** The rotting marsh-timber forests of the Silted Marshes, or the flooded margin of the oak forests below the Spine?
 - **Morgran's hag.** Is she still in the Grey Veins — and if the Low Moons have come and gone since, is she still anywhere he could find her?
-- **Cold iron.** The vault has never said why it answers the fey. Folk knowledge, or something about how god-essence and pure iron meet?
+- **Cold iron.** The vault has never said why it answers the fey. Folk knowledge, or something about how essence and pure iron meet?
 - **What a coven can change** that a lone hag cannot — a whole village? The land itself?
 
 ---

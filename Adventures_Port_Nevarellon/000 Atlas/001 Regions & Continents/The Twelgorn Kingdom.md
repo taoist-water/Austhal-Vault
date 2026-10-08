@@ -44,8 +44,8 @@ Religion in Tuwal Ghorun is monotheistic. Its god lives beneath the capital, and
 - **What it gives.** The Blessing. What the god takes in return is not recorded anywhere the coast can read.
 - **The omen.** For fifty-eight years the god has told the realm to wait for a sign before moving north: **the Low Moons falling in the Opening**, the next of which is due around **59 A.A.** (see [[Framework - The Coastal Reckoning]]). The Opening is the coast's worst season to be struck — the trade season fails and the Duchies are caught with their levies idle.
 
-> **GM-facing.** *What it actually is:* not a god in the old sense, but the largest *intact* remnant of a Creator to survive the Deicide — a Reach-aligned god-essence that should have risen to the High Reach and instead lies held in the Slack Water. The founders bound it with the same stolen craft the mortals turned on their Creators. It is the one god-remnant on Austhal known to answer.
-> Tuwal Ghorun cannot lie, but it chooses what it says. The omen is true and incomplete. The Low Moons destabilise anything touched by god-essence, and a Binding is exactly that. The invasion the realm thinks is prophecy is the god's escape. Its fifty-eight years of patience were never the realm's restraint.
+> **GM-facing.** *What it actually is:* not a god in the old sense, but the largest *intact* remnant of a Creator to survive the Deicide — a Reach-aligned essence that should have risen to the High Reach and instead lies held in the Slack Water. The founders bound it with the same stolen craft the mortals turned on their Creators. It is the one Creator remnant on Austhal known to answer.
+> Tuwal Ghorun cannot lie, but it chooses what it says. The omen is true and incomplete. The Low Moons destabilise anything touched by essence, and a Binding is exactly that. The invasion the realm thinks is prophecy is the god's escape. Its fifty-eight years of patience were never the realm's restraint.
 > *`needs crunch` — the Blessing (Reach-touched mutation), Tuwal Ghorun itself, and giant/ogre stat blocks belong to the Iron & Marrow ruleset.*
 
 ---

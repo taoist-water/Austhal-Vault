@@ -42,7 +42,7 @@
 - **The cage.** A Sealed Master may not leave the Guild's service. The Guild pays them well and honours them: masters are Landed, and their children marry into Landed houses. A master who walks out is **Unsealed**, and the Searchers come for them. The Guild does not publish what happens next.
 - **Rogue alchemists** come in two kinds:
   - **The Unsealed.** Defectors who know part of the process and are hunted for it. [[Silas Bane]]'s rogue cell is drawn from *rogue members of the Port Nevarellon chapter* — Unsealed in all but name, and the Searchers are working through the chapter's lists.
-  - **Hedge-chemists.** Never admitted. They buy god-shards from the [[The Cobalt Feather Syndicate|Cobalt Feather]] and [[Sun-Iron]] from the [[The Iron-Anchor Syndicate|Iron-Anchor]], and make things that sometimes work. None of them makes powder that keeps.
+  - **Hedge-chemists.** Never admitted. They buy wrack from the [[The Cobalt Feather Syndicate|Cobalt Feather]] and [[Sun-Iron]] from the [[The Iron-Anchor Syndicate|Iron-Anchor]], and make things that sometimes work. None of them makes powder that keeps.
 
 ---
 
@@ -62,7 +62,7 @@
 - **Brine-Fire.** Licensed stock only. Before every Low Moons the chapter performs **the Shuttering**: every measure of Brine-Fire in the city is sealed and logged until the moons rise again.
 - **The Low Moons tables.** Reckoned in days at the Chapter-House and sold. The Tidespoken give their warnings away free at the Sea-Wall, so the poor are warned last, but they are warned.
 - **Physic and glass.** Lenses ([[Lucia Marrenhal]]'s, at ruinous cost) and tinctures ([[High Arbiter Sevrin Kalder]]'s, which does not work). The Weeping Martyr's healers give theirs away below the toll-gates, and it does work — a grievance the Guild's physicians have never forgiven (see [[The Cult of the Weeping Martyr]]).
-- **Shard-assay.** The licensed assay and working of god-shards. This is the monopoly the Cobalt Feather's customers are paying to get around.
+- **Wrack-assay.** The licensed assay and working of wrack. This is the monopoly the Cobalt Feather's customers are paying to get around.
 
 ---
 
@@ -88,7 +88,7 @@ The Port Nevarellon chapter is **Layer 3** by reach. It holds two **Layer 1 chok
 - **Chokepoint:** the white salt.
 - **Enforcement:** the licence (the Powder Edict gives the chapter's paper the force of law), the Searchers, and refusal to sell.
 - **Geographic anchor:** in the city, the Chapter-House observatory and the Powder Hulk. The parent Guild has none, by design.
-- **Bypass:** Unsealed masters; hedge-chemists buying shards and Sun-Iron; the Tidespoken's free tables.
+- **Bypass:** Unsealed masters; hedge-chemists buying wrack and Sun-Iron; the Tidespoken's free tables.
 - **Cost & Mote:** The cost is the bondsmen in the nitre-yards, the Right of the Spade, and the poor warned last. The mote is that **the Guild is the one door in Port Nevarellon that opens by examination**, not by birth or money. A Sunken Ward child who can reckon the moons can sit the test. The door never opens outward again, but it opens. And the Guild keeps its maimed: a burned journeyman is kept on as a tallyman, and a master's widow draws a pension.
 
 > *`needs crunch` — powder, firearms and licences; Brine-Fire; alchemical failure in the Low Moons; licence and powder prices. These belong to the Iron & Marrow ruleset.*

@@ -8,7 +8,7 @@ Religion across the Whispering Coast is deeply paganistic. The cults pray to **D
 - **The Saints and Paragons:** The cults teach that no mortal mind can hold a Domain whole, so the faithful pray to the historical figures who once bent one — saints, military martyrs, cynical prophets, and in one case a wave. The saint is the door; the Domain is the room.
 - **The Mechanics (GM-facing):** A priest's "Faith" is what protects their mind from the chaotic energy. When casting, they don't call upon a god; they invoke the name and deed of a Saint to anchor their mind.
 
-> **GM-facing.** There are no living gods answering prayers on the coast. A Domain is a specific current of shattered god-essence, drawn from all through the Tideways rather than sorted neatly into the High Reach or the Undertow (see [[Cosmology - The Great Fracture]]). The miracles are real; every cult's explanation of them is its own. The one god-remnant known to answer is in the south — see [[The Twelgorn Kingdom]].
+> **GM-facing.** There are no living gods answering prayers on the coast. A Domain is a specific current of shattered essence, drawn from all through the Tideways rather than sorted neatly into the High Reach or the Undertow (see [[Cosmology - The Great Fracture]]). The miracles are real; every cult's explanation of them is its own. The one Creator remnant known to answer is in the south — see [[The Twelgorn Kingdom]].
 
 ---
 
@@ -16,6 +16,7 @@ Religion across the Whispering Coast is deeply paganistic. The cults pray to **D
 - **The Paragon:** *Saint Senecus the Unyielding*
 - **The Lore:** Senecus was an ancient military philosopher who held a doomed mountain pass against a horde of aberrant monstrous races. He taught that true victory isn't survival, but the stoic adherence to tactical duty regardless of the odds. 
 - **Flavor/Trappings:** Polished iron shields, clean-cut discipline. Prayers are recited as short, pragmatic tactical maxims.
+- **See:** [[The Cult of the Iron Horizon]] — the Held Pass, Maxim Night and the Relief.
 
 
 ## 2. The Domain of Trickery (The Cult of the Crooked Coin)
@@ -35,12 +36,14 @@ Religion across the Whispering Coast is deeply paganistic. The cults pray to **D
 - **The Paragon:** *Vael the Mute*
 - **The Lore:** Vael was a grave-keeper who survived the horrific aftermath of the pre-sundering wars. He taught a philosophy of absolute pessimism—that life is merely a loud, painful interruption of the peaceful void, and death is the ultimate mercy to be respected, not feared.
 - **Flavor/Trappings:** Black hooded raiment, stark quiet expressions. Prayers manifest as chilling quietude and falling feathers.
+- **See:** [[The Cult of the Ashen Veil]] — Featherfall, the Quiet Hour, the Pauper's Procession and the Long Carry.
 
 
 ## 5. The Domain of Winter & Wilds (The Cult of the Rime-Fang)
 - **The Paragon:** *Kaelen the Survivor*
 - **The Lore:** A tribal matriarch from the deepest winters of the north who supposedly hunted a primordial winter-drake with nothing but an iron spear and her bare teeth. She embodies the raw, animalistic grit required to survive when civilization fails.
 - **Flavor/Trappings:** Heavy white wolf pelts, frosted breath. Prayers manifest as freezing howling wind and ice.
+- **See:** [[The Cult of the Rime-Fang]] — the Rime Hunt, Bare-Teeth Night and Pilgrim's Notch.
 
 
 ## 6. The Domain of Mercy & Healing (The Cult of the Weeping Martyr)

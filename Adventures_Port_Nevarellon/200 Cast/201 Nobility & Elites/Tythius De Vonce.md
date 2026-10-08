@@ -22,7 +22,7 @@
 - **Moral Compromises:** To fund his massive border keeps, Tythius turns a blind eye to the brutal working conditions within his iron mines. He also quietly permits certain "controlled" Undertow-touched alchemical weapons to be tested by his garrison captains, violating the spirit of the old laws for the sake of tactical readiness.
 
 ## 📜 Backstory & Current Role
-Tythius was a young commander during the brutal Civil War that shattered the old kingdom. He personally witnessed the execution of the last King and was one of the original signatories who negotiated the Ducal Accord with the rising merchant class. Having lived for nearly nine decades, he has outlived all the original human merchants who hired the Golden Company. 
+Tythius was a young commander during the brutal Civil War that shattered the old kingdom. He personally witnessed the execution of the last King and was one of the original signatories who negotiated the Ducal Accord with the rising merchant class. Six years later he was holding the Adderwater against what came out of Corvus in the Demon Wars, and he has kept a levy on that line ever since (see [[Duchy of Corvus]]). Having lived for nearly nine decades, he has outlived all the original human merchants who hired the Golden Company. 
 
 He treats Port Nevarellon with cold, calculated pragmatism. He despises the Council of Five, viewing them as greedy usurpers who ruined the natural feudal order. However, he is bound by the Accord. He frequently travels to the city's High Quarter to ensure the Council's maritime taxes continue to fund the protection of his duchy's borders, reminding them that if De Vonce falls to the wild inland, the city's trade will follow.
 

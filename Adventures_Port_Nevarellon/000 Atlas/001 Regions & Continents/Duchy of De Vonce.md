@@ -54,7 +54,7 @@ Tythius married her in the war, in −4 A.A., and her house's coin paid his levi
 ### Sheandri De Vonce
 34. The younger daughter, and she looks younger still.
 - **Service.** She served six years with the border levy under [[Castellan Senna Cade]], the only De Vonce who has stood a winter at Adder's Gate.
-- **The match.** Her father wants her married into Stonereach. She refuses, and not for love. The match would put her six to eight days into the passes, and leave nobody at Iron-Spire who will tell Eldrick no.
+- **The match.** Her father wants her married to Cato Scutarius, the Stonereach heir (see [[Duchy of Stonereach]]). She refuses, and not for love. The match would put her six to eight days into the passes, and leave nobody at Iron-Spire who will tell Eldrick no.
 
 ### Serrian De Vonce, of the cadet line
 Tythius's nephew, kept far from the succession and close to the forges: **master of Coldhelve**, where the High-Steel is made. Nobody in the house has ever asked what Serrian wants. Nobody thinks they need to.
@@ -71,7 +71,7 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 - **Adder's Gate** stands at the end of the Concord Road's military spur, above the ford at Bittern's Ford. It is the last garrison before the ash, and its castellan is **[[Castellan Senna Cade]]**. Knights were offered the post and refused it. **Wardstone Watch**, the second tower, answers to her as well, and everyone knows it is undermanned.
 - **The weapon tests.** The Duke permits his garrison captains to test certain "controlled" weapons — alchemical, and Undertow-touched — on ground in the upper Sisters. The tests run under Eldrick's captains. Senna Cade will not have them on her ground.
 
-> **GM-facing.** Where the weapons come from is not settled: the Guild, the Unsealed, or someone closer to home (see Open Questions). They work. They are also exactly the kind of god-touched thing the Low Moons destabilise, and the tests have been stockpiling them a day's ride from the Scar.
+> **GM-facing.** Where the weapons come from is not settled: the Guild, the Unsealed, or someone closer to home (see Open Questions). They work. They are also exactly the kind of essence-touched thing the Low Moons destabilise, and the tests have been stockpiling them a day's ride from the Scar.
 
 ---
 
@@ -90,7 +90,7 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 - **The mines** are worked hard and badly. Shafts flood in the Winter Moons, and the mine-captains are paid by the ton, not by the man. The Duke knows and looks away, because the ton pays for the border.
 - **Once a year the Weepers walk the mine-towns** and heal for nothing (see [[The Cult of the Weeping Martyr]]). The mine-captains welcome them, because a healed miner goes back down.
 
-> **GM-facing — the war-bone.** The bone Longbarrow ploughs up is the petrified remains of the War of Creation (see [[Cosmology - The Celestial Graveyard and The war of Creation]]). Ground to meal it is almost entirely inert, and the fields it feeds are the richest in the duchy. *Almost*: now and then a fragment still carries god-essence. Marrowmill's miller sells those, quietly, to the Guild's shard-assayers. The locals who will not eat the bread are wrong about the bread and right about the mill.
+> **GM-facing — the war-bone.** The bone Longbarrow ploughs up is the petrified remains of the War of Creation (see [[Cosmology - The Celestial Graveyard and The war of Creation]]). Ground to meal it is almost entirely inert, and the fields it feeds are the richest in the duchy. *Almost*: now and then a fragment is still wrack. Marrowmill's miller sells those, quietly, to the Guild's wrack-assayers. The locals who will not eat the bread are wrong about the bread and right about the mill.
 
 ---
 
@@ -113,10 +113,12 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 ---
 
 ## 🕯️ Faith
-- **The Iron Horizon** is the officers' faith. Maxim Night initiates them, and every knight keeps the Held Pass vigil before his Blooding. *(Cult note to come in the regional-cult pass.)*
+- **The Iron Horizon** is the officers' faith. Maxim Night initiates them, and every knight keeps the Held Pass vigil before his Blooding (see [[The Cult of the Iron Horizon]]).
 - **The Weepers** walk the mine-towns once a year.
+- **The Rime-Fang** is kept by the miners of the upper Sisters, who are snowed in through Deepcold (see [[The Cult of the Rime-Fang]]).
 - **The Zenith** keeps no house in the duchy. The Duke's justice is given in his own hall, and the Register touches De Vonce only where an instrument touches the city.
-- **The Ashen Veil** and the **Tidespoken** have little hold this far inland. *(To be set in the regional-cult pass.)*
+- **The Ashen Veil** buries De Vonce's dead, as it buries nearly everyone's: Featherfall in every parish (see [[The Cult of the Ashen Veil]]).
+- **The Tidespoken** have little hold this far inland.
 
 ---
 
@@ -125,7 +127,7 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 - **The city over De Vonce:** the Council's subsidy pays for the border, and the only market for the ore is Port Nevarellon's.
 - **[[Jeerdan Darcy]].** The Duke demands his paper, and the Warden and the castellan at Adder's Gate get on very well.
 - **[[High Captain Marco]]** wants the border reports from Adder's Gate. Tythius will not share them.
-- **Stonereach:** the match the Duke wants and his daughter refuses.
+- **Stonereach:** the match the Duke wants and his daughter refuses. Duke Brennus has not answered either, and the Road's north-east leg is a running quarrel over winter provisioning.
 - **Valerius:** blood kin through Cassia, and creditor to half the Iron Court.
 - **Aerthos:** feeds the border levy. Duke Felician offered his daughter Livia to Eldrick two years ago, and Tythius has not answered (see [[Duchy of Aerthos]]).
 - **Tuwal Ghorun:** a daughter at the Gathering.
@@ -155,14 +157,14 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 - **The Blooding:** does the Shard-Blade's cut leave a mark with mechanical weight?
 - **High-Steel:** refining, price, and what Coldhelve can supply.
 - **The Undertow-touched weapons** being tested in the Sisters, and their behaviour at the Low Moons.
-- **War-bone:** shard fragments in the bone-meal (shard-assay).
+- **War-bone:** wrack in the bone-meal (wrack-assay).
 - **Elven-blooded ageing:** Tythius, and his quarter-elven children.
 
 ---
 
 ## ❓ Open Questions
 - **Who made the weapons?** The Guild, the Unsealed, or someone closer — Imaihil's library is the obvious place to look, and possibly the wrong one (see [[The Guild of Alchemists]]).
-- The Stonereach match: to whom? Aerthos got there first — Calvus Hordeus married a niece of the Duke of Stonereach. *(Stonereach pass.)*
+- The Stonereach match: Cato Scutarius, the heir and a widower. Aerthos got to Stonereach first — Calvus Hordeus married the Duke's niece Aemilia (see [[Duchy of Stonereach]]).
 - Ellenst's children: how many, and do they know what they are to the coast?
 - What has the house's library kept about the Corvus valley before 8 A.A.?
 

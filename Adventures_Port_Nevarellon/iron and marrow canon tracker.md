@@ -14,6 +14,51 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-08 — The regional cults
+- **New faction notes (draft):** The Cult of the Iron Horizon, The Cult of the Rime-Fang, The Cult of the Ashen Veil — written in-world, ground truth in GM-facing callouts.
+- **Ground truth (GM-facing), placed in the Celestial Graveyard:**
+  - **The Bastion** (Purge) — Creator of thresholds and limits, named a general; designed many of the living weapons. Behind Strategy. Its current removes doubt, and the faithful cannot break even when they should.
+  - **The Unmoving** (Purge) — Creator of stillness and constancy; wanted the Sphere frozen. Behind Winter & Wilds. The winter-drake was its weapon; **Kaelen killed it and ate it** (unanchored wrack), and was slowed past feeling. Its current slows hunger, cold and wounds, and slowly the faithful's warmth.
+  - **The Quiet** (Alliance) — Creator of the turn, the still point of the Sphere's cycle, named Death. Behind Death. Its current ends what is already ending, and **takes nothing**. The Long Carry works, but nothing goes up to the High Reach.
+- **Paragons:** Senecus was real, from the old empire's frontier; the faith came over with the settlers. Vael is the oldest paragon, from the aftermath of the War of Creation. **Kaelen's people lived in the high Spine before the settlement** — the Rime-Fang is the one faith the settlers found here (new; open question on whether Ubaraz remembers them).
+- **New titles:** Maxim-Keeper (Iron Horizon); Fang-mothers (Rime-Fang); the Mute and the grave-keepers (Ashen Veil). The Mute's name is open.
+- **Featherfall is the coast's common burial**; the Ashen Veil buries in all four standing duchies. The Tidespoken faithful go to the ebb. Duchy Faith sections updated (the "regional-cult pass" placeholders are gone).
+- Name Tables T3 #11–12, #17–21 allocated; #30 (the Sleet Vigil) tied to the Rime-Fang. _Home, Religion, Martyr and Lore - Wretches linked.
+
+### 2026-10-08 — Wrack and essence (terminology)
+- **"God-shard" → wrack** (TheTao). Wrack is the solid form of essence, from the Creators and from the entities they made for the war; **a shard** is one piece; **unanchored wrack** still bleeds essence; street names **black wrack** (Undertow) and **pale wrack** (High Reach). Defined in Cosmology - The Great Fracture § Wrack.
+- **"God-essence" → essence** (TheTao): *god* is a mortal word laid over the nameless in the Naming. "God-touched" → essence-touched; "god-remnant" → Creator remnant.
+- **Kept:** the Shard-Blade (a proper name); *Undertow-touched* as the adjective for taint; *god* and *gods* where mortals or cults are speaking.
+- Swept across 21 notes; the old terms survive only in this log.
+- **Rules flag:** the Iron & Marrow ruleset still says *god-shard* / *god-essence* — not carried over.
+
+### 2026-10-08 — The Seven, and the Long Carry
+- **The Seven named** (from the Name Tables, TheTao's instruction): Duke **Hadrian Corvus**; **Dorrun Halt-Adze** (Ubaraz engineer, brought the mountain down); **Corran Ossius** (Corvus knight); **Maryn Aske** (midwife, Ashen Veil); **Tamsin Vole** (miner); **Hallam Drey** (De Vonce levy sergeant, Iron Horizon); **Marren Loweb** (elf scholar who read the temple's script).
+- **The Ashen Veil go into the Scar** (TheTao). The Scar holds more Wretches than anywhere on the coast. The rite is **the Long Carry**; the Veil say it guides the spirit to the High Reach (in-world belief; ground truth in the Ashen Veil pass). Lore - Wretches updated.
+- **Who built the temple** stays open, for TheTao.
+- **The Fourth:** not an existing temple — perhaps an attempt to rebuild one, or "something else" (TheTao's narrative, to come). Wondrous Markets Q6 and Duchy of Corvus updated.
+
+### 2026-10-08 — Corvus and the Demon Wars
+- **New notes (draft):** Duchy of Corvus (House Corvus inside it), Corvus Spire.
+- **The Demon Wars (~6–8 A.A.)** replace the single-night "Cataclysm". A breach opened out of Corvus's deep works at the Low Moons of ~6 A.A.; Corvus fought for two years and lost its valley; De Vonce held the Adderwater; Ubaraz shut its gates; the refugees fled to the city. At the next Low Moons (~8 A.A.) **the Seven** went down into the Spire and the mountain fell. Both Low Moons dates derive from the 840-day cycle.
+- **In-world vs ground truth:** the coast believes the pressure of what came through brought the peak down; the refugees believe the Seven did it. Five Duchies § The Cataclysm re-voiced accordingly.
+- **Ground truth (TheTao's design intent, 2026-10-08):** the wrack-mining broke into **a lost temple** older than the settlement, built over the seam, holding **a door into the Undertow**. **The Undercourt** — a cult of Corvus miners and Ubaraz engineers led by **Quintus Corvus**, the Duke's brother — opened it to pull the Undertow up into the Slack Water, with the valley as the beach-head. **Duke Hadrian Corvus**, a Ubaraz engineer and five others (the Seven) brought the mountain down on it, using the dwarven undoing-works. **The door is buried, not closed, and strains at every Low Moons.**
+- **The Corvus claimant (decided 2026-10-07, written now):** Duke Hadrian's infant, carried out by a nurse; now fifty, in Cinder Row, unknowing; one elder keeps the **raven seal**; the birth is lodged in the Register; voidable, never confirmable. Hook: Dray's eleven weeks.
+- **The border-holders** of all four duchies written (Three Layers vacancy 5 filled); the Quiet Steading allocated (the family at Senna Cade's ford).
+- Tythius held the Adderwater in the Demon Wars. Brekka's line knows a Ubaraz engineer brought the mountain down.
+
+### 2026-10-07 — Stonereach
+- **New notes (draft):** Duchy of Stonereach (House Scutarius written inside it), Granite Spire, Brekka Stonegraft.
+- **House Scutarius** ("the Shields") rules Stonereach. **Duke Brennus Scutarius** (58); heir **Cato** (36, widower) — the match Tythius wants for Sheandri; niece **Aemilia** — married to Calvus Hordeus (closes the Aerthos binding).
+- **Ash-money.** Stonereach's tolls tripled when the Corvus road died in 8 A.A.; the house has been rich since.
+- **The passes:** Thraw's Pass carries the Concord Road up to Granite Spire; **the Long Graft** (Name Tables T4 #13) is the crest road west to Ubaraz — longest, lowest, most heavily tolled. Sleetgate (winter-closed), the Notch (smugglers).
+- **The dwarves:** Ubaraz's Keystone crews keep Granite Spire's lower works; Ubaraz contract crews work Deepgraft under Brekka Stonegraft's stamp. **Ubaraz has not opened its down-valley gates since 8 A.A.** and pays the tolls without complaint.
+- **Sun-Iron** comes out of Deepgraft's deep seams; the Iron-Anchor smuggles it over the Notch.
+- **No masons' guild in the city:** granite stone-work goes through Ubaraz factors (closes the Duchy-pass seam).
+- **Stonereach cannot feed itself**: Aerthos grain comes up the Road, and part of it goes on to Ubaraz.
+- **Storm-right**: in a storm every keep opens and the toll is waived.
+- **GM-facing:** the Keystone crews can bring down Granite Spire's upper works (the house suspects); Ubaraz shut its gates over what it saw in 8 A.A. (Corvus pass); Deepgraft's deep drift is heading toward the Corvus seam — warm, glassy rock — and Brekka will not stamp it.
+
 ### 2026-10-07 — The Dry Pans (Mirage-Hags)
 - **Mirage-Hags live in the abandoned salt-pans of Valerius** (TheTao) — the **Dry Pans** north of Brinewick, cut off from Coldspar Mere by a storm two generations ago. The bond-rows call her **the Thirsty Woman**. Written as an adventure hook in Duchy of Valerius; Lore - Hags open question closed.
 - **GM-facing:** a runaway who pays her a name is forgotten by everyone who reads their bond — and by their family. Low Moons (~59 A.A.) coven risk.
@@ -50,7 +95,7 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 - **The Iron Court** is De Vonce's sworn knights; **the Blooding** is a palm cut with the Shard-Blade after the Held Pass vigil.
 - **High-Steel is refined only at Coldhelve**, which is why the monopoly is decreed jointly by the Council and the Duke.
 - **The Slowmarrow joins the Aer** above Port Nevarellon (Name Tables had it running to the Silted Marshes, which the compass no longer allows).
-- **GM-facing:** the Longbarrow war-bone is War of Creation remains, almost entirely inert; Marrowmill sells the occasional live fragment to the Guild's shard-assayers.
+- **GM-facing:** the Longbarrow war-bone is War of Creation remains, almost entirely inert; Marrowmill sells the occasional live fragment to the Guild's wrack-assayers.
 - Tythius: children's links repointed to the duchy note; the Golden Company path link made bare.
 
 ### 2026-10-07 — The compass
@@ -107,7 +152,7 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 - **The Guild of Alchemists** is one cross-border body, holding the secret of black powder; every major power courts it for preferential deals.
 - **Firearms:** only for the very wealthy or very important. Black powder is a controlled substance → **The Powder Edict** (fifth Edict of Armament).
 - **The Shades has two deeds.** Garrick and the Dolly Sisters each hold a Council-stamped deed to the same hull. Neither will take it to the Zenith, which could void both and confirm neither.
-- **Morgran's origin rewritten.** He was a marsh trader who fell in love with a Slack-Born fey. He had a hag work an Undertow-touched shard into his body so he could live in her water; she rejected what he became. He is now based at Fenmouth.
+- **Morgran's origin rewritten.** He was a marsh trader who fell in love with a Slack-Born fey. He had a hag work a shard of Undertow wrack into his body so he could live in her water; she rejected what he became. He is now based at Fenmouth.
 - **Fey and hags enter the cosmology** as the Slack-Born (Great Fracture).
 - **Numbers corrected:**
   - Palla has held her seat for **58** years (not 80).
@@ -139,7 +184,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 - **"-Spire" convention:** a spire is the natural formation, and a seat cut into it takes its name. Apply this to any future seat.
 - **Layers sort by reach, not rank** (Framework - The Three Layers). Every new entity gets a Layer and the five fields.
 - **Motes of hope:** grimdark stakes with small motes of hope. Write "none, deliberate" rather than leaving a mote blank.
-- **Two voices — ground truth vs. in-world belief.** Cosmology and framework notes are ground truth and open with a GM-facing banner; no one in Austhal knows them whole. Faction, location and people notes are written in-world — what people believe, practise and claim — and may be wrong. Ground truth inside an in-world note goes only in `> **GM-facing.**` callouts. Miracles are real; each cult's explanation of them is its own. Folk vocabulary (*god-shard*, *the Undertow*, *Undertow-touched*, *the Heavens*) is in-world and fine; the Deicide, the War of Creation, what Domains and moons really are, and that the monstrous races were made as weapons are not common knowledge. Epigraphs from ancient fragments and fringe scholars may glimpse the truth; ordinary people do not.
+- **Two voices — ground truth vs. in-world belief.** Cosmology and framework notes are ground truth and open with a GM-facing banner; no one in Austhal knows them whole. Faction, location and people notes are written in-world — what people believe, practise and claim — and may be wrong. Ground truth inside an in-world note goes only in `> **GM-facing.**` callouts. Miracles are real; each cult's explanation of them is its own. Folk vocabulary (*wrack* — formerly *god-shard*, *the Undertow*, *Undertow-touched*, *the Heavens*) is in-world and fine; the Deicide, the War of Creation, what Domains and moons really are, and that the monstrous races were made as weapons are not common knowledge. Epigraphs from ancient fragments and fringe scholars may glimpse the truth; ordinary people do not.
 - **Naming registers A–F** (Reference - Name Tables). The register is the class marker.
 
 ---
@@ -168,11 +213,14 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Dry Pans | Valerius, north of Brinewick | Abandoned salt-pans (T—); a Mirage-Hag, "the Thirsty Woman", where runaway bondsmen go | Duchy of Valerius; Lore - Hags | **NEW 2026-10-07.** Adventure hook |
 | Brinewick · Netherquay · Palefast · Coldspar · Gullstand · Widow's Reach | Valerius coast | Bond-worked pans and cured fish (T2) · Meridian resupply port (T1) · fort on Palefast Head (T1) · cliff village, wrecking unproven (T1) · egg-harvest (T0) · drownings (T0) | Duchy of Valerius; Name Tables T3 #21–26 | **NEW 2026-10-07** |
 | Coldspar Mere · the Cropped Downs · the Colding · Gull Cape · Palefast Head | Valerius | Brackish lagoon feeding the pans · walled vineyards · river freezing at the mouth · cliff colonies · headland | Duchy of Valerius; Name Tables T4 | **NEW 2026-10-07** |
-| Duchy of Stonereach (High Shields) | North-eastern Spine; its passes run west along the crest to Ubaraz | Granite; dwarven engineering; toll-keeps | Five Duchies; Three Layers | Since 8 A.A. its passes are Ubaraz's only road to the coast (2026-10-07) |
-| Granite Spire | Stonereach passes | Seat of Stonereach; ~6–8 days by horse | Five Duchies | No file |
-| The Corvus Scar | The long valley in the Spine's southern flank; Ubaraz at its head; all four standing duchies on its edges | Ash-Blight (Undertow-touched soot); Dust-Wretches walk it; House Corvus functionally extinct; creeping annexation that can never be made lawful | Five Duchies; Cult of the Zenith | Fall dated **8 A.A. (confirmed 2026-09-28)** |
-| Corvus Spire | Buried under the Scar | Ancestral seat; named for the peak that fell on it. **Broken Ward** is the folk name for the stump | Five Duchies; Name Tables T4 #9 | No file |
-| The Scar-Holders' steadings | Clean pockets inside the Scar | Squatters and farmers with no deed; the "chimneys that aren't supposed to exist" | Five Duchies | *The Quiet Steading* (Name Tables #31) proposed as the type specimen — unallocated |
+| Duchy of Stonereach (High Shields) | North-eastern Spine; its passes run west along the crest to Ubaraz | Granite, tolls (ash-money since 8 A.A.), dwarven engineering; ruled by House Scutarius | Five Duchies; Three Layers; **Duchy of Stonereach** | Since 8 A.A. its passes are Ubaraz's only road to the coast (2026-10-07) |
+| Granite Spire | Head of Thraw's Pass, where the Concord Road ends | Seat of House Scutarius; dwarven-built; Ubaraz's Keystone crews in the lower works; ~6–8 days by horse | Five Duchies; Granite Spire | **Filled 2026-10-07 (draft).** Mote: storm-right |
+| Kettlehold · Thrawgate · Deepgraft · Sleetfall · Grimscree · Pilgrim's Notch | Stonereach | Pass-bowl toll town (T2) · Thraw's Pass fort (T1) · deep mines, Ubaraz crews (T1) · self-governing snow village (T1) · granite quarry (T0) · Rime-Fang shrine on the Long Graft (T0) | Duchy of Stonereach; Name Tables T3 #9–14 | **NEW 2026-10-07** |
+| Thraw · Thraw's Pass · the Long Graft · Sleetgate · the Notch · the Tinwater · Kettle Tarn | Stonereach | Peak · the Road's pass · crest road to Ubaraz · winter-closed pass · smugglers' track · tailings river · pass-bowl lake | Duchy of Stonereach; Name Tables T4 | **NEW 2026-10-07** |
+| The Corvus Scar | The long valley in the Spine's southern flank; Ubaraz at its head; all four standing duchies on its edges | Ash-Blight (Undertow-touched soot); Dust-Wretches walk it; House Corvus functionally extinct; creeping annexation that can never be made lawful; the buried door under Broken Ward (GM) | Five Duchies; Cult of the Zenith; **Duchy of Corvus** | Fall dated **8 A.A. (confirmed 2026-09-28)**; Demon Wars ~6–8 A.A. (2026-10-08) |
+| Corvus Spire | Buried under Broken Ward | Ancestral seat; named for the peak that fell on it. **Broken Ward** is the folk name for the stump. The temple and the door lie under its deep works (GM) | Five Duchies; Name Tables T4 #9; Corvus Spire | **Filled 2026-10-08 (draft).** T— |
+| The Scar-Holders' steadings | Clean pockets inside the Scar | Squatters and farmers with no deed; the "chimneys that aren't supposed to exist" | Five Duchies | **The Quiet Steading allocated 2026-10-08** — the family at Senna Cade's ford. Also Ashenford, Cinderhollow, Blackrun, Corvus Low (Duchy of Corvus) |
+| Lake Ashen · Blackcopse · the Ash Plain · the Blackrun | Corvus Scar | Dead lake · unburnable dead timber · the dead heart · acid river | Duchy of Corvus; Name Tables T4 | **NEW 2026-10-08** |
 | The Ducal Concord Road | Port Nevarellon → Iron-Spire → NE to Granite Spire; spur west to Millhaven; military spur north to Adder's Gate | Only infrastructure the Council and Dukes built together; ~300 miles; four garrison posts | Five Duchies; Three Layers; Jeerdan Darcy | Warden: Jeerdan Darcy. The military spur ends at Adder's Gate, facing the Scar |
 | Adder's Gate | De Vonce; end of the Road's military spur | Border fort facing the Corvus Scar — the last garrison before the ash | Five Duchies; Three Layers; Name Tables T3 #4 | **NEW 2026-10-07.** Castellan: Senna Cade |
 | **The Spine Aqueduct** ("the Duke's Straw") | Western foothills of the Jagged Spine, inside De Vonce → High Quarter cisterns | The city's only piped fresh water; built pre-Accord; shares a corridor with the Concord Road | Three Layers; Port Nevarellon; Five Duchies; Tythius | **NEW ROW.** Tythius's non-use is the mote |
@@ -190,7 +238,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Greywater Lagoon ("Grey Water") | Beside Divtown | Hidden deep-water pirate anchorage; Iron Boom; canopy snipers | Greywater Lagoon.md | Filename "Greywater", display "Grey Water" — both accepted |
 | The Sunken Causeway | Silted Marshes | Drowned royal highway; hull-ripper | Silted Marshes | Inline only — fine |
 | The Jagged Spine | The coast's northern wall, from Ubaraz inland to the sea; drowns NE as the Shield Atolls | Winter Moons storms; site of the Corvus breach | History; Five Duchies; Inner Sea | Geography filled 2026-10-07; rest template |
-| Ubaraz Kingdom | In the Jagged Spine at the inland head of the Corvus valley — furthest from the coast (dwarven) | Engineered the Basin seawalls; old trading partner; no Council seat; reaches the coast only through Stonereach since 8 A.A. | Council of Five; Great Anchor Basin; Five Duchies; History | **Placed 2026-10-07 (TheTao).** Geography filled; rest template. Open: what it saw of the 8 A.A. breach |
+| Ubaraz Kingdom | In the Jagged Spine at the inland head of the Corvus valley — furthest from the coast (dwarven) | Engineered the Basin seawalls; old trading partner; no Council seat; reaches the coast only through Stonereach since 8 A.A. | Council of Five; Great Anchor Basin; Five Duchies; History | **Placed 2026-10-07 (TheTao).** Geography filled; rest template. Down-valley gates shut since 8 A.A.; pays Stonereach's tolls without complaint (2026-10-07). Open: what it saw of the breach — Corvus pass |
 | The Kald Mountain Territory | West, across the wild inland beyond Aerthos | The Kald Mountains; nothing else established | Whispering Coast; History; Name Tables T4 #2 | **Placed 2026-10-07**; rest template |
 | The Wastelands | Within Austhal | Nothing established beyond Name Tables (Cinder Flats, Boneground; orcs born free there) | Austhal; Name Tables | **Empty file — gap** |
 | **The Twelgorn Kingdom (Tuwal Ghorun)** | Far south: marsh fringe → subject coast → steppe → native belt → plateau ranges | Realm named for its bound god; ruled by the Al Ghorun, chosen by surviving the Blessing; overland trade empire with a slave-built navy; keeps the exiled royal line and the Unaging Heir | The Twelgorn Kingdom.md (**NEW 2026-09-28**, draft); History; 10 referencing files | Capital, natives, plateau and travel times still to be named/set |
@@ -236,7 +284,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Golden Company | Sovereign's Gate; Basin garrison; High Quarter and Plazas patrols | Only lawful military; ~1,200 soldiers; 99-Year Contract (41 years left); Envoy Corps (the Second Contract) | 1 | The Golden Company.md | Grunt wage (3 sp/day) out-earns a Landed artisan — plausibility flag |
 | The Civic Constabulary (Coppers / Blue-Cloak Watch) | Toll-houses, lower districts, toll-gates | ~400 corrupt, underpaid watchmen; auxiliary beneath the Company; overseen by Provost Stross | 3 | Faction - The Civic Constabulary; Port Nevarellon | Blue-Cloak contradiction **resolved 2026-09-28** |
 | The Cult of the Zenith | The Plumb Court | Domain of Law; de facto inter-jurisdictional tribunal; keeps the Register; Court of Nullity; Register of Markets | 1–2 (by accretion) | The Cult of the Zenith.md | Binding Oath `needs crunch` |
-| **The Guild of Alchemists** | Cross-border, no capital (the Convocation meets by lot); PN chapter: Chapter-House, Powder Hulk, Brine-Glow Depot, nitre-yards | Holds the white salt (saltpetre) and the corning; licenses powder, lanterns, Brine-Fire and shard-assay; sells the Low Moons tables; sells to everyone, Tuwal Ghorun included | Chapter: 3 (hands on Layer 1) · Parent: outside the Layers | The Guild of Alchemists.md; Law; Port Nevarellon; Coastal Reckoning; Kress; Garrick; Maeve | **Drafted 2026-09-29.** No Council seat, by choice. Chapter-Warden unnamed |
+| **The Guild of Alchemists** | Cross-border, no capital (the Convocation meets by lot); PN chapter: Chapter-House, Powder Hulk, Brine-Glow Depot, nitre-yards | Holds the white salt (saltpetre) and the corning; licenses powder, lanterns, Brine-Fire and wrack-assay; sells the Low Moons tables; sells to everyone, Tuwal Ghorun included | Chapter: 3 (hands on Layer 1) · Parent: outside the Layers | The Guild of Alchemists.md; Law; Port Nevarellon; Coastal Reckoning; Kress; Garrick; Maeve | **Drafted 2026-09-29.** No Council seat, by choice. Chapter-Warden unnamed |
 | **City guilds (framework)** | Guild-halls in the Trade Plazas | Two charters: the guild's (Charter Roll, 0 A.A.; new ones need four of five) and the master's shop charter (Landed); stamp-rent; token-call | 3 (hands on Layer 1) | Framework - The Guilds of Port Nevarellon | **NEW 2026-09-29** |
 | The Coopers' Guild | Port Nevarellon | The barrel; powder kegs under Alchemists' licence | 3 | Kress; Guilds framework | Kress is Guild-Master Emeritus. De Vonce oak |
 | The Shipwrights' Guild | Foundry Slips; Thole Yards | The slipways; keels make owners Landed | 3 | Thole; Guilds framework | Suse Kellard holds a Shipwrights' stamp (2026-09-29). De Vonce iron/timber; Iron-Burl |
@@ -251,12 +299,17 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Tidespoken Clergy | Lower piers, Sea-Wall | Sea & Storms; the Brine Mother ("she takes, in turn"); kitchens fed by the Mother's share; kitchen-truce; Lamp-Readers' tide-tables and the free Low Moons warning; burn hags and the hag-made — whom they can reach; hold no title | 3 (hand on half the calendar) | The Tidespoken Clergy.md; Religion; Muddy Docks; Sunken Ward; Coastal Reckoning; Lore - Hags; Morgran | **File drafted 2026-10-02.** Eldest Tongue unnamed |
 | **The Cult of the Weeping Martyr** | House of Mercy (Artisan Quarter); Elara's Steps (Muddy Docks mudflats) | Healing order: the laying-on, Elara's Walk, the Taking-On; Weepers in white; heals the poor free, the Landed for fees. **GM:** the current takes years and vigour from the healed and feeds them to the healer | 3 | The Cult of the Weeping Martyr.md; Religion | **File drafted 2026-10-06.** Eldest Mother unnamed. GM hook: Mother Elara's fate |
 | **The Cult of the Crooked Coin** | Docks, Basin shadows, the Cobalt Feather; abroad, the Struck City | Trickery; Rook's Folly; no temple, no clergy; the Crooked Tally, Coin-in-the-Mud; "never believe your own coin". **GM:** the current makes the lie you tell yourself briefly true, then collects as disappointment | 3 (Struck City: 1) | The Cult of the Crooked Coin.md; Religion; Lidda Shoon; Wondrous Markets; Zenith | **File drafted 2026-10-07.** Struck City link applied |
+| **The Cult of the Iron Horizon** | Garrisons: De Vonce's officers and the Iron Court, Adder's Gate, the Stonereach keeps | Strategy; Saint Senecus; no temple, no priesthood; a Maxim-Keeper per garrison; the Held Pass, Maxim Night, the Relief. **GM:** the Bastion's current removes doubt, and the faithful cannot retreat when they should | 3 (carried by Layer 1's soldiers) | The Cult of the Iron Horizon.md; Religion | **File drafted 2026-10-08** |
+| **The Cult of the Rime-Fang** | Stonereach passes (Sleetfall, Pilgrim's Notch); the upper Sisters; some Scar-Holders | Winter & Wilds; Kaelen the Survivor; Fang-mothers keep the rites; the Rime Hunt, Bare-Teeth Night; the Notch's free roof. **GM:** the Unmoving's current slows hunger, cold and wounds — and the faithful's warmth | 3 (the Notch: 2) | The Cult of the Rime-Fang.md; Religion; Duchy of Stonereach | **File drafted 2026-10-08.** Notch-keeper unnamed |
+| **The Cult of the Ashen Veil** | Burial grounds beyond the landward wall; every parish on the coast; the Scar's edge | Death; Vael the Mute; grave-keepers under the Mute; Featherfall, the Quiet Hour, the Pauper's Procession, the Long Carry; the grave-books. **GM:** the Quiet ends what is already ending, and takes nothing | 3 | The Cult of the Ashen Veil.md; Religion; Duchy of Corvus; Lore - Wretches | **File drafted 2026-10-08.** The Mute unnamed |
 | House De Vonce | Duchy of De Vonce | Ruling house; iron and levies; elf-blooded | 1 | Tythius; Five Duchies; Duchy of De Vonce | Written 2026-10-07 inside the duchy note |
 | The Iron Court | Manors across De Vonce | The house's sworn knights; the Blooding; half of them mortgaged to Valerius bond-houses | 2 | Duchy of De Vonce | **NEW 2026-10-07.** The lance → rules flag |
+| House Scutarius | Duchy of Stonereach | Ruling house of Stonereach; "the Shields"; rich on ash-money | 1 | Duchy of Stonereach | **NEW 2026-10-07** |
 | House Hordeus | Duchy of Aerthos | Ruling house of Aerthos; "the Hoarders"; every child a treaty | 1 | Duchy of Aerthos | **NEW 2026-10-07** |
 | House Valerius | Duchy of Valerius | Syndicate with a coronet: four books of shares, and the Table that chooses (and can dismiss) the Duke | 1 | Valerius Family; Duchy of Valerius | **Filled 2026-10-07.** Holds paper on the Iron Court and House Hordeus; shareholders include Eldrick De Vonce and the Hordeus heirs |
 | House Thorne (disowned branch) | Divtown | Kelf Thorne's fencing operation under a noble seal | 2 | Lord Kelf Thorne | — |
-| House Corvus | — | Functionally extinct | — | Five Duchies | Three Layers asks: is there a surviving claimant? Open |
+| House Corvus | — | Functionally extinct, the coast says | — | Five Duchies; Duchy of Corvus | **Claimant survives (GM):** Duke Hadrian's child, fifty, unknowing, in Cinder Row; the raven seal |
+| The Undercourt | Corvus deep works (gone) | The cult that opened the door in ~6 A.A.; Corvus miners and Ubaraz engineers under Quintus Corvus | — | Duchy of Corvus (GM-facing) | Fate of Quintus and its dwarves unknown |
 | The Scar-Holders | Corvus Scar | Unlanded squatters and farmers; can never be lawfully recognised or cleared | 2 | Five Duchies; The Guild of Alchemists | Sell the Scar's sulphur to the Guild — their only trade in coin (2026-09-29) |
 | The Twelgorn Retrievers | Southern marsh fringes | Slave-hunters projecting Twelgorn authority; their warrants are unenforceable (identity void) | 2 | Silted Marshes; Three Layers; History | — |
 | Tuwal Ghorun (the realm) | Far south | Loose web of steppe fiefs under the Al Ghorun; subject port-cities build and crew the navy | External | The Twelgorn Kingdom | See Locations |
@@ -288,6 +341,13 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Cassia De Vonce, of House Valerius | House De Vonce | Tythius's wife; her dowry paid for his war | N | Duchy of De Vonce | **Dead** (41 A.A.) |
 | Serrian De Vonce | House De Vonce (cadet line) | Tythius's nephew; master of Coldhelve and the High-Steel | N | Duchy of De Vonce; Name Tables T1 #24 | Alive |
 | Castellan Senna Cade | De Vonce border levy | Human, 47; Un-Landed castellan of Adder's Gate; Iron Horizon; lets the Scar-Holders water at the ford | N | Castellan Senna Cade.md | Alive. **Layer 2, decent and losing** |
+| Duke Hadrian Corvus | House Corvus | The last Duke; died in the fall. GM: one of the Seven | N | Duchy of Corvus | **Dead** (~8 A.A.) |
+| Quintus Corvus | House Corvus | The Duke's brother, master of the deep works; "lost early in the war". GM: led the Undercourt | N | Duchy of Corvus | Fate unknown |
+| The Corvus claimant *(unnamed)* | Cinder Row | Fifty; raised as a refugee; does not know | N | Duchy of Corvus (GM-facing) | Alive |
+| The Seven | — | Hadrian Corvus · Dorrun Halt-Adze · Corran Ossius · Maryn Aske · Tamsin Vole · Hallam Drey · Marren Loweb. Went down into Corvus Spire in ~8 A.A.; none came back. Named at the Ash Vigil | N | Duchy of Corvus; Name Tables T1 #4, 11, 15, 19, 37, 41 | **Dead** (~8 A.A.) |
+| Duke Brennus Scutarius | House Scutarius | 58; Duke of Stonereach; counts everything twice; weighing De Vonce against Aerthos | N | Duchy of Stonereach | Alive |
+| Cato · Aemilia Scutarius | House Scutarius | 36, heir, widower — sought for Sheandri De Vonce · the Duke's niece, married to Calvus Hordeus | N | Duchy of Stonereach | Alive |
+| Brekka Stonegraft | Ubaraz contract, Deepgraft | Dwarf, 141; master-surveyor; no shaft opens without her stamp; refuses the deep drift | N | Brekka Stonegraft.md; Name Tables T1 #36 | Alive. **Layer 2, decent and holding** |
 | Duke Junia Valerius | House Valerius | 52; chosen by the Table 47 A.A.; ran the Bonds book; childless; dismissible | N | Valerius Family | Alive |
 | Gratian Valerius | House Valerius | 79; Junia's father, Cassia's brother; Duke 17–47 A.A.; leads the faction against her | N | Valerius Family | Alive |
 | Faustina Valerius | House Valerius / Hordeus | 39; Lucan Hordeus's wife; Bonds-book shareholder; reads his letters | N | Valerius Family; Duchy of Aerthos | Alive |
@@ -329,21 +389,24 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 
 | Name | Domain / nature | One-line summary | Worshipped by | Established in |
 |---|---|---|---|---|
-| Saint Senecus the Unyielding | Strategy — Iron Horizon | Held a doomed pass; duty over survival | Officers (Maxim Night); Kalder's parents | Religion |
+| Saint Senecus the Unyielding | Strategy — Iron Horizon | Held a doomed pass; duty over survival. **GM:** real; his pass was on the old empire's frontier, and every Stonereach keep that claims it is wrong | Officers (Maxim Night); Kalder's parents; Senna Cade | Religion; The Cult of the Iron Horizon |
+| **The Bastion** *(GM-facing)* | The Creator behind the Domain of Strategy | Creator of thresholds and limits; named a general; fought for the Purge and designed many of the living weapons | Unknowingly, the Iron Horizon | Celestial Graveyard; The Cult of the Iron Horizon |
 | Rook's Folly (the Grinning Prophet) | Trickery — Crooked Coin | Counterfeited the old empire's treasury into bankruptcy; the empire decayed and its nobles founded the coast. **GM:** the folly was Rook's own | Lidda; the Cobalt Feather; the Struck City | Religion; The Cult of the Crooked Coin |
 | **The Two-Faced** *(GM-facing)* | The Creator behind the Domain of Trickery | Creator of reflection; named the Liar; the Mask and the Mocking Voice; fought on both sides | Unknowingly, the Crooked Coin | Celestial Graveyard; The Cult of the Crooked Coin |
 | Aurelius the Architect | Law — the Zenith | Unifier-warlord; *Meditations on Law* | High Quarter; the Zenith | Religion; The Cult of the Zenith |
-| Vael the Mute | Death — Ashen Veil | Death as mercy | Pauper's Procession | Religion |
-| Kaelen the Survivor | Winter & Wilds — Rime-Fang | Winter-drake hunter | Pilgrim's Notch (Name Tables) | Religion |
+| Vael the Mute | Death — Ashen Veil | Death as mercy, not to be hastened. **GM:** real; the oldest paragon, a grave-keeper of the War of Creation's aftermath | Featherfall; the Pauper's Procession; the Long Carry | Religion; The Cult of the Ashen Veil |
+| **The Quiet** *(GM-facing)* | The Creator behind the Domain of Death | Creator of the turn, the still point of the Sphere's cycle; named Death; sided with the Alliance; takes nothing | Unknowingly, the Ashen Veil | Celestial Graveyard; The Cult of the Ashen Veil |
+| Kaelen the Survivor | Winter & Wilds — Rime-Fang | Winter-drake hunter; the hunter never eats her own kill. **GM:** she ate the drake (unanchored wrack) and was slowed past feeling; her people lived in the high Spine before the settlers | Pilgrim's Notch; Sleetfall | Religion; The Cult of the Rime-Fang |
+| **The Unmoving** *(GM-facing)* | The Creator behind the Domain of Winter & Wilds | Creator of stillness and constancy; the purest of the Purge; made the winter-drake | Unknowingly, the Rime-Fang | Celestial Graveyard; The Cult of the Rime-Fang |
 | Mother Elara of the Mud | Mercy — Weeping Martyr | In-world: absorbed the plague-dying's rot and was "taken into Mercy" (body never recovered). **GM:** she fed on the quarantine | Elara's Walk | Religion; The Cult of the Weeping Martyr |
 | **The Mother** *(GM-facing)* | The Creator behind the Domain of Mercy | Made vain and hungry by the Naming; sided with the Alliance to feed on individuated selves; Ego = the loving Mother, Id = the appetite | Unknowingly, the Weeping Martyr | Celestial Graveyard; The Cult of the Weeping Martyr |
 | Thalass's Omen | Sea & Storms — Tidespoken | The rogue wave that broke a fleet of the last King's armada at the harbour mouth, in the final year of the Civil War | The Tidespoken Clergy | Religion; The Tidespoken Clergy |
 | The Sun | Corpse of a primary Creator | Ceases to exist at night and returns somewhere else; no solar bearings | — | Celestial Graveyard; Coastal Reckoning |
 | The Pale Sister (Nyssaria) · The Drowned Lamp (Ossuel) · The Slow Wound (Cassivar) | Moon-corpses; 28 / 40 / 105-day cycles; **their own glow** | Set the calendar, the tides and the Low Moons respectively; winter is their weight | — | Coastal Reckoning |
-| **The Slack-Born (fey)** | God-essence that quickened in still water | Not a mortal race; beautiful, unhurried, indifferent | — | Great Fracture (**NEW**) |
-| **Hags** | Humanoid fey | Rooted to still water, or where it used to be; uproot only at the Low Moons; trade in change — work Undertow-touched shards into flesh; always agree, paid in full; covens for power over change | — | Great Fracture; Morgran; Lore - Hags. **Statted** (ruleset) |
+| **The Slack-Born (fey)** | Essence that quickened in still water | Not a mortal race; beautiful, unhurried, indifferent | — | Great Fracture (**NEW**) |
+| **Hags** | Humanoid fey | Rooted to still water, or where it used to be; uproot only at the Low Moons; trade in change — work Undertow wrack into flesh; always agree, paid in full; covens for power over change | — | Great Fracture; Morgran; Lore - Hags. **Statted** (ruleset) |
 | **Wretches** | Undead — what a place keeps of those it kills | Bog, Grave, Dust; remember only cold, drowning or thirst; not hag-made; Dust-Wretches walk the Corvus Scar | — | Lore - Wretches (**NEW, draft**). **Statted** (ruleset) |
-| **Tuwal Ghorun** | Reach-aligned god-remnant, bound in the Slack Water beneath the Twelgorn capital | The only living god-remnant known to answer; grants the Blessing; cannot lie but chooses what it says | Tuwal Ghorun (monotheistic) | The Twelgorn Kingdom (**NEW**). `needs crunch` |
+| **Tuwal Ghorun** | Reach-aligned Creator remnant, bound in the Slack Water beneath the Twelgorn capital | The only living Creator remnant known to answer; grants the Blessing; cannot lie but chooses what it says | Tuwal Ghorun (monotheistic) | The Twelgorn Kingdom (**NEW**). `needs crunch` |
 
 ---
 
@@ -353,7 +416,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 |---|---|---|---|---|
 | Pre-history | The Great Fracture / Deicide | Mortals kill the Creators; the Sphere breaks into the Disk and the Tideways | All | Great Fracture |
 | Pre-Sundering | The War of Creation | "Alliance" vs "Weaponizers"; monstrous races made as weapons | — | Celestial Graveyard |
-| Centuries before settlement | The Binding; Tuwal Ghorun founded | The founders bind a Reach-aligned god-remnant; the realm counts its years from this | Tuwal Ghorun | The Twelgorn Kingdom; Coastal Reckoning |
+| Centuries before settlement | The Binding; Tuwal Ghorun founded | The founders bind a Reach-aligned Creator remnant; the realm counts its years from this | Tuwal Ghorun | The Twelgorn Kingdom; Coastal Reckoning |
+| Long before settlement | Kaelen and the winter-drake | Kaelen kills the drake in the high Spine; **GM:** and eats it | Kaelen's people | The Cult of the Rime-Fang |
 | Before settlement | Rook's Folly | Rook counterfeits the old empire's treasury into bankruptcy; the empire decays | The old empire | Religion; The Cult of the Crooked Coin |
 | A few centuries ago | Settlement of the Whispering Coast | Settlers flee the decaying empire across the Broken Ocean, bringing the *Meditations on Law*; a King and five Dukes | Five houses | History; Coastal Reckoning |
 | Pre-Accord | Spine Aqueduct built | Built when the coast was one realm | The Crown | Three Layers |
@@ -365,7 +429,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | 0 A.A. | The Seat Falls / Ducal Accord / 99-Year Contract | King slain; Council formed (Palla elected at the first sitting); "King" banned | Golden Company, Council, Dukes, Tythius | History; Coastal Reckoning |
 | 0 A.A. | Flight of the heirs | Royal children buy asylum in Twelgorn | Exiled line | History |
 | 0 A.A. | The Charter Roll | The First Sitting re-issues every guild charter then trading; no new city guild since | Council; the guilds | Guilds framework |
-| **8 A.A.** | The Corvus Cataclysm | Breach into the Undertow; Corvus Spire buried; the Ash-Blight | House Corvus | Five Duchies; Coastal Reckoning — **confirmed** |
+| ~6 A.A. | The Demon Wars begin | At a Low Moons, the Undercourt opens the door under Corvus Spire | House Corvus; the Undercourt | Duchy of Corvus; Coastal Reckoning |
+| **8 A.A.** | The fall of Corvus | At the next Low Moons the Seven go down; the mountain falls on the door; the Ash-Blight | House Corvus; the Seven | Five Duchies; Duchy of Corvus; Coastal Reckoning — **confirmed** |
 | 17 A.A. | Gratian Valerius takes the coronet | Holds it thirty years | House Valerius | Valerius Family |
 | 27 A.A. | Dray becomes Keeper of the Register | Holds the vault for the next 31 years | Dray | Keeper Merrit Dray |
 | 28 A.A. | Ellenst De Vonce married into Tuwal Ghorun | Steppe destriers for the Blooding; a window on the Heir | Tythius; Ellenst | Duchy of De Vonce |
@@ -382,7 +447,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | ~49 A.A. | Sallow buys her deed | — | Sallow | Verrine Sallow |
 | ~53 A.A. | Silas's laboratory accident | — | Silas | Silas Bane |
 | Undated | The Fourth struck from the count | Predates Kalder's tenure | The Zenith | Wondrous Markets; Kalder |
-| Undated ("decades ago") | Morgran's change | Hag works an Undertow-touched shard into him; his fey lover rejects him | Morgran | Morgran |
+| Undated ("decades ago") | Morgran's change | Hag works a shard of Undertow wrack into him; his fey lover rejects him | Morgran | Morgran |
 | **58 A.A.** | **Present** | 41 rings left on the Contract Bell; Marrenhal's 4th attempt before the chamber | — | Coastal Reckoning |
 | **~59 A.A.** | Next Opening-season Low Moons | **Confirmed.** Tuwal Ghorun's omen for the invasion north | Everyone | Coastal Reckoning; The Twelgorn Kingdom |
 
@@ -403,11 +468,11 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Keeper's key | Merrit Dray | The only key to the vault | — | Keeper Merrit Dray |
 | *Meditations on Law* | The Zenith (oldest recension unlent) | Aurelius's text; Kalder's annotated copy | — | The Cult of the Zenith; Kalder |
 | The Contract Bell | Port Nevarellon | Rung once per remaining year of the Contract; 41 left | — | Coastal Reckoning; Name Tables |
-| Undertow-touched god-shards | Deep trenches, marsh beds | Unanchored god-essence; smuggled by the Cobalt Feather; mutagenic in a hag's hands | — | Great Fracture; Cobalt Feather; Morgran |
+| **Wrack** (black · pale; unanchored) | Everywhere in the Slack Water: trenches, marsh beds, war-fields, the Scar, the deep works | The solid form of essence (formerly *god-shard*); a shard is one piece; unanchored wrack still bleeds and the Low Moons stir it; assayed by the Guild, smuggled by the Cobalt Feather, worked by hags | `needs crunch` — the ruleset still says *god-shard* | Great Fracture; Cobalt Feather; Morgran; Guild of Alchemists |
 | Iron-Burl | Silted Marshes | Black marsh timber immune to sea-rot | — | Silted Marshes; Divtown |
 | **Mogwort** (formerly Cindin) | Sailors, labourers | Sticky narcotic resin, chewed or dissolved in ale | — | Mogwort.md; Economy; Kress; Maccorrack |
 | Nightshade (powdered) | Tessa Dolly | Poison in a hollow ring | — | Dolly Sisters; file empty |
-| Sun-Iron | Iron-Anchor smuggling | Unstable mineral for unlicensed alchemists | — | Iron-Anchor; file empty |
+| Sun-Iron | Deepgraft's deep seams; Iron-Anchor smuggling over the Notch | Unstable mineral for unlicensed alchemists | `needs crunch` | Iron-Anchor; Duchy of Stonereach; file empty |
 | The Brine-Glow Lanterns | Guild of Alchemists (PN chapter) | Bioluminescent-algae street lighting; algae from Saltlight; target of Silas's plot | — | Port Nevarellon; The Guild of Alchemists; file empty |
 
 ---
@@ -418,7 +483,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 |---|---|---|---|
 | The Tideways | Layered cosmos: High Reach / Slack Water / Undertow | Great Fracture | — |
 | **The Undertow / Undertow-touched** | Lowest layer / adjective for taint and property. **"Frequency" is retired** | Throughout | — |
-| Slack-Born | Fey; god-essence that quickened in still water | Great Fracture; Morgran | Hags statted; other fey `needs crunch` |
+| Slack-Born | Fey; essence that quickened in still water | Great Fracture; Morgran | Hags statted; other fey `needs crunch` |
 | The Brine Mother | The Tidespoken's name for the ocean; its teaching makes hags abominations | Lore - Hags; The Tidespoken Clergy | — |
 | The laying-on · the golden tears · the Taking-On | Martyr healing by drawing hurt into the healer · the gold the healer weeps · the vow to take a whole affliction | The Cult of the Weeping Martyr; Name Tables | `needs crunch` — see the cult note's Rules Flags |
 | The Mask · the Mocking Voice *(GM-facing)* · "never believe your own coin" | The Two-Faced's two faces · the Coin's first teaching | The Cult of the Crooked Coin; Celestial Graveyard | Mocking Voice `needs crunch` |
@@ -461,6 +526,17 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Blooding | Knight investiture: Held Pass vigil, then a palm cut with the Shard-Blade | Duchy of De Vonce; Name Tables | `needs crunch` (the mark?) |
 | Levy Muster | Opens the High Turns at Iron-Spire; border rotations drawn | Duchy of De Vonce; Name Tables | — |
 | Marshal of the Levy | Commander of De Vonce's knights and border levy (Eldrick) | Duchy of De Vonce | — |
+| The Demon Wars | ~6–8 A.A.; what came up out of Corvus's deep works | Duchy of Corvus; Five Duchies | — |
+| The Long Carry | The Ashen Veil's rite in the Scar: lay a Dust-Wretch down, carry the body out past the blight-line | Duchy of Corvus; Lore - Wretches; The Cult of the Ashen Veil | — |
+| Maxim-Keeper | The Iron Horizon's rite-keeper in each garrison, usually the oldest sergeant | The Cult of the Iron Horizon | — |
+| The Relief | When a soldier dies at a post, the next to stand it says the dead one's maxim aloud, once | The Cult of the Iron Horizon | — |
+| Fang-mothers | The eldest women of each Rime-Fang household, who keep the rites | The Cult of the Rime-Fang | — |
+| The Mute · grave-keepers | The Ashen Veil's head, sworn to silence for life; its burial-keepers | The Cult of the Ashen Veil | — |
+| The grave-books | The Veil's burial records; the only count of the Un-Landed dead | The Cult of the Ashen Veil | — |
+| The raven seal | The Corvus token kept by a Cinder Row elder (GM) | Duchy of Corvus | — |
+| Ash-money | The coast's name for Stonereach's toll wealth since 8 A.A. | Duchy of Stonereach | — |
+| Storm-right | In a storm every Stonereach keep opens and the toll is waived | Duchy of Stonereach; Granite Spire | — |
+| The stamp | A Stonegraft surveyor's mark; no Deepgraft shaft opens without it | Brekka Stonegraft | — |
 | The Table · the four books | House Valerius's share-council (votes by share at Salt-Draw) · the Pans, the Vines, the Fleet, the Bonds | Valerius Family | — |
 | The Crock | Pan-gangs pool a pinch of every wage; one bond bought out a year, by lot | Bond-Master Tallis Gorrius; Duchy of Valerius | Rules flag (buy-out) |
 | Free salt | Salt boiled on the beaches by runaway bondsmen, sold to smugglers | Duchy of Valerius | Rules flag (smuggled good) |
@@ -468,6 +544,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Bound to the furrow | Aerthos tenancy: labour-days on the demesne, no leaving without the steward's leave; the steward's third | Duchy of Aerthos; Jeerdan Darcy | Rules flag (status) |
 | The bridge-penny · the short tally | Wether Bridge's toll for its own upkeep · Colm's under-count | Reeve Colm Hollick | — |
 | The widows' bread | Iron-Spire feeds every border-dead levyman's family for life | Castle Iron-Spire | — |
+| Wrack · shard · unanchored | The solid form of essence · one piece of it · wrack that still bleeds | Great Fracture; throughout | Rules flag: ruleset says *god-shard* |
+| Essence | What the nameless entities, and the entities they made, were made of (not "god-essence") | Great Fracture; Celestial Graveyard; throughout | — |
 | Settlement Tier T0–T3 | Tier measures services, not headcount | Name Tables | **Explicitly "mechanical" — flag for the rules side** |
 
 ---
@@ -483,7 +561,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 3. ~~**The Guild of Alchemists**~~ — **file drafted 2026-09-29 (draft).** Still to set: the Chapter-Warden's name, the Convocation's interval, the founding date and first chapter.
 4. ~~**Confirm the derived dates**~~ — **confirmed 2026-09-28:** Corvus fell in 8 A.A.; the next Opening-season Low Moons (~59 A.A.) is a live campaign clock and Tuwal Ghorun's invasion omen.
 5. ~~**The De Vonce children.**~~ **Written 2026-10-07** in Duchy of De Vonce. **Decided 2026-10-07:** Tythius married Ellenst into a Tuwal Ghorun house about thirty years ago, on purpose, as a window into the court that holds the Heir. To be written in the De Vonce batch.
-6. **The ducal seats have no files** — Castle Iron-Spire, Millhaven and Saltmere filled 2026-10-07; Granite Spire still to come.
+6. **The ducal seats have no files** — **All four standing seats filled 2026-10-07** (Castle Iron-Spire, Millhaven, Saltmere, Granite Spire). Corvus Spire is buried.
 7. **The Golden Company Charter-House** in the volcano market still needs writing into The Golden Company.md.
 8. **Grey Water Pirates vs Wyvern Tail**, and Captain Vesper Locke.
 9. ~~**Regional map / compass.**~~ **Resolved 2026-10-07** — Five Duchies § Lay of the Coast.
@@ -492,14 +570,14 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 12. **Small hooks needing a sentence each:**
     - Palla ↔ Isolde Vantry kinship
     - who sold Alfric his title
-    - whether a Corvus claimant survives — **decided 2026-10-07:** yes, unnamed, among the refugee descendants. The Zenith can void the claim and never validate it. Not Isolde Vantry. To be written in the Corvus batch.
+    - ~~whether a Corvus claimant survives~~ — **written 2026-10-08** (Duchy of Corvus, GM-facing).
 13. **Name collisions:** Captain Tessa (hunter) vs Tessa Dolly. The V-cluster (Vane, Vance, Vantry, Valerius, Vesper, Vael/Vaelen) is only partly by design.
 14. **Tone:** the older underworld docs (Silas, Iron-Anchor, Wyvern Tail) lack motes. Hearing and sight loss now marks eight characters.
 15. **Tier tags:** `#location/neighborhood` for the Muddy Docks and Cinder Row.
 16. **Cinder Row** — intentional stub; develop when the Sunken Ward goes live in play.
 17. ~~**City guilds framework.**~~ **Drafted 2026-09-29** as `Framework - The Guilds of Port Nevarellon`. Still to set: which dead charters are on the Roll; whether the Smiths get a name; how Suse Kellard got her stamp.
-18. **Hags and Wretches** — notes drafted 2026-10-02; open questions at the foot of each (~~Mirage-Hag home~~ — the Dry Pans, 2026-10-07; Briar-Hag home, Morgran's hag, cold iron, coven powers, Grave-Wretch ground, the Ashen Veil in the Scar).
-19. **The Duchy pass** (agreed 2026-10-07): one note per duchy with its house written inside; `Valerius Family.md` filled as the House Valerius faction note; Castle Iron-Spire filled. Order: De Vonce, Aerthos, Valerius, Stonereach, Corvus. The regional cults (Iron Horizon, Rime-Fang, Ashen Veil) follow.
+18. **Hags and Wretches** — notes drafted 2026-10-02; open questions at the foot of each (~~Mirage-Hag home~~ — the Dry Pans, 2026-10-07; Briar-Hag home, Morgran's hag, cold iron, coven powers, Grave-Wretch ground; ~~the Ashen Veil in the Scar~~ — they go in, the Long Carry, 2026-10-08).
+19. ~~**The Duchy pass**~~ **Done 2026-10-08** — all five duchies written (Batches 14–19). (agreed 2026-10-07): one note per duchy with its house written inside; `Valerius Family.md` filled as the House Valerius faction note; Castle Iron-Spire filled. Order: De Vonce, Aerthos, Valerius, Stonereach, Corvus. The regional cults (Iron Horizon, Rime-Fang, Ashen Veil) follow. **Done 2026-10-08** (Batch 21). Still to set: the Mute's name, the Quiet Hour's date, the Notch-keeper, Kaelen's people.
 
 ### Rules-side flags (not carried over — for the Iron & Marrow ruleset)
 - Binding Oath
@@ -515,10 +593,14 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - Hag uprooting at the Low Moons; what a coven can change beyond protecting its mother
 - Tidespoken casting (Thalass's Omen)
 - Crooked Coin luck: distortions of luck repaid as later disappointment, the Mocking Voice, disillusionment, and the Binding Oath (full list in The Cult of the Crooked Coin § Rules Flags)
+- Corvus: the Ash-Blight as a hazard; Dust-Wretches at the Low Moons; Undertow entities still in the deep valleys; the raven seal as proof (full list in Duchy of Corvus § Rules Flags)
+- Stonereach: Sun-Iron; mountain travel, winter-closed passes and storm-right; dwarven undoing-works (full list in Duchy of Stonereach § Rules Flags)
 - Valerius: Debt-Bonds and the Crock as a buy-out; free salt as a smuggled good; salt's trade value (full list in Duchy of Valerius § Rules Flags)
 - Aerthos: bound tenancy as a status; food supply and famine (Grainlock); barge travel and the Nine Sisters (full list in Duchy of Aerthos § Rules Flags)
-- De Vonce: the lance as a unit; the Blooding's mark; High-Steel refining and supply; the Undertow-touched weapons in the upper Sisters; war-bone shards; elven-blooded ageing (full list in Duchy of De Vonce § Rules Flags)
+- De Vonce: the lance as a unit; the Blooding's mark; High-Steel refining and supply; the Undertow-touched weapons in the upper Sisters; war-bone wrack; elven-blooded ageing (full list in Duchy of De Vonce § Rules Flags)
+- Regional cults: the Iron Horizon's removed doubt and no-retreat cost; the Rime-Fang's slowing, lost warmth, and eating unanchored wrack; the Ashen Veil's ending effects, the Long Carry against Wretch stat blocks, and a current with no cost (full lists in each cult note § Rules Flags)
 - Weeping Martyr healing: wound/pain transfer, the hidden cost in the patient's years and vigour, the healer's longevity, the Taking-On, the golden tears as a tell (full list in The Cult of the Weeping Martyr § Rules Flags)
+- **Terminology:** *god-shard* → **wrack**, *god-essence* → **essence** (2026-10-08) — the ruleset's own text still uses the old words
 - Settlement Tiers
 - Faction power levels (every faction is currently "not defined")
 

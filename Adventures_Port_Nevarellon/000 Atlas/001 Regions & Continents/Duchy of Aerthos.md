@@ -45,7 +45,7 @@ Prisca chose the first six names. After she died, the Duke could not bring himse
 | **Drusa** | 39 | The Vantry house, in the High Quarter (see [[Palla Vantry]]) | A daughter on the hill: the Council |
 | **Petronel** | 37 | Given to the Zenith at fourteen; now an **Arbiter** of the Plumb Court (see [[The Cult of the Zenith]]) | The courts. An Arbiter can void a marriage made under duress, and no Hordeus marriage will be voided quietly while Petronel sits |
 | **Ilaria** | 34 | A **Golden Company captain** — foreign-born, Landed by Commission | The only army that could take Millhaven. The court never mentions it |
-| **Calvus** | 31 | A niece of the Duke of Stonereach | The passes. Since 8 A.A. Ubaraz eats Aerthos grain, and it reaches Ubaraz only through Stonereach |
+| **Calvus** | 31 | **Aemilia Scutarius**, niece of the Duke of Stonereach (see [[Duchy of Stonereach]]) | The passes. Since 8 A.A. Ubaraz eats Aerthos grain, and it reaches Ubaraz only through Stonereach |
 | **Livia** | 28 | Offered to [[Duchy of De Vonce#Eldrick De Vonce, the heir\|Eldrick De Vonce]] two years ago | De Vonce, and the Wide Fallow. Tythius has not answered |
 | **Septima** | 25 | Nobody. She has refused every match, and her father has let her | She keeps the Grainlock ledgers, and she is the only Hordeus the factors fear |
 | *Octavus* | — | Died in infancy, 38 A.A. | — |
@@ -100,7 +100,8 @@ Prisca chose the first six names. After she died, the Duke could not bring himse
 ## 🕯️ Faith
 - **The Zenith** has a Hordeus in the Plumb Court, which in Aerthos is spoken of as though it were the house's own chapel.
 - **The bargemen** keep the Tidespoken below the tide-line, on the estuary, and nothing above it (see [[The Tidespoken Clergy]]).
-- **The Iron Horizon, Rime-Fang and Ashen Veil** have little hold on the Flats. *(To be set in the regional-cult pass.)*
+- **The Ashen Veil** buries the Flats' dead at Featherfall (see [[The Cult of the Ashen Veil]]).
+- **The Iron Horizon** and **the Rime-Fang** have little hold on the Flats.
 
 ---
 
@@ -139,7 +140,7 @@ Prisca chose the first six names. After she died, the Duke could not bring himse
 ---
 
 ## ❓ Open Questions
-- Calvus's Stonereach wife and Ilaria's captain: names, to be set in the Stonereach pass and the Company's. *(Lucan's wife is Faustina Valerius.)*
+- Ilaria's captain: name, to be set in the Company's pass. *(Lucan's wife is Faustina Valerius; Calvus's is Aemilia Scutarius.)*
 - Drusa's husband in the Vantry house.
 - Who will Nona be placed with?
 - Does Felician know anything of the 59 A.A. omen? *(At present, no — see [[Duchy of De Vonce]].)*

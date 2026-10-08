@@ -66,6 +66,7 @@ Following the Ducal Accord, the Council of Five and the four legitimate Duchies 
 - **Travel Time to Port Nevarellon:** ~1 day by coastal galley along the Coastal Meridian in fair weather, 2 in poor; 4–5 days overland via the Concord Road, since the cliff roads punish wagons.
 
 ## 4. Duchy of Stonereach (The High Shields)
+- **Full note:** [[Duchy of Stonereach]] — House Scutarius, the passes, the dwarves and the tolls. Seat: [[Granite Spire]].
 - **Terrain & Seat:** Treacherous mountain passes and sheer granite peaks along the north-eastern Spine. The passes follow the crest of the range west to [[Ubaraz Kingdom|the Ubaraz Kingdom]], at the head of the Corvus valley. The ducal seat is **Granite Spire**, a dwarven-engineered citadel cut directly into the passes.
 - **Logistics & Economy:** Granite quarrying, heavy masonry, and toll-keep control over the mountain trade roads. Since the Corvus valley died in 8 A.A., those roads have been Ubaraz's only lawful way to the coast, and Stonereach tolls every load of it.
 - **Realism Anchor:** Because of their proximity to the dwarven kingdom, Stonereach architecture relies heavily on imported dwarven structural engineering. Their people are isolated, survivalist, and hardened by the severe winters of the high altitude.
@@ -74,11 +75,15 @@ Following the Ducal Accord, the Council of Five and the four legitimate Duchies 
 ---
 
 ## 5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)
+- **Full note:** [[Duchy of Corvus]] — the Demon Wars, House Corvus, the Scar-Holders and the border-holders. Seat: [[Corvus Spire]], buried.
 - **Terrain & Seat:** Once a rich valley of black soil, dense pine, and ancient stone spires, cut deep into the Spine's southern flank, with Ubaraz at its head. Its road carried the dwarven trade down to the coast. Today, it is a blackened, ash-choked wasteland known as **The Corvus Scar**. The ancestral seat, **Corvus Spire**, was buried in the mountain collapse fifty years ago and has never been excavated or resettled. It should not be confused with [[The Inner Sea#🪓 Resource & Industry|The Broken Spires]] out in the Inner Sea — those are drowned peaks, not masonry, and what they share with Corvus is not architecture but the same heat-scarred fracturing along the same seam.
 - **Travel Time to Port Nevarellon:** Not meaningfully defined. No lawful road runs into the Ash-Blight, and there is no seated authority left to travel to. The only hard figure on record is tactical, not diplomatic: De Vonce's standing border levy along the Jagged Spine could reach the Scar's edge in roughly 1–2 days if the Undertow stirred again.
 
-### 💥 The Cataclysm (50 Years Ago)
-Five decades ago, a catastrophic breach opened into the Undertow along the northern peaks, resulting in a violent **Demonic Incursion**. The sheer pressure of the entities entering the mortal plane caused a massive mountain spire in the Spine Mountains to physically collapse, burying the ancestral seat of House Corvus under millions of tons of shattered rock.
+### 💥 The Demon Wars and the Fall (6–8 A.A.)
+Six years after the Accord, at the Low Moons, a breach opened into the Undertow out of the deep works under Corvus Spire, and a violent **Demonic Incursion** came up through it. For two years Corvus fought it in its own valley and lost. De Vonce held the Adderwater, Ubaraz shut its gates, and the refugees fled to Port Nevarellon. In 8 A.A., at the next Low Moons, seven went down into the Spire, and the peak collapsed, burying the ancestral seat of House Corvus under millions of tons of shattered rock.
+- **What the coast believes:** the sheer pressure of what came through brought the mountain down.
+- **What the refugees believe:** the Seven brought it down on themselves, on purpose. They speak the Seven's names at the Ash Vigil.
+- See [[Duchy of Corvus]] for the full account. The ground truth is in its GM-facing callouts.
 
 ### 🥖 Modern Aftermath & Realism Logistics
 - **The Ash-Blight:** The collapse of the spire released a localized, lingering atmospheric shroud of Undertow-touched alchemical soot. Most of the Scar's soil is dead and the streams run black with acidic sulfur — but *dead* is a word the ducal surveyors used because measuring properly would have meant going in. There are pockets. Wind-shadowed valleys where the soot never settled thick, seeps of clean water below the blight-line, ground that will take a crop if you know which ground and are willing to find out the hard way. None of this makes the Scar habitable in any sense the four Duchies would recognise. It makes it *claimable*.

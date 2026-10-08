@@ -69,7 +69,7 @@ North of Brinewick lie the old pans. Two generations ago a storm cut the channel
 - **What the house says:** nothing. The Dry Pans are not on any lodged map of the duchy's holdings.
 
 > **GM-facing — the Mirage-Hag (adventure hook).** The Thirsty Woman is a **Mirage-Hag**, rooted in the Dry Pans: a place where still water used to be (see [[Lore - Hags]]). Everything in the Hags note applies — she must be asked, she always agrees, and the price is paid in full.
-> **The trade she does here** is in runaways. Most bring her nothing she can work, because a shard costs more than a bondsman will ever hold. So most pay for the cup alone, and the cup is real. The bond-rows' whisper is also true, after its fashion:
+> **The trade she does here** is in runaways. Most bring her nothing she can work, because a shard of wrack costs more than a bondsman will ever hold. So most pay for the cup alone, and the cup is real. The bond-rows' whisper is also true, after its fashion:
 > - **A runaway who pays her a name is forgotten.** The Bonds book still carries the name, and the Register still holds the copy, but nobody who reads it can bring the face to mind. A Bond-Master cannot hunt someone he cannot picture.
 > - **The price is total.** The runaway's family forgets them too.
 > - **They are a little fey after**, and cold iron bites them.
@@ -86,7 +86,8 @@ North of Brinewick lie the old pans. Two generations ago a storm cut the channel
 - **The Tidespoken** are strong along the bays. The Tongues keep kitchens at Brinewick and Netherquay, every Valerius boat pays the Mother's share, and Widow's Reach sends more names to Thalass's Count than any village of its size (see [[The Tidespoken Clergy]]). The faithful are called *the Salt*, and in Valerius the joke makes itself.
 - **The Zenith.** The Table loves the Register. Every bond, every share and every Duke's appointment is lodged and counter-copied in it. Valerius is the Plumb Court's most reliable client on the coast.
 - **The Crooked Coin** rides with the free-salt smugglers (see [[The Cult of the Crooked Coin]]).
-- **The Iron Horizon, Rime-Fang and Ashen Veil** have little hold here. *(To be set in the regional-cult pass.)*
+- **The Ashen Veil** buries the inland dead at Featherfall; the Salt go to the ebb. The feathers for every Featherfall on the coast come from Gullstand (see [[The Cult of the Ashen Veil]]).
+- **The Iron Horizon** and **the Rime-Fang** have little hold here.
 
 ---
 

@@ -63,22 +63,22 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 1   | Bell Harrow        | A    | Rope-maker's daughter; surname from the harrow-field her family lost   |
 | 2   | Dob Kettleman      | A    | Cistern-tender in the High Quarter, sees everything, tells no one      |
 | 3   | Ansel Quay         | A    | Foundling named for where he was found                                 |
-| 4   | Tamsin Vole        | A    | Reef-diver; the surname is an insult she kept                          |
+| 4   | Tamsin Vole        | A    | *(allocated — canon: one of the Seven; a Corvus miner, d. ~8 A.A.)*    |
 | 5   | Ord Bracken        | A    | *(allocated — canon: charcoal-burner of Ashcopse, Duchy of De Vonce)*  |
 | 6   | Nell Stroud        | A    | Widow running a boardwalk cookshop on credit                           |
 | 7   | Garrow Finch       | A    | Ex-Blue-Cloak, discharged, still wears the coat                        |
 | 8   | Pike Ballard       | A    | Bare-knuckle fighter at the Rusty Tankard                              |
 | 9   | Ivet Marn          | A    | Marsh-guide; charges by the hour and lies about the tide               |
 | 10  | Sedge Cullom       | A    | Iron-Burl feller, missing three toes                                   |
-| 11  | Hallam Drey        | A    | Waggoner on the Concord Road; knows every toll-taker's price           |
+| 11  | Hallam Drey        | A    | *(allocated — canon: one of the Seven; De Vonce levy sergeant, d. ~8 A.A.)* |
 | 12  | Rilla Bask         | A    | Fish-smoker in the Foundry Slips, chronic lung damage                  |
 | 13  | Cobbet Vane        | A    | Petty forger; not related to the Archmage, and tired of the question   |
 | 14  | Thead Gurney       | A    | Stonemason; only living man who's read the Sea-Wall's original plans   |
-| 15  | Maryn Aske         | A    | Midwife working the Sunken Ward for barter                             |
+| 15  | Maryn Aske         | A    | *(allocated — canon: one of the Seven; midwife, Ashen Veil, d. ~8 A.A.)* |
 | 16  | Loft Prendle       | A    | Gutter-runner, twelve, unbearably useful                               |
 | 17  | Suse Kellard       | A    | Rope-walk foreman; the only woman in the Slips with a Guild stamp      |
 | 18  | Bram Hollick       | A    | *(allocated — canon: tenant near Millhaven; brother of Reeve Colm Hollick)* |
-| 19  | Corran Ossius      | B    | Third son of a minor Landed house; no inheritance, expensive tastes    |
+| 19  | Corran Ossius      | B    | *(allocated — canon: one of the Seven; Corvus knight, d. ~8 A.A.)*     |
 | 20  | Lucia Marrenhal    | B    | *(allocated — canon: Councillor, the Writ Seat)*                       |
 | 21  | Deverus Aleth      | B    | Magistrate; sells adjournments, not verdicts                           |
 | 22  | Verrine Sallow     | B    | *(allocated — canon: Councillor, the Contract Seat)*                   |
@@ -95,12 +95,12 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 33  | Zafira Al Munn     | C    | *(allocated — canon: the Al Ghorun, ruler of Tuwal Ghorun)*           |
 | 34  | Ghurad Oss         | C    | Freed, not escaped — carries manumission papers he can't read          |
 | 35  | Vurn Kaldhammer    | D    | Oakhaven-based; hull-repair lineage, four generations                  |
-| 36  | Brekka Stonegraft  | D    | Surveys mine shafts in the Stonereach passes                           |
-| 37  | Dorrun Halt-Adze   | D    | Lineage-name marks an ancestor's maiming; worn as status               |
-| 38  | Ingot Vell         | D    | Assays god-shard fragments and refuses to say for whom                 |
+| 36  | Brekka Stonegraft  | D    | *(allocated — canon: master-surveyor of Deepgraft, Duchy of Stonereach)* |
+| 37  | Dorrun Halt-Adze   | D    | *(allocated — canon: one of the Seven; Ubaraz engineer, d. ~8 A.A.)*   |
+| 38  | Ingot Vell         | D    | Assays wrack and refuses to say for whom                               |
 | 39  | Saela Reefborn     | E    | Atoll elf; stilt-village fisher, salt-cracked hands, no glamour        |
 | 40  | Anwe Tidefall      | E    | Elf; pilots the Atoll Shallows for Syndicate guide-boat fees           |
-| 41  | Marren Loweb       | E    | Elf; three centuries old, poor, and completely unremarkable locally    |
+| 41  | Marren Loweb       | E    | *(allocated — canon: one of the Seven; elf scholar, d. ~8 A.A.)*       |
 | 42  | Poppet Crool       | E    | Halfling; runs fish-traps at Two Cages                                 |
 | 43  | Hob Sanderby       | E    | Halfling; net-mender who fences stolen cargo on the side               |
 | 44  | Dilly Marrowick    | E    | Halfling; Muddy Docks-born, never seen the reefs her name comes from   |
@@ -153,12 +153,12 @@ Every entry is placed. **Region** states the parent — no floating villages. **
 | 6 | Marrowmill | **T0** | Hamlet | De Vonce | Grinds that bone. Locals do not eat the bread made from those fields → *allocated: Duchy of De Vonce* |
 | 7 | Coldhelve | **T1** | Town | De Vonce | Arms-making; High-Steel monopoly enforcement point → *allocated: Duchy of De Vonce* |
 | 8 | Wardstone Watch | **T0** | Fort | De Vonce | Second Corvus-facing tower; undermanned, everyone knows it → *allocated: Duchy of De Vonce* |
-| 9 | Grimscree | **T0** | Hamlet | Stonereach | Scree-slope granite quarry, appalling attrition |
-| 10 | Kettlehold | **T2** | Town | Stonereach | Sits in a pass bowl; controls the northeast road |
-| 11 | Thrawgate | **T1** | Fort | Stonereach | Guards Thraw's Pass; ducal levy garrison |
-| 12 | Pilgrim's Notch | **T0** | Waystation | Stonereach | Rime-Fang shrine; free shelter, no questions — *mote of hope* |
-| 13 | Sleetfall | **T1** | Village | Stonereach | Snowed in four months a year, self-governing by necessity |
-| 14 | Deepgraft | **T1** | Village | Stonereach | Deep-shaft mine; dwarven contract crews, ducal ownership |
+| 9 | Grimscree | **T0** | Hamlet | Stonereach | Scree-slope granite quarry, appalling attrition → *allocated: Duchy of Stonereach* |
+| 10 | Kettlehold | **T2** | Town | Stonereach | Sits in a pass bowl; controls the northeast road → *allocated: Duchy of Stonereach* |
+| 11 | Thrawgate | **T1** | Fort | Stonereach | Guards Thraw's Pass; ducal levy garrison → *allocated: Duchy of Stonereach* |
+| 12 | Pilgrim's Notch | **T0** | Waystation | Stonereach | Rime-Fang shrine; free shelter, no questions — *mote of hope* → *allocated: Duchy of Stonereach; The Cult of the Rime-Fang* |
+| 13 | Sleetfall | **T1** | Village | Stonereach | Snowed in four months a year, self-governing by necessity → *allocated: Duchy of Stonereach* |
+| 14 | Deepgraft | **T1** | Village | Stonereach | Deep-shaft mine; dwarven contract crews, ducal ownership → *allocated: Duchy of Stonereach* |
 | 15 | Barleywick | **T0** | Village | Aerthos | Grain tenancy, chronic debt to Millhaven factors → *allocated: Duchy of Aerthos* |
 | 16 | Sheafcross | **T2** | Town | Aerthos | Regional grain market on the Concord Road spur, a day short of Millhaven → *allocated: Duchy of Aerthos* |
 | 17 | Toll-on-Aer | **T1** | Town | Aerthos | River-toll station; the duchy's real income → *allocated: Duchy of Aerthos* |
@@ -171,11 +171,11 @@ Every entry is placed. **Region** states the parent — no floating villages. **
 | 24 | Netherquay | **T1** | Village | Valerius | Small port; Coastal Meridian resupply stop → *allocated: Duchy of Valerius* |
 | 25 | Palefast | **T1** | Fort | Valerius | Guards the coastal road where it narrows → *allocated: Duchy of Valerius* |
 | 26 | Widow's Reach | **T0** | Hamlet | Valerius | Named for its drowning rate. Nobody has renamed it → *allocated: Duchy of Valerius* |
-| 27 | Ashenford | **T0** | Hamlet | Corvus Scar | Abandoned in the collapse, re-occupied ~nine years ago. The ford still works, which is the whole reason |
-| 28 | Corvus Low | **T—** | Ruin | Corvus Scar | Was the duchy's second town. Ash-blighted, silent |
-| 29 | Blackrun | **T—** | Ruin | Corvus Scar | Mill village on an acidic stream; the wheel still turns |
-| 30 | Cinderhollow | **T—** | Ruin | Corvus Scar | Blight-scavenger camp; rotates crews, nobody overwinters twice |
-| 31 | The Quiet Steading | **T0** | Hamlet | Corvus Scar | **Occupied.** One family, four years in, farming a clean pocket. The most successful Scar-Holding on record → *canon: The Scar-Holders* — *mote of hope* |
+| 27 | Ashenford | **T0** | Hamlet | Corvus Scar | Abandoned in the collapse, re-occupied ~nine years ago. The ford still works, which is the whole reason → *allocated: Duchy of Corvus* |
+| 28 | Corvus Low | **T—** | Ruin | Corvus Scar | Was the duchy's second town. Ash-blighted, silent → *allocated: Duchy of Corvus* |
+| 29 | Blackrun | **T—** | Ruin | Corvus Scar | Mill village on an acidic stream; the wheel still turns → *allocated: Duchy of Corvus* |
+| 30 | Cinderhollow | **T—** | Ruin | Corvus Scar | Blight-scavenger camp; rotates crews, nobody overwinters twice → *allocated: Duchy of Corvus* |
+| 31 | The Quiet Steading | **T0** | Hamlet | Corvus Scar | **Occupied.** One family, four years in, farming a clean pocket. The most successful Scar-Holding on record → *canon: The Scar-Holders* — *mote of hope*; *allocated: Duchy of Corvus — the family at Senna Cade's ford* |
 | 32 | Stiltrow | **T0** | Hamlet | Silted Marshes | Nine families, rebuilt twice a decade |
 | 33 | Fenmouth | **T1** | Village | Silted Marshes | Where marsh-guides are legally hired; Council toll post |
 | 34 | Mudgate | **T0** | Fort | Silted Marshes | Council's northern estuary claim, made physical. Barely |
@@ -228,17 +228,17 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 8 | First Keel | Trade | Basin, dockers | First deep-water arrival of spring; the year's wages start here |
 | 9 | The Gull Market | Trade | Trade Plazas | Spring trade season opening; population doubles → *canon tie: The Trade Plazas* |
 | 10 | Lastwater | Civic | Port Nevarellon | Cisterns measured publicly; the price of water is set for the year |
-| 11 | The Held Pass | Rite | Cult of the Iron Horizon | Overnight vigil for Saint Senecus; no fire, no speech |
-| 12 | Maxim Night | Rite | Iron Horizon | Recitation of tactical maxims; used as officer initiation |
+| 11 | The Held Pass | Rite | Cult of the Iron Horizon | Overnight vigil for Saint Senecus; no fire, no speech → *allocated: The Cult of the Iron Horizon* |
+| 12 | Maxim Night | Rite | Iron Horizon | Recitation of tactical maxims; used as officer initiation → *allocated: The Cult of the Iron Horizon* |
 | 13 | The Crooked Tally | Festival | Cult of the Crooked Coin | Debts "forgiven" if the creditor can be tricked out of the ledger |
 | 14 | Coin-in-the-Mud | Rite | Crooked Coin | Coins thrown into the Docks mud; children keep what they find |
 | 15 | The Thunder Reading | Rite | Cult of the Zenith | Aurelius's *Meditations* read aloud under storm-light |
 | 16 | The Nullity Sitting | Legal rite | Cult of the Zenith | A claim is voided in public. Nothing is ever validated → *canon: Court of Nullity* |
-| 17 | The Quiet Hour | Rite | Cult of the Ashen Veil | Citywide silence. Even the Basin cranes stop |
-| 18 | Featherfall | Funeral rite | Ashen Veil | Standard coastal burial; feathers, no words |
-| 19 | The Pauper's Procession | Rite | Ashen Veil | Mass burial of the Sunken Ward's unclaimed dead. Free, always → *canon tie: The Foundry Slips (the burial grounds)* |
-| 20 | The Rime Hunt | Festival | Cult of the Rime-Fang | Winter Moons hunt; the kill is given away, never eaten by the hunter |
-| 21 | Bare-Teeth Night | Rite | Rime-Fang | Coming-of-age; a night outdoors in the Winter Moons with nothing |
+| 17 | The Quiet Hour | Rite | Cult of the Ashen Veil | Citywide silence. Even the Basin cranes stop → *allocated: The Cult of the Ashen Veil* |
+| 18 | Featherfall | Funeral rite | Ashen Veil | Standard coastal burial; feathers, no words → *allocated: The Cult of the Ashen Veil* |
+| 19 | The Pauper's Procession | Rite | Ashen Veil | Mass burial of the Sunken Ward's unclaimed dead. Free, always → *canon tie: The Foundry Slips (the burial grounds)*; *allocated: The Cult of the Ashen Veil* |
+| 20 | The Rime Hunt | Festival | Cult of the Rime-Fang | Winter Moons hunt; the kill is given away, never eaten by the hunter → *allocated: The Cult of the Rime-Fang* |
+| 21 | Bare-Teeth Night | Rite | Rime-Fang | Coming-of-age; a night outdoors in the Winter Moons with nothing → *allocated: The Cult of the Rime-Fang* |
 | 22 | Elara's Walk | Festival | Cult of the Weeping Martyr | Plague remembrance. Free medicine distributed in the Docks — *mote of hope* → *canon tie: The Cult of the Weeping Martyr (the "medicine" is the laying-on of hands)* |
 | 23 | The Taking-On | Rite | Weeping Martyr | Vow to bear another's suffering. Occasionally literal. Rarely survivable → *canon tie: The Cult of the Weeping Martyr* |
 | 24 | Thalass's Count | Rite | Tidespoken Clergy | The year's drowned named aloud from the Sea-Wall → *allocated: The Tidespoken Clergy* |
@@ -247,7 +247,7 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 27 | Lantern Watch | Civic | Golden Company | Low Moons mobilisation; double patrols, closed gates → *canon tie: The Tidespoken Clergy (the Tongues' hunting season)* |
 | 28 | The Shuttering | Trade rite | Guild of Alchemists | All Brine-Fire stock sealed and logged before the Low Moons → *canon tie* |
 | 29 | Moonmeat Night | Folk | Rural coast | Livestock slaughtered before the Low Moons rather than risk what the light does |
-| 30 | The Sleet Vigil | Folk | Northern coast | Winter Moons; households keep a light burning for anyone still on the road |
+| 30 | The Sleet Vigil | Folk | Northern coast | Winter Moons; households keep a light burning for anyone still on the road → *canon tie: The Cult of the Rime-Fang (a folk custom, not a rite); Stonereach's storm-right* |
 | 31 | The Widow's Wage | Labour | Dockers | Collection for families of the year's dead. Enforced socially, not legally |
 | 32 | Boot-Change | Labour | Foundry Slips | Annual stevedore hiring day; the whole year decided in a morning → *canon tie: The Foundry Slips* |
 | 33 | The Long Ledger | Labour | Un-Landed | Informal debt reckoning; who owes whom, publicly stated |
@@ -261,9 +261,9 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 41 | Sheaf-Day | Harvest | Aerthos | Harvest festival; the only day tenants eat what they grew → *allocated: Duchy of Aerthos* |
 | 42 | The Quern Blessing | Rite | Aerthos | Millstones blessed; the miller's cut is announced for the year → *allocated: Duchy of Aerthos* |
 | 43 | Salt-Draw | Trade | Valerius | Salt-pans opened; the duchy's annual yield made public → *allocated: Duchy of Valerius* |
-| 44 | Pass-Opening | Civic | Stonereach | First safe crossing of Thraw's Pass declared; trade resumes |
-| 45 | The Ash Vigil | Remembrance | Corvus refugees | Anniversary of the spire's collapse. Observed in the Sunken Ward, not the Scar |
-| 46 | Homing Night | Folk | Corvus refugees | Second-generation refugees name the villages they've never seen |
+| 44 | Pass-Opening | Civic | Stonereach | First safe crossing of Thraw's Pass declared; trade resumes → *allocated: Duchy of Stonereach* |
+| 45 | The Ash Vigil | Remembrance | Corvus refugees | Anniversary of the spire's collapse. Observed in the Sunken Ward, not the Scar → *allocated: Duchy of Corvus* |
+| 46 | Homing Night | Folk | Corvus refugees | Second-generation refugees name the villages they've never seen → *allocated: Duchy of Corvus* |
 | 47 | The Skiff-Count | Civic | Divtown | Every hull counted; determines who Kelf Thorne can tax |
 | 48 | The Unchaining | Rite | Divtown | Marks a slave one full year free. The whole town turns out — *mote of hope* |
 | 49 | Retriever's Fast | Folk | Silted Marshes | Days when nobody moves on open water. Everyone knows why |
@@ -284,33 +284,33 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 5 | The Anvil | Peak | Jagged Spine; flat-topped, visible from the Basin |
 | 6 | Sentinel's Tooth | Peak | Jagged Spine; navigational landmark for coastal shipping |
 | 7 | Cragfather | Peak | Jagged Spine; highest known on the coast |
-| 8 | Thraw | Peak | Stonereach; gives its name to the pass |
-| 9 | Broken Ward | Fallen peak | Corvus Scar; the folk name for the stump. The peak itself was Corvus Spire, and the seat cut into it took its name → *canon: Corvus Spire* |
-| 10 | Thraw's Pass | Mountain pass | Stonereach; the northeast trade artery |
-| 11 | The Notch | Mountain pass | Stonereach; goat-track, smugglers only |
-| 12 | Sleetgate | Mountain pass | Stonereach; closed most of the Winter Moons |
-| 13 | The Long Graft | Mountain pass | Jagged Spine; longest, lowest, most heavily tolled |
+| 8 | Thraw | Peak | Stonereach; gives its name to the pass → *allocated: Duchy of Stonereach* |
+| 9 | Broken Ward | Fallen peak | Corvus Scar; the folk name for the stump. The peak itself was Corvus Spire, and the seat cut into it took its name → *canon: Corvus Spire*; *allocated: Corvus Spire* |
+| 10 | Thraw's Pass | Mountain pass | Stonereach; the northeast trade artery → *allocated: Duchy of Stonereach* |
+| 11 | The Notch | Mountain pass | Stonereach; goat-track, smugglers only → *allocated: Duchy of Stonereach* |
+| 12 | Sleetgate | Mountain pass | Stonereach; closed most of the Winter Moons → *allocated: Duchy of Stonereach* |
+| 13 | The Long Graft | Mountain pass | Jagged Spine; longest, lowest, most heavily tolled — Stonereach's crest road west to Ubaraz → *allocated: Duchy of Stonereach* |
 | 14 | The River Aer | River | Aerthos; the duchy is named for it, not the reverse → *allocated: Duchy of Aerthos* |
 | 15 | The Quern | River | Aerthos; mill-dense, over-fished, silting → *allocated: Duchy of Aerthos* |
-| 16 | Blackrun | River | Corvus Scar; runs with acidic sulphur → *canon: Ash-Blight* |
+| 16 | Blackrun | River | Corvus Scar; runs with acidic sulphur → *canon: Ash-Blight* → *allocated: Duchy of Corvus* |
 | 17 | The Slowmarrow | River | De Vonce; joins the Aer above Port Nevarellon, carrying the oak rafts and the bone-silt from the war-fields → *allocated: Duchy of De Vonce* |
-| 18 | Tinwater | River | Stonereach; mine tailings make it undrinkable below Deepgraft |
+| 18 | Tinwater | River | Stonereach; mine tailings make it undrinkable below Deepgraft → *allocated: Duchy of Stonereach* |
 | 19 | Adderwater | River | De Vonce; forms the Corvus border in law, not in practice → *allocated: Duchy of De Vonce* |
 | 20 | The Colding | River | Valerius; freezes at the mouth in deep Winter Moons → *allocated: Duchy of Valerius* |
 | 21 | Nine Sisters | Braided river | Aerthos; the braided reach below Millhaven, where the barges load; channels shift yearly, ruins boundary law → *allocated: Duchy of Aerthos* |
-| 22 | Kettle Tarn | Lake | Stonereach; sits in the Kettlehold bowl |
+| 22 | Kettle Tarn | Lake | Stonereach; sits in the Kettlehold bowl → *allocated: Duchy of Stonereach* |
 | 23 | Widow's Water | Lake | De Vonce; deep, cold, and used for exactly what you'd think |
 | 24 | The Drown | Lake | Silted Marshes fringe; a sinkhole lake, no measured bottom |
 | 25 | Coldspar Mere | Lake | Valerius; brackish, feeds the salt-pans → *allocated: Duchy of Valerius* |
 | 26 | Glass Tarn | Tarn | Jagged Spine; wind-sheltered, mirror-still, unnervingly quiet |
-| 27 | Lake Ashen | Lake | Corvus Scar; nothing lives in it. Nothing has for fifty years |
+| 27 | Lake Ashen | Lake | Corvus Scar; nothing lives in it. Nothing has for fifty years → *allocated: Duchy of Corvus* |
 | 28 | The Iron Wood | Forest | De Vonce; the oak stands feeding the shipyards → *allocated: Duchy of De Vonce* |
 | 29 | The Weeping Stands | Forest | Silted Marshes; Iron-Burl canopy → *canon tie* |
-| 30 | Blackcopse | Forest | Corvus Scar; standing dead timber, unburnable, unfellable |
+| 30 | Blackcopse | Forest | Corvus Scar; standing dead timber, unburnable, unfellable → *allocated: Duchy of Corvus* |
 | 31 | The Fallow Wood | Forest | Aerthos; ducal hunting reserve, poached constantly → *allocated: Duchy of Aerthos* |
 | 32 | The Barley Flats | Plain | Aerthos; the coast's actual breadbasket → *allocated: Duchy of Aerthos* |
 | 33 | The Wide Fallow | Plain | Aerthos / De Vonce border, under the Scar's south-western edge; Corvus farmland until 8 A.A., annexation dispute since → *allocated: Duchy of Aerthos* |
-| 34 | The Ash Plain | Blighted plain | Corvus Scar; dead soil, the heart of the Scar |
+| 34 | The Ash Plain | Blighted plain | Corvus Scar; dead soil, the heart of the Scar → *allocated: Duchy of Corvus* |
 | 35 | Wether Downs | Downland | Aerthos; sheep, wool, and very old boundary stones → *allocated: Duchy of Aerthos* |
 | 36 | The Cropped Downs | Downland | Valerius; wind-stunted, thin soil, stubborn tenants → *allocated: Duchy of Valerius* |
 | 37 | The Grey Veins *(canon)* | Marsh channels | Silted Marshes |

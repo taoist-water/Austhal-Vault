@@ -70,7 +70,7 @@ That is the setting's whole thesis, written into its physics. It is also why the
 
 The Great Disk is flat. It has no axial tilt, no orbit, and no hemispheres. **There is no mechanism for seasons.** This is a genuine hole, and it has exactly one answer available that doesn't require new cosmology:
 
-**The moons cause the seasons.** They are not lights. They are masses of dead god-flesh, and when they ride low and close they drag — on tide, on weather, on the thin unanchored energy still bleeding out of the shards buried in the Slack Water. Winter is not a tilt. Winter is **weight**.
+**The moons cause the seasons.** They are not lights. They are masses of dead god-flesh, and when they ride low and close they drag — on tide, on weather, on the thin unanchored energy still bleeding out of the wrack buried in the Slack Water. Winter is not a tilt. Winter is **weight**.
 
 This is why every season on the coast is named for moons and not for temperature, why sailors and alchemists share a reckoning that farmers only borrow, and why the Low Moons are dangerous rather than merely dark. It is the same phenomenon at its extreme.
 
@@ -187,7 +187,8 @@ The King-Ban makes regnal dating illegal. The coast therefore counts from the on
 | Year | Event | Source |
 |---|---|---|
 | **0 A.A.** | The last King slain; the Ducal Accord signed; the 99-Year Contract executed | `History - The Broken Crown of Austhal` |
-| **~8 A.A.** | Corvus Spire falls. The Ash-Blight begins | Derived — `The Five Duchies` states "fifty years later" for the refugee crisis |
+| **~6 A.A.** | The Demon Wars begin, at a Low Moons | Derived from the 840-day cycle (Low Moons ~6 A.A. and ~8 A.A.) — `Duchy of Corvus` |
+| **~8 A.A.** | Corvus Spire falls, at the next Low Moons. The Ash-Blight begins | Derived — `The Five Duchies` states "fifty years later" for the refugee crisis; **confirmed 2026-09-28** |
 | **43 A.A.** | Last Low Moons to fall in The Opening | Derived from the 840-day cycle |
 | **58 A.A.** | **Present day.** 41 years remain on the 99-Year Contract | `History` — "nearly six decades on" |
 
