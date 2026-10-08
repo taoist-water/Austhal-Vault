@@ -106,7 +106,7 @@ Downtime uses the same Margin-driven logic as everything else in the system, sca
     
 - **Standard Success (Margin 0–4):** The Pursuit completes exactly as described in its own entry.
     
-- **Massive Success (Margin 5+):** The Pursuit completes, and the character generates **1 Progress Momentum** — **at most one per character per settlement visit**, however many Massive Successes they roll. Everything else a Massive Success grants — a 25% discount, a 65% sale, a full batch, total absolution — still applies every single time; only the Momentum is capped.
+- **Massive Success (Margin 5+):** The Pursuit completes, and the character generates **1 Progress Momentum** — **at most 3 per character per settlement visit**, however many Massive Successes they roll. Everything else a Massive Success grants — a 25% discount, a 65% sale, a full batch, total absolution — still applies every single time; only the Momentum is capped.
     
     *Why the cap: without it the modifiers generate the currency rather than the rolls. A Friendly City stacks **+4** onto Acquisition, and Acquisition is the cheapest Pursuit at 1 PP — so a character with Influence +4 mints Momentum on **83%** of attempts and banks four to six in a single Full Week, enough to fire every Ultimatum on the ladder below. The same character in a Neutral Town banks about one. One per visit keeps Progress Momentum worth roughly *a visit of competent work*, wherever the party happens to be standing.*
     
