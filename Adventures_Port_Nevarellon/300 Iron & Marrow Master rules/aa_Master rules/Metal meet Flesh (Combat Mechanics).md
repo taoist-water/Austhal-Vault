@@ -50,51 +50,52 @@ During a Characters activation it may move up to its base movement value [MV] an
 - **Retrieve a Dropped Weapon or Shield:** A Free Action — but it halves the character's movement for that activation. Stooping to grab it costs mobility, not the whole turn.
 
 **Full Actions:** 
-- 
+- an activity that consumes the characters full round, both movement and action.
+- They can do nothing else but what the full action taken describes.
 
 **Attack Actions:**
+- *Strike:* 2d6 + Melee. The standard attack. 
 
-- Strike: 2d6 + Melee. The standard attack. 
-- Power Strike: 2d6 + Melee + weapon power. Apply the weapon power to the strike roll, instead of the impact calculation. however, it reduces your Wounds threshold by 2 until the beginning of your next activation.
+- *Power Strike: 2*d6 + Melee + weapon power. Apply the weapon power to the strike roll, instead of the impact calculation. however, it reduces your Wounds threshold by 2 until the beginning of your next activation.
 
-- Grab: 2d6 + Prowess. Attempt to Hold the Target in a grapple or hold onto an enemy. Win, you and the opponent gain the In-Fighting and Grappled conditions.
-    
-- Shove: 2d6 + Prowess. The physical Push, you bash the target to create space or break a grapple. If you win, the target takes 1 Stress and is pushed back 5 feet out of your threat Zone.
-    
-- Shoot: 2d6 + Ranged. The standard Ranged attack. If you win, work out Impact.
-    
-- Cast Spell: See spell description.
-    
+- *Grab:* 2d6 + Prowess. Attempt to Hold the Target in a grapple or hold onto an enemy. Win, you and the opponent gain the In-Fighting and Grappled conditions.
+
+- *Shove:* 2d6 + Prowess. The physical Push, you bash the target to create space or break a grapple. If you win, the target takes 1 Stress and is pushed back 5 feet out of your threat Zone.
+
+- *Shoot:* 2d6 + Ranged. The standard Ranged attack. If you win, work out Impact.
+
+- *Cast Spell:* See spell description.
+
 
 **Defense Actions:**
 
 *When targeted by a ranged attack outside of movement distance and without a ranged weapon, the target of an activation is automatically the Reactor.*
 
-- Block: 2d6 + Block. If you lose the Clash, subtract your Shield's Value from the Impact before comparing it to your Wound Threshold (minimum 0).
-    
-- Dodge: 2d6 + Acrobatics. Avoid damage and instantly shift 5ft.
-    
-- Brace: 2d6 + Prowess. If you win, you take no impact. If you lose, you gain a +2 bonus to your Wound Threshold [T] when calculating Impact. 
-    
-- Parry: 2d6 + Melee.
-    
-- Shoot: **ranged option**, fire ranged weapon as target closes in. Win calculate Impact.
-    
-- Cast Spell: See spell description.
-    
+- *Block:* 2d6 + Block. If you lose the Clash, subtract your Shield's Value from the Impact before comparing it to your Wound Threshold (minimum 0).
+
+- *Dodge:* 2d6 + Acrobatics. Avoid damage and instantly shift 5ft.
+
+- *Brace:* 2d6 + Prowess. If you win, you take no impact. If you lose, you gain a +2 bonus to your Wound Threshold [T] when calculating Impact. 
+
+- *Parry:* 2d6 + Melee.
+
+- *Shoot:* **ranged option**, fire ranged weapon as target closes in. Win calculate Impact.
+
+- *Cast Spell:* See spell description.
+
 **Activation Actions:**
 
-- Disengage: If all you do is move for your activation you can leave an enemy threat zone without provoking a free strike. 
+- *Disengage: I*f all you do is move for your activation you can leave an enemy threat zone without provoking a free strike. 
 	- otherwise: a Dodge roll V opponent Strike Action.
-- Tactical Assessment: Skill test based on context, gains momentum.
-    
-- Ready: Hold your action to stand ready to choose when to act next in the activation order. if the held action hasn't been used this round the player goes last in the activation order for this round.
-    
-- Charge: ** only if within move distance. Gain +2  to the The Clash roll and breaks ties(the equivalent of winning by 1).  suffer a -2 to reactor actions until next activation.
-    
-- Skill based Actions: based on skill
-    
-- The Regroup Action:
+- *Tactical Assessment:* Skill test based on context, gains momentum.
+
+- *Ready:* Hold your action to stand ready to choose when to act next in the activation order. If the held action hasn't been used this round the player goes last in the activation order for this round.
+
+- *Charge:* ** only if within move distance. Gain +2  to the The Clash roll and breaks ties(the equivalent of winning by 1).  suffer a -2 to reactor actions until next activation.
+
+- *Skill based Actions:* based on skill
+
+- *The Regroup Action:*
 	_Sometimes, survival means giving up the offensive just to fix a deteriorating situation._
 
 	Taking the **Regroup** action consumes a player's entire turn. They cannot declare an Aggressor Strike or make a tactical movement. Instead, they drop their guard to focus entirely on one of the following critical tasks:
@@ -105,7 +106,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 	
 	- **Catch Breath:** Flatly clear 2 Dissonant Stress. No check, no attribute tied to the amount — the whole turn already paid for it.
 
-- **The Reprieve (Faith Caster Action):** A Priest lays a burden down for a moment, mid-battle, and asks whatever's listening to ease up. This is the only in-combat route to clearing Locked Stress, and it consumes the Priest's Activation. It cannot touch Locked Stress paid for a Prayer that is currently **Flowing**, or committed to an Attuned item (per the Golden Rules, Iron Core).
+- *The Reprieve (Faith Caster Action):* A Priest lays a burden down for a moment, mid-battle, and asks whatever's listening to ease up. This is the only in-combat route to clearing Locked Stress, and it consumes the Priest's Activation. It cannot touch Locked Stress paid for a Prayer that is currently **Flowing**, or committed to an Attuned item (per the Golden Rules, Iron Core).
 
 	Roll **2d6 + Faith vs. TN 8**.
 
