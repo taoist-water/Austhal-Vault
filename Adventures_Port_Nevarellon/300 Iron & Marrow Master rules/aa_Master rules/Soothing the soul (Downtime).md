@@ -301,6 +301,13 @@ _The six Works lean on things that already exist — two Bestiary Traits, four c
 
 _Every Price is narrative first and mechanical second, on purpose. None of them touches Stress, Wounds or PP, because the Work already costs an Attunement Slot and a Locked Stress forever. The Price is the story the character carries out of her water._
 
+### Copying spells from another Grimoire
+*plagerising someone else work*
+- **Time cost:**
+- **The Base Rule:**
+- **The Check:**
+- **Standard success:**
+- **Massive Success:**
 ### Tend to the Flesh
 *Mundane medical care, not battlefield triage.*
 

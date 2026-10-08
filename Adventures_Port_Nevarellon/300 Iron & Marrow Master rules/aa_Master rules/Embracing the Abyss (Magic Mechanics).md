@@ -10,12 +10,11 @@ To keep the two systems distinct, we should root them in entirely opposite philo
 
 Unopposed casting checks — the Margin of Manifestation roll, a Sustain check, and a Priest's Tithe of Will — no longer target a flat TN 8. The Target Number is set by the spell or Prayer's own Level:
 
-| Level | TN |
-|---|---|
-| Cantrip | 6 |
-| Novice | 8 |
-| Adept | 10 |
-| Master | 12 |
+| Level   | TN  |
+| ------- | --- |
+| Novice  | 8   |
+| Adept   | 10  |
+| Master  | 12  |
 
 This does not apply to Arcane Clash spells or any other opposed roll — both sides already scale together, so there's no static-TN problem to fix. It also does not apply to general skill checks outside of spellcasting; those take their TN from the GM Tools difficulty ladder, which uses these same four rungs. A Sustain check always targets the TN of the specific spell being sustained.
 
@@ -60,7 +59,6 @@ When an Arcanist casts an offensive spell that deals Impact, calculate it the sa
 >
 > | Level | Spell Power |
 > |---|---|
-> | Cantrip | 0 |
 > | Novice | 2 |
 > | Adept | 3 |
 > | Master | 5 |
@@ -69,7 +67,7 @@ When an Arcanist casts an offensive spell that deals Impact, calculate it the sa
 
 **Clash Margin Costs (every Clash spell, Overcharged or not):** A Margin 1–2 result costs the caster 1 Dissonant Stress — this is the Clash-spell equivalent of the Margin of Manifestation's Messy Success, and it's the tier Paradigm Mastery upgrades to Margin 3+ (Clean) for in-Paradigm casters, paying no cost. Margin 3+ (Clean) costs nothing. Losing the Clash outright (the target's roll is higher) costs nothing beyond the lost action — same as whiffing a mundane Strike, you only pay to land a rough hit, not to miss. The Snake Eyes Backfire (natural double-1s: 1 Wound + 1 Dissonant Stress + a battlefield hazard) applies to any Arcana casting roll, Clash or unopposed, exactly as it already does for the Margin of Manifestation.
 
-**Overcharge:** Once per casting, before resolving the Clash, an Arcanist may Lock 1 Stress to add +2 to that spell's Spell Power for this casting only. 
+**Overcharge:** Once per casting, before resolving the Clash, an Arcanist may Lock 1 Stress to add +2 to that spell's Spell Power or the Margin scaler for this casting only. 
 
 **Defense :** When a spell's resolution reads "vs. Target's Defense," the target rolls **2d6 + the most relevant Reactor action available to them** — typically Block, Dodge, or Brace, exactly as if they were defending against a weapon Strike. "Defense" is shorthand for "the target picks their best applicable Reactor roll," not a separate derived stat the target has sitting on their sheet. 
 

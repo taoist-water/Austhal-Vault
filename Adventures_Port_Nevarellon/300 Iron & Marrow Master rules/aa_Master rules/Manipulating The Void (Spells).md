@@ -2,20 +2,6 @@
 **Universal Spell list**
 *Available to any Arcanist regardless of chosen Paradigm. Standard DP cost. Never benefits from Paradigm Mastery.*
 
-## Cantrip
-
-**Elemental Manipulation** (Common)
-Minor feats of elemental control — lighting a candle, cooling a drink, kicking up dust.
-
-- **Level:** Cantrip
-- **Resolution:** Unopposed Arcana vs. TN 6
-- **Target/Range:** 10ft radius, Short Range
-- **Action Type:** Activation
-
-**The Margin Scaler:**
-- Margin 0–4: A single harmless elemental effect occurs, granting Advantage on one relevant skill check this scene.
-- Margin 5+ (Massive): The effect sustains itself for the rest of the scene without further concentration.
-
 ## Novice
 
 **Arcane Protection** (Common)
