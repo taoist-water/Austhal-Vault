@@ -53,7 +53,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 - an activity that consumes the characters full round, both movement and action.
 - They can do nothing else but what the full action taken describes.
 
-**Attack Actions:**
+**Attack Actions: (Aggressor)**
 - *Strike:* 2d6 + Melee. The standard attack. 
 
 - *Power Strike: 2*d6 + Melee + weapon power. Apply the weapon power to the strike roll, instead of the impact calculation. however, it reduces your Wounds threshold by 2 until the beginning of your next activation.
@@ -67,7 +67,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 - *Cast Spell:* See spell description.
 
 
-**Defense Actions:**
+**Defense Actions: (Reactor)**
 
 *When targeted by a ranged attack outside of movement distance and without a ranged weapon, the target of an activation is automatically the Reactor.*
 
@@ -77,7 +77,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 
 - *Brace:* 2d6 + Prowess. If you win, you take no impact. If you lose, you gain a +2 bonus to your Wound Threshold [T] when calculating Impact. 
 
-- *Parry:* 2d6 + Melee.
+- *Parry:* 2d6 + Melee. 
 
 - *Shoot:* **ranged option**, fire ranged weapon as target closes in. Win calculate Impact.
 
@@ -85,7 +85,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 
 **Activation Actions:**
 
-- *Disengage: I*f all you do is move for your activation you can leave an enemy threat zone without provoking a free strike. 
+- *Disengage:* If all you do is move for your activation you can leave an enemy threat zone without provoking a free strike., the exception is taking the Regroup action.
 	- otherwise: a Dodge roll V opponent Strike Action.
 - *Tactical Assessment:* Skill test based on context, gains momentum.
 
@@ -98,7 +98,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 - *The Regroup Action:*
 	_Sometimes, survival means giving up the offensive just to fix a deteriorating situation._
 
-	Taking the **Regroup** action consumes a player's entire turn. They cannot declare an Aggressor Strike or make a tactical movement. Instead, they drop their guard to focus entirely on one of the following critical tasks:
+	Taking the **Regroup** action consumes a player's entire turn and cannot be taken whislt engaged. They cannot declare an Attack Action. Instead, they drop their guard to focus entirely on one of the following critical tasks:
 
 	- **Rummage the Pack:** Digging past armour and straps to retrieve a stowed item (such as a potion, a specialized tool, or a backup weapon) from **The Pack** inventory slots. Items in The Pack cannot be accessed mid-combat without taking this action.
     

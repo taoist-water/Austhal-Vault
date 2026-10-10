@@ -92,6 +92,9 @@ Items found in local markets carry tags denoting the skill of the artisan who ha
     
 - 2d6 Rule: Rusted iron, green wood, or poor craftsmanship. If a character rolls a fumble (Snake Eyes) or even just a standard failure while using a Shoddy item, the item is immediately Damaged. If it is already Damaged, it shatters completely and is Ruined.
     
+*Standard Quality*
+- Cost Modifier: 0% to base price.
+- 2D6 Rule: if not quality is mentioned with an item it is assumed to be Standard quality. nothing remarkable, no benefit, now flaws. 
 
 *Balanced Quality* 
 - Cost Modifier: +100% to base price.
@@ -494,7 +497,7 @@ _______________________________________________________________________
 - **Close-Quarters:** suffers no penalties when In-Fighting.
 - **Concealable:** Grants Advantage (3d6 keep 2) on rolls made to hide the weapon on your person.
 - **Conduit:** can be used to perform Somatic components. The caster weaves the geometry of the spell using the item itself, meaning their hand does not need to be empty.
-- **Cumbersome:** The weapon is heavy and slow to ready. Imposes a -1 penalty to your Activation Order.
+- **Cumbersome:** The weapon is heavy and slow to ready. Imposes a -1 penalty to your Activation Order, cannot be used to Parry.
 - **Devastating:** A mark of exceptional make — masterwork craft, ancient forging, or magic worked directly into the item — assigned to a specific weapon rather than a weapon category (sole exception: the **Petard**, whose charge carries it inherently — see Alchemical Wares). Enables the weapon to inflict Wounds directly on Scale +3 (Gargantuan) creatures (without it, Strikes against Gargantuan creatures only ever inflict Stress, per the Scale rules in Metal meet Flesh). When targeting a Scale +3 or higher creature, this weapon also ignores that creature's Scale-based Wound Threshold bonus when calculating whether a Strike inflicts a Wound — otherwise a weapon capping out at Power 5 could almost never generate enough Impact to matter against a Gargantuan-scale Wound Threshold. Carries no inherent size, Power, or hands requirement, and grants no bonus against fortifications — a Devastating dagger and a Devastating greatmaul are equally valid. The tag describes what the weapon *is*, not how big it is.
 - **Finesse:** When making or defending a Clash with this weapon, you may reroll one die that landed on a natural 1. The new result stands, even if it is another 1. If *both* dice landed on 1, that is Snake Eyes and cannot be rerolled — no amount of technique saves a catastrophe. A rerolled 6 triggers Desperate Edge normally.
 - **Focus:** Grants +1 to Arcana Clash rolls. If the caster rolls a fumble on a casting check the magic backlash destroys the item, it gains the ruined condition. The caster fails but does not suffer the 1 stress for a fumble.

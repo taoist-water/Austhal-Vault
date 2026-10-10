@@ -1,22 +1,22 @@
 # Movement in the world:
 
-- Scale: 1 Square = 5ft. Medium creatures occupy 1 square and move 30 ft (6 squares) per action.
+- *Scale:* 1 Square = 5ft. Medium creatures occupy 1 square and move 30 ft (6 squares) per action.
     
-- Threat zone: Threaten all adjacent 8 squares (5ft radius).
+- *Threat zone:* Threaten all adjacent 8 squares (5ft radius).
     
-- Provoking: Leaving a Threat Zone normally grants the enemy a Aggressor action - strike with Advantage.
+- *Provoking:* Leaving a Threat Zone normally grants the enemy a Aggressor action - strike with Advantage.
     
-- The flanking Bonus (outnumbered): If you outnumber an opponent in melee, you have Advantage on the Clash.
+- *The flanking Bonus (outnumbered):* If you outnumber an opponent in melee, you have Advantage on the Clash.
 
-- Rushed Stealth: Moving faster than half your Movement value whilst using Stealth imposes a disadvantage to your Stealth rolls.
+- *Rushed Stealth:* Moving faster than half your Movement value whilst using Stealth imposes a disadvantage to your Stealth rolls.
     
-- Difficult Terrain: Moving through difficult terrain (deep mire, heavy snow, shifting rubble) halves your Movement value and imposes disadvantage on all checks requiring mobility (such as Athletics or Acrobatics checks) made within it.
+- *Difficult Terrain:* Moving through difficult terrain (deep mire, heavy snow, shifting rubble) halves your Movement value and imposes disadvantage on all checks requiring mobility (such as Athletics or Acrobatics checks) made within it.
     
 - Drawing a weapon is an free action. 
 
 - Move is a per-creature stat, not a formula off Scale — a Small creature can outrun a Large one and vice versa (see Hardware's Mounts table: a Guard Dog outruns a Donkey despite matching Scale). 30 ft (6 squares) is the default for an unremarkable Standard-Scale creature; adjust it up or down when the fiction calls for it.
 
-- Flying: A creature with the Flying Trait has a Fly Move value, used in place of its land Move while airborne. While flying, it ignores ground-level Difficult Terrain and obstacles entirely. A creature with both a land Move and a Fly Move picks one mode at the start of its movement each activation and can't mix the two in a single move. Leaving an enemy's Threat Zone by flying away still triggers the normal Provoking rule (a free Aggressor strike) unless another Trait, such as Skittering, says otherwise.
+- *Flying:* A creature with the Flying Trait has a Fly Move value, used in place of its land Move while airborne. While flying, it ignores ground-level Difficult Terrain and obstacles entirely. A creature with both a land Move and a Fly Move picks one mode at the start of its movement each activation and can't mix the two in a single move. Leaving an enemy's Threat Zone by flying away still triggers the normal Provoking rule (a free Aggressor strike) unless another Trait, such as Skittering, says otherwise.
 ________________________________________________________________________
 # The Environment:
 
