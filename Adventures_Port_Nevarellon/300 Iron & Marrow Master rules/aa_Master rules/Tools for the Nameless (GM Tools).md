@@ -13,15 +13,13 @@ When  there is an action that requires some dice rolling it is usually against a
 ___________________________________________________________________
 **Setting Difficulty: The Target Number** In _Iron and Marrow_, difficulty is expressed as the **Target Number** of an unopposed check. The TN describes the *task*; it does not change with who attempts it.
 
-- **Easy (TN 6):** A task a competent person expects to manage. Climbing a knotted rope, haggling a willing merchant.
-
 - **Standard (TN 8):** The default state of the world. Picking a standard lock, leaping a small gap, translating common runes.
 
 - **Difficult (TN 10):** The task is inherently complex or opposed by the environment. Picking a Masterwork lock, climbing a sheer wall in the rain.
 
 - **Extreme (TN 12):** The task borders on the impossible. Performing surgery mid-combat, deciphering a Dread entity's true name from a shattered tablet.
 
-These are the same four rungs spellcasting uses for its Levels (Cantrip 6 / Novice 8 / Adept 10 / Master 12 — see _Embracing the Abyss_), so the game has one difficulty ladder rather than two.
+These are the same four rungs spellcasting uses for its Levels (Novice 8 / Adept 10 / Master 12 — see _Embracing the Abyss_), so the game has one difficulty ladder rather than two.
 
 **Circumstance is a dice lever, not a number.** Where the *situation* rather than the task favours or hinders the character — superior tools, abundant time, poor light, a rushed attempt — grant **Advantage** or **Disadvantage** instead of moving the TN. This is also the only difficulty lever available on an **opposed** roll, where no Target Number exists.
 
