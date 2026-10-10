@@ -360,11 +360,11 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >You don't need a blade to break a formation — just the right word, aimed well.
 
-* Mechanic: Spend an Action in combat to shout orders, hurl insults, or rally the line. Choose one: An ally immediately clears 1d6 Dissonant Stress, OR an engaged enemy suffers a -2 penalty to their next Defense roll due to distraction/fear.
+* Mechanic: Spend an Action in combat to shout orders, hurl insults, or rally the line. Choose one: An ally immediately clears 1d3 Dissonant Stress, OR an engaged enemy suffers a Disadvantage to their next Defense roll due to distraction/fear.
 
 **Callous Pragmatism**
 
-* Prerequisites: Will 1, Wits 1
+* Prerequisites: Will 1 or Wits 1
 
 >Pity gets you killed. Focus gets you out.
 

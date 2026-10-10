@@ -87,6 +87,7 @@ During a Characters activation it may move up to its base movement value [MV] an
 
 - *Disengage:* If all you do is move for your activation you can leave an enemy threat zone without provoking a free strike., the exception is taking the Regroup action.
 	- otherwise: a Dodge roll V opponent Strike Action.
+
 - *Tactical Assessment:* Skill test based on context, gains momentum.
 
 - *Ready:* Hold your action to ready your weapon or shield and choose when to act next in the activation order. If the held action hasn't been used this round the player goes last in the activation order for this round.
