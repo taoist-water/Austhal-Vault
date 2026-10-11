@@ -223,7 +223,7 @@ Requires a weapon. Forged from iron worked pure of the impurities that make ordi
 - **Effect:** Bane (Fey). The wielder treats a Fey target's Wound Threshold as 1 point lower.
 - *Cold iron answers what is not wholly of this world by birth rather than by corruption — the Fey and their kin alone. Against **The Hag** and **The Hag Matriarch** (Bestiary) it does three jobs: the Bane above, stripping a **Glamour** on any hit, and refusing **Sister's Blood** — a Matriarch cannot pass a Cold Iron Wound to her coven.*
 
-**Sun Iron** (weapon add-on) — 40 sp | Rare
+**Dawn-Quenched Iron** (weapon add-on) — 40 sp | Rare
 Requires a weapon. Iron quenched at first light for nine consecutive dawns, then worked while the metal still holds the warmth.
 - **Effect:** Bane (Vampire) — see Bestiary: Creature Types. The wielder treats a Vampire target's Wound Threshold as 1 point lower.
 
@@ -357,7 +357,7 @@ A slim, black dagger that is always slightly warmer than the air around it.
 - **Effect:** Functions as a permanent, always-on Vital Strike (ignores Armour value in the Wound Threshold calculation) with no -4 penalty required to use it.
 - **The Cost:** Every kill made with the Needle locks 1 additional point of Stress on the wielder that **cannot** be cleared by the Reprieve, Momentum spend, or a Breather — only a full Religious Pursuit or a Long Rest will do. The blade is hungry, and it remembers who fed it.
 
-**The Brand of Gehenna's Grip** (unique manacle) — Not for sale. Found only as loot from Arch-Devil Malaphar.
+**The Brand of the Undertow's Chains** (unique manacle) — Not for sale. Found only as loot from Arch-Devil Malaphar.
 A blackened iron cuff, still faintly warm no matter how long it's been off the wrist.
 - **Effect:** Once per Scene, the wielder may spend 1 Momentum to force a target within Reach into an unopposed Resolve check vs. TN 8; failure inflicts 2 Dissonant Stress as infernal heat sears inward.
 - **The Cost:** Each activation locks 1 Stress on the wielder that **cannot** be cleared by Momentum spend or a Breather — only a full Religious Pursuit or a Long Rest will do. The Brand remembers whose hand last closed a shackle, and it isn't particular about whose.

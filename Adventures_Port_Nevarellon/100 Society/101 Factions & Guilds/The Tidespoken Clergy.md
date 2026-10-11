@@ -22,7 +22,13 @@
 - **The paragon: Thalass's Omen.** Thalass was not a person but a rogue wave that destroyed an entire fleet of the old king's armada. A Tongue casts by invoking the wave's deed, as other priests invoke a saint's.
 - **The Drowned Lamp.** The green, 40-day moon (*Ossuel*) is the clergy's moon. Its rhythm governs the tides, and the Tongues reckon their tables from it. They have never forgiven the Council's clerks for building the civil year on the Pale Sister instead (see [[Framework - The Coastal Reckoning]]).
 
-> **GM-facing.** The Brine Mother is no god. What answers a Tongue is the Domain of Sea & Storms, a current of shattered essence (see [[Religion - The Pagan Pantheon and the Faith Domains]]). The miracles are real; the Mother is the Tidespoken's explanation of them.
+> **GM-facing — what answers.**
+> **The Ebb.** The Brine Mother is no god. What answers a Tongue is the Domain of Sea & Storms: the remains of the Creator of **the going-out**. In the Sphere it carried every thing away from where it had been, toward the turn, so the cycle could bring it round again. Individuation broke the other half — things went out and did not come back — and the Ebb became the one current that always wins (see [[Cosmology - The Celestial Graveyard and The war of Creation]]).
+> **It sided with the Alliance**, for that and for its quarrel with the Unmoving, which wanted nothing ever to go anywhere again. It answers the Tongues as a sea because the people who prayed to it lived beside one. It has no face, and it is not listening. The miracles are real; the Mother is the Tidespoken's explanation of them.
+> **What the current does.** It moves things on — a wave, a storm, a hull off a sandbar, a body out past the Sea-Wall. It does not destroy for its own sake. It carries.
+> **Why the Tongues hate still water.** The fey are essence that pooled where the Ebb could not reach: a hag is the thing that got away from it. A Wretch is a place refusing to let it take its dead. The Tidespoken doctrine is the current's own grudge, worn as faith.
+> **What it takes: whatever you hold.** A devotee's grip loosens — on coin, then title, then a home, then people. Nothing is stolen; it drifts. Old Tongues own nothing and are close to no one, and the Eldest speaks until the sea takes them because, in the end, they walk into it. The clergy's refusal of title is not a vow. It is the current, and the vow came after.
+> **The mote.** What slips from a Tongue's hands goes somewhere, and it goes in the pot. The kitchens are the current's price turned into bread: the clergy cannot keep anything, so they feed people with it.
 
 ### Thalass: the wave that broke the crown
 The Tidespoken are older than the Accord, a sailors' faith of the Drowned Lamp. Thalass is what made them the faith of the Docks.
@@ -96,7 +102,7 @@ The Tidespoken will be on the Sea-Wall shouting the warning, free, to anyone who
 - **Bypass:** the Guild's paid tables; the Council's turn-roll; hunger in Cinder Row, beyond the kitchens' reach.
 - **Cost & Mote:** The cost is the pyres, and a doctrine that burns whom it can reach rather than whom it condemns. The mote is the kitchens, the free warning, and the Count — in Port Nevarellon, nobody the sea takes goes unnamed.
 
-> *`needs crunch` — Tidespoken casting (the Religion note says their prayers manifest as "the crash of distant rogue waves and heavy brine smells") belongs to the Iron & Marrow ruleset.*
+> *Crunch exists — the Domain of Sea & Storms in the Iron & Marrow ruleset (Thalass's Omen, the Tidal Undertow Domain Tag).*
 
 ---
 

@@ -1750,14 +1750,14 @@ There was no clever maneuver. Senecus just told them to stand, and the wall of s
 
 **Designer Note:** Costed and scoped like Long Winter and Sovereign Tide — same "guaranteed AoE condition, no save" power level as the other Master zone Prayers. Worth a look in actual play against a room full of Fodder/Grunts specifically, but it's consistent with existing precedent rather than a new power ceiling.
 ## 2. The Domain of Trickery (The Cult of the Crooked Coin)
-- **The Paragon:** *Corvo's Folly (The Grinning Prophet)*
-- **The Lore:** Corvo wasn't a holy man; he was a legendary cynic and smuggler who realized the ancient bureaucratic laws of the old empire were a joke, and successfully counterfeited the royal treasury into bankruptcy. The Syndicate reveres him as the patron of outsmarting rigged systems.
+- **The Paragon:** *Rook's Folly (The Grinning Prophet)*
+- **The Lore:** Rook wasn't a holy man; he was a legendary cynic and smuggler who realized the ancient bureaucratic laws of the old empire were a joke, and successfully counterfeited the royal treasury into bankruptcy. The Syndicate reveres him as the patron of outsmarting rigged systems.
 - **Flavor:** Loaded dice amulets, mismatched clothes. Prayers are murmured riddles, jokes about authority, and localized distortions of luck.
 - **Domain Tag (Fickle Fate):** Ally rolls Fumble -> Spend 1 Stress as Reaction to turn it into a standard failure.
 ### Novice Prayers
 
 **Beginner's Luck**
-The house always wins — except for the one hand Corvo decides it doesn't.
+The house always wins — except for the one hand Rook decides it doesn't.
 
 - **Level:** Novice
 - **Cost:** 1 Locked Stress
@@ -1797,7 +1797,7 @@ The house always wins — except for the one hand Corvo decides it doesn't.
 - Snake Eyes: Convert the 1 Locked Stress into 1 direct Wound, reset the Priest's Encroachment to 0.
 
 **A Word in Passing**
-Corvo's oldest trick: never lie. Just let people finish the story themselves.
+Rook's oldest trick: never lie. Just let people finish the story themselves.
 
 - **Level:** Novice
 - **Resolution:** Tithe of Will — Faith vs. TN 8
@@ -1826,7 +1826,7 @@ A favor planted now, called in later, when it does the most damage.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The mark is set, but convert the cost into a direct Wound on the Priest immediately.
 
-**Corvo's Step**
+**Rook's Step**
 
 - **Level:** Adept
 - **Cost:** 2 Locked Stress
@@ -1840,7 +1840,7 @@ A favor planted now, called in later, when it does the most damage.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, reset the Priest's Encroachment to 0. The swap still occurs.
 
 **Counterfeit Soul**
-Corvo didn't fight the empire's laws — he forged better ones. The Priest forges a face.
+Rook didn't fight the empire's laws — he forged better ones. The Priest forges a face.
 
 - **Level:** Adept
 - **Cost:** 2 Locked Stress
@@ -2187,7 +2187,7 @@ Vael's answer to a Necromancer isn't a duel. It's getting there first.
 - **Duration:** Permanent
 
 **The Tithe Ladder:**
-- Pass: The rite settles permanently over the body. This corpse can never be reanimated by Zombie, Puppet, or any spell that requires "a corpse within reach" — the protection cannot be dispelled by the Necromancer. If the character died within the last hour, the Priest may also ask the remains one final yes/no question, answered honestly.
+- Pass: The rite settles permanently over the body. This corpse can never be reanimated by Zombie, Puppet, or any spell that requires "a corpse within reach" — the protection cannot be dispelled by the Necromancer — **nor raised again by the ground that killed it** (a Wretch laid down; see the Bestiary). If the character died within the last hour, the Priest may also ask the remains one final yes/no question, answered honestly.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 2 Locked Stress into 2 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The rite still takes.
 

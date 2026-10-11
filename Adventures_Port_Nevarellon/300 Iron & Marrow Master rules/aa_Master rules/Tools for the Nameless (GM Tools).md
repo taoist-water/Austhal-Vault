@@ -94,7 +94,7 @@ For catastrophic hazards, unmitigated magic, or Boss abilities that are narrativ
 
 - The Mechanic: Bypasses the Wound Threshold completely and automatically crosses out 1 Wound Slot.
     
-- Example Revision (Gehenna's Grip): "Failure means they are violently dragged 10 feet toward Malaphar. The searing chains melt through their armour, inflicting 1 Direct Wound."
+- Example Revision (Chains of the Undertow): "Failure means they are violently dragged 10 feet toward Malaphar. The searing chains melt through their armour, inflicting 1 Direct Wound."
     
 
 ### 3. Hazard Rolls (The Trap Mechanic)
@@ -216,3 +216,23 @@ Starting Momentum seeds the enemies' **Banks**, not a pool, so it scales with th
 - **Standard Engagement:** the single highest-tier enemy starts with **2**; everyone else starts empty. A standard patrol, or mercenaries actively standing guard — enough for one moderate ability, keeping the players cautious.
 - **High Alert:** every **Elite and above** starts with **half its Bank, rounded down**; Grunts start with **1**. The place knows the players are coming: traps set, weapons drawn, and an Elite able to afford its most devastating opener immediately.
 - **The Kill-Zone:** **every** enemy starts with a **full Bank**. A Boss's lair, or a perfectly executed ambush. The atmosphere is immediately suffocating.
+
+________________________________________________________________________
+# The Low Moons
+
+Every **840 days** the three moons hang low together for **nine to twelve nights**. It is a reckoned event, not an omen — anyone with the tables can see it coming — and because the cycle does not divide into the year, it walks the calendar: one generation knows it as a winter thing, the next meets it in high summer.
+
+While the moons are low, **what was settled comes unsettled.** Unanchored wrack stirs. The dead do not stay down. What is rooted can move. What is buried strains against whatever holds it.
+
+**How to run it.** The Low Moons are a set of **switches**, not modifiers. For as long as they last, each switch below is simply *on*. None of them adds or subtracts from a roll; each changes what is true at the table. Use the ones the story is touching and ignore the rest.
+
+1. **Everything starts awake.** Every encounter's **Starting Momentum** opens **one band higher** — an Ambush plays as a Standard Engagement, a Standard Engagement as High Alert, High Alert as the Kill-Zone. The Kill-Zone stays the Kill-Zone. Nothing on the coast is asleep these nights.
+2. **The dead do not stay down.** A Wretch laid down on its own ground **rises at the next nightfall** instead of waiting for the next Low Moons (Bestiary, The Wretch). Carrying its body off that ground, or Last Rites, still settles it for good.
+3. **Hags walk.** A hag can pull up her roots and move to new ground of her own kind, and must be rooted again before the moons rise. **A hag met on the move is off her home ground:** her Skin's rider is inert and she has no Hazard Check immunity. Sister's Blood still works if a sister walks with her. Covens gather at the Low Moons, so a lone hag met now is often on her way to one.
+4. **Predators press.** Beasts that hunt, and Daemons, do not Rout. When one Breaks during the Low Moons it resolves as **Frenzy** instead (see NPC Stress, above). A Boss still takes its Phase Change. *Monstrous peoples are not on this list — whether the moons stir them is the GM's call for their own campaign, and should be made deliberately rather than by default.*
+5. **Wrack surfaces.** Unanchored wrack works loose: a seam weeps, a war-bone field shrugs up a shard, a marsh bed coughs something black into the shallows. The Low Moons are when a shard for **Hag's Work** (Soothing the Soul) is most likely to be found lying loose rather than bought or stolen — and when everyone else is out looking for it too.
+6. **What is buried strains.** A breach, a sealed door, a bound thing: whatever has been held shut is pressing hardest now. A Daemon that would ordinarily need a ritual, a summoning or a breach to reach the world **may come through on its own** at the place it was shut out. This is a GM's clock, not a die roll — decide in advance what is straining, and what it would take to hold.
+
+**Who knows it is coming.** Reckoning the Low Moons is a skill, not a secret — an Astromancer, a harbour pilot, an almanac, a priesthood that reads the tides. A party that knows the date can prepare for every switch above; a party that does not meets them all at once. *That is a better use of the Low Moons than any table of penalties: it rewards the players who asked.*
+
+**Not yet written.** Alchemical wares that turn unstable under the low moons, sea and tide hazards, and travel on Low Moons nights are open items. Do not improvise numbers for them; run them as narrative until they are written.

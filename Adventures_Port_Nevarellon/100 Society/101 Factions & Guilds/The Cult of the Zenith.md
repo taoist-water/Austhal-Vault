@@ -147,8 +147,17 @@ The Zenith will not hear a matter the High Courts could hear. It is not a court 
 ## 🔥 Faith & Practice
 Prayers are recited as passages of the *Meditations*, delivered at volume, and manifest as thunderclaps and searing white light — see [[Religion - The pagan Pantheon and the Faith Domains|Religion.md]]. Heavy comet pendants are worn by all ranks above Copyist; the comet is Aurelius's sign, a thing that arrives on a fixed and unalterable path whether or not anyone consents to it.
 
+> **GM-facing — what answers.**
+> **The Plumb.** The Domain of Law is the remains of the Creator of **the true line**. In the Sphere it held the measure of every thing as it was meant to be, so the cycle could restore each one exactly. Individuation was deviation without end, and in the Naming the mortals called it the Judge (see [[Cosmology - The Celestial Graveyard and The war of Creation]]).
+> **It fought for the Purge**, and it kept the Purge's list: which beings had strayed past restoring. Every mortal was on it. The cult that prays to it calls its order civilisation. It is praying to the remains of the thing that drew up the list of who was to be burned.
+> **What the current does.** It holds things to their record. A word sworn over the Register is held to its letter — the Binding Oath is the current, not a superstition. A priest can feel whether a thing matches its record, and whatever has strayed from its true line — the risen dead, the Undertow-made, flesh forced out of its shape — stands out to the white light like a crooked beam.
+> **What it cannot do is make anything true.** It can only strike what fails the measure. **The Court of Nullity is not a doctrine Aurelius invented; it is the current's own shape.** The Zenith may void and never validate because the Plumb can only measure against what it already holds. An Arbiter who tried to confirm a title would find the white light gone out of the room.
+> **What it takes: whatever is not written down.** A devotee slowly loses the ability to see what has no record. A face with no name on paper slides off the mind; a grievance with no instrument behind it sounds like weather. Old Arbiters are not cruel to the Un-Landed — they genuinely cannot hold them in view. *"A man outside the record is a man outside the law"* is not Aurelius's prejudice. It is what the current does to everyone who channels it long enough.
+> **Aurelius** was real: a warlord of the old empire across the Broken Ocean, and the *Meditations* were that empire's law. The faith came over with the settlers. Whether he found the current or it found him, the book reads like something taking dictation.
+> **The mote.** The current takes slowly, and it has not taken the young yet. The Arbiters who rule against a High Quarter house are the ones who can still see the people in the room. And [[Keeper Merrit Dray]] — a hauler's son, thirty-one years in the vault, never once wrong — can still see everyone. He keeps the Register; he has never recited the *Meditations* at volume in his life.
+
 **The Binding Oath.** An oath sworn before an Arbiter, over the Register, is held to carry a real consequence for the oath-breaker rather than a merely social one. This is the cult's one genuine supernatural claim, and the reason parties who despise each other will still swear at the Plumb Court rather than in a hall.
-> *`needs crunch` — mechanical effect of a broken Binding Oath undefined pending the rules system. Do not assign TN or Stress values here until the core resolution mechanic stabilises.*
+> *Crunch exists — *The Binding Oath* is a Domain of Law prayer in the Iron & Marrow ruleset. Its ground truth is above: the current holding a word to its letter.*
 
 ---
 

@@ -13,22 +13,23 @@ A hag is one of the **Slack-Born** — essence that pooled in a still place and 
 She is also the only fey that trades. The rest of the Slack-Born are beautiful, unhurried and indifferent to mortal purposes. A hag is interested, which is worse.
 
 ## 🌊 Where they root
-Every hag's ground is **still water, or a place where still water used to be**. The coast names four kinds, by the water that made them:
+Every hag's ground is **still water, or a place where still water used to be**. The coast names five kinds, by the water that made them:
 
 - **Bog-Hags** — the fen-mothers of the [[Silted Marshes]], down the Grey Veins where the channels stop moving. Leeches in the hair, peat under the nails. The marsh-folk know roughly where each one is and steer their skiffs wide.
 - **Brine-Hags** — in sheltered salt water: lagoons, tide-pools, the calm reefs behind the Shield Atolls of [[The Inner Sea]]. Never the open ocean; nothing quickens in water that moves. Sailors' stories make them prettier than they are.
 - **Briar-Hags** — in drowned woodland, where old forest has gone under at a marsh's edge and the trees stand dead in still water. Barefoot at the treeline, holding a lantern the wrong colour, and lovely.
-- **Mirage-Hags** — in the places the water left: dried tarns, dead oases, salt pans. Beautiful, offering a cup at a well that is not there. She is always thirsty, and she takes it out on whoever comes.
+- **Mirage-Hags** — in the deserts where the water left: dried tarns, dead oases, wells the sand has buried. The shimmer on the dune-crest that walks toward you with water in her hands. The water is sand. So is she, nearly.
+- **Salt-Hags** — where the sea was cut off and the salt stayed: abandoned salt-pans, dried lagoons, salt flats. Their ground can be as cold as any coast; it is the water that left, not the sun that came. Beautiful, offering a cup at a well that is not there. She is always thirsty, and she takes it out on whoever comes.
 
 ## 🌒 Uprooting: the Low Moons
 A hag is rooted, but not forever. **During the Low Moons** — the nine to twelve nights, every 840 days, when all three moon-corpses hang low and wrong (see [[Framework - The Coastal Reckoning]]) — the grip of the place she quickened in slackens, and **a hag can pull up her roots and move**.
 
-She cannot go just anywhere. She needs **her own kind of ground** to put her roots back down in: a Bog-Hag another stagnant fen, a Brine-Hag another sheltered reef or lagoon, a Briar-Hag another drowned wood, a Mirage-Hag another place where still water used to be. She must reach it before the moons rise again, or she is caught between, and nobody knows what happens to a hag caught between because nobody has found one.
+She cannot go just anywhere. She needs **her own kind of ground** to put her roots back down in: a Bog-Hag another stagnant fen, a Brine-Hag another sheltered reef or lagoon, a Briar-Hag another drowned wood, a Mirage-Hag another desert where still water used to be, a Salt-Hag another stretch of salt the sea has left. She must reach it before the moons rise again, or she is caught between, and nobody knows what happens to a hag caught between because nobody has found one.
 
 This is how a hag reaches a place no hag has been before, and why the marsh-folk count the Low Moons tables as closely as the Guild does. When the moons come down, the fen-mother at the end of the channel may not be where she was — and something may have arrived at the dry tarn up the road that was empty last cycle. The next Opening-season Low Moons (~59 A.A.) is close enough that the old guides have started saying so.
 
 ## 🎭 The face she wears
-The fey are beautiful. Hags were too, once. A hag's trade is working Undertow wrack into living flesh, and over centuries she has done it to herself as much as to anyone — the Undertow's pull shows in her the way it shows in the people she changes. The Bog-Hags and Brine-Hags wear it openly. The Briar-Hags and Mirage-Hags wear a **glamour** over it, and the glamour holds until it doesn't: a blade of cold iron, a real wound, or the moment she stops bothering. Marsh-folk say the ugly ones are the honest ones. Marsh-folk have not met many of either.
+The fey are beautiful. Hags were too, once. A hag's trade is working Undertow wrack into living flesh, and over centuries she has done it to herself as much as to anyone — the Undertow's pull shows in her the way it shows in the people she changes. The Bog-Hags and Brine-Hags wear it openly. The Briar-Hags, Mirage-Hags and Salt-Hags wear a **glamour** over it, and the glamour holds until it doesn't: a blade of cold iron, a real wound, or the moment she stops bothering. Marsh-folk say the ugly ones are the honest ones. Marsh-folk have not met many of either.
 
 ## ⚖️ The trade
 A hag's stock is **change**, and a hag **always agrees**. Bring her a shard of wrack and tell her what you want to become, and she will make you into it — gills, bark for skin, eyes that drink the dark. [[Morgran the Abomination|Morgran]] is the coast's best-known customer.
@@ -67,7 +68,8 @@ A hag beaten to her knees does not beg; she **names her price**. A true answer, 
 ---
 
 ## ❓ Open questions — TheTao's call
-- ~~**Where the Mirage-Hags are.**~~ **Decided 2026-10-07 (TheTao):** the abandoned salt-pans of Valerius — **the Dry Pans** north of Brinewick, where the bond-rows call her the Thirsty Woman. An adventure hook (see [[Duchy of Valerius]]). The Twelgorn marsh-fringe tarns remain possible ground for others.
+- ~~**Where the Salt-Hags are.**~~ **Decided 2026-10-07, revised 2026-10-11 (TheTao):** the abandoned salt-pans of Valerius — **the Dry Pans** north of Brinewick, where the bond-rows call her the Thirsty Woman. She was first written as a Mirage-Hag; the Dry Pans are cold, so she is a Salt-Hag, and Mirage-Hags stay desert hags. An adventure hook (see [[Duchy of Valerius]]).
+- **Where the Mirage-Hags are.** Open again. No desert exists in canon yet; the dried tarns where the [[The Twelgorn Kingdom|Twelgorn]] marsh-fringe rises onto dry steppe are the nearest candidate.
 - **Where the Briar-Hags are.** The rotting marsh-timber forests of the Silted Marshes, or the flooded margin of the oak forests below the Spine?
 - **Morgran's hag.** Is she still in the Grey Veins — and if the Low Moons have come and gone since, is she still anywhere he could find her?
 - **Cold iron.** The vault has never said why it answers the fey. Folk knowledge, or something about how essence and pure iron meet?

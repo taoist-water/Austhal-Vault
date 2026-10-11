@@ -14,6 +14,16 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-11 — Law and the Sea (ground truth)
+- **The Plumb** (Purge) — Creator of the true line; named the Judge; **kept the Purge's list** of beings strayed past restoring. Behind Law. Its current holds things to their record (the Binding Oath is real) and can only strike what fails the measure — **the Court of Nullity is the current's own shape**. It takes **whatever is not written down**: long-serving devotees cannot hold the unrecorded in view. Aurelius was real, from the old empire. Mote: the young Arbiters, and Merrit Dray, who keeps the Register but has never recited at volume.
+- **The Ebb** (Alliance) — Creator of the going-out; carried every thing toward the turn; individuation made it the one current that always wins. Sided with the mortals, and against the Unmoving. Behind Sea & Storms. Its current moves things on. **The Tidespoken hatred of still water is the current's own grudge** — the fey pooled where it could not reach. It takes **whatever you hold**: the clergy's refusal of title is the current, and the vow came after. Mote: what slips from a Tongue's hands goes in the pot.
+- All seven Domains now have ground truth. Celestial Graveyard, The Cult of the Zenith and The Tidespoken Clergy updated. The Binding Oath and Tidespoken casting flags closed — the ruleset has both.
+
+### 2026-10-11 — Salt-Hags, and the rules catching up
+- **The Thirsty Woman of the Dry Pans is a Salt-Hag** (TheTao) — a fifth kind of hag, rooted where salt water used to stand. The Dry Pans are cold; **Mirage-Hags stay desert hags**, and where they live is open again. Duchy of Valerius and Lore - Hags updated.
+- **Ruleset changes that close flags here:** the ruleset now says *wrack* and *essence*; Salt-Hag statted as a fifth Skin; Dust-Wretches cover ash-choked ground (the Corvus Scar reading, without naming it); ash-choked air and waterless ground added to the ruleset's hazards; Wretches laid down rise again at the next Low Moons unless carried off their ground (the Long Carry) or given Last Rites; **the Low Moons** have a GM-facing section of switches — everything starts awake, the dead do not stay down, hags walk, predators press, wrack surfaces, what is buried strains.
+- **Kept open:** whether the Low Moons stir the monstrous peoples (the ruleset leaves it to the GM, deliberately); coven powers; Low Moons hazards for alchemy, tide and travel.
+
 ### 2026-10-08 — The regional cults
 - **New faction notes (draft):** The Cult of the Iron Horizon, The Cult of the Rime-Fang, The Cult of the Ashen Veil — written in-world, ground truth in GM-facing callouts.
 - **Ground truth (GM-facing), placed in the Celestial Graveyard:**
@@ -60,7 +70,7 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 - **GM-facing:** the Keystone crews can bring down Granite Spire's upper works (the house suspects); Ubaraz shut its gates over what it saw in 8 A.A. (Corvus pass); Deepgraft's deep drift is heading toward the Corvus seam — warm, glassy rock — and Brekka will not stamp it.
 
 ### 2026-10-07 — The Dry Pans (Mirage-Hags)
-- **Mirage-Hags live in the abandoned salt-pans of Valerius** (TheTao) — the **Dry Pans** north of Brinewick, cut off from Coldspar Mere by a storm two generations ago. The bond-rows call her **the Thirsty Woman**. Written as an adventure hook in Duchy of Valerius; Lore - Hags open question closed.
+- *(Revised 2026-10-11: the Thirsty Woman is a **Salt-Hag**.)* **Mirage-Hags live in the abandoned salt-pans of Valerius** (TheTao) — the **Dry Pans** north of Brinewick, cut off from Coldspar Mere by a storm two generations ago. The bond-rows call her **the Thirsty Woman**. Written as an adventure hook in Duchy of Valerius; Lore - Hags open question closed.
 - **GM-facing:** a runaway who pays her a name is forgotten by everyone who reads their bond — and by their family. Low Moons (~59 A.A.) coven risk.
 
 ### 2026-10-07 — Valerius
@@ -130,7 +140,7 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ### 2026-10-02 — Hags and Wretches
 - **Two new notes (draft):** `Lore - Hags` and `Lore - Wretches` (100 Society/102 Lore & History). Expand the Slack-Born section of the Great Fracture; add Wretches to the world.
-- **Hags root only in still water, or where it used to be:** Bog (fen), Brine (sheltered reef and lagoon — never open sea), Briar (drowned woodland), Mirage (dried tarn, salt pan).
+- **Hags root only in still water, or where it used to be:** Bog (fen), Brine (sheltered reef and lagoon — never open sea), Briar (drowned woodland), Mirage (dried tarn, salt pan). *(Revised 2026-10-11: Mirage is desert; Salt — salt-pan, dried lagoon — is a fifth kind.)*
 - **Hags can uproot only during the Low Moons**, and must re-root in their own kind of ground before the moons rise again.
 - **Covens form to increase a hag's power and influence over change**; the eldest is the coven-mother. Covens grow at the Low Moons.
 - **A hag's face shows her own Undertow work**; some wear a glamour over it.
@@ -210,7 +220,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Barley Flats · Wether Downs · Fallow Wood · the Wide Fallow · the Quern · the Nine Sisters | Aerthos | Breadbasket · sheep-downs · hunting reserve · disputed ex-Corvus plain · mill-river · braided reach below Millhaven | Duchy of Aerthos; Name Tables T4 | **NEW 2026-10-07** |
 | Duchy of Valerius (Gilded Coast) | Cliff coast north of the city | Salt, wine, shipping and credit; bond-worked pans; ruled by the Table | Five Duchies; **Duchy of Valerius** | **Full note 2026-10-07 (draft).** **Placed 2026-10-07** — the tracker had it south; no note did |
 | Saltmere | Valerius coastal cliffs | Seat of House Valerius; white limestone, the Table Hall and the strongroom; ~1 day by galley on the Coastal Meridian; doesn't need the Road | Five Duchies; Three Layers; Saltmere | **Filled 2026-10-07 (draft).** Mote: the fog bell |
-| The Dry Pans | Valerius, north of Brinewick | Abandoned salt-pans (T—); a Mirage-Hag, "the Thirsty Woman", where runaway bondsmen go | Duchy of Valerius; Lore - Hags | **NEW 2026-10-07.** Adventure hook |
+| The Dry Pans | Valerius, north of Brinewick | Abandoned salt-pans (T—); a Salt-Hag, "the Thirsty Woman", where runaway bondsmen go | Duchy of Valerius; Lore - Hags | **NEW 2026-10-07.** Adventure hook. Salt-Hag (was Mirage-Hag) 2026-10-11 |
 | Brinewick · Netherquay · Palefast · Coldspar · Gullstand · Widow's Reach | Valerius coast | Bond-worked pans and cured fish (T2) · Meridian resupply port (T1) · fort on Palefast Head (T1) · cliff village, wrecking unproven (T1) · egg-harvest (T0) · drownings (T0) | Duchy of Valerius; Name Tables T3 #21–26 | **NEW 2026-10-07** |
 | Coldspar Mere · the Cropped Downs · the Colding · Gull Cape · Palefast Head | Valerius | Brackish lagoon feeding the pans · walled vineyards · river freezing at the mouth · cliff colonies · headland | Duchy of Valerius; Name Tables T4 | **NEW 2026-10-07** |
 | Duchy of Stonereach (High Shields) | North-eastern Spine; its passes run west along the crest to Ubaraz | Granite, tolls (ash-money since 8 A.A.), dwarven engineering; ruled by House Scutarius | Five Duchies; Three Layers; **Duchy of Stonereach** | Since 8 A.A. its passes are Ubaraz's only road to the coast (2026-10-07) |
@@ -400,6 +410,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | **The Unmoving** *(GM-facing)* | The Creator behind the Domain of Winter & Wilds | Creator of stillness and constancy; the purest of the Purge; made the winter-drake | Unknowingly, the Rime-Fang | Celestial Graveyard; The Cult of the Rime-Fang |
 | Mother Elara of the Mud | Mercy — Weeping Martyr | In-world: absorbed the plague-dying's rot and was "taken into Mercy" (body never recovered). **GM:** she fed on the quarantine | Elara's Walk | Religion; The Cult of the Weeping Martyr |
 | **The Mother** *(GM-facing)* | The Creator behind the Domain of Mercy | Made vain and hungry by the Naming; sided with the Alliance to feed on individuated selves; Ego = the loving Mother, Id = the appetite | Unknowingly, the Weeping Martyr | Celestial Graveyard; The Cult of the Weeping Martyr |
+| **The Plumb** *(GM-facing)* | The Creator behind the Domain of Law | Creator of the true line; named the Judge; fought for the Purge and kept its list; its current holds things to their record and takes whatever is not written down | Unknowingly, the Zenith | Celestial Graveyard; The Cult of the Zenith |
+| **The Ebb** *(GM-facing)* | The Creator behind the Domain of Sea & Storms | Creator of the going-out; sided with the Alliance and against the Unmoving; its current moves things on and takes whatever you hold | Unknowingly, the Tidespoken (as the Brine Mother) | Celestial Graveyard; The Tidespoken Clergy |
 | Thalass's Omen | Sea & Storms — Tidespoken | The rogue wave that broke a fleet of the last King's armada at the harbour mouth, in the final year of the Civil War | The Tidespoken Clergy | Religion; The Tidespoken Clergy |
 | The Sun | Corpse of a primary Creator | Ceases to exist at night and returns somewhere else; no solar bearings | — | Celestial Graveyard; Coastal Reckoning |
 | The Pale Sister (Nyssaria) · The Drowned Lamp (Ossuel) · The Slow Wound (Cassivar) | Moon-corpses; 28 / 40 / 105-day cycles; **their own glow** | Set the calendar, the tides and the Low Moons respectively; winter is their weight | — | Coastal Reckoning |
@@ -468,7 +480,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Keeper's key | Merrit Dray | The only key to the vault | — | Keeper Merrit Dray |
 | *Meditations on Law* | The Zenith (oldest recension unlent) | Aurelius's text; Kalder's annotated copy | — | The Cult of the Zenith; Kalder |
 | The Contract Bell | Port Nevarellon | Rung once per remaining year of the Contract; 41 left | — | Coastal Reckoning; Name Tables |
-| **Wrack** (black · pale; unanchored) | Everywhere in the Slack Water: trenches, marsh beds, war-fields, the Scar, the deep works | The solid form of essence (formerly *god-shard*); a shard is one piece; unanchored wrack still bleeds and the Low Moons stir it; assayed by the Guild, smuggled by the Cobalt Feather, worked by hags | `needs crunch` — the ruleset still says *god-shard* | Great Fracture; Cobalt Feather; Morgran; Guild of Alchemists |
+| **Wrack** (black · pale; unanchored) | Everywhere in the Slack Water: trenches, marsh beds, war-fields, the Scar, the deep works | The solid form of essence (formerly *god-shard*); a shard is one piece; unanchored wrack still bleeds and the Low Moons stir it; assayed by the Guild, smuggled by the Cobalt Feather, worked by hags | Ruleset uses *wrack* (2026-10-11); as a material, `needs crunch` | Great Fracture; Cobalt Feather; Morgran; Guild of Alchemists |
 | Iron-Burl | Silted Marshes | Black marsh timber immune to sea-rot | — | Silted Marshes; Divtown |
 | **Mogwort** (formerly Cindin) | Sailors, labourers | Sticky narcotic resin, chewed or dissolved in ale | — | Mogwort.md; Economy; Kress; Maccorrack |
 | Nightshade (powdered) | Tessa Dolly | Poison in a hollow ring | — | Dolly Sisters; file empty |
@@ -493,7 +505,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Mother's share · the kitchen-truce | One fish from every boat landing at a Tidespoken pier · no blade drawn within sight of the pot | The Tidespoken Clergy | — |
 | Hag's Work · the price | A hag's change, and what she takes for it (years, memory, sense, service, name, something not yet yours) | Lore - Hags | Statted (ruleset) |
 | Coven · coven-mother | Hags gathered for power and influence over change · the eldest, whom the others bleed for | Lore - Hags | Statted in part (ruleset); coven powers `needs crunch` |
-| Uprooting | A hag moving to new ground of her own kind during the Low Moons | Lore - Hags | `needs crunch` |
+| Uprooting | A hag moving to new ground of her own kind during the Low Moons | Lore - Hags | Statted (ruleset, Low Moons) |
 | Landed / Un-Landed | Legal personhood by deed, charter or deep-water keel | Law; Council; throughout | Social mechanic — no crunch needed |
 | Landed by Commission | A Company commission counts as a charter; lapses on discharge | Golden Company; Marco; Cobb; Isolde; Jeerdan (unverifiable) | — |
 | The Second Contract / Writ of Voice | Envoy retainers / an Envoy's negotiating limits | The Golden Company | — |
@@ -507,7 +519,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Years of the Binding | Tuwal Ghorun's calendar; legally unusable on the coast | Coastal Reckoning; The Twelgorn Kingdom | — |
 | Debt-Bond · Bond of Service | The coast's indenture instruments: debt converted to service · a term contract of service to a Landed patron | Law | — |
 | A.A. / turns / the Unwritten Day | Dating after the Accord; 13 × 28-day turns + one day outside the year | Coastal Reckoning | — |
-| The Low Moons | All three moons low every 840 days, for 9–12 nights; they "walk the year" | Coastal Reckoning; Celestial Graveyard | `needs crunch` (hazards) |
+| The Low Moons | All three moons low every 840 days, for 9–12 nights; they "walk the year" | Coastal Reckoning; Celestial Graveyard | Switches statted (ruleset, 2026-10-11); hazards still `needs crunch` |
 | Winter Moons / the Opening / High Turns / Draw-Down | The four seasons | Coastal Reckoning | — |
 | Lastwater · Toll Amnesty · First Keel · Contract Bell | Water-price day · the Unwritten Day's unavoidable "mercy" · spring opener · countdown | Coastal Reckoning; Name Tables | — |
 | The Powder Edict | Fifth Edict of Armament; powder licensed by the Guild | Law | Flag for the rules side |
@@ -544,7 +556,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Bound to the furrow | Aerthos tenancy: labour-days on the demesne, no leaving without the steward's leave; the steward's third | Duchy of Aerthos; Jeerdan Darcy | Rules flag (status) |
 | The bridge-penny · the short tally | Wether Bridge's toll for its own upkeep · Colm's under-count | Reeve Colm Hollick | — |
 | The widows' bread | Iron-Spire feeds every border-dead levyman's family for life | Castle Iron-Spire | — |
-| Wrack · shard · unanchored | The solid form of essence · one piece of it · wrack that still bleeds | Great Fracture; throughout | Rules flag: ruleset says *god-shard* |
+| Wrack · shard · unanchored | The solid form of essence · one piece of it · wrack that still bleeds | Great Fracture; throughout | Ruleset aligned 2026-10-11 |
 | Essence | What the nameless entities, and the entities they made, were made of (not "god-essence") | Great Fracture; Celestial Graveyard; throughout | — |
 | Settlement Tier T0–T3 | Tier measures services, not headcount | Name Tables | **Explicitly "mechanical" — flag for the rules side** |
 
@@ -576,11 +588,11 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 15. **Tier tags:** `#location/neighborhood` for the Muddy Docks and Cinder Row.
 16. **Cinder Row** — intentional stub; develop when the Sunken Ward goes live in play.
 17. ~~**City guilds framework.**~~ **Drafted 2026-09-29** as `Framework - The Guilds of Port Nevarellon`. Still to set: which dead charters are on the Roll; whether the Smiths get a name; how Suse Kellard got her stamp.
-18. **Hags and Wretches** — notes drafted 2026-10-02; open questions at the foot of each (~~Mirage-Hag home~~ — the Dry Pans, 2026-10-07; Briar-Hag home, Morgran's hag, cold iron, coven powers, Grave-Wretch ground; ~~the Ashen Veil in the Scar~~ — they go in, the Long Carry, 2026-10-08).
+18. **Hags and Wretches** — notes drafted 2026-10-02; open questions at the foot of each (~~Salt-Hag home~~ — the Dry Pans, 2026-10-07, a Salt-Hag since 2026-10-11; Mirage-Hag home reopened; Briar-Hag home, Morgran's hag, cold iron, coven powers, Grave-Wretch ground; ~~the Ashen Veil in the Scar~~ — they go in, the Long Carry, 2026-10-08).
 19. ~~**The Duchy pass**~~ **Done 2026-10-08** — all five duchies written (Batches 14–19). (agreed 2026-10-07): one note per duchy with its house written inside; `Valerius Family.md` filled as the House Valerius faction note; Castle Iron-Spire filled. Order: De Vonce, Aerthos, Valerius, Stonereach, Corvus. The regional cults (Iron Horizon, Rime-Fang, Ashen Veil) follow. **Done 2026-10-08** (Batch 21). Still to set: the Mute's name, the Quiet Hour's date, the Notch-keeper, Kaelen's people.
 
 ### Rules-side flags (not carried over — for the Iron & Marrow ruleset)
-- Binding Oath
+- ~~Binding Oath~~ — in the ruleset (Domain of Law); ground truth 2026-10-11
 - Low Moons hazards
 - Wyvern-Hide Banner
 - Brine-Fire
@@ -590,8 +602,8 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - Business ownership / downtime: the guild-business vs deed-business split
 - Whether Tuwal Ghorun's warships mount powder guns
 - ~~Fey and hag stat blocks~~ — **hags and Wretches statted 2026-10-02**; other fey still open
-- Hag uprooting at the Low Moons; what a coven can change beyond protecting its mother
-- Tidespoken casting (Thalass's Omen)
+- ~~Hag uprooting at the Low Moons~~ — statted 2026-10-11; what a coven can change beyond protecting its mother still open
+- ~~Tidespoken casting (Thalass's Omen)~~ — in the ruleset (Domain of Sea & Storms)
 - Crooked Coin luck: distortions of luck repaid as later disappointment, the Mocking Voice, disillusionment, and the Binding Oath (full list in The Cult of the Crooked Coin § Rules Flags)
 - Corvus: the Ash-Blight as a hazard; Dust-Wretches at the Low Moons; Undertow entities still in the deep valleys; the raven seal as proof (full list in Duchy of Corvus § Rules Flags)
 - Stonereach: Sun-Iron; mountain travel, winter-closed passes and storm-right; dwarven undoing-works (full list in Duchy of Stonereach § Rules Flags)
@@ -600,7 +612,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - De Vonce: the lance as a unit; the Blooding's mark; High-Steel refining and supply; the Undertow-touched weapons in the upper Sisters; war-bone wrack; elven-blooded ageing (full list in Duchy of De Vonce § Rules Flags)
 - Regional cults: the Iron Horizon's removed doubt and no-retreat cost; the Rime-Fang's slowing, lost warmth, and eating unanchored wrack; the Ashen Veil's ending effects, the Long Carry against Wretch stat blocks, and a current with no cost (full lists in each cult note § Rules Flags)
 - Weeping Martyr healing: wound/pain transfer, the hidden cost in the patient's years and vigour, the healer's longevity, the Taking-On, the golden tears as a tell (full list in The Cult of the Weeping Martyr § Rules Flags)
-- **Terminology:** *god-shard* → **wrack**, *god-essence* → **essence** (2026-10-08) — the ruleset's own text still uses the old words
+- ~~**Terminology:** *god-shard* → **wrack**, *god-essence* → **essence**~~ — ruleset aligned 2026-10-11
 - Settlement Tiers
 - Faction power levels (every faction is currently "not defined")
 

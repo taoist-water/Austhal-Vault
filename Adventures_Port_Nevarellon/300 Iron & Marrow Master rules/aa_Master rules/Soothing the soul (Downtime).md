@@ -253,14 +253,14 @@ Each entry below formalizes a Pursuit already referenced elsewhere in the rules.
 - **Or — Made to Order:** One item that Hardware lists as **Commission-gated** (a firearm, a ship), built new and paid for at its listed price. A Commission-gated item can only be made at a **Capital (Tier 3)** — no lesser settlement has the specialists.
 
 ### Hag's Work
-*Carry a god-shard to a hag, tell her what you want to become, and pay what she asks.*
+*Carry a shard of wrack to a hag, tell her what you want to become, and pay what she asks.*
 
-A hag is the one kind of Fey that trades with mortals, and what she trades in is **change**: she can work an Undertow-touched shard into living flesh. This Pursuit is how a character buys a permanent change to their own body. It is deliberately more narrative than numeric — **the dice decide what she asks for, never whether she can do it.** She always can, and she always agrees.
+A hag is the one kind of Fey that trades with mortals, and what she trades in is **change**: she can work a shard of **black wrack** into living flesh. *(Wrack is essence hardened into stone, glass, bone or metal; a shard is one piece of it; black wrack carries the Undertow.)* This Pursuit is how a character buys a permanent change to their own body. It is deliberately more narrative than numeric — **the dice decide what she asks for, never whether she can do it.** She always can, and she always agrees.
 
 - **Where:** At the hag's own ground — a marsh, a reef, a drowned wood, a salt pan — never in a settlement. A hag is rooted to one place, so reaching her is part of the cost, and the GM decides where she is. **No Settlement Tier or Settlement Reputation applies.** Her own Stance does (Iron World, Social Engine): **Unfriendly or better, she will trade. Hostile, she will not** — and she has a statblock (Bestiary: The Hag, The Hag Matriarch).
 - **PP Cost:** 3 PP, the same as a Commission: she does the work, and the character lies in her water and waits.
 - **Time Cost:** As long as she pleases — a night or a season. Fiction only, per Section 1.
-- **Requirement — the shard:** One Undertow-touched shard per Work. It is **never an Acquisition good** at any Settlement Tier: it is found, stolen, or bought from people who do not ask questions, and the GM places it. No shard, no Work — that is the one thing a hag will not supply herself.
+- **Requirement — the shard:** One shard of black wrack per Work. It is **never an Acquisition good** at any Settlement Tier: it is found, stolen, or bought from people who do not ask questions, and the GM places it. No shard, no Work — that is the one thing a hag will not supply herself.
 - **The Check — The Haggle:** Influence vs. the hag's Resolve, opposed (Social Engine) — **The Hag rolls 2d6+0, the Matriarch 2d6+2**. It does not decide whether she agrees. It decides how much say the character gets in **the Price**:
     - **Failure:** She names one Price. That is the Price.
     - **Standard Success:** She names two. The character chooses.

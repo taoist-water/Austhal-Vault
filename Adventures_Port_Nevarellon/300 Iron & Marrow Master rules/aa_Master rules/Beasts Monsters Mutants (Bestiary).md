@@ -7,8 +7,8 @@ Enemies use the similar character generation rules as players, the difference is
 
 Every stat block declares one or more Creature Types alongside its Tier. Type carries no inherent stat effect on its own — its entire job is to be a hook for other things to reference: Bane effects (Hardware: Enchantments), Domain Tags like Smite Corruption, spells like Ward of the Threshold, and any future resistance/vulnerability trait. A creature can carry more than one Type where the fiction demands it (a reanimated golem is both Undead and Construct; a hag-blooded cultist could be both Humanoid and Fey) — treat it the same way multiple Traits stack on one stat block.
 
-- **Humanoid:** Baseline mortal peoples and their monstrous cousins. Humans, orcs, goblins, cultists, bandits.
-- **Beast:** Non-sapient natural or magically-touched fauna, regardless of size. Wolves, giant rats, trolls, ogres, dire wolves — Scale handles "how big," Type just confirms "it's an animal, not a person."
+- **Humanoid:** Baseline mortal peoples and their monstrous cousins. Humans, orcs, goblins, ogres, giants, cultists, bandits. *A monstrous people is a people: an ogre or a giant is Humanoid whatever its Scale.*
+- **Beast:** Non-sapient natural or magically-touched fauna, regardless of size. Wolves, giant rats, trolls, dire wolves — Scale handles "how big," Type just confirms "it's an animal, not a person."
 - **Dragon:** True dragons and wyrm-kin. Apex predators defined by hoarding intelligence, imposing Scale, and an elemental breath weapon or equivalent.
 - **Fey:** Bound to the old pacts and capricious natural law of the wild places. Hag-covens, will-o'-wisps, thorn-court nobles.
 - **Elemental:** A living embodiment of raw primal force — fire, water, earth, air, or the violent compound of two.
@@ -243,7 +243,7 @@ _**Fanatical:** Immune to being Intimidated.
 
 - This creature casts Arcane spells without a Grimoire and without a free hand, and never suffers Blind Casting's Disadvantage or Dissonant Stress. Every one of its Innate Spells is treated as under **Paradigm Mastery**, whatever Paradigm (or none) the spell belongs to: a Messy result — Margin 1–2 on a Clash, Margin 0–2 on a Margin of Manifestation or Sustain check — resolves as Clean and costs no Dissonant Stress. Its power was never learned, so it was never imperfect.
 
-- **What it costs.** One pick from the allowance, and it brings **up to three Novice spells** with it — the counterpart of Arcane Awakening's four, one fewer because Mastery here covers every spell rather than one Paradigm and there is no Grimoire to steal. **Each Adept or Master spell costs one further pick** and needs the Arcana rank its tier requires (Adept 2+, Master 3+ — The Marrow, Advancement). List them under **Innate Spells**; each is a full Aggressor or Activation action, one per turn like any other creature's.
+- **What it costs.** One pick from the allowance, and it brings **up to three Novice spells** with it — the same count as Arcane Awakening's three. What Innate Magic gains over Awakening (Mastery on every spell rather than one Paradigm, and no Grimoire to lose) it pays for in reach: its list is fixed when the creature is built, and only further picks extend it. **Each Adept or Master spell costs one further pick** and needs the Arcana rank its tier requires (Adept 2+, Master 3+ — The Marrow, Advancement). List them under **Innate Spells**; each is a full Aggressor or Activation action, one per turn like any other creature's.
 
 - _The Lizardman Shaman (Elite) was the first creature built on this trait and carries it inline: Innate Magic and Plated for 2 of its 3 picks, three Novice spells. It already fits the costing above; nothing about it changes._
     
@@ -551,20 +551,21 @@ ________________________________________________________________________________
 
 #### Environmental Skins
 
-A Wretch is made by the place that killed it, and it carries that place with it. **A Wretch is immune to the Hazard Check of its own terrain** (_Iron World_, Environmental Hazards) — it accrues no Locked Stress from the blizzard, the desert or the water that made it, while that same ground is costing the party 1d3 a failure. Everything else below is a descriptor and **one rider that is inert outside its home ground**. No skin changes Brawn, Wound Threshold, Wound Slots, Stress Limit, Move or Power. _A Bog-Wretch is a wetter Wretch, not a stronger one._
+A Wretch is made by the place that killed it, and it carries that place with it. **A Wretch is immune to the Hazard Check of its own terrain** (_Iron World_, Environmental Hazards) — it accrues no Locked Stress from the blizzard, the desert, the ash or the water that made it, while that same ground is costing the party 1d3 a failure. Everything else below is a descriptor and **one rider that is inert outside its home ground**. No skin changes Brawn, Wound Threshold, Wound Slots, Stress Limit, Move or Power. _A Bog-Wretch is a wetter Wretch, not a stronger one._
 
 | Skin | Terrain | Claws | Rider (inert elsewhere) |
 | --- | --- | --- | --- |
 | **Bog-Wretch** | freezing water — marsh, flooded sluice, tidal mud | waterlogged | Ignores difficult terrain from mud and standing water. **Advantage on its Clash against a Drowned target.** |
 | **Grave-Wretch** | a blizzard — snowfield, frost cave, barrow ice | frost-cracked | Ignores difficult terrain from ice and snow. **Advantage on its Clash against a target suffering Rigor.** |
-| **Dust-Wretch** | a scorching desert — dunes, salt pan, dry tomb | sun-split | Ignores difficult terrain from sand and scree. **Desiccated: fire attacks against it gain +2 Impact.** |
+| **Dust-Wretch** | a scorching desert or ash-choked dead ground — dunes, dry tomb, ash-fall | sun-split or soot-black | Ignores difficult terrain from sand, scree and ash. **Desiccated: fire attacks against it gain +2 Impact.** |
 
-_The three terrains are_ Iron World's _own — its Hazard Check rule names "a blizzard, a scorching desert, freezing water" — so the skins hook onto an existing rule rather than introducing a biome list. Both riders reach for conditions that already exist and already fit:_ Drowned _is what the Ledger House scene inflicts on the party in the same breath as it fields Bog-Wretches, and_ Iron Core _defines_ Rigor _as caused by "extreme cold, or necromancy" — both halves of this creature._
+_The terrains are_ Iron World's _own — its Hazard Check rule names "a blizzard, a scorching desert, freezing water, ash-choked air" — so the skins hook onto an existing rule rather than introducing a biome list. A Dust-Wretch is the dead of thirst, heat_ and _ash: the desert and the ash-fall make the same dry, brittle thing, and the same fire takes it. Both riders reach for conditions that already exist and already fit:_ Drowned _is what the Ledger House scene inflicts on the party in the same breath as it fields Bog-Wretches, and_ Iron Core _defines_ Rigor _as caused by "extreme cold, or necromancy" — both halves of this creature._
 
 #### Phases
 
 - **Behaviour when unbroken:** Advances on whoever is nearest, in a straight line. No tactics, no hesitation, no self-preservation. Field them three or four at a time: individually they are harmless, and their entire job is pressure layered underneath something else — a hazard, a pursuit, a Drowned party still coughing up water.
 - **Behaviour when Broken:** Resolves as **The Rout**, undead-flavoured — it does not flee and it does not yield. At maximum Stress the animating force gutters out and it comes apart where it stands, removed from the encounter rather than destroyed by anyone's hand. _(Mechanically identical to a Rout: it stops being a combatant without being killed. Same shape as the Grave-Warden's construct-flavoured Rout.)_
+- **Laid down, not ended:** a Wretch that Breaks or runs out of Wound Slots on its own ground is only laid down. It **rises again at the next Low Moons** (GM Tools) — at the next nightfall, if the Low Moons are already up — unless its body is **carried off the ground that kept it**, or a Priest settles it with **Last Rites**. Off its own ground, it stays down.
 - **Dread Entity/Boss Phase changes:** N/A — Fodder tier, no phase structure.
 
 ### Riding Horse
@@ -870,7 +871,7 @@ _The three terrains are_ Iron World's _own — its Hazard Check rule names "a bl
 - **Equipment:** None — Talons (Power 1), iron-hard and never clean. Strike Roll: 2d6+1 (Melee +1), Impact = Margin + 1. No Grimoire and no focus: Innate Magic needs neither.
 - **Allowance (2 — Grunt): 2 Traits.**
     - **Innate Magic** _(Trait — see Arcane Traits)_ — her two Innate Spells, below, cast without book or free hand; every Messy result resolves Clean.
-    - **Her Guise** _(Trait — fixed by her Skin, below)_ — **Fear Inducing** for the Bog-Hag and Brine-Hag, **Glamour** for the Briar-Hag and Mirage-Hag.
+    - **Her Guise** _(Trait — fixed by her Skin, below)_ — **Fear Inducing** for the Bog-Hag and Brine-Hag, **Glamour** for the Briar-Hag, Mirage-Hag and Salt-Hag.
 - **Innate Spells (2 — Novice, Witch Magic and Hedge Craft):** each a full action, one per turn.
     - **The Evil Eye** _(Aggressor)_ — Arcane Clash, Arcana vs. the target's Resolve, Short Range. Any win resolves Clean under Innate Magic: the target gains **Hexed**, and if that Hexed roll then fails, the backlash inflicts 1 Dissonant Stress on them.
     - **Warding Knot** _(Activation)_ — Unopposed Arcana vs. TN 8, self or one ally by touch. The next enemy to land a Strike on the warded creature suffers Disadvantage on its next roll; on a Margin 5+ the knot survives one triggering. _She ties it onto whatever is standing between her and the party._
@@ -888,9 +889,10 @@ A hag is made by the place she lives, the same way a Wretch is made by the place
 | **Bog-Hag** | freezing water — marsh, fen, flooded sluice | unlovely | Fear Inducing | Sucking Mire | The Creeping Ague _(Adept)_ |
 | **Brine-Hag** | still salt water — sheltered reef, lagoon, tide-pool | unlovely | Fear Inducing | Brine in the Lungs | Sympathetic Effigy _(Adept)_ |
 | **Briar-Hag** | drowned woodland — flooded forest at a marsh's edge; no Hazard Check | lovely | Glamour | Beckon | Choking Bramble _(Adept)_ |
-| **Mirage-Hag** | a scorching desert where still water used to be — salt pan, dry tarn, dead oasis | lovely | Glamour | Drink Them Dry | Malefic Reflection _(Master)_ |
+| **Mirage-Hag** | a scorching desert where still water used to be — dry tarn, dead oasis, dune-buried well | lovely | Glamour | Drink Them Dry | Malefic Reflection _(Master)_ |
+| **Salt-Hag** | waterless ground where salt water used to stand — abandoned salt-pans, dried lagoons, salt flats | lovely | Glamour | Salt-Crust | Sympathetic Effigy _(Adept)_ |
 
-_Every home ground is **still** water, or was. Fey quicken where god-essence pools in still places — marsh, tarn, sheltered reef, the drowned edges of old forests — and a hag is rooted to the place she quickened in. That is why there is no open-ocean hag and no hag of the deep dunes: the Brine-Hag keeps to sheltered reef, and the Mirage-Hag is what stayed behind when her tarn dried to salt._
+_Every home ground is **still** water, or was. Fey quicken where essence pools in still places — marsh, tarn, sheltered reef, the drowned edges of old forests — and a hag is rooted to the place she quickened in. That is why there is no open-ocean hag and no hag of the deep dunes: the Brine-Hag keeps to sheltered reef, the Mirage-Hag is what stayed behind when her oasis died, and the Salt-Hag is what stayed when the sea was cut off from her pans. Heat makes a Mirage-Hag; a Salt-Hag's ground can be as cold as any coast — it is the water, not the sun, that left._
 
 _Appearance is the axis the Guise turns on, and it is mechanical rather than cosmetic. The unlovely hags are frightening from the first moment (**Fear Inducing**, a canon Trait). The lovely ones are frightening at the **last** moment — **Glamour** holds the party's hand off her until the mask drops, and the drop itself forces the same Fear check. Both halves of the roster end up making the party roll Resolve; they just disagree about when._
 
@@ -909,18 +911,23 @@ _Appearance is the axis the Guise turns on, and it is mechanical rather than cos
 - **Special Action — Beckon:** _Trigger:_ Instead of a regular action. _Effect:_ One target within Medium Range who can see her must pass a **Resolve check vs TN 8**, or on their next Activation they spend their Move walking toward her by the most direct path — through difficult terrain, brambles and Threat Zones alike (leaving a Threat Zone still provokes). They stop short of a fall or open flame, and may still take their Action at the end of the walk. **A PC who has seen through her Glamour is immune.**
 - **Home rider (inert elsewhere):** Ignores difficult terrain from undergrowth and roots. **Green Shroud:** in woodland she counts as **Obscured** (Iron World) to any attacker more than 10 ft away.
 
-**Mirage-Hag** — _the woman at the well that should not be there, offering a cup. The water is sand. So is she, nearly._
+**Mirage-Hag** — _the shimmer on the dune-crest that walks toward you, smiling, with water in her hands. The water is sand. So is she, nearly._
 - **Guise — Glamour.**
 - **Special Action — Drink Them Dry:** _Trigger:_ Instead of a regular action. _Effect:_ One target within Short Range must pass an **Athletics check vs TN 8** or gain **Fatigued** (1 Locked Stress, cleared only by a Long Rest or magical Restoration — Iron Core). A target she has already Fatigued this Scene is immune. _In the open desert this lands on top of the Hazard Check's own Locked Stress, which is the point of fighting her there._
 - **Home rider (inert elsewhere):** Ignores difficult terrain from sand and scree. **Her Glamour survives taking a Wound** — the heat-shimmer holds the lie together. Cold Iron and Breaking still drop it.
 
+**Salt-Hag** — _the woman at the well that should not be there, on a white crust a mile across, offering a cup. She is beautiful, and she is always thirsty._
+- **Guise — Glamour.**
+- **Special Action — Salt-Crust:** _Trigger:_ Instead of a regular action. _Effect:_ One target within Short Range must pass an **Athletics check vs TN 8** or gain **Rigor** as salt crusts over their joints and draws the water out of them — it fades at the end of their next turn, per Iron Core.
+- **Home rider (inert elsewhere):** Ignores difficult terrain from salt crust and dry mud. **A Day From Water:** a target who gains Rigor from her on her home ground also gains **Fatigued** — once per target per Scene. _The thirst outlasts the crust._
+
 #### Phases
 
 - **Behaviour when unbroken:** Never closes to melee by choice; the Talons are for when she is cornered. Opens with her Skin's Special Action, ties a Warding Knot onto whatever stands in front of her, and puts the Evil Eye on whoever is about to swing at her. The lovely ones open by **talking** — Glamour gives Advantage on Influence, and a party that stops to parley has handed her the first activation. Field her behind something with a body: her sisters, or Wretches from the same ground — Bog-Wretches for a Bog-Hag, Dust-Wretches for a Mirage-Hag.
-    - **Not every meeting with a hag is a fight.** Hags are the one kind of Fey that trade with mortals. A party that arrives carrying a god-shard and asking politely is a customer, not an intruder — see **Hag's Work** (Soothing the Soul).
+    - **Not every meeting with a hag is a fight.** Hags are the one kind of Fey that trade with mortals. A party that arrives carrying a shard of wrack and asking politely is a customer, not an intruder — see **Hag's Work** (Soothing the Soul).
 - **Behaviour when Broken:** Set by her Guise.
     - **Fear Inducing (Bog, Brine): The Rout.** She goes under — into the mire or the shallows — and on her home ground she does not come up anywhere the party is looking. Off it, she runs for the nearest water.
-    - **Glamour (Briar, Mirage): Frenzy.** The Glamour drops (with its Fear check) and what was underneath comes at the nearest PC: she loses her Parry, gains Advantage on all Strikes, and stops casting.
+    - **Glamour (Briar, Mirage, Salt): Frenzy.** The Glamour drops (with its Fear check) and what was underneath comes at the nearest PC: she loses her Parry, gains Advantage on all Strikes, and stops casting.
 - **Dread Entity/Boss Phase changes:** N/A — Grunt tier, no phase structure.
 
 ---
@@ -1245,7 +1252,7 @@ __________________________________________________________________
 - **Type:** Fey, Humanoid _(Cold Iron's Bane applies — Hardware.)_
 - **Size:** Standard
 - **Move:** 30 ft
-- **Skin:** one of the four **Hag Skins** (see The Hag, Grunt). Her Skin sets her Guise, her first Special Action, her home-ground rider and her signature spell, and changes nothing else.
+- **Skin:** one of the five **Hag Skins** (see The Hag, Grunt). Her Skin sets her Guise, her first Special Action, her home-ground rider and her signature spell, and changes nothing else.
 - **Attributes (derived only):** Brawn 1, Wits 1, Will 1 _(Assumed Zero: Reflex.)_
 - **Skills (11):** Arcana +4, Influence +2, Resolve +2, Melee +2, Notice +1. _(Casts at 2d6+4, resists other witches at 2d6+2, claws and Parries at 2d6+2.)_
 - **Derived stats:**
@@ -1257,7 +1264,7 @@ __________________________________________________________________
 - **Equipment:** None — Talons (Power 1). Strike Roll: 2d6+2 (Melee +2), Impact = Margin + 1.
 - **Allowance (3 — Elite): 2 Traits + 1 spell.**
     - **Innate Magic** _(Trait — see Arcane Traits)_ — brings the three Novice spells below; every Messy result resolves Clean.
-    - **Her Guise** _(Trait — fixed by her Skin)_ — **Fear Inducing** (Bog, Brine) or **Glamour** (Briar, Mirage).
+    - **Her Guise** _(Trait — fixed by her Skin)_ — **Fear Inducing** (Bog, Brine) or **Glamour** (Briar, Mirage, Salt).
     - **Her signature spell** _(one pick, per Innate Magic's costing)_ — fixed by her Skin. Arcana +4 meets both the Adept (2+) and Master (3+) rank.
 - **Innate Spells (4):** each a full action, one per turn. Read every one from Manipulating The Void; under Innate Magic, every Messy result resolves Clean.
     - **Confusion** _(Novice, Aggressor)_ — Arcane Clash, Arcana vs. Resolve, Short Range. Any win: **Confused**, and the target loses its next Activation outright.
@@ -1268,8 +1275,9 @@ __________________________________________________________________
         - _Brine-Hag:_ **Sympathetic Effigy** _(Adept, Activation, TN 10)_ — a poppet of driftwood, kelp and a drowned sailor's hair. The next Wound the linked creature would suffer snaps the poppet instead; on a Margin 5+ the one who dealt it suffers **Impact 4**. _She ties it to herself first, then to a sister._
         - _Briar-Hag:_ **Choking Bramble** _(Adept, Activation, TN 10)_ — a 15 ft radius of iron-hard briars for the Scene. Any success resolves at least Clean: her allies move through freely, and an enemy who declares a Strike from inside takes 1 Dissonant Stress first.
         - _Mirage-Hag:_ **Malefic Reflection** _(Master, Aggressor)_ — you strike the mirage, and the mirage strikes back. Any win resolves Clean: for the Scene, whenever the target deals Impact to anyone, they suffer Impact of the full same amount themselves.
+        - _Salt-Hag:_ **Sympathetic Effigy** _(Adept, Activation, TN 10)_ — a doll of salt crust, bound with a strip of paper bearing someone's name. As the Brine-Hag's: the next Wound the linked creature would suffer snaps the doll instead; on a Margin 5+ the one who dealt it suffers **Impact 4**.
 - **Special Actions (2):**
-    - **Her Skin's Special Action** — Sucking Mire, Brine in the Lungs, Beckon or Drink Them Dry, exactly as The Hag.
+    - **Her Skin's Special Action** — Sucking Mire, Brine in the Lungs, Beckon, Drink Them Dry or Salt-Crust, exactly as The Hag.
     - **Sister's Blood:** _Trigger:_ She would suffer a Wound while another hag is within 30 ft — once per round. _Effect:_ That hag suffers the Wound in her place; the coven pays for its mother. **A Wound dealt by a Cold Iron weapon cannot be passed** — iron cuts the thread. _Self-limiting by trigger, so free under the Gate Test. Its whole job is to make the party kill the sisters first, and to give a Cold Iron weapon a second reason to exist._
 
 > _**Running her — Resolve is the soft target.** Every one of her Clash spells is Arcana vs. Resolve, and Resolve is the thinnest defence on most Green sheets. At Arcana +4 she wins **76%** of those Clashes against Resolve +1 and **84%** against Resolve +0 — and, being Elite, she banks 1 Momentum on a Margin 5+, which she clears on **34%** of casts against Resolve +1. That is on a par with the Gallows Shot's Chain loop, the roster's sharpest earner — and it comes from the spell list and the earning table meeting, not from any new rule. Her ceiling is the action economy: one spell a turn, and Confusion or the Ague costs her the same action it costs the target. Watch whether a Bog Matriarch with both turn-deleters plus a Sucking Mire feels like a fight or a lockdown._
@@ -1281,6 +1289,7 @@ __________________________________________________________________
     - _Brine:_ **Sympathetic Effigy** on herself before anyone reaches her, then **Brine in the Lungs** every turn it isn't needed.
     - _Briar:_ **Choking Bramble** between herself and the party, then **Beckon** them into it, one at a time.
     - _Mirage:_ **Malefic Reflection** on the heaviest hitter, then **Drink Them Dry** on everyone else, while the desert does its own work.
+    - _Salt:_ **Sympathetic Effigy** on herself, then **Salt-Crust** on whoever is closing — on her own pans, every crusted target leaves thirsty.
 
     Keeps her sisters within 30 ft at all times, because Sister's Blood only works while they are.
 - **Behaviour when Broken:** **Surrender — she names her price.** If she wears a Glamour it drops first, with its Fear check. Then she offers a bargain for her life: a true answer, a curse lifted, safe passage through her ground. **A hag always agrees, and she keeps the letter of what she agrees to** — and the price is paid in full, exactly as it is for **Hag's Work** (Soothing the Soul). If the party accepts, they are bound by its terms as surely as she is; if they break them, she collects another way.
@@ -1304,7 +1313,7 @@ _______________________________
     - Wound Slots: **5**
     - Stress Limit: **11** _(4 + Will 3 + Wits 2 + 2 Dread/Boss)_
     - Momentum Bank: **4** _(4 + Reflex 0)_
-- **Equipment:** Brimstone Plate (+4 Armour, immune to Damage, immune to fire). Hell-forge Greatsword (Power 5; after inflicting a Wound, target must pass a Resolve check at -2 or gain the Ablaze condition). Strike Roll: 2d6+7 (Melee +7).
+- **Equipment:** Brimstone Plate (+4 Armour, immune to Damage, immune to fire). Undertow-forged Greatsword (Power 5; after inflicting a Wound, target must pass a Resolve check at -2 or gain the Ablaze condition). Strike Roll: 2d6+7 (Melee +7).
 - **Traits (3):**
     - **Terrifying:** A harrowing presence — whether an eldritch abomination or a faceless, silent headsman — that cracks the human mind. When a PC engages with this creature or it activates within line of sight, the PC must immediately roll a Resolve check against TN 8. Failure: the PC immediately gains the Terrified condition.
     - **Cunning Leader:** A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision. At the beginning of the Round, this creature can pass its own position in the Activation order to any allied Fodder unit within its line of sight, allowing the minions to strike with unexpected coordination. Additionally, whenever an ally within its line of sight dies, **Malaphar banks 1 Momentum** out of pure malice or tactical adaptation.
@@ -1313,13 +1322,13 @@ _______________________________
     - **Furnace Rebuke:** _Trigger:_ Declared when Malaphar wins a Clash as the Reactor (Defense) with a Margin of 3+ (Clean or better). _Effect:_ Malaphar deflects the player's blow with such friction that the player's weapon or hands burst into flames. The player instantly gains the Ablaze condition.
 - **Momentum-Costed Abilities (2):** the two genuine exceptions in the retuned roster — both are free-standing bonus effects with no action economy or Margin gate available to lean on instead. Both are paid out of his **Momentum Bank of 4**, which is exactly the Vessel Limit they used to draw against.
     - **Cost 2 Momentum — The Devil's Mandate:** _Trigger:_ Declared as a Free Action on Malaphar's turn — genuinely stacks on top of his normal Strike, so the Momentum cost is the only thing limiting it. _Effect:_ Malaphar speaks a word of absolute authority, targeting one player. That player must pass a TN 8 Resolve check at -2, or drop to their knees in submission (gaining the Prone and Anchored conditions).
-    - **Cost 3 Momentum — Lair Action (Gehenna's Grip):** _Trigger:_ Declared at the absolute start of a combat round — outside any creature's turn entirely, so there's no action economy here either. _Effect:_ The veil tears, and chains of molten iron erupt. Every player must make an immediate, unopposed Melee or Dodge check against TN 8. Failure means they are violently dragged 10 feet toward Malaphar.
+    - **Cost 3 Momentum — Lair Action (Chains of the Undertow):** _Trigger:_ Declared at the absolute start of a combat round — outside any creature's turn entirely, so there's no action economy here either. _Effect:_ The veil tears, and chains of molten iron erupt. Every player must make an immediate, unopposed Melee or Dodge check against TN 8. Failure means they are violently dragged 10 feet toward Malaphar.
 
 #### Phases
 
-- **Behaviour when unbroken:** Rules through overwhelming pressure rather than urgency — lets Hubris farm Momentum passively as the players spend theirs, opens rounds with Gehenna's Grip to drag stragglers in, uses Devil's Mandate to take a problem PC out of the fight outright, and punishes anyone who attacks him directly with Furnace Rebuke.
+- **Behaviour when unbroken:** Rules through overwhelming pressure rather than urgency — lets Hubris farm Momentum passively as the players spend theirs, opens rounds with Chains of the Undertow to drag stragglers in, uses Devil's Mandate to take a problem PC out of the fight outright, and punishes anyone who attacks him directly with Furnace Rebuke.
 - **Behaviour when Broken:** Per the GM Tools NPC Stress rules, a Boss's Broken state resolves as a Phase Change rather than a Rout, Surrender, or Frenzy — see below.
-- **Dread Entity/Boss Phase changes — Gehenna Unbound:** _Trigger:_ The instant Malaphar's Stress Limit maxes out. _Effect:_ The veil doesn't just tear — it fails outright. A 60 ft radius centered on Malaphar becomes a literal fragment of Hell for the rest of the encounter. **Environmental Hazard:** at the start of each round, brimstone and hellfire lash every non-Daemon creature in the radius — resolved as a Hazard Roll (GM Tools): 2d6+2 (Hazard Power 2) against the character's Wound Threshold; a hit inflicts a Wound, a miss still inflicts 1 Stress. **Imps Erupt:** 3 Imps (Fodder tier — stat block not yet designed) tear through the rift and join the fight at the edge of the battlefield.
+- **Dread Entity/Boss Phase changes — The Undertow Unbound:** _Trigger:_ The instant Malaphar's Stress Limit maxes out. _Effect:_ The veil doesn't just tear — it fails outright. A 60 ft radius centered on Malaphar becomes a literal fragment of the Undertow for the rest of the encounter. **Environmental Hazard:** at the start of each round, brimstone and Undertow-fire lash every non-Daemon creature in the radius — resolved as a Hazard Roll (GM Tools): 2d6+2 (Hazard Power 2) against the character's Wound Threshold; a hit inflicts a Wound, a miss still inflicts 1 Stress. **Imps Erupt:** 3 Imps (Fodder tier — stat block not yet designed) tear through the rift and join the fight at the edge of the battlefield.
 
 ---
 

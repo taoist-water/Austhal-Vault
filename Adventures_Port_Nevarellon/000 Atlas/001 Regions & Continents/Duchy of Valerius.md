@@ -68,7 +68,7 @@ North of Brinewick lie the old pans. Two generations ago a storm cut the channel
 - **What the Tongues say:** the Brinewick Tongues call her an abomination, as they call every hag (see [[The Tidespoken Clergy]]). They have not gone in after her. Nobody has ever paid them to.
 - **What the house says:** nothing. The Dry Pans are not on any lodged map of the duchy's holdings.
 
-> **GM-facing — the Mirage-Hag (adventure hook).** The Thirsty Woman is a **Mirage-Hag**, rooted in the Dry Pans: a place where still water used to be (see [[Lore - Hags]]). Everything in the Hags note applies — she must be asked, she always agrees, and the price is paid in full.
+> **GM-facing — the Salt-Hag (adventure hook).** The Thirsty Woman is a **Salt-Hag**, rooted in the Dry Pans: a place where salt water used to stand (see [[Lore - Hags]]). Everything in the Hags note applies — she must be asked, she always agrees, and the price is paid in full.
 > **The trade she does here** is in runaways. Most bring her nothing she can work, because a shard of wrack costs more than a bondsman will ever hold. So most pay for the cup alone, and the cup is real. The bond-rows' whisper is also true, after its fashion:
 > - **A runaway who pays her a name is forgotten.** The Bonds book still carries the name, and the Register still holds the copy, but nobody who reads it can bring the face to mind. A Bond-Master cannot hunt someone he cannot picture.
 > - **The price is total.** The runaway's family forgets them too.
@@ -78,7 +78,7 @@ North of Brinewick lie the old pans. Two generations ago a storm cut the channel
 > - **A recovery job.** House Valerius hires someone to recover a runaway the ledger says exists and nobody can describe.
 > - **A pyre.** The Brinewick Tongues want her burned before the Low Moons, while she is still rooted and can be found.
 > - **A freed worker.** A worker bought free by the Crock went into the Dry Pans anyway. Why?
-> - **The Low Moons (~59 A.A.).** She can uproot, or a sister can arrive. Abandoned pans are exactly the ground a Mirage-Hag needs, and a coven forming a day's walk from the coast's largest bond-pans is a problem a city has to answer.
+> - **The Low Moons (~59 A.A.).** She can uproot, or a sister can arrive. Abandoned pans are exactly the ground a Salt-Hag needs, and a coven forming a day's walk from the coast's largest bond-pans is a problem a city has to answer.
 
 ---
 
