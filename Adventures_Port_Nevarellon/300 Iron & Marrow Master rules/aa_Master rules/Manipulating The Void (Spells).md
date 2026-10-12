@@ -420,7 +420,7 @@ Dark energy reanimates the dead, forcing cold flesh to serve the living.
 
 - **Level:** Master
 - **Resolution:** Unopposed Arcana vs. TN 12 (requires a corpse within reach)
-- **Target/Range:** One corpse, touch
+- **Target/Range:** One corpse (multiple - Massive success), touch
 - **Action Type:** Activation
 - **Duration:** Scene
 
@@ -473,13 +473,13 @@ The sorcerer drives an iron nail or a blade into the target’s cast shadow on t
 - **Duration:** Until the target breaks free
 - **Resolution:** Arcane Clash (Arcana vs. Athletics).
     
-- The Effect: If the caster wins, the target’s shadow is nailed to the environment. The target becomes Anchored (Movement is reduced to 0).
+- The Effect: If the caster wins, the target’s shadow is nailed to the environment. The target gains the Anchored condition.
     
 - The Margin Scaler (Based on Clash Margin):
     
 - Margin 1–2: The target is Anchored until they spend their entire next Aggressor action physically tearing their shadow free, which causes them to suffer 1 Dissonant Stress from the metaphysical tearing. The caster also takes 1 Dissonant Stress from the strain.
     
-- Margin 3+ (Clean): The target is Anchored, and because their silhouette is pulled taut, they completely lose the ability to use the Dodge action until they break free. They must rely on Block or Parry.
+- Margin 3+ (Clean): The target is Anchored, and because their silhouette is pulled taut, they must pass a TN 10 Athletics or Prowess check to break free. 
     
 
 **Flicker-Step** (Utility / Repositioning)
