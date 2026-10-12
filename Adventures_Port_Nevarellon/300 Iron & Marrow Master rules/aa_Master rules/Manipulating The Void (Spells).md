@@ -540,13 +540,13 @@ The sorcerer exhales a cloud of unnatural, pitch-black soot that instantly smoth
 - **Duration:** Scene
 - **Resolution:** Unopposed Arcana vs. TN 10.
     
-- The Effect: Creates a 15-foot radius of magical darkness. Line of sight is completely broken; the area is considered Heavily Obscured. It instantly snuffs out all non-magical light sources (torches, lanterns) 
+- The Effect: Creates a 15-foot radius of magical darkness. Line of sight is completely broken; the area is considered Heavily Obscured. It instantly snuffs out all non-magical light sources (torches, lanterns), non-magical light sources cannot function within the zone.
     
-- The Margin Scaler:
+- The Margin Scaler: 
     
-- Margin 0–2 (Messy): The darkness manifests, but the shadow hungers. It instantly snuffs out all non-magical light sources (torches, lanterns) currently carried by the party, plunging the rest of the room into standard darkness as well.
+- Margin 0–2 (Messy): The darkness manifests, but the shadow hungers. The caster suffers 1 Dissonant Stress.
     
-- Margin 3–4 (Clean): The localized zone forms perfectly as intended.
+- Margin 3–4 (Clean): As above, no cost.
     
 - Margin 5+ (Massive): The shadows become actively hostile. Any enemy that starts its turn inside the zone must pass a TN 8 Resolve check or immediately suffer 1 Dissonant Stress from hallucinatory whispers.
     
