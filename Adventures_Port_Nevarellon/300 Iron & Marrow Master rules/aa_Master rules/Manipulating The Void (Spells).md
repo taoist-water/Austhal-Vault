@@ -1575,6 +1575,7 @@ Purify answers the rot after it takes hold. This is the older, quieter prayer �
 - **The Lore:** Senecus was an ancient military philosopher who held a doomed mountain pass against a horde of aberrant monstrous races. He taught that true victory isn't survival, but the stoic adherence to tactical duty regardless of the odds. 
 - **Flavor:** Polished iron shields, clean-cut discipline. Prayers are recited as short, pragmatic tactical maxims.
 - **Domain Tag (Tactical Horizon):** Pass Faith check vs. TN 8 -> Grant 1 point of Momentum instead of personal benefit.
+- **Domain Price (Embracing the Abyss):** *Holding* — the Priest cannot fall back for the rest of the scene, and fears nothing while they hold.
 ### Novice Prayers
 
 **Senecus's Stand**
@@ -1754,6 +1755,7 @@ There was no clever maneuver. Senecus just told them to stand, and the wall of s
 - **The Lore:** Rook wasn't a holy man; he was a legendary cynic and smuggler who realized the ancient bureaucratic laws of the old empire were a joke, and successfully counterfeited the royal treasury into bankruptcy. The Syndicate reveres him as the patron of outsmarting rigged systems.
 - **Flavor:** Loaded dice amulets, mismatched clothes. Prayers are murmured riddles, jokes about authority, and localized distortions of luck.
 - **Domain Tag (Fickle Fate):** Ally rolls Fumble -> Spend 1 Stress as Reaction to turn it into a standard failure.
+- **Domain Price (Embracing the Abyss):** *Reversal* — the GM may turn one of the Priest's successes into a failure before their next Long Rest.
 ### Novice Prayers
 
 **Beginner's Luck**
@@ -1903,6 +1905,7 @@ The house always wins. Sometimes it just likes to remind the table why.
 - **The Lore:** Aurelius was an ancient, brutal warlord who united the early human tribes by writing the first Meditations on Law—a rigid, uncompromising text that dictated society must be ordered, and chaos must be purged by fire. He is the ultimate idol of the High Quarter.
 - **Flavor:** Heavy comet pendants, unyielding loud booming scripture. Prayers are backed by thunderclaps and searing white light.
 - **Domain Tag (Smite Corruption):** Targeting Undead, Daemons, or Mutants treats the target's Wound Threshold [T] as 1 point lower.
+- **Domain Price (Embracing the Abyss):** *Blinded to the nameless* for the rest of the scene.
 
 ### Novice Prayers
 
@@ -2091,6 +2094,7 @@ Unchanged — already conformant. Included here for completeness since it's Law'
 - **The Lore:** Vael was a grave-keeper who survived the horrific aftermath of the pre-sundering wars. He taught a philosophy of absolute pessimism—that life is merely a loud, painful interruption of the peaceful void, and death is the ultimate mercy to be respected, not feared.
 - **Flavor:** Black hooded raiment, stark quiet expressions. Prayers manifest as chilling quietude and falling feathers.
 - **Domain Tag (Rest in Peace):** Cast *Stabilize* -> Target becomes completely immune to further Stress gains from mental shock or supernatural dread for the scene.
+- **Domain Price (Embracing the Abyss):** *The Quiet Keeps a Place* — Flowing Prayers end, the Momentum Bank empties, and the Priest holds a Death Mark against their next Bleed-Out.
 
 ### Novice Prayers
 
@@ -2253,7 +2257,7 @@ There's no violence in it. A hand on the brow, a held breath, and it's over. Tur
 
 **The Tithe Ladder:**
 - Pass, against an Incapacitated target: the target dies instantly and without pain. Bypasses the mundane Coup de Grâce entirely — no attack roll, no Impact, no Death Mark. Usable on a willing, Incapacitated ally to spare them a Bleed-Out fight the party can't win, or on an Incapacitated enemy to end them outright.
-- Pass, against a living, conscious target of Elite tier or below: the target must pass a Resolve check (TN 12) or immediately become Incapacitated (per Iron Core's Incapacitated condition), regardless of remaining Wound Slots. **This cannot target Boss-tier enemies under any circumstance.**
+- Pass, against a living, conscious target of Elite tier or below **that is already ending — Broken, or with only one empty Wound Slot left**: the target must pass a Resolve check (TN 12) or immediately become Incapacitated (per Iron Core's Incapacitated condition), regardless of remaining Wound Slots. **This cannot target Boss-tier enemies under any circumstance.**
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the 3 Locked Stress into 3 direct Wounds, per Toll in Flesh, and reset the Priest's Encroachment to 0. The effect still occurs.
 
@@ -2279,6 +2283,7 @@ Every sound dies at the edge of the zone. Everyone inside feels, all at once, ex
 - **The Lore:** A tribal matriarch from the deepest winters of the north who supposedly hunted a primordial winter-drake with nothing but an iron spear and her bare teeth. She embodies the raw, animalistic grit required to survive when civilization fails.
 - **Flavor:** Heavy white wolf pelts, frosted breath. Prayers manifest as freezing howling wind and ice.
 - **Domain Tag (Chilling Frost):** Cast offensive prayer -> Target is numbed. They cannot Move next turn unless they take 1 Dissonant Stress to snap their frozen muscles free.
+- **Domain Price (Embracing the Abyss):** *Rigor*, and *Cold to the Touch* until the next Long Rest.
 ### Novice Prayers
 
 **Rime-Fang's Bite**
@@ -2452,6 +2457,7 @@ Kaelen never got lost. She said the land only looks confusing to someone who has
 - **The Lore:** During a massive plague in the early days of Port Nevarellon, Elara was a destitute woman who walked into the quarantine zones. It is said she systematically absorbed the rot from the dying into her own body, enduring unimaginable agony so others could live.
 - **Flavor:** Plain white habits, dove pendants. Prayers manifest as golden tears and warm glowing auras.
 - **Domain Tag (Pure Martyrdom):** Cast *Healing/Stabilize* -> Take 1 Locked Stress yourself to clear an additional Wound Slot on the target.
+- **Domain Price (Embracing the Abyss):** the Priest clears 1 Locked Stress; the last character they healed gains a *Grey*.
 ### Novice Prayers
 
 **Bolster the Faithful**
@@ -2623,6 +2629,7 @@ The gods reach down and aggressively deny reality. *(Converted from a Faith-3 fe
 - **The Lore:** Thalass was not a person, but an apocalyptic rogue wave that destroyed an entire fleet of the old king's armada. The Tidespoken revere this natural disaster as the ultimate proof that the ocean is the true sovereign of the world, and they seek to align themselves with its crushing power.
 - **Flavor:** Sea-shell tokens, salt-crusted oilskins. Prayers manifest as the crash of distant rogue waves and heavy brine smells.
 - **Domain Tag (Tidal Undertow):** Affect enemy with prayer -> Target is physically shoved 10 ft (2 squares) in a direction of your choosing.
+- **Domain Price (Embracing the Abyss):** the tide takes *one thing the Priest holds*.
 
 ### Novice Prayers
 

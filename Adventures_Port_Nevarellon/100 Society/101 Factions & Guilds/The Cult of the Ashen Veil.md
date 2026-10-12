@@ -42,7 +42,7 @@
 > **The Quiet.** The Domain of Death is the remains of the Creator of **the turn**. The Sphere had no beginning and no end (see [[Cosmology - The Great Fracture]]); the Quiet was the still point where the eternal cycle closed and began again, the moment in which nothing happened so that everything could happen again. Then individuation came, and mortals died and **ceased to exist**. In the Naming they gave the turn the only name they had for the thing at the end of them: **Death**. The Quiet took the name, and for the first time it had endings to keep.
 > **It sided with the Alliance**, and for the same reason as the Mother — self-interest — but without her appetite. The Sphere never ended anything; the mortal world does little else (see [[Cosmology - The Celestial Graveyard and The war of Creation]]).
 > **What the current does:** it ends what is already ending, gently. A fever breaks, a fight goes out of a room, a fire sinks down, and a place's grip on a Wretch lets go. It does not kill.
-> **What it takes: nothing.** It is the only current on the coast that asks no price of its faithful — no years, no doubt, no warmth. The Quiet has never needed anything from anyone. It only waits.
+> **What it takes: nothing.** It is the only current on the coast that asks no price of its faithful — no years, no doubt, no warmth. The Quiet has never needed anything from anyone. It only waits — and it **keeps a place for its faithful**. A Veil-priest who leans on it too long finds the fight going out of them at odd moments, and walks with their own end a little nearer than other people's. Nothing is taken. Something is simply expected.
 > **The Long Carry** works, and the Veil are wrong about why. What the Scar kept was not a spirit but the death itself: the thirst and the choking. The Carry ends it. **Nothing goes up to the High Reach**, because nothing of the person was left to go. The Wretch stops being thirsty. That is all, and it is enough.
 > **Vael** was real, and he is the oldest paragon on the coast: a grave-keeper of the aftermath of the War of Creation, who buried what it left. His signs came over the Broken Ocean with the settlers (see [[History - The Broken Crown of Austhal]]).
 > **The Martyr.** The Veil's unease about the Weeping Martyr's elders is the current's. Those elders are kept past their ending by the Mother, and the Quiet feels them the way a grave-keeper feels a grave dug too shallow. The Veil have never said why, because they do not know (see [[The Cult of the Weeping Martyr]]).
@@ -82,7 +82,7 @@
 *Not carried over.*
 - **Ending effects:** breaking a fever, calming a fight, dampening a fire, laying a Wretch down. Where is the line between *ending what is already ending* and killing?
 - **The Long Carry** against the Wretches' stat blocks: does a Wretch laid down where it died rise again, and when?
-- **No cost:** the Quiet's current takes nothing from the faithful. Check this against the balance of the other faiths' casting.
+- ~~**No cost:** the Quiet's current takes nothing from the faithful. Check this against the balance of the other faiths' casting.~~ **Resolved 2026-10-11** — in the ruleset the Quiet's price is waiting, not taking (Domain Prices, *The Quiet Keeps a Place*).
 - **Faith-casting** under the Religion note's *Faith protects the mind; invoke the saint's deed* rule.
 
 ---
