@@ -380,7 +380,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 **Cold Reader**
 
-* Prerequisites: Insight 1, Notice 1
+* Prerequisites: Insight 1 or Notice 1
 
 >You know who breaks first.
 
@@ -516,7 +516,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 **Tactical Mind**
 
-* Prerequisites: Wits 2, Notice 2
+* Prerequisites: Wits 2 or Notice 2
 
 >You count the exits and weigh the weapons before anyone even speaks.
 
