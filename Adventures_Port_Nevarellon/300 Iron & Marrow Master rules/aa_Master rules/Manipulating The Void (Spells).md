@@ -495,12 +495,11 @@ The caster dissolves into a nearby shadow, losing physical cohesion, and instant
     
 - The Margin Scaler:
     
-
 - Margin 0–2 (Messy): The void violently rejects the caster. They teleport successfully, but arrive gasping for air, immediately suffering 1 Dissonant Stress.
     
 - Margin 3–4 (Clean): The teleport is flawless and silent.
     
-- Margin 5+ (Massive): The caster steps out of the shadow in perfect ambush position. They instantly generate 1 Momentum, or they gain Advantage on their next Strike roll against an adjacent enemy.
+- Margin 5+ (Massive): The caster steps out of the shadow in perfect ambush position. They instantly generate 1 Momentum, or they gain Advantage on their next Aggressor roll.
 
 ### Adept
 
@@ -541,7 +540,7 @@ The sorcerer exhales a cloud of unnatural, pitch-black soot that instantly smoth
 - **Duration:** Scene
 - **Resolution:** Unopposed Arcana vs. TN 10.
     
-- The Effect: Creates a 15-foot radius of magical darkness. Line of sight is completely broken; ranged attacks cannot enter or pass through the zone. Anyone attacking an enemy inside the zone who they cannot see suffers a -2 penalty to their Clash.
+- The Effect: Creates a 15-foot radius of magical darkness. Line of sight is completely broken; the area is considered Heavily Obscured. It instantly snuffs out all non-magical light sources (torches, lanterns) 
     
 - The Margin Scaler:
     
