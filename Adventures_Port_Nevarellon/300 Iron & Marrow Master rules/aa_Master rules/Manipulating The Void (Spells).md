@@ -238,7 +238,7 @@ Energy lashes out from the caster's skin, punishing any who approach or strike t
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The field holds; any character ending their turn adjacent to the caster, or hitting them in melee, suffers 1 Dissonant Stress. The caster takes 1 Dissonant Stress of their own from the initial surge.
 - Margin 3–4 (Clean): As above, no self-cost.
-- Margin 5+ (Massive): Impact increases to 2.
+- Margin 5+ (Massive): Dissonant stress increases to 2.
 
 ---
 
@@ -344,7 +344,7 @@ The caster forces the blood in a living target's extremities to instantly coagul
     
 - The Margin Scaler (Based on Clash Margin):
     
-- Margin 1–2: The target's movement speed is halved, and they cannot use the Dodge action on their next turn. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 1–2: The target gains the Rigor condition until the end of their next activation. The caster also takes 1 Dissonant Stress from the strain.
     
 - Margin 3+ (Clean): The target is completely Anchored (cannot move) and suffers a -2 penalty to their next Aggressor Strike roll because they cannot articulate their joints.
     
@@ -355,14 +355,13 @@ The caster forces their own bones, or the bones of an ally, to painfully extrude
 - **Level:** Novice
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
-- **Duration:** Until the end of the encounter
+- **Duration:** Scene.
 - **Resolution:** Unopposed Arcana vs. TN 8.
     
 - The Effect: The target gains an ablative armour layer of bone. They gain +1 Shield Value (SV) for the duration of the encounter, which stacks with physical shields.
     
 - The Margin Scaler:
     
-
 - Margin 0–2 (Messy): The bones pierce the muscle awkwardly. The target gains the SV bonus, but immediately takes 1 Dissonant Stress from the agonizing process.
     
 - Margin 3–4 (Clean): The bone armour forms flawlessly.
@@ -399,8 +398,8 @@ Not the whole marionette yet — just one string, pulled hard enough to matter.
 - **Resolution:** Arcane Clash (Arcana vs. Target's Resolve).
 - The Effect: The caster seizes control of one limb or reflex — not the target's whole turn, just a single involuntary twitch of the strings.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: The target's weapon hand spasms — they immediately drop whatever they're holding (weapon or shield). Caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): As above, and the caster may instead force the target to make one immediate, involuntary Aggressor Strike against the nearest character (ally or enemy) using the target's own stats — a single reflexive attack, not control of their turn.
+  - Margin 1–2: The target's hand spasms — they immediately drop whatever they're holding (casters choice if holding multiple items). Caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, and the caster may instead force the target to make one immediate, involuntary Action, such as an Aggressor Strike against the nearest character (ally or enemy) using the target's own stats — a single reflexive action, not control of their turn.
 
 ### Master
 
@@ -426,9 +425,9 @@ Dark energy reanimates the dead, forcing cold flesh to serve the living.
 - **Duration:** Scene
 
 **The Margin Scaler:**
-- Margin 0–2 (Messy): The corpse rises as an NPC Undead under the caster's control for the scene (Wound Threshold 6, no Stress Limit); the working costs the caster 1 Dissonant Stress.
+- Margin 0–2 (Messy): The corpse rises as an NPC Undead under the caster's control for the scene (Wound Threshold 6, Stress Limit 4); the working costs the caster 1 Dissonant Stress.
 - Margin 3–4 (Clean): As above, no cost.
-- Margin 5+ (Massive): The caster may Lock 5 Stress instead of letting the spell end — doing so makes the servant permanent until destroyed or released.
+- Margin 5+ (Massive): The caster may target multiple corpses. The caster can Lock a Stress per corpse.  (use a wretches stat block) 
 *Last Rites - Denies the effect of this spell.*
 
 **Puppet**

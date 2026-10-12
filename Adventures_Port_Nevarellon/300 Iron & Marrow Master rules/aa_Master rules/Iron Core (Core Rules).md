@@ -388,7 +388,7 @@ ________________________________________________________________________
     
 - *Cursed:* (Magical). Healing magic (like Mend Flesh or Surge of Relief) has no effect on you, and Alchemical draughts taste like ash, providing no benefit.
     
-- *Hexed:* (Magical). A minor curse rides on you, waiting for the moment you need steadiness most. **The next roll you make — an Aggressor Strike or a Reactor defense, whichever comes first — suffers Disadvantage.** The condition is spent the instant that roll is made, whichever kind it turned out to be.
+- *Hexed:* (Magical). A minor curse rides on you, waiting for the moment you need steadiness most. **The next roll you make suffers Disadvantage.** The condition is spent the instant that roll is made, whichever kind it turned out to be.
     
 - *In-Fighting:* All 1H weapons without Close-Quarters suffer Disadvantage. 2H weapons cannot be used.
     
