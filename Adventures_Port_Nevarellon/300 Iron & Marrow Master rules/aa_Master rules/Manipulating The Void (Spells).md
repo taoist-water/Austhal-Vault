@@ -548,7 +548,7 @@ The sorcerer exhales a cloud of unnatural, pitch-black soot that instantly smoth
     
 - Margin 3–4 (Clean): As above, no cost.
     
-- Margin 5+ (Massive): The shadows become actively hostile. Any enemy that starts its turn inside the zone must pass a TN 8 Resolve check or immediately suffer 1 Dissonant Stress from hallucinatory whispers.
+- Margin 5+ (Massive): The shadows become actively hostile. Any enemy that starts its turn inside the zone must pass a TN 10 Resolve check or immediately suffer 1 Dissonant Stress from hallucinatory whispers.
     
 
 **Blade of Paranoia** (Combat / Psychological)
@@ -562,12 +562,11 @@ The caster pulls a blade of condensed absence-of-light from the shadows. It pass
     
 - The Effect: This spell is explicitly designed to bypass high Shield Values and thick armour tags (like the Construct or Ablative Armour tags). It deals absolutely zero physical Impact. Instead, it attacks the enemy's binary Stress track.
     
-- The Margin Scaler (Based on Clash Margin):
-    
+- The Margin Scaler (Based on Clash Margin):    
 
 - Margin 1–2: The target's mind fractures; they suffer 1 Dissonant Stress. The caster also takes 1 Dissonant Stress from the strain.
     
-- Margin 3+ (Clean): The target suffers 2 Dissonant Stress, rapidly pushing Elites and Bosses toward their Break Point. Furthermore, the sheer terror of the blow saps their momentum—that creature must immediately discard 1 Momentum from its own Bank (if it has any).
+- Margin 3+ (Clean): The target suffers 2 Dissonant Stress. Furthermore, the sheer terror of the blow saps their momentum—that creature must immediately discard 1 Momentum from its own Bank (if it has any).
     
 
 ### Master
@@ -611,15 +610,15 @@ The caster sweeps their arms outward, creating a localized, concussive blast of 
 - **Target/Range:** 10ft cone
 - **Action Type:** Aggressor
 - **Duration:** Instantaneous
-- **Resolution:** Arcane Clash (Arcana vs. Targets' Prowess or Acrobatics). Note: This targets all enemies within a 10-foot cone.
+- **Resolution:** Arcane Clash (Arcana vs. Targets' Prowess or Acrobatics). Note: This targets all targets within a 10-foot cone.
     
 - The Effect: This spell does not deal Impact. Instead, it alters the battlefield geometry to save swarmed allies. The Shaman rolls once, and every enemy in the cone rolls to defend.
     
 - The Margin Scaler (Based on Clash Margin):
     
-- Margin 1–2: The enemy is violently shoved 10 feet backward, breaking any engagements and removing them from the party's Threat Zones. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 1–2: The targets are violently shoved 10 feet backward, breaking any engagements. The caster also takes 1 Dissonant Stress from the strain.
     
-- Margin 3+ (Clean): The enemy is shoved 10 feet backward, slammed to the ground (gaining the Prone condition), and suffers 1 Dissonant Stress from the concussive force.
+- Margin 3+ (Clean): The targets are shoved 10 feet backward, slammed to the ground (gaining the Prone condition), and suffer 1 Dissonant Stress from the concussive force.
 
 **Bone Claws** (Combat / Natural Weapon)
 The caster's own finger bones tear free of the flesh, reforming into three curved, ivory-white claws on each hand — the oldest weapon a body can grow back.
@@ -627,7 +626,7 @@ The caster's own finger bones tear free of the flesh, reforming into three curve
 - **Level:** Novice
 - **Target/Range:** Self, touch
 - **Action Type:** Activation
-- **Duration:** Until the end of the encounter
+- **Duration:** Scene.
 - **Resolution:** Unopposed Arcana vs. TN 8.
 - The Effect: Three retractable bone claws erupt from the knuckles of each hand. The caster may extend or retract them as a Free Action — sheathed, they're indistinguishable from ordinary hands. While extended, the claws function as a Power 2 melee weapon for the caster's Aggressor Strikes and Parry actions, and their grip is sharp enough to bite into stone or bark.
 - The Margin Scaler:
@@ -647,8 +646,8 @@ The Shaman draws ambient static from the air, concentrating it into a deafening,
 - **Resolution:** Arcane Clash (Arcana vs. Target's Dodge or Brace).
 - **Spell Power: 3**
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 3 (Spell Power). The sheer voltage causes the target to drop their weapon or shield; they must spend a Free Action on their next turn picking it up. The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): As above, and the electrical surge cooks the target inside their armour — they instantly suffer 1 Dissonant Stress in addition to the physical Wound damage.
+  - Margin 1–2: Impact = Margin + 3 (Spell Power). The sheer voltage causes the target to drop what they are holding; they must spend a Free Action on their next turn picking it up. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 3+ (Clean): As above, and the electrical surge cooks the target inside their armour — they instantly suffer 1 wound, bypassing Wound threshold.
     
 
 **Blood-Wood Totem** (Environmental / Aura)
