@@ -745,13 +745,13 @@ The caster or a chosen ally melts into the earth, moving through soil and stone 
 The caster doesn't conjure a wall from nothing — they reach into the nearest slab of earth or stone and wrench a piece of it upward, sideways, or loose, just fast enough to catch a blow.
 
 - **Level:** Novice
-- **Target/Range:** Self or one ally, Short Range (requires a nearby surface of raw material — earth, stone, wood, or similar — within touch range of the target to draw from)
-- **Action Type:** Reactor
-- **Duration:** The defensive Clash is instantaneous; the resulting terrain persists until destroyed or the end of the scene
+- **Target/Range:** Self or Short Range (requires a nearby surface of raw material — earth, stone, wood, or similar — within touch range of the target to draw from)
+- **Action Type:** Reactor or Activation
+- **Duration:** instantaneous; the resulting terrain persists until destroyed or the end of the scene
 - **Resolution:** Arcane Clash — Arcana vs. the attacker's Strike roll, substituting entirely for the target's normal Reactor action (Dodge, Parry, or Block) against this one Strike. If the caster loses the Clash, the material shatters before it fully forms and the target takes full Impact with no mitigation.
 - The Effect: A spar of raised earth, a shard peeled from a nearby pillar, or a jutting slab of floor interposes itself between the target and the attack. Unlike a personal ward, this is a real physical object — if it survives forming, it remains standing on the battlefield afterward, and any character (not just the caster) can use it as Partial Cover until it's destroyed or the scene ends.
 - The Margin Scaler (Based on Clash Margin, if the caster wins):
-  - Margin 1–2: The cover holds, but only just. The target takes no Impact, and the caster suffers 1 Dissonant Stress from transmuting on pure reflex. The slab itself is cracked and unstable — it counts as difficult terrain rather than usable cover.
+  - Margin 1–2/0-2: The cover holds, but only just. The target takes no Impact, and the caster suffers 1 Dissonant Stress from transmuting on pure reflex. The slab itself is cracked and unstable — it counts as difficult terrain rather than usable cover.
   - Margin 3+ (Clean): The cover holds cleanly, no cost, and the slab remains standing and stable — usable as Partial Cover by anyone for the rest of the scene.
 
 ### Adept
@@ -768,7 +768,7 @@ The target's physical dimensions warp, swelling to monstrous proportions or coll
 **The Margin Scaler:**
 - Margin 1–2 / 0–2 (Messy): Target's Scale shifts by 1 step (per the existing Scale rules — Growth: +2 WT, Advantage on Prowess shoving/grappling, Disadvantage on Stealth; Shrink: -1 WT, Advantage on Stealth, Disadvantage on Prowess). The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ / 3–4 (Clean): As above, no complication.
-- Margin 5+ (Massive, unopposed only): The shift is extreme — Scale +/-2 instead of 1.
+- Margin 5+ (Massive): The shift is extreme — Scale +/-2 instead of 1.
 
 **Caustic Deluge** (Combat / Gear Degradation)
 The caster’s hands violently sweat a highly reactive, boiling solvent, which they hurl in a concentrated arc that eagerly eats through manufactured materials.
@@ -794,14 +794,13 @@ The caster forces a localized, agonizing biological reaction—either in themsel
 - **Level:** Adept
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
-- **Duration:** Until the end of the encounter
+- **Duration:** Scene.
 - **Resolution:** Unopposed Arcana vs. TN 10.
     
-- The Effect: The target undergoes a grotesque physical enhancement. For the remainder of the encounter, the target gains a +2 modifier to Prowess, ignoring the normal Attribute + 3 Skill Ceiling, up to the absolute mortal maximum of +6, and their unarmed strikes deal Impact equal to a Power 2 weapon.
+- The Effect: The target undergoes a grotesque physical enhancement. The target gains a +2 modifier to Prowess, ignoring the normal Attribute + 3 Skill Ceiling, up to the absolute mortal maximum of +6, and their unarmed strikes gain the Lethal tag with Power 2.
     
 - The Margin Scaler:
     
-
 - Margin 0–2 (Messy): The mutation is unstable. The buff takes hold, but the biological shock is so violent the target immediately suffers 1 Minor physical Wound (or 2 Dissonant Stress, target's choice).
     
 - Margin 3–4 (Clean): The flesh warps and stabilizes flawlessly.
@@ -815,17 +814,16 @@ The caster snaps their fingers, drastically superheating the ambient air around 
 - **Level:** Adept
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
-- **Duration:** Until the target breaks free, or (Margin 3+) until the end of the fight
+- **Duration:** Until the target breaks free, or (Margin 3+) until the end of the Scene.
 - **Resolution:** Unopposed Arcana vs. TN equal to the target's Wound Threshold.
     
 - The Effect: You target an enemy wearing metal armour or wielding a mechanical/metal weapon. If you succeed, you don't deal Impact; instead, you fuse their gear.
     
 - The Margin Scaler (Based on Clash Margin):
     
-
-- Margin 1–2: You weld the target's boots to the floor or their greaves at the knees. The target is Anchored (0 movement) until they spend their next full Aggressor action physically tearing the metal apart. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 1–2: You weld the target's boots to the floor or their greaves at the knees. The target is Anchored (0 movement) until they spend their next full Aggressor action physically tearing the metal apart the equipment gains the Ruined tag. The caster also takes 1 Dissonant Stress from the strain.
     
-- Margin 3+ (Clean): You fuse the target's weapon to their gauntlet or weld their visor shut. The target is Anchored and suffers Disadvantage on all Strike rolls until the end of the fight.
+- Margin 3+ (Clean): You fuse the target's weapon to their gauntlet or weld their visor shut. The target is Anchored and suffers Disadvantage on all Strike rolls until the end of the scene.
     
 
 **Vitrify** (Environmental / Breach)
@@ -843,7 +841,6 @@ The caster places their palm against a solid surface—stone, wood, or bone—an
     
 - The Margin Scaler:
     
-
 - Margin 0–2 (Messy): The transmutation works, but the glass is highly unstable and explodes outward immediately. The caster takes 1 Dissonant Stress from the shrapnel.
     
 - Margin 3–4 (Clean): The surface turns to glass, waiting to be shattered safely.
@@ -860,7 +857,7 @@ The caster does not merely enhance the body, but reshapes it to whatever configu
 - **Action Type:** Activation
 - **Duration:** Scene
 - **Resolution:** Unopposed Arcana vs. TN 12.
-- The Effect: The target's body is remade for pure physical optimization: +2 to one Skill of the caster's choice (this replaces, rather than stacks with, any active Boost/Lower Trait effect), Scale increases by one step per the Growth/Shrink rules, and unarmed strikes deal Impact equal to a Power 3 weapon for the duration.
+- The Effect: The target's body is remade for pure physical optimization: +2 to one Skill of the caster's choice (this replaces, rather than stacks with, any active Boost/Lower Trait effect), Scale increases by one step per the Growth/Shrink rules, and unarmed strikes lethal tag and deal Impact equal to a Power 3 weapon for the duration.
 - The Margin Scaler:
   - Margin 0–2 (Messy): The transformation holds, but the body wasn't built to sustain this configuration — the target takes 1 Dissonant Stress now, and again when the spell ends as their body violently reverts.
   - Margin 3–4 (Clean): Stable for the duration; the reversion at scene's end is merely uncomfortable, no further cost.
