@@ -187,6 +187,10 @@ ________________________________________________________________________
 
 - Failure: The PC immediately gains the *Fear*  condition.
 
+**Pack Tactics:** 
+- A wolf pack, well  drilled soldiers or familiar mercenaries. working an enemy to get past their guard.
+- Any ally in the threat zone and engaging the same target Ignores an enemy's Shield Value if an ally is also engaged with that enemy.
+
 **Terrifying**
 - A harrowing presence—whether an eldritch abomination or a faceless, silent headsman—that cracks the human mind.
     
@@ -196,7 +200,7 @@ ________________________________________________________________________
     
 _**Fanatical:** Immune to being Intimidated.
         
-**Ambusher:**_ Gains Advantage on the Clash roll if attacking an unaware target from Stealth.
+**Ambusher:** Gains Advantage on the Clash roll if attacking an unaware target from Stealth.
 
 **Cunning Leader**
 - A ruthless commander or pack alpha who reads the battlefield with chilling tactical precision.

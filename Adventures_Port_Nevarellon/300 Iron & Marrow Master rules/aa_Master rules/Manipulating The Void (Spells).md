@@ -663,10 +663,9 @@ The caster drives a carved, bone-and-wood fetish into the earth, bleeding onto i
     
 - The Margin Scaler:
     
-
 - Margin 0–2 (Messy): The spirit is unruly. The totem is established, but it demands an immediate toll. The caster suffers 1 Dissonant Stress.
     
-- Margin 3–4 (Clean): The totem takes root perfectly. It remains active until destroyed (it has 1 Wound Slot).
+- Margin 3–4 (Clean): The totem takes root perfectly. It remains active until destroyed (WT:3 SL:0 ,1 Wound Slot).
     
 - Margin 5+ (Massive): The spirit is completely subjugated. Enemies entering the radius must treat it as difficult terrain, while allies move through it freely.
     
@@ -677,20 +676,19 @@ The Shaman inhales the ashes or bone dust of a long-dead warrior, allowing a fer
 - **Level:** Adept
 - **Target/Range:** Self or one ally, Short Range
 - **Action Type:** Activation
-- **Duration:** Until the end of the encounter
+- **Duration:** Scene
 - **Resolution:** Unopposed Arcana vs. TN 10. (Targeting self or one ally in sight).
     
-- The Effect: The target is physically swollen with spiritual mass. For the rest of the encounter, the target's primary weapon gains +1 Power, and they are immune to being knocked Prone or Repositioned.
+- The Effect: The target is physically swollen with spiritual mass. For the rest of the scene, the target's primary weapon gains +1 Power, and they are immune to being knocked Prone or Repositioned.
     
 - The Margin Scaler:
     
-- Margin 0–2 (Messy): The possession is agonizing. The buff is applied, but the target immediately takes 1 Dissonant Stress as the ancient spirit tries to override their consciousness.
+- Margin 0–2 (Messy): The possession is agonising. The buff is applied, but the target and caster immediately takes 1 Dissonant Stress as the ancient spirit tries to override their consciousness.
     
 - Margin 3–4 (Clean): The mantle settles perfectly onto the target.
     
 - Margin 5+ (Massive): The spirit is bloodthirsty. The target immediately generates 1 Momentum the moment the spell is cast.
     
-
 ### Master
 
 **Apex Form** (Combat / Predator Transformation)
@@ -701,11 +699,11 @@ The escalation of Bone Claws: instead of just claws, the caster's whole body com
 - **Action Type:** Activation
 - **Duration:** Scene
 - **Resolution:** Unopposed Arcana vs. TN 12.
-- The Effect: The caster gains a natural claw-and-fang weapon (Power 3) usable for Aggressor Strikes and Parry, plus heightened predator senses — Advantage on any Notice or Perception check for the duration. If the caster already has claws extended from Bone Claws, Apex Form layers over them rather than requiring the claws to reform.
+- The Effect: The caster gains a natural claw(Power 3)-and-fang(Power 1) weapons usable for Aggressor Strikes (2 per activation)and Parry, plus heightened predator senses — Advantage on any Notice or Perception check for the duration. If the caster already has claws extended from Bone Claws, Apex Form layers over them rather than requiring the claws to reform.
 - The Margin Scaler:
   - Margin 0–2 (Messy): The change takes hold, but instinct overrides higher reasoning — the caster suffers Disadvantage on any Faith or social-based check for the scene, and takes 1 Dissonant Stress from the transformation's violence.
   - Margin 3–4 (Clean): The transformation settles fully under the caster's control. No cost, no penalty.
-  - Margin 5+ (Massive): Weapon Power increases to 4, and the caster is immune to Fear or Intimidation effects for the scene — an apex predator doesn't flinch.
+  - Margin 5+ (Massive): Weapon Power for each attack increases by 1, and the caster is immune to Fear or Intimidation effects for the scene — an apex predator doesn't flinch.
 
 _______________________________________________________________
 
