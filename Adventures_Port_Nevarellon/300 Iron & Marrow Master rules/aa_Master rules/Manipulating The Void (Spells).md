@@ -723,7 +723,7 @@ The caster reaches into a body's fundamental rhythm, quickening it or grinding i
 **The Margin Scaler:**
 - Margin 1–2 / 0–2 (Messy): Target gains a +1 (Boost) or -1 (Lower) modifier to one chosen Skill. The caster also takes 1 Dissonant Stress from the strain.
 - Margin 3+ / 3–4 (Clean): As above, with no complication.
-- Margin 5+ (Massive, unopposed only): Magnitude increases to +/-2.
+- Margin 5+ (Massive): Also gains Advantage/Disadvantage on chosen skill.
 
 **Special Interactions:** A character can only have one Boost or Lower effect active at a time; a second casting replaces the first.
 
