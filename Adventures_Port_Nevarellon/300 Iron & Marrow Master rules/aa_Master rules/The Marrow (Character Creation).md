@@ -558,6 +558,24 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 * Mechanic: When examining a lock, mechanical trap, or structural weak point, you can spend 1 Momentum. If you do, you instantly deduce its precise mechanism, allowing you to automatically pass the Thievery check to bypass or disable it without rolling—completely eliminating the risk of a Fumble.
 
+**Bareback Brawler**
+
+* Prerequisites: Brawn 2, Prowess 2 — plus **any one Tier 1 feat**.
+
+>Strength in flesh, whatever doesn't kill you makes you stronger.
+
+* Mechanic: When not wearing armour of any kind, increase your Wounds Threshold by 2.
+
+
+**Combat Veteren**
+
+* Prerequisites: Melee 2, Reflex1 — plus **any one Tier 1 feat**.
+
+>You're well drilled and know your way around a fight.
+
+* Mechanic: you may spend a Full Action to make two Strike actions during your activation, this stacks with momentum spends.
+
+
 **Combat Scholar**
 
 * Prerequisites: Reflex 1, Arcana 2 — plus **any one Tier 1 feat**.
