@@ -1038,8 +1038,7 @@ The Witch locks eyes with the target and whispers a localized, highly specific c
     
 - Margin 1–2: The target gains the **Hexed** condition (Iron Core). The caster also takes 1 Dissonant Stress from the strain.
     
-- Margin 3+ (Clean): The curse roots deep. The target gains **Hexed**, and if the Hexed roll fails, the supernatural backlash instantly inflicts 1 Dissonant Stress on them. This forces enemies to either stop attacking or rapidly accelerate toward their breaking point.
-    
+- Margin 3+ (Clean): The curse roots deep. The target gains **Hexed**, and if the Hexed roll fails, the supernatural backlash instantly inflicts 1 Dissonant Stress on them.     
 
 **Warding Knot** (Utility / Protective Curse)
 The Witch ties a knot of twine, hair, and a sliver of bone into a bracelet or amulet, binding a small ill fate to anyone who dares strike its wearer.
@@ -1049,7 +1048,7 @@ The Witch ties a knot of twine, hair, and a sliver of bone into a bracelet or am
 - **Action Type:** Activation
 - **Duration:** Until triggered, or the end of the scene
 - **Resolution:** Unopposed Arcana vs. TN 8.
-- The Effect: The target is warded. The next time an enemy successfully lands a Strike against them, the curse bites back — the attacker suffers Disadvantage on their next roll as ill luck catches up with them. The knot then unravels, its magic spent.
+- The Effect: The target is warded. The next time an enemy successfully lands an Attack against them, the curse bites back — the attacker suffers Disadvantage on their next roll as ill luck catches up with them. The knot then unravels, its magic spent.
 - The Margin Scaler:
   - Margin 0–2 (Messy): The ward binds, but loosely — it still triggers correctly, but the caster suffers 1 Dissonant Stress tying the curse.
   - Margin 3–4 (Clean): The knot ties cleanly, no cost.
@@ -1068,8 +1067,7 @@ The Witch rapidly binds a handful of straw, twine, and a drop of an ally's blood
     
 - The Effect: The Witch links the poppet to themselves or one ally. The poppet acts as a sacrificial Ward. The next time the linked character would suffer a physical Wound, the poppet violently snaps in half, completely negating the Wound.
     
-- The Margin Scaler:
-    
+- The Margin Scaler:    
 
 - Margin 0–2 (Messy): The sympathetic link is slightly misaligned. The poppet shatters and absorbs the Wound, but the metaphysical shock causes the Witch to immediately suffer 1 Dissonant Stress.
     
@@ -1089,14 +1087,13 @@ The caster scatters a handful of dead seeds that instantly erupt into a writhing
     
 - The Effect: Creates a 15-foot radius of cursed ground. This is not just difficult terrain; it is actively hostile. Any enemy that declares an Aggressor action while standing in the briars is punished for shifting their weight.
     
-- The Margin Scaler:
-    
+- The Margin Scaler:    
 
-- Margin 0–2 (Messy): The briars sprout wildly. They deal 1 Dissonant Stress to any enemy that attacks from within them, but the Witch's allies also treat the zone as difficult terrain.
+- Margin 0–2 (Messy): The briars sprout wildly. They deal 1 Dissonant Stress to anyone that activates within them, also treat the zone as difficult terrain. The Witch suffers one Dissonant Stress.
     
-- Margin 3–4 (Clean): The briars recognize the caster’s allies. Allies move freely, but enemies who declare a Strike from within the zone automatically suffer 1 Dissonant Stress before their attack resolves.
+- Margin 3–4 (Clean): The briars recognize the caster’s allies. Allies move freely, but enemies who activate  within the zone automatically suffer 1 Dissonant Stress before their activation resolves.
     
-- Margin 5+ (Massive): The thorns are venomous. In addition to the 1 Dissonant Stress, any Fodder-tier enemy taking damage from the briars instantly loses their flanking Bonus for the remainder of the round as the pain breaks their coordination.
+- Margin 5+ (Massive): The thorns are venomous. In addition to the 1 Dissonant Stress, enemies within gain the Poisoned condition. enemies  lose their flanking Bonus , whilst inside the briars.
     
 
 **The Creeping Ague** (Crowd Control / Biological)
@@ -1112,10 +1109,9 @@ The Witch blows a handful of pale, grave-dust spores into the face of a target, 
     
 - The Margin Scaler (Based on Clash Margin):
     
-
-- Margin 1–2: The fever spikes. The target's movement is reduced to 0 (Anchored), and they completely lose the ability to use the Parry or Dodge actions on their next turn, as their muscles spasm uncontrollably. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 1–2: The fever spikes. The target gains the fatigued and distracted conditions. The caster also takes 1 Dissonant Stress from the strain.
     
-- Margin 3+ (Clean): The sickness is overwhelming. The target must forfeit their entire next turn, violently retching and coughing black bile. They automatically take the Regroup action, doing nothing else. If it is an Elite or Boss, that creature cannot spend Momentum until it recovers.
+- Margin 3+ (Clean): The sickness is overwhelming. The target must forfeit their entire next turn, violently retching and coughing black bile. They automatically take the Regroup action, doing nothing else. The creature cannot spend Momentum until it recovers.
 
 ### Master
 
@@ -1170,12 +1166,12 @@ The caster doubles the local gravity around a single target, turning their own w
 - **Level:** Novice
 - **Target/Range:** One character, Medium Range
 - **Action Type:** Aggressor
-- **Duration:** Until the end of the target's next turn
+- **Duration:** Until the end of the target's next activation.
 - **Resolution:** Arcane Clash (Arcana vs. Target's Resolve).
 - The Effect: This is not designed to deal Impact (damage), but to cripple mobility. If the Astromancer wins the Clash, the target is afflicted with crushing weight.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: The target's Move is halved for their next turn. The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): The target's Move is reduced to 0 (Anchored) for their next turn, and they suffer a -2 penalty on any Aggressor Strike they attempt while anchored, unable to get their weight behind the swing.
+  - Margin 3+ (Clean): The target's Move is reduced to 0 for their next turn, and they suffer a -2 penalty on any Action they attempt, unable to get their weight behind the swing.
 
 ### Adept
 
@@ -1188,7 +1184,7 @@ The caster compresses a sphere of localized space into a marble-sized singularit
 - **Duration:** Scene
 - **Resolution:** Unopposed Arcana vs. TN 10.
     
-- The Effect: Creates a 15-foot radius zone of hyper-gravity. Any creature starting its turn inside the zone, or attempting to move through it, treats the area as difficult terrain. Furthermore, moving away from the center of the singularity requires the creature to forfeit its Aggressor action for the turn as it fights the gravitational drag.
+- The Effect: Creates a 15-foot radius zone of hyper-gravity. Any creature starting its turn inside the zone, or attempting to move through it, treats the area as difficult terrain. Furthermore, moving away from the center of the singularity requires the creature to spend a full action.
     
 - The Margin Scaler:
     
@@ -1196,7 +1192,7 @@ The caster compresses a sphere of localized space into a marble-sized singularit
     
 - Margin 3–4 (Clean): The gravity well stabilizes perfectly.
     
-- Margin 5+ (Massive): The pressure is absolute. Any Elite or Construct caught in the exact center of the zone instantly has their armour violently warped, immediately gaining the Damaged tag to their gear.
+- Margin 5+ (Massive): The pressure is absolute. Any target caught in the exact center of the zone instantly has their armour violently warped, immediately gaining the Damaged tag to their gear.
     
 
 **Astral Piercer** (Combat / Vertical Bypassing)
@@ -1208,7 +1204,7 @@ The Astromancer calls down a pinpoint, blinding shaft of condensed starlight tha
 - **Duration:** Instantaneous
 - **Resolution:** Arcane Clash (Arcana vs. Target's Defense action).
 - **Spell Power: 3**
-- The Effect: Because the attack comes from directly above at orbital velocity, traditional horizontal defenses are useless. The target completely loses the ability to use the Parry action against this Strike. They must rely on a heavy shield (Block) or attempt to Dodge.
+- The Effect: Because the attack comes from directly above at orbital velocity, traditional horizontal defenses are useless. The target completely loses the ability to use the Parry action against this Strike. They must rely on  (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 3 (Spell Power). The flash is blinding, stripping the target of their peripheral vision and denying them the flanking Bonus or Pack Tactics on their next turn. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the sheer kinetic force instantly knocks the target Prone.
