@@ -566,7 +566,6 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 * Mechanic: When not wearing armour of any kind, increase your Wounds Threshold by 2.
 
-
 **Combat Veteren**
 
 * Prerequisites: Melee 2, Reflex1 — plus **any one Tier 1 feat**.
