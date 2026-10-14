@@ -1204,19 +1204,18 @@ The Astromancer calls down a pinpoint, blinding shaft of condensed starlight tha
 - **Duration:** Instantaneous
 - **Resolution:** Arcane Clash (Arcana vs. Target's Defense action).
 - **Spell Power: 3**
-- The Effect: Because the attack comes from directly above at orbital velocity, traditional horizontal defenses are useless. The target completely loses the ability to use the Parry action against this Strike. They must rely on  (Block) or attempt to Dodge.
+- The Effect: Because the attack comes from directly above at orbital velocity, traditional horizontal defenses are useless. The target completely loses the ability to use the Parry action against this Strike. They must rely on (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 3 (Spell Power). The flash is blinding, stripping the target of their peripheral vision and denying them the flanking Bonus or Pack Tactics on their next turn. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: Impact = Margin + 3 (Spell Power). The flash is blinding, target gains the suppressed condition until the end of their next activation The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the sheer kinetic force instantly knocks the target Prone.
     
-
 **Tidal Lock** (Crowd Control / Relational Geometry)
 The caster mathematically binds an enemy’s gravitational pull to an ally, forcing them into a locked, inescapable orbit.
 
 - **Level:** Adept
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
-- **Duration:** Until the end of the encounter
+- **Duration:** Scene.
 - **Resolution:** Arcane Clash (Arcana vs. Target's Arcana or Resolve).
     
 - The Effect: You target an enemy and tether them to a specific ally.
@@ -1234,19 +1233,18 @@ The Astromancer temporarily severs an ally’s connection to gravity, completely
 - **Level:** Adept
 - **Target/Range:** Self or one ally, touch
 - **Action Type:** Activation
-- **Duration:** Until the end of the encounter
+- **Duration:** Scene.
 - **Resolution:** Unopposed Arcana vs. TN 10.
     
-- The Effect: The target ally becomes completely weightless. For the remainder of the encounter, they ignore all difficult terrain (Mire, Choking Brambles, etc.) and automatically gain Advantage on all Dodge checks. However, because they lack physical mass and leverage, they cannot use the Block or Brace actions while under this effect.
+- The Effect: The target ally becomes completely weightless. For the remainder of the scene, they ignore all difficult terrain (Mire, Choking Brambles, etc.) and automatically gain Advantage on all Dodge checks. However, because they lack physical mass and leverage, they cannot use the Block or Brace actions while under this effect.
     
 - The Margin Scaler:
     
-
 - Margin 0–2 (Messy): The sudden loss of gravity induces severe vertigo. The spell works, but the target immediately suffers 1 Dissonant Stress.
     
-- Margin 3–4 (Clean): The target easily adapts to the microgravity.
+- Margin 3–4 (Clean): The target easily adapts to the micro-gravity.
     
-- Margin 5+ (Massive): The target perfectly manipulates their orbital momentum. The first time the target drops from a height or leaps to perform a melee Strike, their weapon's Power is increased by +1 for that single swing due to terminal velocity.
+- Margin 5+ (Massive): The target perfectly manipulates their orbital momentum. when the target drops from a height or leaps to perform a melee Strike, their weapon's Power is increased by +1 for that single swing due to terminal velocity.
 
 ### Master
 
@@ -1275,11 +1273,11 @@ The caster hyper-pressurizes the air directly around their own body, before rele
 - **Target/Range:** 5ft radius, self
 - **Action Type:** Aggressor
 - **Duration:** Instantaneous
-- **Resolution:** Arcane Clash (Arcana vs. Targets' Defense action). Note: This targets every enemy currently engaged in the caster's Threat Zone.
+- **Resolution:** Arcane Clash (Arcana vs. Targets' Defense action). Note: This targets every target currently in the caster's Threat Zone.
 - **Spell Power: 1** _(Novice 2, −1 for multiple targets — see *Embracing the Abyss*, Spell Power by Level.)_
 - The Effect: This is the Pyromancer's panic button when swarmed. The caster rolls once, and every enemy within 5 feet must roll to defend.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 1 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone and breaking the Swarm Bonus. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: Impact = Margin + 1 (Spell Power). The concussive wave violently throws the enemy 5 feet backward, removing them from the caster's Threat Zone. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the enemy is thrown 10 feet backward, knocked Prone, and suffers 1 Dissonant Stress from the ruptured eardrums.
 
 **Ember Lance** (Combat / Direct Strike)
@@ -1293,7 +1291,7 @@ Furnace Lance's disciplined little cousin — controlled instead of overwhelming
 - **Spell Power: 2**
 - The Margin Scaler:
   - Margin 1–2: Impact = Margin + 2 (Spell Power). Caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): As above, and the burn stings enough that the target suffers Disadvantage on their next Aggressor Strike roll as they favor the wound.
+  - Margin 3+ (Clean): As above, and the burn stings enough that the target suffers Disadvantage on their next roll as they favor the wound.
 
 **Wreath of Embers** (Combat / Weapon Ignition)
 The caster wraps their weapon — or their own knuckles — in a controlled, clinging flame that answers only to them.
@@ -1336,16 +1334,15 @@ The Pyromancer presses a glowing, superheated hand directly against an ally’s 
 - **Duration:** Instantaneous
 - **Resolution:** Unopposed Arcana vs. TN 10. (Requires engaging the target in close range).
     
-- The Effect: This is the Arcane alternative to a Priest's Triage. It clears exactly 1 Wound Slot from the target, allowing them to survive another hit, but it permanently reduces their Stress Limit by 1 (following standard Triage rules).
+- The Effect: This is the Arcane alternative to a Priest's Triage. It clears exactly 1 Wound Slot from the target.
     
-- The Margin Scaler:
-    
+- The Margin Scaler:    
 
-- Margin 0–2 (Messy): The heat is poorly regulated. The Wound Slot is cleared, but the agony is unbearable. The target instantly suffers 2 Dissonant Stress, and the caster suffers 1 Dissonant Stress from the trauma of performing it.
+- Margin 0–2 (Messy): The heat is poorly regulated. The Wound Slot is cleared, but the agony is unbearable. The target instantly suffers 2 Locked Stress, and the caster suffers 1 Dissonant Stress from the trauma of performing it.
     
-- Margin 3–4 (Clean): The Wound is cleanly sealed. The target suffers 1 Dissonant Stress from the pain, but the bleeding stops.
+- Margin 3–4 (Clean): The Wound is cleanly sealed. The target suffers 1 Locked Stress from the pain, but the bleeding stops.
     
-- Margin 5+ (Massive): The sudden rush of adrenaline overrides the pain completely. The Wound is sealed, neither party takes Dissonant Stress, and the target immediately generates 1 Momentum from the sheer shock to their system.
+- Margin 5+ (Massive): The sudden rush of adrenaline overrides the pain completely. The Wound is sealed, neither party takes Stress, and the target immediately generates 1 Momentum from the sheer shock to their system.
     
 
 ### Master
@@ -1361,7 +1358,7 @@ The caster exhales a concentrated, blinding beam of white-hot plasma that superh
 - **Spell Power: 5**
 - The Effect: You cannot cross blades with a blowtorch. The target completely loses the ability to use the Parry action against this Strike. They must rely on a thick shield (Block) or attempt to Dodge.
 - The Margin Scaler (Based on Clash Margin):
-  - Margin 1–2: Impact = Margin + 5 (Spell Power). The raw heat causes the target to panic, forcing them to drop any wooden weapon or shield they are holding. The caster also takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: Impact = Margin + 5 (Spell Power). The raw heat causes the target to panic, forcing them to drop any weapon or shield they are holding. The caster also takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the target is **Ablaze** (Iron Core) — the condition carries its own per-turn cost, and the Regroup action is what puts them out.
     
 
