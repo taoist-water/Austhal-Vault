@@ -889,10 +889,11 @@ The caster whispers a truth from the outer dark, projecting pure existential dre
 - **Resolution:** Arcane Clash, Arcana vs. Target's Resolve
 - **Target/Range:** One character or 10ft area, Short Range
 - **Action Type:** Aggressor
+- **Duration:** Instantaneous.
 
 **The Margin Scaler:**
-- Margin 1–2: Target suffers 2 Dissonant Stress and must spend their next Activation moving away from the caster at maximum speed. The caster also takes 1 Dissonant Stress from the strain.
-- Margin 3+ (Clean): As above, and if it's a Fodder-tier enemy, they immediately Rout (per the NPC Stress rules) rather than just fleeing.
+- Margin 1–2: Target/s gains the fear conditions with the caster as the subject. The caster also takes 1 Dissonant Stress from the strain.
+- Margin 3+ (Clean): As above. caster suffers no Dissonant Stress.
 
 **Void Rend** (Combat / Reality Thinning)
 A sliver of the void, no wider than a blade, opens against the target — reality doesn't quite reconnect where it touches.
@@ -922,15 +923,15 @@ For a fraction of a second, the target isn't fully present in reality — the at
 ### Adept
 
 **The Devouring Silence** (Crowd Control / Rule Suspension)
-The void doesn't erase the target's nature, just silences it for a moment — unlike Euclidean Fracture, this works on any target, not just Elites and Bosses.
+The void doesn't erase the target's nature, just silences it for a moment.
 
 - **Level:** Adept
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
-- **Duration:** Until the end of the target's next turn
+- **Duration:** Until the end of the target's next Activation.
 - **Resolution:** Arcane Clash (Arcana vs. Target's Resolve).
 - The Margin Scaler:
-  - Margin 1–2: One of the target's passive Bestiary tags or special rules (GM's call if they have several) simply doesn't function until the end of their next turn. Caster takes 1 Dissonant Stress from the strain.
+  - Margin 1–2: One of the target's passive Bestiary tags or special rules (GM's call if they have several) simply doesn't function until the end of their next Activation. Caster takes 1 Dissonant Stress from the strain.
   - Margin 3+ (Clean): As above, and the target also loses access to any Momentum-fuelled special action for that same duration.
 
 **Euclidean Fracture** (Crowd Control / Geometry)
@@ -961,7 +962,7 @@ The caster rips a jagged, temporary tear in the air itself, exposing the target 
 - The Effect: This spell completely ignores all physical armour, Shield Values, and Bestiary tags. It is pure, unmitigated erasure. However, if the caster loses the Clash via a target's Dodge, the tear violently snaps shut, and the **defending creature banks 1 Momentum**.
 - The Margin Scaler (Based on Clash Margin):
   - Margin 1–2: Impact = Margin + 5 (Spell Power). The target is chilled to the bone, suffering Disadvantage on their next physical Strike roll. The caster also takes 1 Dissonant Stress from the strain.
-  - Margin 3+ (Clean): As above, and the target loses a piece of their physical form to the void. If it is an Elite or Boss, they permanently lose one of their Rule-Breaking Tags (e.g., Pack Tactics or Ablative Armour) as it is sucked into the tear.
+  - Margin 3+ (Clean): As above, and the target loses a piece of their physical form to the void. They permanently lose one of their Rule-Breaking Tags (e.g., Pack Tactics or Ablative Armour) as it is sucked into the tear.
 
 **Zone of Apathy** (Environmental / Meta-Disruption)
 The caster whispers a truth from the outer dark, creating a localized field where ambition, adrenaline, and survival instincts simply cease to exist.
@@ -969,7 +970,7 @@ The caster whispers a truth from the outer dark, creating a localized field wher
 - **Level:** Master
 - **Target/Range:** 15ft radius, Short Range
 - **Action Type:** Activation
-- **Duration:** Until the end of the encounter, or until the caster moves
+- **Duration:** Scene, or until the caster moves
 - **Resolution:** Unopposed Arcana vs. TN 12.
     
 - The Effect: Creates a 15-foot radius of soul-crushing despair. While inside this zone, the game’s meta-economy is completely paused. **Nobody inside can generate or spend Momentum — players and enemies alike.**
@@ -978,9 +979,9 @@ The caster whispers a truth from the outer dark, creating a localized field wher
     
 - Margin 0–2 (Messy): The apathy infects the caster. The zone is created, but the caster immediately loses all their banked Momentum and takes 1 Dissonant Stress.
     
-- Margin 3–4 (Clean): The zone forms and holds until the end of the encounter or until the caster moves.
+- Margin 3–4 (Clean): The zone forms and holds until the end of the Scene or until the caster moves.
     
-- Margin 5+ (Massive): The despair is weaponized. Any enemy possessing the Fodder tier that begins its turn in the zone instantly surrenders or collapses, their Stress track functionally broken.
+- Margin 5+ (Massive): The despair is weaponized. Any enemy entering the zone must pass a TN10 Resolve check becomes incapacitated whilst the zone remains active.
     
 
 **The Marrow Bargain** (Utility / Sacrificial Engine)
@@ -988,17 +989,17 @@ The caster offers their own physical substance to the entities in the void in ex
 
 - **Level:** Master
 - **Target/Range:** Self or one ally, Short Range
-- **Action Type:** Activation or Free Reaction
+- **Action Type:** Free action
 - **Duration:** Instantaneous
-- **Resolution:** Unopposed Arcana vs. TN 12. (Can be cast as a Free Reaction).
+- **Resolution:** Unopposed Arcana vs. TN 12.
     
 - The Effect: This is the ultimate panic button. The caster intentionally suffers 1 Minor physical Wound (marking a Wound Slot). In exchange, they grant themselves or an ally an immediate, game-breaking advantage.
     
 - The Margin Scaler:
     
-- Margin 0–2 (Messy): The void takes more than offered. The caster suffers the Wound AND 1 Dissonant Stress, but the target ally instantly gains 2 Momentum.
+- Margin 0–2 (Messy): The void takes more than offered. The caster suffers the Wound AND 1 Dissonant Stress, but the target instantly gains 2 Momentum.
     
-- Margin 3–4 (Clean): The caster suffers the Wound, and the target ally's next Strike roll automatically counts as rolling a Natural 12 (triggering the exploding dice mechanic and a massive Margin), without having to roll.
+- Margin 3–4 (Clean): The caster suffers the Wound, and the target's next roll automatically counts as rolling a Natural 12 (triggering the exploding dice mechanic and a massive Margin), without having to roll.
     
 - Margin 5+ (Massive): The void is satiated by the blood. The caster suffers the Wound, but the entire party immediately clears all Dissonant Stress.
     
@@ -1016,6 +1017,7 @@ Whispers of madness scramble the target's thoughts.
 - **Resolution:** Arcane Clash, Arcana vs. Target's Resolve
 - **Target/Range:** One character, Short Range
 - **Action Type:** Aggressor
+- **Duration:** Instantaneous
 
 **The Margin Scaler:**
 - Margin 1–2 (Messy): The target gains the **Confused** condition (Iron Core). The caster also takes 1 Dissonant Stress from the strain.

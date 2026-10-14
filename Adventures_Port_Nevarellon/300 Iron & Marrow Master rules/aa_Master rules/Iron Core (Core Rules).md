@@ -366,7 +366,6 @@ ________________________________________________________________________
     
 - *Helpless:* You cannot defend. Any attack against you automatically wins its Clash, with no roll and no Reactor action. Impact is calculated as an unopposed hit.
     
-    
 -  *Prone:* You are on the ground. You suffer Disadvantage on all Clashes. It costs a Move Action or 1 Momentum to scramble to your feet.
     
 - *Blinded:* (Dirt in the eyes, magical darkness). You cannot take attack actions against targets beyond 5 feet. All Reactor Clashes are made with Disadvantage.
@@ -382,8 +381,7 @@ ________________________________________________________________________
 - *Fear:* 1 stress is locked, until fear condition is lost. Has disadvantage against the object/being causing the Fear condition. must Pass a Resolve check to make Attack actions or interact with the object/being causing the fear. Cleared by taking the regroup action when out of sight or has cover from the object/enemy causing fear, or immediately and automatically if the source of the Fear is destroyed or removed from the scene.
     
 - *Distracted:* suffer a - 1 to rolls until next activation, then lose the condition.
-    
-    
+        
 - *Confused:* Your thoughts will not hold still. At the start of each of your Activations, make an **Insight or Resolve check vs TN 8** — your choice, wits or willpower. **On a pass you act normally and the condition ends.** On a failure you lose the Activation entirely, standing dumbfounded: no Action, no Move, no Free Action. You may still take Reactor actions — you are bewildered, not helpless.
     
 - *Cursed:* (Magical). Healing magic (like Mend Flesh or Surge of Relief) has no effect on you, and Alchemical draughts taste like ash, providing no benefit.
