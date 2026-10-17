@@ -14,6 +14,11 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-17 — Elrid Fallow
+- **Elrid Fallow** is the fourth PC of the new Iron & Marrow roster: a runaway **bound tenant from Barleywick** (Duchy of Aerthos) who rode a grain barge to the city at sixteen and became the muscle, and then a priest, of the **House of Mercy**. Register A, devotional (*Elrid*, from Elara).
+- New minor cast: **Mother Marra**, the Weeper who taught him and then gave him up to a steward's man; he escaped over the hospice roof. Still a runaway tenant in Aerthos law.
+- **Ruled (TheTao, 17 Oct): almost every cult has some presence outside its main bastion.** The Weeping Martyr's reach into the Duchies (the cult note's open question) is therefore real but not yet described; Elrid happened to find the cult in the city, not at home.
+
 ### 2026-10-17 — Skell (Name Tables #50)
 - **Skell** (Name Tables #50, now allocated) is the third PC of the new Iron & Marrow roster: a half-orc escaped Twelgorn slave whose company of six was run down by Retrievers in the Grey Veins; he came out of the Silt at **Fenmouth** alone and refused the toll post's Bond of Service. He hauls Iron-Burl and poles for the guides there, and lately carries out the bodies the marsh gives back alongside Morgran.
 - **Fenmouth detail, first time on paper:** the guide-stage, the Council clerk with a Bond of Service ready for every southerner (Law - The Council's Edicts, the Hook), log-hauling off the timber rafts. Still no Fenmouth file.
@@ -409,6 +414,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Rilla Bask | — (Foundry Slips) | Fish-smoker, smoker's lungs; died in a Slips smokehouse fire. GM-facing: Tass Blackrun ran, Rilla went back in | N | 205 NPCs/Rilla Bask.md; Name Tables #12 | Dead |
 | Lassen Blackrun | — (Cinder Row) | Tass Blackrun's younger brother; third-generation Corvus refugee, Tidespoken devotional name; next in line for her Iron-Anchor debt | N | 205 NPCs/Lassen Blackrun.md | Alive. Age, work and family open |
 | Wenna Marrowick | — (debtors' hulks, Foundry Slips) | Halfling; Dilly Marrowick's older sister; on a Debt-Bond that began as a Syndicate loan for marsh-fever medicine. GM-facing: Dilly informed for the Watch to cut a year off it | N | 205 NPCs/Wenna Marrowick.md | Alive. Bond holder open |
+| Mother Marra | Cult of the Weeping Martyr (House of Mercy) | Senior Weeper; taught Elrid Fallow the laying-on, then told an Aerthos steward's man where to find him | N | 205 NPCs/Mother Marra.md | Alive. Motive and age open |
 
 ---
 

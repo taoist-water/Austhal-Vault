@@ -190,3 +190,81 @@ When the marsh gives back someone Fenmouth lost, the guides draw lots for who ca
 - **Red Mist needs Momentum, and Iron Grip is his only earner until then.** Bank 5, Iron Grip on a bound Clash, the natural 12, and Tactical Assessment. Apex Butcher at Milestone 4 closes the loop by turning his own Dissonant into Momentum.
 - **No Parry, no Dodge worth the name.** Cumbersome forbids Parry and he has no Acrobatics, so Brace is his one real defence. That makes him unusually hard to lock down: Anchored, Rigor and Grappled strip Dodge and Parry, which he never uses, and leave Brace standing. What hurts him is Prone — Disadvantage on every Clash, Brace included.
 - **Outcast and Menacing pull the same way.** Strangers distrust him on sight (Disadvantage), and he is better at frightening them than persuading them (Advantage). In Council country his Twelgorn marks are a story every clerk can read.
+
+---
+
+## Elrid Fallow — Human Male, Faith Caster / Melee (Mercy & Healing Domain)
+
+*"Hold still. It goes out of you and into me, and I am used to it."*
+
+### Vital Statistics
+- **Species:** Human
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 2 | Reflex 0 | Wits 0 | Will 2 *(Twin array)*
+- **Skills:** Melee 3 | Faith 2 | Block 1 | Prowess 1 | Resolve 1 | Medicine 1 *(9 ranks, 9 DP with Adaptable. Ceilings: Melee/Block/Prowess/Athletics 5 (Brawn 2); Faith/Resolve/Influence/Survival 5 (Will 2); everything under Reflex or Wits 3)*
+- **Wound Threshold:** 8 *(4 base + 2 Brawn + 2 Chainmail)*
+- **Stress Limit:** 9 *(4 base + 0 Wits + 2 Will + 1 Indomitable Spirit + 2 Stoic Resolve)*
+- **Wound Slots:** 3 | **Momentum Bank:** 3 *(4 + Reflex 0, −1 Steady Not Sharp)* | **Activation Order:** 6 *(6 + Reflex 0)*
+- **Inventory Slots:** 10 *(8 + 2 Brawn)* — 3 used
+
+### Species Traits (Human)
+- **Adaptable:** +1 Skill DP at creation (already applied — a Human's creation Skill budget is 9).
+- **Indomitable Spirit:** +1 Stress Limit (already applied above).
+- **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap (already applied above).
+
+### Feats
+- **Divine Conduit — The Covenant, Domain of Mercy & Healing** *(Faith 1, Will 1 — Creation)*. A Holy Symbol, the **Pure Martyrdom** Domain Tag (when he casts *Healing/Stabilize*, he may take 1 Locked Stress himself to clear one additional Wound Slot on the target), and the 3 Novice Prayers below. **Domain Price** when the tab comes due: he clears 1 Locked Stress, and the last character he healed gains 1 Grey (every third Grey is −1 Stress Limit, for good).
+- **Stoic Resolve** *(Will 2, Resolve 1 — Creation)*: +2 Stress Limit (already applied). When he takes the Reprieve or spends Momentum on Adrenaline Flush, he clears 1 extra point of the relevant Stress.
+
+### Equipment
+- **Armour:** Chainmail (+2 Armour, Medium, **Bulky** — −1 Athletics/Stealth/Arcana, none of which he has), worn under the white habit.
+- **Weapon + Shield (two 1H items):** Mace (Power 2, Bash) + Round Shield (2 SV).
+- **Holy Symbol** — a dove pendant (granted by Divine Conduit; 0 Slots, worn).
+- **Starting Purse: 80 sp** — Chainmail 45 + Mace 8 + Round Shield 18 = 71 sp. Bandages and clean linen are on the Supply Die; 2 sp on a bedroll, 7 sp kept. **73 sp spent, 7 sp remaining.**
+- **Belt:** Mace, Round Shield. **Pack:** Bedroll.
+
+### Prayers (Tithe of Will = 2d6 + Faith = **2d6+2**, vs. TN 8 Novice)
+- **Healing / Stabilize** *(Common, 2 Locked Stress, Activation, touch)* — Pass: clears 1 Wound Slot; an Incapacitated target is also Stabilized. Fail: as Pass + 1 Encroachment. Snake Eyes: as Pass, but the 2 Locked become 2 direct Wounds on him and Encroachment resets. One Healing-type Prayer per target per Scene. **With Pure Martyrdom:** 3 Locked Stress clears 2 Wound Slots.
+- **The First Ward** *(Common, 1 Locked Stress, Activation / Reactor, self, Flowing)* — Pass: SV 1 against the next hostile Strike or spell. Tithe each Activation to keep it Flowing (Fail = 1 Encroachment). Drops the instant he is Wounded or knocked Prone.
+- **Elara's Comfort** *(Mercy, 1 Locked Stress, Activation, one ally, touch)* — Pass: the target clears 2 Dissonant Stress. Fail: as Pass + 1 Encroachment. Snake Eyes: the Stress still clears; 1 direct Wound on him, Encroachment resets.
+
+### Combat Math Quick-Ref
+Strike (Mace) 2d6+3, Impact = Margin+2, **Bash** (+1 Dissonant on a Glancing Hit) | Block 2d6+1 (lose: Round Shield's SV 2 comes off Impact first, then WT 8) | Parry 2d6+3 | Brace 2d6+1 | Dodge 2d6+0 | Tithe of Will 2d6+2 (72.2% to pass TN 8) | Resolve 2d6+1 | Medicine 2d6+1 | Activation Order 6
+
+### Advancement Plan — Milestone 0 → Milestone 4 (12 DP)
+The Zealot road ends at **Martyr's Furnace** — taking an ally's Wound onto himself — the Weeping Martyr's whole faith in one feat.
+
+| Milestone | Standing | Spend (3 DP each) | Unlocks |
+|---|---|---|---|
+| 1 | Blooded | **Litany of Nails** (Tier 2: Will 2 ✓, Faith 2 ✓, a Tier 1 ✓) | Each passed Flowing Tithe deals 1 Dissonant Stress to an engaged enemy who hears him |
+| 2 | Blooded | Faith 2 → 3 (1 DP), bank 2 | Tithe 2d6+3 (83.3%) |
+| 3 | Veteran | Will 2 → 3 (5 DP) | Stress Limit 10; Faith and Resolve ceilings 6 |
+| 4 | Veteran | **Martyr's Furnace** (Tier 3: Will 3 ✓, Faith 3 ✓, Litany of Nails ✓) | 2 Momentum: an ally's Wound becomes his. If it Incapacitates him, every ally in sight clears all Stress |
+
+*Alternative Tier 2:* **The Weight of Guilt** (Inquisitor; Will 2, Faith 2, Melee 1 — all met) Anchors an enemy who has Wounded an ally. It is the stronger pure-melee buy at Milestone 1, but it leads to Penance Engine, not Martyr's Furnace.
+
+### Beneath the Numbers
+- **Motivation to Survive (6):** Spite. The steward, the factor and the fever have all tried to keep him in Barleywick's ground. He will not give them the satisfaction.
+- **Connection to the World (5):** Mother Marra taught him the laying-on, then told the steward's man where to find him when he came asking. She is still at the House of Mercy, and still revered.
+- **Deeply Held Secret or Shame (4):** Something answered once when he prayed. It was not what the House says answers. He has never told anyone what it asked for in return.
+- **How They See the World (2):** Mercy is a debt the weak can never repay. He gives it anyway — and he keeps count.
+
+### Backstory
+Elrid was born a bound tenant in Barleywick, on the Barley Flats, in a village that has not been out of debt to the Millhaven factors in living memory. Tenants may not leave the land without the steward's leave. At sixteen he left anyway, riding the last ebb into the bay head on a grain barge out of Millhaven.
+
+The House of Mercy in the Artisan Quarter took him in because he was big, and because a hospice needs someone to hold the screaming still. He carried the dying, kept the door on Elara's Walk, and learned the laying-on from Mother Marra. The Docks call him a White Sister. He stopped minding years ago.
+
+When the steward's man came down the river asking for a runaway tenant, Marra told him which ward to look in. Elrid went out over the hospice roof. He still wears the habit and keeps the vows, but he heals outside the House now — wherever the hurt is, and for whoever stands beside him when it happens.
+
+### Table Notes
+- **Melee first, Faith second, by design.** Strike and Parry are 2d6+3; the Tithe is 2d6+2, so a quarter of his prayers (25%) fail and run up the tab. At Green he is a mace-and-shield line-holder who heals between exchanges, not a caster who fights.
+- **The Mercy Price lands on his patients, not on him.** When the tab comes due he *clears* 1 Locked Stress, and whoever he healed last gains a Grey. That is almost always a fellow PC. The cheapest Price for the Priest is the most expensive one for the party, and it gives a Mercy Priest less reason than any other Domain to raise Faith. Watch whether players notice who is paying.
+- **The Physical Anchor fights a melee Priest.** The First Ward drops the moment he takes a Wound or goes Prone, and so does every Flowing Prayer he will own later. Litany of Nails (Milestone 1) and Zeal both need a Flowing Prayer to stay up, and the front line is where Flowing Prayers fall. His WT 8 and SV 2 shield buy them time.
+- **Pure Martyrdom is the most efficient healing in the new roster.** Three Locked Stress clears two Wound Slots. Three such castings (9 Locked) fill his Stress Limit of 9 exactly, so the third one Breaks him — and none of it clears at a Breather. Long Rests, the Reprieve (+1 from Stoic Resolve) and Downtime are his only ways back.
+- **Momentum Bank 3 is the cap Martyr's Furnace has to fit inside.** It costs 2, so he can hold it ready — but only just. He has no Momentum engine on the sheet; Tactical Assessment and the natural 12 are his sources.
+
+**Rules seams this sheet exposed:**
+- **Bless** (Common Prayer) grants **+1 to the target's next Clash** — a flat roll bonus. Modifiers are a last resort rather than banned, so the question is only whether a creative effect would do the job better (Advantage on the next Clash, say, or a Momentum on a win). It is not on this sheet.
+- **The First Ward's SV 1** reads "against the next hostile Strike or spell". Does that one SV last while it Flows, or is it spent on the first attack? The text supports both.
+- **Chainmail's Activation Order penalty.** Hardware's armour note says Chainmail costs "−1 Activation Order"; the **Bulky** tag itself lists only Athletics, Stealth and Arcana. This sheet follows the tag (no AO penalty).
