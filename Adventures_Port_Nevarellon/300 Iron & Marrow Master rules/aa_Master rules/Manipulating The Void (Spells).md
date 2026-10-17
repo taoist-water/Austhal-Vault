@@ -999,7 +999,7 @@ The caster offers their own physical substance to the entities in the void in ex
     
 - Margin 0–2 (Messy): The void takes more than offered. The caster suffers the Wound AND 1 Dissonant Stress, but the target instantly gains 2 Momentum.
     
-- Margin 3–4 (Clean): The caster suffers the Wound, and the target's next roll automatically counts as rolling a Natural 12 (triggering the exploding dice mechanic and a massive Margin), without having to roll.
+- Margin 3–4 (Clean): The caster suffers the Wound, and the target's next roll automatically counts as rolling a Natural 12 — **a total of 12 before Skill, Fate's Bounty's 2 Momentum, and whatever Margin that produces** — without having to roll.
     
 - Margin 5+ (Massive): The void is satiated by the blood. The caster suffers the Wound, but the entire party immediately clears all Dissonant Stress.
     
@@ -2054,7 +2054,7 @@ Aurelius never needed a sword drawn to win an argument. He simply made sure no o
 - **Action Type:** Free Reaction (triggered immediately after ANY character or enemy rolls 2d6, but before the GM declares the Impact or outcome)
 
 **The Tithe Ladder:**
-- Pass: The rolled dice are completely ignored. The roll is treated as if exactly a 7 was rolled (7 + Attribute + Skill). This explicitly overrides and prevents both Fates' Bounty (double 6s) and Snake Eyes (double 1s) on the triggering roll.
+- Pass: The rolled dice are completely ignored. The roll is treated as if exactly a 7 was rolled (7 + Attribute + Skill). This explicitly overrides and prevents both **Fate's Bounty** (double 6s) and Snake Eyes (double 1s) on the triggering roll.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: Convert the Locked Stress cost into direct Wounds, capped at 3 per the Toll in Flesh rule, and reset the Priest's Encroachment to 0. The override still occurs regardless.
 

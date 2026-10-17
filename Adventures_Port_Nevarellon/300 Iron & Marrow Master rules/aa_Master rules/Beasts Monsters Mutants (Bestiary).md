@@ -216,7 +216,7 @@ _**Fanatical:** Immune to being Intimidated.
 **Unstable Volatility**
 - A creature bloated with volatile arcane radiation, alchemical compounds, or demonic instability.
     
-- If this creature is struck by a Fates Bounty(meaning the attack roll against it was a Fates bounty), or if it rolls Snake Eyes (fumbles) on its own action, its containment ruptures. All characters (allies and enemies alike) within a 10ft radius must defend against an immediate burst of raw energy, taking 2 points of Locked Stress (if magical) or Dissonant Stress (if alchemical/fire).
+- If this creature is struck by a **Fate's Bounty** (meaning the attack roll against it was a natural double 6), or if it rolls Snake Eyes (fumbles) on its own action, its containment ruptures. All characters (allies and enemies alike) within a 10ft radius must defend against an immediate burst of raw energy, taking 2 points of Locked Stress (if magical) or Dissonant Stress (if alchemical/fire).
     
 **Skittish**
 - An animal that has not been broken to violence. The default state of any beast that is not a predator or specifically trained.

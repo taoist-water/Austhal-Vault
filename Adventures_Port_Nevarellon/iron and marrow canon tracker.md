@@ -14,6 +14,10 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-17 — Dilly Marrowick (Name Tables #44)
+- **Dilly Marrowick** (Name Tables #44, now allocated) is the second PC of the new Iron & Marrow roster: a Muddy Docks-born halfling thief who sells through **Lidda Shoon** at the Rusty Tankard. Her Grimoire is a foreign book lifted from a carrack in the Basin, in a hand nobody in the Docks can read; where Arcana comes from on the coast stays open.
+- New minor cast: **Wenna Marrowick**, her sister, on a Debt-Bond off the debtors' hulks.
+
 ### 2026-10-17 — Minor cast (205 NPCs)
 - New Cast folder **205 NPCs** for named minor NPCs who fit anywhere — names from PC backstories, epigraphs and one-off scenes — recorded thinly with open hooks. Conventions and the entry list in `205 NPCs/_Minor Cast Index`.
 - First entries, from the backstory of the PC **Tass Blackrun** (Cinder Row day-hand, Human, born 31 A.A.): **Rilla Bask** (Name Tables #12, now allocated; dead) and **Lassen Blackrun** (her brother).
@@ -399,6 +403,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Chapter-Warden *(name to be set)* | Guild of Alchemists (PN chapter) | Head of the Port Nevarellon chapter | N | The Guild of Alchemists | — |
 | Rilla Bask | — (Foundry Slips) | Fish-smoker, smoker's lungs; died in a Slips smokehouse fire. GM-facing: Tass Blackrun ran, Rilla went back in | N | 205 NPCs/Rilla Bask.md; Name Tables #12 | Dead |
 | Lassen Blackrun | — (Cinder Row) | Tass Blackrun's younger brother; third-generation Corvus refugee, Tidespoken devotional name; next in line for her Iron-Anchor debt | N | 205 NPCs/Lassen Blackrun.md | Alive. Age, work and family open |
+| Wenna Marrowick | — (debtors' hulks, Foundry Slips) | Halfling; Dilly Marrowick's older sister; on a Debt-Bond that began as a Syndicate loan for marsh-fever medicine. GM-facing: Dilly informed for the Watch to cut a year off it | N | 205 NPCs/Wenna Marrowick.md | Alive. Bond holder open |
 
 ---
 

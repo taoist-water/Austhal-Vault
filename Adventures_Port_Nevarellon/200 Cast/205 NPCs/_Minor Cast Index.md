@@ -19,6 +19,7 @@ Conventions for every note in this folder:
 |---|---|---|---|---|
 | [[Rilla Bask]] | A | Fish-smoker of the Foundry Slips; died in a smokehouse fire | Tass Blackrun (PC backstory) | Dead |
 | [[Lassen Blackrun]] | A | Tass Blackrun's younger brother, Cinder Row; next in line for her debt | Tass Blackrun (PC backstory) | Alive |
+| [[Wenna Marrowick]] | E | Dilly Marrowick's older sister; bonded labour off the debtors' hulks | Dilly Marrowick (PC backstory) | Alive |
 
 ## 🔗 Connected Notes
 [[Reference - Name Tables]] · [[iron and marrow canon tracker|Canon Tracker]] · [[The Sunken Ward]] · [[The Foundry Slips]]

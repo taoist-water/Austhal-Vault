@@ -103,7 +103,7 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 41  | Marren Loweb       | E    | *(allocated — canon: one of the Seven; elf scholar, d. ~8 A.A.)*       |
 | 42  | Poppet Crool       | E    | Halfling; runs fish-traps at Two Cages                                 |
 | 43  | Hob Sanderby       | E    | Halfling; net-mender who fences stolen cargo on the side               |
-| 44  | Dilly Marrowick    | E    | Halfling; Muddy Docks-born, never seen the reefs her name comes from   |
+| 44  | Dilly Marrowick    | E    | *(allocated — PC: halfling thief, Muddy Docks-born, never seen the reefs her name comes from → The Meat; sister Wenna → 205 NPCs)* |
 | 45  | Morrac             | F    | Half-orc; single name, Twelgorn-branded, works the Basin cranes        |
 | 46  | Ghesk              | F    | Half-orc; took a Blue-Cloak commission and is despised by both sides   |
 | 47  | Macculla           | F    | Half-orc; Maccorrack's register, no known relation                     |

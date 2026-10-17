@@ -31,7 +31,7 @@
 		  Impact (when attacking).
 		- Impact is compared to the losers Wound Threshold.
   	    
-- **Fates Bounty (double 6s):** When a natural double 6 is rolled, the player (or Elite/boss NPC)  rolls an additional die and adds it to the total. This is only done once.
+- **Fate's Bounty (double 6s):** When a natural double 6 is rolled, the roller immediately banks **2 Momentum** (see *Gaining Momentum — The Engine Pillar*). **No die explodes and nothing is added to the total** — the reward is the resource, not a bigger number. Available to players and to **Elite-tier NPCs and above**; Fodder and Grunts never earn from a Clash.
 - **Snake Eyes (natural 2):** Automatic failure. The character immediately suffers 1 Stress, and additional contextual penalties.
 - **Desperate Edge is not a universal Core Rule.** A lone natural 6 on a 2d6 check is just a 6 — no exploding die — unless the roller has the **Desperate Edge** Feat (Tier 1, see The Marrow, Feats). A character without that Feat gets nothing extra here, no matter how desperate their situation is.
 
@@ -110,11 +110,11 @@ Each player maintains a personal bank capped at **4 + Reflex**.
     
 - Exploration: Exceeding an unopposed Target Number (like TN 8 for picking a lock or scaling a wall) by a Margin of 5+ (1 Momentum).
     
-### 2. The Engine Pillar (The Exploding Dice)
+### 2. The Engine Pillar (Fate's Bounty)
 
-Because the 2d6 engine only explodes on a Natural 12, that moment is already mechanically rare and highly celebrated at the table.
+A Natural 12 is the rarest thing 2d6 does — one roll in 36 — so the moment is already celebrated at the table. It pays in Momentum rather than in a bigger total: **no roll in Iron & Marrow explodes on its own**, and the only exploding die left in the game belongs to the **Desperate Edge** feat.
 
--  The Trigger: Anytime a player rolls a Natural 12 (Double 6s) on any check—whether it is a Strike, a Parry, or a lore check—they instantly generate 2 Momentum, regardless of the final Margin. It mathematically reinforces that "perfect luck" fuels their adrenaline. This CAN compound with a Massive Success margin (5+) for 3 momentum off 1 roll.
+-  The Trigger: Anytime a player — or an **Elite-tier NPC or above** — rolls a Natural 12 (Double 6s) on any check, whether a Strike, a Parry or a lore check, they instantly generate **2 Momentum**, regardless of the final Margin. It mathematically reinforces that "perfect luck" fuels their adrenaline. This CAN compound with a Massive Success margin (5+) for **3 Momentum off one roll** — against a Bank of `4 + Reflex` that is most of a Reflex 0 character's capacity in a single roll, so a near-full Bank is a reason to spend before pushing.
     
 ### 3. The Sacrificial Pillar (The Desperate Push)
 
