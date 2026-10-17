@@ -14,6 +14,11 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-17 — Skell (Name Tables #50)
+- **Skell** (Name Tables #50, now allocated) is the third PC of the new Iron & Marrow roster: a half-orc escaped Twelgorn slave whose company of six was run down by Retrievers in the Grey Veins; he came out of the Silt at **Fenmouth** alone and refused the toll post's Bond of Service. He hauls Iron-Burl and poles for the guides there, and lately carries out the bodies the marsh gives back alongside Morgran.
+- **Fenmouth detail, first time on paper:** the guide-stage, the Council clerk with a Bond of Service ready for every southerner (Law - The Council's Edicts, the Hook), log-hauling off the timber rafts. Still no Fenmouth file.
+- Open: the slaver who named him; the five who went down; whether any of them are among the Lost.
+
 ### 2026-10-17 — Dilly Marrowick (Name Tables #44)
 - **Dilly Marrowick** (Name Tables #44, now allocated) is the second PC of the new Iron & Marrow roster: a Muddy Docks-born halfling thief who sells through **Lidda Shoon** at the Rusty Tankard. Her Grimoire is a foreign book lifted from a carrack in the Basin, in a hand nobody in the Docks can read; where Arcana comes from on the coast stays open.
 - New minor cast: **Wenna Marrowick**, her sister, on a Debt-Bond off the debtors' hulks.

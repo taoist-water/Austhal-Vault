@@ -122,3 +122,71 @@ Two winters ago she got into the Basin without a work-token and out of a foreign
 - **The sling harasses; it does not kill.** At Power 0, Impact is the Margin alone, so against a WT 5 Grunt she needs to win by 5 to Wound. Most hits are Glancing (1 Dissonant Stress). Against NPCs' binary Stress, each tick still moves them toward a Break.
 - **The hands problem.** Casting needs the Grimoire in one hand and the other free; the sling also needs a hand. Drawing from the Belt is a Free Action, but the rules have no clear cost for putting a held item away. Run a cast-then-shoot turn at the table and see how it plays.
 - **WT 4 is the floor of the new roster.** One Grunt hit at Margin 2+ with a Power 2 weapon Wounds her. Her defence is Dodge 2d6+1, the −1 Scale penalty on attackers, and not being seen.
+
+---
+
+## Skell — Half-Orc Male, Berserker (Barbarian)
+
+*"The Silt took five of us. It can try for the sixth."*
+
+### Vital Statistics
+- **Species:** Half-Orc
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 3 | Reflex 1 | Wits 0 | Will 0 *(Spike array)*
+- **Skills:** Melee 3 | Prowess 2 | Resolve 2 | Athletics 1 *(8 ranks, 8 DP. Ceilings: Melee/Athletics/Prowess/Block 6 (Brawn 3); Acrobatics/Stealth/Ranged/Thievery/Ride 4 (Reflex 1); everything under Wits or Will 3)*
+- **Wound Threshold:** 7 *(4 base + 3 Brawn + 0 — no armour, by choice)*
+- **Stress Limit:** 4 *(4 base + 0 Wits + 0 Will — Half-Orcs carry no Stress bonus)*
+- **Wound Slots:** 3 | **Momentum Bank:** 5 *(4 + Reflex 1)* | **Activation Order:** 6 *(6 + Reflex 1, −1 Cumbersome)*
+- **Inventory Slots:** 11 *(8 + 3 Brawn)* — 5 used
+
+### Species Traits (Half-Orc)
+- **Blood Frenzy:** Suffering a Wound instantly clears 1 Dissonant Stress.
+- **Menacing:** Advantage on Influence checks to intimidate anyone smaller or weaker.
+- **Outcast (Drawback):** Disadvantage on social checks with civilized strangers who don't know him.
+
+### Feats
+- **Desperate Edge** *(Resolve 1 — Creation)*: when exactly one die of a 2d6 check shows a 6 while he is desperate — 2+ Dissonant Stress (half his Stress Limit), or on his final Wound Slot — that die explodes: roll another d6 and add it. Since 17 Oct this is the only exploding die in the game.
+- **Iron Grip** *(Melee 1 — Creation)*: when a Clash ties and the weapons bind, he automatically banks 1 Momentum. His Momentum engine until Red Mist needs feeding.
+
+### Equipment
+- **Armour:** None, deliberately. In the Silt an armoured man drowns within the hour, and from Milestone 1 Bareback Brawler pays him for going without.
+- **Weapon (one 2H item):** Greataxe (Power 5, 2H, Heavy Hitter, Cumbersome, Scarce) — a feller's axe for Iron-Burl. Legal in Council country only while he is working or walking to work (Contextual Carry).
+- **Starting Purse: 80 sp** — Greataxe 45 + 2× Grave-Dust Poultice 16 + Hemp Rope 2 + Bedroll 2 + Waterskin 1 = **66 sp spent, 14 sp remaining.** A cold-iron nail on a cord, as the Fenmouth guides wear (flavour; no rules effect).
+- **Belt:** Greataxe (2), Poultices (1). **Pack:** Rope, Bedroll.
+
+### Combat Math Quick-Ref
+Strike (Greataxe) 2d6+3, Impact = Margin+5, **Heavy Hitter** (a natural 6 counts as 7 and still triggers Desperate Edge and the natural-12 Momentum) | **Brace 2d6+2** (win: no Impact; lose: +2 WT, so WT 9 against that hit) | Grab/Shove 2d6+2 | Dodge 2d6+0 | **No Parry** (Cumbersome) | Resolve 2d6+2 | Athletics 2d6+1 | Intimidate with Advantage (Menacing) | Activation Order 6
+
+### Advancement Plan — Milestone 0 → Milestone 4 (12 DP)
+Every feat on the Berserker road is gated at Tier 2 or 3, so the creation build banks their prerequisites now.
+
+| Milestone | Standing | Spend (3 DP each) | Unlocks |
+|---|---|---|---|
+| 1 | Blooded | **Bareback Brawler** (Tier 2: Brawn 2 ✓, Prowess 2 ✓, a Tier 1 ✓) | WT 7 → **9** while unarmoured (11 when Bracing) |
+| 2 | Blooded | **The Red Mist** (Tier 2: Brawn 2 ✓, Resolve 2 ✓, a Tier 1 ✓) | When Wounded in melee: 1 Momentum for an instant retaliatory Strike |
+| 3 | Veteran | Athletics 2 → 3 (2 DP), bank 1 | Apex Butcher's last prerequisite |
+| 4 | Veteran | **Apex Butcher** (Tier 3: Brawn 3 ✓, Athletics 3 ✓, Red Mist ✓), 1 DP left | An incapacitating blow: 2 Dissonant Stress to every enemy within 15 ft, and convert up to 3 of his own Dissonant into Momentum |
+
+*Alternative +2 WT route:* **Juggernaut** (Tier 2, Brawn 2) spends 1 Momentum for +2 WT against one attack and stacks with Brace. It works in armour, where Bareback Brawler does not; on a man who fights bare it is the weaker buy, so it is the Milestone 5 option if he ever puts armour on.
+
+### Beneath the Numbers
+- **Motivation to Survive (2):** Five of his company followed him into the Silt, and the Retrievers caught them in the Grey Veins. He swore over the place they went down that the slaver who named him would die first. The slaver is still breathing.
+- **Connection to the World (1):** The ones who reached Fenmouth meet once a year at the Unchaining in Divtown. Fewer come each time.
+- **Deeply Held Secret or Shame (5):** The first time he killed — the overseer, the night they ran — he enjoyed it. He has spent every day since afraid it will happen again.
+- **How They See the World (6):** Trust is paid for in blood. Until someone has bled for you, they are only standing nearby.
+
+### Backstory
+Skell is not his name. It is what a Twelgorn slaver called him, and it was cut into his skin under the owners' marks before he was old enough to argue. He ran north with five others, through the marsh fringe and into the Silt, with the Retrievers a day behind. In the Grey Veins the day ran out. He came out at Fenmouth alone.
+
+The Council's clerk at the toll post had a Bond of Service ready, as they do for every southerner who walks out of the marsh. Skell did not sign it. Since then he has worked where nobody asks for papers: hauling Iron-Burl off the rafts, poling for the guides, felling when the crews are short.
+
+When the marsh gives back someone Fenmouth lost, the guides draw lots for who carries them out. Morgran never draws; he just takes the body into his skiff. Lately Skell takes the other end. He looks at every face. None of them has been one of his yet.
+
+### Table Notes
+- **Built to be hit, and paid for it in Stress.** WT 7 bare, 9 while Bracing (Brace 2d6+2), and 9 / 11 from Milestone 1. Against a Power 2 Grunt weapon, a Braced Skell needs to lose by 7 to take a Wound at Green, 9 at Blooded. The cost is a **Stress Limit of 4**, the floor of the game: two Glancing Hits and he is Winded.
+- **Desperate Edge always arrives with Winded.** Its threshold (Dissonant at half his Stress Limit) is the same line as Winded's −1, so for him both switch on at 2 Dissonant Stress. That is true of every character with the feat, not a flaw in his build. A lone 6 shows on 27.8% of 2d6 rolls, and Heavy Hitter adds +1 to that same die.
+- **Blood Frenzy pulls against Desperate Edge.** Each Wound clears 1 Dissonant, which can drop him back under the desperate line just as it is reached. His final Wound Slot is the trigger the Frenzy cannot take away. Watch which one wins at the table.
+- **Red Mist needs Momentum, and Iron Grip is his only earner until then.** Bank 5, Iron Grip on a bound Clash, the natural 12, and Tactical Assessment. Apex Butcher at Milestone 4 closes the loop by turning his own Dissonant into Momentum.
+- **No Parry, no Dodge worth the name.** Cumbersome forbids Parry and he has no Acrobatics, so Brace is his one real defence. That makes him unusually hard to lock down: Anchored, Rigor and Grappled strip Dodge and Parry, which he never uses, and leave Brace standing. What hurts him is Prone — Disadvantage on every Clash, Brace included.
+- **Outcast and Menacing pull the same way.** Strangers distrust him on sight (Disadvantage), and he is better at frightening them than persuading them (Advantage). In Council country his Twelgorn marks are a story every clerk can read.

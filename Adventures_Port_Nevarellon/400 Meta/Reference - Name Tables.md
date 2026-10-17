@@ -109,7 +109,7 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 47  | Macculla           | F    | Half-orc; Maccorrack's register, no known relation                     |
 | 48  | Orrun Nine-Fingers | F    | Orc; born free in the Wastelands, here on business                     |
 | 49  | Vessa Mac Torrig   | F    | Half-orc; *Mac* prefix claimed deliberately as invented lineage        |
-| 50  | Skell              | F    | Half-orc; a name a slaver gave him. He is looking for the slaver.      |
+| 50  | Skell              | F    | *(allocated — PC: half-orc, a name a slaver gave him; came out of the Silt at Fenmouth; looking for the slaver → The Meat)* |
 
 ---
 
