@@ -71,7 +71,7 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 9   | Ivet Marn          | A    | Marsh-guide; charges by the hour and lies about the tide               |
 | 10  | Sedge Cullom       | A    | Iron-Burl feller, missing three toes                                   |
 | 11  | Hallam Drey        | A    | *(allocated — canon: one of the Seven; De Vonce levy sergeant, d. ~8 A.A.)* |
-| 12  | Rilla Bask         | A    | Fish-smoker in the Foundry Slips, chronic lung damage                  |
+| 12  | Rilla Bask         | A    | *(allocated — canon: fish-smoker in the Foundry Slips, chronic lung damage; died in a Slips smokehouse fire → 205 NPCs)* |
 | 13  | Cobbet Vane        | A    | Petty forger; not related to the Archmage, and tired of the question   |
 | 14  | Thead Gurney       | A    | Stonemason; only living man who's read the Sea-Wall's original plans   |
 | 15  | Maryn Aske         | A    | *(allocated — canon: one of the Seven; midwife, Ashen Veil, d. ~8 A.A.)* |

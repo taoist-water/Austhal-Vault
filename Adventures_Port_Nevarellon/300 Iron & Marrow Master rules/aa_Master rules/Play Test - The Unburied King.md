@@ -13,7 +13,7 @@
 - **As originally drafted (Duo/Trio):** Helga Stonewright (Faith, Law Domain — the only shield/Block build) and Faelan Rook (Arcana, Shadow Sorcery — the weakest Dodge of the roster). This pairing puts a genuine Brace/shield defender and a genuine Dodge defender in the same party, which the Frost-Cave Troll fight is specifically built to test. For a third player, add **Pillit Thistlewood** (Halfling, ranged skirmisher) for a distinct action-economy role without touching the Block-vs-Dodge test.
 - **As actually dry-run tested (Trio/Quartet):** the simulated sessions below used **Bram, Helga, and Faelan** (Trio) and **+ Brynja** (Quartet) instead — not Pillit. All are valid Green pregens; the sim data further down only speaks to this cast.
 
-All pregens should be pulled directly from the current pregen roster rather than re-copied here, so this doc can't drift out of sync with them.
+These pregens now live in The Meat (Archive); pull them from there rather than re-copying them here, so this doc can't drift out of sync with them.
 
 **Structure:** Cold Open (Grunt+Fodder skirmish, with an environmental Hazard Check on approach) → **Breather 1** → Elite (Frost-Cave Troll, in a Heavily Obscured/Difficult-Terrain cave) → **Breather 2** → Boss (Halgrim the Unburied, in a Heavily Obscured chamber).
 

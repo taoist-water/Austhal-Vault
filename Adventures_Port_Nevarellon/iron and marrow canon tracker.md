@@ -14,6 +14,11 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-17 — Minor cast (205 NPCs)
+- New Cast folder **205 NPCs** for named minor NPCs who fit anywhere — names from PC backstories, epigraphs and one-off scenes — recorded thinly with open hooks. Conventions and the entry list in `205 NPCs/_Minor Cast Index`.
+- First entries, from the backstory of the PC **Tass Blackrun** (Cinder Row day-hand, Human, born 31 A.A.): **Rilla Bask** (Name Tables #12, now allocated; dead) and **Lassen Blackrun** (her brother).
+- **Blackrun** is now also a refugee surname: the family takes it from the Corvus mill village their grandmother left in 8 A.A. Unnamed and open: Tass and Lassen's mother and grandmother.
+
 ### 2026-10-11 — Law and the Sea (ground truth)
 - **The Plumb** (Purge) — Creator of the true line; named the Judge; **kept the Purge's list** of beings strayed past restoring. Behind Law. Its current holds things to their record (the Binding Oath is real) and can only strike what fails the measure — **the Court of Nullity is the current's own shape**. It takes **whatever is not written down**: long-serving devotees cannot hold the unrecorded in view. Aurelius was real, from the old empire. Mote: the young Arbiters, and Merrit Dray, who keeps the Register but has never recited at volume.
 - **The Ebb** (Alliance) — Creator of the going-out; carried every thing toward the turn; individuation made it the one current that always wins. Sided with the mortals, and against the Unmoving. Behind Sea & Storms. Its current moves things on. **The Tidespoken hatred of still water is the current's own grudge** — the fey pooled where it could not reach. It takes **whatever you hold**: the clergy's refusal of title is the current, and the vow came after. Mote: what slips from a Tongue's hands goes in the pot.
@@ -392,6 +397,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Suse Kellard · Nell Stroud | Foundry Slips · Muddy Docks | Rope-walk foreman, Shipwrights' stamp · cookshop widow (epigraph voices) | — | Thole; Kress; Name Tables; Guilds framework | Allocated from Name Tables |
 | Halcus Rive | Guild of Alchemists (PN chapter) | Assessor; licenses every Brine-Glow lantern | N | The Guild of Alchemists; Name Tables #26 | Alive; no file |
 | The Chapter-Warden *(name to be set)* | Guild of Alchemists (PN chapter) | Head of the Port Nevarellon chapter | N | The Guild of Alchemists | — |
+| Rilla Bask | — (Foundry Slips) | Fish-smoker, smoker's lungs; died in a Slips smokehouse fire. GM-facing: Tass Blackrun ran, Rilla went back in | N | 205 NPCs/Rilla Bask.md; Name Tables #12 | Dead |
+| Lassen Blackrun | — (Cinder Row) | Tass Blackrun's younger brother; third-generation Corvus refugee, Tidespoken devotional name; next in line for her Iron-Anchor debt | N | 205 NPCs/Lassen Blackrun.md | Alive. Age, work and family open |
 
 ---
 

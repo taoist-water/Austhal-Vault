@@ -1,0 +1,1013 @@
+# The Meat — Archive (roster to 17 Oct 2026)
+
+*Archived 17 Oct 2026. Everything below — every character sheet, Table Note, Advancement Ledger and Design Note — is the previous roster from The Meat (Player Characters), moved here unchanged when the roster was restarted. Nothing was deleted or edited in the move. These sheets were built against earlier versions of the rules and are not maintained: treat their numbers as a historical record, not as current rules. Known stale points at the time of archiving: Helga's and Bram's purses price the Kite Shield at 18 sp (Hardware now lists 25 sp); Maren's Battlefield Orator reads 1d6 / −2 (The Marrow now reads 1d3 / Disadvantage); the Arcane Awakening sheets carry four Grimoire spells.*
+
+---
+
+*Every character below is tagged with a Standing (Green / Blooded / Veteran / Hardened / Storied) and a Milestone count. Full definitions live in The Marrow, Character Creation, under "Milestone Standing — Tracking Advancement." Short version: Milestone count is the exact, countable number of 3-DP Milestone Rewards a character has received; Standing is the shorthand band over that count, for table talk only — it gates nothing by itself.*
+
+---
+
+# Green
+
+## Helga Stonewright — Dwarf Female, Faith Caster (Law Domain)
+
+*"The law doesn't need your permission to apply to you."*
+
+### Vital Statistics
+- **Species:** Dwarf
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 1 | Reflex 0 | Wits 0 | Will 3
+- **Skills:** Faith 3 | Resolve 1 | Influence 2 | Melee 1 | Block 1 *(8 ranks, 8 DP. Ceilings: Faith/Resolve/Influence 6 (Will 3); Melee/Block 4 (Brawn 1))*
+- **Wound Threshold:** 8 *(4 base + 1 Brawn + 2 Chainmail/Scale + 1 Stone-Bones)*
+- **Stress Limit:** 9 *(4 base + 0 Wits + 3 Will + 2 Stoic Resolve feat)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 0)* | **Activation Order:** 6 *(6 + Reflex 0)*
+- **Inventory Slots:** 9 *(8 + 1 Brawn)*
+
+### Species Traits (Dwarf)
+- **Stone-Bones:** +1 Wound Threshold (already applied above).
+- **Subterranean Senses:** Advantage on Notice checks underground or examining stonework/engineering.
+- **Stumpy (Drawback):** Disadvantage on Athletics checks during chases or open-ground sprints.
+
+### Feats
+- **Divine Conduit — The Covenant, Domain of Law.** Grants a Holy Symbol, the **Smite Corruption** Domain Tag (targeting Undead/Daemons/Mutants treats their Wound Threshold as 1 lower), and the 4 Novice Prayers below.
+- **Stoic Resolve** *(Will +2, Resolve +1)*: +2 Stress Limit (already applied above). When taking the Reprieve action, or spending Momentum on Adrenaline Flush, clear 1 extra point of the relevant Stress type.
+
+### Equipment
+- **Armour:** Chainmail/Scale (+2 Armour, Medium, **Bulky** — -1 Athletics/Stealth/Arcana; doesn't touch Faith, so this costs her nothing she was using)
+- **Weapons/Shield (two 1H items):** Mace (Power 2, Bash) + Kite/Round Shield (4 SV, **Cover** — Advantage on defense vs. ranged)
+- **Holy Symbol** (granted by Divine Conduit — outside the purse)
+- **Starting Purse: 80 sp** — Chainmail/Scale 45 + Mace 8 + Kite Shield 18 = **71 sp spent, 9 sp remaining.** 2 sp on a bedroll, 3 sp on a hooded lamp (Dwarven habit — always carry your own light underground), 4 sp in her pocket. She took the Bulky armour over the Chain Shirt deliberately: 5 sp cheaper, and the -1 it costs lands on Athletics, Stealth, and Arcana, none of which she uses. Her Faith is untouched.
+
+### Prayers (Tithe of Will = 2d6 + Faith = **2d6+3**, vs. TN 8 Novice)
+- **The Architect's Decree** — 1 Locked Stress, Free Reaction (an enemy tries to Move or leave your Threat Zone). Pass: target instantly Anchored, speed drops to 0 for the round — bypasses saves entirely. Fail: as Pass + 1 Encroachment.
+
+- **Sanctuary of the Zenith** — 1 Locked Stress, Activation, 3x3 zone, Scene duration. Pass: no character inside can gain Advantage or Disadvantage on any roll — Flanking, Obscurement, Prone penalties all suppressed. Fail: as Pass + 1 Encroachment.
+
+- **Writ of Protection** — 1 Locked Stress, Free Reaction (an enemy declares an attack on a warded ally). Pass: the attack is forbidden from targeting them — redirects or is wasted. Fail: as Pass + 1 Encroachment.
+
+- **The Binding Oath** — 1 Locked Stress, Activation, touch, one willing character. Pass: the target's spoken promise is bound — knowingly breaking its letter costs them 2 Dissonant Stress. Fail: as Pass + 1 Encroachment.
+
+### Table Note
+The auto-pass ceiling previously flagged here is gone. Under the restructure the Tithe of Will is 2d6 + Faith, and Faith 6 costs 9 DP against a creation budget of 8 — unreachable at Green by arithmetic. At Faith 3 she passes a Novice Prayer (TN 8) 83% of the time, and the dice are live at every tier. Will 3 has not stopped mattering: it sets her Faith ceiling at 6 and feeds her Stress Limit of 9, which is what lets her absorb the Locked Stress her Domain runs on. The old ceiling now returns only at Faith 6, a Storied purchase.
+
+### Combat Math Quick-Ref
+Tithe of Will 2d6+3 | Strike (Mace) 2d6+1, Impact = Margin+2 | Block 2d6+1 (modest; if lost, Kite Shield's SV 4 subtracts from Impact before comparing to her WT 8) | Dodge 2d6+0 (she blocks, she doesn't dance) | Resolve 2d6+1 | Influence 2d6+2 | Activation Order 6
+
+---
+
+## Faelan Rook — Half-Elf Male, Arcana Caster (Shadow Sorcery)
+
+*"Everyone assumes the smiling half-breed is the safe one to talk to. That's rather the point."*
+
+### Vital Statistics
+- **Species:** Half-Elf (Split Heritage: took Fey Reflexes, and its paired Hollow-Boned drawback)
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 1 | Wits 3 | Will 0
+- **Skills:** Arcana 3 | Stealth 1 | Acrobatics 1 | Notice 1 | Insight 1 | Thievery 1 *(8 ranks, 8 DP. Ceilings: Arcana/Notice/Insight 6 (Wits 3); Stealth/Acrobatics/Thievery 4 (Reflex 1))*
+- **Wound Threshold:** 4 *(4 base + 0 Brawn + 1 Leather - 1 Hollow-Boned)*
+- **Stress Limit:** 7 *(4 base + 3 Wits + 0 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 5 *(4 + Reflex 1)* | **Activation Order:** 7 *(6 + Reflex 1)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)*
+
+### Species Traits (Half-Elf)
+- **Silver-Tongued:** Advantage on Influence checks to persuade, de-escalate, negotiate, or gather information.
+- **Fey Reflexes** *(chosen Split Heritage trait)*: Advantage on Acrobatics checks vs. hazards, traps, AoE.
+- **Between Worlds (Drawback):** Disadvantage on Influence in insular/xenophobic communities.
+- **Hollow-Boned (Drawback, comes with Fey Reflexes):** -1 Wound Threshold (already applied above).
+
+### Feats
+- **Arcane Awakening** *(Paradigm: Shadow Sorcery)*. Grimoire below — three picks in-Paradigm, the fourth drawn from the Common list (every Paradigm sits at exactly 3 Novice spells, so this is now true of every Arcane Awakening character, not a gap specific to him).
+- **Whispers in the Dark** *(Stealth +1, Notice +1)*: While successfully hidden, Advantage on Notice checks to eavesdrop, read lips, or observe details without breaking cover.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light — no Arcana penalty)
+- **Weapons (two 1H items):** Grimoire (Repository — granted by Arcane Awakening, outside the purse) + Dagger (Finesse — reroll a natural 1 in a Clash; with Melee 0 he is rerolling into a +0 either way, but it is free)
+- **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining.** 5 sp on a signet ring (a different name and seal in every city, which is rather the point), 2 sp on ink/paper/sealing wax, 16 sp on 2 Grave-Dust Poultices (Field Medicine — Full Action, instantly clears 1 filled Wound Slot; Athletics TN 8 or 1 Dissonant Stress), 40 sp banked. The lightest kit on the roster buys the deepest pockets — which for a confidence man is not a consolation prize, and now buys him a little insurance too.
+
+### Grimoire (Arcana = **2d6+3**)
+- **Deflection** *(Paradigm, Mastery-eligible)* — **Reactor only; never raised in advance.** Arcane Clash (Arcana) opposed against the incoming attack, **self only**, **Scene** duration — it stands until the next Breather or a lost Clash, and is **not** a Sustain effect, so it needs no maintenance roll and doesn't occupy the Channelling slot. Margin 0–2 *(a tie counts here)*: attack deflected, 1 Dissonant Stress. Margin 3–4: deflected at no cost, and attacks against him take −2 while it stands. Margin 5+: as Clean, but the penalty is full Disadvantage. **Lose the Clash and the attack lands for full Impact with no mitigation — no Shield Value, no armour — and the ward falls.**
+
+- **Stitch the Silhouette** *(Paradigm, Clash-resolution, Mastery-eligible)* — Arcane Clash vs. Prowess, Short Range, Aggressor. Margin 1–2: target Anchored until they tear free (1 Dissonant Stress to themselves doing so); costs Faelan 1 Dissonant Stress. Margin 3+ (Clean, or Mastery-upgraded from 1–2): as above, and target also loses Dodge as an option until free — no cost.
+
+- **Flicker-Step** *(Paradigm, Mastery-eligible)* — Unopposed vs. TN 8, Self, 30ft teleport, ignores Threat Zones entirely. Margin 0–2: teleports, but arrives gasping — 1 Dissonant Stress. Margin 3–4: silent and flawless. Margin 5+: also generates 1 Momentum or grants Advantage on his next Strike.
+
+- **Havoc** *(Common, not Mastery-eligible)* — Arcane Clash vs. each target's Prowess + Athletics/Acrobatics, 10ft radius, Short Range, Aggressor. Margin 1–2: target pushed 5ft and takes 1 Dissonant Stress; he also takes 1 Dissonant Stress from the strain. Margin 3+ (Clean): target pushed 10ft, knocked Prone, and takes 1 Dissonant Stress.
+
+### Combat Math Quick-Ref
+Arcane Clash/Manifestation 2d6+3 (incl. Havoc) | Dagger Strike 2d6+0 *(Melee 0; Finesse lets him reroll a natural 1)* | Dodge 2d6+1 | Notice 2d6+1 | Activation Order 7
+
+---
+
+## Pillit Thistlewood — Halfling Female, Ranged Skirmisher
+
+*"By the time you hear the string, I'm already three trees away."*
+
+### Vital Statistics
+- **Species:** Halfling — **Size:** Small (Scale -1)
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 3 | Wits 1 | Will 0 *(Spike array)*
+- **Skills:** Ranged 3 | Stealth 2 | Acrobatics 1 | Notice 1 | Thievery 1 *(8 ranks, 8 DP. Ceilings: Ranged/Stealth/Acrobatics/Thievery 6 (Reflex 3); Notice 4 (Wits 1))*
+- **Wound Threshold:** 4 *(4 base + 0 Brawn + 1 Leather - 1 Scale)*
+- **Stress Limit:** 5 *(4 base + 1 Wits + 0 Will — Halflings are exempt from the Scale Stress penalty)*
+- **Wound Slots:** 3 | **Momentum Bank:** 7 *(4 + Reflex 3)* | **Activation Order:** 12 *(6 + Reflex 3, +3 Quick)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)*
+
+### Species Traits (Halfling)
+- **Underfoot:** Advantage on Stealth with cover, obscurement, or moving through a larger creature's space.
+- **Halfling Luck:** Once per session, ignore a Fumble's Stress penalty entirely (the action still fails).
+- **Small Stature (Drawback):** Cannot wield weapons carrying the Cumbersome tag. (Shortbow isn't Cumbersome, so this is legal.) Also exempt from the Scale −1 Stress Limit penalty, see The Marrow.
+
+### Feats
+- **Quick** *(Reflex 1)*: +3 to your Activation Order — shoot and reposition before melee closes the gap.
+- **Shadow-Weaver** *(Stealth 1)*: Ignores the Rushed penalty for moving quickly while trying to stay hidden — kite and re-hide in the same turn without a Stealth tax.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light — keeps Stealth/Acrobatics clean)
+- **Weapon (one 2H item):** Shortbow (Power 2, **Volley** — requires both hands, no Shield or Grimoire while wielding it)
+- **Starting Purse: 80 sp** — Leather 12 + Shortbow 15 = **27 sp spent, 53 sp remaining.** 4 sp on a bag of Caltrops (scatter them behind her while kiting), 2 sp on hemp rope, arrows and a spare bowstring, **47 sp in reserve.** Light armour and a cheap weapon is the archer's bargain: she is buying range instead of Wound Threshold, and the purse lets her buy a great deal of everything else with the difference.
+
+### Combat Math Quick-Ref
+Ranged Strike 2d6+3, Impact = Margin+2 (Shortbow) | Dodge 2d6+1 | Stealth 2d6+2 | Activation Order 12 (Quick)
+
+**Table note:** Firing while an enemy occupies her own 5 ft Threat Zone imposes Disadvantage on the shot (Metal meet Flesh — Ranges), and the **Shortbow is 2H with no Sidearm tag**, so she has no item answer to it. Quick and Shadow-Weaver both exist to keep her out of that situation rather than to fight out of it. **Hipshot** (Tier 1; Ranged 1 ✓, Reflex 1 ✓) is the feat that buys the answer outright, and is the obvious first Milestone purchase.
+
+---
+
+## Vrenna Ashfist — Half-Orc Female, Arcana Caster (Pyromancy)
+
+*"Fire doesn't ask permission to burn. Neither do I."*
+
+### Vital Statistics
+- **Species:** Half-Orc
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 1 | Reflex 0 | Wits 3 | Will 0 *(Spike array)*
+- **Skills:** Arcana 3 | Melee 1 | Athletics 1 | Notice 1 | Insight 1 | Resolve 1 *(8 ranks, 8 DP. Ceilings: Arcana/Notice/Insight 6 (Wits 3); Melee/Athletics 4 (Brawn 1); Resolve 3 (Will 0))*
+- **Wound Threshold:** 7 *(4 base + 1 Brawn + 2 Chain Shirt + 0 Species)*
+- **Stress Limit:** 7 *(4 base + 3 Wits + 0 Will — Half-Orcs carry no Stress bonus of their own)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 0)* | **Activation Order:** 6 *(6 + Reflex 0)*
+- **Inventory Slots:** 9 *(8 + 1 Brawn)*
+
+### Species Traits (Half-Orc)
+- **Blood Frenzy:** Suffering a Wound instantly clears 1 Dissonant Stress.
+- **Menacing:** Advantage on Influence checks to intimidate anyone smaller or weaker.
+- **Outcast (Drawback):** Disadvantage on social checks with civilized strangers who don't know her.
+
+### Feats
+- **Arcane Awakening** *(Paradigm: Pyromancy).* Grimoire below — three picks in-Paradigm, the fourth drawn from the Common list (every Paradigm sits at exactly 3 Novice spells, so this is now true of every Arcane Awakening character, not a gap specific to her).
+- **Lethal Strikes** *(Melee 1)*: Her unarmed strikes can deal Lethal Impact and cause physical Wounds — the mechanical half of the "own knuckles" line in Wreath of Embers below; without it, her fists are just fists.
+
+### Equipment
+- **Armour:** Chain Shirt (+2 Armour, Light — no Arcana penalty)
+- **Weapons:** None carried by choice. Grimoire (Repository — granted by Arcane Awakening, outside the purse) sits in one hand; the other stays free to strike unarmed, which is exactly the hand the Casting Requirement was already demanding she keep open.
+- **Starting Purse: 80 sp** — Chain Shirt 50 = **50 sp spent, 30 sp remaining.** 3 sp on a tinderbox and oil flask she doesn't strictly need, 2 sp on bandages, 25 sp banked. Skipping a weapon entirely bought her the roster's best-armoured caster for the price — Faelan and Morwenna both sit at Wound Threshold 4; she's at 7 without spending a single silver on steel.
+
+### Grimoire (Arcana = **2d6+3**)
+- **Thermal Detonation** *(Pyromancy, Novice, Crowd Control — Creation)* — Arcane Clash (Arcana vs. every engaged enemy's Defense), 5ft radius centered on self, Spell Power 1. Margin 1–2: Impact = Margin+1, enemy thrown 5ft back out of her Threat Zone, she takes 1 Dissonant Stress. Margin 3+ (Clean): as above, enemy thrown 10ft and knocked Prone, plus 1 Dissonant Stress from the ruptured eardrums (to her).
+- **Ember Lance** *(Pyromancy, Novice, Direct Strike — Creation)* — Arcane Clash (Arcana vs. Target's Defense), Medium Range, Spell Power 2. Margin 1–2: Impact = Margin+2, she takes 1 Dissonant Stress. Margin 3+ (Clean): as above, target also suffers Disadvantage on their next Aggressor Strike.
+- **Wreath of Embers** *(Pyromancy, Novice, Weapon Ignition — Creation)* — Unopposed Arcana vs. TN 8, Activation, Scene duration, self or one weapon (she targets her own knuckles). Margin 0–2 (Messy): +1 Impact as fire for the scene, she takes 1 Dissonant Stress. Margin 3–4 (Clean): as above, no cost. Margin 5+ (Massive): the first enemy she strikes each round must also resist **Ablaze** (Iron Core) — the condition carries its own per-turn cost.
+- **Havoc** *(Common, not Mastery-eligible)* — Arcane Clash vs. each target's Prowess + Athletics/Acrobatics, 10ft radius, Short Range, Aggressor. Margin 1–2: target pushed 5ft and takes 1 Dissonant Stress; she also takes 1 Dissonant Stress from the strain. Margin 3+ (Clean): target pushed 10ft, knocked Prone, and takes 1 Dissonant Stress.
+
+### Combat Math Quick-Ref
+Arcane Clash/Manifestation 2d6+3 | Unarmed Strike 2d6+1 *(Melee; Lethal Strikes makes it count)* — Impact = Margin, or Margin+1 while Wreath of Embers is active | Dodge 2d6+0 | Notice 2d6+1 | Insight 2d6+1 | Resolve 2d6+1 | Activation Order 6
+
+### Table Notes
+- **Blood Frenzy finally meets a spellcaster.** Every Pyromancy Novice spell she owns pushes 1 Dissonant Stress on its non-Massive result — Thermal Detonation, Ember Lance, and Wreath of Embers all do it. Ox is the roster's only other Half-Orc, and he uses Blood Frenzy purely as a tank mechanic (see his Table Notes on the Blood Frenzy/Blood Price exclusivity). Vrenna is the first character where taking a Wound to clear Dissonant Stress is a caster's decision, not a brute's — she can choose to eat a hit specifically to keep casting past what her Stress Limit of 7 would otherwise allow.
+- **Pyromancy's Novice tier matches Shadow Sorcery's and Necromancy's shape — all three sit at exactly 3 Novice spells.** Under the current 4-spell Arcane Awakening (see The Marrow), that means every Arcane Paradigm forces exactly one Common-list pick at creation, Vrenna's Havoc included — this is now universal, not a gap specific to any one Paradigm the way Necromancy's old 2-spell Novice tier used to read.
+- **Unarmed strikes confirmed Power 0.** Impact = Margin (or Margin+1 while Wreath of Embers is active) — no Spell Power or weapon Power modifier stacks onto her punches beyond what the spell itself grants.
+
+---
+
+## Bram Ashcroft — Human Male, Sword-and-Board Fighter
+
+*"Let them break their teeth on my shield."*
+
+### Vital Statistics
+- **Species:** Human
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 3 | Reflex 1 | Wits 0 | Will 0 *(Spike array)*
+- **Skills:** Melee 3 | Block 3 | Prowess 1 | Resolve 1 | Notice 1 *(9 ranks, 9 DP with Adaptable. Ceilings: Melee/Block/Prowess/Athletics 6 (Brawn 3); Resolve 3 (Will 0); Notice 3 (Wits 0))*
+- **Wound Threshold:** 9 *(4 base + 3 Brawn + 2 Chainmail/Scale + 0 Species)*
+- **Stress Limit:** 5 *(4 base + 0 Wits + 0 Will + 1 Indomitable Spirit)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 1, −1 Steady Not Sharp)* | **Activation Order:** 7 *(6 + Reflex 1)*
+- **Inventory Slots:** 11 *(8 + 3 Brawn)*
+
+### Species Traits (Human)
+- **Adaptable:** +1 Skill **DP** at creation (already applied — a Human's creation Skill budget is 9, not 8).
+- **Indomitable Spirit:** +1 Stress Limit (already applied above).
+- **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap (already applied above).
+
+### Feats
+- **Iron Grip** *(Melee +1 — Creation)*: ties on a Clash where the weapons bind auto-bank him 1 Momentum — his engine for a character with no other Momentum generator.
+- **Trench Fighter** *(Brawn +1 — Creation)*: ignores Difficult Terrain's Disadvantage entirely, and drawing a weapon while engaged doesn't take the usual penalty.
+
+### Equipment
+- **Armour:** Chainmail/Scale (+2 Armour, Medium, Bulky — the Bulky penalty hits Athletics/Stealth/Arcana, and he has zero ranks in any of the three, so it costs him nothing)
+- **Weapon:** Shortsword (Power 2, Sidearm, Finesse)
+- **Shield:** Kite/Round Shield (4 SV, Cover)
+- **Starting Purse: 80 sp** — Chainmail/Scale 45 + Shortsword 10 + Kite Shield 18 = **73 sp spent, 7 sp remaining.** Sunrod (5 sp) for light, 2 sp banked.
+
+### Combat Math Quick-Ref
+Melee Clash 2d6+3 | Block 2d6+3 (if lost, Kite Shield's SV 4 subtracts from Impact before comparing to WT 9) | Prowess 2d6+1 | Resolve 2d6+1 | Notice 2d6+1 | Activation Order 7
+
+### Table Notes
+- **The armour swap that pays for a light source.** His original loadout (Chain Shirt 50 + Shortsword 10 + Kite Shield 18 = 78 of 80 sp) left nothing for consumables. Chainmail/Scale is strictly better silver-for-silver here: same +2 Armour as Chain Shirt for 5 sp less, and Bulky is free when nothing you own touches Athletics/Stealth/Arcana. Worth remembering any time a melee-only build is short on purse.
+- **First character built to actually spend DP on Block.** Every other melee build in the roster (Ox, Corvin) leaves Block at 0 and works through Melee/Acrobatics instead. Bram's Block 3 is the first real test of the skill at full investment: per Metal meet Flesh, Block is 2d6+Block as a Reactor roll, and on a loss his Kite Shield's SV 4 subtracts from Impact before it's compared to his WT 9 (same mechanic Helga's sheet already uses). The Marrow's own skill-list line for Block ("Using the haft of your spear, effective with a shield") is just flavor text describing what the skill represents, not a rules citation — the actual mechanic lives in Metal meet Flesh, not there.
+
+---
+
+## Aeric Thorne — Half-Elf Male, Berserker
+
+*"You don't win a fight. You make sure you're the last thing standing in it."*
+
+### Vital Statistics
+- **Species:** Half-Elf (Split Heritage: took Fey Reflexes, and its paired Hollow-Boned drawback)
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 2 | Reflex 2 | Wits 0 | Will 0 *(Twin array)*
+- **Skills:** Melee 3 | Athletics 2 | Prowess 2 | Resolve 1 *(8 ranks, 8 DP. Ceilings: Melee/Athletics/Prowess/Block 5 (Brawn 2); Resolve 3 (Will 0))*
+- **Wound Threshold:** 6 *(4 base + 2 Brawn + 1 Leather − 1 Hollow-Boned)*
+- **Stress Limit:** 4 *(4 base + 0 Wits + 0 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 6 *(4 + Reflex 2)* | **Activation Order:** 7 *(6 + Reflex 2, −1 Cumbersome)*
+- **Inventory Slots:** 10 *(8 + 2 Brawn)*
+
+### Species Traits (Half-Elf, Split Heritage)
+- **Fey Reflexes** *(chosen Split Heritage trait)*: Advantage on Acrobatics checks vs. hazards, traps, AoE.
+- **Between Worlds (Drawback):** Disadvantage on Influence in insular/xenophobic communities.
+- **Hollow-Boned (Drawback, comes with Fey Reflexes):** −1 Wound Threshold (already applied above).
+
+### Feats
+- **Desperate Edge** *(Resolve +1 — Creation)*: when a lone die in a 2d6 check shows a 6 while at half-or-more Stress Limit in Dissonant Stress, or on his final Wound Slot, it explodes — roll an extra d6 and add it.
+- **Trench Fighter** *(Brawn +1 — Creation)*: ignores Difficult Terrain's Disadvantage, and drawing a weapon while engaged doesn't take the usual penalty.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light)
+- **Weapon:** Greataxe (Power 5, 2H, Heavy Hitter, Cumbersome, Scarce)
+- **Starting Purse: 80 sp** — Leather 12 + Greataxe 45 = **57 sp spent, 23 sp remaining.** Grave-Dust Poultice (8 sp) + Witch-Spur Salve (12 sp) = 20 sp, **3 sp banked.**
+
+### Combat Math Quick-Ref
+Melee Clash 2d6+3 *(Power 5; **Heavy Hitter** — every natural 6 on his 2d6 counts as a 7, and still triggers Fate's Bounty and Desperate Edge)* | Athletics 2d6+2 | Prowess 2d6+2 | Resolve 2d6+1 | Activation Order 7
+
+### Table Notes
+- **Zero defense investment, by design.** No Block, no shield, Acrobatics untouched, and a Cumbersome weapon that costs him Activation Order on top. Combined with WT 6 — second-lowest in this batch — a single Grunt-tier hit (Skill 4–6 per the Bestiary's budget table) can plausibly put him down before he closes distance. That's the berserker fantasy working as intended, but a GM should know it, not discover it.
+- **Desperate Edge triggers earlier for him than for anyone else built so far.** Stress Limit 4 means "half or more of Stress Limit" is reached at just 2 Dissonant Stress — the lowest threshold in the roster. The Greataxe's `Heavy Hitter` stacks with it: a natural 6 reads as a 7 and still explodes, so the axe and the feat pull in the same direction, precisely in the desperate state his Stress Limit reaches fastest.
+- **Witch-Spur Salve is a real trade for him, not a free buff.** Its Terrifying/Fear immunity fits a character who's supposed to be the scary one — but the 1 Locked Dissonant Stress it costs eats directly into the same Stress pool that drives his Desperate Edge triggers.
+
+---
+
+## Elowen Vex — Elf Female, Thief
+
+*"You never saw me. That's the whole point."*
+
+### Vital Statistics
+- **Species:** Elf
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 3 | Wits 1 | Will 0 *(Spike array)*
+- **Skills:** Thievery 3 | Stealth 3 | Acrobatics 1 | Melee 1 *(8 ranks, 8 DP. Ceilings: Thievery/Stealth/Acrobatics 6 (Reflex 3); Melee 3 (Brawn 0))*
+- **Wound Threshold:** 4 *(4 base + 0 Brawn + 1 Leather − 1 Hollow-Boned)*
+- **Stress Limit:** 5 *(4 base + 1 Wits + 0 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 7 *(4 + Reflex 3)* | **Activation Order:** 9 *(6 + Reflex 3)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)*
+
+### Species Traits (Elf)
+- **Fey Reflexes:** Advantage on Acrobatics checks to avoid environmental hazards, traps, or AoE.
+- **Trance:** Only needs 4 hours of meditation instead of a full night's rest to clear Stress and stabilize Wounds.
+- **Hollow-Boned (Drawback):** −1 Wound Threshold (already applied above).
+
+### Feats
+- **Shadow-Weaver** *(Stealth 1 — Creation)*: ignores the standard penalty for moving quickly while trying to stay hidden.
+- **Scavenger's Eye** *(Wits +1, Stealth +1 — Creation)*: a Massive Success (Margin 5+) on an exploration or scouting check banks 2 Momentum instead of 1.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light)
+- **Weapons:** Twin Daggers — 2× Dagger/Knife (5 sp each, Concealable, Close-Quarters, Finesse, Thrown, Sidearm), wielded in the **Twin-Blade Stance** (Off-Hand Parry; the Twin Strike maneuver for 1 Momentum)
+- **Starting Purse: 80 sp** — Leather 12 + 2× Dagger 10 = **22 sp spent, 58 sp remaining.** Smokestick (15 sp) + Tanglefoot Bag (20 sp) + Thieves' Tools (20 sp) = 55 sp, **3 sp banked.**
+- **Tools:** Thieves' Tools (1 Slot, Scarce) — Thievery against locks and mechanisms without Disadvantage.
+
+### Combat Math Quick-Ref
+Melee Clash (Daggers) 2d6+1 | Thievery 2d6+3 | Stealth 2d6+3 | Acrobatics 2d6+1 | Dodge 2d6+1 | **Notice 2d6+0** | Activation Order 9
+
+### Table Notes
+- **Correction: Hollow-Boned is a baseline Elf trait, not something exclusive to Half-Elves who inherit it via Split Heritage.** Her Wound Threshold is 4, the same floor as Faelan and Morwenna — the roster's other two characters built around avoiding hits rather than absorbing them.
+- **Twin Daggers uses the actual Twin-Blade Stance rule** (Metal meet Flesh), not a re-skin: two Sidearm-tagged one-handers grant Off-Hand Parry and the Twin Strike maneuver. Momentum Bank 7 — tied with Wren Ashcombe for the roster's highest — means she can afford to fire off Twin Strike more freely than most.
+- **Her 8th rank buys Melee 1, not Notice 1.** A Twin-Blade Stance is only worth carrying if the Clash that drives it can be won, and the stance rolls on Melee — Finesse rerolls a natural 1, it does not let Reflex govern the Clash. Melee 1 is the floor that makes the kit functional, and it matches Wren Ashcombe, the roster's other Reflex-3 Twin-Dagger thief, who also carries Melee +1 and no Notice at all. The cost is real: Notice sits at 0, which blunts **Scavenger's Eye** on any exploration or scouting check resolved as Notice rather than Stealth or Thievery. Acrobatics was kept over Notice deliberately — it is her Dodge, and at Wound Threshold 4 with Hollow-Boned she cannot afford to give up her only defensive roll. Notice 1 is 1 DP to buy back at her first Milestone.
+- Smokestick and Tanglefoot Bag are both control/escape tools, not damage — fitting a thief who wants to dictate when a fight starts and ends rather than win it toe-to-toe.
+
+---
+
+## Brynja Frostvow — Dwarf Female, Faith/Ranged Hybrid (Winter & Wilds Domain)
+
+*"The wolf doesn't need faith. It just needs a clean shot."*
+
+### Vital Statistics
+- **Species:** Dwarf
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 1 | Reflex 1 | Wits 1 | Will 1 *(Flat array)*
+- **Skills:** Faith 3 | Ranged 3 | Survival 1 | Notice 1 *(8 ranks, 8 DP. Ceilings: Faith/Resolve/Influence 4 (Will 1); Ranged/Stealth/Thievery/Acrobatics 4 (Reflex 1); Notice/Insight/Medicine/Crafting/Lore/Arcana 4 (Wits 1); Melee/Athletics/Block/Prowess 4 (Brawn 1) — every ceiling in her sheet is the same number, the one thing only Flat can do)*
+- **Wound Threshold:** 7 *(4 base + 1 Brawn + 1 Leather + 1 Stone-Bones)*
+- **Stress Limit:** 6 *(4 base + 1 Wits + 1 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 5 *(4 + Reflex 1)* | **Activation Order:** 7 *(6 + Reflex 1)*
+- **Inventory Slots:** 9 *(8 + 1 Brawn)*
+
+### Species Traits (Dwarf)
+- **Stone-Bones:** +1 Wound Threshold (already applied above).
+- **Subterranean Senses:** Advantage on Notice checks underground or examining stonework/engineering.
+- **Stumpy (Drawback):** Disadvantage on Athletics checks during chases or open-ground sprints.
+
+### Feats
+- **Divine Conduit** *(The Covenant, Domain of Winter & Wilds — Creation)*. Grants a Holy Symbol, the **Chilling Frost** Domain Tag (an offensive prayer numbs its target — they can't Move next turn unless they take 1 physical Stress to snap free), and the 4 Novice Prayers below.
+- **Scavenger's Eye** *(Wits +1, Survival +1 — Creation)*: a Massive Success (Margin 5+) on an exploration or scouting check banks 2 Momentum instead of 1 — pairs directly with Kaelen's Eye below.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light — doesn't touch Faith or Ranged)
+- **Weapon (one 2H item):** Shortbow (Power 2, **Volley** — requires both hands, no Shield or Grimoire while wielding it; Holy Symbol still works one-handed and isn't a Grimoire)
+- **Holy Symbol** (granted by Divine Conduit — outside the purse)
+- **Starting Purse: 80 sp** — Leather 12 + Shortbow 15 = **27 sp spent, 53 sp remaining.** Antitoxin (20 sp) + Sunrod (5 sp) = 25 sp, **28 sp banked** for arrows, a spare bowstring, and rope.
+
+### Prayers (Tithe of Will = 2d6 + Faith = **2d6+3**, vs. TN 8 Novice)
+- **Rime-Fang's Bite** *(2 Locked Stress, Aggressor, Short Range)* — Pass: target fails a Prowess+Athletics check (TN 8) or takes 2 Dissonant Stress and gains Rigor as the cold seizes its joints. Fail: as Pass + 1 Encroachment. Snake Eyes: convert the 2 Locked Stress into 2 direct Wounds, reset Encroachment.
+- **Howl of the Rime-Fang** *(2 Locked Stress, Aggressor, 15ft radius, Short Range)* — Pass: every enemy in range fails a Resolve check (TN 8) or gains Fear. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 2 direct Wounds, reset Encroachment.
+- **Wolf's Ward** *(1 Locked Stress, Activation, touch, Scene)* — Pass: target ignores Stress and penalties from extreme environmental hazards (per Iron World's Hazard Check rules) for the scene. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 1 direct Wound, reset Encroachment.
+- **Kaelen's Eye** *(1 Locked Stress, Activation, self, Scene)* — Pass: reads the wild like Kaelen did — Advantage on Survival or Notice checks to track a specific creature or navigate harsh terrain. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 1 direct Wound, reset Encroachment.
+
+### Combat Math Quick-Ref
+Tithe of Will 2d6+3 | Ranged Strike (Shortbow) 2d6+3, Impact = Margin+2 | Survival 2d6+1 | Notice 2d6+1 | Dodge 2d6+0 | Activation Order 7
+
+### Table Notes
+- **Same species, same role, opposite array — a direct comparison to Helga.** Both are Dwarf Faith casters at Green. Helga (Spike: Will 3) sits at Faith 6 ceiling, WT 8, Stress 9, Momentum 4, and has almost nothing outside Faith/Resolve/Influence. Brynja (Flat: 1/1/1/1) caps every ceiling at 4, and spends her 8 DP across two live skills — Faith 3 *and* Ranged 3 — rather than one deep one. That's Flat's thesis working exactly as described in the Design Notes below: no weakness, no peak.
+- **The real cost of "hybrid" is the Action economy, not the DP.** Per Metal meet Flesh's Move-and-Action rule, an Activation grants one Action plus a Free Action — not two Actions. Tithe of Will is an Activation or Aggressor action; Shoot is also an Aggressor action. Brynja can never Tithe of Will and fire her Shortbow in the same turn — every round she picks one toolkit, not both. Worth being explicit about this at the table: "hybrid" here means alternating between two full kits round to round, not doubling her output.
+- **Chilling Frost pairs naturally with the Shortbow's range.** Rime-Fang's Bite or Howl of the Rime-Fang can lock a target in place at Short Range on one turn, and a Shortbow shot (Long Range) is safe from retaliation the next — but per the note above, that's two separate turns, not a combo in one.
+
+---
+
+## Maren Solvei — Half-Elf Female, Envoy (Social/Support)
+
+*"A blade wins the fight. A word wins everything after it."*
+
+### Vital Statistics
+- **Species:** Half-Elf (Split Heritage: took Adaptable, and its paired Steady, Not Sharp drawback)
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 1 | Wits 1 | Will 2 *(Broad array)*
+- **Skills:** Influence 3 | Medicine 2 | Insight 2 | Notice 1 | Resolve 1 *(9 ranks, 9 DP with Adaptable. Ceilings: Influence/Faith/Survival/Resolve 5 (Will 2); Medicine/Insight/Notice/Crafting/Lore/Arcana 4 (Wits 1); Ranged/Stealth/Thievery/Acrobatics/Ride 4 (Reflex 1); Melee/Athletics/Block/Prowess 3 (Brawn 0))*
+- **Wound Threshold:** 5 *(4 base + 0 Brawn + 1 Leather)*
+- **Stress Limit:** 7 *(4 base + 1 Wits + 2 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 1, −1 Steady Not Sharp)* | **Activation Order:** 7 *(6 + Reflex 1)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)*
+
+### Species Traits (Half-Elf, Split Heritage)
+- **Silver-Tongued:** Advantage on Influence checks to persuade, de-escalate, negotiate, or gather information.
+- **Adaptable** *(chosen Split Heritage trait)*: +1 Skill **DP** at creation (already applied — a Half-Elf who takes Adaptable has a creation Skill budget of 9, not 8).
+- **Steady, Not Sharp (Drawback, comes with Adaptable):** −1 to your Momentum Bank cap (already applied above).
+- **Between Worlds (Drawback):** Disadvantage on Influence checks with an insular or homogeneous community that's had little outside contact.
+
+### Feats
+- **Cold Reader** *(Insight +1, Notice +1 — Creation)*: on entering a tense social situation, a Free Action Insight check (TN 8) reveals which NPC present has the lowest Resolve — Advantage on her first Influence check against them.
+- **Battlefield Orator** *(Influence +2 — Creation)*: spend an Action in combat to shout orders or hurl insults. Choose one: an ally immediately clears 1d6 Dissonant Stress, or an engaged enemy suffers a -2 penalty to their next Defense roll.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light)
+- **Weapon:** Dagger (Concealable, Close-Quarters, Finesse, Thrown, Sidearm)
+- **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining.** Grave-Dust Poultice (8 sp) + a merchant's scale (3 sp, Advantage on Insight/Notice to catch a rigged deal or counterfeit coin) = 11 sp, **52 sp banked** — she carries coin, not gear, and spends it on people rather than steel.
+
+### Combat Math Quick-Ref
+Influence 2d6+3 | Medicine 2d6+2 | Insight 2d6+2 | Notice 2d6+1 | Resolve 2d6+1 | Melee (Dagger) 2d6+0, Impact = Margin | Dodge 2d6+0 | Activation Order 7
+
+### Table Notes
+- **Broad array demonstrated — the fourth and last one.** Her ceilings (5/4/4/3) match the Design Notes table exactly: one strength (Influence, off Will 2) with real competence under it. Unlike a Spike build, four other skills — Medicine, Insight, Notice, Resolve — all sit at a genuinely usable rank rather than 0, which is "wide competence beneath it" holding up literally, the same way Brynja's Flat build made its own description literal.
+- **Third Half-Elf in the roster, and for a specific reason, not variety for its own sake.** Silver-Tongued is the only species trait in the corpus that touches Influence directly, which makes Half-Elf the mechanically obvious pick for any dedicated social build — the same way Dwarf is the obvious pick for anyone chasing Wound Threshold. Worth naming as a real best-in-slot pattern.
+- **Cold Reader and Battlefield Orator split her usefulness across the whole session, not just combat.** Cold Reader front-loads value the moment a tense conversation starts; Battlefield Orator pays off once initiative is rolled. Unlike a pure Face who goes quiet the second a fight starts, she has a job in both halves.
+- **Battlefield Orator's Stress type is now specified.** It clears 1d6 Dissonant Stress, which the corpus previously left unstated (fixed directly in The Marrow). Worth knowing at the table: that's stronger on average (3.5) than the native Adrenaline Flush reaction (1 Dissonant Stress for 2 Momentum), but it costs a full Action instead of a Free Reaction, and only she can do it.
+
+---
+
+## Corvin Ashgrave — Human Male, Bravo (Duelist)
+
+*"You are not losing to me. You are losing to the fact that you brought one weapon."*
+
+*Same character as the Blooded build below, reconstructed backward from his own Advancement Ledger — the roster's first Standing pair built in this direction, rather than advanced forward from an existing Green sheet.*
+
+### Vital Statistics
+- **Species:** Human
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 2 | Reflex 2 | Wits 0 | Will 0 *(Twin array)*
+- **Skills:** Melee 4 | Acrobatics 3 | Prowess 1 | Notice 1 *(9 ranks, 9 DP with Adaptable. Ceilings: Melee/Prowess/Block/Athletics 5 (Brawn 2); Acrobatics/Stealth/Ranged 5 (Reflex 2); everything under Wits or Will 3)*
+- **Wound Threshold:** 6 *(4 base + 2 Brawn + 0 Gambeson)*
+- **Stress Limit:** 5 *(4 base + 0 Wits + 0 Will + 1 Indomitable Spirit)*
+- **Wound Slots:** 3 | **Momentum Bank:** 5 *(4 + Reflex 2, −1 Steady Not Sharp)* | **Activation Order:** 11 *(6 + Reflex 2, +3 Quick)*
+- **Inventory Slots:** 10 *(8 + 2 Brawn)*
+
+### Species Traits (Human)
+- **Adaptable:** +1 Skill **DP** at creation (already applied — a Human's creation Skill budget is 9, not 8).
+- **Indomitable Spirit:** +1 Stress Limit (already applied above).
+- **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap.
+
+### Feats
+- **Iron Grip** *(Melee +1 — Creation)*: when a Clash ties and the weapons bind, automatically bank 1 Momentum. His Momentum engine — a Twin-array duelist has a small bank and needs to fill it without spending actions.
+- **Quick** *(Reflex 1 — Creation)*: +3 to your Activation Order.
+
+### Equipment
+- **Armour:** Gambeson (+0 Armour, Light, Cushioned) — his actual creation-day kit; upgraded to Leather during Downtime after Milestone 1, per his Blooded sheet.
+- **Starting Purse: 80 sp** — Gambeson 5 + Shortsword 10 + Dagger 5 = **20 sp spent, 60 sp remaining.** The same deliberately light kit his Blooded Table Notes already describe — this is where that float started, before 12 sp of it went to the Leather upgrade.
+- **Weapons (two 1H items):** Shortsword (Power 2, **Sidearm**, **Finesse**) + Dagger (Power 0, **Sidearm**, **Finesse**, Concealable, Close-Quarters, Thrown) — qualifies for **Twin-Blade Stance**.
+
+### Combat Math Quick-Ref
+Strike (Shortsword) 2d6+4, Impact = Margin+2 | Parry 2d6+4 | Dodge 2d6+3 | **Finesse on both** — reroll a natural 1 in any Clash with either blade, attacking or defending | **Off-Hand Parry:** the Dagger reduces incoming Impact by 1, stacking with the Shortsword | **Twin Strike:** 1 Momentum on a won Clash for an off-hand follow-up | Prowess 2d6+1 | Notice 2d6+1 | **Resolve 2d6+0** | Activation Order 11
+
+### Table Notes
+- **Identical dice, one real stat difference.** Every roll above matches his Blooded sheet exactly — Twin-Blade Stance, Finesse, Iron Grip's Momentum engine, and Quick's Activation Order 11 are all creation-day purchases, untouched by his two Milestones. The only actual delta is Wound Threshold: 6 here vs. 7 at Blooded, the Gambeson-to-Leather Downtime upgrade after Milestone 1, worth 1 point of durability for 12 sp.
+- **What's missing is entirely reactive, not statted.** Riposte and Insulting Deflection — both bought at Milestone 2 — only fire off a won Parry. At Green he still Parries at 2d6+4 and still benefits from Off-Hand Parry's flat Impact reduction, but a won Parry here is just a won Parry: no bonus Impact, no forcing Surprised on a Margin 5+ win. The "built to be attacked" payoff his Blooded Table Notes describe doesn't exist yet — he's still just hard to hit.
+- **First Standing pair built back-to-front.** Aeric, Faelan, and Brynja were all advanced forward from an existing Green sheet. Corvin is the reverse: his Advancement Ledger already stated exactly what Milestones 1 and 2 bought, so reconstructing Green meant subtracting, not designing — drop both Feats, revert the one Downtime equipment swap the ledger's own prose already flagged, and everything else falls out unchanged. A useful check on the ledger format itself: it held enough information to run backward cleanly.
+- **Second Twin-array character now shown at two Standings, alongside Aeric — four data points total.** Corvin's Strike roll (2d6+4) doesn't move at all between Green and Blooded, matching Aeric's Melee roll staying flat between Green and Veteran (Design Note 8) — Twin stays invisible on the dice well past creation, and only shows up in derived stats once Advancement actually opens a second ceiling, which for Corvin hasn't happened at either Standing shown yet.
+
+---
+
+## Dorin Hollowmark — Dwarf Male, Arcana Caster (Demonology and Void Magic)
+
+*"The mountain has secrets even the Ancestors were wise enough to leave buried. I dug them up anyway."*
+
+### Vital Statistics
+- **Species:** Dwarf
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 0 | Wits 3 | Will 1 *(Spike array — 3/1/0/0)*
+- **Skills:** Arcana 3 | Notice 2 | Insight 2 | Lore 1 *(8 ranks, 8 DP. Ceilings: Arcana/Notice/Insight/Medicine/Crafting/Lore 6 (Wits 3); Resolve/Influence/Faith 4 (Will 1); everything under Brawn or Reflex 3)*
+- **Wound Threshold:** 6 *(4 base + 0 Brawn + 1 Leather + 1 Stone-Bones)*
+- **Stress Limit:** 8 *(4 base + 3 Wits + 1 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 0)* | **Activation Order:** 6 *(6 + Reflex 0)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)*
+
+### Species Traits (Dwarf)
+- **Stone-Bones:** +1 Wound Threshold (already applied above).
+- **Subterranean Senses:** Advantage on Notice checks underground or examining stonework/engineering.
+- **Stumpy (Drawback):** Disadvantage on Athletics checks during chases or open-ground sprints.
+
+### Feats
+- **Arcane Awakening** *(Paradigm: Demonology and Void Magic — Creation)*. Grimoire below — 2 picks in-Paradigm, 1 from Witch Magic and Hedge Craft, 1 from Common; per the feat's own text every Arcane Awakening character takes at least 1 off-Paradigm spell among their starting 4, since each Paradigm's Novice tier holds exactly 3. Dorin goes one further than the minimum, trading a third Demonology pick for a second off-Paradigm one.
+- **Ledger of the Deep** *(Insight +1, Lore +1 — Creation)*: on a Massive Success (Margin 5+) on an Insight or Lore check made to identify a creature, curse, or occult phenomenon, he immediately banks 1 Momentum. His only Momentum engine — nothing else on the sheet generates it.
+
+### Equipment
+- **Focus:** Grimoire (1H, **Repository**) — 15 sp — held in his off hand, plus a **Wand** (1H, **Conduit**, **Sidearm**) — 10 sp — in his casting hand. The Grimoire satisfies the Repository requirement; Conduit means the hand holding the Wand still counts as free for the somatic component. Both Casting Requirements met, no Blind Casting penalty, and no hand left over. *(Downgraded from the Mage Staff, which is Rare and not purchasable at Green at any price — see Availability at character creation, Hardware. He loses **Bound**, so the book must now actually be held, and loses **Reach** and **Grounding Rod** outright — but the Wand's **Sidearm** tag answers the same problem Reach did from the other direction: Reach keeps an enemy at 10 ft, Sidearm lets him keep casting once they are at 5 ft. On a WT 6 caster with Dodge 2d6+0, being closed on is the likeliest thing that happens to him.)*
+- **Armour:** Leather (+1 Armour, Light) — 12 sp. Light armour carries no Arcana penalty, and the 20 sp freed by dropping the Staff pays for it without touching the alchemy.
+- **Starting Purse: 80 sp** — Grimoire 15 + Wand 10 + Leather 12 = 37 sp. Black-Root Draught 15 + Philter of Focus 20 + Grave-Dust Poultice 8 = 43 sp. **80 sp spent, 0 sp remaining.** Every item is Common or Scarce, so the entire loadout is purchasable from a Town at Green — which the Mage Staff never was.
+
+### Grimoire (Arcana = **2d6+3**)
+- **Fear** *(Demonology, Paradigm, Mastery-eligible)* — Arcane Clash, Arcana vs. Target's Resolve, one character or 10ft area, Short Range, Aggressor. Margin 1–2: target suffers 2 Dissonant Stress and must spend their next Activation fleeing at max speed; he takes 1 Dissonant Stress from the strain. Margin 3+ (Clean, or Mastery-upgraded from 1–2): as above, and a Fodder-tier target immediately Routs instead of just fleeing.
+- **Void Rend** *(Demonology, Paradigm, Mastery-eligible)* — Arcane Clash, Arcana vs. Target's Defense, Medium Range, Spell Power 2, Aggressor. Margin 1–2: Impact = Margin+2, ignoring 1 point of the target's Shield Value or Armour; he takes 1 Dissonant Stress. Margin 3+ (Clean, or Mastery-upgraded from 1–2): as above, no cost.
+- **The Evil Eye** *(Witch Magic and Hedge Craft, off-Paradigm — no Mastery)* — Arcane Clash, Arcana vs. Target's Resolve, Short Range, Aggressor. Margin 1–2: target is Hexed — Disadvantage on their next Aggressor Strike or Reactor defense roll; he takes 1 Dissonant Stress. Margin 3+ (Clean): as above, and if the Hexed roll then fails, the target also suffers 1 Dissonant Stress from the backlash.
+- **Arcane Protection** *(Common — no Mastery)* — Unopposed vs. TN 8, **Activation to raise only; it can never be cast as a Reactor**, **self only**, Sustain (see The Channelling Rule — no Locked Stress cost; roll to maintain each Activation and on taking a Wound). Margin 0–2: ward holds, he takes 1 Dissonant Stress. Margin 3–4: ward holds, hostile spells targeting him suffer Disadvantage on their casting roll. Margin 5+: as Clean, and the ward gains SV 2 against the next hostile spell's Impact. Special: while the ward stands he may use **Arcana as his defense** against an incoming hostile spell in place of his normal Reactor stat — at every band, Messy included. *Spell* is the generic term, so this answers hostile **Prayers** too.
+
+### Combat Math Quick-Ref
+Arcane Clash/Manifestation 2d6+3 | Notice 2d6+2 | Insight 2d6+2 | Lore 2d6+1 | Dodge 2d6+0 *(no Acrobatics investment)* | Activation Order 6
+
+### Table Notes
+- **Correction: Spike is 3/1/0/0, not 3/0/0/0 — the array spends all 4 Attribute points, not 3.** The first draft of this sheet left the +1 unspent. It went to Will rather than Brawn or Reflex: every one of his four spells inflicts Dissonant Stress on him on a non-Clean result, so the extra point buys Stress Limit 8 instead of 7 — headroom for the exact tax his own Grimoire charges him — without touching the WT 5 / no-armour fragility that's the deliberate point of the build. Resolve/Influence/Faith ceiling opens to 4 as a side effect; he has no ranks in any of them.
+- **No character in the roster equips a Mage Staff any more.** He was the first and only, and the Staff is Rare — not purchasable at Green at any price. Grimoire + Wand costs 25 sp against the Staff's 45 and clears both Casting Requirements just as cleanly, but it commits both hands to *holding two things* rather than to one item doing both jobs, and gives up **Reach** and **Grounding Rod**. The Staff is now an in-play acquisition, which is the correct shape for a 45 sp Rare item — and worth a Blooded-or-later caster demonstrating.
+- **Arcane Protection stands on its own merits without the Staff.** Its Reactor clause (using **Arcana as his defense** in place of his normal Reactor stat) is the reason to keep it on a caster with Dodge 2d6+0 — and since *spell* is the generic term, that ward now answers hostile Prayers as well as hostile Arcana. What's gone is Grounding Rod's Advantage on every maintenance roll. **Philter of Focus** (20 sp, auto-Clean the first Sustain check of the scene) still guarantees the opening cast; it just no longer has Advantage stacked behind the rolls after it.
+    - *Correction, 29 Sep.* An earlier version of this note claimed Arcane Protection was "the only Sustain-duration spell in the Novice tier across every list in the corpus — Common, every Paradigm, everything." **That was wrong by two spells that already existed:** **Deflection** and **Boost/Lower Trait** are both Novice, both Sustain, both in Paradigm lists (with **Mind Link**'s Communion mode now a third). So Grounding Rod was never close to orphaned — it has always had plenty to apply to. The true statement is narrower and duller: **no character on this roster carries a Mage Staff**, which is a roster gap, not a rules problem. **Update, 2 Oct:** Deflection is no longer a Sustain spell — it was rebuilt as a **Reactor-only, Scene-duration** ward, so the Novice Sustain roster is now **Boost/Lower Trait** and **Mind Link**'s Communion mode alongside Arcane Protection. **Three, not four.** Grounding Rod still has plenty to apply to.
+- **The zero-armour build did not survive the Staff's removal, and it should not have.** WT 5 with no armour was a *consequence* of the Staff eating 45 sp of an 80 sp purse, not an independent design choice — the note that used to sit here argued the trade was deliberate. Free up 20 sp and a caster who still declines 12 sp of Leather is not making a trade, he is making a mistake. He now runs **WT 6** with the alchemy intact, plus a Grave-Dust Poultice for the Wound he is still going to take. **Dodge 2d6+0 is unchanged** — he remains flatly bad at avoiding a hit he does not see coming, which is the half of the fragility that was always deliberate.
+- **First 2/1/1 spell split in the roster.** Faelan, Morwenna, and (as far as the roster shows) Vrenna all took the default 3-in-Paradigm-plus-1-Common shape Arcane Awakening's text treats as the baseline. Dorin trades a third Demonology pick for a second off-Paradigm one instead — legal by the feat's own wording ("Common list, your chosen Paradigm's list, and/or any other Paradigm's Novice list"), just not the shape anyone's built yet. Worth watching whether future casters treat 3+1 as the default or whether this becomes a real second pattern.
+- **Ledger of the Deep is a new Tier 1 Feat, added to The Marrow alongside this build.** Built the same way Scavenger's Eye was — a Massive Success on the character's own invested skills banking Momentum — just retargeted at Insight/Lore instead of Wits/Survival, and at 1 Momentum instead of 2 since it isn't paired with an Attribute increase the way Scavenger's Eye is.
+
+---
+
+# Blooded
+
+## Wren Ashcombe — Halfling Female, Cutthroat (Thief)
+
+*"I've never once needed to win a fight I could just... not have."*
+
+### Vital Statistics
+- **Species:** Halfling — **Size:** Small (Scale -1)
+- **Standing:** Blooded (Milestone 1 — 3 DP earned, 0 banked)
+- **Attributes:** Brawn 0 | Reflex 3 | Wits 1 | Will 0 *(Spike array)*
+- **Skills:** Melee 1 | Stealth 3 | Thievery 2 | Acrobatics 2 *(8 ranks, 8 DP. Ceilings: Melee 3 (Brawn 0); Stealth/Thievery/Acrobatics 6 (Reflex 3))*
+- **Wound Threshold:** 4 *(4 base + 0 Brawn + 1 Leather − 1 Scale)*
+- **Stress Limit:** 5 *(4 base + 1 Wits + 0 Will — Halflings are exempt from the Scale Stress penalty)*
+- **Wound Slots:** 3 | **Momentum Bank:** 7 *(4 + Reflex 3)* | **Activation Order:** 12 *(6 + Reflex 3, +3 Quick)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)*
+- **Stress Track (Limit 5):** [/][ ][ ][ ][ ] — 1 box permanently Locked to Attunement (Whisper-Kissed Leathers).
+- **Attunement:** 1 slot *(Attunement Slots = Will score, minimum 1 — at Will 0 she gets the floor)*. The Leathers fill it. She cannot attune a second Enchanted or Relic item at any price until Will rises.
+
+### Species Traits (Halfling)
+- **Underfoot:** Advantage on Stealth with cover or obscurement, or when moving through a larger creature's space.
+- **Halfling Luck:** Once per session, ignore a Fumble's Stress penalty.
+- **Small Stature (Drawback):** Cannot wield weapons carrying the Cumbersome tag — irrelevant to this build. Also exempt from the Scale −1 Stress Limit penalty (see The Marrow).
+
+### Feats
+- **Quick** *(Reflex 1 — Creation)*: +3 to your Activation Order.
+- **Shadow-Weaver** *(Stealth 1 — Creation)*: ignores the Rushed Stealth penalty for moving quickly while hidden.
+- **Parasitic Momentum** *(Cutthroat, Tier 2; Tier 1 feat ✓ — Quick and Shadow-Weaver both qualify — Milestone 1)*: when an enemy within 30 ft rolls a Fumble, instantly bank 1 Momentum.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light).
+- **Weapons:** Twin Daggers (1H/1H, **Concealable, Close-Quarters, Finesse, Thrown, Sidearm** — per Hardware's Dagger/Knife entry) — qualifies for **Twin-Blade Stance** (Off-Hand Parry, Twin Strike). *Finesse rerolls a natural 1 on any Clash she makes or defends with them, which on a Twin build applies to Strike, Parry and Off-Hand Parry alike.*
+- **Starting Purse: 80 sp** — Twin Daggers 10 + Leather 12 + Thieves' Tools 20 + Grappling hook 3 + Rope, hemp 50 ft 2 = **47 sp spent, 33 sp remaining** at creation, plus chalk at a copper. Thieves' Tools are not optional kit: without them a Thievery check against a lock or mechanism is made at Disadvantage regardless of rank. The remaining 33 sp is a working float she has been careful not to spend down.
+- **Acquired in play (Milestone 1):** main-hand dagger fitted with **Cold Iron Weapon** (Charmed, 25 sp, no Attunement): Bane (Fey, Daemon). Leather fitted with **Whisper-Kissed Leathers** (Enchanted — **Legendary band, Commission-gated**, 1 Locked Stress Attunement; requires a Light armour base, which her Leather satisfies). *Neither could have been bought at creation: enchanted gear of any tier is barred at Green (see The Starting Purse, The Marrow). The Cold Iron came off the job that earned her first Milestone. The Leathers did not — a Commission-gated item is made to order and never drops as generic loot, so they came off the body of whoever commissioned them, which is the only route onto a Blooded sheet.* **GM note:** a Legendary item at Milestone 1 is a deliberate story award, not what Blooded is expected to carry. Do not read the roster as promising it.
+- **Spell list:** N/A (non-caster).
+- **Belt (3 max):** Twin Daggers (2 slots) — 1 slot free. **Pack:** 6 slots free.
+
+### Combat Math Quick-Ref
+Dagger Strike 2d6+1 | Dodge 2d6+2 | Stealth 2d6+3 | Thievery 2d6+2 | **Melee 2d6+1** | Activation Order 12
+
+### Table Notes
+- **Blooded, not Green, and the Standing is load-bearing.** Parasitic Momentum is Tier 2, which chargen can't grant — the only route onto her sheet is 1 Milestone spent entirely on "Purchase a Feat." *Correction from an earlier pass, which mistagged her Green.*
+- **Skill budget corrected.** Her Skills once totalled 10 ranks against a creation budget of 8 — an overspend predating the Attribute restructure that never validated under the old Link Rule either (Melee 1 at Brawn 0 cost 4 DP under Blind Learning, plus 9 DP for three Reflex skills at rank 3, against a budget of 8). Thievery and Acrobatics were each trimmed by 1 to bring her to a legal 8. Both are 1 DP to buy back at her next Milestone.
+- **Sheet reformatted to the roster's house format.** Her entry previously ran on unbolded field labels with the quote and the Vital Statistics heading collapsed into the H2, which made her invisible to structural checks across the document. Content unchanged apart from the corrections above.
+
+---
+
+## Corvin Ashgrave — Human Male, Bravo (Duelist)
+
+*"You are not losing to me. You are losing to the fact that you brought one weapon."*
+
+### Vital Statistics
+- **Species:** Human
+- **Standing:** Blooded (Milestone 2 — 6 DP earned, 0 banked)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 2 | Reflex 2 | Wits 0 | Will 0 *(**Twin** array — the roster's first non-Spike build)*
+- **Skills:** Melee 4 | Acrobatics 3 | Prowess 1 | Notice 1 *(9 ranks, 9 DP with Adaptable. Ceilings: Melee/Prowess/Block/Athletics 5 (Brawn 2); Acrobatics/Stealth/Ranged 5 (Reflex 2); everything under Wits or Will 3)*
+- **Wound Threshold:** 7 *(4 base + 2 Brawn + 1 Leather)*
+- **Stress Limit:** 5 *(4 base + 0 Wits + 0 Will + 1 Indomitable Spirit)*
+- **Wound Slots:** 3 | **Momentum Bank:** 5 *(4 + Reflex 2, −1 Steady Not Sharp)* | **Activation Order:** 11 *(6 + Reflex 2, +3 Quick)*
+- **Inventory Slots:** 10 *(8 + 2 Brawn)*
+
+### Species Traits (Human)
+- **Adaptable:** +1 Skill **DP** at creation (already applied — a Human's creation Skill budget is 9, not 8).
+- **Indomitable Spirit:** +1 Stress Limit (already applied above).
+- **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap.
+
+### Feats
+- **Iron Grip** *(Melee +1 — Creation)*: when a Clash ties and the weapons bind, automatically bank 1 Momentum. His Momentum engine — a Twin-array duelist has a small bank and needs to fill it without spending actions.
+- **Quick** *(Reflex 1 — Creation)*: +3 to your Activation Order.
+- **Riposte** *(Melee 2 — Milestone 2)*: winning a Parry inflicts Impact on the attacker outright.
+- **The Insulting Deflection** *(Bravo, Tier 2; Reflex +2, Melee +2 — Milestone 2)*: on a Parry won by Margin 5+, spend 1 Momentum to inflict Surprised on the Aggressor.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light) — Gambeson at creation, upgraded during Downtime after Milestone 1.
+- **Starting Purse: 80 sp** — Gambeson 5 + Shortsword 10 + Dagger 5 = **20 sp spent, 60 sp remaining.** The cheapest kit on the roster by some distance, and entirely on purpose: a duelist's Wound Threshold comes from not being hit. He spent the difference on a wardrobe good enough to get him invited to the sort of rooms where the work is, and kept the rest liquid. The Leather upgrade at Milestone 1 cost him 12 sp of that float.
+- **Weapons (two 1H items):** Shortsword (Power 2, **Sidearm**, **Finesse**) + Dagger (Power 0, **Sidearm**, **Finesse**, Concealable, Close-Quarters, Thrown) — qualifies for **Twin-Blade Stance**.
+
+### Combat Math Quick-Ref
+Strike (Shortsword) 2d6+4, Impact = Margin+2 | Parry 2d6+4 | Dodge 2d6+3 | **Finesse on both** — reroll a natural 1 in any Clash with either blade, attacking or defending | **Off-Hand Parry:** the Dagger reduces incoming Impact by 1, stacking with the Shortsword | **Twin Strike:** 1 Momentum on a won Clash for an off-hand follow-up | Prowess 2d6+1 | Notice 2d6+1 | **Resolve 2d6+0** | Activation Order 11
+
+### Advancement Ledger — Milestone 0 → Milestone 2 (6 DP)
+
+| Milestone | DP earned | Banked before | Spent this Milestone | Bank after |
+|---|---|---|---|---|
+| 1 | 3 | 0 | — (saving) | 3 |
+| 2 | 3 | 3 | **3 DP** — Feat: Riposte *(Melee 2 ✓)*, **3 DP** — Feat: The Insulting Deflection *(Reflex 2 ✓, Melee 2 ✓)* | 0 |
+
+Both Milestones went to Feats, so his Skill total never moved off its creation-day 9 — exactly the Blooded typical in The Marrow's Standing table, and the same pattern as Wren, whose one Milestone also bought a Feat. Riposte and Insulting Deflection both trigger off a won Parry, which is deliberate: he is built to be attacked.
+
+### Table Notes
+- **What the Twin array actually bought, and what it cost.** Built as Spike (Brawn 3 / Reflex 1) with the identical 9 skill ranks, his rolls would be *identical* — Strike 2d6+4, Dodge 2d6+3. The arrays diverge only in ceilings and derived stats: Spike would give him Melee ceiling 6 and Wound Threshold 8, Twin gives him Acrobatics ceiling 5, Momentum 5 and Activation Order 11. **At Green and Blooded, array choice is invisible on the dice.** Twin's payoff is entirely deferred to the point where he has DP spare to climb a second ceiling — realistically Veteran. Worth stating plainly in The Marrow's array table, or Twin reads as strictly worse at exactly the moment a player is choosing it.
+- **Two dump Attributes is a real price, and it is all in one place.** Wits 0 and Will 0 give him Stress Limit 5 and Resolve 2d6+0, with a Resolve ceiling of 3 he can never exceed. He folds to Fear, to Terrified, and to any Faith caster's resistance test. Ox at Will 2 has Stress Limit 8 and Resolve 2d6+2; Corvin has neither and cannot buy his way out. That is the Twin array's bill, and it comes due in the mental attrition track rather than the physical one.
+- **Finesse on both hands is why this build works.** Both blades carry the tag, so every Clash he makes — Strike, Parry, Off-Hand Parry — can reroll a natural 1. Against a defensive build whose two best Feats key off winning Parries, that reroll is worth more than the +0.82 average suggests: it is specifically insurance against the low rolls that would otherwise lose the Parry outright and deny both Feats.
+
+---
+
+# Veteran
+
+## Aeric Thorne — Half-Elf Male, Berserker
+
+*"You don't win a fight. You make sure you're the last thing standing in it."*
+
+*Same character as the Green build above, advanced three Milestones and kept side by side deliberately — this is the Twin-array-at-a-higher-Standing comparison Design Note 4 flagged as the next useful test, run against Aeric's own earlier self rather than a different character.*
+
+### Vital Statistics
+- **Species:** Half-Elf (Split Heritage: took Fey Reflexes, and its paired Hollow-Boned drawback)
+- **Standing:** Veteran (Milestone 3 — 9 DP earned via Advancement, 0 banked)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 3 | Reflex 2 | Wits 0 | Will 0 *(Twin array)*
+- **Skills:** Melee 3 | Athletics 2 | Prowess 2 | Resolve 2 *(9 ranks — 8 from Creation, 1 from Advancement. Ceilings: Melee/Athletics/Prowess/Block 6 (Brawn 3); Resolve 3 (Will 0))*
+- **Wound Threshold:** 7 *(4 base + 3 Brawn + 1 Leather − 1 Hollow-Boned)*
+- **Stress Limit:** 4 *(4 base + 0 Wits + 0 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 6 *(4 + Reflex 2)* | **Activation Order:** 7 *(6 + Reflex 2, −1 Cumbersome)*
+- **Inventory Slots:** 11 *(8 + 3 Brawn)*
+
+### Species Traits (Half-Elf, Split Heritage)
+- **Fey Reflexes** *(chosen Split Heritage trait)*: Advantage on Acrobatics checks vs. hazards, traps, AoE.
+- **Between Worlds (Drawback):** Disadvantage on Influence in insular/xenophobic communities.
+- **Hollow-Boned (Drawback, comes with Fey Reflexes):** −1 Wound Threshold (already applied above).
+
+### Feats
+- **Desperate Edge** *(Resolve +1 — Creation)*: when a lone die in a 2d6 check shows a 6 while at half-or-more Stress Limit in Dissonant Stress, or on his final Wound Slot, it explodes — roll an extra d6 and add it.
+- **Trench Fighter** *(Brawn +1 — Creation)*: ignores Difficult Terrain's Disadvantage, and drawing a weapon while engaged doesn't take the usual penalty.
+- **The Red Mist** *(Berserker, Tier 2; Brawn 2, Resolve 2 — Milestone 2)*: if he suffers a Minor or Major Wound from a melee attack, his nervous system rejects the shock — he may immediately spend 1 Momentum to perform a brutal, retaliatory Strike against the attacker, instantly, before the Engagement ends and before he takes any associated Stress. *(A per-turn Momentum-spend cap tracked in design-backlog.md would touch this ability — see that doc.)*
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light)
+- **Weapon:** Greataxe (Power 5, 2H, Heavy Hitter, Cumbersome, Scarce)
+- **Starting Purse: 80 sp** — Leather 12 + Greataxe 45 = **57 sp spent, 23 sp remaining.** Grave-Dust Poultice (8 sp) + Witch-Spur Salve (12 sp) = 20 sp, **3 sp banked.** *(No Downtime purchases assumed across the three Milestones — every DP went into the archetype, not the kit.)*
+
+### Combat Math Quick-Ref
+Melee Clash 2d6+3 *(Power 5; **Heavy Hitter** — every natural 6 on his 2d6 counts as a 7, and still triggers Fate's Bounty and Desperate Edge)* | Athletics 2d6+2 | Prowess 2d6+2 | Resolve 2d6+2 | Activation Order 7
+
+### Advancement Ledger — Milestone 0 → Milestone 3 (9 DP)
+
+| Milestone | DP earned | Banked before | Spent this Milestone | Bank after |
+|---|---|---|---|---|
+| 1 | 3 | 0 | **1 DP** — Resolve 1→2 (rank ≤4, flat cost) | 2 |
+| 2 | 3 | 2 | **3 DP** — Feat: The Red Mist *(Brawn 2 ✓, Resolve 2 ✓)* | 2 |
+| 3 | 3 | 2 | **5 DP** — Brawn 2→3 (Physical/Mental Conditioning) | 0 |
+
+Resolve went up first specifically to clear The Red Mist's prerequisite as early as legally possible — the Feat *is* the berserker archetype coming online, so it lands at Milestone 2 rather than being held for a bigger purchase later. Brawn 3 comes last, once the Feat is already secured: it isn't chasing a prerequisite (Red Mist only ever needed Brawn 2, which he had from creation), it's pure payoff — Wound Threshold 6→7, Inventory 10→11, and the Melee/Athletics/Prowess/Block ceiling opens from 5 to 6, all in one purchase. Every DP earned went into offense or the chassis around it; nothing was spent on Block, Acrobatics, or any secondary skill, so the "zero defense investment, by design" read from his Green sheet is still true at Veteran — he hasn't bought his way out of it, he's bought further into it.
+
+### Table Notes
+- **The Red Mist changes what "zero defense investment" means, without fixing it.** His Green-sheet liability stands exactly as flagged: no Block, no shield, Acrobatics untouched, Cumbersome eating his Activation Order. What's different is the downside now buys something back — a landed Wound against him is also a landed Wound *from* him, for 1 Momentum, before he even absorbs the Stress. He is not harder to hit. He is more dangerous the moment he is.
+- **WT 6→7 doesn't change the fragility math much.** A Grunt-tier hit (Skill 4–6 per the Bestiary's budget table) could still plausibly drop him before he closes distance — one Brawn point isn't the difference between glass and armour. The Feat, not the Attribute bump, is doing the real work of this Milestone arc.
+- **Desperate Edge's trigger threshold hasn't moved.** Stress Limit is still 4 (Wits/Will untouched), so "half-or-more Stress" still means 2 Dissonant Stress — still the lowest trigger floor in the roster. Combined with The Red Mist, his Veteran build reads as: get hit, retaliate for 1 Momentum, and if the exchange pushes him past 2 Stress, his own crits start exploding too. The berserker fantasy compounds rather than diversifies.
+- **Twin array's deferred payoff, now visible.** The Green Table Notes flagged that Twin's cost is "all in one place" (WT) at low Standing. At Veteran, the first real payoff shows: Brawn 3 opens a ceiling (6) that a Spike build reached at creation, one Milestone later than Spike would have. Design Notes' prediction — that Twin needs a higher Standing to show its shape — now has a real data point instead of a guess.
+- **Next natural stop for the archetype: Apex Butcher (Tier 3).** Needs Brawn 3 (✓, already here) and Athletics 3 (one rank short) — the cheapest Tier 3 unlock on his sheet, whenever the next Milestone lands.
+
+---
+
+## Brynja Frostvow — Dwarf Female, Faith/Ranged Hybrid (Winter & Wilds Domain)
+
+*"The wolf doesn't need faith. It just needs a clean shot."*
+
+*Same character as the Green build above, advanced three Milestones and kept side by side — the roster's third same-character comparison after Aeric and Faelan.*
+
+### Vital Statistics
+- **Species:** Dwarf
+- **Standing:** Veteran (Milestone 3 — 9 DP earned via Advancement, 0 banked)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 1 | Reflex 1 | Wits 2 | Will 1 *(Flat array at creation — no longer flat)*
+- **Skills:** Faith 3 | Ranged 3 | Survival 2 | Notice 1 *(9 ranks — 8 from Creation, 1 from Advancement. Ceilings: Faith/Resolve/Influence 4 (Will 1); Ranged/Stealth/Thievery/Acrobatics 4 (Reflex 1); Notice/Insight/Medicine/Crafting/Lore/Arcana 5 (Wits 2); Melee/Athletics/Block/Prowess 4 (Brawn 1))*
+- **Wound Threshold:** 7 *(4 base + 1 Brawn + 1 Leather + 1 Stone-Bones)*
+- **Stress Limit:** 7 *(4 base + 2 Wits + 1 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 5 *(4 + Reflex 1)* | **Activation Order:** 7 *(6 + Reflex 1)*
+- **Inventory Slots:** 9 *(8 + 1 Brawn)*
+
+### Species Traits (Dwarf)
+- **Stone-Bones:** +1 Wound Threshold (already applied above).
+- **Subterranean Senses:** Advantage on Notice checks underground or examining stonework/engineering.
+- **Stumpy (Drawback):** Disadvantage on Athletics checks during chases or open-ground sprints.
+
+### Feats
+- **Divine Conduit** *(The Covenant, Domain of Winter & Wilds — Creation)*. Grants a Holy Symbol, the **Chilling Frost** Domain Tag, and the 4 Novice Prayers below.
+- **Scavenger's Eye** *(Wits +1, Survival +1 — Creation)*: a Massive Success (Margin 5+) on an exploration or scouting check banks 2 Momentum instead of 1.
+- **Predator's Rhythm** *(Stalker, Tier 2; Wits 2, Survival 2 — Milestone 3)*: when she successfully kills or Incapacitates a Fodder or Grunt-level enemy, she may immediately clear 1 Dissonant Stress or bank 1 Momentum, her choice — triggers off a Shortbow kill or a Prayer kill equally.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light — doesn't touch Faith or Ranged)
+- **Weapon (one 2H item):** Shortbow (Power 2, **Volley**)
+- **Holy Symbol** (granted by Divine Conduit — outside the purse)
+- **Starting Purse: 80 sp** — Leather 12 + Shortbow 15 = **27 sp spent, 53 sp remaining.** Antitoxin (20 sp) + Sunrod (5 sp) = 25 sp, **28 sp banked.** *(No Downtime purchases assumed across the three Milestones.)*
+
+### Prayers (Tithe of Will = 2d6 + Faith = **2d6+3**, vs. TN 8 Novice)
+- **Rime-Fang's Bite** *(2 Locked Stress, Aggressor, Short Range)* — Pass: target fails a Prowess+Athletics check (TN 8) or takes 2 Dissonant Stress and gains Rigor. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 2 direct Wounds, reset Encroachment.
+- **Howl of the Rime-Fang** *(2 Locked Stress, Aggressor, 15ft radius, Short Range)* — Pass: every enemy in range fails a Resolve check (TN 8) or gains Fear. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 2 direct Wounds, reset Encroachment.
+- **Wolf's Ward** *(1 Locked Stress, Activation, touch, Scene)* — a fixed-duration effect, not a Flowing Prayer: no per-Activation maintenance roll. Pass: target ignores Stress and penalties from extreme environmental hazards for the scene. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 1 direct Wound, reset Encroachment.
+- **Kaelen's Eye** *(1 Locked Stress, Activation, self, Scene)* — also fixed-duration, not Flowing. Pass: Advantage on Survival or Notice checks to track a specific creature or navigate harsh terrain. Fail: as Pass + 1 Encroachment. Snake Eyes: convert to 1 direct Wound, reset Encroachment.
+
+### Combat Math Quick-Ref
+Tithe of Will 2d6+3 | Ranged Strike (Shortbow) 2d6+3, Impact = Margin+2 | Survival 2d6+2 | Notice 2d6+1 | Dodge 2d6+0 | Activation Order 7
+
+### Advancement Ledger — Milestone 0 → Milestone 3 (9 DP)
+
+| Milestone | DP earned | Banked before | Spent this Milestone | Bank after |
+|---|---|---|---|---|
+| 1 | 3 | 0 | **1 DP** — Survival 1→2 (rank ≤4, flat cost) | 2 |
+| 2 | 3 | 2 | **5 DP** — Wits 1→2 (Physical/Mental Conditioning) | 0 |
+| 3 | 3 | 0 | **3 DP** — Feat: Predator's Rhythm *(Wits 2 ✓, Survival 2 ✓)* | 0 |
+
+Survival went up first specifically to pre-clear half of Predator's Rhythm's prerequisite while it was cheap; Wits followed as the more expensive half, chosen over Reflex or Will because it also grows her Stress Limit and the Notice/Insight/Survival family of ceilings, and because it's the stat Scavenger's Eye already invested in — the Milestone deepens an existing line rather than opening a new one. The Feat landed last, once both halves were banked.
+
+### Table Notes
+- **The Zealot's Litany of Nails was considered and dropped.** It only triggers while keeping a Prayer Flowing, and Brynja's whole Grimoire is fixed-duration — Wolf's Ward and Kaelen's Eye were confirmed as designed that way, not an oversight (see the correction in Embracing the Abyss's Channelling Rule, which previously cited Litany of Nails itself, a Feat, as if it were a Flowing Prayer). The Feat would have been permanently dead weight on this sheet. Predator's Rhythm was picked instead specifically because it triggers off either half of her kit.
+- **Flat's first crack.** Every character built with the Flat array up to this point — just Brynja herself, at Green — has had all four Attributes sit in perfect lockstep, which is the array's whole signature ("no weaknesses, no peak," per the Design Notes). This is the first Flat character to leave that lockstep: Wits 2 against Brawn/Reflex/Will still at 1. Worth flagging as an open question rather than a quiet drift — does "Flat" describe the creation-day array only, with Advancement expected to eventually differentiate every character regardless of starting shape, or should a Flat-array philosophy carry through Advancement too (e.g., spending Milestones to keep all four Attributes tied for as long as possible)? Nothing in The Marrow rules on this either way.
+- **Predator's Rhythm doesn't resolve the hybrid tension, and that's the point.** Her Green Table Notes flagged that hybrid means alternating toolkits, never combining them in one turn. This Feat is the one pickup that pays out regardless of which toolkit that turn used — it deepens the hybrid identity instead of quietly tipping her toward Faith or Ranged.
+
+---
+
+# Hardened
+
+## Uzgar "Ox" Bellows — Half-Orc Male, Frontline Anchor
+
+*"You want to know what breaks first — my line, or their nerve? Ask the last three things that tried."*
+
+### Vital Statistics
+- **Species:** Half-Orc
+- **Standing:** Hardened (Milestone 6 — 18 DP earned via Advancement, 0 banked)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 3 | Reflex 0 | Wits 0 | Will 2
+- **Skills:** Melee 3 | Block 2 | Prowess 2 | Resolve 2 *(9 ranks. Ceilings: Melee/Block/Prowess/Athletics 6 (Brawn 3); Resolve/Influence/Faith/Survival 5 (Will 2))*
+- **Wound Threshold:** 9 *(4 base + 3 Brawn + 2 Chain Shirt + 0 Species)*
+- **Stress Limit:** 8 *(4 base + 0 Wits + 2 Will + 2 Stoic Resolve feat)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 0 — Half-Orc carries no cap penalty; his Reflex does)* | **Activation Order:** 6 *(6 + Reflex 0)*
+- **Inventory Slots:** 11 *(8 + 3 Brawn)*
+
+### Species Traits (Half-Orc)
+- **Blood Frenzy:** Suffering a Wound instantly clears 1 Dissonant Stress.
+- **Menacing:** Advantage on Influence checks to intimidate anyone smaller or weaker.
+- **Outcast (Drawback):** Disadvantage on social checks with civilized strangers who don't know him.
+
+### Feats
+- **Iron Grip** *(Tier 1; Melee 1 ✓ — Creation)*: when a Clash ties and the weapons bind, automatically bank 1 Momentum. On a Momentum Bank of 4 with Reflex 0, this is his only reliable income that doesn't cost him an action.
+- **Trench Fighter** *(Tier 1; Brawn 1 ✓ — Creation)*: ignores the Disadvantage penalty from Difficult Terrain, and drawing a weapon while engaged carries no Disadvantage. An anchor who can't be made to fight badly on bad ground.
+- **Juggernaut** *(Tier 2; Brawn 2 ✓, Tier 1 feat ✓ — Milestone 3)*: Spend 1 Momentum to add 2 to Wound Threshold against one incoming attack. Stacks with Brace.
+- **Giant Feller** *(Tier 2; Brawn 2 ✓, Prowess 2 ✓, Tier 1 feat ✓ — Milestone 4)*: May Grab/Shove creatures up to two Scale steps larger. Ignores the automatic 1 Stress penalty when Blocking a larger enemy's attack.
+- **Stoic Resolve** *(Tier 1; Will 2 ✓, Resolve 1 ✓ — Milestone 5)*: +2 Stress Limit (already applied above). The Reprieve and Adrenaline Flush clear 1 extra point of the relevant Stress type.
+- **Iron Conviction** *(Tier 2; Will 2 ✓, Resolve 2 ✓, Tier 1 feat ✓ — Milestone 6)*: The Blood Price (Momentum's 1-cost Wound→2 Dissonant Stress conversion) costs no Momentum.
+
+### Equipment
+- **Armour:** Chain Shirt (+2 Armour, Light — chosen over the heavier Chainmail/Scale specifically so nothing taxes his Athletics), fitted with **Armour Spikes** (15 sp, bought during Downtime after Milestone 4) — anyone who loses a Grab/Shove Clash against him takes 1 Dissonant Stress.
+- **Starting Purse: 80 sp** — Chain Shirt 50 + Battleaxe 12 + Kite Shield 18 = **80 sp spent, 0 sp remaining.** Ox is the roster's demonstration of what the purse is for: he walked out of character creation with the best armour a Town will sell him, a shield, an axe, and not one silver piece left over. Everything else on this sheet — both sets of spikes — was bought later, out of money earned in play.
+- **Weapons/Shield (two 1H items):** Battleaxe (Power 2, **Brutal**, **Inertia**) + Kite Shield (4 SV, **Cover**), the shield fitted with **Shield Spikes** (8 sp, same Downtime trip) — a won Shove with the shield deals +1 Impact.
+    - *Inertia:* +2 Power on a Margin 5+ win. *Brutal:* each natural 4 showing on his 2d6 in a Clash adds +1 to the Impact the axe generates, so double 4s add +2.
+
+### Combat Math Quick-Ref
+Melee Strike (Battleaxe) 2d6+3, Impact = Margin+2 (+2 more on Margin 5+ from Inertia; +1 per natural 4 from Brutal) | Block 2d6+2 (Kite Shield's 4 SV eats Impact before it hits WT 9 on a loss) | Grab/Shove/Brace 2d6+2 (Prowess — this is what Giant Feller actually rides on, and now it clears the feat's own Prowess 2 gate) | Dodge 2d6+0 (he blocks, he doesn't dance) | Resolve 2d6+2 | Influence (intimidation) 2d6+0, Advantage vs. smaller/weaker | Activation Order 6
+
+### Advancement Ledger — Milestone 0 → Milestone 6 (18 DP)
+
+**Creation:** Attributes Brawn 3, Will 1 *(4 Attribute DP)*. Skills Melee 3, Block 2, Prowess 2, Resolve 1 *(8 Skill DP, 8 ranks)*. Feats **Iron Grip** and **Trench Fighter** — both Tier 1, as Step 4 requires.
+
+| Milestone | DP earned | Banked before | Spent this Milestone | Bank after |
+|---|---|---|---|---|
+| 1 | 3 | 0 | — (saving) | 3 |
+| 2 | 3 | 3 | **5 DP** — Will 1→2 (Physical/Mental Conditioning) | 1 |
+| 3 | 3 | 1 | **3 DP** — Feat: Juggernaut *(Brawn 2 ✓, Tier 1 feat ✓)* | 1 |
+| 4 | 3 | 1 | **3 DP** — Feat: Giant Feller *(Brawn 2 ✓, Prowess 2 ✓, Tier 1 feat ✓)* | 1 |
+| 5 | 3 | 1 | **3 DP** — Feat: Stoic Resolve *(Will 2 ✓, Resolve 1 ✓)*, **1 DP** — Resolve 1→2 | 0 |
+| 6 | 3 | 0 | **3 DP** — Feat: Iron Conviction *(Will 2 ✓, Resolve 2 ✓, Tier 1 feat ✓)* | 0 |
+
+**18 DP earned, 18 DP spent, 0 banked.** Every prerequisite is checked against what he actually held *at the moment of purchase*, not the finished sheet: Juggernaut and Giant Feller both needed a Tier 1 feat, which his two creation picks supplied; Stoic Resolve's Will 2 only existed from Milestone 2 onward; and Iron Conviction's Resolve 2 wasn't satisfied until the Milestone 5 purchase landed.
+
+Stress Limit climbs 5 → 6 → 6 → 6 → 8 → 8 across the six Milestones. Wound Threshold never moves, because Brawn was already at cap from creation. The whole arc is Ox buying mental durability and leverage to catch up to his physical durability, not stacking more of what he already had.
+
+*(Rebuilt 28 Sep. Three problems, one of them not previously identified. **Juggernaut and Giant Feller were listed as Creation picks and both are Tier 2** — creation is Tier 1 only, and under the Tier ladder a Tier 2 feat also requires a Tier 1 feat, which creation-only picks cannot supply. **His ledger spent 19 DP against 18 earned**, the final row drawing 1 DP from a bank of 0. And **he never met Giant Feller's prerequisite**: it requires Brawn 2 **and** Acrobatics 2 or Prowess 2, and he sat at Prowess 1 — his own Quick-Ref named Prowess as the skill the feat rides on while leaving it a rank short. The fix cost him **Will 3 → 2** (Stress 9 → 8), Melee 4 → 3, Resolve 3 → 2 and Influence 1 → 0; two Attribute increases at 5 DP each were consuming 10 of his 18 DP and buying no feats and no skill ranks. In exchange he gains Prowess 2 — which Giant Feller always needed — and two Tier 1 feats that a Bank-4 anchor genuinely wants.)*
+
+*(Earlier pass, still true: he was originally built with Athletics 1 instead of Prowess. Under the Brawn/Prowess split, Grab/Shove/Brace run on Prowess, not Athletics — Athletics is pure mobility now.)*
+
+### Table Notes
+- **Blood Frenzy vs. the Blood Price are mutually exclusive in the same instant.** Blood Frenzy triggers on *suffering* a Wound. Iron Conviction's free Blood Price exists to *prevent* the Wound. Using one denies the trigger for the other — take the Wound and get a free Stress clear, or dodge the Wound and eat 2 Stress outright. Real choice at the table, not a stacking exploit.
+- **The Resolve auto-pass flagged on Helga's entry is resolved here too.** Resolve 2d6+2 fails a TN 8 check on any roll of 5 or less — 28% of the time. The restructure closed this without a TN change: Attributes no longer stack onto the roll, so a maxed Attribute/Skill pair no longer compounds into an unmissable check. What Will 2 buys him now is a Stress Limit of 8 and a Resolve ceiling of 5 he can still climb toward.
+- **He is the Standing section's second example, deliberately.** That section opens by noting two advanced characters can be nowhere near equivalent — *"one might have sunk every Milestone into a single Attribute, another into six different Feats."* Ox is the second: **six feats and nine Skill ranks** at Hardened, against a *typical* 12–14. That is not a violation. The Standing table's Skill column is explicitly "**Typical** Skill points" and the band is "**descriptive, not a mechanical gate**" — a feat-heavy build simply reads low on a number that measures skill ranks.
+- **Milestone cadence:** Advancement RAW pays out every 2–3 sessions, not every session, so "Milestone 6" represents roughly 12–18 actual sessions of play, not 6. Flagging this because it's the first character in the roster built past Milestone 0 — worth deciding now whether that RAW cadence is the one we actually want at the table.
+
+---
+
+## Morwenna Duskhollow — Elf Female, Arcana Caster (Necromancy)
+
+*"The dead don't lie to me. They're far too tired for games the living still play."*
+
+### Vital Statistics
+- **Species:** Elf
+- **Standing:** Hardened (Milestone 7 — 21 DP earned via Advancement, 2 banked)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 0 | Wits 3 | Will 2
+- **Skills:** Arcana 4 | Notice 2 | Insight 2 | Resolve 2 | Medicine 1 | Lore 1 *(12 ranks. Ceilings: Arcana/Notice/Insight/Lore 6 (Wits 3); Resolve 5 (Will 2); Medicine 6 (Wits 3))*
+- **Wound Threshold:** 4 *(4 base + 0 Brawn + 1 Leather − 1 Hollow-Boned)*
+- **Stress Limit:** 9 *(4 base + 3 Wits + 2 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 0)* | **Activation Order:** 6 *(6 + Reflex 0)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)*
+
+### Species Traits (Elf)
+- **Fey Reflexes:** Advantage on Acrobatics checks to avoid environmental hazards, traps, or AoE.
+- **Trance:** Only needs 4 hours of meditation instead of a full night's rest to clear Stress and stabilize Wounds.
+- **Hollow-Boned (Drawback):** −1 Wound Threshold (already applied above).
+
+### Feats
+- **Arcane Awakening** *(Paradigm: Necromancy — Creation)*. Grimoire below.
+- **Scholarly Resonance** *(Arcana 2 — Creation)*: While holding at least 1 point of Locked Stress, +1 SV against magical effects.
+- **Euclidean Nightmare** *(Wits +2, Arcana +2 — Milestone 6)*: On a successful Arcana spell, spend 1 Momentum to leave a residual glyph in an adjacent square; any enemy that enters or starts its turn there takes 1 Dissonant Stress.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light — no Arcana penalty)
+- **Weapons (two 1H items):** Grimoire (Repository — granted by Arcane Awakening, outside the purse) + Dagger (Finesse — the natural-1 reroll applies, though with Melee 0 it is rescuing a +0; Sidearm/Concealable/Thrown are why she carries it)
+- **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining** at creation. 5 sp on a surgeon's tool roll (feeds Medicine), 3 sp on grave-wax candles and ritual chalk, 55 sp in reserve. The Cloak below was bought much later, out of earnings.
+- **Loot acquired in play:** **Cloak of Still Water** (35 sp, Rare — bought during Downtime after Milestone 5) — Advantage on Stealth checks while moving at half Move or slower. Bought for exactly the reason you'd expect: robbing graves quietly takes patience, not speed.
+
+### Grimoire (Arcana = **2d6+4**)
+- **Marrow Siphon** *(Necromancy, Novice, Attrition — Creation)* — Unopposed vs. TN 8, Activation, **one freshly dead corpse at Short Range** (died this Scene; never a living creature), Instantaneous. **A successful cast spends the corpse.** Fail (<8): 1 Dissonant Stress to her, corpse untouched. Margin 0–2: clears 2 Dissonant Stress but feeds 1 back — a net gain of one slot. Margin 3–4 (Clean, or Mastery-upgraded from 0–2): clears 2 cleanly at no cost, corpse reduced to ash. Margin 5+: as Clean, and she generates 1 Momentum.
+- **Rigor Mortis** *(Necromancy, Novice, Clash-resolution — Creation)* — Arcane Clash vs. Target's Resolve, Short Range, Aggressor. Margin 1–2: target's speed halved, no Dodge next turn; she takes 1 Dissonant Stress. Margin 3+ (Clean, or Mastery-upgraded): target fully Anchored, −2 to their next Aggressor Strike.
+- **Calcify Armour** *(Necromancy, Novice, Utility/Buff — Creation)* — Unopposed vs. TN 8, self or one ally, touch, until the end of the encounter. Margin 0–2: target gains +1 SV, but takes 1 Dissonant Stress from the agonizing process. Margin 3–4 (Clean, or Mastery-upgraded): forms flawlessly, +1 SV, no cost. Margin 5+: enemies who fail a Block/Parry against the target suffer Impact 4 from the jagged bone.
+- **Arcane Protection** *(Common, Novice, Sustain — Creation)* — Not Mastery-eligible (Common list). Unopposed vs. TN 8, **Activation to raise only; never castable as a Reactor**, **self only**, Sustain (no Locked Stress; re-roll vs. TN 8 each Activation and on taking a Wound). Margin 0–2: holds, 1 Dissonant Stress. Margin 3–4: holds, hostile spells targeting her suffer Disadvantage. Margin 5+: as Clean, ward gains SV 2 against the next hostile spell. Special: while it stands she may use **Arcana as her defense** against an incoming hostile spell in place of her normal Reactor stat, at every band including Messy — and *spell* being generic, that covers hostile **Prayers**.
+- **Corpse Bloom** *(Necromancy, Adept — Milestone 3)* — Unopposed vs. TN 10, one corpse in sight, 10ft radius, Spell Power 3. Everyone in the radius (friend or foe) takes Impact = Margin + 3. Margin 0–2 (Mastery-upgraded to Clean): detonation is delayed/unpredictable rather than instant.
+- **Zombie** *(Necromancy, Master — Milestone 5)* — Unopposed vs. TN 12, touch, requires a corpse within reach. Margin 0–2 (Mastery-upgraded to Clean): corpse rises as an NPC Undead under her control for the Scene (Wound Threshold 6, no Stress Limit). Margin 3–4: as above, no cost. Margin 5+: she may Lock 5 Stress to make the servant permanent instead of letting it end with the Scene.
+
+### Combat Math Quick-Ref
+Arcane Manifestation/Clash 2d6+4 | Dagger Strike 2d6+0 | Dodge 2d6+0 (she has no defense to speak of — the whole build is "win before they close the distance") | Resolve 2d6+2 | Notice 2d6+2 | Activation Order 6
+
+### Advancement Ledger — Milestone 0 → Milestone 7 (21 DP)
+
+| Milestone | DP earned | Banked before | Spent this Milestone | Bank after |
+|---|---|---|---|---|
+| 1 | 3 | 0 | — (saving) | 3 |
+| 2 | 3 | 3 | **5 DP** — Will 1→2 (Physical/Mental Conditioning) | 1 |
+| 3 | 3 | 1 | **3 DP** — Learn Corpse Bloom (Adept, in-Paradigm) | 1 |
+| 4 | 3 | 1 | **1 DP** — Resolve 1→2 (rank ≤ 4, flat cost) | 3 |
+| 5 | 3 | 3 | **5 DP** — Learn Zombie (Master, in-Paradigm) | 1 |
+| 6 | 3 | 1 | **3 DP** — Feat: Euclidean Nightmare *(Wits 3 ✓, Arcana 3 ✓ — met since creation)* | 1 |
+| 7 | 3 | 1 | **1 DP** — Insight 1→2, **1 DP** — Notice 1→2 (both rank ≤ 4, flat cost) | 2 (banked, saving toward Will 3 or Puppet) |
+| — | — | — | **1 DP** — Arcana 3→4 (rank ≤ 4, flat cost; recosting under the new ladder freed 1 DP) | 1 |
+
+20 of 21 DP spent, 1 banked. Every Arcana spell purchase above used the in-Paradigm rate (Necromancy is her chosen Paradigm) — an off-Paradigm Adept or Master pick would have cost 6 or 8–10 DP instead, per the double-cost rule.
+
+### Table Notes
+- **Necromancy's Novice tier is no longer thin — a third spell (Calcify Armour) exists now, matching every other Paradigm at exactly 3.** Under the current 4-spell Arcane Awakening (see The Marrow), Morwenna's four starting picks are all three in-Paradigm Necromancy spells (Marrow Siphon, Rigor Mortis, Calcify Armour) plus Arcane Protection from Common — the same shape every Arcane Awakening character now has, not a Necromancer-specific gap the way it used to read.
+- **Spell-learning now requires a Skill floor** (Arcana 2+ for Adept, 3+ for Master; see The Marrow's Advancement rules) — closing the gap where "Learn New Arcane Spells" used to gate on nothing but DP, unlike every Feat in the corpus. Morwenna's own purchases already clear it: Arcana was 3 at both Milestone 3 (Corpse Bloom, Adept) and Milestone 5 (Zombie, Master), so nothing about her build needs to change retroactively.
+- **Zombie priced at 5, not 4, of the Master range's 4–5 DP** — a judgment call, not a rule the text spells out. Justification: its Margin 5+ clause converts a Scene-duration effect into a *permanent* one for 5 Locked Stress, which is a categorically bigger payoff than Drain Stress or Puppet get at the same Level. If a cleaner rule for splitting the 4–5 range is wanted, "does the Margin 5+ result grant permanence or a repeatable effect" is a reasonable line to draw it on.
+- **Glass cannon, deliberately.** Her Wound Threshold is 4 today — identical to her creation-day value. All 19 spent DP went into offense, utility, and Stress Limit; none of it touched Brawn, Armour, or anything that would raise WT. Same Focus vs. Spread pattern flagged below for Helga/Faelan/Pip, just carried all the way through a full Advancement arc instead of stopping at character creation — and a useful contrast against Ox, who spent his entire arc buying durability instead.
+
+---
+
+## Perpetua Vane — Human Female, Faith Caster (Mercy & Healing Domain)
+
+*"Pain has to go somewhere. Better it comes to me than stays with you."*
+
+### Vital Statistics
+- **Species:** Human
+- **Standing:** Hardened (Milestone 8 — 24 DP earned via Advancement, 2 banked)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 1 | Reflex 0 | Wits 1 | Will 3 *(started at 2 — see Advancement Ledger)*
+- **Skills:** Faith 4 | Medicine 2 | Resolve 2 | Influence 2 | Melee 1 | Notice 2 *(13 ranks. Ceilings: Faith/Resolve/Influence 6 (Will 3); Medicine/Notice 4 (Wits 1); Melee 4 (Brawn 1))*
+- **Wound Threshold:** 7 *(4 base + 1 Brawn + 2 Chain Shirt + 0 Species)*
+- **Stress Limit:** 9 *(4 base + 1 Wits + 3 Will + 1 Indomitable Spirit)*
+- **Wound Slots:** 3 | **Momentum Bank:** 3 *(4 + Reflex 0, −1 Steady, Not Sharp)* | **Activation Order:** 6 *(6 + Reflex 0)*
+- **Inventory Slots:** 9 *(8 + 1 Brawn)*
+
+### Species Traits (Human)
+- **Adaptable:** +1 Skill **DP** at creation (already applied — a Human's creation Skill budget is 9, not 8, and hers is now actually spent: the 9th DP went to Notice, which had been left unspent).
+- **Indomitable Spirit:** +1 Stress Limit (already applied above).
+- **Steady, Not Sharp (Drawback):** −1 to your Momentum Bank cap.
+
+### Feats
+- **Divine Conduit** *(The Covenant, Domain of Mercy & Healing — Creation)*. Grants a Holy Symbol, the **Pure Martyrdom** Domain Tag (casting Healing/Stabilize: take 1 Locked Stress herself to clear an additional Wound Slot on the target), and the 4 Novice Prayers below.
+- **Dung-Healer's Salve** *(Medicine +1 — Creation)*: A Breather can't normally heal Wounds — this is the exception. Mundane foraged supplies let a Medicine check heal a Wound Slot during a Breather anyway; the patient takes 1 Locked Stress from the crude treatment.
+- **Gallows Humour** *(Influence +1 or Resolve +1 — Milestone 6)*: Recounting a harrowing story during a Breather lets her and every ally participating each clear 1 point of **clearable** Locked Stress — never the Attunement kind (Iron Core, Golden Rules).
+
+### Equipment
+- **Armour:** Chain Shirt (+2 Armour, Light)
+- **Weapon (one 1H item):** Mace (Power 2, Bash) — the off-hand stays free for her Holy Symbol and battlefield triage rather than a shield; see Table Notes.
+- **Holy Symbol** (granted by Divine Conduit — outside the purse)
+- **Starting Purse: 80 sp** — Chain Shirt 50 + Mace 8 = **58 sp spent, 22 sp remaining.** 6 sp on bandages and a suture kit, 2 sp on clean spirits for wound-cleaning, 14 sp in reserve. Skipping the shield to keep her off-hand free is what paid for the better armour — a medic who cannot reach the patient is no medic, so she bought the survivability instead of the shield.
+
+### Prayers (Tithe of Will = Faith = **2d6+4**, vs. tiered TN)
+- **Healing/Stabilize** *(Common, Novice — Creation)* — Tithe vs. TN 8, 2 Locked Stress. Pass: clears 1 Wound Slot; if the target is Incapacitated, also Stabilizes them. A character can't benefit from a second Healing-type Prayer in the same Scene.
+- **Elara's Comfort** *(Domain, Novice — Creation)* — Tithe vs. TN 8, 1 Locked Stress. Pass: target clears 2 Dissonant Stress.
+- **Bolster the Faithful** *(Domain, Novice — Creation)* — Tithe vs. TN 8, 1 Locked Stress. Pass: target gains Blessed.
+- **Elara's Vigil** *(Domain, Novice — Creation)* — Tithe vs. TN 8, 1 Locked Stress, touch, requires uninterrupted downtime. Pass: halves the target's next natural Wound-Slot recovery time, or auto-succeeds a downtime Medicine check made on her behalf.
+- **Wrathful Light** *(Domain, Novice — Milestone 4)* — Tithe vs. TN 8, 2 Locked Stress. Pass: target must pass Resolve (TN 8) or take 2 Dissonant Stress; Undead/Daemon/Mutant targets also gain Fear. Her one offensive option.
+- **Elara's Burden** *(Domain, Adept — Milestone 3)* — Tithe vs. TN 10, 2 Locked Stress. Pass: transfers 1 Wound from an ally directly onto her.
+- **The Weeping Communion** *(Domain, Adept — Milestone 5)* — Tithe vs. TN 10, 2 Locked Stress. Pass: every ally within 15ft gains Blessed for the Scene.
+- **Bless** *(Common, Novice — Milestone 8)* — Tithe vs. TN 8, 1 Locked Stress. Pass: target gains +1 to their next Clash roll within a minute.
+
+### Combat Math Quick-Ref
+Tithe of Will 2d6+4 *(2d6+3 at creation — see Advancement Ledger)* | Mace Strike 2d6+1, Impact = Margin+2 | Block 2d6+0 | Dodge 2d6+0 | Resolve 2d6+2 | Medicine 2d6+2 | Notice 2d6+2 | Activation Order 6
+
+### Advancement Ledger — Milestone 0 → Milestone 8 (24 DP)
+
+| Milestone | DP earned | Banked before | Spent this Milestone | Bank after |
+|---|---|---|---|---|
+| 1 | 3 | 0 | — (saving) | 3 |
+| 2 | 3 | 3 | **5 DP** — Will 2→3 (Physical/Mental Conditioning) | 1 |
+| 3 | 3 | 1 | **3 DP** — Learn Elara's Burden (Adept Domain Prayer) | 1 |
+| 4 | 3 | 1 | **2 DP** — Learn Wrathful Light (Novice Domain Prayer) | 2 |
+| 5 | 3 | 2 | **3 DP** — Learn The Weeping Communion (Adept Domain Prayer) | 2 |
+| 6 | 3 | 2 | **3 DP** — Feat: Gallows Humour *(Influence 1 ✓ / Resolve 1 ✓ — met since creation)* | 2 |
+| 7 | 3 | 2 | **1 DP** — Resolve 1→2, **1 DP** — Influence 1→2 (both rank ≤ 4, flat cost) | 3 |
+| 8 | 3 | 3 | **1 DP** — Medicine 1→2 (rank ≤ 4, flat cost — was 2 DP under Pushing the Limit), **2 DP** — Learn Bless (Common Novice) | 3 |
+| — | — | — | **1 DP** — Faith 3→4 (rank ≤ 4, flat cost; the DP the recosting freed) | 2 |
+
+22 of 24 DP spent, 2 banked. The build's original point — a signature roll that visibly grows rather than arriving finished — survives the restructure, but it now runs on a different mechanism. Will no longer feeds the Tithe roll, so her Milestone 2 Attribute purchase didn't raise it; what that purchase bought was a Faith ceiling of 6 and a Stress Limit of 9. The roll itself moved from 2d6+3 to 2d6+4 when the recosted DP went into Faith. Under the new rules *no* Green character arrives finished, because rank 6 costs 9 DP against a budget of 8 — the pattern this build was written to demonstrate is now simply how creation works.
+
+### Table Notes
+- **The actual point of this build, revisited.** She was written to demonstrate a character whose signature roll wasn't finished at creation, in contrast to Ox and Morwenna, who both capped Attribute and Skill on day one. The Attribute restructure makes that contrast obsolete: Attributes don't touch the roll, and the +6 ceiling costs 9 DP against a creation budget of 8, so a day-one-finished character can no longer be built. What she still demonstrates is the *other* half of Advancement — that a 5-DP Attribute purchase buys ceiling and durability rather than immediate numbers, and that the payoff arrives later, when there's DP spare to climb into the room it opened.
+- **Faith's off-Domain rule is stricter than Arcana's, and it's worth confirming that's deliberate.** Arcana lets an off-Paradigm spell be learned at double DP cost. Faith's Advancement entry says flatly "cannot learn Prayers from outside your Chosen Cult/Domain" — no double-cost escape valve exists. That reads consistently with Arcana = Volatile-but-flexible vs. Faith = Certain-but-rigid, but it's stated as an absolute with no stated rationale, so worth a one-line confirmation that the asymmetry is intended rather than an oversight in how the two Advancement menus were written.
+- **Same Skill floor fix noted on Morwenna applies here too.** "Learn New Faith Spells" now requires Faith 2+ for Adept, 3+ for Master (see The Marrow's Advancement rules). Perpetua's own purchases already clear it: Faith was 3 at creation, before Elara's Burden (Adept, Milestone 3), so nothing about her build needs to change retroactively.
+- **No shield, unlike Helga.** Both are Will/Faith casters who could have taken Mace + Shield; Helga did (WT 8, frontline-control Law priest), Perpetua didn't (WT 7, off-hand kept free instead). That's a deliberate concept choice, not a rules gap — Elara's Comfort, Healing/Stabilize, and the Domain Tag's extra-Wound-clear are all touch-range, and a free hand for bandages and a held Holy Symbol matters more to a battlefield medic than 4 extra SV. Flagging the divergence from precedent so it reads as intentional rather than inconsistent.
+
+---
+
+# Storied
+
+## Faelan Rook — Half-Elf Male, Arcana Caster (Shadow Sorcery)
+
+*"Everyone assumes the smiling half-breed is the safe one to talk to. That's rather the point."*
+
+*Same character as the Green build above, advanced ten Milestones and kept side by side deliberately, the same way Aeric is shown at Green and Veteran. The roster's first Storied character.*
+
+### Vital Statistics
+- **Species:** Half-Elf (Split Heritage: took Fey Reflexes, and its paired Hollow-Boned drawback)
+- **Standing:** Storied (Milestone 10 — 30 DP earned via Advancement, 0 banked)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 2 | Wits 3 | Will 0
+- **Skills:** Arcana 6 | Stealth 1 | Acrobatics 1 | Notice 1 | Insight 1 | Thievery 1 *(11 ranks — 8 from Creation, 3 from Advancement. Ceilings: Arcana/Notice/Insight 6 (Wits 3) — Arcana is now at its hard ceiling; Stealth/Acrobatics/Thievery 5 (Reflex 2))*
+- **Wound Threshold:** 4 *(4 base + 0 Brawn + 1 Leather − 1 Hollow-Boned)*
+- **Stress Limit:** 7 *(4 base + 3 Wits + 0 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 6 *(4 + Reflex 2)* | **Activation Order:** 8 *(6 + Reflex 2)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)*
+
+### Species Traits (Half-Elf)
+- **Silver-Tongued:** Advantage on Influence checks to persuade, de-escalate, negotiate, or gather information.
+- **Fey Reflexes** *(chosen Split Heritage trait)*: Advantage on Acrobatics checks vs. hazards, traps, AoE.
+- **Between Worlds (Drawback):** Disadvantage on Influence in insular/xenophobic communities.
+- **Hollow-Boned (Drawback, comes with Fey Reflexes):** −1 Wound Threshold (already applied above).
+
+### Feats
+- **Arcane Awakening** *(Paradigm: Shadow Sorcery — Creation)*. Grimoire below.
+- **Whispers in the Dark** *(Stealth +1, Notice +1 — Creation)*: While successfully hidden, Advantage on Notice checks to eavesdrop, read lips, or observe details without breaking cover.
+- **Euclidean Nightmare** *(Arcanist, Tier 2; Wits 2, Arcana 2 — Milestone 1)*: after successfully casting an Arcana spell, may spend 1 Momentum to leave a residual, jagged glyph in an adjacent square. Any enemy that enters or starts its turn in that square takes 1 Dissonant Stress from the impossible angles.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light — no Arcana penalty)
+- **Weapons (two 1H items):** Grimoire (Repository — granted by Arcane Awakening, outside the purse) + Dagger (Finesse)
+- **Starting Purse: 80 sp** — Leather 12 + Dagger 5 = **17 sp spent, 63 sp remaining.** 5 sp on a signet ring, 2 sp on ink/paper/sealing wax, 16 sp on 2 Grave-Dust Poultices, 40 sp banked. *(No Downtime purchases assumed across the ten Milestones — every DP went into the Grimoire and the archetype, not the kit.)*
+
+### Grimoire (Arcana = **2d6+6**)
+- **Deflection** *(Paradigm, Mastery-eligible)* — **Reactor only; never raised in advance.** Arcane Clash (Arcana) opposed against the incoming attack, **self only**, **Scene** duration — it stands until the next Breather or a lost Clash, and is **not** a Sustain effect, so it needs no maintenance roll and doesn't occupy the Channelling slot. Margin 0–2 *(a tie counts here)*: attack deflected, 1 Dissonant Stress. Margin 3–4: deflected at no cost, and attacks against him take −2 while it stands. Margin 5+: as Clean, but the penalty is full Disadvantage. **Lose the Clash and the attack lands for full Impact with no mitigation — no Shield Value, no armour — and the ward falls.**
+- **Stitch the Silhouette** *(Paradigm, Clash-resolution, Mastery-eligible)* — Arcane Clash vs. Prowess, Short Range, Aggressor. Margin 1–2: target Anchored until they tear free (1 Dissonant Stress to themselves doing so); costs Faelan 1 Dissonant Stress. Margin 3+ (Clean, or Mastery-upgraded from 1–2): as above, and target also loses Dodge as an option until free — no cost.
+- **Flicker-Step** *(Paradigm, Mastery-eligible)* — Unopposed vs. TN 8, Self, 30ft teleport, ignores Threat Zones entirely. Margin 0–2: teleports, but arrives gasping — 1 Dissonant Stress. Margin 3–4: silent and flawless. Margin 5+: also generates 1 Momentum or grants Advantage on his next Strike.
+- **Havoc** *(Common, not Mastery-eligible)* — Arcane Clash vs. each target's Prowess + Athletics/Acrobatics, 10ft radius, Short Range, Aggressor. Margin 1–2: target pushed 5ft and takes 1 Dissonant Stress; he also takes 1 Dissonant Stress from the strain. Margin 3+ (Clean): target pushed 10ft, knocked Prone, and takes 1 Dissonant Stress. *(Picked at creation over Illusion specifically to give him a genuine offensive option — the rest of his kit is control and escape.)*
+- **Disguise** *(Paradigm, Adept, Mastery-eligible — Milestone 2)* — Unopposed vs. TN 10, Self, Scene; anyone suspicious rolls Notice vs. his Margin to see through it. Margin 0–4 (Mastery resolves any success Clean): holds, no cost. Margin 5+ (Massive): the veil extends to up to 3 allies within Short Range.
+- **Invisibility** *(Paradigm, Adept, Mastery-eligible — Milestone 3)* — Unopposed vs. TN 10, self or one ally, touch, Scene or until broken. Margin 0–4 (Mastery: Clean): target is invisible — attackers suffer Disadvantage targeting them, target gains Advantage on Stealth; drops the instant they attack or cast. No cost. Margin 5+ (Massive): remains invisible even after attacking — attacking only reveals general position, removing attackers' Disadvantage for 1 round instead of dropping the spell.
+- **Creeping Dusk** *(Paradigm, Adept, Mastery-eligible — Milestone 4)* — Unopposed vs. TN 10, 15ft radius, Short Range, Scene. Margin 0–4 (Mastery: Clean): the zone forms perfectly — magical darkness breaks line of sight, ranged attacks can't cross it, attacking an unseen enemy inside costs the attacker -2 Clash. Margin 5+ (Massive): the shadows turn hostile — any enemy starting its turn inside must pass a TN 8 Resolve check or take 1 Dissonant Stress.
+- **Blade of Paranoia** *(Paradigm, Adept, Mastery-eligible — Milestone 5)* — Arcane Clash vs. Target's Wits or Resolve, Short Range, Aggressor. Bypasses Shield Value and armour entirely — attacks the Stress track directly, zero physical Impact. Resolves Clean at any success via Mastery: target suffers 2 Dissonant Stress, and that creature must discard 1 Momentum from its own Bank if it has any. No cost to Faelan.
+- **Umbral Execution** *(Paradigm, Master capstone of Blade of Paranoia, Mastery-eligible — Milestone 7)* — Arcane Clash vs. Target's Wits or Resolve, Short Range, Aggressor. Requires the target to currently be unable to see him — invisible, in darkness (magical or mundane), totally concealed, or successfully Stealthed; pairs directly with Creeping Dusk and Invisibility above. Bypasses SV/armour entirely. Resolves Clean at any success via Mastery: target suffers 4 Dissonant Stress; if this brings them to or past Breaking, the shock is total and they're Incapacitated outright instead of the normal Break effects. No cost to Faelan.
+
+### Combat Math Quick-Ref
+Arcane Clash/Manifestation 2d6+6 (incl. Havoc) | Dagger Strike 2d6+0 *(Melee 0; Finesse lets him reroll a natural 1)* | Dodge 2d6+1 | Notice 2d6+1 | Activation Order 8
+
+### Advancement Ledger — Milestone 0 → Milestone 10 (30 DP)
+
+| Milestone | DP earned | Banked before | Spent this Milestone | Bank after |
+|---|---|---|---|---|
+| 1 | 3 | 0 | **3 DP** — Feat: Euclidean Nightmare *(Wits 3 ✓, Arcana 3 ✓ — already met at creation)* | 0 |
+| 2 | 3 | 0 | **3 DP** — Spell: Disguise (Adept) | 0 |
+| 3 | 3 | 0 | **3 DP** — Spell: Invisibility (Adept) | 0 |
+| 4 | 3 | 0 | **3 DP** — Spell: Creeping Dusk (Adept) | 0 |
+| 5 | 3 | 0 | **3 DP** — Spell: Blade of Paranoia (Adept) | 0 |
+| 6 | 3 | 0 | — (saving toward the Master spell) | 3 |
+| 7 | 3 | 3 | **4 DP** — Spell: Umbral Execution (Master, low end of the 4–5 DP band) | 2 |
+| 8 | 3 | 2 | **3 DP** — Arcana 3→4 (1 DP) + 4→5 (2 DP) | 2 |
+| 9 | 3 | 2 | **3 DP** — Arcana 5→6 (rank 6, flat 3 DP) — now at its Wits-3 ceiling | 2 |
+| 10 | 3 | 2 | **5 DP** — Reflex 1→2 (Physical/Mental Conditioning) | 0 |
+
+Every DP in this arc went to the Grimoire, the one Feat that needed no stat detour, or the Attribute/Skill work that unlocked them — none of it went sideways into a secondary competency for its own sake. Euclidean Nightmare came first because nothing was gating it; both Adept and Master spells came next, in the order his kit actually wants them (control and concealment before the finisher that depends on being unseen); Arcana was pushed to its hard ceiling only once the spell list was secured, not before; Reflex came last, purely as payoff, and is the only stat move in the whole arc that wasn't chasing a prerequisite.
+
+### Table Notes
+- **Engine of Ruin (Arcanist Tier 3) was deliberately skipped.** Storied's typical shape leans Tier 3, and Faelan could afford the prerequisites (Wits 3, Arcana 3) from creation day the same way he could Euclidean Nightmare. But Engine of Ruin's payload — dumping his full Dissonant Stress as an AoE blast, allies included, on a Backfire — is a bad fit for a character built entirely around not getting caught. The DP went into finishing Shadow Sorcery's own spell list instead. A control-and-consequences build over a self-detonating one.
+- **Umbral Execution is the payoff for everything else on the sheet, not a bolt-on capstone.** It only works on a target who can't see him, which means Creeping Dusk, Invisibility, Stealth 1 (with room to grow via the new Reflex-2 ceiling), and Whispers in the Dark all feed directly into unlocking his best hit. This is the tightest his kit has ever read mechanically.
+- **Arcana at its hard ceiling (6) is the first time any character in this roster has actually capped a Skill via Advancement**, rather than arriving at 6 already Spiked at creation the way Ox and Morwenna did with Melee/Arcana. Ten Milestones bought the room to grow into a ceiling that's been sitting there since Green.
+- **Skill total (11) undershoots the Storied 15+ typical, on purpose.** Every point of Advancement DP chased one signature competency and the kit that supports it; nothing went to Stealth, Acrobatics, Notice, Insight, or Thievery beyond their creation-day 1. This is the third character in the roster to show that pattern (after Ox and Morwenna, both Hardened) — Design Note 7's "commit fully, broaden never" shape holding at a Standing further along than it's been tested before.
+- **Momentum Bank and Activation Order both moved (5→6, 7→8) as a side effect of the one Reflex purchase**, not because either was ever the point — worth noting since it's easy to read a late Attribute bump as "wasted" on a caster and it isn't quite; it's just not why the purchase happened.
+
+---
+
+## Design Notes
+
+**4. Focus vs. spread — superseded by the Attribute restructure.** This note originally compared each character built twice: once maxing the core Attribute at 3, once capped at 2 with the freed point spent elsewhere, and concluded that one point off the signature roll bought roughly one point somewhere else load-bearing. That tradeoff no longer exists in the form described, because Attributes don't contribute to any roll. The comparison it was making is now made by the Attribute arrays at creation (Spike / Twin / Broad / Flat, see The Marrow), which trade Skill *ceilings* and derived stats rather than roll modifiers. What the roster demonstrates instead:
+
+| Character | Signature roll | Ceiling available | Derived-stat shape |
+|---|---|---|---|
+| Helga (Green, Spike) | Tithe of Will 2d6+3 | Faith 6 | WT 8 / Stress 9 / Momentum 4 |
+| Faelan (Green, Spike) | Arcana 2d6+3 | Arcana 6 | WT 4 / Stress 7 / Momentum 5 |
+| Pillit (Green, Spike) | Ranged 2d6+3 | Ranged 6 | WT 4 / Stress 5 / Momentum 7 |
+| Bram (Green, Spike) | Melee 2d6+3 | Melee 6 | WT 9 / Stress 5 / Momentum 4 |
+| Elowen (Green, Spike) | Thievery 2d6+3 | Thievery 6 | WT 4 / Stress 5 / Momentum 7 |
+| Wren (Blooded, Spike) | Stealth 2d6+3 | Stealth 6 | WT 4 / Stress 5 / Momentum 7 |
+| Ox (Hardened, Spike) | Melee 2d6+3 | Melee 6 | WT 9 / Stress 8 / Momentum 4 |
+| Morwenna (Hardened, Spike) | Arcana 2d6+4 | Arcana 6 | WT 4 / Stress 9 / Momentum 4 |
+| Perpetua (Hardened, Spike) | Tithe of Will 2d6+4 | Faith 6 | WT 7 / Stress 9 / Momentum 3 |
+| Faelan (Storied, Spike) | Arcana 2d6+6 | Arcana 6 (at ceiling) | WT 4 / Stress 7 / Momentum 6 |
+| Dorin (Green, Spike) | Arcana 2d6+3 | Arcana 6 | WT 6 / Stress 8 / Momentum 4 |
+
+| Corvin (Green, **Twin**) | Melee 2d6+4 | Melee 5 / Acrobatics 5 | WT 6 / Stress 5 / Momentum 5 |
+| Corvin (Blooded, **Twin**) | Melee 2d6+4 | Melee 5 / Acrobatics 5 | WT 7 / Stress 5 / Momentum 5 |
+| Aeric (Green, **Twin**) | Melee 2d6+3 | Melee 5 / Athletics 5 | WT 6 / Stress 4 / Momentum 6 |
+| Aeric (Veteran, **Twin**) | Melee 2d6+3 | Melee 6 / Athletics 6 | WT 7 / Stress 4 / Momentum 6 |
+| Brynja (Green, **Flat**) | Tithe of Will 2d6+3 / Ranged 2d6+3 | Faith 4 / Ranged 4 | WT 7 / Stress 6 / Momentum 5 |
+| Brynja (Veteran, **Flat → broken**) | Tithe of Will 2d6+3 / Ranged 2d6+3 | Faith 4 / Ranged 4 / Notice-family 5 | WT 7 / Stress 7 / Momentum 5 |
+| Maren (Green, **Broad**) | Influence 2d6+3 | Influence 5 | WT 5 / Stress 7 / Momentum 4 |
+
+**Nine of eleven characters use the Spike array — and that's no longer just legacy inertia.** The original seven all predate the restructure, which was the strongest evidence available that the old Link Rule made 3/1/0/0 the only real choice. Bram and Elowen were built after the restructure, with Twin/Broad/Flat fully on the table, and both still landed on Spike — worth flagging honestly rather than treating as more confirmation: it may mean Spike really is the more legible default for a new Green build even with no mechanical push toward it, or it may just mean I'm defaulting to it out of habit when drafting sample sheets. Either way, it's a bias worth someone else's eyes on, not a conclusion.
+
+Aeric is the second deliberate Twin build, and the first at **Green** rather than Blooded — a genuinely new data point, not a repeat of Corvin. At Green, Twin's cost reads heavier in absolute terms: Aeric's WT 6 sits a full 3 points under Bram's WT 9, the same Standing, both built around Brawn as their tank stat. At Blooded, Corvin's WT 7 is only 2 under Ox's eventual WT 9 — but Ox is Hardened, six Milestones further along, so that's not actually a fair same-Standing comparison either. The claim that **the arrays are indistinguishable on the dice at Green and Blooded** still holds — Aeric's Melee 2d6+3 matches Bram's exactly — but "indistinguishable on the dice, felt hardest on Wound Threshold at low Standing" is the more accurate summary now that there are two Green melee builds to compare directly. Broad is now demonstrated too, by Maren — the last of the four arrays to get a real build. Her ceilings (5/4/4/3) are the middle ground the array table promises: one strength that can climb further than Twin's pillars, spread wider than Flat's floor. Flat is demonstrated once, by Brynja: every ceiling on her sheet sits at 4, and the "no weaknesses, no peak" description holds up literally rather than just in the abstract — she's the first character in the roster with two simultaneously live skills instead of one dominant one, at the direct cost of not being able to use both in the same turn (see her Table Notes). All four arrays are now built at least once; the next useful test isn't a fifth example of any of them, it's the same array shown at a higher Standing, the way Corvin and Aeric let Twin be compared at Blooded and Green side by side.
+
+**5. Milestone Standing — first character built past Green.** Helga, Faelan, and Pillit are Milestone 0 (Green) — clean creation builds, useful for comparing chargen tradeoffs, but none of them show what the game looks like after actual play. Wren, on closer inspection, isn't actually Green either — her Parasitic Momentum is Tier 2, which chargen cannot grant, so she's Milestone 1 (Blooded); the previous pass mistagged her and it's corrected above now. Ox is Milestone 6 (Hardened), and his ledger is deliberately shown in full rather than just stating his final numbers, so the Standing terminology (full definition in The Marrow, Character Creation) has a worked example to point at instead of just an abstract table. Two things worth watching as more Hardened/Storied characters get built: whether the Blooded/Veteran/Hardened/Storied band boundaries actually track how a character *feels* at the table, and whether "Milestone count" or "Standing" ends up being the one people actually say out loud — my guess is Standing wins for casual reference and Milestone count only gets used when something's being checked precisely (prerequisites, GM encounter math), but that's a guess until it's been through a few sessions.
+
+**6. Second Hardened example, and a real gap it surfaced.** Morwenna (Milestone 7, Hardened) is deliberately built as Ox's opposite: same Standing band, same total DP order of magnitude, entirely different shape — he spent his arc buying durability he lacked, she spent hers buying offense and utility while her Wound Threshold never moved off its creation-day value of 4. That contrast is the point of having two Hardened examples rather than one; a single data point can't show that Standing describes *how far*, not *which direction*. Building her out also caught something Ox's arc didn't: Feats universally gate on an Attribute or Skill minimum, but "Learn New Arcane/Faith Spells" gates on nothing but DP. Nothing currently stops a low-Arcana character from buying an Adept or Master spell they can't reliably cast — self-correcting in practice (nobody wants to fail 90% of the time) but inconsistent with how every other line on the Training & Growth Menu works. Worth a deliberate ruling — an Arcana/Faith rank minimum tied to spell Level, mirroring how Feats already work — rather than leaving it as an accident of the menu's phrasing.
+
+**7. Ox and Morwenna were both built to the extreme at Milestone 0 — Perpetua wasn't, on purpose.** Both prior Hardened characters capped their signature Attribute *and* Skill simultaneously in character creation (Brawn 3/Melee 3; Wits 3/Arcana 3), which means both of them had already finished their core competency before a single Milestone was spent — every subsequent DP went to secondary stats, never to the thing that defines the build. That's a legitimate pattern (it's what "cap at 3, commit early" produces), but it isn't the only one, and doing it twice in a row risked it reading as the default rather than a choice. Perpetua caps only Faith at creation and leaves Will one point short, so her signature Tithe of Will roll is visibly, mechanically incomplete until Milestone 2 — a player at her table for the first two Milestones is playing a genuinely less-finished character, not a fully-formed one wearing a lower Standing tag. Worth deciding which pattern is the intended chargen default going forward, since both are now demonstrated: commit fully to a 3/3 combo early and spend Advancement broadening outward, or leave the combo one point short and spend early Advancement closing it.
+
+**8. First character shown at two Standings side by side, and the Berserker archetype's first live pickup.** Aeric's Green sheet stays in the roster unchanged; the Veteran version is the same character, three Milestones later, not a replacement — the comparison note 4 flagged as missing (Twin at a higher Standing) now has a real data point instead of a guess. It's also the first time any pregen has purchased an Archetype Feat through Advancement rather than having one already assumed at creation the way Wren's Parasitic Momentum was. The prerequisite math held cleanly here: Brawn 2 was already banked from creation, so the only real gate was Resolve 2, bought first and cheaply (1 DP, flat rank cost) specifically to clear it before the Feat purchase. Worth watching as more Archetype Feats get bought this way: whether their prerequisites tend to already be half-met by creation-day builds (as here), or whether some archetypes will force an Attribute or Skill investment a player wouldn't otherwise make.
+
+**9. First Storied character, and the first time Standing's "typical shape" was deliberately not followed.** Faelan joins Aeric as a two-Standings comparison (Green sheet untouched above, Storied version ten Milestones later). Unlike Aeric, whose Milestone 0 build already had its Attribute prerequisites banked for Berserker Tier 2, Faelan's ten-Milestone arc never touched Engine of Ruin (Arcanist Tier 3) even though he could afford its prerequisites from creation day too — the Feat's self-detonating Backfire clause doesn't fit a character whose entire kit is about not being caught, so the DP went into finishing Shadow Sorcery's own Adept/Master list instead. Worth flagging as a real tension the Standing table doesn't capture: "Storied... pushing into Tier 3 Feats" (The Marrow) describes a typical shape, not a mandatory one, and this is the first build to say so explicitly rather than just defaulting to the extreme. Also: this is the third character (after Ox and Morwenna) to show the "commit fully to one signature stat, never broaden" pattern from note 7 — now demonstrated at Green→Veteran/Hardened *and* Green→Storied, not just within a single late-game build.
+
+**10. Brynja's Veteran pickup, a genuine cross-document error it surfaced, and Flat's first departure from lockstep.** Third same-character comparison (Aeric, Faelan, now Brynja), and the first Veteran example of a Feat picked *because* the obvious alternative would have been dead weight: the Zealot's Litany of Nails only triggers while keeping a Prayer Flowing, and every Prayer on Brynja's sheet — confirmed, not assumed — is a designed fixed-duration effect, not a Flowing one. That check surfaced a real error rather than a maybe: Embracing the Abyss's Channelling Rule cited Litany of Nails itself as an example of a Flowing Prayer, when it's actually the Zealot's Tier 2 Archetype Feat name from The Marrow — not a Prayer at all, and not listed in any Domain. Corrected there to cite Sanctuary (Domain of Strategy, Adept) instead, which is an actual Flowing Prayer. Separately: Brynja is also the first Flat-array character to leave lockstep during Advancement (Wits 2 against Brawn/Reflex/Will at 1) — flagged as an open question in her Table Notes rather than resolved, since nothing in The Marrow says whether "Flat" is a creation-day description only or a philosophy meant to survive Advancement.
+
+**11. First character built backward from an existing higher-Standing sheet, rather than forward from Green.** Corvin's Advancement Ledger already recorded exactly what his two Milestones bought (Riposte, The Insulting Deflection, and — in the equipment prose — a Downtime Leather upgrade over his creation-day Gambeson), so his Green sheet was reconstructed by subtraction rather than designed fresh. That the ledger held enough information to run in reverse cleanly is worth treating as a soft requirement for every future ledger, not just documentation style: a character whose Advancement history is prose-only, without an itemized Milestone-by-Milestone table, couldn't be reconstructed this way. This also completes the roster's second Twin-array pair (after Aeric's Green/Veteran) and confirms the same finding from the opposite direction: Twin is dice-invisible well past creation — Corvin's Strike roll is identical at Green and Blooded, just as Aeric's Melee roll was identical at Green and Veteran — and only shows up once Advancement actually opens a second ceiling, which neither Twin character has reached yet at the Standings currently on the sheet.
+
+**12. A Green caster's focus, the first 2/1/1 spell split, and a new Tier 1 Feat.** Dorin Hollowmark (Demonology and Void Magic) was built around the Mage Staff and has been rebuilt off it: the Staff is Rare, and Hardware's *Availability at character creation* note puts Rare out of reach at Green at any price. He now runs **Grimoire (Repository) + Wand (Conduit)** for 25 sp against the Staff's 45 — both Casting Requirements met, no Blind Casting penalty, but both hands holding something rather than one item doing both jobs, and **Bound**, **Reach** and **Grounding Rod** all given up. No character in the roster equips a Mage Staff now, which is the right shape for a 45 sp Rare item: an in-play acquisition, not a creation purchase. His Grimoire is also the first to deliberately undercut Arcane Awakening's 3-in-Paradigm-plus-1-Common default: 2 Demonology, 1 Witch Magic and Hedge Craft, 1 Common — legal by the feat's own text (every Paradigm's Novice tier is exactly 3 spells, so at least 1 off-Paradigm pick is mandatory; nothing caps it at exactly 1), just not a shape anyone had actually built yet. The Common pick, **Arcane Protection**, now stands on its own Reactor clause (Block using Arcana) rather than on the Staff's Grounding Rod. *(An earlier version of this note called it the only Sustain-duration Novice spell in the corpus and concluded Grounding Rod was near-orphaned. Both were wrong: **Deflection** and **Boost/Lower Trait** are Novice Sustain spells in Paradigm lists, and Mind Link's Communion mode is a third. Grounding Rod has always had targets; what is true is only that no roster character carries a Staff.)* Separately, the zero-armour build did not survive the rebuild and should not have: WT 5 was a consequence of the Staff consuming 45 sp of an 80 sp purse, not an independent choice, and with 20 sp freed, a caster who still declines 12 sp of Leather is making a mistake rather than a trade. He runs **WT 6** with the alchemy intact (Black-Root Draught, Philter of Focus, Grave-Dust Poultice) and **Dodge 2d6+0** unchanged — the half of the fragility that was always deliberate. Finally, Ledger of the Deep is a new Tier 1 Feat added to The Marrow alongside this build, filling a gap his sheet exposed: every other creation-day caster or skill-monkey in the roster has a Momentum generator tied to their invested skills (Scavenger's Eye, Iron Grip), and without one, a pure Insight/Lore/Arcana build had no way to bank Momentum at all outside the generic Massive Success rule.
