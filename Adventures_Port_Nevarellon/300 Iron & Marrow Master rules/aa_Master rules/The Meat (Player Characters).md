@@ -333,3 +333,73 @@ When Eldrick's captains needed fires kept on the test-ground in the upper Sister
 - **Environmental Shield's WT riders do nothing.** Its Clean result grants "+2 Wound Threshold against environmental Direct Wounds", and its Massive result +4. A Direct Wound bypasses Wound Threshold by definition (GM Tools, *The Lethal Bypass*), so neither rider can ever apply. The fix is either "the first environmental Direct Wound this scene becomes 1 Dissonant Stress" or a WT bonus against **Hazard Rolls** instead.
 - **Arcane Awakening's spell count still contradicts itself.** It grants 3 spells, then refers to "their starting 4". This sheet takes 2 in-Paradigm + 1 Common, which satisfies either reading.
 - **Bolt is strictly worse than Ember Lance** for a Pyromancer: same Spell Power, same Messy cost, and Ember Lance's Clean result adds Disadvantage. Fine as the Common floor, but no Paradigm caster will take it.
+
+---
+
+## Durga Long-Snare — Dwarf Female, Beast-Hunter (Ritualist)
+
+*"I say the words right. Whatever's listening can take it or leave it. The troll still dies."*
+
+### Vital Statistics
+- **Species:** Dwarf
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 0 | Wits 2 | Will 2 *(Twin array)*
+- **Skills:** Survival 2 | Faith 2 | Ranged 2 | Notice 1 | Athletics 1 *(8 ranks, 8 DP. Ceilings: Survival/Faith/Resolve/Influence 5 (Will 2); Notice/Insight/Medicine/Crafting/Lore/Arcana 5 (Wits 2); everything under Brawn or Reflex 3)*
+- **Wound Threshold:** 6 *(4 base + 0 Brawn + 1 Leather + 1 Stone-Bones)*
+- **Stress Limit:** 8 *(4 base + 2 Wits + 2 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 0)* | **Activation Order:** 6 *(6 + Reflex 0)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)* — 5 used
+
+### Species Traits (Dwarf)
+- **Stone-Bones:** +1 Wound Threshold (already applied).
+- **Subterranean Senses:** Advantage on Notice checks underground or examining stonework and engineering — frost caves and barrows included.
+- **Stumpy (Drawback):** Disadvantage on Athletics during chases or open-ground sprints. *Climbing is neither, which is why she climbs.*
+
+### Feats
+- **Ritualist** *(Faith 1 — Creation)*. A Holy Symbol and Novice Prayers equal to her Faith rank — **two**, below — from the Common list and any Domain's Novice list. **No Domain**: no Domain Tag, never an Adept or Master Prayer, and when the tab comes due she takes **1 direct Wound** instead of a Domain Price. Raising Faith is her only route to new Prayers.
+- **Long Eye** *(Ranged 1, Notice 1 — Creation)*: ignores the Disadvantage the **Long** range band imposes (65–120 ft). Extreme range still takes it.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light)
+- **Weapons:** Light Crossbow (Power 3, 2H, **Armour-Piercing**, **Reload**, max Long / 120 ft, Scarce) + Spear (Power 2, 1H/2H, **Reach**, Thrown) on her back for anything that closes.
+- **Holy Symbol** (granted by Ritualist): a wolf's tooth on a thong, the Fang-mothers' way.
+- **Climber's Kit** (Advantage on Athletics checks to climb).
+- **Starting Purse: 80 sp** — Leather 12 + Light Crossbow 30 + Spear 10 + Climber's Kit 25 + Hemp Rope 2 = **79 sp spent, 1 sp remaining.** Bolts come off the Community Supply Die.
+- **Belt:** Crossbow (2), Spear (1). **Pack:** Climber's Kit, Rope.
+
+### Prayers (Tithe of Will = 2d6 + Faith = **2d6+2**, vs. TN 8 Novice)
+- **Kaelen's Eye** *(Winter & Wilds, 1 Locked Stress, Activation, self, Scene)* — Pass: Advantage on Survival or Notice checks to track a specific creature or navigate harsh terrain. Fail: as Pass + 1 Encroachment. Snake Eyes: 1 direct Wound, Encroachment resets.
+- **Wolf's Ward** *(Winter & Wilds, 1 Locked Stress, Activation, touch, Scene)* — Pass: the target ignores Stress and penalties from extreme environmental hazards for the scene. Fail: as Pass + 1 Encroachment. Snake Eyes: 1 direct Wound, Encroachment resets.
+
+### Combat Math Quick-Ref
+Shoot (Light Crossbow) 2d6+2, Impact = Margin+3, **Armour-Piercing** (ignores 2 Armour), **Long Eye** (no Disadvantage at Long), **Reload** (an Action) | Spear Strike 2d6+0, Impact = Margin+2, **Reach** 10 ft | Dodge 2d6+0 | Survival 2d6+2 (Advantage with Kaelen's Eye) | Notice 2d6+1 | Athletics 2d6+1 (Advantage to climb) | Tithe of Will 2d6+2 (72.2%) | Activation Order 6
+
+### Advancement Plan
+| Milestone | Spend | Result |
+|---|---|---|
+| 1 | **Predator's Rhythm** (Tier 2, Stalker: Wits 2 ✓, Survival 2 ✓, a Tier 1 ✓) | Killing or Incapacitating a Fodder or Grunt clears 1 Dissonant or banks 1 Momentum |
+| 2 | Faith 3 (1 DP) → a third Prayer (**Kaelen's Larder** or **Rime-Fang's Bite**); Survival 3 (1 DP); bank 1 | Tithe 2d6+3; tracking at +3 |
+| 3+ | Wits 3 or Will 3, as play pulls her | — |
+
+*The Stalker's Tier 3, No Quarter in the Mud, needs **Brawn 3 or Reflex 3**, both at 0 here — 15 DP away. She is built as a tracker-ritualist, not a capstone Stalker; see Table Notes.*
+
+### Beneath the Numbers
+- **Motivation to Survive (5):** A child in the Keystone crews' quarters under Granite Spire has her eyes and does not know her name. She means to keep the child safe from a distance.
+- **Connection to the World (4, reworked):** Something came down off the high Spine one Deepcold and took a whole hunters' camp on the Long Graft. She dug them out of the snow and buried them. She is the last who remembers who was in it.
+- **Deeply Held Secret or Shame (2):** The name she goes by belonged to someone else. Durga Long-Snare was one of the dead in that camp. The hunter wearing her name took it from her body, along with her lineage-word.
+- **How They See the World (5):** Rot, blood and the grave come for everyone, so you might as well get the last laugh.
+
+### Backstory
+Among dwarves a lineage-word is not a surname. It says what your line has done for nine generations, and you do not get to pick it up off the snow. The Long-Snares trapped and shot what came down the Long Graft in winter, for any keep that would pay and for the Notch's larder when none would.
+
+The hunter who now answers to Durga Long-Snare was with them the winter the thing came down off the high Spine. Nobody else from the camp walked out. She buried them herself, took the eldest's name, lineage-word and trade, and went on doing the work. The keeps along the Long Graft needed a Long-Snare, and now they had one.
+
+She keeps the Rime Hunt's rule and never eats her own kill; the meat goes to the Notch. She learned the Fang-mothers' forms at the Notch's hearth and says them perfectly. Nothing has ever answered her by name. She has wondered whether that is because it knows the name is not hers.
+
+### Table Notes
+- **A tracker who shoots, not a shooter who tracks.** Her best rolls are Survival 2d6+2 (with Advantage on a hunt) and the crossbow at 2d6+2. Armour-Piercing and Power 3 make each hit count against hide and plate, and Long Eye lets her open at 120 ft. The cost is Reload: one shot, then an Action, so a beast that closes gets the spear's Reach and Dodge 2d6+0. Both weapons sit on the Belt, but swapping a 2H crossbow for the spear runs into the same gap as Dilly's sling: the rules say what drawing costs, not what putting a held weapon down costs.
+- **The Ritualist's ceiling is the point.** She can never cast an Adept Prayer, and her tab always costs a direct Wound rather than a Domain Price. In exchange she draws from every Domain's Novice list and grows a Prayer per Faith rank at 1 DP each — the same cheap-breadth economy as the Arcane Dabbler (see Dilly).
+- **The Stalker archetype splits its prerequisites across three Attributes.** Predator's Rhythm (Tier 2) wants Wits 2; No Quarter in the Mud (Tier 3) wants Brawn 3 or Reflex 3 and Survival 3 (a Will skill). A Wits/Will tracker reaches Tier 2 at Milestone 1 and is 15 DP short of Tier 3. A Reflex-3 archer can reach both, but only by raising Wits later. Worth a look: is the Stalker meant to be an archer's road or a tracker's?
+- **Kaelen's Larder has no limit on use.** For 1 Locked Stress and some hunted or foraged material it steps the Community Supply Die up a tier, the same benefit Volatile Concoction's Scavenge and Cannibalize charges 2 Momentum for. Downtime restocking costs 5–20 sp a step. A hunter-ritualist with the Larder could keep the party's Die topped up all expedition. Consider once per Breather, or once per scene.
+- **Wolf's Ward and Environmental Shield are the same effect.** A Novice Prayer (1 Locked) and a Common Arcane spell (Dissonant on Messy) both make a target ignore extreme-hazard Stress for the scene. Fine as parallel tools across the two traditions, but only Environmental Shield carries the broken Direct-Wound rider (see Nirael).

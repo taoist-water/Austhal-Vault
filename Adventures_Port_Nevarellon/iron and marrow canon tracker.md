@@ -14,6 +14,11 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-18 — Durga Long-Snare
+- **Durga Long-Snare** is the sixth PC of the new Iron & Marrow roster: a dwarf beast-hunter of the **Long Graft** in Stonereach who keeps the Rime Hunt's rule (the meat goes to **Pilgrim's Notch**) and learned the Fang-mothers' forms at its hearth without being answered by name.
+- **New lineage-word: Long-Snare** — a dwarven line of trappers and hunters who worked the Long Graft in winter for the keeps and the Notch. A whole Long-Snare camp was taken one Deepcold by **something that came down off the high Spine**. GM-facing: the PC took the dead Durga's name and lineage-word from her body.
+- Open: what came down off the Spine (the Rime-Fang note asks whether anything of the drake remains); whether any Long-Snares survive in Ubaraz; the PC's own name; the child in the Keystone crews' quarters under Granite Spire.
+
 ### 2026-10-17 — Nirael Bracken
 - **Nirael Bracken** is the fifth PC of the new Iron & Marrow roster: a half-elf charcoal-burner of **Ashcopse**, raised by **Ord Bracken** (Name Tables #5, already canon). Register A surname with a liquid given name, which De Vonce hears as elf blood; who her father was is open.
 - She tended fires on **Eldrick's weapon-test ground in the upper Sisters**. A test went wrong, its master died, and she walked out with his Grimoire and a bundle of letters to different people. Deliberately left open: who the dead man was, who wrote the letters, and who made the weapons (the duchy note's open question, unchanged). Where Arcana comes from on the coast also stays open.
