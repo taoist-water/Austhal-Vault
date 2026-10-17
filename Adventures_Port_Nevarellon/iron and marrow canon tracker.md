@@ -14,6 +14,12 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-18 — Iolo Neapwater
+- **Iolo Neapwater**, called **Folly**, is the seventh PC of the new Iron & Marrow roster: an elf of **Reefhollow** (Shield Atolls; Name Tables Table 2 #38, now allocated) who came ashore at Brinewick in **9 A.A.** owing the Fleet book for a lost hull. He was on a Bonds-book Debt-Bond for forty-nine years and was Brinewick's best pan-gang **caller**. His verses mock the Table, Junia's years running the Bonds book, and the Bond-Master. First Register E name on a living elf; *Folly* is the Crooked Coin nickname from the devotional table.
+- **New detail, Brinewick:** each gang has a caller who keeps the rakes in time; Tallis lets the gangs sing. Twice Iolo ran to the beaches to boil free salt, and twice he walked back when the Winter Moons closed the coast; the free-salt men (Crooked Coin) taught him the blade. At the last Salt-Draw the gangs gave him the lot-bag to draw, and he read out his own name. *This is a one-off choice of drawer, not a fixed custom.* GM-facing: he palmed **Thala Skerry**'s token (new minor cast, 205 NPCs).
+- **Hook, left open:** a man in a good coat, claiming to speak for some of the Table, paid Iolo 80 sp in advance to sing the Junia verse in Salt-Draw Square at the next Salt-Draw. Who he speaks for is open (Gratian's faction is the obvious reading). This touches Junia's Salt-Draw crisis (Valerius Family) but changes nothing in it.
+- Open: whether anyone saw the palm; whether Iolo goes back for Salt-Draw; anything about Reefhollow beyond its Name Tables line.
+
 ### 2026-10-18 — Durga Long-Snare
 - **Durga Long-Snare** is the sixth PC of the new Iron & Marrow roster: a dwarf beast-hunter of the **Long Graft** in Stonereach who keeps the Rime Hunt's rule (the meat goes to **Pilgrim's Notch**) and learned the Fang-mothers' forms at its hearth without being answered by name.
 - **New lineage-word: Long-Snare** — a dwarven line of trappers and hunters who worked the Long Graft in winter for the keeps and the Notch. A whole Long-Snare camp was taken one Deepcold by **something that came down off the high Spine**. GM-facing: the PC took the dead Durga's name and lineage-word from her body.
@@ -425,6 +431,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Lassen Blackrun | — (Cinder Row) | Tass Blackrun's younger brother; third-generation Corvus refugee, Tidespoken devotional name; next in line for her Iron-Anchor debt | N | 205 NPCs/Lassen Blackrun.md | Alive. Age, work and family open |
 | Wenna Marrowick | — (debtors' hulks, Foundry Slips) | Halfling; Dilly Marrowick's older sister; on a Debt-Bond that began as a Syndicate loan for marsh-fever medicine. GM-facing: Dilly informed for the Watch to cut a year off it | N | 205 NPCs/Wenna Marrowick.md | Alive. Bond holder open |
 | Mother Marra | Cult of the Weeping Martyr (House of Mercy) | Senior Weeper; taught Elrid Fallow the laying-on, then told an Aerthos steward's man where to find him | N | 205 NPCs/Mother Marra.md | Alive. Motive and age open |
+| Thala Skerry | — (Brinewick bond-rows, Duchy of Valerius) | Human pan-raker on a Bonds-book Debt-Bond; Tidespoken devotional name. GM-facing: Iolo Neapwater palmed her Crock token and read out his own name | N | 205 NPCs/Thala Skerry.md | Alive. Bond length and kin open |
 
 ---
 

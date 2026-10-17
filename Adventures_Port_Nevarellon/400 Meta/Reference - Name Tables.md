@@ -182,7 +182,7 @@ Every entry is placed. **Region** states the parent — no floating villages. **
 | 35 | Rushbed | **T0** | Hamlet | Silted Marshes | Reed-cutters; supplies Divtown thatch |
 | 36 | Kettle Bottom | **T0** | Hamlet | Silted Marshes | Actively sinking. Population declining by choice |
 | 37 | Nine Poles | **T0** | Hamlet | Silted Marshes | Nine stilt platforms, no land at all |
-| 38 | Reefhollow | **T1** | Village | Shield Atolls | Stilt-houses over warm reef; mixed-race, unbothered by it |
+| 38 | Reefhollow | **T1** | Village | Shield Atolls | Stilt-houses over warm reef; mixed-race, unbothered by it → *allocated: birthplace of the PC Iolo Neapwater (elf; Brinewick bond-caller) → The Meat* |
 | 39 | Two Cages | **T1** | Village | Shield Atolls | Two great fish-traps; halfling-majority |
 | 40 | Saltlight | **T0** | Hamlet | Shield Atolls | Harvests the algae for the Brine-Glow Lanterns → *allocated: The Guild of Alchemists* |
 | 41 | Coldmoor Cove | **T1** | Village | Shield Atolls | Northernmost atoll; whaling fleet victualler |

@@ -165,7 +165,7 @@ Every feat on the Berserker road is gated at Tier 2 or 3, so the creation build 
 |---|---|---|---|
 | 1 | Blooded | **Bareback Brawler** (Tier 2: Brawn 2 ✓, Prowess 2 ✓, a Tier 1 ✓) | WT 7 → **9** while unarmoured (11 when Bracing) |
 | 2 | Blooded | **The Red Mist** (Tier 2: Brawn 2 ✓, Resolve 2 ✓, a Tier 1 ✓) | When Wounded in melee: 1 Momentum for an instant retaliatory Strike |
-| 3 | Veteran | Athletics 2 → 3 (2 DP), bank 1 | Apex Butcher's last prerequisite |
+| 3 | Veteran | Athletics 1 → 3 (2 DP), bank 1 | Apex Butcher's last prerequisite |
 | 4 | Veteran | **Apex Butcher** (Tier 3: Brawn 3 ✓, Athletics 3 ✓, Red Mist ✓), 1 DP left | An incapacitating blow: 2 Dissonant Stress to every enemy within 15 ft, and convert up to 3 of his own Dissonant into Momentum |
 
 *Alternative +2 WT route:* **Juggernaut** (Tier 2, Brawn 2) spends 1 Momentum for +2 WT against one attack and stacks with Brace. It works in armour, where Bareback Brawler does not; on a man who fights bare it is the weaker buy, so it is the Milestone 5 option if he ever puts armour on.
@@ -403,3 +403,84 @@ She keeps the Rime Hunt's rule and never eats her own kill; the meat goes to the
 - **The Stalker archetype splits its prerequisites across three Attributes.** Predator's Rhythm (Tier 2) wants Wits 2; No Quarter in the Mud (Tier 3) wants Brawn 3 or Reflex 3 and Survival 3 (a Will skill). A Wits/Will tracker reaches Tier 2 at Milestone 1 and is 15 DP short of Tier 3. A Reflex-3 archer can reach both, but only by raising Wits later. Worth a look: is the Stalker meant to be an archer's road or a tracker's?
 - **Kaelen's Larder has no limit on use.** For 1 Locked Stress and some hunted or foraged material it steps the Community Supply Die up a tier, the same benefit Volatile Concoction's Scavenge and Cannibalize charges 2 Momentum for. Downtime restocking costs 5–20 sp a step. A hunter-ritualist with the Larder could keep the party's Die topped up all expedition. Consider once per Breather, or once per scene.
 - **Wolf's Ward and Environmental Shield are the same effect.** A Novice Prayer (1 Locked) and a Common Arcane spell (Dissonant on Messy) both make a target ignore extreme-hazard Stress for the scene. Fine as parallel tools across the two traditions, but only Environmental Shield carries the broken Direct-Wound rider (see Nirael).
+
+---
+
+## Iolo Neapwater, "Folly" — Elf Male, Bravo (Duelist / Caller)
+
+*"I called the rakes at Brinewick for forty-nine years. You're slower than the rakes."*
+
+### Vital Statistics
+- **Species:** Elf
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 2 | Wits 0 | Will 2 *(Twin array)*
+- **Skills:** Melee 3 | Influence 2 | Acrobatics 1 | Thievery 1 | Insight 1 *(8 ranks, 8 DP. Ceilings: Acrobatics/Stealth/Ranged/Thievery/Ride 5 (Reflex 2); Influence/Resolve/Faith/Survival 5 (Will 2); Melee/Athletics/Block/Prowess 3 (Brawn 0) — **Melee is already at its ceiling**; Wits skills 3)*
+- **Wound Threshold:** 4 *(4 base + 0 Brawn + 1 Leather − 1 Hollow-Boned)*
+- **Stress Limit:** 6 *(4 base + 0 Wits + 2 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 6 *(4 + Reflex 2)* | **Activation Order:** 8 *(6 + Reflex 2)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)* — 4 used
+
+### Species Traits (Elf)
+- **Fey Reflexes:** Advantage on Acrobatics checks to avoid environmental hazards, traps and area effects.
+- **Trance:** 4 hours' meditation gives the benefit of a full night's rest. The Bonds book found a use for that (see Backstory).
+- **Hollow-Boned (Drawback):** −1 base Wound Threshold (already applied).
+
+### Feats
+- **Iron Grip** *(Melee 1 — Creation; the Bravo's Tier 1)*: when a Clash ties and the weapons bind, he automatically banks 1 Momentum.
+- **Battlefield Orator** *(Influence 2 — Creation; the Demagogue's Tier 1)*: spend an Action to call, mock or rally. Either an ally clears 1d3 Dissonant Stress, or an engaged enemy takes Disadvantage on its next Defense roll. Forty-nine years of setting a gang's pace, pointed at somebody else's line.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light)
+- **Weapons (two 1H items):** Rapier (Power 2, **Precise**, **Finesse**, Scarce) + Shortsword (Power 2, **Sidearm**, **Finesse**) in the off-hand. Qualifies for the **Twin-Blade Stance**. The Shortsword is the off-hand on purpose rather than a knife: as a Sidearm its Power sets the Off-Hand Parry reducer and the Twin Strike, so it buys −2 Impact on a lost Parry where a knife buys −1.
+- **A loaded die**, as the Crooked Coin's people carry. He has never used it at a table. *(Flavour; no rules effect.)*
+- **No instrument.** A caller doesn't need one.
+- **Starting Purse: 80 sp (paid in advance — see Backstory)** — Leather 12 + Rapier 20 + Shortsword 10 + Grave-Dust Poultice 8 + Bedroll 2 + Waterskin 1 = **53 sp spent, 27 sp held.**
+- **Belt:** Rapier, Shortsword, Poultice. **Pack:** Bedroll.
+
+### Combat Math Quick-Ref
+Strike (Rapier) 2d6+3, Impact = Margin+2, **Precise** (ignores 1 Armour), **Finesse** (reroll one natural 1) | Parry 2d6+3, Finesse, **Off-Hand Parry** with the Shortsword (−2 Impact) | **Twin Strike:** 1 Momentum after a won Strike for Shortsword Power 2 + 1 Stress *(wording seam — see Table Notes)* | Dodge 2d6+1 (Advantage against hazards, traps and area effects) | **Battlefield Orator** (an Action) | Influence 2d6+2 | Thievery 2d6+1 | Insight 2d6+1 | Resolve 2d6+0 | Activation Order 8
+
+### Advancement Plan — Milestone 0 → Milestone 5 (15 DP)
+| Milestone | Standing | Spend (3 DP each) | Unlocks |
+|---|---|---|---|
+| 1 | Blooded | **The Insulting Deflection** (Tier 2, Bravo: Reflex 2 ✓, Melee 2 ✓, a Tier 1 ✓) | A Parry won by Margin 5+ banks 1 Momentum; spend it to make the Aggressor Surprised |
+| 2 | Blooded | **Vitriolic Cadence** (Tier 2, Demagogue: Will 2 ✓, Influence 2 ✓, a Tier 1 ✓) | Whenever an ally banks Momentum from a won Clash, that enemy takes 1 Dissonant Stress |
+| 3–4 | Veteran | **Reflex 3** (5 DP), Influence 3 (1 DP) | Momentum Bank 7, Activation Order 8 → 9; Death of a Thousand Cuts' last prerequisite |
+| 5 | Veteran | **Death of a Thousand Cuts** (Tier 3, Bravo: Reflex 3 ✓, Melee 3 ✓, Insulting Deflection ✓) | Every won attack: the Shortsword deals its Power + 1 Stress, no Momentum needed |
+
+*Architect of Panic (the Demagogue's Tier 3) needs Will 3 — another 5 DP, so Storied at the earliest. Melee cannot rise past 3 without Brawn 1 (5 DP); Death of a Thousand Cuts needs exactly 3, which is why the creation build spends 3 of its 8 DP there.*
+
+### Beneath the Numbers
+- **Motivation to Survive (6, reworked):** Spite. The Bonds book carried him for forty-nine years and expected to carry him until he died in its pans. He means to outlive the book, and the Table that keeps it.
+- **Connection to the World (2, reworked):** Every worker in Brinewick dropped coppers into the Crock that bought him out. None of them has asked for anything back yet. They will.
+- **Deeply Held Secret or Shame (1, reworked):** He didn't win the Crock. The token his hand closed on in the bag was Thala Skerry's. He palmed it and read out his own name. Thala is still raking at Brinewick, and the rows believe it was his turn.
+- **How They See the World (5, reworked):** Salt, debt and the grave come for everyone. Get the last verse in.
+
+### Backstory
+Iolo Neapwater came ashore at Brinewick in 9 A.A. from Reefhollow in the Shield Atolls, owing the Fleet book for a hull he had put on Gull Cape. Unpaid debt converts to service, so the Bonds book took him on. It charged him for his board, his tools and the salt in his bread, and it has carried his bond through two Dukes. He was young for an elf when he signed. An elf needs four hours' rest, so the gang put him on the sluice-watch at night as well as the rakes by day. The book charged him for one bed and paid him for one turn.
+
+Every pan-gang has a caller to keep the rakes in time, and for forty years Brinewick's best has been the elf they call **Folly**. The verses are his: the one about the Table voting on the weather, the one about the fifteen years Junia Valerius kept the Bonds book, the one about where the Bond-Master's wine goes. Gangs up and down the coast sing them. Tallis Gorrius lets them, because a gang that sings rakes in time. Twice Iolo ran for the beaches and boiled free salt for the smugglers. Twice he walked back in when the Winter Moons closed the coast, and the book charged him for the months he was gone. The free-salt men ride with the Crooked Coin. They taught him a blade in either hand, the loaded die, and how to tell a story against yourself so the room laughs.
+
+At the last Salt-Draw the gangs gave him the lot-bag, because his was the voice Salt-Draw Square could hear. He put his hand in and read out his own name, and the whole of Brinewick cheered.
+
+Free, he went down to Saltmere harbour with nothing. A man in a good coat found him there. He said he spoke for some of the Table, and he paid eighty silver in advance for one song: the Junia verse, sung in Salt-Draw Square at the next Salt-Draw, in front of all Brinewick. Iolo took the silver, bought a rapier and a shortsword off a Fleet galley's mate, and went down the Meridian to Port Nevarellon, where nobody knows the words. He hasn't decided whether he'll be back for Salt-Draw.
+
+> **GM-facing.**
+> - **The man in the good coat** is left open. The obvious reading is Gratian's faction: a Brinewick that won't rake, singing a verse it loves, costs Junia yield in the very week the Table sits (see Valerius Family). The less obvious reading is Junia's own people, testing whose song the rows will follow.
+> - **The Two-Faced.** Iolo told himself it was his turn. The Crooked Coin's current makes the lie you tell yourself briefly true, then collects as disappointment (see The Cult of the Crooked Coin). If the GM wants it so, nobody saw his palm because the current was with him, and the bill has not come yet. When a verse lands, he hears laughter under the crowd's and takes it for the crowd.
+> - **Thala Skerry** has a note in 205 NPCs.
+
+### Table Notes
+- **A duellist who wins on the exchange, not the hit.** Against a Grunt at +2, Finesse lifts his Strike from 55.6% to **64.2%** (ties 10.2%, Massive 20.5%). Against Fodder at +1 he wins 74.5% and lands a Massive 30.1% of the time. Each hit is Power 2, the roster's lightest weapon. His damage is in the follow-ups: Twin Strike now, and Death of a Thousand Cuts at Milestone 5.
+- **WT 4 is the price of being an elf with no Brawn. The Shortsword is what pays it.** Off-Hand Parry cuts a lost Parry's Impact by 2, so a Power 2 Grunt at +2 Wounds him on **6.1%** of its attacks (10.6% with a knife off-hand) and almost never twice over. A heavy weapon changes that. Against Power 5, any lost Parry Wounds him (25.5% against +2), and 3.2% of those land as a Major. He needs to choose his fights.
+- **He makes Momentum and has somewhere to put it.** In one exchange each way he banks Momentum on a Massive Strike (20.5%), a Massive Parry (20.5%) and an Iron Grip bind (~10% per Clash). That comes to about 0.6 Momentum a round into a Bank of 6, tied with Dilly's as the roster's deepest. Twin Strike, and from Milestone 1 the Insulting Deflection, are where it goes.
+- **Battlefield Orator is the bard half, and it costs his attack.** An ally at +3 against a Grunt at +2 goes from 55.6% to **72.4%**, and the ally's Massive chance from 15.9% to 27.7%. That is worth it when the ally hits harder than his Power 2 rapier, which is everyone with Skell's greataxe in reach. The Stress mode (1d3 to an ally, usable while Engaged) is the cheapest in-combat Stress clear on the roster: Adrenaline Flush pays 2 Momentum for 1 point, and Catch Breath costs the whole turn and can't be used while Engaged. From Milestone 2, Orator also nearly doubles how often Vitriolic Cadence fires.
+- **The Edicts make him unarmed inside the walls.** Under the Palm-Length Edict, an Un-Landed man carrying a rapier or a shortsword in Port Nevarellon loses a hand. A Golden Writ needs a Landed name, and the High-Steel Monopoly means his Fleet-mate blades are cast iron or ship's bronze. In the city his kit travels wrapped, or not at all. The rules don't model any of this, so it's the GM's call, as with Tass's hand axe.
+
+**Rules seams this sheet exposed:**
+- **Surprised has no duration.** Iron Core defines it as "Rolls suffer Disadvantage" and stops there, so the Insulting Deflection's payoff runs anywhere from one roll to the whole scene. **Recommendation:** "until the end of the Aggressor's next activation". That covers its next attack and its next defence, which is fair for 1 Momentum the Massive Parry has just paid in. A scene-long Disadvantage bought that cheaply would outclass most Tier 3s.
+- **Off-Hand Parry stacks with "your primary weapon's Parry bonus", and nothing defines one.** Parry is plain 2d6 + Melee. This sheet reads the off-hand reducer as the only reducer (−2 here, −1 with a knife), which matches Tass.
+- **Twin Strike's "Power + 1 Stress" has two readings.** Either it is Impact equal to Power, checked against WT (almost always a Glancing Hit, so 1 Stress), plus 1 Stress, or it is Stress equal to Power + 1. With this Shortsword that is 2 Stress or 3. Death of a Thousand Cuts copies the wording. **Recommendation:** "Stress equal to the off-hand weapon's Power + 1". It never Wounds, it rewards a better Sidearm, and a knife still gives Tass's 1 Stress.
+- **Iron Grip says a bind ends "the engagement"; the Engagement Flow says a tie ends the Clash.** Both fighters are still in each other's Threat Zone afterwards. The Engagement Flow's wording should stand.
+- **Battlefield Orator has no range.** Vitriolic Cadence says "within earshot" and Architect of Panic says 30 ft. Suggest earshot, to a maximum of 30 ft, for all three.
