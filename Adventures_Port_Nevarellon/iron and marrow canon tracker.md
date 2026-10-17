@@ -14,6 +14,11 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-17 — Nirael Bracken
+- **Nirael Bracken** is the fifth PC of the new Iron & Marrow roster: a half-elf charcoal-burner of **Ashcopse**, raised by **Ord Bracken** (Name Tables #5, already canon). Register A surname with a liquid given name, which De Vonce hears as elf blood; who her father was is open.
+- She tended fires on **Eldrick's weapon-test ground in the upper Sisters**. A test went wrong, its master died, and she walked out with his Grimoire and a bundle of letters to different people. Deliberately left open: who the dead man was, who wrote the letters, and who made the weapons (the duchy note's open question, unchanged). Where Arcana comes from on the coast also stays open.
+- Ord Bracken gets his first note, in 205 NPCs.
+
 ### 2026-10-17 — Elrid Fallow
 - **Elrid Fallow** is the fourth PC of the new Iron & Marrow roster: a runaway **bound tenant from Barleywick** (Duchy of Aerthos) who rode a grain barge to the city at sixteen and became the muscle, and then a priest, of the **House of Mercy**. Register A, devotional (*Elrid*, from Elara).
 - New minor cast: **Mother Marra**, the Weeper who taught him and then gave him up to a steward's man; he escaped over the hospice roof. Still a runaway tenant in Aerthos law.
@@ -387,7 +392,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Reeve Colm Hollick | Wether Bridge | Human, 58; bound tenant; reeve 20 years; keeps the tally short | N | Reeve Colm Hollick.md | Alive. **Layer 2, decent and losing** |
 | Bram Hollick | Near Millhaven | Tenant; Colm's brother | N | Duchy of Aerthos (epigraph); Name Tables T1 #18 | Alive |
 | Rafe Hobbius | Aerthos | Steward of the river spur; Latinised from Hobb | N | Duchy of Aerthos; Reeve Colm Hollick | Alive |
-| Ord Bracken | Ashcopse | Charcoal-burner | N | Duchy of De Vonce (epigraph); Name Tables T1 #5 | Alive |
+| Ord Bracken | Ashcopse | Charcoal-burner; raised the PC Nirael Bracken as his own | N | Duchy of De Vonce (epigraph); Name Tables T1 #5; 205 NPCs/Ord Bracken.md | Alive |
 | Garrick "the Keelhauler" **Rudd** | Iron-Anchor Syndicate | 56; Grandmaster; Guild-licensed flintlock; rival deed to The Shades | N | Garrick the Keelhauler.md | Alive |
 | Maeve "the Scribe" **Dunn** | Iron-Anchor Syndicate | 31; chief accountant; derringer gifted by Garrick; secret pact with Clara Dolly | N | Maeve the Scribe.md | Alive |
 | Silas Bane | Iron-Anchor (Young Bloods) | 29; enforcer captain plotting a coup; Brine-Fire | N | Silas Bane.md | Alive |

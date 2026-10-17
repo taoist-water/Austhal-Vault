@@ -268,3 +268,68 @@ When the steward's man came down the river asking for a runaway tenant, Marra to
 - **Bless** (Common Prayer) grants **+1 to the target's next Clash** — a flat roll bonus. Modifiers are a last resort rather than banned, so the question is only whether a creative effect would do the job better (Advantage on the next Clash, say, or a Momentum on a win). It is not on this sheet.
 - **The First Ward's SV 1** reads "against the next hostile Strike or spell". Does that one SV last while it Flows, or is it spent on the first attack? The text supports both.
 - **Chainmail's Activation Order penalty.** Hardware's armour note says Chainmail costs "−1 Activation Order"; the **Bulky** tag itself lists only Athletics, Stealth and Arcana. This sheet follows the tag (no AO penalty).
+
+---
+
+## Nirael Bracken — Half-Elf Female, Arcana Caster (Pyromancy)
+
+*"A clamp tells you when it wants air. So does everything else that burns."*
+
+### Vital Statistics
+- **Species:** Half-Elf (Split Heritage: took Adaptable, and its paired Steady, Not Sharp drawback)
+- **Standing:** Green (Milestone 0 — 0 DP earned; pure creation build)
+- **Size:** Standard | **Move:** 30 ft / 6 squares
+- **Attributes:** Brawn 0 | Reflex 1 | Wits 3 | Will 0 *(Spike array)*
+- **Skills:** Arcana 3 | Survival 1 | Acrobatics 1 | Notice 1 | Crafting 1 | Resolve 1 | Influence 1 *(9 ranks, 9 DP with Adaptable. Ceilings: Arcana/Notice/Insight/Medicine/Crafting/Lore 6 (Wits 3); Acrobatics/Stealth/Ranged/Thievery/Ride 4 (Reflex 1); everything under Brawn or Will 3)*
+- **Wound Threshold:** 5 *(4 base + 0 Brawn + 1 Leather)*
+- **Stress Limit:** 7 *(4 base + 3 Wits + 0 Will)*
+- **Wound Slots:** 3 | **Momentum Bank:** 4 *(4 + Reflex 1, −1 Steady Not Sharp)* | **Activation Order:** 7 *(6 + Reflex 1)*
+- **Inventory Slots:** 8 *(8 + 0 Brawn)* — 5 used
+
+### Species Traits (Half-Elf, Split Heritage)
+- **Silver-Tongued:** Advantage on Influence checks to persuade, de-escalate, negotiate, or gather information.
+- **Adaptable** *(chosen Split Heritage trait)*: +1 Skill DP at creation (already applied).
+- **Steady, Not Sharp (Drawback, comes with Adaptable):** −1 Momentum Bank cap (already applied).
+- **Between Worlds (Drawback):** Disadvantage on Influence with an insular community that has had little contact with outsiders — Ashcopse, for one.
+
+### Feats
+- **Arcane Awakening** *(Paradigm: Pyromancy — Creation)*. A Grimoire with 3 Novice spells, below: two in-Paradigm (Paradigm Mastery: a Messy result resolves Clean) and one Common.
+- **Scholarly Resonance** *(Arcana 2 — Creation)*: while she carries at least 1 Locked Stress — from an Overcharge, a hazard, an Attuned item or a hostile effect — she has +1 SV against magical effects.
+
+### Equipment
+- **Armour:** Leather (+1 Armour, Light — no Arcana penalty)
+- **Focus (two 1H items):** Grimoire (Repository — granted by Arcane Awakening) + **Wand** (Conduit, Sidearm). Both Casting Requirements met with both hands full, and **Sidearm** lifts the Point-Blank Disadvantage on casting.
+- **Starting Purse: 80 sp** — Leather 12 + Wand 10 + Grave-Dust Poultice 8 + Hooded Bullseye Lantern 12 + Flint and Steel 2 + Bedroll 2 + Waterskin 1 = **47 sp spent, 33 sp remaining.**
+- **Belt:** Grimoire, Wand, Poultice. **Pack:** Lantern, Bedroll. **Also carried:** a bundle of letters folded inside the Grimoire's back board (see Beneath the Numbers).
+
+### Grimoire (Arcana = **2d6+3**)
+- **Ember Lance** *(Pyromancy, Mastery-eligible)* — Arcane Clash vs the target's Defense, Medium Range, Aggressor, **Spell Power 2**. Margin 1–2: Impact = Margin + 2, and she takes 1 Dissonant Stress — **upgraded to Clean by Mastery**. Margin 3+ (Clean): as above, and the target has Disadvantage on its next roll.
+- **Thermal Detonation** *(Pyromancy, Mastery-eligible)* — Arcane Clash vs every enemy in her Threat Zone, 5 ft, Aggressor, **Spell Power 1**. Margin 1–2: Impact = Margin + 1, enemy thrown 5 ft clear, 1 Dissonant to her — **upgraded to Clean by Mastery**. Margin 3+ (Clean): thrown 10 ft, knocked Prone, and 1 Dissonant Stress to the enemy.
+- **Environmental Shield** *(Common, no Mastery)* — Unopposed Arcana vs TN 8, Activation, self or one ally by touch, Scene. Messy (0–2): the recipient ignores Stress and penalties from extreme environmental hazards for the scene; she takes 1 Dissonant. Clean (3–4): as above, no cost. *(The Clean and Massive WT riders are a rules seam — see Table Notes.)*
+
+### Combat Math Quick-Ref
+Ember Lance 2d6+3, Impact = Margin+2 (any win is Clean: target at Disadvantage next roll) | Thermal Detonation 2d6+3 vs everyone adjacent | **Overcharge:** Lock 1 Stress for +2 Spell Power (switches Scholarly Resonance on) | Environmental Shield 2d6+3 vs TN 8 | Dodge 2d6+1 | Notice 2d6+1 | Influence 2d6+1 (Advantage to persuade) | Activation Order 7
+
+### Beneath the Numbers
+- **Motivation to Survive (4):** In the heart of the test-ground fire, she saw something look back at her out of the burning. She is not ready to meet it again.
+- **Connection to the World (6, reworked):** Folded inside the dead man's Grimoire were letters, each to someone different. She has delivered two.
+- **Deeply Held Secret or Shame (3):** She told the Duke's foresters which Ashcopse families were cutting Iron Wood oak for their own clamps. Three families lost their burning rights. The coin is long gone. The families are still in Ashcopse.
+- **How They See the World (3):** The gods are listening, and they do not care. Act accordingly.
+
+### Backstory
+Nirael grew up in Ashcopse, among the charcoal-burners of the Iron Wood. Ord Bracken raised her as his own and has never once asked about her ears. In De Vonce the vassals count ears, and hers are counted every time she comes down to Hollowforge with the carts. Her given name was her mother's choice, and her mother never said why.
+
+She learned to read a clamp before she could read anything else. She can feel through the turf when the burn is running hot, and she knows when to vent and when to starve it.
+
+When Eldrick's captains needed fires kept on the test-ground in the upper Sisters, they hired Ashcopse charcoal and an Ashcopse burner to tend it. One of the tests went wrong. The man running it did not walk out. She did, unburnt, carrying his satchel, and in it a book that made sense to someone who already knew how fire breathes. The captains have not asked for it back. That worries her more than if they had.
+
+### Table Notes
+- **Paradigm Mastery makes her attacks clean.** Any Ember Lance win resolves Clean: no Stress, and the target has Disadvantage on its next roll. Against a Grunt defending at +2 she wins 55.6% of Clashes and ties 10.6%. Her Stress comes from losing and from the off-Paradigm Environmental Shield, not from landing hits.
+- **Overcharge and Scholarly Resonance feed each other, at a slow price.** One Locked Stress buys +2 Spell Power and turns on +1 SV against magic. But Locked Stress does not clear at a Breather, and her track is 7 long. Every Overcharge is a box gone until a Long Rest.
+- **Thermal Detonation is her way out, not her damage.** At Spell Power 1 it rarely Wounds anything. It clears her Threat Zone and, on Clean, knocks the enemy Prone 10 ft away — and a Prone target defends against her next Ember Lance at Disadvantage.
+- **WT 5 with no Block, Parry or Brace worth the name.** Dodge 2d6+1 is her only defence. She lives behind the line or not at all.
+
+**Rules seams this sheet exposed:**
+- **Environmental Shield's WT riders do nothing.** Its Clean result grants "+2 Wound Threshold against environmental Direct Wounds", and its Massive result +4. A Direct Wound bypasses Wound Threshold by definition (GM Tools, *The Lethal Bypass*), so neither rider can ever apply. The fix is either "the first environmental Direct Wound this scene becomes 1 Dissonant Stress" or a WT bonus against **Hazard Rolls** instead.
+- **Arcane Awakening's spell count still contradicts itself.** It grants 3 spells, then refers to "their starting 4". This sheet takes 2 in-Paradigm + 1 Common, which satisfies either reading.
+- **Bolt is strictly worse than Ember Lance** for a Pyromancer: same Spell Power, same Messy cost, and Ember Lance's Clean result adds Disadvantage. Fine as the Common floor, but no Paradigm caster will take it.

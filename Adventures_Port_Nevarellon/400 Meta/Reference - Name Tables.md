@@ -64,7 +64,7 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 2   | Dob Kettleman      | A    | Cistern-tender in the High Quarter, sees everything, tells no one      |
 | 3   | Ansel Quay         | A    | Foundling named for where he was found                                 |
 | 4   | Tamsin Vole        | A    | *(allocated — canon: one of the Seven; a Corvus miner, d. ~8 A.A.)*    |
-| 5   | Ord Bracken        | A    | *(allocated — canon: charcoal-burner of Ashcopse, Duchy of De Vonce)*  |
+| 5   | Ord Bracken        | A    | *(allocated — canon: charcoal-burner of Ashcopse, Duchy of De Vonce; foster-father of the PC Nirael Bracken → 205 NPCs)* |
 | 6   | Nell Stroud        | A    | Widow running a boardwalk cookshop on credit                           |
 | 7   | Garrow Finch       | A    | Ex-Blue-Cloak, discharged, still wears the coat                        |
 | 8   | Pike Ballard       | A    | Bare-knuckle fighter at the Rusty Tankard                              |

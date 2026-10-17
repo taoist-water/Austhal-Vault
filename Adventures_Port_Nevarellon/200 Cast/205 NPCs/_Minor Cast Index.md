@@ -21,6 +21,7 @@ Conventions for every note in this folder:
 | [[Lassen Blackrun]] | A | Tass Blackrun's younger brother, Cinder Row; next in line for her debt | Tass Blackrun (PC backstory) | Alive |
 | [[Wenna Marrowick]] | E | Dilly Marrowick's older sister; bonded labour off the debtors' hulks | Dilly Marrowick (PC backstory) | Alive |
 | [[Mother Marra]] | A | Senior Weeper at the House of Mercy; taught Elrid Fallow, then gave him up to a steward's man | Elrid Fallow (PC backstory) | Alive |
+| [[Ord Bracken]] | A | Charcoal-burner of Ashcopse (De Vonce epigraph voice); raised Nirael Bracken | Duchy of De Vonce; Nirael Bracken (PC backstory) | Alive |
 
 ## 🔗 Connected Notes
 [[Reference - Name Tables]] · [[iron and marrow canon tracker|Canon Tracker]] · [[The Sunken Ward]] · [[The Foundry Slips]]
