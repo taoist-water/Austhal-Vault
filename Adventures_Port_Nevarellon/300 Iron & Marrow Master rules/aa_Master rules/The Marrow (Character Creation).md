@@ -360,7 +360,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >You don't need a blade to break a formation — just the right word, aimed well.
 
-* Mechanic: Spend an Action in combat to shout orders, hurl insults, or rally the line. Choose one: An ally immediately clears 1d3 Dissonant Stress, OR an engaged enemy suffers a Disadvantage to their next Defense roll due to distraction/fear.
+* Mechanic: Spend an Action in combat to shout orders, hurl insults, or rally the line. Choose one: An ally immediately clears 1d3 Dissonant Stress, OR an engaged enemy suffers a Disadvantage to their next Defense roll due to distraction/fear. The ally or enemy must be able to hear and see you.
 
 **Callous Pragmatism**
 
@@ -440,7 +440,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >You don't let go when the steel catches.
 
-* Mechanic: During the Engagement Flow, if you tie on a Clash and the weapons bind (ending the engagement), you automatically bank 1 Momentum as you secure a superior physical footing for the next exchange.
+* Mechanic: During the Engagement Flow, if you tie on a Clash and the weapons bind (ending the clash), you automatically bank 1 Momentum as you secure a superior physical footing for the next exchange.
 
 **Ledger of the Deep**
 
