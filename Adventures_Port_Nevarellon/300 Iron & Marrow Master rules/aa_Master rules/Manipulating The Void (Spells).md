@@ -2351,7 +2351,7 @@ Kaelen never wasted a kill. The winter punished anyone who did.
 - **Action Type:** Activation
 
 **The Tithe Ladder:**
-- Pass: Preserves the material against spoilage indefinitely — immediately steps the Community Supply Die up one tier, the same benefit as Scavenge and Cannibalize.
+- Pass: Preserves the material against spoilage indefinitely —  creates a meal that can be consumed during a Breather. All participants start the next scene with 1 momentum banked and will have advantage on thier next roll.
 - Fail: As Pass, and the Priest gains 1 Encroachment.
 - Snake Eyes: The preservation still takes, but convert the Locked Stress cost into a direct Wound, reset Encroachment to 0.
 

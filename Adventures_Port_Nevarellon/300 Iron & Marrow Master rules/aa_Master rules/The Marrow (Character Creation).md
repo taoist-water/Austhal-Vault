@@ -973,7 +973,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >Their greatest strike is just an opening for your blade.
 
-* Mechanic: When you act as the Reactor and successfully Parry an attack by a Margin of 5+. You may immediately spend 1 Momentum to inflict the Surprised condition on the Aggressor.
+* Mechanic: When successfully Parry an attack in a clash by a Margin of 5+, You may immediately spend 1 Momentum to inflict the Surprised condition on the Aggressor until the end of their next activation.
 
 **Death of a Thousand Cuts (Tier 3)**
 
