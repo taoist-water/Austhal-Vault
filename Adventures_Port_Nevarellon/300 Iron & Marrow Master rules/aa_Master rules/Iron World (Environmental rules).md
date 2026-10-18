@@ -60,11 +60,9 @@ Physical barriers reduce the power of an incoming attack. They are rated by how 
     
     - **The Mechanic:** You cannot Strike a target in Full Cover unless you first spend an Action to destroy or bypass the cover. If an area-of-effect ability is used, the cover absorbs the full Impact value of the attack before the target is affected.
     
-
 ### (Optional Realism Rule) Material Penetration 
 
 - If a character is behind a wooden door (Light Cover, -2), and an attacker hits them using an armour-piercing weapon (like a Heavy Arbalest) or  maneuver like Deadly Aim, the shot completely shatters the cover. The target takes full damage, and the cover is destroyed for the rest of the fight.
-    \[/DEV NOTE\] 
 
 ### Firing Into Combat (The Risk of Friendly Fire)
 
