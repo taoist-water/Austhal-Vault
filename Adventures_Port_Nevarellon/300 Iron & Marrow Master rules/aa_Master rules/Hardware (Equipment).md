@@ -605,7 +605,7 @@ ________________________________________________________________________
 
 ## Armour and Shield Tags
 
-- *Bulky:* The weight and noise of the armour make it hard to move gracefully. Imposes a -1 penalty on Athletics and Stealth and Arcana rolls.
+- *Bulky:* The weight and noise of the armour make it hard to move gracefully. Imposes a -1 penalty on Athletics and Stealth and Arcana rolls, and activation order.
 - *Bulwark:* The shield's mass lets you root yourself in place. While readied, you cannot be Shoved, knocked Prone, or forced out of your Threat Zone as a result of losing a Clash. Once per Scene, when you lose a Block Clash, you may spend 1 Momentum to reduce that Impact to 0 instead of applying your Shield Value.
 - *Cover:* Provides excellent physical obstruction from missiles. Grants Advantage (3d6 Keep 2) to your defense rolls against ranged attacks.
 - *Cushioned:* Thick layers of cloth absorb minor impacts. Negates the first point of Dissonant Stress you would take from a Glancing Hit each combat round.

@@ -61,7 +61,7 @@ Physical barriers reduce the power of an incoming attack. They are rated by how 
     - **The Mechanic:** You cannot Strike a target in Full Cover unless you first spend an Action to destroy or bypass the cover. If an area-of-effect ability is used, the cover absorbs the full Impact value of the attack before the target is affected.
     
 
-### \[DEV NOTE\] Material Penetration (Optional Realism Rule) 
+### (Optional Realism Rule) Material Penetration 
 
 - If a character is behind a wooden door (Light Cover, -2), and an attacker hits them using an armour-piercing weapon (like a Heavy Arbalest) or  maneuver like Deadly Aim, the shot completely shatters the cover. The target takes full damage, and the cover is destroyed for the rest of the fight.
     \[/DEV NOTE\] 
@@ -82,7 +82,7 @@ ________________________________________________________________________
 
 High Fantasy heroes journey across brutal landscapes. In this system, the environment attacks your Stress track before it attacks your Wounds.
 
-- *The Mechanic:* When facing severe conditions (a blizzard, a scorching desert, freezing water, ash-choked air, or waterless ground a day or more from anything drinkable), the GM calls for a Hazard Check—usually 2d6 + Survival to navigate it safely, or 2d6 + Athletics to physically endure it, against TN 8.
+- *The Mechanic:* When facing severe conditions (a blizzard, a scorching desert, freezing water, ash-choked air, or waterless ground a day or more from anything drinkable), the GM calls for a Hazard Check—usually 2d6 + Survival to navigate it safely, or 2d6 + Athletics to physically endure it, against  a GM determined TN .
     
 - *The Cost of Failure:* Failing a Hazard check inflicts 1d3 Locked Stress (or more, depending on severity).
     
@@ -102,7 +102,6 @@ The player fails to spot the tripwire, or opens the chest without checking for a
 - The Math: As with an Aware target, the Margin between the trap's Hazard Roll and the player's (Disadvantaged) Dodge determines the final Impact. Any win avoids the hazard entirely; a **Margin 5+** win also generates 1 Momentum, exactly as it would for an Aware target — a lucky flinch is still a lucky flinch.
 - The Armour Check: On a loss, compare the resulting Impact against the player's Wound Threshold as normal — meeting or exceeding it inflicts a Wound, falling short inflicts 1 Dissonant Stress.
     
-
 #### 2. The Aware Target (The Desperate Reaction)
 
 The player spots the pressure plate but is forced to leap across it, or they deliberately trigger the swinging axe to study its timing.
@@ -111,30 +110,24 @@ The player spots the pressure plate but is forced to leap across it, or they del
     
 - Choosing the Defense: Unless the specific trap dictates a required reaction (e.g., a room-filling poison gas might strictly require a Dodge to reach the door), the player can choose their defense:
     
-
 - Dodge: Attempting to completely physically avoid the mechanism.
     
 - Block: Raising a heavy shield to absorb a dart volley or falling rocks (subtracting their Shield Value from the Impact, per the standard Block Reactor action, if they lose the Clash).
     
 - Parry: Using a weapon to jam the gears or bat away a swinging blade.
     
-
 - The Math: Just like in combat, the mathematical Margin between the trap's roll and the player's defense roll determines the final Impact. If the player wins the Clash, they avoid the hazard entirely; winning by a **Margin of 5+** also generates 1 Momentum for their flawless reflexes, per the standard Momentum ladder (Iron Core).
     
-
 ### Example Hazards in the Engine
 
 - Corpse-Rust Dart Trap (Hazard Power +3):
     
-
 - Specifics: A hidden wall-shooter.
     
 - Aware Requirement: If aware, the player can Block or Dodge, but cannot Parry the tiny projectiles.
     
-
 - Crushing Iron Portcullis (Hazard Power +6):
     
-
 - Specifics: A massive gate dropping from the ceiling.
     
 - Aware Requirement: Must Dodge to roll under it. Attempting to Block or Parry such massive weight automatically fails, resulting in the player becoming Anchored beneath the iron.
