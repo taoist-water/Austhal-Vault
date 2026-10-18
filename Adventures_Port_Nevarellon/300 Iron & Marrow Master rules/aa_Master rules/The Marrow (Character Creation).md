@@ -400,7 +400,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >You fight hardest with your back against the wall.
 
-* Mechanic: When exactly one of the two dice in a 2d6 check shows a 6, and you are in a qualifying desperate state — at half or more of your Stress Limit in Dissonant Stress, or at your final Wound Slot — you may treat that die as exploding: roll one additional d6 and add it to the total. Outside a qualifying desperate state, or without this feat, a lone natural 6 is just a 6.
+* Mechanic: When exactly one of the two dice in a 2d6 check shows a 6, and you are in a qualifying desperate state — at half or more of your Stress Limit in Dissonant Stress, or if/when you have atleast 1 Wound Slot filled — you may treat that die as exploding: roll one additional d6 and add it to the total. Outside a qualifying desperate state, or without this feat, a lone natural 6 is just a 6.
 
 **Dung-Healer's Salve**
 
