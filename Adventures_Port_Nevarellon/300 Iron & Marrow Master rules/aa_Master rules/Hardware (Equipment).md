@@ -622,10 +622,15 @@ _Reinforced Riveted Pauldrons (Armour Add-on)_
 - Cost: 20 sp | Availability: Common
 - Rules: Requires a suit of Medium or Heavy armour to attach. Adds a flat +1 to your Wound Threshold (WT). However, the added shoulder bulk restricts head movement; you suffer a permanent -1 penalty to your activation order rolls.
 
-_Visored Great-Helm (Headpiece Modification)_
+_Visored Great-Helm (Worn Headpiece)_
 
-- Cost: 35 sp | Availability: Scarce
-- Rules: When an enemy achieves an Ace (exploding 6) or a Critical success against you, you can choose to have the helm take the structural brunt. The attack does standard damage instead of critical/bonus damage, but the helm's visor is bent shut. For the remainder of the combat, your actions suffer Disadvantage due to near-total blindness until an action is spent tearing the helm off.
+- Cost: 35 sp | Availability: Scarce | Worn (0 Slots), Stowed (2 Slots)
+- Rules: A standalone piece — it needs no armour to attach to, and grants **no Armour Value**. The helm will absorb the first **2 Wound Slots** you would fill: a **Major Wound** is negated outright, or **two separate Minor Wounds** across the fight. The moment its capacity is spent the helm gains the **Ruined** tag — for a piece with no numeric contribution, that is what Ruined denies — and its visor is bent shut in the process, so until you spend an Action tearing it off, **all your actions suffer Disadvantage** from near-total blindness. It offers nothing further until a **Hammer & Forge** repair. *It cannot help against **Overwhelming Trauma**, which bypasses Wound Slots entirely and so presents nothing to absorb.*
+
+_Open Helm (Worn Headpiece)_
+
+- Cost: 15 sp | Availability: Common | Worn (0 Slots), Stowed (2 Slots)
+- Rules: As the Visored Great-Helm, but it absorbs the first **1 Wound Slot** only — a Minor Wound is negated outright, a Major Wound is reduced to a Minor — and is **Ruined** once that slot is spent. Having no visor, it carries **no blindness drawback**: the trade for half the capacity is that it never blinds you.
 
 _Oil-Cured Gambeson (Under-layer Layering)_
 

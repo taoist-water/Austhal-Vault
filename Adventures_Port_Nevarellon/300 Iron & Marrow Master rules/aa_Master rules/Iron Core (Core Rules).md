@@ -131,15 +131,19 @@ Momentum must become a currency of Rule-Breaking and Action Economy. Players spe
 
 - Shake It Off (Condition Clearance): As a Free Reaction at the start of their turn, the player spends 1 Momentum to immediately clear a physical condition like Ablaze, Anchored, or Rigor without having to waste their entire turn taking the Regroup action.
     
+    
 -  The Blood Price (Triage/Stress Mitigation): When an enemy's Impact exceeds the player's Wound Threshold and is about to cause a physical Wound, the player can spend 1 Momentum to convert the physical trauma into mental trauma. They take 0 Wounds, but instantly take 2 Dissonant Stress instead.
     
+
 ### Cost 2 Momentum: Breaking the Engine
 
  These manipulate the action economy and the Bestiary tags directly.
 
 - The Surge (Action Economy): After successfully winning an Attack Action, the player spends 2 Momentum to immediately take a second, completely free Attack action before the enemy can respond or the turn passes.
-        
+    
+    
 - Adrenaline Flush (Death Spiral Reversal): As a Free Reaction, the player spends 2 Momentum to instantly clear 1 Dissonant Stress. This is the only way to heal the mind mid-combat without casting a spell , finding a safe room for a Breather, or use alchemical resources.
+    
     
 ### Cost 3 Momentum: The Ultimates
 
@@ -148,6 +152,7 @@ Momentum must become a currency of Rule-Breaking and Action Economy. Players spe
 -  The Decisive Blow (Forcing the Threshold): The player wins an Attack Action, but the math reveals the Impact is lower than the Boss's massive Wound Threshold, meaning it would normally only cause 1 Stress. The player spends 3 Momentum to drive the blade through anyway. The attack automatically inflicts exactly 1 Wound Slot, bypassing the Threshold check entirely. *without equipment and preparation this could be the only way to wound Boss tier entities. Use it!*
     
 -  Interrupt / Seize the Initiative: When the GM declares an enemy is about to activate, the player can spend 3 Momentum to literally pause time. The player instantly interrupts the enemy, and moves into the activation order before the enemy taking a full  turn before the enemy's activation. 
+
 
 _______________________________________________________________________
 # Stress vs. Wounds
@@ -168,6 +173,7 @@ Stress is strictly divided into two types, which affect the character's capabili
 
 	*Note the division of currencies: an Arcanist's ordinary casting bleeds **Dissonant** Stress — botched manifestations, Messy margins, failed Sustain checks. Locked Stress is the Priest's bill, and reaches an Arcanist only through Overcharge, Attunement, conditions, and the environment.*
     
+
 ### The Death Spiral (The Stress Track)
 
 _Iron & Marrow_ is a game of psychological and physical attrition. Stress is the primary currency of exhaustion.
@@ -213,7 +219,7 @@ To take a Wound, an enemy's attack must overcome your physical durability, repre
 
 - **Minor Wound:** If the Impact equals or exceeds your Threshold, you take 1 Minor Wound (filling 1 slot).
     
-- **Major Wound:** If the Impact equals or exceeds _twice_ your Threshold, you suffer massive trauma, taking 1 Major Wound (filling 2 slots) .
+- **Major Wound:** If the Impact equals or exceeds _twice_ your Threshold, you suffer massive trauma, taking 1 Major Wound (filling 2 slots).
     
 - **Overwhelming Trauma (Instant Incapacitation):** If the Impact equals or exceeds _three times_ your Threshold, the attack bypasses your Wound Slots entirely — it does not fill one, no matter how many you have available (including bonus slots from spells, feats, or magic items; nothing makes a character immune to a single catastrophic blow). Instead, you immediately gain the **Incapacitated** condition exactly as if you'd taken a Wound with no slot to fill it: fall Prone, drop what you're holding, and begin Bleed-Out checks per *At Death's Door*. Also inflicts 2 Dissonant Stress.
     

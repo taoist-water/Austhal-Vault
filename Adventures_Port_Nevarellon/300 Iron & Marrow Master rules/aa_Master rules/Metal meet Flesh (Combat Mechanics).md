@@ -48,7 +48,6 @@ During a Characters activation it may move up to its base movement value [MV] an
 - at any time during their activation a Character may take a Free Action in addition to their Action. Free actions are drinking a potion, pulling a lever, passing an item to a nearby ally, etc. actions that are quick and require little to no effort.
 - When taken whilst engaged in an enemy threat zone, gain disadvantage on combat actions until next activation.
 - **Retrieve a Dropped Weapon or Shield:** A Free Action — but it halves the character's movement for that activation. Stooping to grab it costs mobility, not the whole turn.
-- Drawing/sheathing/stowing a weapon is an free action. 
 
 **Full Actions:** 
 - an activity that consumes the characters full round, both movement and action.
@@ -123,13 +122,14 @@ When wielding two one-handed weapons (a primary weapon and a weapon with the Sid
 
 **Clash Advantage:** You may choose which weapon's tags to apply to the Engagement Clash. For example, having a Reach weapon (like a spear) in one hand and a Sidearm (like a dagger) in the other allows you to use the Reach while maintaining the ability to fight effectively in close quarters.
     
-**Off-Hand Parry:** While wielding a Sidearm-tagged weapon in your off-hand, you may use that weapon's Power as a modifier when you choose Parry as your Reactor action — stacking with (not replacing) your Parry bonus, up to the off-hand weapon's own Power value (minimum of 1, power 0 weapons effectively add one). This uses the weapon's **melee** Power only — a firearm counts as Power 0 here (see the Black Powder tag, Hardware). Fictionally: you're using the dagger to deflect the killing edge of the blow rather than catching the whole weapon.
+**Off-Hand Parry:** While wielding a Sidearm-tagged weapon in your off-hand, you may use that weapon's Power as a separate Front-End Reducer when you choose Parry as your Reactor action — stacking with (not replacing) your primary weapon's Parry bonus, up to the off-hand weapon's own Power value (minimum of 1, power 0 weapons effectively add one). This uses the weapon's **melee** Power only — a firearm counts as Power 0 here (see the Black Powder tag, Hardware). Fictionally: you're using the dagger to deflect the killing edge of the blow rather than catching the whole weapon.
 
 **The "Twin Strike" Maneuver (Momentum Spend)**
 
 - Effect: When you win a Clash as an Aggressor, you may spend 1 Momentum to immediately perform a second strike with your off-hand weapon.
     
-- Impact: This second strike does not require a new roll; instead, it deals the off-hand weapon's weapon Power (a firearm counts as 0) + 1 Stress to the target. This represents a quick follow-up flick or "stinger" that keeps the pressure on the opponent. 
+- Impact: This second strike does not require a new roll; instead, it deals the off-hand weapon's melee Power (a firearm counts as 0) + 1 Stress to the target. This represents a quick follow-up flick or "stinger" that keeps the pressure on the opponent. 
+
 
 _______________________________________________________________________
 ### The Scale Categories
