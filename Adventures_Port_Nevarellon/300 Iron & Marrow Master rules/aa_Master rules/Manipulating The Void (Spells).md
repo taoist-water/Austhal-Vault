@@ -107,8 +107,8 @@ A thin membrane of energy stabilizes the air and temperature around the recipien
 
 **The Margin Scaler:**
 - Margin 0–2 (Messy): The recipient ignores Stress and penalties from extreme environmental hazards (per the Iron World Hazard Check rules) for the scene, but the caster takes 1 Dissonant Stress raising it.
-- Margin 3–4 (Clean): As above, no cost. The recipient's Wound Threshold is also treated as +2 higher specifically against environmental Direct Wounds (lava, freezing water, acid).
-- Margin 5+ (Massive): The Wound Threshold bonus increases to +4.
+- Margin 3–4 (Clean): As above, no cost. The recipient gains advantage against environmental Hazard checks (lava, freezing water, acid).
+- Margin 5+ (Massive): Ignores the first wound suffered due to an environmental hazard damage effect..
 
 ---
 
