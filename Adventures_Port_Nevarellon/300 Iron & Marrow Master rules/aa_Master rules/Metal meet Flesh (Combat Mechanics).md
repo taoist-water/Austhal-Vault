@@ -36,9 +36,9 @@ Impact: (Winner Roll - Loser Roll) + Weapon Power.
     
 - Impact => Threshold: 1 Minor Wound (1 slot).
     
-- Impact => 2x Threshold: 1 Major Wound (2 slots).
+- Impact => Threshold + 4: 1 Major Wound (2 slots).
     
-- Impact => 3x Threshold: **Overwhelming Trauma** — bypasses Wound Slots entirely (never fills one, regardless of how many are available) and immediately triggers Incapacitated / At Death's Door (Bleed-Out checks). Potential long-term injury + 2 Dissonant Stress.
+- Impact => Threshold + 8: **Overwhelming Trauma** — bypasses Wound Slots entirely (never fills one, regardless of how many are available) and immediately triggers Incapacitated / At Death's Door (Bleed-Out checks). Potential long-term injury + 2 Dissonant Stress.
 
 # Action Types
 

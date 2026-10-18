@@ -219,10 +219,12 @@ To take a Wound, an enemy's attack must overcome your physical durability, repre
 
 - **Minor Wound:** If the Impact equals or exceeds your Threshold, you take 1 Minor Wound (filling 1 slot).
     
-- **Major Wound:** If the Impact equals or exceeds _twice_ your Threshold, you suffer massive trauma, taking 1 Major Wound (filling 2 slots).
+- **Major Wound:** If the Impact equals or exceeds your Threshold **+ 4**, you suffer massive trauma, taking 1 Major Wound (filling 2 slots).
     
-- **Overwhelming Trauma (Instant Incapacitation):** If the Impact equals or exceeds _three times_ your Threshold, the attack bypasses your Wound Slots entirely — it does not fill one, no matter how many you have available (including bonus slots from spells, feats, or magic items; nothing makes a character immune to a single catastrophic blow). Instead, you immediately gain the **Incapacitated** condition exactly as if you'd taken a Wound with no slot to fill it: fall Prone, drop what you're holding, and begin Bleed-Out checks per *At Death's Door*. Also inflicts 2 Dissonant Stress.
+- **Overwhelming Trauma (Instant Incapacitation):** If the Impact equals or exceeds your Threshold **+ 8**, the attack bypasses your Wound Slots entirely — it does not fill one, no matter how many you have available (including bonus slots from spells, feats, or magic items; nothing makes a character immune to a single catastrophic blow). Instead, you immediately gain the **Incapacitated** condition exactly as if you'd taken a Wound with no slot to fill it: fall Prone, drop what you're holding, and begin Bleed-Out checks per *At Death's Door*. Also inflicts 2 Dissonant Stress.
     
+
+**Why the upper bands are offsets, not multiples.** Wound Threshold grows *additively* — `4 + Brawn + Armour` — while Impact is capped: Margin on 2d6 cannot exceed 10, so Impact tops out at `10 + Weapon Power`. Multiplying the Threshold made each point of WT raise the Major band by 2 and Overwhelming by 3, so the bands outran reachable Impact entirely. Under the old `2×`/`3×` reading, **a Power 3 attacker of equal skill could never inflict a Major Wound on anything at WT 7 or above** — twelve of the Bestiary's thirty-five entries, both Bosses among them — and Overwhelming was already dead at WT 5. The offsets are **+4 and +8 because 4 is the base Wound Threshold**: a Major is a second wound's worth of Impact on top of the first, Overwhelming a third. Anchoring on the base rather than the total is exactly what stops the ladder running away. *Do not "simplify" these back to multiples.*
 
 ### Incidental Damage — choosing the right currency
 
@@ -268,8 +270,8 @@ Doors, walls, ropes, ships and the sword in an enemy's hand all break under the 
 **Reading the result.** The Wound bands work exactly as they do on a creature, and an object's “Wound Slots” are the **Damaged → Ruined** condition track Hardware already defines:
 
 - **Impact ≥ Threshold:** mark 1 slot.
-- **Impact ≥ 2× Threshold:** mark 2 slots — the same massive-trauma doubling a body takes.
-- **Impact ≥ 3× Threshold:** the object is **Ruined outright**, regardless of how many slots it had left. This is Overwhelming Trauma's counterpart: a cannonball through a door does not *damage* the door.
+- **Impact ≥ Threshold + 4:** mark 2 slots — the same massive-trauma step a body takes.
+- **Impact ≥ Threshold + 8:** the object is **Ruined outright**, regardless of how many slots it had left. This is Overwhelming Trauma's counterpart: a cannonball through a door does not *damage* the door.
 - **First slot filled: Damaged.** *(Hardware — a flat −1 to whatever value the item contributes.)* **Last slot filled: Ruined.**
 
 **Wound Threshold and Slots by material.**
