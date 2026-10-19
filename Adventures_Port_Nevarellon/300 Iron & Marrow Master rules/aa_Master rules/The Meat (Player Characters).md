@@ -91,9 +91,9 @@ This year the Union passed her over again. The same Syndicate that wouldn't hire
 ### Equipment
 - **Armour:** Leather (+1 Armour, Light — no Arcana or Stealth penalty)
 - **Weapons:** Sling (Power 0, 1H, Sidearm, max Medium / 50 ft) + Knife (Dagger/Knife: Power 0, Concealable, Close-Quarters, Finesse, Thrown, Sidearm)
-- **Grimoire** (granted by Arcane Dabbler — outside the purse). Casting needs it in one hand and the other hand free.
+- **Grimoire** (granted by Arcane Dabbler — outside the purse). She studies it for an hour at each Long Rest; after that it rides in her Pack, and casting needs only a hand free.
 - **Starting Purse: 80 sp** — Leather 12 + Sling 2 + Knife 5 + Thieves' Tools 20 + Hemp Rope 2 + Grappling Hook 3 + Smokestick 15 + Caltrops 4 = **63 sp spent, 17 sp remaining.** The 17 sp is already promised to Wenna's bond.
-- **Belt:** Grimoire, Sling, Knife. **Pack:** Thieves' Tools, Rope, Grappling Hook, Smokestick, Caltrops. Sling stones come off the Community Supply Die.
+- **Belt:** Sling, Knife. **Pack:** Grimoire, Thieves' Tools, Rope, Grappling Hook, Smokestick, Caltrops. Sling stones come off the Community Supply Die.
 
 ### Grimoire (Arcana = **2d6+1**)
 - **Gravity Well** *(Astromancy, Novice — no Mastery)* — Unopposed Arcana vs TN 8, Activation, Medium Range, instantaneous. One willing ally or **unattended object** (anything one person could carry) is yanked to an empty space beside her. Margin 0–2: it works, and she takes 1 Dissonant Stress from the recoil. Margin 3–4: smooth, no cost. Margin 5+: an ally pulled beside an enemy gets a free Aggressor Strike. Cannot target unwilling creatures.
@@ -120,7 +120,7 @@ Two winters ago she got into the Basin without a work-token and out of a foreign
 - **Dabbler grows through rank, cheaply.** Arcana 2 costs her 1 DP and adds a second spell and +1 to every cast; Arcane Awakening pays 2 DP for each extra Novice spell, +1 off-Paradigm. Her ceiling is 4 spells at Wits 1. Darksight or Light/Darkness is the obvious second pick for a thief.
 - **Her Momentum comes from her trade.** Scavenger's Eye pays 2 Momentum on a Massive scouting or exploration check. With Thievery at +3 that is a 16.7% chance on a TN 8 lock, and 19.9% on Stealth with Advantage. A Momentum Bank of 6 lets her hold it.
 - **The sling harasses; it does not kill.** At Power 0, Impact is the Margin alone, so against a WT 5 Grunt she needs to win by 5 to Wound. Most hits are Glancing (1 Dissonant Stress). Against NPCs' binary Stress, each tick still moves them toward a Break.
-- **The hands problem.** Casting needs the Grimoire in one hand and the other free; the sling also needs a hand. Drawing from the Belt is a Free Action, but the rules have no clear cost for putting a held item away. Run a cast-then-shoot turn at the table and see how it plays.
+- **Sling and spell, one hand each.** With Gravity Well held from the night's study, the Grimoire stays in her Pack and casting needs only a free hand. The sling fills the other, so she can shoot one turn and cast the next without changing what she holds. She owns no lantern: her hour of study needs a fire, an inn or daylight.
 - **WT 4 is the floor of the new roster.** One Grunt hit at Margin 2+ with a Power 2 weapon Wounds her. Her defence is Dodge 2d6+1, the −1 Scale penalty on attackers, and not being seen.
 
 ---
@@ -298,9 +298,9 @@ When the steward's man came down the river asking for a runaway tenant, Marra to
 
 ### Equipment
 - **Armour:** Leather (+1 Armour, Light — no Arcana penalty)
-- **Focus (two 1H items):** Grimoire (Repository — granted by Arcane Awakening) + **Wand** (Conduit, Sidearm). Both Casting Requirements met with both hands full, and **Sidearm** lifts the Point-Blank Disadvantage on casting.
+- **Focus:** **Wand** (Conduit, Sidearm), with her Grimoire (Repository — granted by Arcane Awakening) studied at each Long Rest and stowed. **Sidearm** lifts the Point-Blank Disadvantage on casting, which Thermal Detonation's 5 ft always invites. Her other hand is free.
 - **Starting Purse: 80 sp** — Leather 12 + Wand 10 + Grave-Dust Poultice 8 + Hooded Bullseye Lantern 12 + Flint and Steel 2 + Bedroll 2 + Waterskin 1 = **47 sp spent, 33 sp remaining.**
-- **Belt:** Grimoire, Wand, Poultice. **Pack:** Lantern, Bedroll. **Also carried:** a bundle of letters folded inside the Grimoire's back board (see Beneath the Numbers).
+- **Belt:** Wand, Poultice. **Pack:** Grimoire, Lantern, Bedroll. **Also carried:** a bundle of letters folded inside the Grimoire's back board (see Beneath the Numbers).
 
 ### Grimoire (Arcana = **2d6+3**)
 - **Ember Lance** *(Pyromancy, Mastery-eligible)* — Arcane Clash vs the target's Defense, Medium Range, Aggressor, **Spell Power 2**. Margin 1–2: Impact = Margin + 2, and she takes 1 Dissonant Stress — **upgraded to Clean by Mastery**. Margin 3+ (Clean): as above, and the target has Disadvantage on its next roll.

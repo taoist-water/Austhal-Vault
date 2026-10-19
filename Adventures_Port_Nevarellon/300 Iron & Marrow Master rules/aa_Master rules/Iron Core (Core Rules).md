@@ -350,6 +350,7 @@ A period of secure, undisturbed rest — a night at an inn, a fortified wilderne
 
 - **Effect:** Clears all accumulated Dissonant Stress, and 1 point of Locked Stress. No check is required.
 - **Limitation:** A Long Rest cannot touch **Attunement** Locked Stress — nothing can, while the item is worn (see the Golden Rules). Among the routes that reach *clearable* Locked Stress this is the only one that is free, automatic and available to everyone regardless of Faith; the alchemical preparations in Hardware also reach it, at a cost. It's deliberately modest (Religious Pursuit's own guaranteed floor is Will score, minimum 1, and scales upward), so a Long Rest never outperforms a successful Tithe of Will, only guarantees a small amount to everyone regardless of Faith.
+- **Study:** An Arcanist spends 1 hour of the Long Rest with their Grimoire, by any light but Pitch Black, to hold its spells until the next (see The Casting Requirements, Embracing the Abyss). A Depleted Supply Die does not stop it on its own, but a Depleted party with no light source of its own — no fuel, no oil, no moon — cannot study.
 - **Supplies:** At the conclusion of a Long Rest, the party rolls their Community Supply Die exactly once (per Hardware) — the same single roll as a Breather, covering the whole night's consumption rather than scaling with its extra length. If the Die is Depleted, this Long Rest's Stress-clearing effect doesn't happen at all: no clean bandages, no hot food, no real rest either.
 
 ________________________________________________________________________

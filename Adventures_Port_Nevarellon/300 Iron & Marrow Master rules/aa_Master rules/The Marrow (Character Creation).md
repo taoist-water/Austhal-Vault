@@ -31,7 +31,7 @@ You begin with **80 silver pieces** and buy your own kit from Hardware. There is
 
 **Everything else comes out of the purse** — armour, weapons, shields, ammunition, tools, consumables, and whatever coin you choose to keep in your pocket rather than spend. Unspent silver stays yours.
 
-**Grip still constrains the loadout.** The purse governs what you can *afford*; the Grip rules in Hardware govern what you can *hold*. Two 1-Handed items, or one 2-Handed item — a Greatsword leaves no hand for a shield, and a Grimoire must be wielded in one hand with the other free to cast without penalty.
+**Grip still constrains the loadout.** The purse governs what you can *afford*; the Grip rules in Hardware govern what you can *hold*. Two 1-Handed items, or one 2-Handed item — a Greatsword leaves no hand for a shield, and an Arcanist needs one hand free, or a **Conduit** item in it, to cast without penalty.
 
 > **A note on the trade.** 80 sp buys a Chain Shirt and very little else, or it buys a Gambeson and a workshop's worth of rope, lockpicks, oil, and caltrops. Armour is roughly two-thirds of any heavily-armoured kit, and every point of Wound Threshold you buy is bought with something you now do not own. That is the intended shape of the choice. A character who walks out of Step 5 with nothing left over has made a real decision, not a mistake.
 
@@ -323,7 +323,7 @@ ______________________________________________________________________
 
 >You have forced your mind to perceive the volatile geometries of the world.
 
-* Mechanic: **Choose one Paradigm.** You gain a Grimoire containing 3 Novice Arcana spells, drawn from the Common list, your chosen Paradigm's list, and/or any other Paradigm's Novice list. You may manifest these spells using the Arcane Margin mechanics whenever you meet The Casting Requirements — Grimoire wielded in one hand, other hand free (see Embracing the Abyss). Casting without them is Blind Casting. Spells from your chosen Paradigm benefit from **Paradigm Mastery**: a Messy Success (Margin 0–2) resolves as a Clean Success instead. Common spells and spells from other Paradigms never benefit from Mastery.  _(Additional spells — in- or off-Paradigm — are learned later through Advancement; off-Paradigm spells cost a +1 DP surcharge and never gain Mastery, but they're never feat-gated or forbidden.)_
+* Mechanic: **Choose one Paradigm.** You gain a Grimoire containing 3 Novice Arcana spells, drawn from the Common list, your chosen Paradigm's list, and/or any other Paradigm's Novice list. You may manifest these spells using the Arcane Margin mechanics whenever you meet The Casting Requirements — spells held by study at your last Long Rest, and a hand free (see Embracing the Abyss). Casting without them is Blind Casting. Spells from your chosen Paradigm benefit from **Paradigm Mastery**: a Messy Success (Margin 0–2) resolves as a Clean Success instead. Common spells and spells from other Paradigms never benefit from Mastery.  _(Additional spells — in- or off-Paradigm — are learned later through Advancement; off-Paradigm spells cost a +1 DP surcharge and never gain Mastery, but they're never feat-gated or forbidden.)_
 
 **Arcane Dabbler**
 
@@ -581,7 +581,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >You are used to the chaos of the battlefield.
 
-* Mechanic: When you are forced into Blind Casting (casting with your Grimoire stowed, your hands full, or both — see The Casting Requirements, Embracing the Abyss), you still cast with Disadvantage and still pay the Dissonant Stress. However, you may reroll any natural 1s that appear in your dice pool. You must keep the second result.
+* Mechanic: When you are forced into Blind Casting (casting with no hand free and no Conduit item in hand — see The Casting Requirements, Embracing the Abyss), you still cast with Disadvantage and still pay the Dissonant Stress. However, you may reroll any natural 1s that appear in your dice pool. You must keep the second result.
 
 **Fevered Channelling**
 
@@ -811,7 +811,7 @@ As long as you speak the litany and bear your symbol, manifest these Prayers by 
 
 >You have burned the formula into your very marrow.
 
-* Mechanic: Choose one Novice or Adept Arcana spell from your Grimoire. You can cast this spell purely from memory — it needs no Grimoire and no free hand, ignoring the Blind Casting Disadvantage and its Dissonant Stress penalty entirely. You can still cast it when the book itself is lost, stolen, or destroyed. Furthermore, this spell never resolves as Messy: treat a Margin 0–2 result as Clean, even if it is a Common or off-Paradigm spell.
+* Mechanic: Choose one Novice or Adept Arcana spell from your Grimoire. This spell is always held — it needs no study and no free hand, ignoring the Blind Casting Disadvantage and its Dissonant Stress penalty entirely. You can still cast it when the book itself is lost, stolen, or destroyed. Furthermore, this spell never resolves as Messy: treat a Margin 0–2 result as Clean, even if it is a Common or off-Paradigm spell.
 
 **Macabre Genius**
 

@@ -24,26 +24,35 @@ This does not apply to Arcane Clash spells or any other opposed roll — both si
 
 Arcana is the act of forcefully rewriting reality. It is highly complex, mathematically devastating, and inherently unstable. It relies entirely on Margin mechanics.
 
-**The Casting Requirements (The Book and the Hand)**
+**The Casting Requirements (The Book, the Study and the Hand)**
 
-An Arcanist does not carry their spells in their head. They carry them in a book, and the working itself is a physical act. Casting an Arcane spell requires two things:
+An Arcanist's spells live in their Grimoire, and in their head only for as long as the book allows. The working itself is a physical act. Casting an Arcane spell requires two things:
 
-1. **The Grimoire wielded**, occupying one hand exactly as a 1H weapon does.
-2. **The other hand free**, to trace the somatic geometry of the working.
+1. **Spells held.** The Arcanist studied their Grimoire at their last Long Rest (see *Study*, below), and every spell in it is held in memory.
+2. **A hand free**, to trace the somatic geometry of the working — or a held item carrying the **Conduit** tag, which traces it for them (Hardware: Arcane Focus).
 
-Casting with either requirement unmet is **Blind Casting**: the check is made at **Disadvantage**, and the caster takes **1 Dissonant Stress per unmet requirement** — so 1 if the book is stowed *or* the hand is full, 2 if both. (Disadvantage does not stack per Iron Core, so the Stress is what makes losing both worse than losing one.)
+Once its spells are held, the Grimoire does not need to be in hand, or even on the Arcanist's person. It is needed to study, and to read from.
 
-If the Grimoire is not on the Arcanist's person at all — lost, stolen, Sundered, or left behind — they cannot cast at all, with the sole exception of spells committed permanently to memory (see the *Ingrained Arcana* feat).
+**Study.** During a Long Rest, an Arcanist spends **1 hour** with their Grimoire. The hour sits inside the Long Rest's 8 hours — reading is not strenuous — and needs a light to read by: a fire, a lantern, daylight, anything but Pitch Black (Iron World — Illumination). At the conclusion of the Long Rest, every spell in the Grimoire is held until the conclusion of the Arcanist's next Long Rest. A Depleted Supply Die does not stop the study on its own; read it in context. A Depleted party with no light of its own — no fuel for a fire, no oil for a lantern, camped on a no-moon night — has nothing to read by, and the study cannot happen.
 
-Both requirements have hardware answers, and an Arcanist's loadout is a real build decision (see Hardware: Arcane Focuses):
+**Reading from the page.** An Arcanist whose spells are not held — the study was missed, there was no light, the book came back too late — can still cast from the open Grimoire: the book wielded in one hand exactly as a 1H weapon, and the other hand free or holding a **Conduit** item. With the book not in hand, an Arcanist whose spells are not held cannot cast at all, except a spell kept by *Ingrained Arcana*.
 
-| Loadout | Grimoire req. | Free hand | Result |
+**Losing the Grimoire.** Spells already held stay held until the conclusion of the next Long Rest. After that, with no book to study, the Arcanist keeps only what *Ingrained Arcana* keeps. A lost, stolen or Sundered Grimoire is a deadline, not a switch.
+
+**Blind Casting.** Casting with no hand free and no **Conduit** item in hand — whether from held spells or reading from the page — is **Blind Casting**: the check is made at **Disadvantage**, and the caster takes **1 Dissonant Stress**.
+
+An Arcanist's loadout is a real build decision (see Hardware: Arcane Focus):
+
+| Loadout | Spells | Hand | Result |
 |---|---|---|---|
-| Grimoire + empty hand | Met | Met | Clean. No weapon, no shield. |
-| Grimoire + Wand (**Conduit**) | Met | Met | Clean. The Wand legally occupies the second hand where a weapon or shield would not. No shield. |
-| Grimoire + Vitrified Wand (**Conduit**, **Focus**) | Met | Met | Clean, **+1** to the Clash. Enchanted — 1 Locked Stress. No shield. |
-| Mage Staff (**Bound**, **Conduit**), book stowed | Met | Met | Clean, plus Reach and Sustain support. Both hands committed. |
-| Book stowed, weapon and shield in hand | Unmet | Unmet | Disadvantage, 2 Dissonant Stress per cast. |
+| One hand empty; the other holds a weapon, shield or sling | Held | Met | Clean. |
+| Wand (**Conduit**, **Sidearm**) in one hand | Held | Met | Clean, and **Sidearm** lifts the Point-Blank Disadvantage on the cast. |
+| Vitrified Wand (**Conduit**, **Focus**) in one hand | Held | Met | Clean, **+1** to the Clash. Enchanted — 1 Locked Stress. |
+| Mage Staff (**Conduit**) | Held | Met | Clean, plus Reach and Sustain support. Both hands committed. |
+| Weapon carrying **Conduit**, shield in the other hand | Held | Met | Clean. The weapon stands in for the free hand. |
+| Weapon and shield, neither carrying **Conduit** | Held | Unmet | Blind Casting: Disadvantage, 1 Dissonant Stress per cast. |
+| Grimoire open in one hand, other hand empty | Not held | Met | Clean, read from the page. |
+| Grimoire not in hand | Not held | — | Cannot cast (except *Ingrained Arcana*). |
 
 **Casting at Point-Blank.** An enemy inside your Threat Zone imposes **Disadvantage** on the cast, exactly as it does on a shot (Metal meet Flesh — Ranges), unless your Arcane Focus carries the **Sidearm** tag. A spell's listed range band is a cap rather than a minimum, so Point-Blank is always a legal distance to cast at — it is simply a bad one. This is Disadvantage from **position**; Blind Casting above is Disadvantage from **loadout**. Blind Casting's Dissonant Stress is still owed on its own account, but the Disadvantage from the two does not stack — Disadvantage never does (Iron Core).
 

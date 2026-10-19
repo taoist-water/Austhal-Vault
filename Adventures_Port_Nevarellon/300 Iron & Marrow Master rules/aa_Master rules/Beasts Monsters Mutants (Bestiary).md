@@ -129,7 +129,7 @@ Construction comes from The Marrow. Runtime stays here. Specifically:
     - **Scale and Species modifiers apply after the floor and may take a core-species build below it.** A chosen drawback carrying fiction is not leftover budget, and the floor exists to catch the latter.
 - **Special Actions** remain per the Gate Test, on top of the picks above.
 
-*A trained caster is not an innate one.* A core-species Arcanist needs the **Arcane Awakening** feat (spending a pick), a Grimoire, and a free hand, and suffers Blind Casting without them. A monster with the **Innate Magic** trait — the Lizardman Shaman — bypasses all of that. That distinction is now mechanical rather than flavour, and it is the cleanest reason to keep the two construction methods separate.
+*A trained caster is not an innate one.* A core-species Arcanist needs the **Arcane Awakening** feat (spending a pick), a Grimoire studied at its last Long Rest, and a free hand, and suffers Blind Casting without the hand. A monster with the **Innate Magic** trait — the Lizardman Shaman — bypasses all of that. That distinction is now mechanical rather than flavour, and it is the cleanest reason to keep the two construction methods separate.
 
 ________________________________________________________________________
 # Traits
@@ -245,7 +245,7 @@ _**Fanatical:** Immune to being Intimidated.
 **Innate Magic**
 - The magic is bone-deep, not book-bound.
 
-- This creature casts Arcane spells without a Grimoire and without a free hand, and never suffers Blind Casting's Disadvantage or Dissonant Stress. Every one of its Innate Spells is treated as under **Paradigm Mastery**, whatever Paradigm (or none) the spell belongs to: a Messy result — Margin 1–2 on a Clash, Margin 0–2 on a Margin of Manifestation or Sustain check — resolves as Clean and costs no Dissonant Stress. Its power was never learned, so it was never imperfect.
+- This creature casts Arcane spells without a Grimoire, without study and without a free hand, and never suffers Blind Casting's Disadvantage or Dissonant Stress. Every one of its Innate Spells is treated as under **Paradigm Mastery**, whatever Paradigm (or none) the spell belongs to: a Messy result — Margin 1–2 on a Clash, Margin 0–2 on a Margin of Manifestation or Sustain check — resolves as Clean and costs no Dissonant Stress. Its power was never learned, so it was never imperfect.
 
 - **What it costs.** One pick from the allowance, and it brings **up to three Novice spells** with it — the same count as Arcane Awakening's three. What Innate Magic gains over Awakening (Mastery on every spell rather than one Paradigm, and no Grimoire to lose) it pays for in reach: its list is fixed when the creature is built, and only further picks extend it. **Each Adept or Master spell costs one further pick** and needs the Arcana rank its tier requires (Adept 2+, Master 3+ — The Marrow, Advancement). List them under **Innate Spells**; each is a full Aggressor or Activation action, one per turn like any other creature's.
 
