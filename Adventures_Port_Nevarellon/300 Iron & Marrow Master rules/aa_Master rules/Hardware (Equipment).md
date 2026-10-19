@@ -32,7 +32,7 @@ To stop players from instantly accessing a dozen different items during a sword 
 
 Tactical Result: If the Pyromancer has a healing potion in their Pack, they cannot simply drink it while being attacked. They have to retreat, take the Regroup action to dig it out, and hope the Fighter holds the line.
 
-### 3. The Attrition Tax (Wounds Limit Gear)
+### 3. (optional realism rule) The Attrition Tax (Wounds Limit Gear)
 
 This is where the encumbrance system ties directly into your Death Spiral. As a character gets physically destroyed, their ability to bear weight collapses.
 
