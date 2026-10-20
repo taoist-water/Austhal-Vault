@@ -14,6 +14,16 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-19 — Arcana in the world
+- **New note (draft):** `Lore - Arcana` (100 Society/102 Lore & History). Closes the biggest gap from the rules–lore blend trial: Arcanists were absent from the vault.
+- **Arcana is the stolen magic; the Guild's alchemy is the stolen science** (Great Fracture). The magic survives only as fragments — inscriptions, paintings, war-bone, and **quick-things** (half-quickened wrack; natural Relics).
+- **Practitioners work from theories** (TheTao: loosely pseudo-science). Each is partly right; none is the truth. **No schools, academies or orders** (TheTao) — individual specialists, **hands** (master and wards) and **correspondences**.
+- **Arcanists practise openly** (TheTao). Suspicion attaches to gathering students (the Zenith, since the Undercourt) and to particular traditions, not to the profession.
+- **Wealthy houses keep an Arcanist as social status as much as for use** (TheTao), compared with the Golden Company's Envoys. Disputations; poaching; household vanity titles. **"Archmage" is one** — the title some household gave Vane.
+- **The Grimoire is a private working notebook**, re-studied nightly; **Vane's Book** is the most-copied Grimoire on the coast, and no two copies agree.
+- **Imaihil De Vonce** practises in all but name (open question). Tythius would no more hire an Arcanist than retain an Envoy.
+- **GM-facing, new:** Shadow Sorcery answers because reflection is still faintly the Two-Faced's; Demonology works by naming, repeating the Naming in miniature; Necromancy's current is essence bleeding from war-bone.
+
 ### 2026-10-18 — Iolo Neapwater
 - **Iolo Neapwater**, called **Folly**, is the seventh PC of the new Iron & Marrow roster: an elf of **Reefhollow** (Shield Atolls; Name Tables Table 2 #38, now allocated) who came ashore at Brinewick in **9 A.A.** owing the Fleet book for a lost hull. He was on a Bonds-book Debt-Bond for forty-nine years and was Brinewick's best pan-gang **caller**. His verses mock the Table, Junia's years running the Bonds book, and the Bond-Master. First Register E name on a living elf; *Folly* is the Crooked Coin nickname from the devotional table.
 - **New detail, Brinewick:** each gang has a caller who keeps the rakes in time; Tallis lets the gangs sing. Twice Iolo ran to the beaches to boil free salt, and twice he walked back when the Winter Moons closed the coast; the free-salt men (Crooked Coin) taught him the blade. At the last Salt-Draw the gangs gave him the lot-bag to draw, and he read out his own name. *This is a one-off choice of drawer, not a fixed custom.* GM-facing: he palmed **Thala Skerry**'s token (new minor cast, 205 NPCs).
@@ -422,7 +432,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Unaging Heir *(name to be set)* | Exiled royal line | Child of the last King who fled at 0 A.A.; a partial Blessing stopped their ageing; claims to be no longer mortal, and so outside the King-Ban | N | The Twelgorn Kingdom | Alive. Palla and Tythius could recognise them on sight |
 | Morgran "Fin" Deep-Draught | Independent — Fenmouth | Dwarf, 112; marsh-guide; hag-made for love of a fey; the stilt-villages still call him Fin | N | Morgran the Abomination.md | Alive. Filename vs header name still differ |
 | Master Cartographer Vaelen | — | Quoted scholar-cartographer mapping a world with no solar bearings | — | Epigraphs; Coastal Reckoning | Quote-only |
-| Archmage Vane | — | Quoted in Cosmology | — | Celestial Graveyard | Quote-only |
+| Archmage Vane | — | Practitioner from before living memory; *Archmage* a household vanity title; **Vane's Book**, the most-copied Grimoire, no two copies agree | — | Celestial Graveyard; Lore - Arcana | Quote-only. Identity open |
 | Captain Tessa (Leviathan Hunter) | Oakhaven fleets | Quoted in The Inner Sea | — | The Inner Sea | Quote-only. **Name collision with Tessa Dolly** |
 | Suse Kellard · Nell Stroud | Foundry Slips · Muddy Docks | Rope-walk foreman, Shipwrights' stamp · cookshop widow (epigraph voices) | — | Thole; Kress; Name Tables; Guilds framework | Allocated from Name Tables |
 | Halcus Rive | Guild of Alchemists (PN chapter) | Assessor; licenses every Brine-Glow lantern | N | The Guild of Alchemists; Name Tables #26 | Alive; no file |
@@ -599,6 +609,12 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Wrack · shard · unanchored | The solid form of essence · one piece of it · wrack that still bleeds | Great Fracture; throughout | Ruleset aligned 2026-10-11 |
 | Essence | What the nameless entities, and the entities they made, were made of (not "god-essence") | Great Fracture; Celestial Graveyard; throughout | — |
 | Settlement Tier T0–T3 | Tier measures services, not headcount | Name Tables | **Explicitly "mechanical" — flag for the rules side** |
+| Grimoire *(in-world)* | A practitioner's private working notebook, re-studied nightly; useless to another reader without decoding | Lore - Arcana | Ruleset: study rule, Embracing the Abyss |
+| Quick-things | Half-quickened wrack that behaves as if it wants something; the rarest fragments | Lore - Arcana | Natural Relics (Hardware) |
+| A hand · a correspondence | A practitioner and their wards · practitioners who write but never meet | Lore - Arcana | — |
+| Kept Arcanist · disputation | A house's practitioner on staff, for status and use · rival Arcanists arguing theory before guests, with a working as proof | Lore - Arcana | Patron as Downtime relationship `needs crunch` |
+| Reckoners · burners · twitchers · humourists · glass-readers · namers · cunning folk | Street names for the traditions (Astromancy, Pyromancy, Necromancy, Transmutation, Shadow Sorcery, Demonology & Void, Witch Magic & Hedge Craft) | Lore - Arcana | Paradigm names stay GM-facing |
+| Vane's Book | The most-copied Grimoire on the coast; "which Vane do you work from?" | Lore - Arcana | — |
 
 ---
 
