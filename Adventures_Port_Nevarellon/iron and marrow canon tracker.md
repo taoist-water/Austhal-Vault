@@ -14,6 +14,14 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-21 — The Three Shares and the Going-Out
+- **Magnitude** (Celestial Graveyard): Primary · Great Named · Lesser Named · Named things. **The list of Named is open** (TheTao) — more Great Named, and many of lesser magnitude, can be added. **The Sun is the one Creator never Named**; the Nameless never take a mortal shape, and anything Named does.
+- **The Three Shares** (TheTao: spread the Named across the spectrum; good and evil remain mortal perception). Each Great Named split into a **Reach share** (the hope, in **its Reach**), an **Undertow share** (the fear, in **its Deep**) and the **current** between them (the Domain, along **its Run**). Consistent with Religion's "drawn from all through the Tideways".
+- **Tuwal Ghorun** is a Share caught in the Slack Water before it rose — the only remnant that can speak. Whose Share it is stays open.
+- **The Going-Out** (TheTao: a working relationship of the Named, after the Styx myth). Before the Shattering the dead ceased to exist (Great Fracture); since it, they go somewhere — the afterlife the Deicide bought. The parts of the broken cycle still turn: **the Bastion's line** (the threshold; Undead cross it backwards) → **the Ebb's ferry** (fare: whatever you hold; **the Unmoving pulls to stay** — ghosts) → **the Plumb's measure** (against the record; the unrecorded is taken; the verdict is always guilty, and only those who believe it go to the Plumb's Deep) → **the Quiet's turn** (one still moment, then rise or sink by the soul's own weight; **the Quiet keeps a place for its faithful**). **The Mother** takes the souls she fed on at the line; **the Two-Faced** misplaces, swaps and once in a while frees them.
+- **The grave-books, the Count, the Relief and the Register** are records the Plumb measures against. Mote: a soul in the grave-books comes to the measure whole.
+- **Not yet carried into the cult notes** (Ashen Veil, Tidespoken, Martyr, Zenith, Crooked Coin, Iron Horizon, Rime-Fang). Their existing GM text is consistent; each could take one line.
+
 ### 2026-10-19 — Arcana in the world
 - **New note (draft):** `Lore - Arcana` (100 Society/102 Lore & History). Closes the biggest gap from the rules–lore blend trial: Arcanists were absent from the vault.
 - **Arcana is the stolen magic; the Guild's alchemy is the stolen science** (Great Fracture). The magic survives only as fragments — inscriptions, paintings, war-bone, and **quick-things** (half-quickened wrack; natural Relics).
@@ -465,6 +473,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Thalass's Omen | Sea & Storms — Tidespoken | The rogue wave that broke a fleet of the last King's armada at the harbour mouth, in the final year of the Civil War | The Tidespoken Clergy | Religion; The Tidespoken Clergy |
 | The Sun | Corpse of a primary Creator | Ceases to exist at night and returns somewhere else; no solar bearings | — | Celestial Graveyard; Coastal Reckoning |
 | The Pale Sister (Nyssaria) · The Drowned Lamp (Ossuel) · The Slow Wound (Cassivar) | Moon-corpses; 28 / 40 / 105-day cycles; **their own glow** | Set the calendar, the tides and the Low Moons respectively; winter is their weight | — | Coastal Reckoning |
+| **The Three Shares** *(GM-facing)* | How every Great Named was split at the Shattering | Reach share (hope, its Reach) · Undertow share (fear, its Deep) · current (the Domain, its Run) | — | Celestial Graveyard (**NEW**) |
+| **The Going-Out** *(GM-facing)* | The passage of the dead | The Bastion's line → the Ebb's ferry (the Unmoving pulls back) → the Plumb's measure → the Quiet's turn → Reach or Undertow. The Mother and the Two-Faced interfere | — | Celestial Graveyard (**NEW**) |
 | **The Slack-Born (fey)** | Essence that quickened in still water | Not a mortal race; beautiful, unhurried, indifferent | — | Great Fracture (**NEW**) |
 | **Hags** | Humanoid fey | Rooted to still water, or where it used to be; uproot only at the Low Moons; trade in change — work Undertow wrack into flesh; always agree, paid in full; covens for power over change | — | Great Fracture; Morgran; Lore - Hags. **Statted** (ruleset) |
 | **Wretches** | Undead — what a place keeps of those it kills | Bog, Grave, Dust; remember only cold, drowning or thirst; not hag-made; Dust-Wretches walk the Corvus Scar | — | Lore - Wretches (**NEW, draft**). **Statted** (ruleset) |
@@ -608,6 +618,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The widows' bread | Iron-Spire feeds every border-dead levyman's family for life | Castle Iron-Spire | — |
 | Wrack · shard · unanchored | The solid form of essence · one piece of it · wrack that still bleeds | Great Fracture; throughout | Ruleset aligned 2026-10-11 |
 | Essence | What the nameless entities, and the entities they made, were made of (not "god-essence") | Great Fracture; Celestial Graveyard; throughout | — |
+| Reach · Deep · Run *(GM-facing)* | A Share's country in the High Reach · in the Undertow · the current's passage between them | Celestial Graveyard | — |
+| Great Named · Lesser Named · Named things · the Nameless | The magnitudes of entity; the Nameless never take a mortal shape | Celestial Graveyard | Possible **Named** Creature Type — rules side |
 | Settlement Tier T0–T3 | Tier measures services, not headcount | Name Tables | **Explicitly "mechanical" — flag for the rules side** |
 | Grimoire *(in-world)* | A practitioner's private working notebook, re-studied nightly; useless to another reader without decoding | Lore - Arcana | Ruleset: study rule, Embracing the Abyss |
 | Quick-things | Half-quickened wrack that behaves as if it wants something; the rarest fragments | Lore - Arcana | Natural Relics (Hardware) |
