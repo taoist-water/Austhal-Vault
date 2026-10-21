@@ -14,6 +14,14 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-21 — The War-Made, Likenesses and Dreads
+- **Two new notes (draft)** in 100 Society/102 Lore & History, inspiration for Bestiary entries (TheTao).
+- **`Lore - The War-Made`.** Every making carries a **purpose** that outlives its maker. Two kinds: **peoples** (bred true; the purpose bred out — orcs, goblins, giants, ogres; half-orcs) and **instruments** (never bred; still carry their orders).
+  - **Weaponizers:** the Bastion — monstrous peoples, **siege-chimeras** (bodies seamed from parts); the Unmoving — the winter-drake (apex), **frost-trolls** (wounds close because they were made to stay one shape; trolls stay Beast); the Plumb — **measurers** (faceless, plumb-true; attack what has strayed — by their measure, every mortal); **the vast ones** sank into Wrecks — what the pious call devils; a pact is an order looking for a way to be carried out (Malaphar; the Corvus thing; the Fourth's winged guards). Haren's wyvern left open (made, or Undertow-fed).
+  - **Alliance — carriers, not weapons:** the Ebb — the **leviathans**, carriers across water that soured in the Drowning Deep and now carry ships down; the Mother — **nurses**, which keep what they hold alive and take its years; the Two-Faced (both sides) — **doubles**, which wear one soldier's life and come to believe it. **The Quiet made nothing.**
+- **`Lore - Likenesses and Dreads`.** Where a Share gathers on the Disk it takes the mortal shape the Naming gave it, in the local face: **Likeness** (Reach share) and **Dread** (Undertow share). They last until the feeling that gathered them disperses; they can be driven off, not killed. **Saint sightings are Likenesses wearing a saint's face** (GM-facing). A table of all fourteen. **Elementals are the Nameless**: no face, no want, nothing to bargain with.
+- Not carried into the Bestiary: all new creatures are `needs crunch`; possible **Named** Creature Type.
+
 ### 2026-10-21 — The Tideways as a map
 - **New note (draft):** `Cosmology - The Tideways` (100 Society/104 Cosmology), for interplanar adventure (TheTao). Great Fracture points to it.
 - **Shape:** the layers are depth, not borders. **Shallows** near the Disk (where crossings land) · the Shares' **Reaches** and **Deeps** · **Runs** between them (the one dependable road; also the road of the dead) · **the open layers** (unshaped essence; the dead who hoped and feared nothing in particular) · **the Wrecks** (Undertow ground shaped around a war-made thing still following orders — the Corvus breach and the Fourth's fire circle open onto Wrecks).
@@ -483,6 +491,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Pale Sister (Nyssaria) · The Drowned Lamp (Ossuel) · The Slow Wound (Cassivar) | Moon-corpses; 28 / 40 / 105-day cycles; **their own glow** | Set the calendar, the tides and the Low Moons respectively; winter is their weight | — | Coastal Reckoning |
 | **The Three Shares** *(GM-facing)* | How every Great Named was split at the Shattering | Reach share (hope, its Reach) · Undertow share (fear, its Deep) · current (the Domain, its Run) | — | Celestial Graveyard (**NEW**) |
 | **The Going-Out** *(GM-facing)* | The passage of the dead | The Bastion's line → the Ebb's ferry (the Unmoving pulls back) → the Plumb's measure → the Quiet's turn → Reach or Undertow. The Mother and the Two-Faced interfere | — | Celestial Graveyard (**NEW**) |
+| **Likenesses · Dreads** *(GM-facing)* | Reach share · Undertow share gathered on the Disk in mortal shape | Last until the feeling disperses; saint sightings are Likenesses | — | Lore - Likenesses and Dreads (**NEW**) |
+| **The War-Made** | The two sides' makings: peoples and instruments | Weaponizers: monstrous peoples, siege-chimeras, drakes, frost-trolls, measurers, the vast ones. Alliance: leviathans, nurses, doubles. The Quiet made nothing | — | Lore - The War-Made (**NEW**) |
 | **The Slack-Born (fey)** | Essence that quickened in still water | Not a mortal race; beautiful, unhurried, indifferent | — | Great Fracture (**NEW**) |
 | **Hags** | Humanoid fey | Rooted to still water, or where it used to be; uproot only at the Low Moons; trade in change — work Undertow wrack into flesh; always agree, paid in full; covens for power over change | — | Great Fracture; Morgran; Lore - Hags. **Statted** (ruleset) |
 | **Wretches** | Undead — what a place keeps of those it kills | Bog, Grave, Dust; remember only cold, drowning or thirst; not hag-made; Dust-Wretches walk the Corvus Scar | — | Lore - Wretches (**NEW, draft**). **Statted** (ruleset) |
@@ -630,6 +640,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Great Named · Lesser Named · Named things · the Nameless | The magnitudes of entity; the Nameless never take a mortal shape | Celestial Graveyard | Possible **Named** Creature Type — rules side |
 | Ballast · anchor *(GM-facing)* | Wrack carried to shift a body to a layer (black down, pale up) · a name held by others, which keeps a traveller themselves | Cosmology - The Tideways | `needs crunch` |
 | Shallows · open layers · Wrecks · Unbroken places · the Outer Dark *(GM-facing)* | Near edge of each layer · unshaped essence between the Shares · Undertow ground around a war-made thing · surviving pockets of the Sphere · the Void, where the old death still holds | Cosmology - The Tideways | `needs crunch` |
+| Peoples · instruments *(GM-facing)* | War-Made that bred true and lost their purpose · War-Made that never bred and keep it | Lore - The War-Made | — |
+| Measurers · nurses · doubles · siege-chimeras | The Plumb's · the Mother's · the Two-Faced's · the Bastion's makings | Lore - The War-Made | `needs crunch` |
 | Settlement Tier T0–T3 | Tier measures services, not headcount | Name Tables | **Explicitly "mechanical" — flag for the rules side** |
 | Grimoire *(in-world)* | A practitioner's private working notebook, re-studied nightly; useless to another reader without decoding | Lore - Arcana | Ruleset: study rule, Embracing the Abyss |
 | Quick-things | Half-quickened wrack that behaves as if it wants something; the rarest fragments | Lore - Arcana | Natural Relics (Hardware) |
