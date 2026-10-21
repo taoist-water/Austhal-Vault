@@ -14,6 +14,14 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-10-21 — The Tideways as a map
+- **New note (draft):** `Cosmology - The Tideways` (100 Society/104 Cosmology), for interplanar adventure (TheTao). Great Fracture points to it.
+- **Shape:** the layers are depth, not borders. **Shallows** near the Disk (where crossings land) · the Shares' **Reaches** and **Deeps** · **Runs** between them (the one dependable road; also the road of the dead) · **the open layers** (unshaped essence; the dead who hoped and feared nothing in particular) · **the Wrecks** (Undertow ground shaped around a war-made thing still following orders — the Corvus breach and the Fourth's fire circle open onto Wrecks).
+- **The Outer Dark** (the Void) is not a layer. It is **the only place the old death still holds**: a soul lost there ceases to exist. The moons drift in it; climbing one at the Low Moons is rumour.
+- **Thin places:** seams (Corvus–Broken Spires) · still water (closest to the open layers) · war-ground (closest to the Wrecks) · **where a Run surfaces** (the cults' sites) · breaches · **Unbroken places** (pockets of the old Sphere: no decay, no endings; escape means making something end).
+- **Crossing:** **ballast** (black wrack down, pale wrack up) and **an anchor** — a mortal's name, held by others. Records strengthen it. **The hag's Price "A Name" makes a mortal unanchorable.** The Low Moons are a spring tide. The road of the dead crosses without either, but was not built to return.
+- **Dangers:** the Undertow keeps you; the High Reach remakes you into what was hoped of you; the open layers lose you.
+
 ### 2026-10-21 — The Three Shares and the Going-Out
 - **Magnitude** (Celestial Graveyard): Primary · Great Named · Lesser Named · Named things. **The list of Named is open** (TheTao) — more Great Named, and many of lesser magnitude, can be added. **The Sun is the one Creator never Named**; the Nameless never take a mortal shape, and anything Named does.
 - **The Three Shares** (TheTao: spread the Named across the spectrum; good and evil remain mortal perception). Each Great Named split into a **Reach share** (the hope, in **its Reach**), an **Undertow share** (the fear, in **its Deep**) and the **current** between them (the Domain, along **its Run**). Consistent with Religion's "drawn from all through the Tideways".
@@ -620,6 +628,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Essence | What the nameless entities, and the entities they made, were made of (not "god-essence") | Great Fracture; Celestial Graveyard; throughout | — |
 | Reach · Deep · Run *(GM-facing)* | A Share's country in the High Reach · in the Undertow · the current's passage between them | Celestial Graveyard | — |
 | Great Named · Lesser Named · Named things · the Nameless | The magnitudes of entity; the Nameless never take a mortal shape | Celestial Graveyard | Possible **Named** Creature Type — rules side |
+| Ballast · anchor *(GM-facing)* | Wrack carried to shift a body to a layer (black down, pale up) · a name held by others, which keeps a traveller themselves | Cosmology - The Tideways | `needs crunch` |
+| Shallows · open layers · Wrecks · Unbroken places · the Outer Dark *(GM-facing)* | Near edge of each layer · unshaped essence between the Shares · Undertow ground around a war-made thing · surviving pockets of the Sphere · the Void, where the old death still holds | Cosmology - The Tideways | `needs crunch` |
 | Settlement Tier T0–T3 | Tier measures services, not headcount | Name Tables | **Explicitly "mechanical" — flag for the rules side** |
 | Grimoire *(in-world)* | A practitioner's private working notebook, re-studied nightly; useless to another reader without decoding | Lore - Arcana | Ruleset: study rule, Embracing the Abyss |
 | Quick-things | Half-quickened wrack that behaves as if it wants something; the rarest fragments | Lore - Arcana | Natural Relics (Hardware) |

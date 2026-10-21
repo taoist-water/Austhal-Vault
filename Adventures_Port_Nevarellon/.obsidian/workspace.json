@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Atlas/001 Regions & Continents/Duchy of De Vonce.md",
+                "file": "300 Iron & Marrow Master rules/aa_Master rules/3. Embracing the Abyss (Magic Mechanics).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duchy of De Vonce"
+              "title": "3. Embracing the Abyss (Magic Mechanics)"
             }
           }
         ],
@@ -44,7 +44,7 @@
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": true,
-                "searchQuery": "war bone"
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "war-bone",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +87,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,8 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "613dd05e7224a6ba",
+  "active": "53f301920b2a082b",
   "lastOpenFiles": [
+    "100 Society/104 Cosmology/Cosmology - The Tideways.md",
+    "300 Iron & Marrow Master rules/aa_Master rules/8. Manipulating The Void (Spells).md",
+    "100 Society/101 Factions & Guilds/The Cult of the Weeping Martyr.md",
+    "000 Atlas/001 Regions & Continents/Duchy of De Vonce.md",
     "iron and marrow canon tracker.md",
     "300 Iron & Marrow Master rules/aa_Master rules/10. Tools for the Nameless (GM Tools).md",
     "100 Society/104 Cosmology/Cosmology - The Great Fracture.md",
@@ -223,7 +226,6 @@
     "300 Iron & Marrow Master rules/aa_Master rules/6. The Marrow (Character Creation).md",
     "300 Iron & Marrow Master rules/aa_Master rules/A1. iron-marrow-character-sheet.pdf",
     "300 Iron & Marrow Master rules/aa_Master rules/11. The Meat (Player Characters).md",
-    "300 Iron & Marrow Master rules/aa_Master rules/8. Manipulating The Void (Spells).md",
     "300 Iron & Marrow Master rules/aa_Master rules/4. Hardware (Equipment).md",
     "300 Iron & Marrow Master rules/aa_Master rules/2. Metal meet Flesh (Combat Mechanics).md",
     "100 Society/102 Lore & History/Lore - Arcana.md",
@@ -233,9 +235,6 @@
     "100 Society/102 Lore & History/Lore - Wretches.md",
     "100 Society/101 Factions & Guilds/Valerius Family.md",
     "100 Society/101 Factions & Guilds/The Cult of the Rime-Fang.md",
-    "100 Society/101 Factions & Guilds/Council of Five.md",
-    "200 Cast/204 Middle Class/Sergeant Wren Cobb.md",
-    "file:/home/tao/Documents/Iron & Marrow Rulebook/build/report_header.md",
     "200 Cast/205 NPCs",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/worldbuilding-hags-wretches.diff",
     "300 Iron & Marrow Master rules/aa_Master rules/Claude outputs/Iron-and-Marrow-Rulebook.pdf",
