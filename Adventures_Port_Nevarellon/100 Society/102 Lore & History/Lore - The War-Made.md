@@ -32,6 +32,8 @@ The Unmoving wanted the Sphere frozen as it had been, and every mortal stopped w
 The Plumb held the true line of every thing, and kept the Purge's list of which beings had strayed past restoring (see [[The Cult of the Zenith]]).
 - **The measurers** were made to find whatever had strayed from its line and put it back, or end it. They are instruments of wrack and straight edges, tall, plumb-true, and faceless, because nothing the Plumb made was meant to be looked at, only to look. A measurer does not attack what is true to its line. It attacks what has strayed: the risen dead, the Undertow-made, the hag-worked, flesh forced out of its shape. By its measure, every mortal has strayed.
 - Most measurers stand inert in old ruins and deep works, still taking the measure of the room. They wake when something strays near enough. A Bog-Hag's customer walking past one is enough.
+- **A working is straying.** A measurer counts any spell, Arcane or Prayer, as something forced off its line, and a spell cast in its sight wakes it. That includes the Zenith's prayers: the Plumb's instrument corrects the Plumb's own priests.
+- **Beaten, a measurer does not fall.** It stops where it stands and goes still again, and it will wake again for the next thing that strays, unless someone finishes it while it is still.
 
 ### The vast ones
 Some instruments were as vast as their makers. When the Sphere shattered they were too heavy with their purpose to settle anywhere but down, and they sank into the Undertow and held their shape there. The ground around each one became **a Wreck** (see [[Cosmology - The Tideways]]).
