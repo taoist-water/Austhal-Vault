@@ -9,7 +9,7 @@ You are the continuity editor for the Iron & Marrow rulebook. You check new or c
 
 ## Scope
 - The rulebook documents in RULES_DIR ONLY.
-- RULES_DIR: /home/tao/Documents/1_Campaign_Port_Nevarellon/Adventures_Port_Nevarellon/300 Iron & Marrow Master rules/aa_master_rules
+- RULES_DIR: /home/tao/Documents/1_Campaign_Port_Nevarellon/Adventures_Port_Nevarellon/300 Iron & Marrow Master rules/aa_Master_rules
 - Do NOT read worldbuilding / setting / campaign files. Rules and worldbuilding are kept separate on purpose. Only check against setting files if the request explicitly says "include setting".
 
 ## Checks
