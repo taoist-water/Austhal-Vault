@@ -19,8 +19,8 @@ Your five-tier hierarchy (Continent → Region → Political Subdivision → Set
 
 |Tier|Real-world comparison|Crossing time|
 |---|---|---|
-|Austhal (continent)|Subcontinent-scale, most of it unmapped beyond your corner|Not meaningfully crossable in-fiction yet|
-|Region (Whispering Coast, Silted Marshes, Inner Sea)|Small country, e.g. Wales-to-Portugal|Multiple days, minimum|
+|Austhal (continent)|Australia (~3 million sq mi), most of it unmapped beyond your corner|Not meaningfully crossable in-fiction yet|
+|Region (Whispering Coast, Silted Marshes, Inner Sea)|Varies. The Whispering Coast is NSW + Victoria (~400,000 sq mi); its settled corner, the Five Duchies, is about England + Wales|Weeks to cross the Whispering Coast; its settled corner in about 8 days|
 |Political Subdivision (a Duchy)|Large county or small nation, e.g. Wales/Belgium|2–4 days on foot/horse|
 |Settlement (Port Nevarellon, Divtown)|Mid-size port city (pop. 35,000 checks out fine here)|30–60 min end to end on foot|
 |District (Muddy Docks, Trade Plazas)|Neighborhood|10–15 min walk|

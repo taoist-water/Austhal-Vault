@@ -14,6 +14,13 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-11-13 — The scale of Austhal
+- **Austhal ≈ Australia** (~3 million sq mi). **The Whispering Coast ≈ New South Wales + Victoria** (~400,000 sq mi, about an eighth of the continent) (TheTao).
+- **The Five Duchies are the settled corner of the Whispering Coast** (TheTao), not all of it. Every canon travel time stands; at the pace table in `conceptualise - distances` they put the furthest seat (Granite Spire) ~200 miles out and the Concord Road at ~300 miles, a footprint about the size of England and Wales — roughly a sixth of the coast.
+- **The wild inland** is the rest: west of the duchies to the Kald, ~600–700 miles deep. No ducal, Council or Company writ; the Accord's maps claim it, its garrisons don't reach it.
+- **Shape:** the shore stays short (pinned between the Jagged Spine and the Silted Marshes, per Lay of the Coast); the size comes from depth, with the region widening inland.
+- Whispering Coast and Austhal updated; distances note corrected.
+
 ### 2026-10-21 — The War-Made, Likenesses and Dreads
 - **Two new notes (draft)** in 100 Society/102 Lore & History, inspiration for Bestiary entries (TheTao).
 - **`Lore - The War-Made`.** Every making carries a **purpose** that outlives its maker. Two kinds: **peoples** (bred true; the purpose bred out — orcs, goblins, giants, ogres; half-orcs) and **instruments** (never bred; still carry their orders).
@@ -265,6 +272,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 - **Motes of hope:** grimdark stakes with small motes of hope. Write "none, deliberate" rather than leaving a mote blank.
 - **Two voices — ground truth vs. in-world belief.** Cosmology and framework notes are ground truth and open with a GM-facing banner; no one in Austhal knows them whole. Faction, location and people notes are written in-world — what people believe, practise and claim — and may be wrong. Ground truth inside an in-world note goes only in `> **GM-facing.**` callouts. Miracles are real; each cult's explanation of them is its own. Folk vocabulary (*wrack* — formerly *god-shard*, *the Undertow*, *Undertow-touched*, *the Heavens*) is in-world and fine; the Deicide, the War of Creation, what Domains and moons really are, and that the monstrous races were made as weapons are not common knowledge. Epigraphs from ancient fragments and fringe scholars may glimpse the truth; ordinary people do not.
 - **Naming registers A–F** (Reference - Name Tables). The register is the class marker.
+- **Travel times are canon; distances derive from them** (pace table in `conceptualise - distances`). Austhal ≈ Australia; the Whispering Coast ≈ NSW + Victoria; the Five Duchies are its settled corner.
 
 ---
 
@@ -272,8 +280,9 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 
 | Name | Region / map position | One-line summary | Established in | Notes / conflicts |
 |---|---|---|---|---|
-| Austhal | Top-level continent | The known continent; regions: Whispering Coast (incl. Five Duchies), Silted Marshes, Inner Sea, Twelgorn, Wastelands | Austhal.md; History Jagged Spine, Ubaraz and Kald added to the region list 2026-10-07. File partly template |
-| The Whispering Coast | Region within Austhal | Port Nevarellon + the Five Duchies; borders Silted Marshes, Ubaraz, Kald Mountain Territory, Inner Sea | Whispering Coast.md | Hierarchy **resolved 2026-09-28**. File still mostly template |
+| Austhal | Top-level continent | The known continent; regions: Whispering Coast (incl. Five Duchies), Silted Marshes, Inner Sea, Twelgorn, Wastelands. **≈ Australia (~3M sq mi)** | Austhal.md; History | Jagged Spine, Ubaraz and Kald added to the region list 2026-10-07. File partly template. **Scale set 2026-11-13** |
+| The Whispering Coast | Region within Austhal | Port Nevarellon + the Five Duchies (the settled corner) + the wild inland; borders Silted Marshes, Ubaraz, Kald Mountain Territory, Inner Sea. **≈ NSW + Victoria (~400k sq mi)** | Whispering Coast.md | Hierarchy **resolved 2026-09-28**. **Scale set 2026-11-13.** File partly template |
+| The wild inland | West of the Five Duchies to the Kald, ~600–700 miles | Unheld country, ~5/6 of the Whispering Coast; no ducal, Council or Company writ | Whispering Coast.md | **NEW 2026-11-13.** Nothing else established |
 | The Five Duchies of the Whispering Coast | Political subdivision of the Whispering Coast | Five ancestral human duchies bound by the Ducal Accord; banned from the title "King" | The Five Duchies…md | — |
 | Duchy of De Vonce (Iron Court) | Directly north of the city, foothills of the Jagged Spine; the Corvus valley's mouth opens onto it | Iron/timber; largest feudal levy; **holds the Spine Aqueduct headwater** | Five Duchies; Tythius De Vonce; **Duchy of De Vonce** | **Full note 2026-10-07 (draft)** |
 | Castle Iron-Spire | De Vonce foothills, where the Road forks | Seat of House De Vonce, cut into a rust-weeping ironstone spire; ~3–4 days by horse, 7–9 by wagon | Five Duchies; Three Layers; Castle Iron-Spire | **Filled 2026-10-07 (draft).** The widows' bread is its mote |
