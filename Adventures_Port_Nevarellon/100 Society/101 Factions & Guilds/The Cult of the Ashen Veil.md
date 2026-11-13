@@ -16,6 +16,7 @@
   - **Port Nevarellon** — the burial grounds and paupers' pits beyond the landward wall, downwind of the Slips (see [[The Foundry Slips]]).
   - **Every parish on the coast.** Featherfall is the coast's common burial, and in all four standing duchies the dead go to the Veil, whatever the living kept. The exception is the Tidespoken faithful, who are given to the ebb (see [[The Tidespoken Clergy]]).
   - **The Scar's edge**, for the Long Carry (see [[Duchy of Corvus]]).
+  - **The road.** The Post-Walkers go wherever the dead were buried without a keeper: the wild inland, the marsh-edge, and beyond the coast across the known world (see *The Post-Walk*, below).
   - **The Corvus refugees** of Cinder Row. **Maryn Aske** of the Seven was theirs.
 - **Trappings:** black hooded raiment and quiet faces. Prayers manifest as a chilling quiet and falling feathers.
 
@@ -34,6 +35,7 @@
 - **The Quiet Hour** — a citywide silence once a year. Even the Basin cranes stop, because the stevedores stop them. Nobody ordered it, and the Council could not.
 - **The Pauper's Procession** — the free mass burial of the Sunken Ward's unclaimed dead, carried out through the Slips to the pits beyond the wall. Free, always.
 - **The Long Carry** — into the Scar, where no lawful road runs: lay a Dust-Wretch down and carry the body out past the blight-line, to fire or dry earth. The Veil say every Carry finishes the work Maryn Aske went down to begin (see [[Duchy of Corvus]]).
+- **The Post-Walk** — a priest of the Veil and their acolytes, travelling the known world from grave to grave. Wherever a family buried its own without a keeper, the Post-Walkers give the rite at the graveside, write the name in the grave-book they carry, and cut **the feather-cut** into the post under the name: one slanting notch, like a falling feather. A Post-Walk can be gone for years. The Post-Walkers are fed at every door they pass, and the inland says it is bad luck to ask where they are going (see [[Lore - Hearth and Threshold]]).
 - **The grave-books.** Every burial is written down. They are the only count of the Un-Landed dead on the coast, and the Council has never asked to see them.
 
 ---
@@ -52,7 +54,7 @@
 
 ## 💰 Logistics & Economics (The Realism Anchor)
 - **Income:** burial fees. A guild box pays for its members' Featherfall (see [[Framework - The Guilds of Port Nevarellon]]), and the Landed pay for their own ground. The paupers are buried free.
-- **Expenses:** lime and labour for the pits; the Carry's litters and lamp-oil; and feathers, bought by the sack from Gullstand under Gull Cape (see [[Duchy of Valerius]]).
+- **Expenses:** lime and labour for the pits; the Carry's litters and lamp-oil; boots for the Post-Walkers, which is all the Veil gives them; and feathers, bought by the sack from Gullstand under Gull Cape (see [[Duchy of Valerius]]).
 - **Assets:** the burial grounds beyond the landward wall, on ground nobody else has ever wanted; and the grave-books.
 
 ---
@@ -62,7 +64,7 @@
 - **The Tidespoken** have no quarrel with them: the Veil carry Wretches out, and the Tongues' quarrel is with the marsh.
 - **The Weeping Martyr** makes them uneasy (see [[The Cult of the Weeping Martyr]]).
 - **The Corvus refugees** are theirs. Every Ash Vigil, a grave-keeper stands at the back, and says nothing.
-- **Vulnerabilities:** they are poor. The Long Carry kills grave-keepers. And the Mute's succession — nobody outside the Veil knows how it is decided.
+- **Vulnerabilities:** they are poor. The Long Carry kills grave-keepers, and the road kills Post-Walkers. And the Mute's succession — nobody outside the Veil knows how it is decided.
 
 ---
 
@@ -91,6 +93,7 @@
 - The Mute's name, and how a Mute is chosen.
 - The date of the Quiet Hour (see [[Framework - The Coastal Reckoning]]).
 - How many keepers the Carry takes in a year.
+- **How far the Post-Walk goes.** Into Ubaraz, Twelgorn, the Kald? Who feeds a Veil priest where nobody has heard of Vael?
 
 ## 🔗 Connected Notes
 - [[Religion - The Pagan Pantheon and the Faith Domains]] — the Domain and the paragon

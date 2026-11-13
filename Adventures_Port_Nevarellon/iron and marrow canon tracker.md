@@ -22,6 +22,8 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 - **New creatures, `needs crunch`:** **the Nurse** (the Mother's War-Made, in a midwife's shape), **the Come-Home** (a double), **the Plumb-bob** (the least of the Plumb's instruments; marks a strayed thing for a measurer), **the Pool-Child** (a lesser fey quickened in a tank or waterhole; does not bargain).
 - **Hollowforge never banks its fires**, which is why the Engine is seen there.
 - Likenesses and Dreads open question struck; _Home hub linked.
+- **A Hedge Featherfall is not Last Rites** (TheTao): the rite takes a practising faithful, whose belief gives it meaning. Verdict revised to **half** — a burial without rites is what the Hungry Grave wants; the carved name holds the dead until a passing Veil keeper gives the rite.
+- **Last Rites can be given at a grave after burial** (TheTao). **The Post-Walk** (TheTao: a hook for Ashen Veil priests, with their acolytes travelling the known world): Veil priests and acolytes go grave to grave giving the rite. **The feather-cut** — one slanting notch under the name on the post — marks a grave that has been rited (TheTao: a mark on the post). It can be faked. Ashen Veil note and ruleset Last Rites updated.
 
 ### 2026-11-13 — The scale of Austhal
 - **Austhal ≈ Australia** (~3 million sq mi). **The Whispering Coast ≈ New South Wales + Victoria** (~400,000 sq mi, about an eighth of the continent) (TheTao).
@@ -669,7 +671,9 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Vane's Book | The most-copied Grimoire on the coast; "which Vane do you work from?" | Lore - Arcana | — |
 | The Grey Lady | The coast's named visitation on the House of Mercy stair. **GM:** a Likeness of the Loving Mother | Lore - Hearth and Threshold | The Loving Mother (Bestiary) |
 | Name-cord | An inland traveller's cord, knotted once for every homestead that took them in; their name said back at each door | Lore - Hearth and Threshold | — |
-| Hedge Featherfall | The inland's family-made Featherfall, with hen feathers and the name carved on the post | Lore - Hearth and Threshold | `needs crunch`: counts as Last Rites? |
+| Hedge Featherfall | The inland's family-made Featherfall, with hen feathers and the name carved on the post for a passing keeper | Lore - Hearth and Threshold | **Not Last Rites** (TheTao): the rite takes a practising faithful |
+| The Post-Walk · Post-Walkers | Ashen Veil priests and acolytes travelling the known world, giving Last Rites at graves buried without a keeper | The Cult of the Ashen Veil; Lore - Hearth and Threshold | Last Rites at a grave — in the ruleset |
+| The feather-cut | One slanting notch under the name on a grave-post: the rite has been given. Can be faked | The Cult of the Ashen Veil; Lore - Hearth and Threshold | — |
 | The Nurse · the Come-Home · Plumb-bob · Pool-Child | A Mother's War-Made carrier · a double · the Plumb's marking instrument · a lesser fey of still water | Lore - Hearth and Threshold; Lore - The War-Made | `needs crunch` |
 
 ---
@@ -714,7 +718,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - Business ownership / downtime: the guild-business vs deed-business split
 - Whether Tuwal Ghorun's warships mount powder guns
 - ~~Fey and hag stat blocks~~ — **hags and Wretches statted 2026-10-02**; other fey still open
-- Hearth and Threshold: stat blocks for the Nurse, the Come-Home, the Plumb-bob and the Pool-Child; whether a Hedge Featherfall counts as Last Rites; whether a turned glass shuts out the Mocking Voice (full list in Lore - Hearth and Threshold § Crunch)
+- Hearth and Threshold: stat blocks for the Nurse, the Come-Home, the Plumb-bob and the Pool-Child; ~~whether Last Rites can be given at a grave after burial~~ **yes, in the ruleset 2026-11-14** (a Hedge Featherfall is **not** Last Rites — TheTao) (full list in Lore - Hearth and Threshold § Crunch)
 - ~~Hag uprooting at the Low Moons~~ — statted 2026-10-11; what a coven can change beyond protecting its mother still open
 - ~~Tidespoken casting (Thalass's Omen)~~ — in the ruleset (Domain of Sea & Storms)
 - Crooked Coin luck: distortions of luck repaid as later disappointment, the Mocking Voice, disillusionment, and the Binding Oath (full list in The Cult of the Crooked Coin § Rules Flags)

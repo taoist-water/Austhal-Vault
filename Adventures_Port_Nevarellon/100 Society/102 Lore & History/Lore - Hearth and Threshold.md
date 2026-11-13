@@ -76,8 +76,9 @@ When someone is dying, a window is opened, however cold the night, so the quiet 
 ## ⚰️ The Dead
 
 ### Hedge Featherfall
-Inland, there is no grave-keeper for weeks, so the family lays their own dead down. They use hen feathers, or gull feathers if they have them, and say no words over the grave. Afterwards they carve the name into the post and say it aloud once. The Ashen Veil, when they hear of it, do not object.
-> **GM-facing — works.** What keeps a body in the ground is that someone kept it, not who. A Featherfall done by a farmer's wife with hen feathers counts the same as one done by a keeper with gull feathers bought by the sack from Gullstand (see [[The Cult of the Ashen Veil]]). This is the inland's quiet mercy: the Veil's rite was always simple enough to be done by anyone who loved the dead.
+Inland, there is no grave-keeper for weeks, so the family lays their own dead down. They use hen feathers, or gull feathers if they have them, and say no words over the grave. Afterwards they carve the name into the post and say it aloud once, so that a keeper passing on the road will know whose grave it is. The Ashen Veil do not object. They stop at the posts. When a **Post-Walker** of the Veil has given the rite at a grave, they cut **the feather-cut** into the post under the name: a single notch, slanting, like a feather falling. A post with a name and no feather-cut is a grave still waiting, and every inland child can read one.
+> **GM-facing — half.** It is a burial, not a rite. Last Rites take a practising faithful, whose belief is what gives the rite its meaning (TheTao); a farmer's wife with hen feathers lays the body down, and the dead stay unrited. That is a comfort, and it is also exactly what the Hungry Grave wants: the dead in the ground, without rites. It settles the Grave for the night and leaves the body where a place can keep it. **The carved name is the half that works.** Last Rites can be given at the grave after burial (TheTao), and the name is what lets a Post-Walker give them to the right dead (see [[The Cult of the Ashen Veil]]). The inland buries its own, and waits for someone who believes.
+> **The feather-cut can be faked.** It is one notch in soft wood. A family that cannot wait, or a homestead that wants a reputation it has not earned, can cut it themselves. Nothing tells the difference but the ground.
 
 ### Stones on the chest
 A stockman who dies out in the open is buried where he fell, with flat stones laid across his chest *"so he can't sit up."*
@@ -149,4 +150,4 @@ Four of the customs answer things that have no other note yet.
 ## 🔗 Related
 [[Lore - Likenesses and Dreads]] · [[Lore - The War-Made]] · [[Lore - Wretches]] · [[Lore - Hags]] · [[Cosmology - The Tideways]] · [[Whispering Coast]] · [[The Cult of the Ashen Veil]] · [[The Tidespoken Clergy]]
 
-**Crunch:** the Nurse, the Come-Home, the Plumb-bob and the Pool-Child are `needs crunch`, along with whether a Hedge Featherfall counts as Last Rites and whether a turned glass shuts out the Mocking Voice. Per the canon tracker's siloing rule, this note does not restate any rules.
+**Crunch:** the Nurse, the Come-Home, the Plumb-bob and the Pool-Child are `needs crunch`. **A Hedge Featherfall is not Last Rites; Last Rites can be given at a grave after burial** (both TheTao, 2026-11-14). Per the canon tracker's siloing rule, this note does not restate any rules.
