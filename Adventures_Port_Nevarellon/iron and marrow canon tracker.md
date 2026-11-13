@@ -14,6 +14,15 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-11-14 — Hearth and Threshold
+- **New note (draft): `Lore - Hearth and Threshold`** in 100 Society/102 Lore & History (TheTao: all twenty customs, drafted without cuts). Twenty everyday customs, written in-world, each with a GM-facing verdict — **works**, **half**, **useless** or **harmful**. Coast customs are habit; **inland customs are all there is**.
+- **The Grey Lady is a Likeness of the Loving Mother** — the coast's one named, visited Likeness, called from the House of Mercy stair with honey-water. Answers the Likenesses note's open question. The Weepers' tears are the same Share's trade.
+- **Doubles are reversed.** A double was made as a reflection, so its scars, parting and hand are mirrored. The inland's hand-check at the door catches one; the question does not.
+- **The leviathans' knock.** Three knocks on a hull was the Alliance's loading signal; sailors' custom still gives it.
+- **New creatures, `needs crunch`:** **the Nurse** (the Mother's War-Made, in a midwife's shape), **the Come-Home** (a double), **the Plumb-bob** (the least of the Plumb's instruments; marks a strayed thing for a measurer), **the Pool-Child** (a lesser fey quickened in a tank or waterhole; does not bargain).
+- **Hollowforge never banks its fires**, which is why the Engine is seen there.
+- Likenesses and Dreads open question struck; _Home hub linked.
+
 ### 2026-11-13 — The scale of Austhal
 - **Austhal ≈ Australia** (~3 million sq mi). **The Whispering Coast ≈ New South Wales + Victoria** (~400,000 sq mi, about an eighth of the continent) (TheTao).
 - **The Five Duchies are the settled corner of the Whispering Coast** (TheTao), not all of it. Every canon travel time stands; at the pace table in `conceptualise - distances` they put the furthest seat (Granite Spire) ~200 miles out and the Concord Road at ~300 miles, a footprint about the size of England and Wales — roughly a sixth of the coast.
@@ -658,6 +667,10 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Kept Arcanist · disputation | A house's practitioner on staff, for status and use · rival Arcanists arguing theory before guests, with a working as proof | Lore - Arcana | Patron as Downtime relationship `needs crunch` |
 | Reckoners · burners · twitchers · humourists · glass-readers · namers · cunning folk | Street names for the traditions (Astromancy, Pyromancy, Necromancy, Transmutation, Shadow Sorcery, Demonology & Void, Witch Magic & Hedge Craft) | Lore - Arcana | Paradigm names stay GM-facing |
 | Vane's Book | The most-copied Grimoire on the coast; "which Vane do you work from?" | Lore - Arcana | — |
+| The Grey Lady | The coast's named visitation on the House of Mercy stair. **GM:** a Likeness of the Loving Mother | Lore - Hearth and Threshold | The Loving Mother (Bestiary) |
+| Name-cord | An inland traveller's cord, knotted once for every homestead that took them in; their name said back at each door | Lore - Hearth and Threshold | — |
+| Hedge Featherfall | The inland's family-made Featherfall, with hen feathers and the name carved on the post | Lore - Hearth and Threshold | `needs crunch`: counts as Last Rites? |
+| The Nurse · the Come-Home · Plumb-bob · Pool-Child | A Mother's War-Made carrier · a double · the Plumb's marking instrument · a lesser fey of still water | Lore - Hearth and Threshold; Lore - The War-Made | `needs crunch` |
 
 ---
 
@@ -701,6 +714,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - Business ownership / downtime: the guild-business vs deed-business split
 - Whether Tuwal Ghorun's warships mount powder guns
 - ~~Fey and hag stat blocks~~ — **hags and Wretches statted 2026-10-02**; other fey still open
+- Hearth and Threshold: stat blocks for the Nurse, the Come-Home, the Plumb-bob and the Pool-Child; whether a Hedge Featherfall counts as Last Rites; whether a turned glass shuts out the Mocking Voice (full list in Lore - Hearth and Threshold § Crunch)
 - ~~Hag uprooting at the Low Moons~~ — statted 2026-10-11; what a coven can change beyond protecting its mother still open
 - ~~Tidespoken casting (Thalass's Omen)~~ — in the ruleset (Domain of Sea & Storms)
 - Crooked Coin luck: distortions of luck repaid as later disappointment, the Mocking Voice, disillusionment, and the Binding Oath (full list in The Cult of the Crooked Coin § Rules Flags)

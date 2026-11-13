@@ -64,7 +64,7 @@ What was never Named has no shape that mortals gave it, and never takes one.
 - **Can a Likeness or Dread be bargained with on purpose**, the way the namers bargain with what is below?
 - **Lesser Named** — do the moons, or Thalass, have Likenesses of their own?
 - **Have the Alliance's makings Likenesses?** (A making has a purpose, not a Share, so probably not — but the leviathans have been hoped about and feared for a very long time.)
-- **Is there a Likeness the coast has named and visits** — a Grey Lady with a shrine?
+- ~~**Is there a Likeness the coast has named and visits** — a Grey Lady with a shrine?~~ **Yes (TheTao, 2026-11-14):** the Grey Lady on the House of Mercy stair is a Likeness of the Loving Mother. See [[Lore - Hearth and Threshold#The Grey Lady's stair|The Grey Lady's stair]].
 
 ---
 
