@@ -8,11 +8,20 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 **Source-of-truth rule.** Live vault notes win. `drafts/`, the loose `.txt` snapshots outside the vault, and the D&D session notes are **not canon**. The D&D sessions heavily inspire this world, but nothing in them is binding.
 
-**Siloing rule.** This tracker covers worldbuilding only. Where narrative implies mechanics, the entry is flagged `needs crunch` and left for the Iron & Marrow ruleset. Nothing here assumes the rules text.
+**Blend rule** *(replaced the siloing rule 2026-11-14)*. Worldbuilding and the Iron & Marrow ruleset are read together. Worldbuilding decides what is true in the world; the ruleset decides how it plays. Where narrative implies mechanics and the ruleset has none, the entry is flagged `needs crunch`; where the ruleset has it, the entry points to it rather than restating it. Where the two disagree, both sides are logged here until TheTao settles it. Notes that say "per the canon tracker's siloing rule" mean this rule.
 
 ---
 
 ## 🔁 Retcon log
+
+### 2026-11-14 — The blend rule, and six rulings on lore–rules seams
+- **The siloing rule is replaced by the blend rule** (TheTao; project instructions updated by TheTao). Lore and rules are read together and reviewed against each other; worldbuilding decides what is true, the ruleset decides how it plays; disagreements are logged here, not quietly fixed. Writing still goes by diff, per file. Vault CLAUDE.md updated to match. Notes that say "per the canon tracker's siloing rule" stay as they are.
+- **Gunpowder** (TheTao): powder *can* be made at a bench by anyone who has the recipe — the white salt and the corning, the Guild's most tightly held secret. Guild of Alchemists, Hardware (*Making Wares*) and Soothing the Soul (*Distil & Compound*) updated.
+- **The starting purse is by design** (TheTao): 80 sp is more than a labourer's year, and that is the point — the character got it somehow and spent it on taking control of their life. Its source belongs in each backstory. The Marrow updated. **A poor meal is 1 cp** in Hardware, matching the Economy note (TheTao). *(Poor lodging, still 2 sp against the Economy note's 1–2 cp flophouse bed, is still open.)*
+- **Resurrection is the exception** (TheTao): the mortal equivalent of the Deicide's stolen magic, forcing a soul back over the Bastion's line within a day of death. The line takes its price (the prayer's Locked Stress and Soul Scar). Celestial Graveyard (*The Going-Out*) and Tideways updated.
+- **The "gods" are given form by belief** (TheTao): the Creators are dead, but the face belief gave each Domain rose as its Reach share, which can listen and answer. That is the ruleset's "patron". Religion and Tidespoken GM text updated; the rules' Commune wording stands.
+- **The boss tier is renamed Boss** (TheTao): *Dread* now means only an Undertow share in mortal shape. "Dread Entity/Boss", "Dread/Boss" and the tier sense of "Dread" are now **Boss** throughout the Bestiary, GM Tools, Embracing the Abyss, Hardware and Playtest A5.
+- **The smugglers' goat-track is now the Wicket** (TheTao): "the Notch" means Pilgrim's Notch. Stonereach, Brekka Stonegraft, Name Tables T4 #11 and this tracker updated. *Not changed:* the coast map (`Maps/The Whispering Coast.html`), which still labels "the Notch" and is out of date on scale anyway.
 
 ### 2026-11-14 — Hearth and Threshold
 - **New note (draft): `Lore - Hearth and Threshold`** in 100 Society/102 Lore & History (TheTao: all twenty customs, drafted without cuts). Twenty everyday customs, written in-world, each with a GM-facing verdict — **works**, **half**, **useless** or **harmful**. Coast customs are habit; **inland customs are all there is**.
@@ -148,9 +157,9 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 - **New notes (draft):** Duchy of Stonereach (House Scutarius written inside it), Granite Spire, Brekka Stonegraft.
 - **House Scutarius** ("the Shields") rules Stonereach. **Duke Brennus Scutarius** (58); heir **Cato** (36, widower) — the match Tythius wants for Sheandri; niece **Aemilia** — married to Calvus Hordeus (closes the Aerthos binding).
 - **Ash-money.** Stonereach's tolls tripled when the Corvus road died in 8 A.A.; the house has been rich since.
-- **The passes:** Thraw's Pass carries the Concord Road up to Granite Spire; **the Long Graft** (Name Tables T4 #13) is the crest road west to Ubaraz — longest, lowest, most heavily tolled. Sleetgate (winter-closed), the Notch (smugglers).
+- **The passes:** Thraw's Pass carries the Concord Road up to Granite Spire; **the Long Graft** (Name Tables T4 #13) is the crest road west to Ubaraz — longest, lowest, most heavily tolled. Sleetgate (winter-closed), the Wicket (smugglers; was "the Notch").
 - **The dwarves:** Ubaraz's Keystone crews keep Granite Spire's lower works; Ubaraz contract crews work Deepgraft under Brekka Stonegraft's stamp. **Ubaraz has not opened its down-valley gates since 8 A.A.** and pays the tolls without complaint.
-- **Sun-Iron** comes out of Deepgraft's deep seams; the Iron-Anchor smuggles it over the Notch.
+- **Sun-Iron** comes out of Deepgraft's deep seams; the Iron-Anchor smuggles it over the Wicket.
 - **No masons' guild in the city:** granite stone-work goes through Ubaraz factors (closes the Duchy-pass seam).
 - **Stonereach cannot feed itself**: Aerthos grain comes up the Road, and part of it goes on to Ubaraz.
 - **Storm-right**: in a storm every keep opens and the toll is waived.
@@ -315,7 +324,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Duchy of Stonereach (High Shields) | North-eastern Spine; its passes run west along the crest to Ubaraz | Granite, tolls (ash-money since 8 A.A.), dwarven engineering; ruled by House Scutarius | Five Duchies; Three Layers; **Duchy of Stonereach** | Since 8 A.A. its passes are Ubaraz's only road to the coast (2026-10-07) |
 | Granite Spire | Head of Thraw's Pass, where the Concord Road ends | Seat of House Scutarius; dwarven-built; Ubaraz's Keystone crews in the lower works; ~6–8 days by horse | Five Duchies; Granite Spire | **Filled 2026-10-07 (draft).** Mote: storm-right |
 | Kettlehold · Thrawgate · Deepgraft · Sleetfall · Grimscree · Pilgrim's Notch | Stonereach | Pass-bowl toll town (T2) · Thraw's Pass fort (T1) · deep mines, Ubaraz crews (T1) · self-governing snow village (T1) · granite quarry (T0) · Rime-Fang shrine on the Long Graft (T0) | Duchy of Stonereach; Name Tables T3 #9–14 | **NEW 2026-10-07** |
-| Thraw · Thraw's Pass · the Long Graft · Sleetgate · the Notch · the Tinwater · Kettle Tarn | Stonereach | Peak · the Road's pass · crest road to Ubaraz · winter-closed pass · smugglers' track · tailings river · pass-bowl lake | Duchy of Stonereach; Name Tables T4 | **NEW 2026-10-07** |
+| Thraw · Thraw's Pass · the Long Graft · Sleetgate · the Wicket · the Tinwater · Kettle Tarn | Stonereach | Peak · the Road's pass · crest road to Ubaraz · winter-closed pass · smugglers' track · tailings river · pass-bowl lake | Duchy of Stonereach; Name Tables T4 | **NEW 2026-10-07** |
 | The Corvus Scar | The long valley in the Spine's southern flank; Ubaraz at its head; all four standing duchies on its edges | Ash-Blight (Undertow-touched soot); Dust-Wretches walk it; House Corvus functionally extinct; creeping annexation that can never be made lawful; the buried door under Broken Ward (GM) | Five Duchies; Cult of the Zenith; **Duchy of Corvus** | Fall dated **8 A.A. (confirmed 2026-09-28)**; Demon Wars ~6–8 A.A. (2026-10-08) |
 | Corvus Spire | Buried under Broken Ward | Ancestral seat; named for the peak that fell on it. **Broken Ward** is the folk name for the stump. The temple and the door lie under its deep works (GM) | Five Duchies; Name Tables T4 #9; Corvus Spire | **Filled 2026-10-08 (draft).** T— |
 | The Scar-Holders' steadings | Clean pockets inside the Scar | Squatters and farmers with no deed; the "chimneys that aren't supposed to exist" | Five Duchies | **The Quiet Steading allocated 2026-10-08** — the family at Senna Cade's ford. Also Ashenford, Cinderhollow, Blackrun, Corvus Low (Duchy of Corvus) |
@@ -582,7 +591,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Iron-Burl | Silted Marshes | Black marsh timber immune to sea-rot | — | Silted Marshes; Divtown |
 | **Mogwort** (formerly Cindin) | Sailors, labourers | Sticky narcotic resin, chewed or dissolved in ale | — | Mogwort.md; Economy; Kress; Maccorrack |
 | Nightshade (powdered) | Tessa Dolly | Poison in a hollow ring | — | Dolly Sisters; file empty |
-| Sun-Iron | Deepgraft's deep seams; Iron-Anchor smuggling over the Notch | Unstable mineral for unlicensed alchemists | `needs crunch` | Iron-Anchor; Duchy of Stonereach; file empty |
+| Sun-Iron | Deepgraft's deep seams; Iron-Anchor smuggling over the Wicket | Unstable mineral for unlicensed alchemists | `needs crunch` | Iron-Anchor; Duchy of Stonereach; file empty |
 | The Brine-Glow Lanterns | Guild of Alchemists (PN chapter) | Bioluminescent-algae street lighting; algae from Saltlight; target of Silas's plot | — | Port Nevarellon; The Guild of Alchemists; file empty |
 
 ---

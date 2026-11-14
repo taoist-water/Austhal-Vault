@@ -39,6 +39,7 @@
 ## 🔒 The Seal: How the Secret Is Kept
 - **What the secret is.** Anyone can buy sulphur and charcoal. The secret is **the white salt** — saltpetre: how to grow it, how to draw it, and how to refine it clean. The second secret is the **corning**, the working of the mixture into grains that keep in a ship's hold without separating.
 - **Split knowledge.** Chapters mix and corn their powder from salt that arrives already refined, under seal. Journeymen know the proportions. Masters know the corning. Only the Sealed know how the salt is made, and no chapter keeps a written account of it.
+- **The recipe is the secret, not the bench.** With the whole recipe — the white salt and the corning — any proper lab can make powder that keeps. That is why the Seal exists, and why the Searchers hunt what a defector carries in his head rather than his tools.
 - **The cage.** A Sealed Master may not leave the Guild's service. The Guild pays them well and honours them: masters are Landed, and their children marry into Landed houses. A master who walks out is **Unsealed**, and the Searchers come for them. The Guild does not publish what happens next.
 - **Rogue alchemists** come in two kinds:
   - **The Unsealed.** Defectors who know part of the process and are hunted for it. [[Silas Bane]]'s rogue cell is drawn from *rogue members of the Port Nevarellon chapter* — Unsealed in all but name, and the Searchers are working through the chapter's lists.

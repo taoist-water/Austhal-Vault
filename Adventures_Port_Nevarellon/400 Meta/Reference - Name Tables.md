@@ -287,7 +287,7 @@ The townsfolk took him at the marker stone and nailed him to a cross there. Not 
 | 8 | Thraw | Peak | Stonereach; gives its name to the pass → *allocated: Duchy of Stonereach* |
 | 9 | Broken Ward | Fallen peak | Corvus Scar; the folk name for the stump. The peak itself was Corvus Spire, and the seat cut into it took its name → *canon: Corvus Spire*; *allocated: Corvus Spire* |
 | 10 | Thraw's Pass | Mountain pass | Stonereach; the northeast trade artery → *allocated: Duchy of Stonereach* |
-| 11 | The Notch | Mountain pass | Stonereach; goat-track, smugglers only → *allocated: Duchy of Stonereach* |
+| 11 | The Wicket | Mountain pass | Stonereach; goat-track, smugglers only → *allocated: Duchy of Stonereach* *(was "the Notch"; renamed 2026-11-14 to free the name for Pilgrim's Notch)* |
 | 12 | Sleetgate | Mountain pass | Stonereach; closed most of the Winter Moons → *allocated: Duchy of Stonereach* |
 | 13 | The Long Graft | Mountain pass | Jagged Spine; longest, lowest, most heavily tolled — Stonereach's crest road west to Ubaraz → *allocated: Duchy of Stonereach* |
 | 14 | The River Aer | River | Aerthos; the duchy is named for it, not the reverse → *allocated: Duchy of Aerthos* |

@@ -16,7 +16,7 @@
   - **Thraw's Pass** — the north-eastern trade artery, from the Road to Granite Spire. Guarded by **Thrawgate**.
   - **The Long Graft** — the high road west along the crest to Ubaraz. It is the longest, the lowest and the most heavily tolled pass in the Spine. **Since 8 A.A. it has been Ubaraz's only lawful road to the coast.**
   - **Sleetgate** — closed most of the Winter Moons.
-  - **The Notch** — a goat-track, for smugglers only.
+  - **The Wicket** — a goat-track, for smugglers only: the little door beside the Duke's great gate.
 - **Rivers:** **The Tinwater** runs off the mines, and below Deepgraft the tailings make it undrinkable.
 - **Weather:** the Winter Moons close the passes. Villages like **Sleetfall** are snowed in four months a year and govern themselves because nobody else can reach them. The year begins when **Pass-Opening** is declared.
 - **Travel to Port Nevarellon:** ~6–8 days by horse on the Concord Road through Thraw's Pass, longer or impassable in deep winter; 10–14 days for a loaded granite train. The Road runs through De Vonce the whole way down.
@@ -58,7 +58,7 @@ Stonereach is a human duchy built by dwarven hands.
 |---|---|---|
 | **Tolls** | Thrawgate, Kettlehold, the Long Graft keeps | The house. The duchy's real wealth, and ash-money since 8 A.A. |
 | Granite | **Grimscree**, a scree-slope quarry with appalling attrition | Down the Road to the city, where there is no masons' guild: the stone-work goes through Ubaraz factors (see [[Council of Five]]) |
-| Ore, and the deep seams | **Deepgraft** | Ducal ore; and **Sun-Iron**, which the [[The Iron-Anchor Syndicate\|Iron-Anchor]] smuggles out over the Notch |
+| Ore, and the deep seams | **Deepgraft** | Ducal ore; and **Sun-Iron**, which the [[The Iron-Anchor Syndicate\|Iron-Anchor]] smuggles out over the Wicket |
 | Ubaraz's trade | The Long Graft and Thraw's Pass | The coast — tolled at every gate |
 
 - **Stonereach cannot feed itself.** Its grain comes up the Road from Aerthos, and part of it goes on west along the Long Graft to Ubaraz. A bad Aerthos harvest is a hungry winter in the passes, and a hungrier one in Ubaraz.
@@ -114,7 +114,7 @@ Stonereach is a human duchy built by dwarven hands.
 - **Chokepoint:** the passes — Ubaraz's road, and the north-eastern trade.
 - **Enforcement:** terrain and tolls. The law is enforced by the impracticality of going around.
 - **Geographic anchor:** Granite Spire and Thraw's Pass.
-- **Bypass:** the Notch, for smugglers; the sea, for anyone who can reach it; and for Ubaraz, the Corvus valley, which it will not use.
+- **Bypass:** the Wicket, for smugglers; the sea, for anyone who can reach it; and for Ubaraz, the Corvus valley, which it will not use.
 - **Cost & Mote:**
   - **The cost** is Grimscree, the Tinwater, and ash-money.
   - **The mote** is storm-right, and the free roof at Pilgrim's Notch.

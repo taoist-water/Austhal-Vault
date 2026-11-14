@@ -22,7 +22,7 @@
 - **Immediate Goal:** Keep the deep drift at Deepgraft closed.
 - **The Core Fear:** That the Duke finds a human surveyor willing to stamp what she will not.
 - **Moral Compromises:**
-  - **The Notch.** She knows the Sun-Iron goes out over the Notch to the [[The Iron-Anchor Syndicate|Iron-Anchor]]. It is not her business, so she has never made it her business.
+  - **The Wicket.** She knows the Sun-Iron goes out over the Wicket to the [[The Iron-Anchor Syndicate|Iron-Anchor]]. It is not her business, so she has never made it her business.
   - **What she knows.** She reports to Ubaraz everything she finds, and to the Duke what the contract requires.
 
 ## 📜 Backstory & Current Role
@@ -49,5 +49,5 @@ Brekka came over the Long Graft from Ubaraz eighty years ago, before the Corvus 
 
 ## 🔗 Connected Notes
 - [[Duchy of Stonereach]] · [[Granite Spire]] · [[Ubaraz Kingdom]]
-- [[The Iron-Anchor Syndicate]] — the Notch, and the Sun-Iron
+- [[The Iron-Anchor Syndicate]] — the Wicket, and the Sun-Iron
 - [[Framework - The Three Layers]] — Layer 2

@@ -55,7 +55,7 @@ The cosmology already says how: a mortal can cross *"if they can find a way to s
 - **An anchor** keeps you yourself. **A mortal's anchor is their name** — and not the name alone, but the name held by others: said, written, remembered. A priest crosses on a saint's name as well as their own, as they cast on one. A traveller whose name is in the grave-books, the Register or the Count is held more firmly than one whose name nobody keeps.
   - **The hag's Price "A Name"** takes exactly this. Anyone who paid it cannot be anchored, and cannot safely cross (see [[Lore - Hags]]).
 - **The Low Moons are a spring tide.** When the moons hang low, everything essence-touched loosens — wrack, Bindings, a hag's roots, and the layers themselves. Every crossing is easier on those nights, and so is everything coming the other way.
-- **The road of the dead.** The Going-Out crosses every soul without ballast or anchor. A living mortal can follow it — down the Ebb's Run with nothing in their hands, through the Plumb's measure, to the turn — but the passage was not built to bring anyone back. The Bastion's line holds against it. Only the Two-Faced has ever got anyone out the other way.
+- **The road of the dead.** The Going-Out crosses every soul without ballast or anchor. A living mortal can follow it — down the Ebb's Run with nothing in their hands, through the Plumb's measure, to the turn — but the passage was not built to bring anyone back. The Bastion's line holds against it. Only the Two-Faced has ever got anyone out the other way — except within a day of death, when a Master of Mercy can force a soul back over the line (see *The Going-Out*).
 
 ## ⚠️ The Two Dangers
 The layers are dangerous in opposite directions.
