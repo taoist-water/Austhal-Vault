@@ -14,6 +14,13 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-11-15 — Rules wording brought in line with the lore (no mechanics changed)
+- **Bestiary Creature Types:** **Daemon** is now what the pious call devils — the war's vast instruments sunk into the Undertow, still carrying out orders (the Hells and "contractual malice" are gone). **Fey** is essence quickened in still water (no "old pacts" or "thorn-courts"). **Undead** is the dead come back across the line the wrong way: Wretches, the risen, and ghosts the Unmoving held.
+- **Spells:** the Marrow Bargain offers to what waits in the Wrecks (not "entities in the void"); Astral Piercer uses the dead moons' light and pull (not starlight and orbits); The Council Fire's Senecus planned his pass (not "the map table"); Rook is revered by the **Cobalt Feather** (not "the Syndicate"); Thalass is **it**.
+- **Elves:** the **Fey Reflexes** trait is renamed **Quick Reflexes** throughout (The Marrow, The Meat, Bestiary), and the blurb is weathered, not "attuned to magic": elves are mortal, and *counts as Fey* is a hag's price. Same mechanics. Half-Elves' Between Worlds example is an inland homestead, not "an isolated Elven enclave".
+- **Player-character sheets:** Iolo's bond ran through **three** Dukes; Dilly sells at Lidda's **appraisal stand in the artisan markets** (the Tankard is in the Basin); Skell's name was **inked**, the Twelgorn practice.
+- **Small fixes:** the Royal outfit is **court regalia** (King-Ban); the Hag's Skins are "all five"; the troll's trait is plain *Regeneration*; Malaphar's Imps point to the Imp stat block.
+
 ### 2026-11-15 — Five decisions: Halgrim, the Greenback, drakes, cannon, lycanthropes
 - **Halgrim the Unburied** (TheTao): a king of **Ubaraz**, three hundred years dead, from when Ubaraz's kings held the high passes before the settlers. The coast calls him *the Unburied* (the King-Ban binds the coast's own). His barrow is above **Sleetfall**; the playtest's shrine-keeper is Sleetfall's Fang-mother. GM: the Unmoving held him at the line; the killing frost is the Frost That Stops, gathered on the village's fear. Playtest A5 retitled *The Unburied*.
 - **The Temple of the Lost God** (TheTao): on **the Greenback**, a jungle island in the outer Shield Atolls past Bone Shoal. The **lizardfolk** (skinks, lizardmen) are an **Alliance people — the Ebb's tenders**, bred to crew its carriers, who stayed when the carriers sank. The **Sunken God** is a leviathan; Bone Shoal's ribs are its kin. Who built the Corvus temple stays open.
@@ -770,6 +777,15 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - ~~**Terminology:** *god-shard* → **wrack**, *god-essence* → **essence**~~ — ruleset aligned 2026-10-11
 - ~~Settlement Tiers~~ — in the ruleset (Soothing the Soul, §2), matching the Name Tables
 - Faction power levels (every faction is currently "not defined")
+
+### Lore–rules disagreements and mechanics for the rules pipeline (logged per the blend rule, 2026-11-15)
+- **Bog Skins and the warm marsh.** Lore: the Silted Marshes are warm, and Bog-Wretches drown in any water (Lore - Wretches). Rules: the Bog-Wretch and Bog-Hag Skins hook onto Iron World's *freezing water* Hazard Check, so their immunity does nothing in the marsh. Needs a marsh or fever hazard, or a reworded Skin — **a mechanic, for the pipeline**.
+- **A hostile hag refuses to trade** (Soothing the Soul, Hag's Work) against *a hag always agrees* (Lore - Hags; Soothing the Soul itself). Pipeline.
+- **Arcane light for sale** (the Sunrod, the Everburning Torch — Hardware) against fragments being rare and the Guild holding the city's light. Re-skin as Brine-Glow. Pipeline.
+- **Shamanism and the Grimoire.** Lore: song and skin-mark serve as a Grimoire (Lore - Arcana). Rules: Arcanists need a Grimoire. Pipeline.
+- **Malaphar** — a vast one in the lore, Standard-sized with no bargain in the Bestiary. Pipeline.
+- **Ship passage** at 1 sp a mile against the new scale; **the Naphtha Fire-Flask** against Brine-Fire; **poor lodging** (2 sp) against the Economy note (1–2 cp). Pipeline or a pricing pass.
+- **Smaller:** the Grimoire-copying stub (Soothing the Soul); no Salt-Hag Work or shard-free trade in Hag's Work; the Grunt Hag has no Surrender with a price; the Plumb-bob's trigger leaves out a body that has carried black wrack (Hearth and Threshold); the Measurer's "every mortal has strayed" against "a party with nothing strayed can walk past one".
 
 ---
 
