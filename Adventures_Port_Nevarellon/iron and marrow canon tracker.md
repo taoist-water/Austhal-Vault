@@ -14,6 +14,14 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-11-15 — Five decisions: Halgrim, the Greenback, drakes, cannon, lycanthropes
+- **Halgrim the Unburied** (TheTao): a king of **Ubaraz**, three hundred years dead, from when Ubaraz's kings held the high passes before the settlers. The coast calls him *the Unburied* (the King-Ban binds the coast's own). His barrow is above **Sleetfall**; the playtest's shrine-keeper is Sleetfall's Fang-mother. GM: the Unmoving held him at the line; the killing frost is the Frost That Stops, gathered on the village's fear. Playtest A5 retitled *The Unburied*.
+- **The Temple of the Lost God** (TheTao): on **the Greenback**, a jungle island in the outer Shield Atolls past Bone Shoal. The **lizardfolk** (skinks, lizardmen) are an **Alliance people — the Ebb's tenders**, bred to crew its carriers, who stayed when the carriers sank. The **Sunken God** is a leviathan; Bone Shoal's ribs are its kin. Who built the Corvus temple stays open.
+- **No true dragons** (TheTao): *dragon* is a folk word for a **drake**, the war's apex instruments. The Bestiary's Dragon type is renamed **Drake**; Wyrmtooth's bane and the Scale examples follow. Reef-drakes are a reef lizard, no kin.
+- **Cannon** (TheTao): guns exist, few, and the Guild holds the powder. On the coast: the **Sovereign's Gate** battery, one ship's gun per Golden Company harbour craft, and two fortress guns at **Adder's Gate**. The Wyvern Tail have a handful, captured, powder-starved (via Divtown). **Tuwal Ghorun's warships mount a few apiece**, bought from the Guild. Company officers and pistols stay open.
+- **Lycanthropes** (TheTao: not a hag's work; one person asked once, and the change became the curse): the first was a Longbarrow man who asked a **Briar-Hag** in the drowned margin of the Iron Wood never to be prey again, and paid with *something not yet his* — everyone he would ever wound. The change copies itself by bite; **the curse is the bill, still being collected**. Cold iron bit only the first; **silver** bites them all (why is open). They change on the night the Pale Sister turns, every night at the Low Moons. New note: `Lore - Lycanthropes`. **Briar-Hag home answered:** the Iron Wood's drowned margin. The Barrow-Fang's epigraph names **Pike** (Ballard, Name Tables T1 #8) instead of "Corvis".
+- **Rules flags, not carried over:** the bite passing the curse; the change on the Pale Sister's turning.
+
 ### 2026-11-15 — Lore catch-up: the Going-Out in the cult notes, and the stale flags
 - **The Going-Out carried into the cult notes** (one GM line each): Ashen Veil (the Carry ends the place's grip; the dead rise or sink by their own weight; the Quiet keeps its faithful at the turn — **corrects the Batch 21 line that the dead cease to exist**), Tidespoken (the Ebb's Run is the ferry; the Count), Weeping Martyr (the Mother at the line; Greys mark the heavy takings), Zenith (the measure; the Register), Iron Horizon (the Bastion's line; the Held Line), Rime-Fang (ghosts; the Enduring), Crooked Coin (the misfiling). Corvus: what came through was a vast one out of its Wreck.
 - **Lore reworded where it contradicted the rules:** the Crooked Coin fools others only by way of the believer; the Weepers' monopoly is healing *at scale*, not the only healing that works; the Low Moons stirring the monstrous peoples is rumour and the GM's call (Coastal Reckoning, Celestial Graveyard); chimeras dropped from the bred-true peoples; the Plumb takes what is not written down *or spoken aloud* (Zenith; Hearth's List); Bog-Wretches drown in any water, not only freezing; Religion's Faith bullet now matches the ruleset (borrowed authority, not a shield).
@@ -333,6 +341,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Duchy of Stonereach (High Shields) | North-eastern Spine; its passes run west along the crest to Ubaraz | Granite, tolls (ash-money since 8 A.A.), dwarven engineering; ruled by House Scutarius | Five Duchies; Three Layers; **Duchy of Stonereach** | Since 8 A.A. its passes are Ubaraz's only road to the coast (2026-10-07) |
 | Granite Spire | Head of Thraw's Pass, where the Concord Road ends | Seat of House Scutarius; dwarven-built; Ubaraz's Keystone crews in the lower works; ~6–8 days by horse | Five Duchies; Granite Spire | **Filled 2026-10-07 (draft).** Mote: storm-right |
 | Kettlehold · Thrawgate · Deepgraft · Sleetfall · Grimscree · Pilgrim's Notch | Stonereach | Pass-bowl toll town (T2) · Thraw's Pass fort (T1) · deep mines, Ubaraz crews (T1) · self-governing snow village (T1) · granite quarry (T0) · Rime-Fang shrine on the Long Graft (T0) | Duchy of Stonereach; Name Tables T3 #9–14 | **NEW 2026-10-07** |
+| The Unburied's barrow | Stonereach, above Sleetfall | Sealed barrow of Halgrim, a king of Ubaraz three centuries dead (GM: held by the Unmoving; the Frost That Stops) | Duchy of Stonereach; Playtest A5; Bestiary | **NEW 2026-11-15** |
 | Thraw · Thraw's Pass · the Long Graft · Sleetgate · the Wicket · the Tinwater · Kettle Tarn | Stonereach | Peak · the Road's pass · crest road to Ubaraz · winter-closed pass · smugglers' track · tailings river · pass-bowl lake | Duchy of Stonereach; Name Tables T4 | **NEW 2026-10-07** |
 | The Corvus Scar | The long valley in the Spine's southern flank; Ubaraz at its head; all four standing duchies on its edges | Ash-Blight (Undertow-touched soot); Dust-Wretches walk it; House Corvus functionally extinct; creeping annexation that can never be made lawful; the buried door under Broken Ward (GM) | Five Duchies; Cult of the Zenith; **Duchy of Corvus** | Fall dated **8 A.A. (confirmed 2026-09-28)**; Demon Wars ~6–8 A.A. (2026-10-08) |
 | Corvus Spire | Buried under Broken Ward | Ancestral seat; named for the peak that fell on it. **Broken Ward** is the folk name for the stump. The temple and the door lie under its deep works (GM) | Five Duchies; Name Tables T4 #9; Corvus Spire | **Filled 2026-10-08 (draft).** T— |
@@ -345,6 +354,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Inner Sea / The Great Expanse | East of the Whispering Coast | Sheltered basin behind the Shield Atolls | The Inner Sea.md | `The Great Expanse.md` is an **empty duplicate** — recommend delete |
 | The Coastal Meridian | Inner Sea, along the mainland | Main shoal-free sea-lane | The Inner Sea | — |
 | The Shield Atolls | Eastern rim of the Inner Sea | Barrier islands; the drowned continuation of the Jagged Spine ridge | The Inner Sea | No file (wanted link) |
+| The Greenback | Outer Shield Atolls, past Bone Shoal | Jungle island of the lizardfolk; the Temple of the Lost God (GM: the Sunken God is a leviathan) | The Inner Sea; Playtest A4 | **NEW 2026-11-15** |
 | Oakhaven Cove | Northernmost shield island | Crater-harbour township; master port for the monster-hunting fleets; 200–450 miles from the city | The Inner Sea | No file. Morgran **no longer** based here |
 | **Saltlight** | Shield Atolls | T0 hamlet; harvests the algae for the Brine-Glow Lanterns | Name Tables T2 #40; The Guild of Alchemists | **Promoted 2026-09-29** |
 | The Broken Spires | Northern Inner Sea | Drowned ridge — mountain, not masonry; same heat-scarred fracturing as Corvus, so the seam runs north-east | The Inner Sea; Five Duchies | No file |
@@ -429,6 +439,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Undercourt | Corvus deep works (gone) | The cult that opened the door in ~6 A.A.; Corvus miners and Ubaraz engineers under Quintus Corvus | — | Duchy of Corvus (GM-facing) | Fate of Quintus and its dwarves unknown |
 | The Scar-Holders | Corvus Scar | Unlanded squatters and farmers; can never be lawfully recognised or cleared | 2 | Five Duchies; The Guild of Alchemists | Sell the Scar's sulphur to the Guild — their only trade in coin (2026-09-29) |
 | The Twelgorn Retrievers | Southern marsh fringes | Slave-hunters projecting Twelgorn authority; their warrants are unenforceable (identity void) | 2 | Silted Marshes; Three Layers; History | — |
+| The lizardfolk (skinks, lizardmen) | The Greenback, outer Shield Atolls | An Alliance people — the Ebb's tenders, bred true; keep the Sunken God's temple | — | The Inner Sea; Lore - The War-Made; Bestiary | **NEW 2026-11-15** |
 | Tuwal Ghorun (the realm) | Far south | Loose web of steppe fiefs under the Al Ghorun; subject port-cities build and crew the navy | External | The Twelgorn Kingdom | See Locations |
 | The Binders | Beneath the capital | Priesthood that keeps the Binding and reads the god's omens | External | The Twelgorn Kingdom | Own name to be set |
 | The native peoples of the southern plains | Native belt, between the capital and the plateau | Never submitted; raided for slaves, hunted by the mountain folk; shelter runaways | — | The Twelgorn Kingdom | Name and naming register to be set |
@@ -495,6 +506,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Morgran "Fin" Deep-Draught | Independent — Fenmouth | Dwarf, 112; marsh-guide; hag-made for love of a fey; the stilt-villages still call him Fin | N | Morgran the Abomination.md | Alive. Filename vs header name still differ |
 | Master Cartographer Vaelen | — | Quoted scholar-cartographer mapping a world with no solar bearings | — | Epigraphs; Coastal Reckoning | Quote-only |
 | Archmage Vane | — | Practitioner from before living memory; *Archmage* a household vanity title; **Vane's Book**, the most-copied Grimoire, no two copies agree | — | Celestial Graveyard; Lore - Arcana | Quote-only. Identity open |
+| Halgrim the Unburied | Ubaraz (dead) | King of Ubaraz, three centuries dead; barrow above Sleetfall | Y (Bestiary) | Duchy of Stonereach; Playtest A5 | Undead |
+| Pike Ballard | — (Rusty Tankard) | Bare-knuckle fighter; went out after a barrow-wolf at Longbarrow | N | Bestiary epigraph; Lore - Lycanthropes; Name Tables T1 #8 | Unknown |
 | Captain Tessa (Leviathan Hunter) | Oakhaven fleets | Quoted in The Inner Sea | — | The Inner Sea | Quote-only. **Name collision with Tessa Dolly** |
 | Suse Kellard · Nell Stroud | Foundry Slips · Muddy Docks | Rope-walk foreman, Shipwrights' stamp · cookshop widow (epigraph voices) | — | Thole; Kress; Name Tables; Guilds framework | Allocated from Name Tables |
 | Halcus Rive | Guild of Alchemists (PN chapter) | Assessor; licenses every Brine-Glow lantern | N | The Guild of Alchemists; Name Tables #26 | Alive; no file |
@@ -534,6 +547,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | **The Slack-Born (fey)** | Essence that quickened in still water | Not a mortal race; beautiful, unhurried, indifferent | — | Great Fracture (**NEW**) |
 | **Hags** | Humanoid fey | Rooted to still water, or where it used to be; uproot only at the Low Moons; trade in change — work Undertow wrack into flesh; always agree, paid in full; covens for power over change | — | Great Fracture; Morgran; Lore - Hags. **Statted** (ruleset) |
 | **Wretches** | Undead — what a place keeps of those it kills | Bog, Grave, Dust; remember only cold, drowning or thirst; not hag-made; Dust-Wretches walk the Corvus Scar | — | Lore - Wretches (**NEW, draft**). **Statted** (ruleset) |
+| **Lycanthropes (barrow-wolves)** | A curse — the bill for one hag's work, still collected | Longbarrow; change on the Pale Sister's turning; passed by bite; silver bites them; cold iron bit only the first | — | Lore - Lycanthropes (**NEW**). Barrow-Fang statted (ruleset); bite and change `needs crunch` |
 | **Tuwal Ghorun** | Reach-aligned Creator remnant, bound in the Slack Water beneath the Twelgorn capital | The only living Creator remnant known to answer; grants the Blessing; cannot lie but chooses what it says | Tuwal Ghorun (monotheistic) | The Twelgorn Kingdom (**NEW**). `needs crunch` |
 
 ---
@@ -547,9 +561,11 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Centuries before settlement | The Binding; Tuwal Ghorun founded | The founders bind a Reach-aligned Creator remnant; the realm counts its years from this | Tuwal Ghorun | The Twelgorn Kingdom; Coastal Reckoning |
 | Long before settlement | Kaelen and the winter-drake | Kaelen kills the drake in the high Spine; **GM:** and eats it | Kaelen's people | The Cult of the Rime-Fang |
 | Before settlement | Rook's Folly | Rook counterfeits the old empire's treasury into bankruptcy; the empire decays | The old empire | Religion; The Cult of the Crooked Coin |
+| ~3 centuries ago (before settlement) | Halgrim's death | A king of Ubaraz, when its kings held the high passes, is barrowed above what is now Sleetfall | Ubaraz | Duchy of Stonereach |
 | A few centuries ago | Settlement of the Whispering Coast | Settlers flee the decaying empire across the Broken Ocean, bringing the *Meditations on Law*; a King and five Dukes | Five houses | History; Coastal Reckoning |
 | Pre-Accord | Spine Aqueduct built | Built when the coast was one realm | The Crown | Three Layers |
 | Pre-Accord (the reign of the kings) | Elara's plague | The plague of Mother Elara of the Mud; quarantine on the mudflats at the bay head | Weeping Martyr | Religion; **dated 2026-10-03** (TheTao) |
+| Generations before the Accord | The first barrow-wolf | A Longbarrow man asks a Briar-Hag never to be prey again | De Vonce | Lore - Lycanthropes |
 | Civil War | Marten's Cross | Commons crucify a self-proclaimed king — the King-Ban predates the Accord | Marten | Name Tables |
 | Civil War, final year (~−1 A.A.) | Thalass | A rogue wave breaks a fleet of the King's armada sortieing against the Company's blockade; a Low Moons by the Guild's reckoning | Tidespoken; Golden Company | The Tidespoken Clergy |
 | −20 A.A. | Dray arrives at the coast | Takes a Copyist's bench at 40 | Merrit Dray | Keeper Merrit Dray |
@@ -586,6 +602,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Name | Location / owner | One-line summary | Mechanical ref | Established in |
 |---|---|---|---|---|
 | The Shard-Blade | Tythius De Vonce | Longsword of deep-rift iron; cuts the palm at every Blooding | `needs crunch` | Tythius; Duchy of De Vonce; file empty |
+| Halgrim's Grave-Crown | The Unburied's barrow | GM-placed Relic | Ruleset: Hardware, Relics | Duchy of Stonereach; Playtest A5 |
 | The Wyvern-Hide Banner | Haren Twarde | Pulls an Undertow-deep "ghost" of the beast into the fight | `needs crunch` — narrative specifies an effect | Captain Haren Twarde |
 | Brine-Fire | Silas Bane; Guild stock | Gel that ignites on contact with salt water; unstable in the Low Moons; sealed at the Shuttering | `needs crunch` | Silas Bane; Coastal Reckoning; The Guild of Alchemists |
 | **Black powder / firearms** | Guild of Alchemists (licensed); Garrick; Maeve | Controlled substance; firearms only for the very wealthy or very important. The secret is the white salt (saltpetre) and the corning; stored on the Powder Hulk. Bench-made only with the recipe (2026-11-14) | Statted (ruleset, Hardware); powder needs the recipe | Law (Powder Edict); Garrick; Maeve; Kress; The Guild of Alchemists |
@@ -656,6 +673,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Marshal of the Levy | Commander of De Vonce's knights and border levy (Eldrick) | Duchy of De Vonce | — |
 | The Demon Wars | ~6–8 A.A.; what came up out of Corvus's deep works | Duchy of Corvus; Five Duchies | — |
 | The Long Carry | The Ashen Veil's rite in the Scar: lay a Dust-Wretch down, carry the body out past the blight-line | Duchy of Corvus; Lore - Wretches; The Cult of the Ashen Veil | — |
+| Drake · *dragon* | The war's apex instruments; *dragon* is only a folk word — no true dragons on Austhal | Lore - The War-Made | Bestiary Creature Type **Drake** (was Dragon) |
+| Barrow-wolf | Longbarrow's word for a lycanthrope | Lore - Lycanthropes | — |
 | Maxim-Keeper | The Iron Horizon's rite-keeper in each garrison, usually the oldest sergeant | The Cult of the Iron Horizon | — |
 | The Relief | When a soldier dies at a post, the next to stand it says the dead one's maxim aloud, once | The Cult of the Iron Horizon | — |
 | Fang-mothers | The eldest women of each Rime-Fang household, who keep the rites | The Cult of the Rime-Fang | — |
@@ -734,7 +753,8 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - Guild licence and powder prices
 - Shop-charter prices, stamp-rent rates and Guild rates
 - Business ownership / downtime: the guild-business vs deed-business split
-- Whether Tuwal Ghorun's warships mount powder guns
+- ~~Whether Tuwal Ghorun's warships mount powder guns~~ — yes, a few apiece (2026-11-15)
+- Lycanthropes: the bite passing the curse; the change on the Pale Sister's turning (Lore - Lycanthropes § Crunch)
 - ~~Fey and hag stat blocks~~ — **hags and Wretches statted 2026-10-02**; the Pool-Child statted; other fey still open
 - Hearth and Threshold: ~~stat blocks for the Nurse, the Come-Home, the Plumb-bob and the Pool-Child~~ — all statted (Bestiary); ~~whether Last Rites can be given at a grave after burial~~ **yes, in the ruleset 2026-11-14** (a Hedge Featherfall is **not** Last Rites — TheTao) (full list in Lore - Hearth and Threshold § Crunch)
 - ~~Hag uprooting at the Low Moons~~ — statted 2026-10-11; what a coven can change beyond protecting its mother still open

@@ -71,7 +71,7 @@ Slaves are the realm's principal trade good and its working body.
 
 ## ⚔️ Military
 - **The steppe host.** Horse-lords and their riders, organised by fief — the realm's true strength, and useless at sea.
-- **The navy.** Deep-draft, iron-clad "floating fortresses", built by slave shipwrights in the port-cities, crewed by slaves and conscripts, and commanded by steppe-lords who never learned the sea. Conscripted navigators like Haren were the only real seamen aboard. Heavy hulls that run aground on the silt-banks are the navy's standing weakness, and Haren built her career on it.
+- **The navy.** Deep-draft, iron-clad "floating fortresses", built by slave shipwrights in the port-cities, crewed by slaves and conscripts, and commanded by steppe-lords who never learned the sea. Conscripted navigators like Haren were the only real seamen aboard. Heavy hulls that run aground on the silt-banks are the navy's standing weakness, and Haren built her career on it. Each warship mounts a few powder guns, bought from [[The Guild of Alchemists]], which sells to everyone.
 - **The Retrievers** project the realm's authority into the marshes.
 
 ---
@@ -101,7 +101,7 @@ Tuwal Ghorun sits **outside the Layers**: a foreign power pressing on Layer 1 fr
 - What Tuwal Ghorun takes in return for the Blessing.
 - ~~Did Ellenst De Vonce marry into a Tuwal Ghorun house?~~ Yes — in 28 A.A., into a steppe-lord house that sits at the Gathering (see [[Duchy of De Vonce#Ellenst Rulieone, née De Vonce|Duchy of De Vonce]]). Its own name, and what she has seen of the Heir, are still to be set.
 - What do the people of Tuwal Ghorun call the Whispering Coast?
-- Do the navy's warships mount powder guns? *(rules-side)*
+- ~~Do the navy's warships mount powder guns?~~ **Yes, a few apiece, bought from the Guild** (TheTao, 2026-11-15).
 
 ## 🔗 Connected Notes
 - [[History - The Broken Crown of Austhal]] — the flight of the heirs; the identity void

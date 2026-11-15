@@ -18,7 +18,7 @@
   - [[Link Point of Interest 1]] — *Type (e.g., Ruined watchtower)*
 
 ## ⚔️ Power Dynamics & Threats
-- **Who Claims It:** (Which crown, lord, or guild claims legal ownership?)
+- **Who Claims It:** Ubaraz itself; its ruler is not named on the coast. Three centuries ago, before the settlers, its kings held the high passes down toward the sea, and their barrows are still in them (see [[Duchy of Stonereach]] — the Unburied).
 - **Who Actually Controls It:** (Bandit groups, indigenous tribes, monsters, or nature itself?)
 - **Notable Fauna / Predators:** (Grounded ecological threats—wolves, marsh-stalkers, etc.)
 

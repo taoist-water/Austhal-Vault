@@ -24,7 +24,7 @@ The Bastion was the Creator of thresholds and limits, of where one thing stops a
 
 ### The Unmoving: things made to stop the world
 The Unmoving wanted the Sphere frozen as it had been, and every mortal stopped where they stood (see [[The Cult of the Rime-Fang]]).
-- **The winter-drake.** Made to make the north stand still. Kaelen killed it and ate it, and it slowed her past feeling. Drakes are the Unmoving's apex instruments; the one in the high Spine was the last anybody knows of.
+- **The winter-drake.** Made to make the north stand still. Kaelen killed it and ate it, and it slowed her past feeling. Drakes are the Unmoving's apex instruments; there are no true dragons on Austhal, and *dragon* is a folk word for a drake. The one in the high Spine was the last anybody knows of.
 - **Frost-trolls.** A lesser making, and the reason a troll's wounds close: the Unmoving made them to stay the same shape. Cut one and it returns to what it was. Trolls bred, but badly, and today they are beasts rather than a people.
 - **The northern-spires wyvern** that [[Captain Haren Twarde]] killed was an apex predator saturated with unanchored essence from the Undertow. Whether a Weaponizer made it or the Undertow fed it after, its hide still pulls an echo of the beast up from below.
 
@@ -47,6 +47,7 @@ The Alliance gods gambled on the mortals; they did not need to win the war by ki
 The Ebb was the Creator of the going-out. Its makings were **carriers across water**: vast, patient things made to take mortals out of the Purge's reach, holding whole peoples in their bellies and in the hollows of their backs, across seas the Weaponizers could not follow (see [[The Tidespoken Clergy]]).
 - **After the war** there was nothing left to carry, and the carriers went down into the Drowning Deep, the Ebb's Undertow share, and soured there.
 - **The leviathans** that drift up from the abyssal trenches beyond the Shield Atolls are what came back. They still carry. They take a ship down the way they once took a people away, and the Oakhaven fleets that hunt them have no idea they are killing the coast's oldest rescuers (see [[The Inner Sea]]).
+- **The tenders.** The Ebb also bred a people to crew and tend its carriers: the **lizardfolk**, skinks and lizardmen. They bred true like any people, and when the carriers went down they stayed on the warm islands of the outer atolls. They still keep a temple to the Sunken God on **the Greenback**, and the god is a leviathan (see [[The Inner Sea]]). They know what three knocks on a hull mean (see [[Lore - Hearth and Threshold]]).
 
 ### The Mother: the nurses
 The Mother fed on those who loved her, and the war gave her more selves to feed on than ever (see [[The Cult of the Weeping Martyr]]).
@@ -63,6 +64,7 @@ The Two-Faced fought on both sides. Its makings did too.
 ## 🧭 What the War-Made are not
 - **Fey** are not made. They quickened in still water, and they had no part in the war (see [[Lore - Hags]]).
 - **Wretches** are not made either. A Wretch is what a place keeps (see [[Lore - Wretches]]).
+- **Lycanthropes** are not made. The first was a hag's work; the rest are its price, still being collected (see [[Lore - Lycanthropes]]).
 - **Likenesses and Dreads** are not makings but Shares, taking the shapes mortals gave them (see [[Lore - Likenesses and Dreads]]).
 
 > **The Mote:** the leviathans were made to carry people to safety, and the orcs were made to kill them. One of those two is now a people, with families, debts and a dock-boss who will hire you on a bad day. Purpose wears out. Given long enough, it wears out in everyone.
@@ -73,7 +75,7 @@ The Two-Faced fought on both sides. Its makings did too.
 - **Goblins and orcs among the peoples of Austhal.** Where are they, beyond the coast's half-orcs? The Wastelands (orcs born free there, per the Name Tables) are the obvious home.
 - **Is a measurer known on the coast?** The deep works under the Spine are the likeliest place for one to be standing.
 - **A double at whose table?** A named family is a strong hook, and a dangerous one to put in writing.
-- **The Lizardmen** (Bestiary) and the **Giant Spider**: War-Made, or animals?
+- ~~**The Lizardmen** (Bestiary): War-Made, or animals?~~ **An Alliance people, the Ebb's tenders** (TheTao, 2026-11-15). The **Giant Spider**: War-Made, or an animal?
 - **Did any Alliance carrier stay on the Disk** rather than sinking?
 - **The vast one at Corvus.** Does it have a name the Undercourt knew?
 

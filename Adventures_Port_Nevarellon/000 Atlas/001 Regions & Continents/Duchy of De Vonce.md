@@ -68,7 +68,7 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
   - **Half the Iron Court is mortgaged** to pay for it, most of them to Valerius bond-houses.
 - **The Levy Muster** opens the High Turns. Every vassal brings his levy to the Muster Field below Iron-Spire to be counted and inspected, and the year's border rotations are drawn.
 - **The border levy** is the largest standing levy on the coast. Companies rotate out to the Corvus-facing towers for a season at a time. It is the single heaviest line in the Duke's accounts, and the Council's subsidy has never covered it.
-- **Adder's Gate** stands at the end of the Concord Road's military spur, above the ford at Bittern's Ford. It is the last garrison before the ash, and its castellan is **[[Castellan Senna Cade]]**. Knights were offered the post and refused it. **Wardstone Watch**, the second tower, answers to her as well, and everyone knows it is undermanned.
+- **Adder's Gate** stands at the end of the Concord Road's military spur, above the ford at Bittern's Ford. It is the last garrison before the ash, and its castellan is **[[Castellan Senna Cade]]**. Two fortress guns face the valley mouth; they are the only guns any duke keeps. Knights were offered the post and refused it. **Wardstone Watch**, the second tower, answers to her as well, and everyone knows it is undermanned.
 - **The weapon tests.** The Duke permits his garrison captains to test certain "controlled" weapons — alchemical, and Undertow-touched — on ground in the upper Sisters. The tests run under Eldrick's captains. Senna Cade will not have them on her ground.
 
 > **GM-facing.** Where the weapons come from is not settled: the Guild, the Unsealed, or someone closer to home (see Open Questions). They work. They are also exactly the kind of essence-touched thing the Low Moons destabilise, and the tests have been stockpiling them a day's ride from the Scar.
@@ -102,7 +102,7 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 | **Hollowforge** | T2 | Smelting town under the Sisters; the furnaces never go out |
 | **Coldhelve** | T1 | Arms-making and High-Steel; the monopoly's enforcement point |
 | **Ashcopse** | T0 | Charcoal-burners' hamlet in the Iron Wood |
-| **Longbarrow** | T1 | Village of the war-fields; ploughs up bone every spring |
+| **Longbarrow** | T1 | Village of the war-fields; ploughs up bone every spring. Its barrow-wolves hunt the fields on the night the Pale Sister turns (see [[Lore - Lycanthropes]]) |
 | **Marrowmill** | T0 | Grinds the bone |
 | **Bittern's Ford** | T1 | Ford on the Adderwater below Adder's Gate; the last clean water before the Scar |
 | **Adder's Gate** | T1 | Fort at the end of the Road's military spur; the last garrison before the ash |
@@ -174,3 +174,4 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 - [[Framework - The Three Layers]] — the aqueduct, and Layer 2
 - [[The Twelgorn Kingdom]] — Ellenst, and the Heir
 - [[Framework - The Guilds of Port Nevarellon]] · [[The Guild of Alchemists]] — who buys the iron, oak and charcoal
+- [[Lore - Lycanthropes]] · [[Lore - Hags]] — Longbarrow's barrow-wolves, and the Briar-Hag in the Iron Wood's drowned margin

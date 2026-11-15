@@ -70,7 +70,7 @@ A hag beaten to her knees does not beg; she **names her price**. A true answer, 
 ## ❓ Open questions — TheTao's call
 - ~~**Where the Salt-Hags are.**~~ **Decided 2026-10-07, revised 2026-10-11 (TheTao):** the abandoned salt-pans of Valerius — **the Dry Pans** north of Brinewick, where the bond-rows call her the Thirsty Woman. She was first written as a Mirage-Hag; the Dry Pans are cold, so she is a Salt-Hag, and Mirage-Hags stay desert hags. An adventure hook (see [[Duchy of Valerius]]).
 - **Where the Mirage-Hags are.** Open again. No desert exists in canon yet; the dried tarns where the [[The Twelgorn Kingdom|Twelgorn]] marsh-fringe rises onto dry steppe are the nearest candidate.
-- **Where the Briar-Hags are.** The rotting marsh-timber forests of the Silted Marshes, or the flooded margin of the oak forests below the Spine?
+- ~~**Where the Briar-Hags are.**~~ **The drowned margin of the Iron Wood, below the Sisters, in De Vonce** (decided with the lycanthropes, 2026-11-15): where the first lycanthrope went to ask (see [[Lore - Lycanthropes]]). The rotting timber forests of the Silted Marshes may hold others.
 - **Morgran's hag.** Is she still in the Grey Veins — and if the Low Moons have come and gone since, is she still anywhere he could find her?
 - **Cold iron.** The vault has never said why it answers the fey. Folk knowledge, or something about how essence and pure iron meet?
 - **What a coven can change** that a lone hag cannot — a whole village? The land itself?

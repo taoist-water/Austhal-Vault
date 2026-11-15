@@ -67,7 +67,7 @@ Roll d50 or pick. Register letter maps to the table above. Race is unmarked wher
 | 5   | Ord Bracken        | A    | *(allocated — canon: charcoal-burner of Ashcopse, Duchy of De Vonce; foster-father of the PC Nirael Bracken → 205 NPCs)* |
 | 6   | Nell Stroud        | A    | Widow running a boardwalk cookshop on credit                           |
 | 7   | Garrow Finch       | A    | Ex-Blue-Cloak, discharged, still wears the coat                        |
-| 8   | Pike Ballard       | A    | Bare-knuckle fighter at the Rusty Tankard                              |
+| 8   | Pike Ballard       | A    | *(allocated — Bare-knuckle fighter at the Rusty Tankard; went out after a barrow-wolf at Longbarrow and said they should have kept moving → Bestiary, the Barrow-Fang; Lore - Lycanthropes)* |
 | 9   | Ivet Marn          | A    | Marsh-guide; charges by the hour and lies about the tide               |
 | 10  | Sedge Cullom       | A    | Iron-Burl feller, missing three toes                                   |
 | 11  | Hallam Drey        | A    | *(allocated — canon: one of the Seven; De Vonce levy sergeant, d. ~8 A.A.)* |
@@ -157,7 +157,7 @@ Every entry is placed. **Region** states the parent — no floating villages. **
 | 10 | Kettlehold | **T2** | Town | Stonereach | Sits in a pass bowl; controls the northeast road → *allocated: Duchy of Stonereach* |
 | 11 | Thrawgate | **T1** | Fort | Stonereach | Guards Thraw's Pass; ducal levy garrison → *allocated: Duchy of Stonereach* |
 | 12 | Pilgrim's Notch | **T0** | Waystation | Stonereach | Rime-Fang shrine; free shelter, no questions — *mote of hope* → *allocated: Duchy of Stonereach; The Cult of the Rime-Fang* |
-| 13 | Sleetfall | **T1** | Village | Stonereach | Snowed in four months a year, self-governing by necessity → *allocated: Duchy of Stonereach* |
+| 13 | Sleetfall | **T1** | Village | Stonereach | Snowed in four months a year, self-governing by necessity → *allocated: Duchy of Stonereach; canon tie: the Unburied's barrow (Playtest A5)* |
 | 14 | Deepgraft | **T1** | Village | Stonereach | Deep-shaft mine; dwarven contract crews, ducal ownership → *allocated: Duchy of Stonereach* |
 | 15 | Barleywick | **T0** | Village | Aerthos | Grain tenancy, chronic debt to Millhaven factors → *allocated: Duchy of Aerthos* |
 | 16 | Sheafcross | **T2** | Town | Aerthos | Regional grain market on the Concord Road spur, a day short of Millhaven → *allocated: Duchy of Aerthos* |
@@ -186,7 +186,7 @@ Every entry is placed. **Region** states the parent — no floating villages. **
 | 39 | Two Cages | **T1** | Village | Shield Atolls | Two great fish-traps; halfling-majority |
 | 40 | Saltlight | **T0** | Hamlet | Shield Atolls | Harvests the algae for the Brine-Glow Lanterns → *allocated: The Guild of Alchemists* |
 | 41 | Coldmoor Cove | **T1** | Village | Shield Atolls | Northernmost atoll; whaling fleet victualler |
-| 42 | Bone Shoal | **T0** | Hamlet | Shield Atolls | Built on the petrified ribs of a war-beast → *canon tie* |
+| 42 | Bone Shoal | **T0** | Hamlet | Shield Atolls | Built on the petrified ribs of a war-beast → *canon tie*; the ribs are a leviathan's, kin to the Greenback's Sunken God (The Inner Sea) |
 | 43 | Concord's Third Stone | **T0** | Waystation | Ducal Concord Road | Milestone-named; Golden Company and ducal levy share it badly |
 | 44 | Darcy's Rest | **T0** | Waystation | Ducal Concord Road | Named *for* [[Jeerdan Darcy]], not *by* him. He hates it — *mote of hope* → **extension** |
 | 45 | Toll-Gallows | **T1** | Fort | Ducal Concord Road | Both functions in the name. Nobody found that funny at the time |

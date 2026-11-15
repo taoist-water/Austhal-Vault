@@ -24,4 +24,4 @@ The Wyvern Tail Pirates are the most disciplined, feared, and successful pirate 
 
 ## 👥 Key Faction Elements
 - **The Crew:** Composed of seasoned deep-sea sailors, cynical ex-naval officers, and highly aggressive fighters who have survivalist experience in the wild sectors of the disk. They are paid handsomely in silver, bound by a strict code of division of spoils that keeps mutiny at bay.
-- **The Fleet:** Led by the *Dread-Wing*, a three-masted commerce raider retrofitted with forward-facing harpoon ballistas designed to puncture the high-steel hulls of larger vessels.
+- **The Fleet:** Led by the *Dread-Wing*, a three-masted commerce raider retrofitted with forward-facing harpoon ballistas designed to puncture the high-steel hulls of larger vessels. The fleet also carries a handful of captured ship's guns, and is always short of powder for them: it comes through [[000 Atlas/Divtown|Divtown]], at Thorne's markup.

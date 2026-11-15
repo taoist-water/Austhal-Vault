@@ -31,6 +31,9 @@
   - [[000 Atlas/Oakhaven Cove|Oakhaven Cove]] — *The Great Northern Township.* Located on the largest, northernmost shield island, built inside a high-walled, sheltered volcanic crater. It serves as the master port for the heavy, deep-sea monster-hunting fleets.
   - [[000 Atlas/The Shield Atolls|The Shield Atolls]] — *Sparsely populated micro-communities.* Dozens of tiny, isolated fishing villages made up of mixed mortal races (Humans, Halflings, and coastal Elves) living in stilt-houses built over the warm reefs. The atolls are not a chance arrangement of islands: they are the surviving high points of the same ridge that surfaces inland as [[The Jagged Spine|The Jagged Spine]], running northeast and dipping beneath the water. The barrier that shelters the whole basin is a drowned mountain range with its peaks still showing.
   - [[000 Atlas/The Broken Spires|The Broken Spires]] — *Point of Interest.* A drowned ridge of petrified stone spires in the northern waters — mountain, not masonry, and not to be confused with **Corvus Spire**, the buried ducal seat inland. Divers who have gone down on them report the same glassy, heat-scarred fracturing found along the collapsed peaks of the [[The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|Corvus Scar]] fifty years ago. The implication is not that anything came through out here. It is that the seam which opened at Corvus does not end at Corvus — it runs northeast beneath the Inner Sea, and nobody has ever mapped how far.
+  - **The Greenback** — *Point of Interest.* A jungle island in the outer atolls, past Bone Shoal, humped out of the warm sea like something surfacing. Atoll fishers will not land there: it belongs to the skinks and the lizardmen, and to a temple the Atoll folk call the Lost God's.
+
+> **GM-facing — the Greenback.** The lizardfolk are an Alliance people: the Ebb bred them to tend its carriers, and they bred true and stayed on the islands when the carriers sank (see [[Lore - The War-Made]]). Their temple is to the **Sunken God**, which is a leviathan, soured in the Drowning Deep; the golden statue on its pedestal is one. Bone Shoal's petrified ribs are its kin. *(Ruleset: Playtest A4, the Temple of the Lost God.)*
 
 ---
 
@@ -40,7 +43,7 @@
   - **The Inner Basin:** Shared control between independent merchant cartels and [[The Iron-Anchor Syndicate|The Iron-Anchor Syndicate]] (who run protection rackets on the coastal lanes).
   - **The Shield Islands:** Entirely self-governed by the local captains and village elders. The law of the islands is dictated by maritime necessity—the Golden Company has no standing army here.
 - **Notable Fauna / Predators:** 
-  - **Grounded Threats:** Reef-drakes and giant barnacle-mimics that latch onto wooden hulls to rot the timber.
+  - **Grounded Threats:** Reef-drakes — the sailors' name for a big hull-biting reef lizard, no kin to any true drake — and giant barnacle-mimics that latch onto wooden hulls to rot the timber.
   - **The Leviathans:** Massive, prehistoric, Undertow-touched monstrous sea creatures that drift up from the abyssal trenches of the outer ocean. Some are heavily armored, requiring specialized harpoon ballistas and alchemical explosives to kill.
 
        [ THE OPEN OCEAN / THE VOID ]

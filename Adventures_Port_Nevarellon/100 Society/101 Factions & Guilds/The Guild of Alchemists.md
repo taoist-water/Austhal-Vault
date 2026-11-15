@@ -108,7 +108,7 @@ The Port Nevarellon chapter is **Layer 3** by reach. It holds two **Layer 1 chok
 
 ## ❓ Open Questions
 - Names: the Chapter-Warden; the Convocation's interval; the Guild's founding date and first chapter.
-- Do Tuwal Ghorun's warships mount powder guns? *(rules-side)*
+- ~~Do Tuwal Ghorun's warships mount powder guns?~~ **Yes, a few apiece — the Guild sold them the powder and the guns** (TheTao, 2026-11-15). On the coast, only the Sovereign's Gate, the Company's harbour craft and Adder's Gate mount guns; the Wyvern Tail have a handful, captured.
 - Who made Tythius De Vonce's Undertow-touched garrison weapons — the Guild, the Unsealed, or someone else?
 - Is Ingot Vell (Name Tables #38) a Guild assayer or a rogue one?
 
