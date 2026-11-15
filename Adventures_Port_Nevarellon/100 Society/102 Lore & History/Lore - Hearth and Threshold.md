@@ -57,7 +57,7 @@ Before a ship crosses deep water, a sailor raps the hull three times below the w
 
 ### The fare in the fist
 Before the drowned are given to the ebb, someone presses a coin into the hand and closes the fingers over it. The Tidespoken do not teach it and do not stop it.
-> **GM-facing — works.** The Brine Mother's ferry takes as its fare whatever the dead are holding (see [[Cosmology - The Tideways]]). A dead hand closed on nothing pays with something else — a memory, a face, the name of a child. A coin is the cheapest fare there is, and the poorest families on the coast find one.
+> **GM-facing — works.** The Ebb's ferry takes as its fare whatever the dead are holding (see [[Cosmology - The Tideways]]). A dead hand closed on nothing pays with something else — a memory, a face, the name of a child. A coin is the cheapest fare there is, and the poorest families on the coast find one.
 
 ---
 
@@ -77,7 +77,7 @@ When someone is dying, a window is opened, however cold the night, so the quiet 
 
 ### Hedge Featherfall
 Inland, there is no grave-keeper for weeks, so the family lays their own dead down. They use hen feathers, or gull feathers if they have them, and say no words over the grave. Afterwards they carve the name into the post and say it aloud once, so that a keeper passing on the road will know whose grave it is. The Ashen Veil do not object. They stop at the posts. When a **Post-Walker** of the Veil has given the rite at a grave, they cut **the feather-cut** into the post under the name: a single notch, slanting, like a feather falling. A post with a name and no feather-cut is a grave still waiting, and every inland child can read one.
-> **GM-facing — half.** It is a burial, not a rite. Last Rites take a practising faithful, whose belief is what gives the rite its meaning (TheTao); a farmer's wife with hen feathers lays the body down, and the dead stay unrited. That is a comfort, and it is also exactly what the Hungry Grave wants: the dead in the ground, without rites. It settles the Grave for the night and leaves the body where a place can keep it. **The carved name is the half that works.** Last Rites can be given at the grave after burial (TheTao), and the name is what lets a Post-Walker give them to the right dead (see [[The Cult of the Ashen Veil]]). The inland buries its own, and waits for someone who believes.
+> **GM-facing — half.** It is a burial, not a rite. Last Rites take a priest of the Veil, whose belief is what gives the rite its meaning (TheTao); a farmer's wife with hen feathers lays the body down, and the dead stay unrited. That is a comfort, and it is also exactly what the Hungry Grave wants: the dead in the ground, without rites. It settles the Grave for the night and leaves the body where a place can keep it. **The carved name is the half that works.** Last Rites can be given at the grave after burial (TheTao), and the name is what lets a Post-Walker give them to the right dead (see [[The Cult of the Ashen Veil]]). The inland buries its own, and waits for someone who believes.
 > **The feather-cut can be faked.** It is one notch in soft wood. A family that cannot wait, or a homestead that wants a reputation it has not earned, can cut it themselves. Nothing tells the difference but the ground.
 
 ### Stones on the chest
@@ -90,7 +90,7 @@ Inland travellers carry a **name-cord**, knotted once for every homestead that h
 
 ### A mark, not a name
 The Un-Landed of Port Nevarellon sign the ledgers of landlords, bond-houses and moneylenders with a scratched mark, never their name, even those who can write it. *"Don't give them your name,"* their mothers said. Most think it is about the law.
-> **GM-facing — a trade-off.** The List reads only names that are written down, and every name it reads is found wanting. A mark is never read out. But a name that is never written is held more weakly, and the poor of the city are anchored by almost nothing. The only place most of them are ever written is the Veil's grave-book: their name goes down once, when it can no longer hurt them and can still hold them.
+> **GM-facing — a trade-off.** The List reads names that are written down or said aloud in its hearing, and every name it reads is found wanting. A mark is never read out. But a name that is never written is held more weakly, and the poor of the city are anchored by almost nothing. The only place most of them are ever written is the Veil's grave-book: their name goes down once, when it can no longer hurt them and can still hold them.
 
 ---
 
@@ -116,8 +116,8 @@ Watch rosters on the coast leave one place on the wall unfilled, and the sergean
 No gambler worth the name stakes everything on a single throw. Stakes are split, the last coin is kept back, and a player who goes all in is pulled away from the table by their friends.
 > **GM-facing — harmful.** The Mask, the smiling stranger who never loses, wants someone to believe their own coin, and it leaves only when someone stakes everything on one throw and wins it (see [[Lore - Likenesses and Dreads]]). A den full of careful players never gives it that, and the Mask stays at the table all night, every night. The dens that keep the custom best are the ones the stranger never leaves.
 
-### Swear on the Line
-A bargain on the coast is sealed with *"on the Line"* — a clasp of hands, or a thumb run down a doorframe. It is said a hundred times a day, in every market, and usually means nothing more than *"I mean it."*
+### Swear on the plumb
+A bargain on the coast is sealed with *"on the plumb"* — a clasp of hands, or a thumb run down a doorframe. It is said a hundred times a day, in every market, and usually means nothing more than *"I mean it."*
 > **GM-facing — half.** Usually nothing happens. But the Plumb's current holds things to their record (see [[The Cult of the Zenith]]), and an oath sworn on its name in front of a large enough crowd can gather something to hear it. If the oath was true, the **Judge** comes to the gallery. If it was false, the **List** comes, and reads the name.
 
 ---
@@ -150,4 +150,4 @@ Four of the customs answer things that have no other note yet.
 ## 🔗 Related
 [[Lore - Likenesses and Dreads]] · [[Lore - The War-Made]] · [[Lore - Wretches]] · [[Lore - Hags]] · [[Cosmology - The Tideways]] · [[Whispering Coast]] · [[The Cult of the Ashen Veil]] · [[The Tidespoken Clergy]]
 
-**Crunch:** the Nurse, the Come-Home, the Plumb-bob and the Pool-Child are `needs crunch`. **A Hedge Featherfall is not Last Rites; Last Rites can be given at a grave after burial** (both TheTao, 2026-11-14). Per the canon tracker's siloing rule, this note does not restate any rules.
+**Crunch:** the Nurse, the Come-Home, the Plumb-bob and the Pool-Child have stat blocks in the Iron & Marrow ruleset (Bestiary). **A Hedge Featherfall is not Last Rites; Last Rites can be given at a grave after burial** (both TheTao, 2026-11-14). Per the canon tracker's siloing rule, this note does not restate any rules.

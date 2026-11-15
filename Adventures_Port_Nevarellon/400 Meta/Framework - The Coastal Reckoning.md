@@ -133,7 +133,7 @@ All three moons ride low together when their cycles align: **every 840 days — 
 
 `LCM(28, 40, 105) = 840`
 
-The alignment holds for **nine to twelve nights**, during which the effects already in canon apply: the war-bred instincts of the monstrous races stir, Undertow-touched alchemical stock turns unstable, and **Brine-Fire** becomes something nobody sane keeps indoors. *(Needs crunch: hazard modifiers, encounter shifts, alchemical failure rates.)*
+The alignment holds for **nine to twelve nights**, during which the effects already in canon apply: predators press, the dead do not stay down, Undertow-touched alchemical stock turns unstable, and **Brine-Fire** becomes something nobody sane keeps indoors. Sailors swear the monstrous peoples outside the walls grow restless too; that is rumour, and the GM's call. *(The Low Moons' switches are in the ruleset, GM Tools; alchemical failure rates and travel hazards are still `needs crunch`.)*
 
 **The important structural property: 30 turns does not divide into 13.** The Low Moons advance four turns through the calendar every cycle. They walk the year.
 

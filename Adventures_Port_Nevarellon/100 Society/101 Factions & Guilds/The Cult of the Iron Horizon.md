@@ -41,6 +41,7 @@
 > **The irony** is that the Iron Horizon prays to the remains of the maker of the very horde Senecus died holding against.
 > **What the current does.** It removes doubt. A devotee who calls on Senecus is steadier, clearer and harder to break. **The cost is that they cannot break even when they should.** The current does not distinguish a post worth holding from one that should be abandoned. Iron Horizon garrisons die at positions any sane commander would have pulled back from, and the faithful call it glory.
 > **Senecus** was real, and older than the coast. His pass was on the old empire's frontier, across the Broken Ocean, and the faith came over with the settlers (see [[History - The Broken Crown of Austhal]]). Every Stonereach keep is wrong.
+> **The line.** The Bastion's current also keeps the threshold of the dead: the dead do not come back across it (see [[Cosmology - The Celestial Graveyard and The war of Creation#⛵ The Going-Out: What Happens to the Dead|The Going-Out]]). Its hoped-for face, **the Held Line**, is the soldier who takes the post beside you on the worst night, which is why watch rosters leave a place empty (see [[Lore - Hearth and Threshold]]).
 > **The mote** is that sometimes the post *is* worth holding: a ford with the last clean water before the ash, or a stair down to a door that must not open. Senna Cade holds the first. Hallam Drey held the second.
 
 ---
@@ -74,9 +75,9 @@
 
 ## 🎲 Rules Flags (for when the ruleset is integrated)
 *Not carried over.*
-- **The removed doubt:** resistance to fear, rout or morale effects for a devotee who invokes Senecus.
-- **The cost:** an inability to retreat or disengage under the current. Is it a condition, a GM call, or narrative only?
-- **Faith-casting** under the Religion note's *Faith protects the mind; invoke the saint's deed* rule.
+- ~~**The removed doubt:** resistance to fear, rout or morale effects for a devotee who invokes Senecus.~~
+- ~~**The cost:** an inability to retreat or disengage under the current. Is it a condition, a GM call, or narrative only?~~ **Both resolved** — the Strategy Domain Price, **Holding**: no retreat, immune to Fear and Terrified (ruleset, Embracing the Abyss).
+- ~~**Faith-casting** under the Religion note's *Faith protects the mind; invoke the saint's deed* rule.~~ **Resolved** — Faith is borrowed authority, paid for in the body (ruleset, Embracing the Abyss, *Faith*).
 
 ---
 

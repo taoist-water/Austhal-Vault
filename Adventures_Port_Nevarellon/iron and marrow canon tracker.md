@@ -14,6 +14,15 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-11-15 — Lore catch-up: the Going-Out in the cult notes, and the stale flags
+- **The Going-Out carried into the cult notes** (one GM line each): Ashen Veil (the Carry ends the place's grip; the dead rise or sink by their own weight; the Quiet keeps its faithful at the turn — **corrects the Batch 21 line that the dead cease to exist**), Tidespoken (the Ebb's Run is the ferry; the Count), Weeping Martyr (the Mother at the line; Greys mark the heavy takings), Zenith (the measure; the Register), Iron Horizon (the Bastion's line; the Held Line), Rime-Fang (ghosts; the Enduring), Crooked Coin (the misfiling). Corvus: what came through was a vast one out of its Wreck.
+- **Lore reworded where it contradicted the rules:** the Crooked Coin fools others only by way of the believer; the Weepers' monopoly is healing *at scale*, not the only healing that works; the Low Moons stirring the monstrous peoples is rumour and the GM's call (Coastal Reckoning, Celestial Graveyard); chimeras dropped from the bred-true peoples; the Plumb takes what is not written down *or spoken aloud* (Zenith; Hearth's List); Bog-Wretches drown in any water, not only freezing; Religion's Faith bullet now matches the ruleset (borrowed authority, not a shield).
+- **Hearth and Threshold:** the ferry is the Ebb's; Last Rites take a priest of the Veil; the oath is *"on the plumb"* (was "on the Line", which clashed with the Held Line).
+- **New, small:** the Rime-Fang's **wolf-spirit** (in-world: it ran with Kaelen; GM: the current wearing the shape its faithful expect) — from the ruleset's Winter & Wilds prayers, and the source of the cult's name. **Last Rites** named in the Ashen Veil's practice: only a priest of the Veil can give it. **Shamanism's spirits are ghosts the Unmoving held** — the one exception to the Arcane having nobody on the other end. Necromancy: every bone keeps a current, freshest in the newly dead. Shadow Sorcery: a shadow or a reflection.
+- **Likenesses' wants aligned to the Bestiary:** the Held Line wants Relief; the Enduring wants a light kept burning. Doubles' scars are mirrored (War-Made).
+- **Stale `needs crunch` flags closed** where the ruleset now has rules: Likenesses, Dreads and the Named type; the Measurer, Nurse, Come-Home, Plumb-bob and Pool-Child; hag uprooting; the Wretch rising and the Long Carry; the Dust-Wretches at the Low Moons; ash-choked air; the cult Domain Prices (Holding, Reversal, Cold to the Touch, Greys, the Quiet Keeps a Place); the Mocking Voice; the Binding Oath; firearms; settlement tiers; the laying-on. High-Steel's shattering now carries a `needs crunch` flag.
+- Arcana's Marren Loweb link points to Duchy of Corvus.
+
 ### 2026-11-14 — The blend rule, and six rulings on lore–rules seams
 - **The siloing rule is replaced by the blend rule** (TheTao; project instructions updated by TheTao). Lore and rules are read together and reviewed against each other; worldbuilding decides what is true, the ruleset decides how it plays; disagreements are logged here, not quietly fixed. Writing still goes by diff, per file. Vault CLAUDE.md updated to match. Notes that say "per the canon tracker's siloing rule" stay as they are.
 - **Gunpowder** (TheTao): powder *can* be made at a bench by anyone who has the recipe — the white salt and the corning, the Guild's most tightly held secret. Guild of Alchemists, Hardware (*Making Wares*) and Soothing the Soul (*Distil & Compound*) updated.
@@ -136,7 +145,7 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 - **"God-essence" → essence** (TheTao): *god* is a mortal word laid over the nameless in the Naming. "God-touched" → essence-touched; "god-remnant" → Creator remnant.
 - **Kept:** the Shard-Blade (a proper name); *Undertow-touched* as the adjective for taint; *god* and *gods* where mortals or cults are speaking.
 - Swept across 21 notes; the old terms survive only in this log.
-- **Rules flag:** the Iron & Marrow ruleset still says *god-shard* / *god-essence* — not carried over.
+- **Rules flag:** the Iron & Marrow ruleset still says *god-shard* / *god-essence* — not carried over. *(Superseded 2026-10-11: ruleset aligned.)*
 
 ### 2026-10-08 — The Seven, and the Long Carry
 - **The Seven named** (from the Name Tables, TheTao's instruction): Duke **Hadrian Corvus**; **Dorrun Halt-Adze** (Ubaraz engineer, brought the mountain down); **Corran Ossius** (Corvus knight); **Maryn Aske** (midwife, Ashen Veil); **Tamsin Vole** (miner); **Hallam Drey** (De Vonce levy sergeant, Iron Horizon); **Marren Loweb** (elf scholar who read the temple's script).
@@ -579,8 +588,8 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Shard-Blade | Tythius De Vonce | Longsword of deep-rift iron; cuts the palm at every Blooding | `needs crunch` | Tythius; Duchy of De Vonce; file empty |
 | The Wyvern-Hide Banner | Haren Twarde | Pulls an Undertow-deep "ghost" of the beast into the fight | `needs crunch` — narrative specifies an effect | Captain Haren Twarde |
 | Brine-Fire | Silas Bane; Guild stock | Gel that ignites on contact with salt water; unstable in the Low Moons; sealed at the Shuttering | `needs crunch` | Silas Bane; Coastal Reckoning; The Guild of Alchemists |
-| **Black powder / firearms** | Guild of Alchemists (licensed); Garrick; Maeve | Controlled substance; firearms only for the very wealthy or very important. The secret is the white salt (saltpetre) and the corning; stored on the Powder Hulk | `needs crunch` — flag for the rules side | Law (Powder Edict); Garrick; Maeve; Kress; The Guild of Alchemists |
-| High-Steel | Company, nobles, sanctioned guild-masters | Refined steel monopoly; commoners' iron shatters on it; refined only at Coldhelve | — | Law; Duchy of De Vonce |
+| **Black powder / firearms** | Guild of Alchemists (licensed); Garrick; Maeve | Controlled substance; firearms only for the very wealthy or very important. The secret is the white salt (saltpetre) and the corning; stored on the Powder Hulk. Bench-made only with the recipe (2026-11-14) | Statted (ruleset, Hardware); powder needs the recipe | Law (Powder Edict); Garrick; Maeve; Kress; The Guild of Alchemists |
+| High-Steel | Company, nobles, sanctioned guild-masters | Refined steel monopoly; commoners' iron shatters on it; refined only at Coldhelve | `needs crunch` — the ruleset has no rule for iron shattering on High-Steel | Law; Duchy of De Vonce |
 | The Golden Writ (Peace-Bond) | Landed citizens | 5 gs (1,000 cp) licence to carry a martial weapon; wire and wax on the guard (on pistols: the trigger-guard) | — | Law; Economy |
 | The Black Ledger | Dolly Sisters | Coded blackmail journal on High Quarter smuggling patrons | — | The Dolly Sisters |
 | The Register | The Plumb Court | Counter-copy of every deed, charter and keel paper; power by refusal to verify | — | The Cult of the Zenith |
@@ -602,10 +611,10 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 |---|---|---|---|
 | The Tideways | Layered cosmos: High Reach / Slack Water / Undertow | Great Fracture | — |
 | **The Undertow / Undertow-touched** | Lowest layer / adjective for taint and property. **"Frequency" is retired** | Throughout | — |
-| Slack-Born | Fey; essence that quickened in still water | Great Fracture; Morgran | Hags statted; other fey `needs crunch` |
+| Slack-Born | Fey; essence that quickened in still water | Great Fracture; Morgran | Hags and the Pool-Child statted; other fey `needs crunch` |
 | The Brine Mother | The Tidespoken's name for the ocean; its teaching makes hags abominations | Lore - Hags; The Tidespoken Clergy | — |
-| The laying-on · the golden tears · the Taking-On | Martyr healing by drawing hurt into the healer · the gold the healer weeps · the vow to take a whole affliction | The Cult of the Weeping Martyr; Name Tables | `needs crunch` — see the cult note's Rules Flags |
-| The Mask · the Mocking Voice *(GM-facing)* · "never believe your own coin" | The Two-Faced's two faces · the Coin's first teaching | The Cult of the Crooked Coin; Celestial Graveyard | Mocking Voice `needs crunch` |
+| The laying-on · the golden tears · the Taking-On | Martyr healing by drawing hurt into the healer · the gold the healer weeps · the vow to take a whole affliction | The Cult of the Weeping Martyr; Name Tables | Laying-on and Greys in the ruleset; the Taking-On vow and the tears as a tell still open (cult note § Rules Flags) |
+| The Mask · the Mocking Voice *(GM-facing)* · "never believe your own coin" | The Two-Faced's two faces · the Coin's first teaching | The Cult of the Crooked Coin; Celestial Graveyard | Mask and Mocking Voice statted (ruleset, Bestiary) |
 | Weepers · the Eldest Mother · the House of Mercy · Elara's Steps | Martyr healing priests · the cult's head · its hospice in the Artisan Quarter · its stair onto the mudflats | The Cult of the Weeping Martyr | — |
 | The tide's turn | The Tidespoken teaching: everything moves, everything is taken in its turn | The Tidespoken Clergy | — |
 | Tongues · the Salt · the Eldest Tongue · Lamp-Readers | Tidespoken priests · the faithful · the longest-serving Tongue, who speaks for the clergy · keepers of the tide-tables on the Sea-Wall | The Tidespoken Clergy | — |
@@ -618,7 +627,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Second Contract / Writ of Voice | Envoy retainers / an Envoy's negotiating limits | The Golden Company | — |
 | Court of Nullity | Void, never validate | The Cult of the Zenith | **Load-bearing** |
 | Register of Markets / the Count of Three | "Three" = how many markets the Keepers still verify | Zenith; Wondrous Markets | — |
-| Binding Oath | Oath over the Register with real consequence | The Cult of the Zenith | `needs crunch` |
+| Binding Oath | Oath over the Register with real consequence | The Cult of the Zenith | In the ruleset (Domain of Law prayer) |
 | Four-of-five rule / Instrument of the Whole | Any two councillors block anything that matters | Council of Five | — |
 | Identity void | Tuwal Ghorun instruments match nothing on the coast | History; Palla; Sallow; Marrenhal | — |
 | The Al Ghorun | Tuwal Ghorun's ungendered ruler's title ("of Ghorun"); the coast says "King" | The Twelgorn Kingdom; History | — |
@@ -670,7 +679,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Ballast · anchor *(GM-facing)* | Wrack carried to shift a body to a layer (black down, pale up) · a name held by others, which keeps a traveller themselves | Cosmology - The Tideways | `needs crunch` |
 | Shallows · open layers · Wrecks · Unbroken places · the Outer Dark *(GM-facing)* | Near edge of each layer · unshaped essence between the Shares · Undertow ground around a war-made thing · surviving pockets of the Sphere · the Void, where the old death still holds | Cosmology - The Tideways | `needs crunch` |
 | Peoples · instruments *(GM-facing)* | War-Made that bred true and lost their purpose · War-Made that never bred and keep it | Lore - The War-Made | — |
-| Measurers · nurses · doubles · siege-chimeras | The Plumb's · the Mother's · the Two-Faced's · the Bastion's makings | Lore - The War-Made | `needs crunch` |
+| Measurers · nurses · doubles · siege-chimeras | The Plumb's · the Mother's · the Two-Faced's · the Bastion's makings | Lore - The War-Made | Measurer, Nurse and Come-Home statted (ruleset, Bestiary); siege-chimeras and leviathans `needs crunch` |
 | Settlement Tier T0–T3 | Tier measures services, not headcount | Name Tables | **Explicitly "mechanical" — flag for the rules side** |
 | Grimoire *(in-world)* | A practitioner's private working notebook, re-studied nightly; useless to another reader without decoding | Lore - Arcana | Ruleset: study rule, Embracing the Abyss |
 | Quick-things | Half-quickened wrack that behaves as if it wants something; the rarest fragments | Lore - Arcana | Natural Relics (Hardware) |
@@ -683,7 +692,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Hedge Featherfall | The inland's family-made Featherfall, with hen feathers and the name carved on the post for a passing keeper | Lore - Hearth and Threshold | **Not Last Rites** (TheTao): the rite takes a practising faithful |
 | The Post-Walk · Post-Walkers | Ashen Veil priests and acolytes travelling the known world, giving Last Rites at graves buried without a keeper | The Cult of the Ashen Veil; Lore - Hearth and Threshold | Last Rites at a grave — in the ruleset |
 | The feather-cut | One slanting notch under the name on a grave-post: the rite has been given. Can be faked | The Cult of the Ashen Veil; Lore - Hearth and Threshold | — |
-| The Nurse · the Come-Home · Plumb-bob · Pool-Child | A Mother's War-Made carrier · a double · the Plumb's marking instrument · a lesser fey of still water | Lore - Hearth and Threshold; Lore - The War-Made | `needs crunch` |
+| The Nurse · the Come-Home · Plumb-bob · Pool-Child | A Mother's War-Made carrier · a double · the Plumb's marking instrument · a lesser fey of still water | Lore - Hearth and Threshold; Lore - The War-Made | Statted (ruleset, Bestiary) |
 
 ---
 
@@ -721,25 +730,25 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - Low Moons hazards
 - Wyvern-Hide Banner
 - Brine-Fire
-- Firearms and powder; whether Company officers carry guns
+- ~~Firearms and powder~~ — statted (Hardware); bench powder needs the recipe (2026-11-14). Whether Company officers carry guns still open
 - Guild licence and powder prices
 - Shop-charter prices, stamp-rent rates and Guild rates
 - Business ownership / downtime: the guild-business vs deed-business split
 - Whether Tuwal Ghorun's warships mount powder guns
-- ~~Fey and hag stat blocks~~ — **hags and Wretches statted 2026-10-02**; other fey still open
-- Hearth and Threshold: stat blocks for the Nurse, the Come-Home, the Plumb-bob and the Pool-Child; ~~whether Last Rites can be given at a grave after burial~~ **yes, in the ruleset 2026-11-14** (a Hedge Featherfall is **not** Last Rites — TheTao) (full list in Lore - Hearth and Threshold § Crunch)
+- ~~Fey and hag stat blocks~~ — **hags and Wretches statted 2026-10-02**; the Pool-Child statted; other fey still open
+- Hearth and Threshold: ~~stat blocks for the Nurse, the Come-Home, the Plumb-bob and the Pool-Child~~ — all statted (Bestiary); ~~whether Last Rites can be given at a grave after burial~~ **yes, in the ruleset 2026-11-14** (a Hedge Featherfall is **not** Last Rites — TheTao) (full list in Lore - Hearth and Threshold § Crunch)
 - ~~Hag uprooting at the Low Moons~~ — statted 2026-10-11; what a coven can change beyond protecting its mother still open
 - ~~Tidespoken casting (Thalass's Omen)~~ — in the ruleset (Domain of Sea & Storms)
-- Crooked Coin luck: distortions of luck repaid as later disappointment, the Mocking Voice, disillusionment, and the Binding Oath (full list in The Cult of the Crooked Coin § Rules Flags)
-- Corvus: the Ash-Blight as a hazard; Dust-Wretches at the Low Moons; Undertow entities still in the deep valleys; the raven seal as proof (full list in Duchy of Corvus § Rules Flags)
+- Crooked Coin luck: ~~distortions of luck repaid as later disappointment, the Mocking Voice~~ (Reversal; the Mocking Voice statted); disillusionment and the Binding Oath still open (full list in The Cult of the Crooked Coin § Rules Flags)
+- Corvus: ~~the Ash-Blight as a hazard; Dust-Wretches at the Low Moons~~ (ash-choked air; the Low Moons switches); the acid water, Undertow entities still in the deep valleys, and the raven seal as proof still open (full list in Duchy of Corvus § Rules Flags)
 - Stonereach: Sun-Iron; mountain travel, winter-closed passes and storm-right; dwarven undoing-works (full list in Duchy of Stonereach § Rules Flags)
 - Valerius: Debt-Bonds and the Crock as a buy-out; free salt as a smuggled good; salt's trade value (full list in Duchy of Valerius § Rules Flags)
 - Aerthos: bound tenancy as a status; food supply and famine (Grainlock); barge travel and the Nine Sisters (full list in Duchy of Aerthos § Rules Flags)
 - De Vonce: the lance as a unit; the Blooding's mark; High-Steel refining and supply; the Undertow-touched weapons in the upper Sisters; war-bone wrack; elven-blooded ageing (full list in Duchy of De Vonce § Rules Flags)
-- Regional cults: the Iron Horizon's removed doubt and no-retreat cost; the Rime-Fang's slowing, lost warmth, and eating unanchored wrack; the Ashen Veil's ending effects, the Long Carry against Wretch stat blocks, and a current with no cost (full lists in each cult note § Rules Flags)
-- Weeping Martyr healing: wound/pain transfer, the hidden cost in the patient's years and vigour, the healer's longevity, the Taking-On, the golden tears as a tell (full list in The Cult of the Weeping Martyr § Rules Flags)
+- Regional cults: ~~the Iron Horizon's removed doubt and no-retreat cost~~ (Holding); ~~the Rime-Fang's lost warmth~~ (Cold to the Touch); ~~the Long Carry against Wretch stat blocks, and a current with no cost~~ (the Wretch; the Quiet Keeps a Place). Still open: the Rime-Fang's slowing and eating unanchored wrack; the Ashen Veil's ending effects (full lists in each cult note § Rules Flags)
+- Weeping Martyr healing: ~~wound/pain transfer, the hidden cost in the patient's years and vigour~~ (Mercy prayers; Greys); the healer's longevity, the Taking-On, the golden tears as a tell still open (full list in The Cult of the Weeping Martyr § Rules Flags)
 - ~~**Terminology:** *god-shard* → **wrack**, *god-essence* → **essence**~~ — ruleset aligned 2026-10-11
-- Settlement Tiers
+- ~~Settlement Tiers~~ — in the ruleset (Soothing the Soul, §2), matching the Name Tables
 - Faction power levels (every faction is currently "not defined")
 
 ---

@@ -56,7 +56,7 @@ The Mother fed on those who loved her, and the war gave her more selves to feed 
 
 ### The Two-Faced: the doubles
 The Two-Faced fought on both sides. Its makings did too.
-- **The doubles** were perfect reflections of one soldier each, sent to take that soldier's place in the line — and then to break it, or hold it, depending on which side had asked. A double wears its original's face, voice, scars and memories.
+- **The doubles** were perfect reflections of one soldier each, sent to take that soldier's place in the line — and then to break it, or hold it, depending on which side had asked. A double wears its original's face, voice, scars and memories — mirrored, as a reflection is (see [[Lore - Hearth and Threshold]]).
 - **After the war,** the doubles that survived went on wearing someone. A double that has lived someone's life long enough believes it is them, and so does everyone who knows it. Somewhere on the coast there are families with one at the table.
 - **What people say:** changeling stories, and the old rule never to let a stranger see you in a mirror before they have told you their name. The glass-readers (see [[Lore - Arcana]]) would very much like to meet one.
 
@@ -82,4 +82,4 @@ The Two-Faced fought on both sides. Its makings did too.
 ## 🔗 Related
 [[Cosmology - The Celestial Graveyard and The war of Creation]] · [[Cosmology - The Tideways]] · [[Lore - Likenesses and Dreads]] · [[Lore - Hags]] · [[Lore - Wretches]]
 
-**Crunch:** Malaphar, the Frost-Cave Troll, the Goblin Scrapper and the Orc Line-Breaker have rules in the Iron & Marrow ruleset (Bestiary). Measurers, siege-chimeras, leviathans, nurses and doubles are `needs crunch`. Per the canon tracker's siloing rule, this note does not restate any of them.
+**Crunch:** Malaphar, the Frost-Cave Troll, the Goblin Scrapper and the Orc Line-Breaker have rules in the Iron & Marrow ruleset (Bestiary). The Measurer, the Nurse and the Come-Home (a double) have stat blocks too. Siege-chimeras and leviathans are still `needs crunch`. Per the canon tracker's siloing rule, this note does not restate any of them.

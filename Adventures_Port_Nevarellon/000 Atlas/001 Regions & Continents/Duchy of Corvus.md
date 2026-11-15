@@ -43,7 +43,7 @@ Every family in the Sunken Ward tells it the same way:
 > **GM-facing — the temple and the door.**
 > **The temple.** House Corvus's wealth came from wrack mined deep under Corvus Spire, in shafts cut by Ubaraz engineers. In the deepest drift the miners broke into **a temple older than the coast's settlement** — built by a people nobody on Austhal remembers, over the seam where the Undertow runs closest under the rock (the same seam that runs north-east to [[The Inner Sea|the Broken Spires]], and toward which Stonereach's deep drift is now heading — see [[Brekka Stonegraft]]). At its heart stood a **door**: a portal into the Undertow, long dead and long forgotten.
 > **The Undercourt.** What the temple taught made a cult. The house's own deep-works master, **Quintus Corvus** — the Duke's younger brother — gathered it from Corvus miners and Ubaraz engineers. They called themselves the **Undercourt**: a court for what waits below. Their aim was to pull the Undertow up into the Slack Water and remake the material world in its image. The Corvus valley was to be the **beach-head**.
-> **The war.** At the Low Moons of ~6 A.A., when everything essence-touched loosens, the Undercourt opened the door. What came through made the valley its foothold and fought outward from it for two years, with the cult as its guides.
+> **The war.** At the Low Moons of ~6 A.A., when everything essence-touched loosens, the Undercourt opened the door. What came through made the valley its foothold and fought outward from it for two years, with the cult as its guides. It was one of **the vast ones** — a Weaponizer instrument sunk into the Undertow and still carrying its orders — up out of its Wreck (see [[Lore - The War-Made]]; [[Cosmology - The Tideways]]).
 > **The Seven.** At the next Low Moons, ~8 A.A., seven went down through the Spire's deep works to the temple: **Duke Hadrian Corvus** himself, who knew his own house had opened the door; **Dorrun Halt-Adze**, who had cut the shafts; **Marren Loweb**, who could read the temple's script well enough to know the door could not be shut from this side; and **Corran Ossius, Maryn Aske, Tamsin Vole and Hallam Drey**, to get them there. Dorrun did what a dwarven work is built to allow (see [[Granite Spire]]): he brought the mountain down on the temple. None of the Seven came back.
 > **Buried, not closed.** The door is under Broken Ward, beneath millions of tons of rock, and **at every Low Moons it strains**. The Dust-Wretches walk further and the Scar's deep valleys stir. [[High Captain Marco]] has noticed the pattern in his map-room and cannot explain it. The next Opening-season Low Moons falls around 59 A.A.
 > **The mirror.** The Fourth's breach opened "where the grandest house stood" (see [[Reference - The Wondrous Markets]]). The Fourth has no temple like this one. **TheTao's direction (2026-10-08):** its breach may be an attempt to *rebuild* one, or something else entirely — a narrative still to be supplied.
@@ -133,8 +133,8 @@ Fifty years on, the Corvus refugees and their children are the underclass of [[T
 
 ## 🎲 Rules Flags (for when the ruleset is integrated)
 *Not carried over.*
-- **The Ash-Blight** as a hazard: blight-lung, the acid water.
-- **Dust-Wretches** are already statted in the ruleset. Check their Low Moons behaviour against the buried door.
+- ~~**The Ash-Blight** as a hazard: blight-lung, the acid water.~~ **Resolved** — ash-choked air is a severe condition in the ruleset (Iron World); the acid water is still open.
+- ~~**Dust-Wretches** are already statted in the ruleset. Check their Low Moons behaviour against the buried door.~~ **Resolved** — GM Tools, *the Low Moons*: the dead do not stay down, and what is buried strains.
 - **Undertow entities** — what came through in 6 A.A., and what may still be in the deep valleys.
 - **The raven seal and the Register entry** as proof — narrative, unless the ruleset models legal claims.
 

@@ -32,6 +32,7 @@
 
 ## ⚱️ Practice
 - **Featherfall** — the coast's common burial. Feathers on the grave and no words from the keeper. The mourners may speak once the keeper has gone.
+- **Last Rites.** Featherfall buries the dead; Last Rites settles them. Only a priest of the Veil can give the rite, and the Veil has fewer priests than graves. The rite can be given at the grave afterwards if the priest knows whose grave it is, which is the whole reason for the carved name, and for the Post-Walk.
 - **The Quiet Hour** — a citywide silence once a year. Even the Basin cranes stop, because the stevedores stop them. Nobody ordered it, and the Council could not.
 - **The Pauper's Procession** — the free mass burial of the Sunken Ward's unclaimed dead, carried out through the Slips to the pits beyond the wall. Free, always.
 - **The Long Carry** — into the Scar, where no lawful road runs: lay a Dust-Wretch down and carry the body out past the blight-line, to fire or dry earth. The Veil say every Carry finishes the work Maryn Aske went down to begin (see [[Duchy of Corvus]]).
@@ -45,10 +46,10 @@
 > **It sided with the Alliance**, and for the same reason as the Mother — self-interest — but without her appetite. The Sphere never ended anything; the mortal world does little else (see [[Cosmology - The Celestial Graveyard and The war of Creation]]).
 > **What the current does:** it ends what is already ending, gently. A fever breaks, a fight goes out of a room, a fire sinks down, and a place's grip on a Wretch lets go. It does not kill.
 > **What it takes: nothing.** It is the only current on the coast that asks no price of its faithful — no years, no doubt, no warmth. The Quiet has never needed anything from anyone. It only waits — and it **keeps a place for its faithful**. A Veil-priest who leans on it too long finds the fight going out of them at odd moments, and walks with their own end a little nearer than other people's. Nothing is taken. Something is simply expected.
-> **The Long Carry** works, and the Veil are wrong about why. What the Scar kept was not a spirit but the death itself: the thirst and the choking. The Carry ends it. **Nothing goes up to the High Reach**, because nothing of the person was left to go. The Wretch stops being thirsty. That is all, and it is enough.
+> **The Long Carry** works, and the Veil are half right about why. What the Scar kept was the death, not the soul: the thirst and the choking. The soul went on its Going-Out in 8 A.A., like every other. The Carry ends the place's grip, and the Hungry Grave loses what it was holding. The Wretch stops being thirsty. **As for the dead going up:** some rise and some sink, each by its own weight. The Veil's own faithful do neither. The Quiet keeps them at the turn (see [[Cosmology - The Celestial Graveyard and The war of Creation#⛵ The Going-Out: What Happens to the Dead|The Going-Out]]).
 > **Vael** was real, and he is the oldest paragon on the coast: a grave-keeper of the aftermath of the War of Creation, who buried what it left. His signs came over the Broken Ocean with the settlers (see [[History - The Broken Crown of Austhal]]).
 > **The Martyr.** The Veil's unease about the Weeping Martyr's elders is the current's. Those elders are kept past their ending by the Mother, and the Quiet feels them the way a grave-keeper feels a grave dug too shallow. The Veil have never said why, because they do not know (see [[The Cult of the Weeping Martyr]]).
-> **The mote** is the irony: the death-cult is the one faith on the coast whose current takes nothing, and whose faithful do their work for nothing.
+> **The mote** is the irony: the death-cult is the one faith on the coast whose current takes nothing, and whose faithful do their work for nothing. And the grave-books they keep for nothing are what bring a pauper to the Plumb's measure whole (see [[Cosmology - The Celestial Graveyard and The war of Creation#⛵ The Going-Out: What Happens to the Dead|The Going-Out]]).
 
 ---
 
@@ -83,9 +84,9 @@
 ## 🎲 Rules Flags (for when the ruleset is integrated)
 *Not carried over.*
 - **Ending effects:** breaking a fever, calming a fight, dampening a fire, laying a Wretch down. Where is the line between *ending what is already ending* and killing?
-- **The Long Carry** against the Wretches' stat blocks: does a Wretch laid down where it died rise again, and when?
+- ~~**The Long Carry** against the Wretches' stat blocks: does a Wretch laid down where it died rise again, and when?~~ **Resolved** — it rises at the next Low Moons unless carried off its ground or given Last Rites (ruleset: Bestiary, *The Wretch*; GM Tools, *the Low Moons*).
 - ~~**No cost:** the Quiet's current takes nothing from the faithful. Check this against the balance of the other faiths' casting.~~ **Resolved 2026-10-11** — in the ruleset the Quiet's price is waiting, not taking (Domain Prices, *The Quiet Keeps a Place*).
-- **Faith-casting** under the Religion note's *Faith protects the mind; invoke the saint's deed* rule.
+- ~~**Faith-casting** under the Religion note's *Faith protects the mind; invoke the saint's deed* rule.~~ **Resolved** — Faith is borrowed authority, paid for in the body (ruleset, Embracing the Abyss, *Faith*).
 
 ---
 

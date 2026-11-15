@@ -24,6 +24,7 @@
 - **Kaelen** was a matriarch from the deepest winters of the north. She hunted a **winter-drake** with an iron spear and her bare teeth, and lived. Then she outlived the winter, her clan and her children. *The Survivor* is not a compliment, and the Fang-mothers do not say it like one.
 - **The rule of the hunt.** A hunter never eats her own kill. The Fang-mothers say Kaelen ate hers, and gave the rule so that nobody would have to be the Survivor again.
 - **The cold is not cruel.** It is only there. The Wilds do not hate you and will not spare you, so you survive them together or not at all.
+- **The wolf.** When the faithful pray, the old wolf-spirit answers: a white wolf of frost out of the prayer's shadow, whose hide the Fang-mothers wear. They say it ran with Kaelen, and that is where the faith's name comes from.
 - **Where Kaelen came from:** "the north", over the Spine, the Fang-mothers say. Nobody on the coast has crossed it to check.
 
 ---
@@ -43,6 +44,8 @@
 > **What the current does now** is a little of what the drake did to Kaelen. A devotee in the cold slows: hunger waits, the cold bites less, and a wound frosts over and holds. It does not lengthen life — that is the Mother's trade, not this one (see [[The Cult of the Weeping Martyr]]).
 > **The cost:** it slows their warmth too — their feeling for other people. An old Fang-mother is calm in a way that frightens her grandchildren. The faithful call it hardness. It is the Unmoving.
 > **The mote: the rites outlast the feeling.** The Fang-mothers give the kill away, keep the Notch open and wait at the door on Bare-Teeth Night long after they have stopped feeling why. The carter they dried out at the Notch does not know the difference. Kaelen built a faith that does the right thing when its faithful can no longer feel it.
+> **The wolf-spirit** is the current wearing the shape its faithful expect of it. No wolf ran with Kaelen; the shape grew out of the pelts and the hunting, and the current fills it.
+> **Ghosts.** The Unmoving still pulls on every soul to stay where it stopped. Most go; the ones it holds are the coast's ghosts (see [[Cosmology - The Celestial Graveyard and The war of Creation#⛵ The Going-Out: What Happens to the Dead|The Going-Out]]). Its hoped-for face, **the Enduring**, is the frost-rimed elder at the door who wants a light kept burning through the night.
 > **Kaelen's people.** The Rime-Fang is the one faith the settlers found on the coast rather than brought. Kaelen's people lived in the high Spine long before the settlement; the old families of Sleetfall descend from them, much married into since.
 > **The jaw at the Notch** is war-bone, anchored and inert. It is only bone now, and the cold at the Notch is only the mountain.
 > **The Tidespoken** would call the Unmoving the refusal of the tide if they knew of it (see [[The Tidespoken Clergy]]). They do not go into the passes.
@@ -79,9 +82,9 @@
 ## 🎲 Rules Flags (for when the ruleset is integrated)
 *Not carried over.*
 - **The slowing:** resistance to cold, hunger and exposure for a devotee who invokes Kaelen; wounds that frost over and hold.
-- **The cost:** the loss of warmth — an emotional or social cost over time. Is it tracked, a GM call, or narrative only?
+- ~~**The cost:** the loss of warmth — an emotional or social cost over time. Is it tracked, a GM call, or narrative only?~~ **Resolved** — the Winter & Wilds Domain Price: **Rigor**, and **Cold to the Touch**; its lasting mark is "a little less feeling for someone they love" (ruleset, Embracing the Abyss).
 - **Ice and wind** as prayer manifestations.
-- **Faith-casting** under the Religion note's *Faith protects the mind; invoke the saint's deed* rule.
+- ~~**Faith-casting** under the Religion note's *Faith protects the mind; invoke the saint's deed* rule.~~ **Resolved** — Faith is borrowed authority, paid for in the body (ruleset, Embracing the Abyss, *Faith*).
 - **Eating unanchored wrack:** what it does to anyone else fool or desperate enough to try.
 
 ---

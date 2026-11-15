@@ -43,6 +43,7 @@
 > **The miracle.** A Weeper does draw the wound and the pain into herself, and she does suffer it. But the current takes more than pain. It also takes **years and vigour** from the healed and passes them to the healer. The patient walks away whole, a little older, a little greyer, with a slightly shorter life that nobody measures. The **golden tears** are that life passing between them. The elders' long lives are not a reward; they are what was taken.
 > **Elara.** Elara found the current — perhaps through a shard of wrack in the bay-head silt — and walked into the quarantine and fed. The plague broke because she emptied it: the dying went quickly, and the living walked out healed and grey.
 > **The Taking-On** is the current at full appetite. When a Weeper survives one, someone paid in years for that survival — usually the sufferer, sometimes everyone at the bedside.
+> **At the line.** The Mother waits where the dead cross. A soul she has fed on — every Weeper, and everyone a Weeper has healed — can be taken there before it reaches the measure, and it goes nowhere but into her (see [[Cosmology - The Celestial Graveyard and The war of Creation#⛵ The Going-Out: What Happens to the Dead|The Going-Out]]). The **Greys** a patient carries mark the heavy takings; the small ones go unmeasured.
 > **Who knows.** Almost no one. Most Weepers believe every word of what they teach. The ones who have done the arithmetic on the elders' ages have kept it to themselves.
 
 > **GM hook — Mother Elara.** Her body was never recovered. Whether she died — and if she did not, where a woman who has been taking years since the reign of the kings is now, and what she looks like — is the cult's best-kept secret, kept even from the cult. The Eldest Mother is the obvious suspect, and possibly the wrong one.
@@ -70,7 +71,7 @@
 
 ## 🧱 Layer & the Five Fields
 **Layer 3** in Port Nevarellon.
-- **Chokepoint:** healing that works. It is the only kind in the city that does, and it is free below the toll-gates.
+- **Chokepoint:** healing that works, given at scale. Any priest can close a wound; only the House heals the Docks by the hundred, and it is free below the toll-gates.
 - **Enforcement:** gratitude. A Docks crowd will turn on anyone who touches a Weeper.
 - **Geographic anchor:** the House of Mercy in the Artisan Quarter; Elara's Steps on the mudflats.
 - **Bypass:** the Guild's physic, for those who can pay; the Tidespoken's kitchens, for those who only need feeding; doing without.
@@ -80,12 +81,12 @@
 
 ## 🎲 Rules Flags (for when the ruleset is integrated)
 *Not carried over. These need checking against the Iron & Marrow ruleset.*
-- **The laying-on:** wound, disease and pain transfer from patient to healer — how damage, conditions or stress move between two characters.
-- **The hidden cost:** years and vigour taken from the patient. Does the ruleset track age, lifespan or long-term vitality? If not, does this stay purely narrative?
+- ~~**The laying-on:** wound, disease and pain transfer from patient to healer — how damage, conditions or stress move between two characters.~~ **Resolved** — the Mercy prayers (ruleset, Manipulating the Void: *Elara's Burden* and its kin).
+- ~~**The hidden cost:** years and vigour taken from the patient. Does the ruleset track age, lifespan or long-term vitality? If not, does this stay purely narrative?~~ **Resolved** — **Greys** (ruleset, Iron Core), paid through the Mercy Domain Price.
 - **The hidden gain:** the healer's longevity, and the elders' vigour — NPC stat implications.
 - **The Taking-On:** full transfer of a lethal affliction; what decides whether the Weeper survives, and what it costs the bystanders.
 - **The golden tears:** a visible tell. Can a character notice what is passing, and with what check?
-- **Faith-casting in general:** how Martyr prayers sit against the Religion note's *Faith protects the mind; invoke the saint's deed* mechanic.
+- ~~**Faith-casting in general:** how Martyr prayers sit against the Religion note's *Faith protects the mind; invoke the saint's deed* mechanic.~~ **Resolved** — Faith is borrowed authority, paid for in the body (ruleset, Embracing the Abyss, *Faith*).
 - **Interactions:** hag-work also alters flesh for a price, and a hag can take *years* too. Keep the difference legible: a hag names her price and the customer agrees to it; the Martyr's current takes years and vigour unseen, from someone who never agreed.
 
 ---

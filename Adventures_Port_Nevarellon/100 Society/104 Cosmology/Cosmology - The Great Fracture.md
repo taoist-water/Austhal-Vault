@@ -75,4 +75,4 @@ Not all the essence that settled in the Slack Water hardened into wrack. Where i
 
 Where hags root, how they move, what they ask in payment and who hunts them: see [[Lore - Hags]]. What the land keeps of the people it kills: see [[Lore - Wretches]].
 
-> *Crunch exists — hag statblocks and the Hag's Work Pursuit are in the Iron & Marrow ruleset. Other fey are still `needs crunch`.*
+> *Crunch exists — hag statblocks and the Hag's Work Pursuit are in the Iron & Marrow ruleset. So is the Pool-Child. Other fey are still `needs crunch`.*

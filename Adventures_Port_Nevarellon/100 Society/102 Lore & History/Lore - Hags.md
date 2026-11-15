@@ -80,4 +80,4 @@ A hag beaten to her knees does not beg; she **names her price**. A true answer, 
 ## 🔗 Related
 [[Lore - Wretches]] · [[Cosmology - The Great Fracture]] · [[Morgran the Abomination]]
 
-**Crunch:** hags, coven-mothers and Hag's Work have rules in the Iron & Marrow ruleset (Bestiary; Soothing the Soul). Per the canon tracker's siloing rule, this note does not restate them. Hags uprooting during the Low Moons, and what a coven can do beyond its mother's protection, are `needs crunch`.
+**Crunch:** hags, coven-mothers and Hag's Work have rules in the Iron & Marrow ruleset (Bestiary; Soothing the Soul). Per the canon tracker's siloing rule, this note does not restate them. Uprooting during the Low Moons is in the ruleset (GM Tools, the Low Moons). What a coven can do beyond its mother's protection is still `needs crunch`.

@@ -36,9 +36,10 @@
 
 > **GM-facing — what the Coin really is.**
 > **The Two-Faced.** The Domain of Trickery is the remains of the Creator of **reflection**. In the Sphere it showed every being itself. When individuation came, mortals hated what it showed them; in the Naming they called it the Liar, and the Naming made it so. With an ego of its own, it could not bear what it saw in *itself* either, so it lied — to others first, and then to itself, which is the lie that matters. What it refused to see split away and kept the old function: the truth, delivered only as mockery. **Two faces bound like a coin:** the **Mask**, which lies, flatters and promises; and the **Mocking Voice**, which tells the truth and laughs while it does it. In the War of Creation it fought on **both sides** (see [[Cosmology - The Celestial Graveyard and The war of Creation]]).
-> **What the current does.** It does not help you fool other people. It makes **the lie you tell yourself** briefly true — the die lands, the creditor forgets, the guard looks away, because you believed hard enough. Then the bill comes due as **disappointment**: the luck turns, and it always collects. Nobody swindles their way past the pain; they only defer it.
+> **What the current does.** It fools other people only by way of you: first you must believe the lie. It makes **the lie you tell yourself** briefly true — the die lands, the creditor forgets, the guard looks away, because you believed hard enough. Then the bill comes due as **disappointment**: the luck turns, and it always collects. Nobody swindles their way past the pain; they only defer it.
 > **The laughter** the faithful hear is the Mocking Voice, and it is not laughing at authority. It is laughing at them, and it is telling them the truth: *you are lying to yourself; you want to be a prophet.*
 > **Rook's Folly** was Rook's own. He believed he was beating the empire; the current was using him, and he was its greatest dupe. The faithful have been grinning at the wrong joke for centuries — and their first teaching, *never believe your own coin*, is the one true thing the cult says.
+> **The passage.** The Two-Faced works the Going-Out too: it lies to souls about their own weight, shows the Plumb a reflection in place of a soul, and has misfiled more of the dead than anything else in the Tideways. It is also the only thing that has ever got one out again (see [[Cosmology - The Celestial Graveyard and The war of Creation#⛵ The Going-Out: What Happens to the Dead|The Going-Out]]).
 > **The mote.** Disappointment is also the way out. A devotee who finally sees through their own lie is free of the current — and for the first time sees clearly what everyone else is lying about. The coast has a handful of these people. They make very good investigators and very poor company.
 
 ---
@@ -71,8 +72,8 @@
 ## 🎲 Rules Flags (for when the ruleset is integrated)
 *Not carried over. These need checking against the Iron & Marrow ruleset.*
 - **"Localized distortions of luck"** (the Religion note): how a Crooked Coin prayer bends a roll or an outcome.
-- **The deferred cost:** luck borrowed is repaid as a later reversal. Is that a tracked debt, a GM tool, or narrative only?
-- **The Mocking Voice:** can a character recognise the laughter for what it is, and with what check?
+- ~~**The deferred cost:** luck borrowed is repaid as a later reversal. Is that a tracked debt, a GM tool, or narrative only?~~ **Resolved** — the Trickery Domain Price, **Reversal** (ruleset, Embracing the Abyss).
+- ~~**The Mocking Voice:** can a character recognise the laughter for what it is, and with what check?~~ **Resolved** — the Mocking Voice has a stat block (ruleset, Bestiary).
 - **Disillusionment:** a devotee freed of the current — a state with mechanical weight (seeing through deception) or purely narrative?
 - **The Zenith's Binding Oath:** does an oath sworn over the Register hold against someone the Two-Faced is helping to lie to themselves?
 

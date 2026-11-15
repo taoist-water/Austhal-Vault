@@ -16,7 +16,7 @@ An Arcanist is someone who has pieced enough of those fragments together to make
 
 ## 🪨 The fragments
 Practitioners learn from whatever survived. They prize the fragments themselves almost as much as what can be learned from them.
-- **Inscriptions.** Tablets, carved lintels, the margins of ruins. The oldest are elven, and the elves who could read them are mostly dead. **Marren Loweb**, one of the Seven, could read the script in the temple under Corvus Spire well enough to know the door could not be shut from this side (see [[The Five Duchies of the Whispering Coast]]).
+- **Inscriptions.** Tablets, carved lintels, the margins of ruins. The oldest are elven, and the elves who could read them are mostly dead. **Marren Loweb**, one of the Seven, could read the script in the temple under Corvus Spire well enough to know the door could not be shut from this side (see [[Duchy of Corvus]]).
 - **Paintings.** Diagrams on cave walls and barrow stones, older than writing, copied by candlelight and argued over for generations.
 - **The bones.** The war-bone that Longbarrow ploughs up every spring, and the petrified remains under the city, still bleeding unanchored energy into the stone. A practitioner who can read a bone's grain can sometimes read what it was for.
 - **Quickened pieces.** Wrack that has half-woken. Fey are essence that quickened in still water; these are shards of unanchored wrack that quickened a little and stopped. They turn in the hand, warm to one person and not another, and behave as though they want something. Practitioners call them **quick-things**. They are the rarest fragments and the most argued over, and a practitioner who owns one is rarely the only party with an interest in it.
@@ -53,17 +53,18 @@ Every practitioner's theory is their own, but theories cluster, and the street h
 |---|---|---|---|
 | Astromancy | reckoners | The moons are lamps hung by the makers, and their light still carries the last workings; reckon the angle and you can read it, or borrow it. | Nobody objects. The Guild's observatory does this work under another name. |
 | Pyromancy | burners | Fire is not made but **let out**. Every thing holds a latent fire, and a working opens the door it is kept behind. | The Guild's Searchers. Fire without powder cuts into the powder monopoly: a guild quarrel, not a persecution. |
-| Necromancy | twitchers | The dead keep a **current** in the bone. War-bone keeps the most, and it can be made to run again. | [[The Cult of the Ashen Veil\|The Ashen Veil]], openly. |
+| Necromancy | twitchers | Every bone keeps a **current**, freshest in the newly dead. War-bone keeps the most, and it can be made to run again. | [[The Cult of the Ashen Veil\|The Ashen Veil]], openly. |
 | Transmutation | humourists | Every substance is a balance of humours. Rebalance it and it becomes something else. | [[The Tidespoken Clergy\|The Tidespoken]], who see the hags' trade in it. |
-| Shadow Sorcery | glass-readers | A reflection is a second thing, not a copy, and it can be made to act. | Nobody objects. The [[The Cult of the Crooked Coin\|Crooked Coin]] keeps an eye on the good ones. |
+| Shadow Sorcery | glass-readers | A shadow or a reflection is a second thing, not a copy, and it can be made to act. | Nobody objects. The [[The Cult of the Crooked Coin\|Crooked Coin]] keeps an eye on the good ones. |
 | Demonology & Void | namers | A thing's true name is its handle. Name it rightly and it must answer. | Everyone who remembers Corvus. The one tradition still carrying a stigma. |
 | Witch Magic & Hedge Craft | cunning folk | Like answers like: a root shaped like a hand heals hands, and a likeness can be made to suffer for its original. Much of it was learned from hags, for a price. | The Tidespoken, for the same reason as Transmutation. |
-| Shamanism | — | Not written down. Carried in song and skin-mark by the people of the high Spine, who lived there before the settlers (see [[The Cult of the Rime-Fang]]). Book-learned practitioners envy it and misread it. | Nobody. Few outside the Spine know it exists. |
+| Shamanism | — | Not written down. Carried in song and skin-mark by the people of the high Spine, who lived there before the settlers (see [[The Cult of the Rime-Fang]]). Book-learned practitioners envy it and misread it. Song and skin-mark serve its practitioners as a Grimoire serves anyone else. | Nobody. Few outside the Spine know it exists. |
 
 > **GM-facing.**
 > - **Shadow Sorcery** works because a reflection is still, faintly, the province of the **Two-Faced**, the Creator of reflection (see [[Cosmology - The Celestial Graveyard and The war of Creation]]). Glass-readers do not know this.
 > - **Demonology** works by naming, and naming was the original wound: the Naming gave the nameless entities their identities. The namers are repeating the first crime in miniature, and the Undercourt took it to its end.
-> - **Necromancy's** current is real; it is the essence still bleeding from unanchored war-bone.
+> - **Necromancy's** current is real; it is the essence still bleeding from bone — a little from the newly dead, a great deal from unanchored war-bone.
+> - **The one exception** to the Arcane having nobody on the other end is Shamanism. What the Spine's shamans call spirits are ghosts the Unmoving held, and they answer because they are still there.
 > - **Measurers** count any working, Arcane or Prayer, as something forced off its line, and a spell cast in sight of a dormant one wakes it (see [[Lore - The War-Made]]). Practitioners who work near old ruins learn to look hard at the statues first. Most learn it the other way.
 
 ## ⚖️ The Arcane and the law

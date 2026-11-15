@@ -13,7 +13,7 @@ A Wretch is **what a place keeps** after it has killed someone. Not a curse laid
 A Wretch does not remember being a person. It remembers **being cold, or drowning, or thirsty**, and it walks toward whatever is warm and alive to make the feeling stop.
 
 ## 🗺️ The three the coast knows
-- **Bog-Wretches** — the drowned of the [[Silted Marshes]] and of anywhere else freezing water closes over someone: flooded sluices, tidal mud. Waterlogged, slow, and always in threes and fours.
+- **Bog-Wretches** — the drowned of the [[Silted Marshes]] and of anywhere else water closes over someone: flooded sluices, tidal mud. Waterlogged, slow, and always in threes and fours.
 - **Grave-Wretches** — the frozen dead of the high passes and the barrows, where the winds come down off [[The Jagged Spine]] in the Winter Moons. Frost-cracked; worst in a blizzard.
 - **Dust-Wretches** — the dead of thirst, heat and ash. **They walk the Corvus Scar**, and they are the commonest Wretches on the coast. When Corvus Spire fell in 8 A.A. and the Ash-Blight came down over the valley, it choked everyone it caught, and the Scar kept them (see [[The Five Duchies of the Whispering Coast]]). Sun-split and soot-black, brittle, and they go up like kindling — the one mercy of meeting them. The Scar-Holders who live in its clean pockets know the Dust-Wretches the way marsh-folk know the tide: when they come, how far, and that you do not argue with them.
 

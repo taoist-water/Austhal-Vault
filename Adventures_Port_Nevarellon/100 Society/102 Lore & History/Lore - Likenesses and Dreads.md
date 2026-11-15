@@ -33,9 +33,9 @@ Neither is the Creator, and neither is a god. A Likeness or a Dread is a shape m
 | **The Hungry Grave** | Dread | A digger in a grave too deep for the body | Mass graves, the Scar's edge, unburied dead | The dead kept in the ground. It hates the Long Carry |
 | **The Brine Mother** | Likeness | A woman walking out of the surf | The Sea-Wall, the drowned's Count, a storm the Tongues called | For you to let go of what you are holding |
 | **The Drowning Deep** | Dread | A drowned sailor beckoning from just under the surface | Wrecks, the harbour steps at night, leviathan water | For you to come down |
-| **The Held Line** | Likeness | A soldier who takes the post beside you | Doomed posts, the Relief, Adder's Gate in winter | The post held, whatever it costs |
+| **The Held Line** | Likeness | A soldier who takes the post beside you | Doomed posts, the Relief, Adder's Gate in winter | Relief: someone fresh takes the post and says aloud the name of the one relieved |
 | **The Engine** | Dread | A smith at a forge that is never out, making something with too many edges | Forges, the war-fields, Hollowforge at night | Something built to kill |
-| **The Enduring** | Likeness | A frost-rimed elder at the door on a winter night | The passes, Pilgrim's Notch, Bare-Teeth Night | For you to last until morning |
+| **The Enduring** | Likeness | A frost-rimed elder at the door on a winter night | The passes, Pilgrim's Notch, Bare-Teeth Night | A light kept burning through the night for whoever is still out in the cold |
 | **The Frost That Stops** | Dread | A still figure in a still room; whoever it looks at slows | Blizzards, the high Spine, anyone freezing alone | Everything to stop where it stands |
 | **The Judge** | Likeness | A robed figure in the gallery when a true verdict is given | The Plumb Court, a sworn oath, a reckoning | The true measure, given and heard |
 | **The List** | Dread | A clerk reading names aloud. Each name read is marked | Debtors' courts, the hulks, a ledger opened at night | Every name read, and every one found wanting |
@@ -71,4 +71,4 @@ What was never Named has no shape that mortals gave it, and never takes one.
 ## 🔗 Related
 [[Cosmology - The Celestial Graveyard and The war of Creation]] · [[Cosmology - The Tideways]] · [[Lore - The War-Made]] · [[Religion - The Pagan Pantheon and the Faith Domains]]
 
-**Crunch:** Likenesses, Dreads and Elementals are `needs crunch` for the Iron & Marrow ruleset, along with a possible **Named** Creature Type. Per the canon tracker's siloing rule, none of it is restated here.
+**Crunch:** Likenesses and Dreads have stat blocks in the Iron & Marrow ruleset (Bestiary), under the **Named** Creature Type. Elementals are still `needs crunch`. Per the canon tracker's siloing rule, none of it is restated here.

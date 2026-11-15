@@ -28,6 +28,7 @@
 > **What the current does.** It moves things on — a wave, a storm, a hull off a sandbar, a body out past the Sea-Wall. It does not destroy for its own sake. It carries.
 > **Why the Tongues hate still water.** The fey are essence that pooled where the Ebb could not reach: a hag is the thing that got away from it. A Wretch is a place refusing to let it take its dead. The Tidespoken doctrine is the current's own grudge, worn as faith.
 > **What it takes: whatever you hold.** A devotee's grip loosens — on coin, then title, then a home, then people. Nothing is stolen; it drifts. Old Tongues own nothing and are close to no one, and the Eldest speaks until the sea takes them because, in the end, they walk into it. The clergy's refusal of title is not a vow. It is the current, and the vow came after.
+> **The river of the dead.** The Ebb's Run is also the ferry of the Going-Out: every soul goes out on it and pays it whatever it holds. The Tongues give their drowned to the ebb, and are closer to right than anyone on the coast. **The Count** is a record the Plumb measures against: nobody named from the Sea-Wall comes to the measure less than they were (see [[Cosmology - The Celestial Graveyard and The war of Creation#⛵ The Going-Out: What Happens to the Dead|The Going-Out]]).
 > **The mote.** What slips from a Tongue's hands goes somewhere, and it goes in the pot. The kitchens are the current's price turned into bread: the clergy cannot keep anything, so they feed people with it.
 
 ### Thalass: the wave that broke the crown
