@@ -22,11 +22,16 @@ Not resolved. Do not implement without explicit confirmation of direction first 
 
 ---
 
-## Permanent injuries/mutations/diseases system (raised 2026-09-14)
+## Permanent injuries/diseases system (raised 2026-09-14; mutations resolved 2026-11-16)
 
-Needed to properly resolve Apex Chimera's (Biomancer, Tier 3) Fumble clause: "the transformation destabilizes, resulting in a permanent, gruesome physiological penalty (GM's discretion)." Currently just GM fiat with no mechanical shape. Worth a real design pass rather than a single-feat fix — a proper system here would also give teeth to any other "permanent consequence" clause elsewhere in the corpus.
+**Mutations: resolved.** See Iron Core, *Mutation (What the Wrack Leaves)*: one list with three ways in (Hag's Work, Seep, Rewritten). Apex Chimera's Fumble now points there, and De Vonce's bread and Morgran are covered. Twelgorn's Blessing (a Reach-touched change) stays NPC-only for now.
 
-- **Lore that needs it (2026-11-16):** De Vonce's bread. Grain from Longbarrow's bleeding fields carries a slow risk of mutation for anyone who eats it, over years (Duchy of De Vonce, the war-bone). Also Morgran's Undertow-touched change and Twelgorn's Reach-touched Blessing. Until the system exists, GM fiat.
+**Still open:**
+- **Permanent injuries.** Anatomical Nihilism (The Marrow, Tier 3) "permanently disable[s] one of the target's limbs or sensory organs (GM's discretion)" and is still GM fiat. Nothing gives a PC a lasting injury short of death.
+- **Diseases.** Purify and its communal counterpart cure "disease", but no disease is defined anywhere. A disease system should key off those two prayers.
+- **Quick Flesh** (Mutation Table) touches Tend to the Flesh; revisit it with the healing redesign.
+
+Not resolved. Do not implement without explicit confirmation of direction.
 
 ## Per-turn Momentum-spend cap (raised 2026-09-14)
 

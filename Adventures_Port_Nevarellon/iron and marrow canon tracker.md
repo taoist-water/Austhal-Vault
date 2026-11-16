@@ -14,6 +14,20 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-11-16 — Mutations (ruleset)
+- **New ruleset section: Iron Core, *Mutation (What the Wrack Leaves)*.** It went through the rules pipeline (drafter, breaker, continuity). One d12 **Mutation Table**, with three ways in:
+  - **Hag's Work:** bought and chosen; costs a shard, Attunement and a Price; the bearer counts as Fey.
+  - **Seep (TheTao's ruling):** a flat 2d6 with no modifier; **Snake Eyes is a mutation**, and the wrack that caused it is consumed. Rolled once a year for war-ground grain (about 1 in 4 eaters changed after ten years, 2 in 5 after twenty, a little over half after thirty), at each Long Rest after handling wrack with bare skin (leather gloves or a wrapping prevent it), and each night on war-ground at the Low Moons. Eating wrack is a mutation outright, rolled at Disadvantage.
+  - **Rewritten:** accidents; Apex Chimera's Fumble rolls 1d6.
+- **What a rolled mutation costs** (TheTao: no Locked Stress; the narrative and social cost is enough): its own Mark, counting as Mutant, and being Seen. Being **Seen** worsens a settlement's stance one step. That applies to any visible mutation, Works included, and a Hostile settlement acts instead. **Only a hag can undo one**, for a shard and a Price; prayer, Purify and alchemy cannot. The **Fourth Change** loses the character unless a hag is reached by the end of the next Downtime.
+- **Hag's Work** now draws its six Works from the Mutation Table. A GM-authored Work holds one Effect per Attunement Slot. **Amphibious** joins the Trait Manifest, and Gill-Throat grants it. Purify and GM Tools (Low Moons switch 5) point to the new section.
+- **Lore follows:**
+  - **Morgran** gains a GM line. His change is one Work in three slots, and the way back exists, though he believes it doesn't.
+  - **De Vonce:** "Most never do" becomes "Most go years without it" to fit the yearly rate. The Weepers question is answered: they cannot heal it.
+- **Lore–rules notes (blend rule):** De Vonce's "a child born wrong" has no player rule; the section allows it as a GM call for NPCs (both sides logged here). The Mutant Bane (Quicksilver-Traced Edge, Rare) is harder to get than the Fey Bane (Cold Iron, Scarce); left as is, flagged for a pricing pass. A Mutant NPC template does not exist yet.
+  - **The design backlog:** mutations resolved; injuries and diseases still open.
+- **Pipeline agents updated to the blend rule:** rules-drafter, rules-breaker and continuity-auditor no longer say rules and worldbuilding are kept apart.
+
 ### 2026-11-16 — Housekeeping
 - **The Rusty Tankard stands just outside the Basin's Toll Gates**, not inside them. The Basin admits the Un-Landed only by day with a token, and the Tankard's Un-Landed keeper, residents and drinkers (Kaleb, Maccorrack, Lidda, the night brawls) need it outside. Its labourers now drink before the token-call and after the curfew bell. The cellar drain still runs under the Basin's walls, which makes it a way in past the checkpoint. Supersedes "the Tankard is in the Basin" (2026-11-15 entry).
 - **The Celestial Graveyard's war diagram** names the seven Creators by side (no "Creator gods"), lists the War-Made on both sides (carriers; peoples and instruments), and shows the Two-Faced on both.
@@ -725,6 +739,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Great Named · Lesser Named · Named things · the Nameless | The magnitudes of entity; the Nameless never take a mortal shape | Celestial Graveyard | Possible **Named** Creature Type — rules side |
 | Ballast · anchor *(GM-facing)* | Wrack carried to shift a body to a layer (black down, pale up) · a name held by others, which keeps a traveller themselves | Cosmology - The Tideways | `needs crunch` |
 | Shallows · open layers · Wrecks · Unbroken places · the Outer Dark *(GM-facing)* | Near edge of each layer · unshaped essence between the Shares · Undertow ground around a war-made thing · surviving pockets of the Sphere · the Void, where the old death still holds | Cosmology - The Tideways | `needs crunch` |
+| Seep · worked wrack · Rewritten · the Fourth Change | The flat 2d6 exposure roll (Snake Eyes is a mutation) · wrack a hag has worked into flesh (does not Seep) · a mutation from an accident · the fourth rolled mutation, which loses the character | Duchy of De Vonce; Morgran | Ruleset: Iron Core, *Mutation* |
 | Peoples · instruments *(GM-facing)* | War-Made that bred true and lost their purpose · War-Made that never bred and keep it | Lore - The War-Made | — |
 | Measurers · nurses · doubles · siege-chimeras · seam-hounds | The Plumb's · the Mother's · the Two-Faced's · the Bastion's makings (two of them) | Lore - The War-Made | Measurer, Nurse, Come-Home and Seam-Hound statted (ruleset, Bestiary); siege-chimeras and leviathans `needs crunch` |
 | Settlement Tier T0–T3 | Tier measures services, not headcount | Name Tables | **Explicitly "mechanical" — flag for the rules side** |
@@ -806,7 +821,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - **Shamanism and the Grimoire.** Lore: song and skin-mark serve as a Grimoire (Lore - Arcana). Rules: Arcanists need a Grimoire. Pipeline.
 - **Malaphar** — a vast one in the lore, Standard-sized with no bargain in the Bestiary. Pipeline.
 - **Ship passage** at 1 sp a mile against the new scale; **the Naphtha Fire-Flask** against Brine-Fire; **poor lodging** (2 sp) against the Economy note (1–2 cp). Pipeline or a pricing pass.
-- **Mutation from De Vonce bread** has no mechanic. It needs the permanent injuries/mutations/diseases system in the design backlog; until then, GM fiat (Duchy of De Vonce, the war-bone).
+- ~~**Mutation from De Vonce bread** has no mechanic.~~ **Resolved 2026-11-16:** Iron Core, *Mutation* (war-ground grain).
 - **Smaller:** the Grimoire-copying stub (Soothing the Soul); no Salt-Hag Work or shard-free trade in Hag's Work; the Grunt Hag has no Surrender with a price; the Plumb-bob's trigger leaves out a body that has carried black wrack (Hearth and Threshold); the Measurer's "every mortal has strayed" against "a party with nothing strayed can walk past one".
 
 ---

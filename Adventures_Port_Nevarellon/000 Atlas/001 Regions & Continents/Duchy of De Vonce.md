@@ -92,7 +92,7 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 - **Once a year the Weepers walk the mine-towns** and heal for nothing (see [[The Cult of the Weeping Martyr]]). The mine-captains welcome them, because a healed miner goes back down.
 - **People die young in De Vonce,** and everyone knows why: the shafts, the levy, the Winter Moons floods. A good many more simply go — to the city, to the levy, over the river — and are not heard of again. Nobody in the duchy finds that strange.
 
-> **GM-facing — the war-bone.** The bone Longbarrow ploughs up is the petrified remains of the War of Creation (see [[Cosmology - The Celestial Graveyard and The war of Creation]]), and **it is still bleeding**. The war-fields are war-ground, close to the Wrecks (see [[Cosmology - The Tideways]]), and every spring's ploughing turns up more. Ground to meal and spread on the fields, the bone bleeds into them, and that is why they are the richest in the duchy. At the Low Moons, when the moons drag on everything unanchored, the bleeding quickens (see [[Framework - The Coastal Reckoning]]). Some fragments are still wrack outright. Marrowmill's miller sorts those out and sells them, quietly, to the Guild's wrack-assayers. **And the bread does harm.** Grain from the bleeding fields carries the essence into whoever eats it, year on year, and some of them change: a child born wrong, a man whose skin starts to scale at forty. Most never do, and nobody can say who will. The ones who do are killed, by their own village if it can be kept quiet, or they run north over the Adderwater to the Scar-Holders, where nobody keeps a roll and Senna Cade lets them through the ford. In Longbarrow they say *bitten*, and the barrow-wolves take the blame (see [[Lore - Lycanthropes]]). The rest of the duchy calls it hard lives and early graves. The locals who will not eat the bread are right about the bread, and right about the mill.
+> **GM-facing — the war-bone.** The bone Longbarrow ploughs up is the petrified remains of the War of Creation (see [[Cosmology - The Celestial Graveyard and The war of Creation]]), and **it is still bleeding**. The war-fields are war-ground, close to the Wrecks (see [[Cosmology - The Tideways]]), and every spring's ploughing turns up more. Ground to meal and spread on the fields, the bone bleeds into them, and that is why they are the richest in the duchy. At the Low Moons, when the moons drag on everything unanchored, the bleeding quickens (see [[Framework - The Coastal Reckoning]]). Some fragments are still wrack outright. Marrowmill's miller sorts those out and sells them, quietly, to the Guild's wrack-assayers. **And the bread does harm.** Grain from the bleeding fields carries the essence into whoever eats it, year on year, and some of them change: a child born wrong, a man whose skin starts to scale at forty. Most go years without it, and nobody can say who will. The ones who do are killed, by their own village if it can be kept quiet, or they run north over the Adderwater to the Scar-Holders, where nobody keeps a roll and Senna Cade lets them through the ford. In Longbarrow they say *bitten*, and the barrow-wolves take the blame (see [[Lore - Lycanthropes]]). The rest of the duchy calls it hard lives and early graves. The locals who will not eat the bread are right about the bread, and right about the mill.
 
 ---
 
@@ -159,7 +159,7 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 - **The Blooding:** does the Shard-Blade's cut leave a mark with mechanical weight?
 - **High-Steel:** refining, price, and what Coldhelve can supply.
 - **The Undertow-touched weapons** being tested in the Sisters, and their behaviour at the Low Moons.
-- **War-bone:** the bleeding fields — wrack in the bone-meal (wrack-assay), what the Low Moons do on war-ground, and **the bread's risk of mutation** (design backlog: the mutations system).
+- **War-bone:** the bleeding fields — wrack in the bone-meal (wrack-assay), what the Low Moons do on war-ground, and **the bread's risk of mutation** (ruleset: Iron Core, *Mutation* — war-ground grain).
 - **Elven-blooded ageing:** Tythius, and his quarter-elven children.
 
 ---
@@ -167,7 +167,7 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 ## ❓ Open Questions
 - **Where did the Arcanist learn it?** He made the weapons; who taught him is in his Grimoire or his correspondence (see [[The Guild of Alchemists]]).
 - **The Arcanist's letters:** who wrote them, and to whom? Nirael has delivered two.
-- **Longbarrow's bread:** does anyone at Iron-Spire know what it does? And can the Weepers heal the change?
+- **Longbarrow's bread:** does anyone at Iron-Spire know what it does? *(The Weepers cannot heal the change; only a hag can undo it — ruleset, Iron Core, Mutation.)*
 - The Stonereach match: Cato Scutarius, the heir and a widower. Aerthos got to Stonereach first — Calvus Hordeus married the Duke's niece Aemilia (see [[Duchy of Stonereach]]).
 - Ellenst's children: how many, and do they know what they are to the coast?
 - What has the house's library kept about the Corvus valley before 8 A.A.?
