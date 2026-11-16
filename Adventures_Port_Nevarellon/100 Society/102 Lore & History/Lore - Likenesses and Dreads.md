@@ -71,4 +71,4 @@ What was never Named has no shape that mortals gave it, and never takes one.
 ## 🔗 Related
 [[Cosmology - The Celestial Graveyard and The war of Creation]] · [[Cosmology - The Tideways]] · [[Lore - The War-Made]] · [[Religion - The Pagan Pantheon and the Faith Domains]]
 
-**Crunch:** Likenesses and Dreads have stat blocks in the Iron & Marrow ruleset (Bestiary), under the **Named** Creature Type. Elementals are still `needs crunch`. Per the canon tracker's siloing rule, none of it is restated here.
+**Crunch:** Likenesses and Dreads have stat blocks in the Iron & Marrow ruleset (Bestiary), under the **Named** Creature Type. Elementals are still `needs crunch`. Per the canon tracker's blend rule, the mechanics live in the ruleset and are not restated here.

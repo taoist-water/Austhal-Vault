@@ -28,19 +28,7 @@ Your five-tier hierarchy (Continent → Region → Political Subdivision → Set
 
 ### Step 3: Draw isochrones, not miles
 
-The most useful visualization tool here isn't a ruler-measured map — it's rings of _equal travel time_ from your hub (Port Nevarellon), where the ring's physical radius changes depending on which mode/terrain you're following out from the city. Here's that applied to what's already canon:
-
-This gives you a repeatable framework, but the fastest way to build the intuition is to see it. Here's the technique applied directly to what's already canon in your vault — Port Nevarellon as hub, with the actual travel times from The Inner Sea.md and Silted Marshes.md plotted as time-distance, not mile-distance:
-
-V
-
-visualize
-
-![218](https://www.google.com/s2/favicons?domain=claudemcpcontent.com&sz=32)
-
-visualize show_widget
-
-The core insight is right there in the shape: the marsh spoke's furthest marked point represents _more_ elapsed time (4–7 days) than the sea spoke's furthest point (2–3 days), but it sits physically closer to the hub. That's not a bug — it's the method working. Terrain speed, not raw mileage, is what should determine where you place things on your map.
+The most useful visualization tool here isn't a ruler-measured map — it's rings of _equal travel time_ from your hub (Port Nevarellon), where the ring's physical radius changes depending on which mode/terrain you're following out from the city. Applied to what's already canon, with Port Nevarellon as the hub and the travel times from The Inner Sea.md and Silted Marshes.md plotted as time, not miles *(the original diagram was not saved)*: the marsh spoke's furthest marked point represents _more_ elapsed time (4–7 days) than the sea spoke's furthest point (2–3 days), but it sits physically closer to the hub. That's not a bug — it's the method working. Terrain speed, not raw mileage, is what should determine where you place things on your map.
 
 **Reverse-engineering rough miles from what's already written**, using the benchmarks above:
 

@@ -21,11 +21,13 @@
 - **Daily life:** [[Lore - Hearth and Threshold]] — the customs people keep against the dark
 
 ## 🔮 The Rules of the World
-- **Cosmology:** [[Cosmology - The Great Fracture]] · [[Cosmology - The Celestial Graveyard and The war of Creation]]
-- **Creatures:** [[Lore - Hags]] · [[Lore - Wretches]] · [[Lore - Lycanthropes]]
+- **Cosmology:** [[Cosmology - The Great Fracture]] · [[Cosmology - The Celestial Graveyard and The war of Creation]] · [[Cosmology - The Tideways]]
+- **Magic:** [[Lore - Arcana]]
+- **Creatures:** [[Lore - The War-Made]] · [[Lore - Likenesses and Dreads]] · [[Lore - Hags]] · [[Lore - Wretches]] · [[Lore - Lycanthropes]]
 - **Calendar & Sky:** [[Framework - The Coastal Reckoning]]
 - **History:** [[History - The Broken Crown of Austhal]]
 
 ## 📝 Creator Tools
 - [[iron and marrow canon tracker|Canon Tracker]]
 - [[Framework - The Three Layers]] · [[Reference - Name Tables]]
+- [[_Minor Cast Index|Minor Cast Index]] — the named minor NPCs

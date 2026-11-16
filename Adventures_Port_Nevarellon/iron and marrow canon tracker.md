@@ -14,6 +14,13 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-11-16 — Housekeeping
+- **The Rusty Tankard stands just outside the Basin's Toll Gates**, not inside them. The Basin admits the Un-Landed only by day with a token, and the Tankard's Un-Landed keeper, residents and drinkers (Kaleb, Maccorrack, Lidda, the night brawls) need it outside. Its labourers now drink before the token-call and after the curfew bell. The cellar drain still runs under the Basin's walls, which makes it a way in past the checkpoint. Supersedes "the Tankard is in the Basin" (2026-11-15 entry).
+- **The Celestial Graveyard's war diagram** names the seven Creators by side (no "Creator gods"), lists the War-Made on both sides (carriers; peoples and instruments), and shows the Two-Faced on both.
+- **The siloing rule is gone from the crunch footers** of seven notes (Tideways, Likenesses, Arcana, War-Made, Wretches, Hags, Hearth); they cite the blend rule.
+- **_Home** links the Tideways, Arcana, the War-Made, Likenesses and Dreads, and the Minor Cast Index. **The distances note** loses its pasted chat debris.
+- **Ruleset wording:** the Bestiary's *Rupture-Prone* trait says "wrack-bled essence", not "arcane radiation". Mechanics unchanged.
+
 ### 2026-11-16 — The Arcanist made the weapons; the bread changes people
 - **Eldrick's Arcanist made the weapons** (TheTao). The workings are in his Grimoire; the essence came from Longbarrow's live fragments, the ones Marrowmill does not send to the Guild. **Closes** "who made the weapons" (entry below and the Nirael entry, 2026-10-17). Still open: who taught him, and who wrote the letters.
 - **Eating De Vonce bread risks mutation** (TheTao). In-world, De Vonce's people die young and many simply go, and the duchy blames the shafts, the levy and the floods. **GM:** grain from the bleeding fields changes some who eat it over the years; the changed are killed by their villages, or flee north to the Scar-Holders, and Senna Cade lets them through the ford. Longbarrow calls them *bitten*, so the barrow-wolves take the blame (Lore - Lycanthropes gains a GM line). Consistent with wrack's known effect on flesh (Morgran; the Twelgorn Blessing).
@@ -403,7 +410,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Burial grounds · nitre-yards | Outside the landward wall, downwind of the Slips | The Ashen Veil's grounds and paupers' pits; the Guild's saltpetre heaps | The Foundry Slips; The Guild of Alchemists | **NEW 2026-10-03** |
 | The Great Anchor Basin | District / harbour; deep water under the High Quarter cliffs | The coast's only deep-water port (~2,500 residents, half of them Company); Landed zone; Golden Company garrison; 20–40 deep-water keels registered | The Great Anchor Basin; Wondrous Markets | — |
 | The Sovereign's Gate | Great Anchor Basin | Golden Company HQ and toll-keep | The Golden Company | — |
-| The Rusty Tankard | Great Anchor Basin | Tavern / Cobalt Feather dead-drop run by Kaleb (she/her) | The Rusty Tankard.md | Basin policing = Golden Company patrols |
+| The Rusty Tankard | Outside the Great Anchor Basin's Toll Gates | Tavern / Cobalt Feather dead-drop run by Kaleb (she/her) | The Rusty Tankard.md | Basin policing = Golden Company patrols |
 | The Shades | Muddy Docks | Brothel/black bank in a grounded carrack; Dolly Sisters | The Shades.md | **Deed contested** — Garrick holds a second deed |
 | The Black Mast Warehouse | Northern wharf, Muddy Docks | Iron-Anchor HQ; Garrick's and Maeve's residence | Iron-Anchor; Garrick; Maeve | **Empty file — gap** |
 | The Drowned Rat Tavern | Muddy Docks | Maeve's hidden ledger office | Iron-Anchor; Muddy Docks | **Empty file — gap** |
@@ -729,7 +736,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Vane's Book | The most-copied Grimoire on the coast; "which Vane do you work from?" | Lore - Arcana | — |
 | The Grey Lady | The coast's named visitation on the House of Mercy stair. **GM:** a Likeness of the Loving Mother | Lore - Hearth and Threshold | The Loving Mother (Bestiary) |
 | Name-cord | An inland traveller's cord, knotted once for every homestead that took them in; their name said back at each door | Lore - Hearth and Threshold | — |
-| Hedge Featherfall | The inland's family-made Featherfall, with hen feathers and the name carved on the post for a passing keeper | Lore - Hearth and Threshold | **Not Last Rites** (TheTao): the rite takes a practising faithful |
+| Hedge Featherfall | The inland's family-made Featherfall, with hen feathers and the name carved on the post for a passing keeper | Lore - Hearth and Threshold | **Not Last Rites** (TheTao): the rite takes a practising faithful — in the ruleset, a priest of the Veil with the Adept Death prayer |
 | The Post-Walk · Post-Walkers | Ashen Veil priests and acolytes travelling the known world, giving Last Rites at graves buried without a keeper | The Cult of the Ashen Veil; Lore - Hearth and Threshold | Last Rites at a grave — in the ruleset |
 | The feather-cut | One slanting notch under the name on a grave-post: the rite has been given. Can be faked | The Cult of the Ashen Veil; Lore - Hearth and Threshold | — |
 | The Nurse · the Come-Home · Plumb-bob · Pool-Child | A Mother's War-Made carrier · a double · the Plumb's marking instrument · a lesser fey of still water | Lore - Hearth and Threshold; Lore - The War-Made | Statted (ruleset, Bestiary) |

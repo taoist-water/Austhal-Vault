@@ -20,12 +20,16 @@ Directly before the mortals executed their deicide, the cosmos experienced an **
 ```text
                     [ THE EXPLOSION OF CREATION ]
                                 |
-                    +-----------------------+-----------------------+
-              [ "THE ALLIANCE" ]                                [ "THE WEAPONIZERS" ]
-         (the name history gave them)                      (the name history gave them)
+              +-----------------+-----------------+
+       [ "THE ALLIANCE" ]                  [ "THE WEAPONIZERS" ]
+   (the name history gave them)        (the name history gave them)
 
-- Mortals (Human, Elf, Dwarf, Halfling)                    - Creator gods who fought to save the Sphere
-- Creator gods who gambled on individuation                - Manufactured monstrous races, built as living weapons
+- Mortals (Human, Elf, Dwarf, Halfling)   - Creators who fought to save the Sphere:
+- Creators who gambled on individuation:    the Bastion, the Unmoving, the Plumb
+  the Mother, the Quiet, the Ebb          - Their War-Made: peoples and instruments,
+- Their War-Made: carriers, not weapons     built as living weapons
+
+              [ THE TWO-FACED ] fought on both sides
 ```
 
 1. **The Wager:** By this point, individuation had already begun rotting the Sphere from within — the gods themselves were fracturing, naming, feeling. A number of creator gods, watching the eternal cycle they'd maintained since before memory begin to curdle, made a wager: better to let the mortals finish tearing it open and gamble on whatever came after, than watch the corruption spread forever. History remembers these gods, and the mortals who fought beside them, as **the Alliance** — but that name was given by the survivors, after the fact, to a coalition that was equal parts genuine hope and plain self-interest.

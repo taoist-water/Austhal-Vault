@@ -89,4 +89,4 @@ The **Edicts of Armament** say nothing about Grimoires, and no magistrate has ye
 ## 🔗 Related
 [[Cosmology - The Great Fracture]] · [[The Guild of Alchemists]] · [[Lore - Hags]] · [[The Golden Company]] · [[Duchy of De Vonce]]
 
-**Crunch:** Arcane casting, Paradigms, Grimoires and study have rules in the Iron & Marrow ruleset (Embracing the Abyss; Manipulating the Void). Per the canon tracker's siloing rule, this note does not restate them. A patron as a Downtime relationship is `needs crunch`.
+**Crunch:** Arcane casting, Paradigms, Grimoires and study have rules in the Iron & Marrow ruleset (Embracing the Abyss; Manipulating the Void). Per the canon tracker's blend rule, the mechanics live in the ruleset and are not restated here. A patron as a Downtime relationship is `needs crunch`.

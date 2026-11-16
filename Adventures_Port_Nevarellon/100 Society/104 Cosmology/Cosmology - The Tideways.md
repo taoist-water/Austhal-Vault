@@ -98,4 +98,4 @@ The shapes an adventure into the Tideways can take, built only from what is alre
 ## 🔗 Related
 [[Cosmology - The Great Fracture]] · [[Cosmology - The Celestial Graveyard and The war of Creation]] · [[Lore - Arcana]] · [[Lore - Hags]] · [[Reference - The Wondrous Markets]] · [[Framework - The Coastal Reckoning]]
 
-**Crunch:** crossing (ballast, anchor, the two dangers), the shallows as encounter ground, and the Void are `needs crunch` for the Iron & Marrow ruleset. Per the canon tracker's siloing rule, none of it is restated here.
+**Crunch:** crossing (ballast, anchor, the two dangers), the shallows as encounter ground, and the Void are `needs crunch` for the Iron & Marrow ruleset. Per the canon tracker's blend rule, the mechanics live in the ruleset and are not restated here.

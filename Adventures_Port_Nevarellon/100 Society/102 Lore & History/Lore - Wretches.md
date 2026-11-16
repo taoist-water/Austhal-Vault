@@ -41,4 +41,4 @@ A Wretch that is beaten does not die so much as **gutter out**, the place's grip
 ## 🔗 Related
 [[Lore - Hags]] · [[Silted Marshes]] · [[The Five Duchies of the Whispering Coast]] · [[The Cult of the Ashen Veil]]
 
-**Crunch:** Wretches and their three Skins have rules in the Iron & Marrow ruleset (Bestiary). Per the canon tracker's siloing rule, this note does not restate them.
+**Crunch:** Wretches and their three Skins have rules in the Iron & Marrow ruleset (Bestiary). Per the canon tracker's blend rule, the mechanics live in the ruleset and are not restated here.

@@ -7,14 +7,14 @@
 
 ## 📊 Quick Reference
 - **Type of Establishment:** Waterfront Tavern / Smuggler's Dead-Drop / Fencing Hub.
-- **District / Region:** [[000 Atlas/The Great Anchor Basin|The Great Anchor Basin]], Port Nevarellon.
+- **District / Region:** Just outside the Toll Gates of [[000 Atlas/The Great Anchor Basin|The Great Anchor Basin]], Port Nevarellon, where the token-call is held at dawn.
 - **Owner / Proprietor:** Officially registered under a shell name held by a minor Landed clerk; practically operated by [[Kaleb|Kaleb]].
 - **Affiliation:** [[100 Society/The Cobalt Feather Syndicate|The Cobalt Feather Syndicate]] (Front / Safehouse).
 
 ---
 
 ## 🪵 Architecture & Layout
-The Rusty Tankard sits wedged between two massive granite dry-dock warehouses on the outer rim of the Basin. It is a low-ceilinged, thick-timbered structure built from salvaged hull-planks of decommissioned warships. 
+The Rusty Tankard sits wedged between two massive granite dry-dock warehouses on the outer rim of the Basin, on the wrong side of the Toll Gates. It is a low-ceilinged, thick-timbered structure built from salvaged hull-planks of decommissioned warships. 
 
 - **The Taproom:** Dark, cramped, and smells perpetually of stale ale, wet wool, and cheap floor-sawdust used to soak up spilled grease. The tables are bolted directly into the floor-timbers to prevent them from being weaponized during arguments.
 - **The Corner Booths:** The back of the taproom features three deeply recessed booths shielded by thick wooden pillars. Due to the angle of the room and the low placement of the oil lamps, these booths remain in near-total shadow even during the noon shifts.
@@ -23,7 +23,7 @@ The Rusty Tankard sits wedged between two massive granite dry-dock warehouses on
 ---
 
 ## 💰 Atmosphere & Economy
-- **The Prices:** A pint of sour, watered-down harbor ale costs **2 cp**. A plate of salted herring and gray bread costs **1 cp**. Because the tavern sits within the Basin district, Un-Landed laborers frequently spend their entire daily earnings here in the last hours before the curfew bell sends them back out through the Toll Gates.
+- **The Prices:** A pint of sour, watered-down harbor ale costs **2 cp**. A plate of salted herring and gray bread costs **1 cp**. Because the tavern sits at the Toll Gates, Un-Landed laborers drink here twice a day: before the token-call at dawn, and after the curfew bell sends them back out of the Basin at dusk. Many spend the whole day's wage between the bell and closing.
 - **The Custom:** Open weapons are strictly forbidden inside the premises, conforming to the city's weapon laws. However, almost every patron has a palm-length rigging knife slipped into their boot or an iron-weighted sap hidden in their sleeve.
 
 ---

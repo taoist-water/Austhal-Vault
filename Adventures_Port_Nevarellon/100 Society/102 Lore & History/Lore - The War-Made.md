@@ -85,4 +85,4 @@ The Two-Faced fought on both sides. Its makings did too.
 ## 🔗 Related
 [[Cosmology - The Celestial Graveyard and The war of Creation]] · [[Cosmology - The Tideways]] · [[Lore - Likenesses and Dreads]] · [[Lore - Hags]] · [[Lore - Wretches]]
 
-**Crunch:** Malaphar, the Frost-Cave Troll, the Goblin Scrapper and the Orc Line-Breaker have rules in the Iron & Marrow ruleset (Bestiary). The Measurer, the Nurse and the Come-Home (a double) have stat blocks too. Siege-chimeras and leviathans are still `needs crunch`. Per the canon tracker's siloing rule, this note does not restate any of them.
+**Crunch:** Malaphar, the Frost-Cave Troll, the Goblin Scrapper and the Orc Line-Breaker have rules in the Iron & Marrow ruleset (Bestiary). The Measurer, the Nurse and the Come-Home (a double) have stat blocks too. Siege-chimeras and leviathans are still `needs crunch`. Per the canon tracker's blend rule, the mechanics live in the ruleset and are not restated here.

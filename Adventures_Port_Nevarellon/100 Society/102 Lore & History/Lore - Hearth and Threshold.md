@@ -150,4 +150,4 @@ Four of the customs answer things that have no other note yet.
 ## 🔗 Related
 [[Lore - Likenesses and Dreads]] · [[Lore - The War-Made]] · [[Lore - Wretches]] · [[Lore - Hags]] · [[Cosmology - The Tideways]] · [[Whispering Coast]] · [[The Cult of the Ashen Veil]] · [[The Tidespoken Clergy]]
 
-**Crunch:** the Nurse, the Come-Home, the Plumb-bob and the Pool-Child have stat blocks in the Iron & Marrow ruleset (Bestiary). **A Hedge Featherfall is not Last Rites; Last Rites can be given at a grave after burial** (both TheTao, 2026-11-14). Per the canon tracker's siloing rule, this note does not restate any rules.
+**Crunch:** the Nurse, the Come-Home, the Plumb-bob and the Pool-Child have stat blocks in the Iron & Marrow ruleset (Bestiary). **A Hedge Featherfall is not Last Rites; Last Rites can be given at a grave after burial** (both TheTao, 2026-11-14). Per the canon tracker's blend rule, the mechanics live in the ruleset and are not restated here.
