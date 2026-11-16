@@ -14,6 +14,11 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-11-16 — The Arcanist made the weapons; the bread changes people
+- **Eldrick's Arcanist made the weapons** (TheTao). The workings are in his Grimoire; the essence came from Longbarrow's live fragments, the ones Marrowmill does not send to the Guild. **Closes** "who made the weapons" (entry below and the Nirael entry, 2026-10-17). Still open: who taught him, and who wrote the letters.
+- **Eating De Vonce bread risks mutation** (TheTao). In-world, De Vonce's people die young and many simply go, and the duchy blames the shafts, the levy and the floods. **GM:** grain from the bleeding fields changes some who eat it over the years; the changed are killed by their villages, or flee north to the Scar-Holders, and Senna Cade lets them through the ford. Longbarrow calls them *bitten*, so the barrow-wolves take the blame (Lore - Lycanthropes gains a GM line). Consistent with wrack's known effect on flesh (Morgran; the Twelgorn Blessing).
+- **Ruleset wording:** the Bestiary's **Mutant** type no longer says "radiation"; it reads *essence bleeding out of wrack*. Mechanics unchanged. The bread is logged against the design backlog's mutations system.
+
 ### 2026-11-16 — What the rules created, recorded in the lore; two seams ruled
 - **The war-bone is still bleeding** (TheTao). **Reverses** the De Vonce GM line that the bone-meal is "almost entirely inert" (2026-10-07 entry below). Longbarrow's fields are war-ground close to the Wrecks, as the Tideways already said; the bone bleeds into the fields, which is why they are rich, and the bleeding quickens at the Low Moons. Marrowmill still sells the live fragments. Open: what the bread does.
 - **Eldrick hired the Arcanist behind his father's back** (TheTao). The man who died on the test-ground was Eldrick's kept Arcanist, on his captains' books and paid from his Valerius dividend; Tythius permits the tests and does not know the man existed. Narrows the Nirael entry's open questions (2026-10-17): **who the dead man was** is answered. **Who made the weapons** (the Arcanist, or the Guild or the Unsealed through him) and **who wrote the letters** stay open. Arcana's "he would not hire an Arcanist" stands as in-world truth about Tythius, with a GM line.
@@ -794,6 +799,7 @@ Chalced remnants · Kaleb's pronouns · Cobalt filename links · the Five Duchie
 - **Shamanism and the Grimoire.** Lore: song and skin-mark serve as a Grimoire (Lore - Arcana). Rules: Arcanists need a Grimoire. Pipeline.
 - **Malaphar** — a vast one in the lore, Standard-sized with no bargain in the Bestiary. Pipeline.
 - **Ship passage** at 1 sp a mile against the new scale; **the Naphtha Fire-Flask** against Brine-Fire; **poor lodging** (2 sp) against the Economy note (1–2 cp). Pipeline or a pricing pass.
+- **Mutation from De Vonce bread** has no mechanic. It needs the permanent injuries/mutations/diseases system in the design backlog; until then, GM fiat (Duchy of De Vonce, the war-bone).
 - **Smaller:** the Grimoire-copying stub (Soothing the Soul); no Salt-Hag Work or shard-free trade in Hag's Work; the Grunt Hag has no Surrender with a price; the Plumb-bob's trigger leaves out a body that has carried black wrack (Hearth and Threshold); the Measurer's "every mortal has strayed" against "a party with nothing strayed can walk past one".
 
 ---

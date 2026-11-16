@@ -26,6 +26,8 @@ Not resolved. Do not implement without explicit confirmation of direction first 
 
 Needed to properly resolve Apex Chimera's (Biomancer, Tier 3) Fumble clause: "the transformation destabilizes, resulting in a permanent, gruesome physiological penalty (GM's discretion)." Currently just GM fiat with no mechanical shape. Worth a real design pass rather than a single-feat fix — a proper system here would also give teeth to any other "permanent consequence" clause elsewhere in the corpus.
 
+- **Lore that needs it (2026-11-16):** De Vonce's bread. Grain from Longbarrow's bleeding fields carries a slow risk of mutation for anyone who eats it, over years (Duchy of De Vonce, the war-bone). Also Morgran's Undertow-touched change and Twelgorn's Reach-touched Blessing. Until the system exists, GM fiat.
+
 ## Per-turn Momentum-spend cap (raised 2026-09-14)
 
 Raised while reviewing The Red Mist (Berserker, Tier 2): should there be a hard limit on how many separate Momentum spends a character can make in one turn/activation? Nothing caps it today — a character with several Momentum-spend triggers live in the same round (Twin Strike, The Chain, a Riposte-style reaction, Red Mist's retaliatory Strike, etc.) could chain several in one turn as long as the Momentum is banked. Not necessarily broken, but worth a deliberate yes/no. Touches every Momentum-spend feat across multiple documents, so scope as its own pass rather than folding into a single-document edit.

@@ -24,6 +24,7 @@
 > **What was not yet his** was everyone he would ever wound. The change copies itself into whatever it bites, and that is the price still being collected, long after the hag uprooted and the man died. **The curse is not a hag's work. It is the bill for one.**
 > **Why cold iron does nothing:** only the first was hag-worked, and a little fey for it. The rest were never touched by a hag; they are only paying. Silver works on all of them, and why is still open.
 > **What the change takes.** The first change took the first man's reason, and every change after takes the same: what hunts on the turning night has no Wits and no Will. The person comes back in the morning, and remembers. The Bestiary's **Barrow-Fang** is one of them, on its turning night.
+> **Not everyone Longbarrow calls bitten was.** Some of them are the bread (see [[Duchy of De Vonce]], the war-bone).
 
 ---
 
