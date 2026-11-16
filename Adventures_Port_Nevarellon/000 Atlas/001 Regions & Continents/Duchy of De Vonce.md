@@ -69,9 +69,10 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 - **The Levy Muster** opens the High Turns. Every vassal brings his levy to the Muster Field below Iron-Spire to be counted and inspected, and the year's border rotations are drawn.
 - **The border levy** is the largest standing levy on the coast. Companies rotate out to the Corvus-facing towers for a season at a time. It is the single heaviest line in the Duke's accounts, and the Council's subsidy has never covered it.
 - **Adder's Gate** stands at the end of the Concord Road's military spur, above the ford at Bittern's Ford. It is the last garrison before the ash, and its castellan is **[[Castellan Senna Cade]]**. Two fortress guns face the valley mouth; they are the only guns any duke keeps. Knights were offered the post and refused it. **Wardstone Watch**, the second tower, answers to her as well, and everyone knows it is undermanned.
-- **The weapon tests.** The Duke permits his garrison captains to test certain "controlled" weapons — alchemical, and Undertow-touched — on ground in the upper Sisters. The tests run under Eldrick's captains. Senna Cade will not have them on her ground.
+- **The weapon tests.** The Duke permits his garrison captains to test certain "controlled" weapons — alchemical, and Undertow-touched — on ground in the upper Sisters. The tests run under Eldrick's captains. Their fires are kept with Ashcopse charcoal, by Ashcopse burners hired for the work. One test went wrong, and the man running it did not walk out. Senna Cade will not have them on her ground.
 
-> **GM-facing.** Where the weapons come from is not settled: the Guild, the Unsealed, or someone closer to home (see Open Questions). They work. They are also exactly the kind of essence-touched thing the Low Moons destabilise, and the tests have been stockpiling them a day's ride from the Scar.
+> **GM-facing — Eldrick's Arcanist.** The man who died was an **Arcanist**, and he was Eldrick's. Eldrick hired him behind his father's back, kept him on his captains' books, and paid him out of his mother's Valerius dividend (see [[Lore - Arcana#🎩 The kept Arcanist|the kept Arcanist]]). Tythius permits the tests. He does not know the man existed, and the captains have every reason to keep it that way. The dead man's Grimoire and his letters walked out of the fire with an Ashcopse burner, and the captains have not asked for them back (Nirael Bracken; ruleset, The Meat).
+> **Who made the weapons** is still open: the Arcanist himself, or the Guild or the Unsealed through him. His Grimoire would say, to anyone who could read it (see Open Questions). The weapons work. They are also exactly the kind of essence-touched thing the Low Moons destabilise, and the tests have been stockpiling them a day's ride from the Scar.
 
 ---
 
@@ -83,14 +84,14 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 | Iron ore | Mines in the Sisters; smelted at **Hollowforge** | [[Framework - The Guilds of Port Nevarellon\|The Smiths and the Shipwrights]]; refined iron through the Basin |
 | **High-Steel** | Refined only at **Coldhelve**, under Serrian | The Golden Company, nobles, sanctioned guild-masters — the monopoly is decreed jointly by the Council and the Duke because the steel is his (see [[Law - The Council's Edicts]]) |
 | Oak | **The Iron Wood**; rafted down the Slowmarrow | The Coopers (staves) and the Shipwrights (timber) |
-| Charcoal | **Ashcopse** and the oak stands | Hollowforge's furnaces; [[The Guild of Alchemists]] |
+| Charcoal | **Ashcopse** and the oak stands | Hollowforge's furnaces; [[The Guild of Alchemists]]; the weapon tests' fires |
 | Bone-meal | **Longbarrow** ploughs it up; **Marrowmill** grinds it | Fertiliser for the duchy's own fields |
 | Water | The aqueduct's headwater at **Spine-Head**, kept by the crews at **Cistern Camp** | [[Port Nevarellon]], for which the Council pays De Vonce every year |
 
 - **The mines** are worked hard and badly. Shafts flood in the Winter Moons, and the mine-captains are paid by the ton, not by the man. The Duke knows and looks away, because the ton pays for the border.
 - **Once a year the Weepers walk the mine-towns** and heal for nothing (see [[The Cult of the Weeping Martyr]]). The mine-captains welcome them, because a healed miner goes back down.
 
-> **GM-facing — the war-bone.** The bone Longbarrow ploughs up is the petrified remains of the War of Creation (see [[Cosmology - The Celestial Graveyard and The war of Creation]]). Ground to meal it is almost entirely inert, and the fields it feeds are the richest in the duchy. *Almost*: now and then a fragment is still wrack. Marrowmill's miller sells those, quietly, to the Guild's wrack-assayers. The locals who will not eat the bread are wrong about the bread and right about the mill.
+> **GM-facing — the war-bone.** The bone Longbarrow ploughs up is the petrified remains of the War of Creation (see [[Cosmology - The Celestial Graveyard and The war of Creation]]), and **it is still bleeding**. The war-fields are war-ground, close to the Wrecks (see [[Cosmology - The Tideways]]), and every spring's ploughing turns up more. Ground to meal and spread on the fields, the bone bleeds into them, and that is why they are the richest in the duchy. At the Low Moons, when the moons drag on everything unanchored, the bleeding quickens (see [[Framework - The Coastal Reckoning]]). Some fragments are still wrack outright. Marrowmill's miller sorts those out and sells them, quietly, to the Guild's wrack-assayers. Nobody has proved the bread does harm. The locals who will not eat it are not waiting for proof, and they are right about the mill.
 
 ---
 
@@ -157,13 +158,15 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 - **The Blooding:** does the Shard-Blade's cut leave a mark with mechanical weight?
 - **High-Steel:** refining, price, and what Coldhelve can supply.
 - **The Undertow-touched weapons** being tested in the Sisters, and their behaviour at the Low Moons.
-- **War-bone:** wrack in the bone-meal (wrack-assay).
+- **War-bone:** the bleeding fields — wrack in the bone-meal (wrack-assay), and what the Low Moons do on war-ground.
 - **Elven-blooded ageing:** Tythius, and his quarter-elven children.
 
 ---
 
 ## ❓ Open Questions
-- **Who made the weapons?** The Guild, the Unsealed, or someone closer — Imaihil's library is the obvious place to look, and possibly the wrong one (see [[The Guild of Alchemists]]).
+- **Who made the weapons?** Eldrick's Arcanist, or the Guild or the Unsealed through him. The answer is in his Grimoire, and Imaihil's library is the wrong place to look (see [[The Guild of Alchemists]]).
+- **The Arcanist's letters:** who wrote them, and to whom? Nirael has delivered two.
+- **Longbarrow's bread:** does eating it do anything?
 - The Stonereach match: Cato Scutarius, the heir and a widower. Aerthos got to Stonereach first — Calvus Hordeus married the Duke's niece Aemilia (see [[Duchy of Stonereach]]).
 - Ellenst's children: how many, and do they know what they are to the coast?
 - What has the house's library kept about the Corvus valley before 8 A.A.?

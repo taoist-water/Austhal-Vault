@@ -10,6 +10,8 @@ Religion across the Whispering Coast is deeply paganistic. The cults pray to **D
 
 > **GM-facing.** The Creators are dead. What answers a prayer is a Domain: a specific current of shattered essence, drawn from all through the Tideways rather than sorted neatly into the High Reach or the Undertow (see [[Cosmology - The Great Fracture]]). But the "gods" the faithful pray to are not nothing. Mortal belief gave each Domain a face, and the face rose and took form — the Reach share (see [[Cosmology - The Celestial Graveyard and The war of Creation#🌗 The Three Shares|The Three Shares]]). It can gather, listen and now and then answer back, and it is what the ruleset calls a priest's patron. The miracles are real; every cult's explanation of them is its own. The one Creator remnant that speaks with a voice of its own is in the south — see [[The Twelgorn Kingdom]].
 
+> **GM-facing — priests no current claims.** Most priests are claimed: bound to one Domain for good and blessed by it (the ruleset's Covenant). Two kinds are not. A **heretic** prays to several Domains and is held by none of them, so every prayer is a fresh persuasion, and harder for it (the Heretic's Path). A **ritualist** knows the forms and says them correctly, and the current answers the forms and never the person: never by name, and never past the first prayers (the Ritualist). Their miracles are as real as anyone's. *(Ruleset: The Marrow, Divine Conduit and Ritualist.)*
+
 ---
 
 ## 1. The Domain of Strategy (The Cult of the Iron Horizon)

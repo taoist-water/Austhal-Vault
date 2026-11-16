@@ -20,6 +20,8 @@
 - **The western gate** — where the Long Graft begins, with Ubaraz's carts waiting in a line for the toll.
 - **The storm-lamp** — on the highest tower, lit whenever a storm comes down the passes. Under storm-right every keep in Stonereach answers it with its own.
 
+> **GM-facing.** A child in the Keystone crews' quarters has Durga Long-Snare's eyes and does not know her name. Durga keeps the child safe from a distance (ruleset, The Meat).
+
 ---
 
 ## 👥 Who Holds It

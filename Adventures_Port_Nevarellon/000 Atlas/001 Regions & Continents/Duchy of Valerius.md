@@ -50,7 +50,7 @@ The house is a syndicate with a coronet, and it means it. The family holds the d
 | Place | Tier | What it is |
 |---|---|---|
 | **[[Saltmere]]** | T2 | The ducal seat: a walled port town above the pans |
-| **Brinewick** | T2 | Salt-pans and cured fish; the largest bond-worked pans on the coast. Its bond-master is [[Bond-Master Tallis Gorrius]] |
+| **Brinewick** | T2 | Salt-pans and cured fish; the largest bond-worked pans on the coast. Its bond-master is [[Bond-Master Tallis Gorrius]]. Its callers' verses are sung up and down the coast |
 | **Netherquay** | T1 | A small port and the Coastal Meridian's resupply stop |
 | **Palefast** | T1 | A fort on Palefast Head, guarding the coastal road where it narrows |
 | **Coldspar** | T1 | A cliff village, with wrecking accusations never proven |

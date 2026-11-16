@@ -38,6 +38,7 @@ The [[The Golden Company|Golden Company]]'s charter was recognised under the Acc
 
 - **The stamp rule binds everyone; the penalty depends on class.** A Landed tavern-keeper caught selling unstamped goods pays the fine and is quietly embarrassed. An Un-Landed seller pays or goes to the debt-prisons. It is the Powder Edict's shape again: the law is the same for everyone and does not land the same on anyone.
 - **Deed businesses need guild-masters.** A tavern that wants Basin labour, or wants its barmaid's grievance heard, has to go through one. That is the market [[Ottavian Kress]]'s sponsorship network trades in.
+- **Banking houses** are deed businesses: they hold coin, not a craft. Every town has one, or a broker who acts for one; a hamlet has neither (ruleset, Soothing the Soul, *Finance Bank*). A house moves specie between its own branches and its correspondents — the grain factors' counting-houses on Millhaven's Factors' Row, the Valerius bond-houses at Saltmere — and somewhere on every courier route, somebody skims. An Un-Landed depositor's account is real. If the house will not pay it, no court will make it.
 - **Why Garrick wants a charter.** His deeds already let him *own* whatever he likes. What they can't do is employ legally in the Basin, arm his men with High-Steel, or give his dockers a road into court. A guild does all three.
 
 > *Rules-side flag: if the Iron & Marrow ruleset has business-ownership or downtime rules, this guild / deed split bears on them.*
@@ -49,6 +50,7 @@ Every city guild does all of these.
 
 - **The stamp.** Under the Guild-Tax, anything sold without a Landed Guild-Master's stamp costs the seller **1 sp** or a term in the debt-prisons (see [[Economy - the Price of Survival]]). So masters rent their stamps. Under **stamp-rent**, the carver's toy and the fisher's catch are sold under a master's wax, for a cut. Most of the Docks' legal trade is somebody else's.
 - **The token.** Un-Landed labourers enter [[The Great Anchor Basin]] only with a Guild-stamped daily work-token. At dawn the masters' clerks stamp the day's tokens at the Basin gates — **the token-call**. If no master stamps you, you don't work in the Basin today.
+  - **The year-token.** At the **Boot-Change** in [[The Foundry Slips]], the Union gives out the year's places on its gangs. A year-token is the Union's, not a guild's, and it stamps nothing. What it buys is the front of the line at every dawn token-call, because a master who passes over a Union gang finds his cargo rotting on deck. Everyone else takes day-tokens, when a regular doesn't show.
 - **Sponsorship.** An Un-Landed grievance reaches the High Courts only through a Landed Guild-Master, framed as "damage to the Master's labor force." [[Ottavian Kress]] built a Council seat on selling this.
 - **Search.** A master may enter any member's shop to check goods and weights. The guild seizes bad work and fines the maker itself, before any magistrate hears of it.
 - **The ladder:**

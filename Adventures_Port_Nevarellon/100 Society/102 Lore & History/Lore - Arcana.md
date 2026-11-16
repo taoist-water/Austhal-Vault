@@ -37,6 +37,8 @@ Wealthy houses keep an Arcanist on staff. The practical reasons are real: someon
 - **Titles.** Households give their Arcanists titles: *Reckoner to the House*, *Philosopher*, *Archmage*. The titles mean nothing outside the house that gave them, and the street knows it. *Archmage* is a vanity title that some forgotten household gave Vane, and it stuck.
 - **The houses.** The Valerius and Aerthos courts, which already keep Envoys for show, compete for Arcanists the same way. **Duke Tythius De Vonce** refuses to retain an Envoy on principle, and he would not hire an Arcanist either. His house grew its own: **Imaihil De Vonce** keeps the library at Iron-Spire, corresponds with the Guild's Chapter-House about its moon-tables, and twice has gone to the edge of the Scar to bring back soil and water in stoppered jars (see [[Duchy of De Vonce]]).
 
+> **GM-facing.** One De Vonce did hire an Arcanist. **Eldrick** kept one behind his father's back, on his captains' books, to run the weapon tests in the upper Sisters, and the man died when a test went wrong (see [[Duchy of De Vonce]]). He is the one kept Arcanist on the coast whose patron never showed him to anyone.
+
 ## 🤝 Hands and correspondences
 There are no colleges, towers or orders of Arcanists, and never have been on this coast.
 - **A hand.** One practitioner and one or two wards who copy their master's notation and learn to read it. When the master dies, the wards inherit the Grimoire and spend years arguing over what it meant.

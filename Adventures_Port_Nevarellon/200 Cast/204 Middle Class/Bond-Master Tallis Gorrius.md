@@ -32,6 +32,8 @@ He came to Brinewick as a clerk, made himself indispensable to the Bonds book, b
 
 **The Crock.** Every pan-gang keeps a crock. Each worker drops a pinch of every wage into it — a few coppers a turn — and at Salt-Draw the gangs pool their crocks and buy out one bond, chosen by lot. One worker walks free each year. Tallis allows it. He has worked out that it costs him one worker a year and buys him eleven months of quiet, and he calls it the cheapest thing he owns.
 
+**The callers.** Every pan-gang has a caller to keep the rakes in time, and Brinewick's best for forty years has been an elf the gangs call **Folly** (Iolo Neapwater; ruleset, The Meat). His verses are about the Table voting on the weather, Junia's fifteen years on the Bonds book, and where the Bond-Master's wine goes, and gangs up and down the coast sing them. Tallis lets them. A gang that sings rakes in time.
+
 **The Dry Pans.** When a runaway heads north into the old pans, Tallis sends no one after them. *The pans take their turn*, he says. If he is asked whether he believes what the bond-rows whisper about the woman with the cup, he changes the subject (see [[Duchy of Valerius]]).
 
 > **GM-facing.** He is not losing. He is the counterweight to [[Castellan Senna Cade]] and [[Reeve Colm Hollick]]: a Layer 2 holder who is competent, rational and entirely comfortable, and who sleeps well.

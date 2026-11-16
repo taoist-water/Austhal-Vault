@@ -92,7 +92,7 @@
 ## ❓ Open Questions
 - Who keeps the Notch this winter? *(An NPC, when one is needed.)*
 - Kaelen's people before the settlement: did they have a name, and does Ubaraz remember them?
-- Is there anything else of the drake in the high Spine besides the jaw?
+- Is there anything else of the drake in the high Spine besides the jaw? *(Something came down off the high Spine onto the Long-Snare camp — see [[Duchy of Stonereach]].)*
 
 ## 🔗 Connected Notes
 - [[Religion - The Pagan Pantheon and the Faith Domains]] — the Domain and the paragon

@@ -77,6 +77,7 @@ Stonereach is a human duchy built by dwarven hands.
 | **Sleetfall** | T1 | Snowed in four months a year, and self-governing by necessity |
 | **Grimscree** | T0 | The granite quarry on the scree; appalling attrition |
 | **Pilgrim's Notch** | T0 | A Rime-Fang shrine waystation on the Long Graft: free shelter, no questions |
+| **The Long-Snare camp** | T— | A dwarven hunters' camp on the Long Graft, empty since the Deepcold something came down off the high Spine and took it. One Long-Snare walked out, and the keeps still buy her winter's work |
 | **The Unburied's barrow** | T— | Sealed into the mountainside above Sleetfall. The village keeps it sealed, and its Fang-mother keeps the old stories |
 
 > **GM-facing — the Unburied.** **Halgrim** was a king of [[Ubaraz Kingdom|Ubaraz]], three hundred years dead, from when Ubaraz's kings held the high passes, before the settlers came. The coast calls him *the Unburied*; the King-Ban binds the coast's own, not Ubaraz. He refused to go, and the Unmoving held him at the line, in his own bones (see [[Cosmology - The Celestial Graveyard and The war of Creation#⛵ The Going-Out: What Happens to the Dead|The Going-Out]]). When he stirs, the village's fear of the barrow gathers **the Frost That Stops** around it (see [[Lore - Likenesses and Dreads]]). His **Grave-Crown** lies with him. *(Ruleset: Playtest A5; Bestiary, Halgrim the Unburied; Hardware, the Grave-Crown.)*
