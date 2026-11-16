@@ -60,6 +60,7 @@ In the last year of the Civil War, a fleet of the King's armada sortied from Por
 The teaching that feeds the Docks also lights the pyres. Anything that **refuses the tide** is an abomination:
 - **Hags** — to the Tongues, things born of water that refused to move, which then work the Undertow into living flesh. The Tidespoken hunt them, and the **Low Moons** are their season: the only nights a hag is out of her ground and on the move (see [[Lore - Hags]]).
 - **The hag-made.** Anything shaped from Undertow wrack belongs to the Undertow. Anyone a hag has worked on is a little fey afterwards, and the Tongues burn them. They want [[Morgran the Abomination|Morgran]] burned, and the hag who made him burned first.
+- **The changed.** Flesh the wrack has rewritten with no hag's help: a wrack-carrier's hooked hands, gills on a De Vonce farm boy, a child born wrong. To the Tongues it is the Undertow taking a body from the inside, and they do not ask which wrack did it. They hunt the changed the way they hunt hags, and lately they have taken the hunt out of the Docks and up the Road into De Vonce (see [[Duchy of De Vonce]]).
 - **Wretches** — a place refusing to give up its dead. The Tongues have no quarrel with the Ashen Veil, which carries Wretches out; they quarrel with the marsh.
 - **The Weeping Martyr's elders** — priests who will not age refuse the tide as surely as a hag does. The Tongues say so from the Sea-Wall; the Weepers heal half the Docks, so they do not say it loudly (see [[The Cult of the Weeping Martyr]]).
 

@@ -14,6 +14,11 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-11-16 — Mutations: fishing allowed, the Fourth Change, the Tidespoken
+- **Fishing for mutations is allowed** (TheTao). The cost is social: the changed are shunned, and the Tidespoken hunt them.
+- **The Fourth Change retires the character** (TheTao): dead, or lost to the madness and devolution of the change. **Replaces** the grace period in the entry below. A hag can undo a mutation before the fourth comes, never after.
+- **The Tidespoken hunt the changed** (TheTao), "at this point". The Tidespoken Clergy note gains a line under *What the Tide Must Take*. They don't ask which wrack did it, and they have lately taken the hunt up the Road into De Vonce. The Mutation section's GM callout points to it.
+
 ### 2026-11-16 — Mutations (ruleset)
 - **New ruleset section: Iron Core, *Mutation (What the Wrack Leaves)*.** It went through the rules pipeline (drafter, breaker, continuity). One d12 **Mutation Table**, with three ways in:
   - **Hag's Work:** bought and chosen; costs a shard, Attunement and a Price; the bearer counts as Fey.
@@ -26,7 +31,7 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
   - **De Vonce:** "Most never do" becomes "Most go years without it" to fit the yearly rate. The Weepers question is answered: they cannot heal it.
 - **Lore–rules notes (blend rule):** De Vonce's "a child born wrong" has no player rule; the section allows it as a GM call for NPCs (both sides logged here). The Mutant Bane (Quicksilver-Traced Edge, Rare) is harder to get than the Fey Bane (Cold Iron, Scarce); left as is, flagged for a pricing pass. A Mutant NPC template does not exist yet.
   - **The design backlog:** mutations resolved; injuries and diseases still open.
-- **Pipeline agents updated to the blend rule:** rules-drafter, rules-breaker and continuity-auditor no longer say rules and worldbuilding are kept apart.
+- **Pipeline agents (blend rule): NOT applied.** The bridge cannot write to `.claude/`. The updated rules-drafter, rules-breaker and continuity-auditor are in the Batch 30 outputs for TheTao to copy in by hand.
 
 ### 2026-11-16 — Housekeeping
 - **The Rusty Tankard stands just outside the Basin's Toll Gates**, not inside them. The Basin admits the Un-Landed only by day with a token, and the Tankard's Un-Landed keeper, residents and drinkers (Kaleb, Maccorrack, Lidda, the night brawls) need it outside. Its labourers now drink before the token-call and after the curfew bell. The cellar drain still runs under the Basin's walls, which makes it a way in past the checkpoint. Supersedes "the Tankard is in the Basin" (2026-11-15 entry).
