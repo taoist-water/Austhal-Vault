@@ -94,6 +94,7 @@ North of Brinewick lie the old pans. Two generations ago a storm cut the channel
 ## ⚖️ Leverage & Power Dynamics
 - **The exit.** If the Road closes, Valerius keeps trading.
 - **The debt.** Valerius is owed by De Vonce's knights, by House Hordeus, and by half the city. Its weakness is the same fact: **it is owed more than the coast can pay.** If Aerthos or the Iron Court defaults, someone has to foreclose on a duke's son or a blooded knight, and nobody can.
+- **The Blackcopse road.** The bond-gangs reach the Scar's mouth only across De Vonce's strip of the Concord Road, by leave of the levy at Adder's Gate. The pans' sluice-gates and drying racks depend on it. It is the one thing on the coast Valerius needs from De Vonce and cannot buy, and its own debtors hold the gate (see [[Duchy of De Vonce]]).
 - **Kin.** Through Cassia, Valerius is blood to the De Vonce heir. Through Faustina, it married into the Hordeus heir (see [[Valerius Family]]).
 - **The Council.** Its closest ties on the coast: Valerius salt passes through Sallow's Victuallers, and the Table and the Council speak the same language.
 - **The Golden Company:** a standing Envoy at Saltmere (see [[The Golden Company]]).

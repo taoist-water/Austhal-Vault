@@ -130,7 +130,7 @@ Tythius's nephew, kept far from the succession and close to the forges: **master
 - **[[Jeerdan Darcy]].** The Duke demands his paper, and the Warden and the castellan at Adder's Gate get on very well.
 - **[[High Captain Marco]]** wants the border reports from Adder's Gate. Tythius will not share them.
 - **Stonereach:** the match the Duke wants and his daughter refuses. Duke Brennus has not answered either, and the Road's north-east leg is a running quarrel over winter provisioning.
-- **Valerius:** blood kin through Cassia, and creditor to half the Iron Court.
+- **Valerius:** blood kin through Cassia, and creditor to half the Iron Court. **The Blackcopse road** is the one thing De Vonce holds over it: Valerius's bond-gangs reach the Scar's mouth only across De Vonce's strip of the Road, by leave of the levy at Adder's Gate. Tythius has never closed it, and never had to say that he could.
 - **Aerthos:** feeds the border levy. Duke Felician offered his daughter Livia to Eldrick two years ago, and Tythius has not answered (see [[Duchy of Aerthos]]).
 - **Tuwal Ghorun:** a daughter at the Gathering.
 - **The Scar.** The Adderwater is the border in law and nowhere else. De Vonce has been grazing and cutting north of it since 8 A.A. Eldrick wants it done openly, and the Scar-Holders at the ford stand in the way.

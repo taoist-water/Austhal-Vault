@@ -22,6 +22,7 @@ These are the choices `Maps/The Whispering Coast.html` already drew, now canon i
   - the Adderwater runs east below Adder's Gate and Bittern's Ford, and joins the Colding above Coldspar;
   - the Blackrun drains into Lake Ashen, and nothing drains out.
 - **Blackcopse fixed (found while settling the seams):** Corvus said Blackcopse "cannot be felled" and "will not burn", yet Valerius cut it "for the salt-pans' fires". Valerius now hauls the **fallen** Blackcopse for sluice-gates and drying racks, because brine does not rot it.
+- **The Blackcopse road (TheTao asked for it):** De Vonce's one lever over its creditor. Valerius's gangs cross De Vonce's strip of the Road by leave of the levy at Adder's Gate. Tythius has never closed it. Logged in both duchy notes, under Leverage.
 
 ### 2026-11-16 — Session zero: party entry points
 - **New note:** `400 Meta/Session Zero - Party Entry Points`. It holds six entry points (TheTao: the roster as pre-gens *and* an open slot for player-made characters). Each has an in-world pitch, why the party sticks, a hook per roster character, an opening scene and a GM callout. They all run toward the **Opening Low Moons of 59 A.A.**
