@@ -5,7 +5,7 @@
 -**The Main Known Continent**
  - **regions within:** [[Whispering Coast]] (including [[The Five Duchies of the Whispering Coast|the Five Duchies]]), [[Silted Marshes]], [[The Twelgorn Kingdom| The Kingdom of Twelgorn]], [[Wastelands| The Wastelands]], [[The Inner Sea| Inner sea]], [[The Jagged Spine]], [[Ubaraz Kingdom|The Ubaraz Kingdom]], [[The Kald Mountain Territory|The Kald Mountain Territory]]
 
-> **GM-facing.** Austhal is roughly the size of Australia — about three million square miles. The [[Whispering Coast]], at roughly New South Wales and Victoria together, is about an eighth of it, and its settled corner (the Five Duchies) is about the size of England and Wales. Nobody on the coast knows this; their maps stop at the Kald.
+> **GM-facing.** Austhal is roughly the size of Australia — about 7.7 million square kilometres. The [[Whispering Coast]], at roughly New South Wales and Victoria together, is about an eighth of it, and its settled corner (the Five Duchies) is about the size of England and Wales. Nobody on the coast knows this; their maps stop at the Kald.
 
 - **Bordering Areas:** [[Link Region/City A]], [[Link Region B]]
 - **Terrain Type:** (e.g., Jagged cliffs, salt marshes, dense pine valleys)

@@ -14,6 +14,11 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-11-17 — Kilometres
+- **GM-facing measurements are now in kilometres** (TheTao). That covers the maps (`Maps/The Whispering Coast.html` and the Inkscape base), the distances note's pace table, the Whispering Coast and Austhal scale lines, and the tracker's tables. The 2026-11-13 entry below keeps its miles as history.
+- **In-world, the coast still says *miles*.** Notes in the people's voice keep the word: Valerius's "a mile across", the Foundry Slips' "quarter-mile" rope-walk, Jeerdan Darcy's "three hundred miles of road", the horse's "twenty miles further than you deserve". It's the period word, and nobody on the coast has heard of a kilometre.
+- **The rules stay in feet and miles.** Combat moves in feet throughout, so Hardware's travel prices (coach 3 cp/mile, messenger 2 cp/mile, ship's passage 1 sp/mile) stay per mile. A metric ruleset would be its own decision. Ship passage against the new scale is still on the pipeline list.
+
 ### 2026-11-17 — Three map seams settled
 These are the choices `Maps/The Whispering Coast.html` already drew, now canon in the notes.
 - **The Millhaven spur leaves the Concord Road just outside the city** and runs west along the River Aer, past Toll-on-Aer and Sheafcross. It does **not** leave from Castle Iron-Spire: Millhaven is 2–3 days out, and Iron-Spire 3–4. The Five Duchies sketch is redrawn to match, which also agrees with the Aerthos towpath.
@@ -389,9 +394,9 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 
 | Name | Region / map position | One-line summary | Established in | Notes / conflicts |
 |---|---|---|---|---|
-| Austhal | Top-level continent | The known continent; regions: Whispering Coast (incl. Five Duchies), Silted Marshes, Inner Sea, Twelgorn, Wastelands. **≈ Australia (~3M sq mi)** | Austhal.md; History | Jagged Spine, Ubaraz and Kald added to the region list 2026-10-07. File partly template. **Scale set 2026-11-13** |
-| The Whispering Coast | Region within Austhal | Port Nevarellon + the Five Duchies (the settled corner) + the wild inland; borders Silted Marshes, Ubaraz, Kald Mountain Territory, Inner Sea. **≈ NSW + Victoria (~400k sq mi)** | Whispering Coast.md | Hierarchy **resolved 2026-09-28**. **Scale set 2026-11-13.** File partly template |
-| The wild inland | West of the Five Duchies to the Kald, ~600–700 miles | Unheld country, ~5/6 of the Whispering Coast; no ducal, Council or Company writ | Whispering Coast.md | **NEW 2026-11-13.** Nothing else established |
+| Austhal | Top-level continent | The known continent; regions: Whispering Coast (incl. Five Duchies), Silted Marshes, Inner Sea, Twelgorn, Wastelands. **≈ Australia (~7.7M km²)** | Austhal.md; History | Jagged Spine, Ubaraz and Kald added to the region list 2026-10-07. File partly template. **Scale set 2026-11-13** |
+| The Whispering Coast | Region within Austhal | Port Nevarellon + the Five Duchies (the settled corner) + the wild inland; borders Silted Marshes, Ubaraz, Kald Mountain Territory, Inner Sea. **≈ NSW + Victoria (~1M km²)** | Whispering Coast.md | Hierarchy **resolved 2026-09-28**. **Scale set 2026-11-13.** File partly template |
+| The wild inland | West of the Five Duchies to the Kald, ~1,000–1,100 km | Unheld country, ~5/6 of the Whispering Coast; no ducal, Council or Company writ | Whispering Coast.md | **NEW 2026-11-13.** Nothing else established |
 | The Five Duchies of the Whispering Coast | Political subdivision of the Whispering Coast | Five ancestral human duchies bound by the Ducal Accord; banned from the title "King" | The Five Duchies…md | — |
 | Duchy of De Vonce (Iron Court) | Directly north of the city, foothills of the Jagged Spine; the Corvus valley's mouth opens onto it | Iron/timber; largest feudal levy; **holds the Spine Aqueduct headwater** | Five Duchies; Tythius De Vonce; **Duchy of De Vonce** | **Full note 2026-10-07 (draft)** |
 | Castle Iron-Spire | De Vonce foothills, where the Road forks | Seat of House De Vonce, cut into a rust-weeping ironstone spire; ~3–4 days by horse, 7–9 by wagon | Five Duchies; Three Layers; Castle Iron-Spire | **Filled 2026-10-07 (draft).** The widows' bread is its mote |
@@ -419,7 +424,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | Corvus Spire | Buried under Broken Ward | Ancestral seat; named for the peak that fell on it. **Broken Ward** is the folk name for the stump. The temple and the door lie under its deep works (GM) | Five Duchies; Name Tables T4 #9; Corvus Spire | **Filled 2026-10-08 (draft).** T— |
 | The Scar-Holders' steadings | Clean pockets inside the Scar | Squatters and farmers with no deed; the "chimneys that aren't supposed to exist" | Five Duchies | **The Quiet Steading allocated 2026-10-08** — the family at Senna Cade's ford. Also Ashenford, Cinderhollow, Blackrun, Corvus Low (Duchy of Corvus) |
 | Lake Ashen · Blackcopse · the Ash Plain · the Blackrun | Corvus Scar | Dead lake · unburnable dead timber · the dead heart · acid river | Duchy of Corvus; Name Tables T4 | **NEW 2026-10-08** |
-| The Ducal Concord Road | Port Nevarellon → Iron-Spire → NE to Granite Spire; spur west to Millhaven; military spur north to Adder's Gate | Only infrastructure the Council and Dukes built together; ~300 miles; four garrison posts | Five Duchies; Three Layers; Jeerdan Darcy | Warden: Jeerdan Darcy. The military spur ends at Adder's Gate, facing the Scar |
+| The Ducal Concord Road | Port Nevarellon → Iron-Spire → NE to Granite Spire; spur west to Millhaven; military spur north to Adder's Gate | Only infrastructure the Council and Dukes built together; ~480 km; four garrison posts | Five Duchies; Three Layers; Jeerdan Darcy | Warden: Jeerdan Darcy. The military spur ends at Adder's Gate, facing the Scar |
 | Adder's Gate | De Vonce; end of the Road's military spur | Border fort facing the Corvus Scar — the last garrison before the ash | Five Duchies; Three Layers; Name Tables T3 #4 | **NEW 2026-10-07.** Castellan: Senna Cade |
 | **The Spine Aqueduct** ("the Duke's Straw") | Western foothills of the Jagged Spine, inside De Vonce → High Quarter cisterns | The city's only piped fresh water; built pre-Accord; shares a corridor with the Concord Road | Three Layers; Port Nevarellon; Five Duchies; Tythius | **NEW ROW.** Tythius's non-use is the mote |
 | River Aer | Aerthos → tidal estuary at Port Nevarellon | Grain-barge river; salt pushes upstream on every flood tide, so it's brackish at the city | Port Nevarellon; Five Duchies; Name Tables T4 #14 | **NEW 2026-09-28** |
@@ -427,7 +432,7 @@ The exiled royal children founded nothing; they bought asylum in the already-anc
 | The Coastal Meridian | Inner Sea, along the mainland | Main shoal-free sea-lane | The Inner Sea | — |
 | The Shield Atolls | Eastern rim of the Inner Sea | Barrier islands; the drowned continuation of the Jagged Spine ridge | The Inner Sea | No file (wanted link) |
 | The Greenback | Outer Shield Atolls, past Bone Shoal | Jungle island of the lizardfolk; the Temple of the Lost God (GM: the Sunken God is a leviathan) | The Inner Sea; Playtest A4 | **NEW 2026-11-15** |
-| Oakhaven Cove | Northernmost shield island | Crater-harbour township; master port for the monster-hunting fleets; 200–450 miles from the city | The Inner Sea | No file. Morgran **no longer** based here |
+| Oakhaven Cove | Northernmost shield island | Crater-harbour township; master port for the monster-hunting fleets; 320–720 km from the city | The Inner Sea | No file. Morgran **no longer** based here |
 | **Saltlight** | Shield Atolls | T0 hamlet; harvests the algae for the Brine-Glow Lanterns | Name Tables T2 #40; The Guild of Alchemists | **Promoted 2026-09-29** |
 | The Broken Spires | Northern Inner Sea | Drowned ridge — mountain, not masonry; same heat-scarred fracturing as Corvus, so the seam runs north-east | The Inner Sea; Five Duchies | No file |
 | The Broken Ocean | Beyond the atolls | Open ocean; every Wondrous Market lies across it | The Inner Sea; Wondrous Markets | — |

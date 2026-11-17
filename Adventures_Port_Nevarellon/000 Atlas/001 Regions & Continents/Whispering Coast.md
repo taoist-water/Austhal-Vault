@@ -4,8 +4,8 @@
 ## 🗺️ Geography & Scope
 - **Bordering Areas:** [[The Jagged Spine]] and [[Ubaraz Kingdom]] (north), [[The Inner Sea]] (east), [[Silted Marshes| Silted Marshes]] (south), [[The Kald Mountain Territory| Kald Mountain Territory]] (west, across the wild inland)
 - **Map:** see [[The Five Duchies of the Whispering Coast#🧭 Lay of the Coast|Lay of the Coast]]
-- **Scale:** Short of shore and deep in land. The sea-front between the Spine and the marshes runs a few hundred miles; behind it the country runs west some six to seven hundred miles to the Kald, widening as the Spine and the marsh-country fall away inland. Roughly four hundred thousand square miles in all.
-- **The settled corner:** [[The Five Duchies of the Whispering Coast|The Five Duchies]] and [[Port Nevarellon]] hold the coastal corner. Nothing in them lies much more than two hundred miles from the city — [[Granite Spire]], the furthest seat, is 6–8 days by horse. That is perhaps a sixth of the coast.
+- **Scale:** Short of shore and deep in land. The sea-front between the Spine and the marshes runs about five hundred kilometres; behind it the country runs west some 1,000–1,100 km to the Kald, widening as the Spine and the marsh-country fall away inland. Roughly a million square kilometres in all.
+- **The settled corner:** [[The Five Duchies of the Whispering Coast|The Five Duchies]] and [[Port Nevarellon]] hold the coastal corner. Nothing in them lies much more than three hundred kilometres from the city — [[Granite Spire]], the furthest seat, is 6–8 days by horse. That is perhaps a sixth of the coast.
 - **The wild inland:** Everything west of the duchies' last ploughland and pasture. No duke rules it, the Council does not tax it, and the Golden Company does not ride it. People live there anyway.
 - **Terrain Type:** (e.g., Jagged cliffs, salt marshes, dense pine valleys)
 - **Climate & Weather Patterns:** (e.g., Heavy seasonal monsoons, constant maritime fog)
