@@ -14,6 +14,24 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-11-16 — Session zero: party entry points
+- **New note:** `400 Meta/Session Zero - Party Entry Points`. It holds six entry points (TheTao: the roster as pre-gens *and* an open slot for player-made characters). Each has an in-world pitch, why the party sticks, a hook per roster character, an opening scene and a GM callout. They all run toward the **Opening Low Moons of 59 A.A.**
+  1. **The Boot-Change** (Foundry Slips, the Shuttering)
+  2. **The Paper** (Valerius buys their debts; Brinewick Salt-Draw)
+  3. **The Ford** (a changed Ashcopse boy to Bittern's Ford and the Scar)
+  4. **The Unchaining** (Divtown; Retrievers)
+  5. **The Letters** (Nirael's correspondence)
+  6. **The Match** (Tythius's letter to Granite Spire)
+- **New canon it commits** (each placed in its entry):
+  - **The Boot-Change falls in Sleetbreak.**
+  - **Silas Bane has been taking Brine-Fire from Guild stock** under cover of Maeve's shaded manifests.
+  - **Valerius bond-houses buy up coast debt** (The Paper).
+  - **A changed Ashcopse boy**, son of one of the three families Nirael informed on (unnamed).
+  - **A sixth survivor of Skell's company**, alive as Retriever bait (unnamed; Register C).
+  - **The recipients of the Arcanist's remaining letters** (recommended): Mother Marra, Lidda Shoon, a Fang-mother at Sleetfall, a Valerius bond-house at Saltmere, someone in Divtown. The two already delivered stay open.
+  - **The two recipients so far** went quiet and paid Nirael to leave.
+  - **Eldrick knows** Tythius's letter to Stonereach left, but not what it says.
+
 ### 2026-11-16 — Mutations: fishing allowed, the Fourth Change, the Tidespoken
 - **Fishing for mutations is allowed** (TheTao). The cost is social: the changed are shunned, and the Tidespoken hunt them.
 - **The Fourth Change retires the character** (TheTao): dead, or lost to the madness and devolution of the change. **Replaces** the grace period in the entry below. A hag can undo a mutation before the fourth comes, never after.

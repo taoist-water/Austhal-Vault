@@ -31,3 +31,4 @@
 - [[iron and marrow canon tracker|Canon Tracker]]
 - [[Framework - The Three Layers]] · [[Reference - Name Tables]]
 - [[_Minor Cast Index|Minor Cast Index]] — the named minor NPCs
+- [[Session Zero - Party Entry Points]] — six ways to start a party
