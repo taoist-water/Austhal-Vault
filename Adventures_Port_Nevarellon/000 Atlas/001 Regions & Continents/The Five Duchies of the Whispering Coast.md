@@ -22,9 +22,9 @@ The Whispering Coast faces east onto [[The Inner Sea]]. [[The Jagged Spine]] wal
       (valley head)                                   Granite Spire    ╲  drowns NE as
           ╲__________ CORVUS SCAR (the valley) _________╱   ╱           ╲ the Shield Atolls
                                           Adder's Gate     ╱ Road NE
- KALD          AERTHOS                         │          ╱
- (wild       Millhaven ◄──── spur ──── Castle Iron-Spire          VALERIUS         INNER
- inland)          ╲                            │ Road + aqueduct  Saltmere          SEA
+ KALD          AERTHOS                Castle Iron-Spire  ╱
+ (wild                                         │ Road + aqueduct  VALERIUS         INNER
+ inland)    Millhaven ◄── spur, along the Aer ─┐│                 Saltmere          SEA
   W                ╲── River Aer ──► PORT NEVARELLON ◄── Coastal Meridian ──          E
                           SILTED MARSHES ── Twelgorn beyond
                                      S
@@ -34,13 +34,13 @@ The Whispering Coast faces east onto [[The Inner Sea]]. [[The Jagged Spine]] wal
 - **Aerthos** lies inland to the west, along the River Aer, which comes down off its plains and reaches the sea at Port Nevarellon's bay head.
 - **Valerius** holds the cliff coast north of the city, a day's sail up the Coastal Meridian.
 - **Stonereach** holds the high passes of the north-eastern Spine. They follow the crest of the range west to Ubaraz.
-- **Corvus** was the long valley cut into the Spine's southern flank. Its mouth opens south-east onto De Vonce, and all four standing duchies touch its edges — which is why all four have been eating into it since the fall.
+- **Corvus** was the long valley cut into the Spine's southern flank. Its mouth opens south-east onto De Vonce at the Adderwater. De Vonce, Aerthos and Stonereach touch its edges; Valerius reaches its mouth across the Concord Road and a strip of De Vonce. That is why all four have been eating into it since the fall.
 - **[[Ubaraz Kingdom|Ubaraz]]** lies at the head of that valley: the realm furthest from the coast, dug into the same range that runs down to the sea. Until 8 A.A. its trade came down the Corvus valley. Since the Ash-Blight, its only road to the coast runs along the crest, through Stonereach's passes.
 
 ---
 
 ## 🛣️ The Ducal Concord Road
-Following the Ducal Accord, the Council of Five and the four legitimate Duchies jointly funded and garrison a single overland highway linking Port Nevarellon to the inland ducal seats — the first infrastructure the merchant oligarchy and the old nobility have ever built together. It runs north out of the city through the De Vonce foothills to **Castle Iron-Spire**, then continues northeast into the passes toward Stonereach's **Granite Spire**, skirting the mouth of the Scar on its seaward side. A maintained spur splits west along the river road to Aerthos's **Millhaven**. Valerius's **Saltmere** relies primarily on [[The Inner Sea|The Coastal Meridian]] sea-lane, using the Concord Road only as a slower overland fallback when weather closes the coast. No road of any kind runs into the Corvus Scar. A short military spur runs north from Iron-Spire to the De Vonce border watch-towers facing it, and ends at **Adder's Gate**.
+Following the Ducal Accord, the Council of Five and the four legitimate Duchies jointly funded and garrison a single overland highway linking Port Nevarellon to the inland ducal seats — the first infrastructure the merchant oligarchy and the old nobility have ever built together. It runs north out of the city through the De Vonce foothills to **Castle Iron-Spire**, then continues northeast into the passes toward Stonereach's **Granite Spire**, skirting the mouth of the Scar on its seaward side, between the Scar and Valerius. A maintained spur leaves the Road just outside the city and runs west along the River Aer, past **Toll-on-Aer** and **Sheafcross**, to Aerthos's **Millhaven**. Valerius's **Saltmere** relies primarily on [[The Inner Sea|The Coastal Meridian]] sea-lane, using the Concord Road only as a slower overland fallback when weather closes the coast. No road of any kind runs into the Corvus Scar. A short military spur runs north from Iron-Spire to the De Vonce border watch-towers facing it, and ends at **Adder's Gate**.
 
 ---
 

@@ -14,6 +14,15 @@ Keep entries to one line where possible. This is a lookup tool, not a wiki — l
 
 ## 🔁 Retcon log
 
+### 2026-11-17 — Three map seams settled
+These are the choices `Maps/The Whispering Coast.html` already drew, now canon in the notes.
+- **The Millhaven spur leaves the Concord Road just outside the city** and runs west along the River Aer, past Toll-on-Aer and Sheafcross. It does **not** leave from Castle Iron-Spire: Millhaven is 2–3 days out, and Iron-Spire 3–4. The Five Duchies sketch is redrawn to match, which also agrees with the Aerthos towpath.
+- **Valerius does not touch the Scar.** Its inland edge stops at the Concord Road, with a strip of De Vonce between the Road and the Scar's mouth. De Vonce, Aerthos and Stonereach touch the Scar's edges; Valerius reaches the mouth across the Road. All four still eat into it.
+- **Rivers:**
+  - the Adderwater runs east below Adder's Gate and Bittern's Ford, and joins the Colding above Coldspar;
+  - the Blackrun drains into Lake Ashen, and nothing drains out.
+- **Blackcopse fixed (found while settling the seams):** Corvus said Blackcopse "cannot be felled" and "will not burn", yet Valerius cut it "for the salt-pans' fires". Valerius now hauls the **fallen** Blackcopse for sluice-gates and drying racks, because brine does not rot it.
+
 ### 2026-11-16 — Session zero: party entry points
 - **New note:** `400 Meta/Session Zero - Party Entry Points`. It holds six entry points (TheTao: the roster as pre-gens *and* an open slot for player-made characters). Each has an in-world pitch, why the party sticks, a hook per roster character, an opening scene and a GM callout. They all run toward the **Opening Low Moons of 59 A.A.**
   1. **The Boot-Change** (Foundry Slips, the Shuttering)

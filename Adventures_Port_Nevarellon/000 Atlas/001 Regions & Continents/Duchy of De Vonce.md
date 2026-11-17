@@ -12,7 +12,7 @@
 - **Terrain:** rolling hill-country climbing to **the Sisters**, the foothill ridge where the iron is mined. **The Iron Wood** covers the slopes below them: the oak stands that keep the city's coopers and shipwrights in work. In the lower valleys lie the **war-fields** around Longbarrow, where the plough turns up stone bone every spring.
 - **Rivers:**
   - **The Slowmarrow** runs south out of the war-fields and joins the Aer above Port Nevarellon. It carries the oak rafts down to the bay head, and the bone-silt with them.
-  - **The Adderwater** is the Corvus border in law. It has not been the border in practice since 8 A.A.
+  - **The Adderwater** is the Corvus border in law. It has not been the border in practice since 8 A.A. It runs east below Adder's Gate and Bittern's Ford, and joins the Colding above Coldspar on the Valerius coast.
 - **Weather:** the Winter Moons come straight down off the Spine. The upper Sisters are snowbound through Deepcold, the mines go to half-shifts, and the border towers are cut off for weeks at a time.
 - **Travel to Port Nevarellon:** ~3–4 days by horse from Castle Iron-Spire on the Concord Road; 7–9 for an ore or timber train. Oak goes faster by water, down the Slowmarrow on the spring flood.
 

@@ -8,13 +8,13 @@
 ---
 
 ## 🗺️ Lay of the Land
-- **Position:** the cliff coast north of [[Port Nevarellon]], running up the Inner Sea shore toward the Spine. De Vonce's foothills lie inland to the west. The mouth of the [[The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|Corvus Scar]] touches its inland edge (see [[The Five Duchies of the Whispering Coast#🧭 Lay of the Coast|Lay of the Coast]]).
+- **Position:** the cliff coast north of [[Port Nevarellon]], running up the Inner Sea shore toward the Spine. De Vonce's foothills lie inland to the west. The mouth of the [[The Five Duchies of the Whispering Coast#5. 💀 The Scarred Land: Duchy of Corvus (The Fallen Crown)|Corvus Scar]] lies just beyond its inland edge, across the Concord Road and a strip of De Vonce (see [[The Five Duchies of the Whispering Coast#🧭 Lay of the Coast|Lay of the Coast]]).
 - **Terrain:**
   - **The cliffs.** Sun-bleached limestone — the same stone as the High Quarter's — broken by shallow fishing bays.
   - **The pans.** Behind the cliffs lie lagoons and flats. **Coldspar Mere**, brackish, feeds the salt-pans.
   - **The Cropped Downs.** Wind-stunted and thin-soiled. The vineyards are terraced here for drainage and walled against the wind. With light coming from everywhere, nobody plants for sun (see [[Framework - The Coastal Reckoning]]).
   - **The headlands:** Gull Cape, with its cliff colonies, and Palefast Head.
-- **Rivers:** **The Colding** runs down off the Spine and freezes at its mouth in the deep Winter Moons.
+- **Rivers:** **The Colding** runs down off the Spine and freezes at its mouth in the deep Winter Moons. **The Adderwater**, De Vonce's border water, joins it above Coldspar.
 - **Weather:** the Winter Moons bring the Spine's sleet onto the northern waters, and the pans close. **The High Turns are the salt season**, and the turn of Saltdraw is named for it.
 - **Travel to Port Nevarellon:** ~1 day by galley along the Coastal Meridian in fair weather, 2 in poor. Overland is 4–5 days by the Concord Road and the cliff roads, which punish wagons. **Valerius is the one duchy that does not need the Road** (see [[Framework - The Three Layers]]).
 

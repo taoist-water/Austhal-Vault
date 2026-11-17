@@ -13,9 +13,9 @@
 - **What it is:** **the Scar.**
   - **The Ash Plain** is the dead heart of the valley.
   - **Broken Ward** is the stump of the fallen peak. Corvus Spire is buried beneath it (see [[Corvus Spire]]).
-  - **Lake Ashen** — nothing lives in it, and nothing has for fifty years.
+  - **Lake Ashen** — nothing lives in it, and nothing has for fifty years. The Blackrun drains into it, and nothing drains out.
   - **Blackcopse** is standing dead timber that will not burn and cannot be felled.
-  - **The Blackrun** runs with acidic sulphur.
+  - **The Blackrun** runs with acidic sulphur, down to Lake Ashen.
   - Under it all lies the **Ash-Blight**: Undertow-touched soot from the collapse, thick on the plain and thin in the wind-shadows.
 - **The clean pockets:** wind-shadowed valleys and seeps below the blight-line, where the ground will take a crop if you know which ground (see [[The Five Duchies of the Whispering Coast]]).
 - **Travel:** there is no lawful road. The Concord Road's military spur ends at Adder's Gate, facing the valley mouth.
@@ -92,7 +92,7 @@ The only people who live in the Scar, on the only land on the coast that nobody 
 Four duchies have been eating the Scar's edges for fifty years. None of it can ever be made lawful.
 - **De Vonce** grazes and cuts north of the Adderwater, with the levy at Adder's Gate watching both ways (see [[Duchy of De Vonce]]).
 - **Aerthos** ploughs the Wide Fallow under the valley's south-western rim, and moves the stones at night (see [[Duchy of Aerthos]]).
-- **Valerius** sends bond-gangs to cut dead timber at the valley's mouth for the salt-pans' fires. It is the only use anyone has found for Blackcopse that does not need it to burn (see [[Duchy of Valerius]]).
+- **Valerius** sends bond-gangs to the valley's mouth, across the Road and De Vonce's strip, to haul the Blackcopse that came down in the collapse. Standing, it cannot be felled; fallen, it can be dragged. It goes into the salt-pans' sluice-gates and drying racks, because brine will not rot it. It is the only use anyone has found for Blackcopse that does not need it to burn (see [[Duchy of Valerius]]).
 - **Stonereach** keeps a toll-keep on the upper rim, where the Long Graft looks down into the valley, and tolls whatever comes up out of it (see [[Duchy of Stonereach]]).
 
 ---
