@@ -17,7 +17,7 @@ Unlike the sinking wooden boardwalks of the slums, the Basin is lined with massi
 ## 🪵 Logistics, Wealth & Security
 - **The Paving Stones:** The Basin is strictly a **Landed Zone**. The streets are clean, wide enough for triple-hitched cargo wagons, and patrolled around the clock. 
 - **The Toll Gates:** Un-Landed laborers are permitted into the Basin only during daylight hours if they carry a valid, Guild-stamped daily work-token. Passing through the Basin's iron checkpoints costs the standard **1 cp Vagrancy Toll**, a extraction that ensures the truly destitute are kept out.
-- **The Security Force:** Security here is not left to the corrupt [[Faction - The Civic Constabulary (The Coppers)]]. The Basin is directly garrisoned by elite detachments of [[100 Society/101 Factions & Guilds/The Golden Company|The Golden Company]]. They enforce [[Law - The Council's Edicts]] with lethal precision—any Un-Landed laborer caught with a blade longer than a palm-width, or carrying a tool outside of working hours, is immediately stripped, beaten, and thrown into the harbor.
+- **The Security Force:** Security here is not left to the corrupt [[Faction - The Civic Constabulary (The Coppers)]]. The Basin is directly garrisoned by elite detachments of [[The Golden Company|The Golden Company]]. They enforce [[Law - The Council's Edicts]] with lethal precision—any Un-Landed laborer caught with a blade longer than a palm-width, or carrying a tool outside of working hours, is immediately stripped, beaten, and thrown into the harbor.
 
 ---
 

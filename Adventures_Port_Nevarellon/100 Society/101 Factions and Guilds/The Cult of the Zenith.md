@@ -13,7 +13,7 @@
 - **Current Leader:** [[High Arbiter Sevrin Kalder|High Arbiter Sevrin Kalder]]
 - **Primary Influence:** Regional. The only body on the Whispering Coast whose rulings are honoured on both sides of the [[History - The Broken Crown of Austhal|Ducal Accord]]
 
-The Zenith is the cult of the Domain of Law, venerating the Paragon **Aurelius the Architect** — the ancient warlord who unified the early human tribes by writing the first *Meditations on Law*, and who held that society must be ordered and chaos purged by fire. See [[Religion - The pagan Pantheon and the Faith Domains#3. The Domain of Law (The Cult of the Zenith)|Religion.md]] for the Domain's cosmological standing.
+The Zenith is the cult of the Domain of Law, venerating the Paragon **Aurelius the Architect** — the ancient warlord who unified the early human tribes by writing the first *Meditations on Law*, and who held that society must be ordered and chaos purged by fire. See [[Religion - The Pagan Pantheon and the Faith Domains#3. The Domain of Law (The Cult of the Zenith)|Religion.md]] for the Domain's cosmological standing.
 
 It is also, without anyone ever having decided this, the closest thing the coast has to a court above the Dukes.
 
@@ -49,7 +49,7 @@ The practical consequences are enormous and mostly ugly:
 
 ## 📜 The Register (Where the Teeth Actually Are)
 
-A pagan cult cannot excommunicate. There is no universal faith on the coast — defy the Zenith and go pray to the [[Religion - The pagan Pantheon and the Faith Domains#2. The Domain of Trickery (The Cult of the Crooked Coin)|Crooked Coin]] instead. So the Zenith's enforcement is not spiritual at all.
+A pagan cult cannot excommunicate. There is no universal faith on the coast — defy the Zenith and go pray to the [[Religion - The Pagan Pantheon and the Faith Domains#2. The Domain of Trickery (The Cult of the Crooked Coin)|Crooked Coin]] instead. So the Zenith's enforcement is not spiritual at all.
 
 **The Zenith are the notaries.** Under the [[Law - The Council's Edicts|Council's Edicts]], a citizen is Landed only if they hold a Council-stamped deed, a guild charter, or the papers on a deep-water keel. The Council *issues* those instruments. **The Zenith keeps the authoritative counter-copy**, and has done since the merchant houses first needed somewhere neutral to lodge contracts during the Civil War.
 
@@ -145,7 +145,7 @@ The Zenith will not hear a matter the High Courts could hear. It is not a court 
 ---
 
 ## 🔥 Faith & Practice
-Prayers are recited as passages of the *Meditations*, delivered at volume, and manifest as thunderclaps and searing white light — see [[Religion - The pagan Pantheon and the Faith Domains|Religion.md]]. Heavy comet pendants are worn by all ranks above Copyist; the comet is Aurelius's sign, a thing that arrives on a fixed and unalterable path whether or not anyone consents to it.
+Prayers are recited as passages of the *Meditations*, delivered at volume, and manifest as thunderclaps and searing white light — see [[Religion - The Pagan Pantheon and the Faith Domains|Religion.md]]. Heavy comet pendants are worn by all ranks above Copyist; the comet is Aurelius's sign, a thing that arrives on a fixed and unalterable path whether or not anyone consents to it.
 
 > **GM-facing — what answers.**
 > **The Plumb.** The Domain of Law is the remains of the Creator of **the true line**. In the Sphere it held the measure of every thing as it was meant to be, so the cycle could restore each one exactly. Individuation was deviation without end, and in the Naming the mortals called it the Judge (see [[Cosmology - The Celestial Graveyard and The war of Creation]]).
@@ -175,7 +175,7 @@ And the bias is not total. Every few years an Arbiter reads Aurelius the way he 
 - [[Keeper Merrit Dray|Keeper Merrit Dray]] — *Keeper of the Register. Dwarf, 118. A Stonereach hauler's son promoted for never once being wrong. Holds the only key that matters, used it once for eleven weeks, and is slowly being driven out of his own vault by the air in it.*
 
 ## 🔗 Connected Notes
-- **Doctrinal source:** [[Religion - The pagan Pantheon and the Faith Domains|Religion: The Pagan Pantheon & Faith Domains]]
+- **Doctrinal source:** [[Religion - The Pagan Pantheon and the Faith Domains|Religion: The Pagan Pantheon & Faith Domains]]
 - **The legal order it operates inside:** [[Law - The Council's Edicts|Law: The Council's Edicts]]
 - **The vacuum it fills:** [[History - The Broken Crown of Austhal|History: The Broken Crown of Austhal]]
 - **Existential rival:** [[The Cobalt Feather Syndicate|The Cobalt Feather Syndicate]]

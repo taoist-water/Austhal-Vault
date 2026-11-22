@@ -35,4 +35,4 @@ His given name is a **Senecus devotional** — his parents kept the Iron Horizon
 ## 🔗 Connected Notes
 - **Allies / Enablers:** [[Keeper Merrit Dray]] — perfect professional courtesy, total mutual awareness, nothing ever said. **Kalder knows Dray delayed something once. He has never asked, because he does not want the answer, which is precisely Dray's own reasoning turned around**
 - **Rivals / Creditors:** [[Lucia Marrenhal]] (the High Courts' jurisdictional cold war, conducted entirely through immaculate letters); the rigorist minority inside his own cult, who hold that the Zenith has no business arbitrating at all and who are not wrong; [[Alfric Danniken]] and the [[The Cobalt Feather Syndicate]], existentially
-- **Key Notes:** [[The Cult of the Zenith]], [[Religion - The pagan Pantheon and the Faith Domains]], [[History - The Broken Crown of Austhal]], [[Reference - The Wondrous Markets]]
+- **Key Notes:** [[The Cult of the Zenith]], [[Religion - The Pagan Pantheon and the Faith Domains]], [[History - The Broken Crown of Austhal]], [[Reference - The Wondrous Markets]]

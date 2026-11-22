@@ -9,7 +9,7 @@
 
 ## 📐 What This Document Is For
 
-The calendar of the Whispering Coast. It exists because [[Religion - The pagan Pantheon and the Faith Domains|the cults]] needed a year to hang their rites on, and because a setting where debts, tolls, writs, and contracts are the primary instruments of oppression cannot function without an agreed answer to *when is it due*.
+The calendar of the Whispering Coast. It exists because [[Religion - The Pagan Pantheon and the Faith Domains|the cults]] needed a year to hang their rites on, and because a setting where debts, tolls, writs, and contracts are the primary instruments of oppression cannot function without an agreed answer to *when is it due*.
 
 It is built from three things already in canon and invents no new cosmology:
 - The moons are the corpses of secondary creator-entities, each carrying its own soft luminous glow *(`Cosmology - The Celestial Graveyard`)*
@@ -202,6 +202,6 @@ The King-Ban makes regnal dating illegal. The coast therefore counts from the on
 
 - [[Cosmology - The Celestial Graveyard and The war of Creation|Cosmology: The Celestial Graveyard]] — the moons are corpses; this document is the consequence
 - [[Framework - The Three Layers|Framework: The Three Layers]] — the calendar is an unassigned Layer 1 chokepoint
-- [[Religion - The pagan Pantheon and the Faith Domains|Religion: The Pagan Pantheon]] — the cults whose rites hang on this year
+- [[Religion - The Pagan Pantheon and the Faith Domains|Religion: The Pagan Pantheon]] — the cults whose rites hang on this year
 - [[Law - The Council's Edicts|Law: The Council's Edicts]] — the instruments the Unwritten Day suspends
 - `Reference - Name Tables` — Table 3 festivals, now datable
