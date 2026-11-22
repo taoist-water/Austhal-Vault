@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "1b25f756552bd898",
+    "type": "split",
+    "children": [
+      {
+        "id": "f416535483a42d7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aa98132ffe58da0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Iron and Marrow Master rules/aa_Master_rules/9. Beasts Monsters Mutants (Bestiary).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Beasts Monsters Mutants (Bestiary)"
+            }
+          },
+          {
+            "id": "cf36a3bd3e64b4ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/home/tao/Arena_combat_game/00 Inbox/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "357fafa1ee12faf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/home/tao/iron-marrow-site/content/arena/Arena_combat_game/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "7b6ef7a66e5ff02e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "file:/home/tao/iron-marrow-site/content/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ],
+        "currentTab": 3,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ec990d5fc72f2f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ce48e2000740ea2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf9b17df2cdfe0a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2c9b83574a8b2381",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e28e5208b621a71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "93501b67f8fa8327",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 404.5
+  },
+  "right": {
+    "id": "da7259c6f24681c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "28274329911d1952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "376f27e664e62d8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f7a771e87b29901d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "300 Iron & Marrow Master rules/aa_Master rules/Soothing the soul (Downtime).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d695f5588c2f03ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "93502a9bb58d2002",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6e93c1353d0a1003",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "300 Iron & Marrow Master rules/aa_Master rules/The Meat (Player Characters).md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "53f301920b2a082b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7b6ef7a66e5ff02e",
+  "lastOpenFiles": [
+    "300 Iron and Marrow Master rules/aa_Master_rules/9. Beasts Monsters Mutants (Bestiary).md",
+    "300 Iron and Marrow Master rules/aa_Master_rules/5. Iron World (Environmental rules).md",
+    "300 Iron and Marrow Master rules/aa_Master_rules/2. Metal meet Flesh (Combat Mechanics).md",
+    "300 Iron and Marrow Master rules/aa_Master_rules/1. Iron Core (Core Rules).md",
+    "300 Iron and Marrow Master rules/aa_Master_rules/11. The Meat (Player Characters).md",
+    "400 Meta/Session Zero - Party Entry Points.md",
+    "400 Meta/Templates/Template - Faction.md",
+    "400 Meta/Templates/Template - Location - Settlement.md",
+    "300 Iron and Marrow Master rules/aa_Master_rules/4. Hardware (Equipment).md",
+    "300 Iron and Marrow Master rules/aa_Master_rules/6. The Marrow (Character Creation).md",
+    "300 Iron and Marrow Master rules/aa_Master_rules/3. Embracing the Abyss (Magic Mechanics).md",
+    "300 Iron and Marrow Master rules/aa_Master_rules/A4. Play Test - Temple of the Lost God.md",
+    "300 Iron and Marrow Master rules/aa_Master_rules/8. Manipulating The Void (Spells).md",
+    "300 Iron and Marrow Master rules/aa_Master_rules/A1. iron-marrow-character-sheet.pdf",
+    "200 Cast/205 NPCs/_Minor Cast Index.md",
+    "200 Cast/204 Middle Class/Provost Halvard Stross.md",
+    "200 Cast/204 Middle Class/Keeper Merrit Dray.md",
+    "200 Cast/204 Middle Class/High Captain Marco.md",
+    "200 Cast/204 Middle Class/Jeerdan Darcy.md",
+    "200 Cast/204 Middle Class/Castellan Senna Cade.md",
+    "200 Cast/204 Middle Class/First Envoy Isolde Vantry.md",
+    "200 Cast/204 Middle Class/Bond-Master Tallis Gorrius.md",
+    "200 Cast/205 NPCs/Ord Bracken.md",
+    "100 Society/106 Sundry Items & Artefacts/The Shard-Blade.md",
+    "100 Society/104 Cosmology/Cosmology - The Celestial Graveyard and The war of Creation.md",
+    "100 Society/102 Lore & History/Lore - Lycanthropes.md",
+    "100 Society/102 Lore & History/Lore - Likenesses and Dreads.md",
+    "300 Iron & Marrow Master rules/aa_Master_rules/A1. iron-marrow-character-sheet.pdf",
+    "200 Cast/205 NPCs",
+    "300 Iron & Marrow Master rules/aa_Master_rules/Claude outputs/worldbuilding-hags-wretches.diff",
+    "300 Iron & Marrow Master rules/aa_Master_rules/Claude outputs/Iron-and-Marrow-Rulebook.pdf",
+    "300 Iron & Marrow Master rules/aa_Master_rules/Claude outputs/hag-batch-1.diff",
+    "300 Iron & Marrow Master rules/aa_Master_rules/Claude outputs/iron-marrow-character-sheet.html",
+    "300 Iron & Marrow Master rules/aa_Master_rules/Claude outputs/iron-marrow-character-sheet.pdf",
+    "300 Iron & Marrow Master rules/aa_Master_rules/Claude outputs/powder-punk-batch-1.diff",
+    "300 Iron & Marrow Master rules/aa_Master rules/Playtest - Temple of the Lost God",
+    "Untitled.canvas"
+  ]
+}
